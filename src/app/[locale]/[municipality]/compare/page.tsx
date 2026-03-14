@@ -8,6 +8,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Skeleton } from "@/components/ui/skeleton";
 import type { MunicipalityData } from "@/lib/types";
+import { PartyAvatar } from "@/components/party-avatar";
 
 export default function ComparePage() {
   const t = useTranslations("compare");
@@ -72,7 +73,7 @@ export default function ComparePage() {
                   className="rounded-lg"
                   onClick={() => setSelected((s) => [...s, p.id])}
                 >
-                  + {p.name}
+                  <PartyAvatar name={p.name} size="sm" /> {p.name}
                 </Button>
               ))}
           </div>
@@ -173,7 +174,10 @@ export default function ComparePage() {
                           key={party.id}
                           className={`rounded-lg p-2.5 text-center text-xs ${colorClass}`}
                         >
-                          <p className="font-medium truncate">{party.name}</p>
+                          <div className="flex items-center justify-center gap-1 mb-1">
+                            <PartyAvatar name={party.name} size="sm" />
+                          </div>
+                          <p className="font-medium truncate text-[10px]">{party.name}</p>
                           <p className="mt-1 font-bold">
                             {position === "agree"
                               ? t("agree")

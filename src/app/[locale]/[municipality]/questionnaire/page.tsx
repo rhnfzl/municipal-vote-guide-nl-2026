@@ -10,6 +10,7 @@ import { Switch } from "@/components/ui/switch";
 import { Skeleton } from "@/components/ui/skeleton";
 import { Separator } from "@/components/ui/separator";
 import type { MunicipalityData, UserAnswer, Statement } from "@/lib/types";
+import { PartyAvatar } from "@/components/party-avatar";
 
 type InfoTab = "parties" | "moreInfo" | "arguments" | null;
 
@@ -271,7 +272,10 @@ export default function QuestionnairePage() {
                       <div className="space-y-1.5">
                         {partyPositions.agree.map((p) => (
                           <details key={p.name} className="rounded-lg bg-white p-3 dark:bg-gray-900">
-                            <summary className="cursor-pointer text-sm font-medium">{p.name}</summary>
+                            <summary className="cursor-pointer text-sm font-medium flex items-center gap-2">
+                              <PartyAvatar name={p.name} size="sm" />
+                              {p.name}
+                            </summary>
                             {p.explanation && (
                               <p className="mt-2 text-xs text-gray-500 leading-relaxed">{p.explanation}</p>
                             )}
@@ -290,7 +294,10 @@ export default function QuestionnairePage() {
                       <div className="space-y-1.5">
                         {partyPositions.neither.map((p) => (
                           <details key={p.name} className="rounded-lg bg-white p-3 dark:bg-gray-900">
-                            <summary className="cursor-pointer text-sm font-medium">{p.name}</summary>
+                            <summary className="cursor-pointer text-sm font-medium flex items-center gap-2">
+                              <PartyAvatar name={p.name} size="sm" />
+                              {p.name}
+                            </summary>
                             {p.explanation && (
                               <p className="mt-2 text-xs text-gray-500 leading-relaxed">{p.explanation}</p>
                             )}
@@ -311,7 +318,10 @@ export default function QuestionnairePage() {
                       <div className="space-y-1.5">
                         {partyPositions.disagree.map((p) => (
                           <details key={p.name} className="rounded-lg bg-white p-3 dark:bg-gray-900">
-                            <summary className="cursor-pointer text-sm font-medium">{p.name}</summary>
+                            <summary className="cursor-pointer text-sm font-medium flex items-center gap-2">
+                              <PartyAvatar name={p.name} size="sm" />
+                              {p.name}
+                            </summary>
                             {p.explanation && (
                               <p className="mt-2 text-xs text-gray-500 leading-relaxed">{p.explanation}</p>
                             )}

@@ -12,6 +12,7 @@ import { calculateMatches, generateMatchSummary } from "@/lib/scoring";
 import { ShareResults } from "@/components/share-results";
 import { IssueTuning } from "@/components/issue-tuning";
 import { PoliticalCompass } from "@/components/political-compass";
+import { PartyAvatar } from "@/components/party-avatar";
 import type {
   MunicipalityData,
   UserAnswer,
@@ -176,9 +177,10 @@ export default function ResultsPage() {
                   aria-label={`${match.partyName}: ${match.matchPercentage}% match. ${t("expandDetails")}`}
                 >
                   <div className="flex items-center gap-3">
-                    <span className="flex h-8 w-8 items-center justify-center rounded-full bg-gray-100 text-sm font-bold text-gray-500 dark:bg-gray-800">
+                    <span className="flex h-7 w-7 items-center justify-center rounded-full bg-gray-100 text-xs font-bold text-gray-400 dark:bg-gray-800 shrink-0">
                       {idx + 1}
                     </span>
+                    <PartyAvatar name={match.partyName} size="md" />
                     <div className="flex-1 min-w-0">
                       <div className="flex items-center gap-2">
                         <h3 className="font-semibold truncate">{match.partyName}</h3>
