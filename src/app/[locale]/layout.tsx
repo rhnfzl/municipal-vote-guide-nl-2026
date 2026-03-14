@@ -14,6 +14,9 @@ export const metadata: Metadata = {
   title: "Municipal Vote Guide NL 2026",
   description:
     "Find your best party match for the 2026 Dutch municipal elections. Bilingual (NL/EN) vote matching for all 258 municipalities.",
+  icons: {
+    icon: "/favicon.svg",
+  },
   openGraph: {
     title: "Municipal Vote Guide NL 2026",
     description: "Find your best party match for the 2026 Dutch municipal elections.",

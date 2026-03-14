@@ -1,17 +1,12 @@
 #!/usr/bin/env node
 /**
  * Scrape Municipality Coats of Arms (Gemeentewapens)
- * Downloads proper heraldic coats of arms from Wikimedia Commons.
+ * Downloads heraldic coats of arms from Wikimedia Commons.
  *
- * Source: Wikimedia Commons SVG coats of arms → PNG thumbnails at 256px.
+ * Uses Wikimedia REST API v1 (api.wikimedia.org) to find files,
+ * then downloads PNG thumbnails from the CDN.
+ *
  * All Dutch municipal coats of arms are public domain (PD-NL-gemeentewapen).
- *
- * Naming patterns tried (in order):
- *   1. {Name} wapen.svg
- *   2. Coat of arms of {Name}.svg
- *   3. Gemeentewapen {Name}.svg
- *   4. Wapen van {Name}.svg
- *   5. Search API fallback
  */
 
 import fs from "fs";
@@ -26,21 +21,9 @@ const INDEX_PATH = path.join(ROOT, "public", "data", "index.json");
 const LOGOS_DIR = path.join(ROOT, "public", "images", "municipalities");
 const LOGOS_JSON = path.join(ROOT, "src", "lib", "municipality-logos.json");
 
-const COMMONS_API = "https://commons.wikimedia.org/w/api.php";
+const REST_API = "https://api.wikimedia.org/core/v1/commons/file";
 const THUMB_WIDTH = 256;
-
-// Manual overrides for municipalities with non-standard Wikimedia filenames
-const FILE_OVERRIDES = {
-  "'s-Gravenhage": ["'s-Gravenhage wapen.svg", "Coat of arms of The Hague.svg", "Den Haag wapen.svg"],
-  "'s-Hertogenbosch": ["'s-Hertogenbosch wapen.svg", "Coat of arms of 's-Hertogenbosch.svg"],
-  "Hengelo (O.)": ["Hengelo wapen.svg", "Coat of arms of Hengelo.svg"],
-  "Rijswijk (ZH.)": ["Rijswijk wapen.svg", "Coat of arms of Rijswijk.svg"],
-  "Middelburg (Z.)": ["Middelburg wapen.svg", "Coat of arms of Middelburg.svg"],
-  "Beek (L.)": ["Beek (Limburg) wapen.svg", "Coat of arms of Beek.svg"],
-  "Stein (L.)": ["Stein wapen.svg", "Coat of arms of Stein (Limburg).svg"],
-  "Noardeast-Fryslân": ["Noardeast-Fryslan wapen.svg"],
-  "Súdwest-Fryslân": ["Sudwest-Fryslan wapen.svg"],
-};
+const USER_AGENT = "VoteGuideBot/2.0 (https://github.com/rhnfzl/municipal-vote-guide-nl-2026; bot-traffic@example.com)";
 
 // ── Helpers ──────────────────────────────────────────────────────────
 
@@ -48,7 +31,7 @@ function fetchUrl(url, maxRedirects = 5) {
   return new Promise((resolve, reject) => {
     if (maxRedirects <= 0) return reject(new Error("too many redirects"));
     https.get(url, {
-      headers: { "User-Agent": "VoteGuideBot/2.0 (municipal-vote-guide-nl-2026; contact: github.com/rhnfzl)" },
+      headers: { "User-Agent": USER_AGENT },
       timeout: 20000,
     }, (res) => {
       if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
@@ -75,156 +58,86 @@ function sleep(ms) {
   return new Promise((r) => setTimeout(r, ms));
 }
 
-// ── Rate-limited fetch with retry ────────────────────────────────────
+// ── Wikimedia REST API ───────────────────────────────────────────────
 
-async function fetchWithRetry(url, retries = 3) {
-  for (let attempt = 0; attempt < retries; attempt++) {
+/**
+ * Query a file via the Wikimedia REST API v1.
+ * Returns thumbnail URL if file exists, null otherwise.
+ */
+async function getFileThumbUrl(filename) {
+  const encodedFile = encodeURIComponent(`File:${filename.replace(/ /g, "_")}`);
+  const url = `${REST_API}/${encodedFile}`;
+
+  try {
     const res = await fetchUrl(url);
-    const text = res.data.toString("utf-8");
-    if (res.status === 429 || text.includes("too many requests")) {
-      const backoff = (attempt + 1) * 3000;
-      console.log(`    Rate limited, waiting ${backoff / 1000}s...`);
-      await sleep(backoff);
-      continue;
-    }
-    return res;
-  }
-  throw new Error("rate limited after retries");
-}
-
-// ── Wikimedia Commons API ────────────────────────────────────────────
-
-/**
- * Query Wikimedia Commons for image info of specific file titles.
- * Queries one title at a time to avoid encoding issues with pipes.
- */
-async function queryFileInfo(fileTitles) {
-  for (const title of fileTitles) {
-    const encodedTitle = encodeURIComponent(`File:${title}`);
-    const url = `${COMMONS_API}?action=query&titles=${encodedTitle}&prop=imageinfo&iiprop=url%7Csize&iiurlwidth=${THUMB_WIDTH}&format=json`;
-
-    try {
-      const res = await fetchWithRetry(url);
-      if (res.status !== 200) { await sleep(500); continue; }
-
+    if (res.status === 200) {
       const json = JSON.parse(res.data.toString("utf-8"));
-      const pages = json?.query?.pages;
-      if (!pages) { await sleep(500); continue; }
-
-      for (const page of Object.values(pages)) {
-        if (!page.missing && page.imageinfo?.[0]?.thumburl) {
-          return {
-            title: page.title,
-            thumburl: page.imageinfo[0].thumburl,
-            width: page.imageinfo[0].thumbwidth,
-            height: page.imageinfo[0].thumbheight,
-            size: page.imageinfo[0].size,
-          };
-        }
+      const thumbUrl = json?.thumbnail?.url;
+      if (thumbUrl) {
+        // Replace the default width with our desired width
+        return thumbUrl.replace(/\/\d+px-/, `/${THUMB_WIDTH}px-`);
       }
-    } catch {
-      // continue to next title
     }
-    await sleep(500);
+  } catch {
+    // ignore
   }
   return null;
 }
 
 /**
- * Search Wikimedia Commons for coat of arms files.
+ * Download a thumbnail via commons thumb.php (not the CDN).
+ * This endpoint is separate from the CDN and has different rate limits.
  */
-async function searchForCoatOfArms(municipalityName) {
-  const cleanName = municipalityName
-    .replace(/\s*\([^)]*\)/g, "") // strip parenthetical suffixes
-    .trim();
-
-  const queries = [
-    `wapen ${cleanName}`,
-    `coat of arms ${cleanName}`,
-    `gemeentewapen ${cleanName}`,
-  ];
-
-  for (const query of queries) {
-    const url = `${COMMONS_API}?action=query&list=search&srnamespace=6&srsearch=${encodeURIComponent(query)}&srlimit=5&format=json`;
-
-    try {
-      const res = await fetchWithRetry(url);
-      if (res.status !== 200) continue;
-
-      const json = JSON.parse(res.data.toString("utf-8"));
-      const results = json?.query?.search || [];
-
-      // Find the first SVG result that looks like a coat of arms
-      for (const result of results) {
-        const title = result.title;
-        if (title.endsWith(".svg") &&
-            (title.toLowerCase().includes("wapen") ||
-             title.toLowerCase().includes("coat of arms") ||
-             title.toLowerCase().includes("gemeentewapen"))) {
-          // Get the thumbnail for this file
-          const fileTitle = title.replace("File:", "");
-          const info = await queryFileInfo([fileTitle]);
-          if (info) return info;
-        }
-      }
-    } catch {
-      // ignore search errors
+async function downloadThumbPHP(filename, outPath) {
+  const wikiFilename = filename.replace(/ /g, "_");
+  const url = `https://commons.wikimedia.org/w/thumb.php?f=${encodeURIComponent(wikiFilename)}&w=${THUMB_WIDTH}`;
+  try {
+    const res = await fetchUrl(url);
+    if (res.status === 200 && res.contentType?.startsWith("image") && res.data.length > 1000) {
+      fs.writeFileSync(outPath, res.data);
+      return res.data.length;
     }
-    await sleep(100);
-  }
-
-  return null;
-}
-
-/**
- * Download an image from a URL to a file path.
- */
-async function downloadImage(imageUrl, outPath) {
-  const res = await fetchUrl(imageUrl);
-  if (res.status === 200 && res.data.length > 500) {
-    fs.writeFileSync(outPath, res.data);
-    return res.data.length;
+    if (res.status === 429) {
+      console.log("    Rate limited, waiting 15s...");
+      await sleep(15000);
+    }
+  } catch {
+    // ignore
   }
   return 0;
 }
 
-// ── Name Variant Generation ──────────────────────────────────────────
+// ── Filename Candidates ──────────────────────────────────────────────
+
+const FILE_OVERRIDES = {
+  "'s-Gravenhage": ["'s-Gravenhage wapen.svg", "Coat of arms of The Hague.svg"],
+  "'s-Hertogenbosch": ["'s-Hertogenbosch wapen.svg"],
+  "Hengelo (O.)": ["Hengelo wapen.svg"],
+  "Rijswijk (ZH.)": ["Rijswijk wapen.svg"],
+  "Middelburg (Z.)": ["Middelburg wapen.svg"],
+  "Beek (L.)": ["Beek (Limburg) wapen.svg"],
+  "Stein (L.)": ["Stein wapen.svg"],
+  "Noardeast-Fryslân": ["Noardeast-Fryslan wapen.svg"],
+  "Dijk en Waard": ["Gemeentewapen Dijk en Waard.svg"],
+};
 
 function getFilenameCandidates(name) {
-  // Check manual overrides first
-  if (FILE_OVERRIDES[name]) {
-    return FILE_OVERRIDES[name];
-  }
+  if (FILE_OVERRIDES[name]) return FILE_OVERRIDES[name];
 
-  const candidates = [];
-
-  // Clean name: strip parenthetical suffixes like "(O.)" or "(ZH.)"
   const cleanName = name.replace(/\s*\([^)]*\)/g, "").trim();
+  const candidates = [
+    `${cleanName} wapen.svg`,
+    `Coat of arms of ${cleanName}.svg`,
+    `Gemeentewapen ${cleanName}.svg`,
+    `Wapen van ${cleanName}.svg`,
+  ];
 
-  // Primary patterns
-  candidates.push(`${cleanName} wapen.svg`);
-  candidates.push(`Coat of arms of ${cleanName}.svg`);
-  candidates.push(`Gemeentewapen ${cleanName}.svg`);
-  candidates.push(`Wapen van ${cleanName}.svg`);
-
-  // If name has special characters, also try ASCII-ified versions
+  // ASCII variants
   const asciiName = cleanName
-    .replace(/â/g, "a")
-    .replace(/ú/g, "u")
-    .replace(/ë/g, "e")
-    .replace(/ï/g, "i")
-    .replace(/ö/g, "o")
-    .replace(/ü/g, "u");
-
+    .replace(/â/g, "a").replace(/ú/g, "u").replace(/ë/g, "e")
+    .replace(/ï/g, "i").replace(/ö/g, "o").replace(/ü/g, "u");
   if (asciiName !== cleanName) {
     candidates.push(`${asciiName} wapen.svg`);
-    candidates.push(`Coat of arms of ${asciiName}.svg`);
-  }
-
-  // For names starting with "'s-", also try without the prefix
-  if (cleanName.startsWith("'s-")) {
-    const shortName = cleanName.substring(3);
-    candidates.push(`${shortName} wapen.svg`);
   }
 
   return candidates;
@@ -235,7 +148,7 @@ function getFilenameCandidates(name) {
 async function main() {
   console.log("=".repeat(60));
   console.log("  SCRAPE MUNICIPALITY COATS OF ARMS (Gemeentewapens)");
-  console.log("  Source: Wikimedia Commons (public domain SVG → PNG)");
+  console.log("  Source: Wikimedia Commons REST API v1 + CDN");
   console.log("=".repeat(60) + "\n");
 
   fs.mkdirSync(LOGOS_DIR, { recursive: true });
@@ -244,61 +157,40 @@ async function main() {
   console.log(`Processing ${index.length} municipalities...\n`);
 
   const logoMap = {};
-  let stats = { direct: 0, search: 0, existing: 0, failed: 0 };
+  let stats = { downloaded: 0, existing: 0, failed: 0 };
+  const failures = [];
 
   for (let i = 0; i < index.length; i++) {
     const muni = index[i];
     const outPath = path.join(LOGOS_DIR, `${muni.slug}.png`);
     const logoPath = `/images/municipalities/${muni.slug}.png`;
 
-    // Skip if already exists and is a proper image (> 3KB, not a favicon)
+    // Skip if already exists and is a proper coat of arms (> 3KB)
     if (fs.existsSync(outPath) && fs.statSync(outPath).size > 3000) {
       logoMap[muni.slug] = logoPath;
       stats.existing++;
       continue;
     }
 
+    const candidates = getFilenameCandidates(muni.name);
     let found = false;
 
-    // Try direct file name patterns (one at a time with rate limiting)
-    const candidates = getFilenameCandidates(muni.name);
-
-    try {
-      const info = await queryFileInfo(candidates);
-      if (info) {
-        const size = await downloadImage(info.thumburl, outPath);
-        if (size > 500) {
-          logoMap[muni.slug] = logoPath;
-          stats.direct++;
-          found = true;
-          console.log(`  [${i + 1}/${index.length}] OK: ${muni.name} → ${info.title.replace("File:", "")} (${size}b)`);
-        }
+    for (const filename of candidates) {
+      // Download directly via thumb.php (bypasses CDN rate limits)
+      const size = await downloadThumbPHP(filename, outPath);
+      if (size > 1000) {
+        logoMap[muni.slug] = logoPath;
+        stats.downloaded++;
+        found = true;
+        console.log(`  [${i + 1}/${index.length}] OK: ${muni.name} → ${filename} (${size}b)`);
+        break;
       }
-    } catch (err) {
-      // ignore individual errors
-    }
-
-    // Fallback: search API
-    if (!found) {
-      await sleep(500);
-      try {
-        const info = await searchForCoatOfArms(muni.name);
-        if (info) {
-          const size = await downloadImage(info.thumburl, outPath);
-          if (size > 500) {
-            logoMap[muni.slug] = logoPath;
-            stats.search++;
-            found = true;
-            console.log(`  [${i + 1}/${index.length}] OK (search): ${muni.name} → ${info.title.replace("File:", "")} (${size}b)`);
-          }
-        }
-      } catch {
-        // ignore
-      }
+      await sleep(1500);
     }
 
     if (!found) {
       stats.failed++;
+      failures.push(muni.name);
       console.log(`  [${i + 1}/${index.length}] FAIL: ${muni.name}`);
     }
   }
@@ -311,8 +203,12 @@ async function main() {
 
   console.log(`\n${"=".repeat(60)}`);
   console.log("  DONE");
-  console.log(`  Direct: ${stats.direct}, Search: ${stats.search}, Existing: ${stats.existing}, Failed: ${stats.failed}`);
-  console.log(`  ${Object.keys(sorted).length} coats of arms saved to ${LOGOS_JSON}`);
+  console.log(`  Downloaded: ${stats.downloaded}, Existing: ${stats.existing}, Failed: ${stats.failed}`);
+  console.log(`  ${Object.keys(sorted).length} coats of arms saved`);
+  if (failures.length > 0 && failures.length <= 30) {
+    console.log(`\n  Failed municipalities:`);
+    failures.forEach((f) => console.log(`    - ${f}`));
+  }
   console.log("=".repeat(60));
 }
 

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <!-- Ballot box -->
+  <rect x="4" y="14" width="24" height="16" rx="2" fill="#2563eb"/>
+  <!-- Slot -->
+  <rect x="10" y="14" width="12" height="2" rx="1" fill="#1d4ed8"/>
+  <!-- Ballot paper -->
+  <rect x="12" y="4" width="8" height="14" rx="1" fill="white" stroke="#2563eb" stroke-width="1"/>
+  <!-- Checkmark on ballot -->
+  <path d="M14 10L16 12L20 7" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- NL flag stripe hint -->
+  <rect x="4" y="26" width="24" height="1.5" fill="#AE1C28"/>
+  <rect x="4" y="27.5" width="24" height="1.5" fill="white"/>
+  <rect x="4" y="29" width="24" height="1" fill="#21468B"/>
+</svg>
