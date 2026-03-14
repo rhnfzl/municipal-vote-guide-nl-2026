@@ -9,11 +9,15 @@ import { Badge } from "@/components/ui/badge";
 import { Progress } from "@/components/ui/progress";
 import { Separator } from "@/components/ui/separator";
 import { calculateMatches } from "@/lib/scoring";
+import { ShareResults } from "@/components/share-results";
+import { IssueTuning } from "@/components/issue-tuning";
+import { PoliticalCompass } from "@/components/political-compass";
 import type {
   MunicipalityData,
   UserAnswer,
   PartyMatch,
   DealBreakerMode,
+  ThemeWeight,
 } from "@/lib/types";
 
 export default function ResultsPage() {
@@ -30,6 +34,8 @@ export default function ResultsPage() {
   const [expanded, setExpanded] = useState<number | null>(null);
   const [answers, setAnswers] = useState<Record<number, UserAnswer>>({});
   const [dealbreakers, setDealbreakers] = useState<Set<number>>(new Set());
+  const [themeWeights, setThemeWeights] = useState<ThemeWeight[]>([]);
+  const [showCompass, setShowCompass] = useState(false);
 
   useEffect(() => {
     const savedAnswers =
@@ -63,12 +69,12 @@ export default function ResultsPage() {
       });
   }, [slug, locale, router]);
 
-  // Recalculate when mode changes
+  // Recalculate when mode or weights change
   useEffect(() => {
     if (!data) return;
-    const results = calculateMatches(data, answers, dealbreakers, mode, []);
+    const results = calculateMatches(data, answers, dealbreakers, mode, themeWeights);
     setMatches(results);
-  }, [mode, data, answers, dealbreakers]);
+  }, [mode, data, answers, dealbreakers, themeWeights]);
 
   if (!data || matches.length === 0) {
     return (
@@ -113,6 +119,34 @@ export default function ResultsPage() {
               {t("strict")}
             </button>
           </div>
+        </div>
+      )}
+
+      {/* Issue Tuning */}
+      {data && (
+        <IssueTuning
+          statements={data.statements}
+          weights={themeWeights}
+          onWeightsChange={setThemeWeights}
+          locale={locale}
+        />
+      )}
+
+      {/* Political Compass Toggle */}
+      {data && (
+        <div className="space-y-3">
+          <Button
+            variant="outline"
+            size="sm"
+            onClick={() => setShowCompass(!showCompass)}
+            className="w-full"
+          >
+            {showCompass ? "▾" : "▸"}{" "}
+            {locale === "en" ? "Political Compass" : "Politiek Kompas"}
+          </Button>
+          {showCompass && (
+            <PoliticalCompass data={data} answers={answers} locale={locale} />
+          )}
         </div>
       )}
 
@@ -276,7 +310,16 @@ export default function ResultsPage() {
       </div>
 
       {/* Actions */}
-      <div className="flex gap-3 justify-center pt-4">
+      <div className="flex flex-wrap gap-3 justify-center pt-4">
+        {data && (
+          <ShareResults matches={matches} municipality={data.name} locale={locale} />
+        )}
+        <Button
+          variant="outline"
+          onClick={() => router.push(`/${locale}/${slug}/compare`)}
+        >
+          {t("compareParties")}
+        </Button>
         <Button
           variant="outline"
           onClick={() => {
@@ -287,12 +330,6 @@ export default function ResultsPage() {
           }}
         >
           {t("startOver")}
-        </Button>
-        <Button
-          variant="outline"
-          onClick={() => router.push(`/${locale}`)}
-        >
-          ← {t("startOver")}
         </Button>
       </div>
     </div>
