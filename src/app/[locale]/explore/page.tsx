@@ -1,10 +1,11 @@
 "use client";
 
 import { useTranslations, useLocale } from "next-intl";
-import { useEffect, useState } from "react";
+import { useEffect, useState, useMemo } from "react";
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Skeleton } from "@/components/ui/skeleton";
+import { useRouter } from "next/navigation";
 import {
   BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, Cell,
 } from "recharts";
@@ -16,109 +17,183 @@ interface NationalStats {
   topParties: [string, number][];
 }
 
+interface Municipality {
+  id: string;
+  name: string;
+  slug: string;
+  numParties: number;
+  numStatements: number;
+}
+
 const COLORS = [
   "#3b82f6", "#6366f1", "#8b5cf6", "#a855f7", "#d946ef",
   "#ec4899", "#f43f5e", "#ef4444", "#f97316", "#eab308",
-  "#22c55e", "#14b8a6", "#06b6d4", "#0ea5e9", "#6366f1",
+  "#22c55e", "#14b8a6",
 ];
 
 export default function ExplorePage() {
   const t = useTranslations("explore");
   const locale = useLocale();
+  const router = useRouter();
   const [stats, setStats] = useState<NationalStats | null>(null);
+  const [municipalities, setMunicipalities] = useState<Municipality[]>([]);
+  const [query, setQuery] = useState("");
 
   useEffect(() => {
-    fetch("/data/national/stats.json")
-      .then((r) => r.json())
-      .then(setStats);
+    Promise.all([
+      fetch("/data/national/stats.json").then((r) => r.json()),
+      fetch("/data/index.json").then((r) => r.json()),
+    ]).then(([s, m]) => {
+      setStats(s);
+      setMunicipalities(m);
+    });
   }, []);
+
+  const filtered = useMemo(() => {
+    if (!query.trim()) return municipalities;
+    const q = query.toLowerCase();
+    return municipalities.filter(
+      (m) => m.name.toLowerCase().includes(q) || m.slug.includes(q)
+    );
+  }, [query, municipalities]);
+
+  // Fun facts
+  const funFacts = useMemo(() => {
+    if (!municipalities.length || !stats) return [];
+    const facts = [];
+    const mostParties = [...municipalities].sort((a, b) => b.numParties - a.numParties)[0];
+    const fewestParties = [...municipalities].sort((a, b) => a.numParties - b.numParties)[0];
+    const mostStatements = [...municipalities].sort((a, b) => b.numStatements - a.numStatements)[0];
+    const fewestStatements = [...municipalities].sort((a, b) => a.numStatements - b.numStatements)[0];
+
+    if (mostParties) facts.push(
+      locale === "en"
+        ? `${mostParties.name} has the most parties (${mostParties.numParties})`
+        : `${mostParties.name} heeft de meeste partijen (${mostParties.numParties})`
+    );
+    if (fewestParties) facts.push(
+      locale === "en"
+        ? `${fewestParties.name} has the fewest parties (${fewestParties.numParties})`
+        : `${fewestParties.name} heeft de minste partijen (${fewestParties.numParties})`
+    );
+    if (stats.topThemes[0]) facts.push(
+      locale === "en"
+        ? `"${stats.topThemes[0][0]}" is debated in ${stats.topThemes[0][1]} municipalities`
+        : `"${stats.topThemes[0][0]}" wordt besproken in ${stats.topThemes[0][1]} gemeenten`
+    );
+    if (fewestStatements) facts.push(
+      locale === "en"
+        ? `${fewestStatements.name} has the fewest statements (${fewestStatements.numStatements})`
+        : `${fewestStatements.name} heeft de minste stellingen (${fewestStatements.numStatements})`
+    );
+    return facts;
+  }, [municipalities, stats, locale]);
 
   if (!stats) {
     return (
       <div className="space-y-6" aria-live="polite">
         <Skeleton className="h-10 w-80 mx-auto" />
         <Skeleton className="h-6 w-60 mx-auto" />
-        <div className="grid gap-6 md:grid-cols-2">
-          <Skeleton className="h-80 rounded-2xl" />
-          <Skeleton className="h-80 rounded-2xl" />
-        </div>
+        <Skeleton className="h-80 rounded-2xl" />
       </div>
     );
   }
 
   const themeData = stats.topThemes.slice(0, 12).map(([name, count]) => ({ name, count }));
-  const partyData = stats.topParties.slice(0, 12).map(([name, count]) => ({ name, count }));
 
   return (
     <div className="space-y-8">
       {/* Header */}
       <div className="text-center space-y-2">
-        <h1 className="text-2xl font-extrabold tracking-tight sm:text-3xl">
-          {t("title")}
-        </h1>
-        <p className="text-gray-500">
-          {t("subtitle", { count: stats.totalMunicipalities })}
-        </p>
+        <h1 className="text-2xl font-extrabold tracking-tight sm:text-3xl">{t("title")}</h1>
+        <p className="text-gray-500">{t("subtitle", { count: stats.totalMunicipalities })}</p>
         <p className="text-sm font-medium text-blue-600 dark:text-blue-400">
-          {t("stats", {
-            municipalities: stats.totalMunicipalities,
-            parties: "2,446",
-            statements: "7,742",
-          })}
+          {t("stats", { municipalities: stats.totalMunicipalities, parties: "2,446", statements: "7,742" })}
         </p>
       </div>
 
-      <div className="grid gap-6 md:grid-cols-2">
-        {/* Top Themes Chart */}
-        <Card className="overflow-hidden rounded-2xl border-0 shadow-md">
-          <CardContent className="p-5">
-            <h2 className="mb-4 text-lg font-semibold">{t("topThemes")}</h2>
-            <div className="h-72">
-              <ResponsiveContainer width="100%" height="100%">
-                <BarChart data={themeData} layout="vertical" margin={{ left: 10, right: 20 }}>
-                  <XAxis type="number" tick={{ fontSize: 11 }} />
-                  <YAxis type="category" dataKey="name" width={120} tick={{ fontSize: 11 }} />
-                  <Tooltip
-                    formatter={(value) => [`${value} municipalities`, "Appears in"]}
-                    contentStyle={{ borderRadius: 8, fontSize: 13 }}
-                  />
-                  <Bar dataKey="count" radius={[0, 4, 4, 0]}>
-                    {themeData.map((_, i) => (
-                      <Cell key={i} fill={COLORS[i % COLORS.length]} />
-                    ))}
-                  </Bar>
-                </BarChart>
-              </ResponsiveContainer>
+      {/* Fun Facts */}
+      {funFacts.length > 0 && (
+        <div className="grid gap-3 sm:grid-cols-2">
+          {funFacts.map((fact, i) => (
+            <div key={i} className="flex items-start gap-2 rounded-xl bg-blue-50 p-3 text-sm text-blue-800 dark:bg-blue-950/30 dark:text-blue-300">
+              <span className="shrink-0 text-lg">💡</span>
+              <span>{fact}</span>
             </div>
-          </CardContent>
-        </Card>
+          ))}
+        </div>
+      )}
 
-        {/* Top Parties Chart */}
-        <Card className="overflow-hidden rounded-2xl border-0 shadow-md">
-          <CardContent className="p-5">
-            <h2 className="mb-4 text-lg font-semibold">{t("topParties")}</h2>
-            <div className="h-72">
-              <ResponsiveContainer width="100%" height="100%">
-                <BarChart data={partyData} layout="vertical" margin={{ left: 10, right: 20 }}>
-                  <XAxis type="number" tick={{ fontSize: 11 }} />
-                  <YAxis type="category" dataKey="name" width={120} tick={{ fontSize: 11 }} />
-                  <Tooltip
-                    formatter={(value) => [
-                      `${value}/${stats.totalMunicipalities} municipalities`,
-                      "Present in",
-                    ]}
-                    contentStyle={{ borderRadius: 8, fontSize: 13 }}
-                  />
-                  <Bar dataKey="count" radius={[0, 4, 4, 0]}>
-                    {partyData.map((_, i) => (
-                      <Cell key={i} fill={COLORS[i % COLORS.length]} />
-                    ))}
-                  </Bar>
-                </BarChart>
-              </ResponsiveContainer>
-            </div>
-          </CardContent>
-        </Card>
+      {/* Themes Chart — full width */}
+      <Card className="overflow-hidden rounded-2xl border-0 shadow-md">
+        <CardContent className="p-5">
+          <h2 className="mb-4 text-lg font-semibold">{t("topThemes")}</h2>
+          <div className="h-80">
+            <ResponsiveContainer width="100%" height="100%">
+              <BarChart data={themeData} layout="vertical" margin={{ left: 20, right: 30 }}>
+                <XAxis type="number" tick={{ fontSize: 12 }} />
+                <YAxis type="category" dataKey="name" width={140} tick={{ fontSize: 12 }} />
+                <Tooltip
+                  formatter={(value) => [
+                    `${value} ${locale === "en" ? "municipalities" : "gemeenten"}`,
+                    locale === "en" ? "Appears in" : "Komt voor in"
+                  ]}
+                  contentStyle={{ borderRadius: 8, fontSize: 13 }}
+                />
+                <Bar dataKey="count" radius={[0, 6, 6, 0]}>
+                  {themeData.map((_, i) => (
+                    <Cell key={i} fill={COLORS[i % COLORS.length]} />
+                  ))}
+                </Bar>
+              </BarChart>
+            </ResponsiveContainer>
+          </div>
+        </CardContent>
+      </Card>
+
+      {/* Municipality Browser */}
+      <div className="space-y-4">
+        <h2 className="text-lg font-semibold">
+          {locale === "en" ? "Browse All Municipalities" : "Bekijk Alle Gemeenten"}
+        </h2>
+        <input
+          type="search"
+          placeholder={locale === "en" ? "Search municipality..." : "Zoek gemeente..."}
+          value={query}
+          onChange={(e) => setQuery(e.target.value)}
+          className="h-12 w-full rounded-xl border border-gray-300 bg-white px-4 text-base transition-all placeholder:text-gray-400 focus:border-blue-500 focus:outline-none focus:ring-4 focus:ring-blue-500/20 dark:border-gray-700 dark:bg-gray-900"
+          aria-label={locale === "en" ? "Search municipalities" : "Zoek gemeenten"}
+        />
+
+        <div className="grid gap-2 sm:grid-cols-2 lg:grid-cols-3">
+          {filtered.slice(0, 60).map((m) => (
+            <button
+              key={m.slug}
+              onClick={() => router.push(`/${locale}/${m.slug}/questionnaire`)}
+              className="flex items-center justify-between rounded-lg border border-gray-200 bg-white p-3 text-left transition-all hover:border-blue-300 hover:shadow-sm dark:border-gray-800 dark:bg-gray-900 dark:hover:border-blue-700"
+            >
+              <div>
+                <span className="font-medium text-sm">{m.name}</span>
+                <div className="flex gap-2 mt-0.5">
+                  <span className="text-xs text-gray-400">{m.numParties} {locale === "en" ? "parties" : "partijen"}</span>
+                  <span className="text-xs text-gray-400">·</span>
+                  <span className="text-xs text-gray-400">{m.numStatements} {locale === "en" ? "questions" : "stellingen"}</span>
+                </div>
+              </div>
+              <svg className="h-4 w-4 text-gray-300" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+              </svg>
+            </button>
+          ))}
+        </div>
+
+        {filtered.length > 60 && (
+          <p className="text-center text-sm text-gray-400">
+            {locale === "en"
+              ? `Showing 60 of ${filtered.length}. Search to find more.`
+              : `60 van ${filtered.length} getoond. Zoek om meer te vinden.`}
+          </p>
+        )}
       </div>
     </div>
   );

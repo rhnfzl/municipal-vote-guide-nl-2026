@@ -21,6 +21,7 @@ export default function QuestionnairePage() {
   const slug = params.municipality as string;
 
   const [data, setData] = useState<MunicipalityData | null>(null);
+  const [altData, setAltData] = useState<MunicipalityData | null>(null); // alternate language
   const [currentIdx, setCurrentIdx] = useState(0);
   const [answers, setAnswers] = useState<Record<number, UserAnswer>>({});
   const [dealbreakers, setDealbreakers] = useState<Set<number>>(new Set());
@@ -33,7 +34,11 @@ export default function QuestionnairePage() {
     const savedDb = localStorage.getItem(`vg-${slug}-dealbreakers`);
     const savedIdx = localStorage.getItem(`vg-${slug}-index`);
 
-    fetch(`/data/municipalities/${slug}/${locale === "en" ? "en" : "nl"}.json`)
+    const primary = locale === "en" ? "en" : "nl";
+    const alt = locale === "en" ? "nl" : "en";
+
+    // Load primary language
+    fetch(`/data/municipalities/${slug}/${primary}.json`)
       .then((r) => (r.ok ? r : fetch(`/data/municipalities/${slug}/nl.json`)))
       .then((r) => r.json())
       .then((d: MunicipalityData) => {
@@ -43,6 +48,12 @@ export default function QuestionnairePage() {
         if (savedIdx) setCurrentIdx(parseInt(savedIdx));
         setLoading(false);
       });
+
+    // Load alternate language (for bilingual display)
+    fetch(`/data/municipalities/${slug}/${alt}.json`)
+      .then((r) => (r.ok ? r.json() : null))
+      .then((d) => { if (d) setAltData(d); })
+      .catch(() => {}); // silently fail if no translation available
   }, [slug, locale]);
 
   useEffect(() => {
@@ -132,6 +143,11 @@ export default function QuestionnairePage() {
   const pro = locale === "en" && current.proEn ? current.proEn : current.pro;
   const con = locale === "en" && current.conEn ? current.conEn : current.con;
 
+  // Alternate language text (for bilingual display)
+  const altStmt = altData?.statements?.find((s) => s.id === current.id);
+  const altTitle = altStmt?.title || (locale === "en" ? current.title : current.titleEn) || "";
+  const altTheme = altStmt?.theme || (locale === "en" ? current.theme : current.themeEn) || "";
+
   const tabs = [
     { id: "parties" as const, label: locale === "en" ? "What do parties think?" : "Wat vinden de partijen?", icon: "💬" },
     { id: "moreInfo" as const, label: locale === "en" ? "Learn more" : "Meer weten", icon: "📖" },
@@ -178,12 +194,24 @@ export default function QuestionnairePage() {
       >
         <CardContent className="space-y-4 p-6 sm:p-8">
           {/* Theme */}
-          <h3 className="text-lg font-bold text-blue-600 dark:text-blue-400">{theme}</h3>
+          <div>
+            <h3 className="text-lg font-bold text-blue-600 dark:text-blue-400">{theme}</h3>
+            {altTheme && altTheme !== theme && (
+              <p className="text-xs text-gray-400 italic mt-0.5">{altTheme}</p>
+            )}
+          </div>
 
           {/* Statement */}
-          <h2 className="text-lg font-semibold leading-relaxed text-gray-900 dark:text-gray-100 sm:text-xl">
-            {title}
-          </h2>
+          <div>
+            <h2 className="text-lg font-semibold leading-relaxed text-gray-900 dark:text-gray-100 sm:text-xl">
+              {title}
+            </h2>
+            {altTitle && altTitle !== title && (
+              <p className="mt-1.5 text-sm text-gray-400 italic leading-relaxed">
+                {altTitle}
+              </p>
+            )}
+          </div>
 
           {/* Dealbreaker */}
           <div className="flex items-center justify-between">
