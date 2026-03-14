@@ -6,6 +6,7 @@
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?style=flat-square&logo=next.js)](https://nextjs.org)
 [![Municipalities](https://img.shields.io/badge/Municipalities-258-green?style=flat-square)](https://municipal-vote-guide-nl-2026.vercel.app/en/explore)
 [![Bilingual](https://img.shields.io/badge/Languages-NL%20%7C%20EN-orange?style=flat-square)](https://municipal-vote-guide-nl-2026.vercel.app)
+[![nl-voting-data-scraper](https://img.shields.io/pypi/v/nl-voting-data-scraper?style=flat-square&label=nl-voting-data-scraper&logo=pypi&logoColor=white)](https://pypi.org/project/nl-voting-data-scraper/)
 ![Repo Visitors](https://api.visitorbadge.io/api/visitors?path=rhnfzl%2Fmunicipal-vote-guide-nl-2026&label=Repo%20Visitors&countColor=%232563eb&style=flat-square)
 
 An open-source, **fully bilingual (Dutch/English)** vote matching tool for the **2026 Dutch municipal elections** (Gemeenteraadsverkiezingen, March 18, 2026).
@@ -45,7 +46,7 @@ Covers **all 258 municipalities** in the Netherlands with **79,000+ translated p
 
 ### Explore & Data Analysis
 - **National Theme Statistics** - Bar charts of most common political themes
-- **BERTopic ML Analysis** - AI-powered topic modeling of 3,531 political statements
+- **[BERTopic](https://github.com/MaartenGr/BERTopic) ML Analysis** - AI-powered topic modeling of 3,531 political statements
   - Topic Map (interactive scatter plot)
   - Topic Clusters (treemap visualization)
   - Topic Network (similarity graph)
@@ -68,13 +69,14 @@ Covers **all 258 municipalities** in the Netherlands with **79,000+ translated p
 | **UI** | shadcn/ui + Tailwind CSS |
 | **Charts** | Recharts |
 | **i18n** | next-intl (NL/EN) |
-| **ML** | BERTopic + OpenAI text-embedding-3-large |
+| **ML** | [BERTopic](https://github.com/MaartenGr/BERTopic) + OpenAI text-embedding-3-large |
+| **Data Scraping** | [`nl-voting-data-scraper`](https://pypi.org/project/nl-voting-data-scraper/) ([GitHub](https://github.com/rhnfzl/nl-voting-data-scraper)) |
 | **Translation** | OpenAI gpt-5-mini + gpt-4.1-mini |
 | **Hosting** | Vercel (Frankfurt fra1) |
 
 ## Data
 
-All data scraped from the official [StemWijzer](https://stemwijzer.nl) (ProDemos) using [`nl-voting-data-scraper`](https://github.com/rhnfzl/nl-voting-data-scraper), an open-source Python package for extracting Dutch voting advice data.
+All data scraped from the official [StemWijzer](https://stemwijzer.nl) (ProDemos) using [`nl-voting-data-scraper`](https://github.com/rhnfzl/nl-voting-data-scraper) ([PyPI](https://pypi.org/project/nl-voting-data-scraper/)), an open-source Python package for extracting Dutch voting advice data.
 
 | Metric | Count |
 |--------|-------|
@@ -83,7 +85,7 @@ All data scraped from the official [StemWijzer](https://stemwijzer.nl) (ProDemos
 | Policy statements | 7,742 |
 | Party-statement positions | 71,136 |
 | Translated explanations | 79,000+ |
-| Topic model clusters | 103 (via BERTopic) |
+| Topic model clusters | 103 (via [BERTopic](https://github.com/MaartenGr/BERTopic)) |
 | Translation cache | 87,000+ entries |
 
 Top parties nationally: CDA (257), VVD (245), D66 (193), GroenLinks-PvdA (143), ChristenUnie (105).

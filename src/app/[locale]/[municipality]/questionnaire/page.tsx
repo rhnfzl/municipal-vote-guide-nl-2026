@@ -20,6 +20,44 @@ import {
 
 type InfoTab = "parties" | "moreInfo" | "arguments" | null;
 
+/**
+ * Build glossary parts for English title by finding glossary terms
+ * (from Dutch titleParts) that also appear in the English title text.
+ * E.g., "ombudsman" appears in both Dutch and English titles.
+ */
+function buildEnglishGlossaryParts(
+  enTitle: string,
+  dutchParts: { text: string; glossary?: string }[]
+): { text: string; glossary?: string }[] {
+  // Extract glossary terms and their definitions from Dutch parts
+  const glossaryTerms = dutchParts
+    .filter((p) => p.glossary)
+    .map((p) => ({ term: p.text.toLowerCase(), glossary: p.glossary! }));
+
+  if (glossaryTerms.length === 0) return [{ text: enTitle }];
+
+  // Try to find each glossary term in the English title (case-insensitive)
+  const result: { text: string; glossary?: string }[] = [];
+  let remaining = enTitle;
+
+  for (const { term, glossary } of glossaryTerms) {
+    const idx = remaining.toLowerCase().indexOf(term);
+    if (idx >= 0) {
+      // Add text before the term
+      if (idx > 0) result.push({ text: remaining.substring(0, idx) });
+      // Add the glossary term with definition
+      result.push({ text: remaining.substring(idx, idx + term.length), glossary });
+      remaining = remaining.substring(idx + term.length);
+    }
+  }
+
+  // Add any remaining text
+  if (remaining) result.push({ text: remaining });
+
+  // If no terms were found, just return plain title
+  return result.length > 0 ? result : [{ text: enTitle }];
+}
+
 export default function QuestionnairePage() {
   const t = useTranslations("questionnaire");
   const tc = useTranslations("common");
@@ -242,8 +280,12 @@ export default function QuestionnairePage() {
           {/* Statement - with glossary tooltips if available */}
           <div>
             <h2 className="text-lg font-semibold leading-relaxed text-gray-900 dark:text-gray-100 sm:text-xl">
-              {current.titleParts && locale !== "en" ? (
-                <GlossaryTitle titleParts={current.titleParts} />
+              {current.titleParts ? (
+                locale === "en" ? (
+                  <GlossaryTitle titleParts={buildEnglishGlossaryParts(title, current.titleParts)} />
+                ) : (
+                  <GlossaryTitle titleParts={current.titleParts} />
+                )
               ) : (
                 title
               )}
