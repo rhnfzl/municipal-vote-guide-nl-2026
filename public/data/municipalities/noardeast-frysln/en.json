@@ -1831,12 +1831,22 @@
       "theme": "Recycling center",
       "themeId": "milieustraat",
       "title": "Dropping off all types of waste at the recycling center should be free.",
+      "titleParts": [
+        {
+          "text": " Het inleveren van alle soorten afval bij de "
+        },
+        {
+          "text": "milieustraat",
+          "glossary": "A place where citizens and businesses can bring different kinds of waste."
+        },
+        {
+          "text": " moet gratis worden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Dropping off all types of waste at the recycling center should be free.",
-      "themeEn": "Recycling center"
+      "isShootout": false
     },
     {
       "id": 261720,
@@ -1847,9 +1857,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must ask the police to hold a weekly meeting with the community police officer in each village.",
-      "themeEn": "Neighborhood police officer"
+      "isShootout": false
     },
     {
       "id": 261737,
@@ -1860,9 +1868,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be a free covered bicycle parking facility in Dokkum's city center.",
-      "themeEn": "Free bicycle parking"
+      "isShootout": false
     },
     {
       "id": 261724,
@@ -1870,12 +1876,22 @@
       "theme": "Offices converted into homes",
       "themeId": "kantoren-worden-woningen",
       "title": "Vacant offices should be converted into housing with subsidies from the municipality.",
+      "titleParts": [
+        {
+          "text": " Leegstaande kantoren moeten met "
+        },
+        {
+          "text": "subsidie",
+          "glossary": "Money the government gives to citizens, businesses, and organizations to support them."
+        },
+        {
+          "text": " van de gemeente worden omgebouwd tot woningen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Vacant offices should be converted into housing with subsidies from the municipality.",
-      "themeEn": "Offices converted into homes"
+      "isShootout": false
     },
     {
       "id": 261744,
@@ -1883,12 +1899,22 @@
       "theme": "Tourist tax",
       "themeId": "toeristenbelasting",
       "title": "The municipality should let the tourist tax rise in line with the price of accommodation.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "toeristenbelasting",
+          "glossary": "The tax you must pay when you stay overnight in a hotel or at a campsite."
+        },
+        {
+          "text": " laten meestijgen met de prijs van de overnachting."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should let the tourist tax rise in line with the price of accommodation.",
-      "themeEn": "Tourist tax"
+      "isShootout": false
     },
     {
       "id": 261736,
@@ -1899,9 +1925,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be more parking spaces in Kollum town center.",
-      "themeEn": "Parking in Kollum"
+      "isShootout": false
     },
     {
       "id": 261727,
@@ -1912,9 +1936,7 @@
       "moreInfo": "Singles can currently receive help if they earn less than about €1,645 per month. People who live together can receive help if they earn less than about €2,294 per month combined. The lower the income, the more help someone can receive. The proposition concerns whether this income threshold should be raised so that more people can receive assistance.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should help more people by raising the income threshold for qualifying for poverty assistance.",
-      "themeEn": "Combating poverty"
+      "isShootout": false
     },
     {
       "id": 261721,
@@ -1925,9 +1947,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be more camera surveillance in Dokkum.",
-      "themeEn": "Camera surveillance"
+      "isShootout": false
     },
     {
       "id": 261723,
@@ -1935,12 +1955,29 @@
       "theme": "Social housing",
       "themeId": "sociale-huurwoningen",
       "title": "At least 35% of newly built homes in Noardeast-Fryslân should be social rental housing. Currently, 28% of homes in the Netherlands are social rental housing.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in Noardeast-Fryslân moet minimaal 35% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " zijn. In Nederland is nu 28% van de woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "At least 35% of newly built homes in Noardeast-Fryslân should be social rental housing. Currently, 28% of homes in the Netherlands are social rental housing.",
-      "themeEn": "Social housing"
+      "isShootout": false
     },
     {
       "id": 261755,
@@ -1951,9 +1988,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should improve lighting on roads and bike paths, including in rural areas.",
-      "themeEn": "Street lighting"
+      "isShootout": false
     },
     {
       "id": 261708,
@@ -1961,12 +1996,22 @@
       "theme": "City marketing",
       "themeId": "city-marketing",
       "title": "The municipality should continue funding the promotional campaign to market Noardeast-Fryslân as an attractive location for businesses.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld blijven steken in de "
+        },
+        {
+          "text": "promotiecampagne",
+          "glossary": "A series of advertisements on, for example, billboards, television, and social media."
+        },
+        {
+          "text": " voor Noardeast-Fryslân als aantrekkelijke vestigingsplaats voor bedrijven."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should continue funding the promotional campaign to market Noardeast-Fryslân as an attractive location for businesses.",
-      "themeEn": "City marketing"
+      "isShootout": false
     },
     {
       "id": 261712,
@@ -1974,12 +2019,22 @@
       "theme": "Asylum seekers' center",
       "themeId": "asielzoekerscentrum",
       "title": "An asylum seekers' center (AZC) should be established in our municipality.",
+      "titleParts": [
+        {
+          "text": " In onze gemeente moet een "
+        },
+        {
+          "text": "asielzoekerscentrum",
+          "glossary": "Reception center for asylum seekers. They live there until it is decided whether they may stay in the Netherlands. An asylum seekers’ center remains in a municipality for a long time."
+        },
+        {
+          "text": " (azc) komen."
+        }
+      ],
       "moreInfo": "According to the national Dispersion Act (Spreidingswet), every municipality must accommodate asylum seekers. Under the law Noardeast-Fryslân must accommodate about 234 asylum seekers. At the moment there are no reception places for asylum seekers in the municipality.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "An asylum seekers' center (AZC) should be established in our municipality.",
-      "themeEn": "Asylum seekers' center"
+      "isShootout": false
     },
     {
       "id": 261749,
@@ -1990,9 +2045,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allow wind turbines at sites where companies jointly generate and use energy.",
-      "themeEn": "Wind turbines"
+      "isShootout": false
     },
     {
       "id": 261751,
@@ -2003,9 +2056,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should help residents who want to take over the shop in their village.",
-      "themeEn": "Community-led initiatives"
+      "isShootout": false
     },
     {
       "id": 261725,
@@ -2016,9 +2067,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must allow holiday homes to be used as a permanent residence.",
-      "themeEn": "Holiday cottages"
+      "isShootout": false
     },
     {
       "id": 261754,
@@ -2029,9 +2078,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should invest in permanent shelter locations where people can go in emergencies (such as fire or prolonged power outages).",
-      "themeEn": "Emergency situations"
+      "isShootout": false
     },
     {
       "id": 261739,
@@ -2042,9 +2089,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should organize regular drop-in consultation hours where parents and young people can ask for help without a referral.",
-      "themeEn": "Family care / youth support"
+      "isShootout": false
     },
     {
       "id": 261719,
@@ -2052,12 +2097,22 @@
       "theme": "Enforcement officers",
       "themeId": "handhavers",
       "title": "More municipal enforcement officers (BOAs) focused on safety should be deployed in Noardeast-Fryslân.",
+      "titleParts": [
+        {
+          "text": " In Noardeast-Fryslân moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "People who, for the municipality, check whether citizens and businesses comply with the rules."
+        },
+        {
+          "text": " (boa’s) komen die zich met veiligheid bezighouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "More municipal enforcement officers (BOAs) focused on safety should be deployed in Noardeast-Fryslân.",
-      "themeEn": "Enforcement officers"
+      "isShootout": false
     },
     {
       "id": 261718,
@@ -2065,12 +2120,22 @@
       "theme": "Sports clubs",
       "themeId": "sportverenigingen",
       "title": "If sports clubs are struggling, the municipality should contribute financially.",
+      "titleParts": [
+        {
+          "text": " Als sportverenigingen het moeilijk hebben, moet de gemeente "
+        },
+        {
+          "text": "financieel",
+          "glossary": "Something related to money."
+        },
+        {
+          "text": " bijdragen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "If sports clubs are struggling, the municipality should contribute financially.",
-      "themeEn": "Sports clubs"
+      "isShootout": false
     },
     {
       "id": 261742,
@@ -2081,9 +2146,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should organize activities for older people in the villages more often.",
-      "themeEn": "Activities for the elderly"
+      "isShootout": false
     },
     {
       "id": 261728,
@@ -2091,12 +2154,22 @@
       "theme": "Subsidized jobs",
       "themeId": "gesubsidieerde-banen",
       "title": "There must be many more subsidized jobs for the long-term unemployed in our municipality.",
+      "titleParts": [
+        {
+          "text": " Er moeten veel meer "
+        },
+        {
+          "text": "gesubsidieerde banen",
+          "glossary": "Government-funded jobs for people who have little chance of getting a regular job."
+        },
+        {
+          "text": " voor langdurig werklozen komen in onze gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There must be many more subsidized jobs for the long-term unemployed in our municipality.",
-      "themeEn": "Subsidized jobs"
+      "isShootout": false
     },
     {
       "id": 261747,
@@ -2104,12 +2177,22 @@
       "theme": "Rental housing for status holders",
       "themeId": "huurwoning-statushouders",
       "title": "Status holders should not be given priority when allocating social rental housing.",
+      "titleParts": [
+        {
+          "text": " Statushouders mogen geen voorrang krijgen bij de toewijzing van "
+        },
+        {
+          "text": "sociale huurwoningen",
+          "glossary": "Rental homes that at the start of the tenancy are not more expensive than a certain amount. In 2026 that amount is €932.93 per month."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Status holders should not be given priority when allocating social rental housing.",
-      "themeEn": "Rental housing for status holders"
+      "isShootout": false
     },
     {
       "id": 261741,
@@ -2120,9 +2203,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should spend more money on social activities for people facing difficulties.",
-      "themeEn": "Welfare organizations"
+      "isShootout": false
     },
     {
       "id": 261733,
@@ -2133,9 +2214,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Dokkum's city center must remain easily accessible by car.",
-      "themeEn": "City center accessibility"
+      "isShootout": false
     },
     {
       "id": 261717,
@@ -2146,9 +2225,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should once again provide funding for school swimming.",
-      "themeEn": "School swimming"
+      "isShootout": false
     },
     {
       "id": 261758,
@@ -2159,9 +2236,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should not give money to low-income people to pay their energy bills.",
-      "themeEn": "High energy costs"
+      "isShootout": false
     },
     {
       "id": 261711,
@@ -2169,12 +2244,22 @@
       "theme": "Integration",
       "themeId": "integratie",
       "title": "The municipality should spend more money on integrating newcomers into society.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld uitgeven aan "
+        },
+        {
+          "text": "integratie",
+          "glossary": "Newcomers learn the language and customs of the Netherlands."
+        },
+        {
+          "text": " van nieuwkomers in de maatschappij."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should spend more money on integrating newcomers into society.",
-      "themeEn": "Integration"
+      "isShootout": false
     },
     {
       "id": 261759,
@@ -2185,9 +2270,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should apply lower land prices on business parks.",
-      "themeEn": "Land price for business park"
+      "isShootout": false
     },
     {
       "id": 261764,
@@ -2198,9 +2281,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should invest in a free Frisian language course for residents.",
-      "themeEn": "Frisian language"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

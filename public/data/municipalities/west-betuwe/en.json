@@ -2394,9 +2394,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Anyone who buys a home in our municipality must live in it themselves.",
-      "themeEn": "Owner-occupancy of a home"
+      "isShootout": false
     },
     {
       "id": 239885,
@@ -2404,12 +2402,22 @@
       "theme": "Neighborhood bus",
       "themeId": "buurtbus",
       "title": "The community bus should be free for all residents.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "buurtbus",
+          "glossary": "A small bus that runs in villages or neighbourhoods with little public transport."
+        },
+        {
+          "text": " moet gratis toegankelijk zijn voor alle inwoners."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The community bus should be free for all residents.",
-      "themeEn": "Neighborhood bus"
+      "isShootout": false
     },
     {
       "id": 239870,
@@ -2420,9 +2428,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allow entrepreneurs to house international employees on their own premises.",
-      "themeEn": "International staff"
+      "isShootout": false
     },
     {
       "id": 239839,
@@ -2430,12 +2436,22 @@
       "theme": "Energy-neutral business parks",
       "themeId": "bedrijventerreinen-energieneutraal",
       "title": "New business parks should be designed to be energy-neutral.",
+      "titleParts": [
+        {
+          "text": " Nieuwe bedrijventerreinen moeten "
+        },
+        {
+          "text": "energieneutraal",
+          "glossary": "An energy-neutral municipality generates as much clean energy as all residents and businesses together consume. A building or area can also be energy-neutral."
+        },
+        {
+          "text": " worden ingericht."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "New business parks should be designed to be energy-neutral.",
-      "themeEn": "Energy-neutral business parks"
+      "isShootout": false
     },
     {
       "id": 239836,
@@ -2443,12 +2459,22 @@
       "theme": "Symbols",
       "themeId": "symbolen",
       "title": "The municipality should not use public funds to display the rainbow flag or similar symbols on municipal buildings.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geen "
+        },
+        {
+          "text": "gemeenschapsgeld",
+          "glossary": "Money from the municipality that is paid with residents' tax money."
+        },
+        {
+          "text": " gebruiken voor het tonen van de regenboogvlag of vergelijkbare symbolen op gebouwen van de gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should not use public funds to display the rainbow flag or similar symbols on municipal buildings.",
-      "themeEn": "Symbols"
+      "isShootout": false
     },
     {
       "id": 239855,
@@ -2459,9 +2485,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "For every tree cut down in the municipality, a new one must be planted.",
-      "themeEn": "Trees"
+      "isShootout": false
     },
     {
       "id": 239847,
@@ -2469,12 +2493,22 @@
       "theme": "Integration",
       "themeId": "integratie",
       "title": "The municipality should spend more money on integrating newcomers into society.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld uitgeven aan de "
+        },
+        {
+          "text": "integratie",
+          "glossary": "Newcomers learn the language and customs of the Netherlands."
+        },
+        {
+          "text": " van nieuwkomers in de maatschappij."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should spend more money on integrating newcomers into society.",
-      "themeEn": "Integration"
+      "isShootout": false
     },
     {
       "id": 239838,
@@ -2485,9 +2519,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should invest in promoting West Betuwe as an attractive location for entrepreneurs.",
-      "themeEn": "Promotion of the municipality"
+      "isShootout": false
     },
     {
       "id": 239882,
@@ -2495,12 +2527,22 @@
       "theme": "Informal care",
       "themeId": "mantelzorg",
       "title": "People receiving social assistance who care for a family member or acquaintance do not have to apply for jobs.",
+      "titleParts": [
+        {
+          "text": " Mensen met een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Money from the municipality for people who have no income or personal funds."
+        },
+        {
+          "text": " die een familielid of bekende verzorgen, hoeven niet te solliciteren."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People receiving social assistance who care for a family member or acquaintance do not have to apply for jobs.",
-      "themeEn": "Informal care"
+      "isShootout": false
     },
     {
       "id": 239878,
@@ -2511,9 +2553,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "More low-income people should be able to access programs that help with poverty.",
-      "themeEn": "Combating poverty"
+      "isShootout": false
     },
     {
       "id": 239865,
@@ -2521,12 +2561,22 @@
       "theme": "More enforcement officers",
       "themeId": "meer-handhavers",
       "title": "West Betuwe should have more municipal enforcement officers (BOAs).",
+      "titleParts": [
+        {
+          "text": " In West Betuwe moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "People who, for the municipality, check whether citizens and businesses comply with the rules."
+        },
+        {
+          "text": " (boa’s) komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "West Betuwe should have more municipal enforcement officers (BOAs).",
-      "themeEn": "More enforcement officers"
+      "isShootout": false
     },
     {
       "id": 239880,
@@ -2534,12 +2584,22 @@
       "theme": "Assume debts",
       "themeId": "schulden-overnemen",
       "title": "In certain cases the municipality should take over debts so that residents have only one creditor.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet in bepaalde gevallen schulden overnemen, zodat inwoners nog maar één "
+        },
+        {
+          "text": "schuldeiser",
+          "glossary": "A person or organization to whom money must be repaid."
+        },
+        {
+          "text": " hebben."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "In certain cases the municipality should take over debts so that residents have only one creditor.",
-      "themeEn": "Assume debts"
+      "isShootout": false
     },
     {
       "id": 239854,
@@ -2550,9 +2610,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should relax the rules for spraying pesticides around fruit cultivation.",
-      "themeEn": "Pesticide spraying zones for fruit cultivation"
+      "isShootout": false
     },
     {
       "id": 239872,
@@ -2563,9 +2621,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should develop a new residential neighborhood at De Spijk in Buurmalsen.",
-      "themeEn": "New residential neighborhood"
+      "isShootout": false
     },
     {
       "id": 239868,
@@ -2573,12 +2629,22 @@
       "theme": "Camera surveillance",
       "themeId": "cameratoezicht",
       "title": "There should be more camera surveillance in the municipality of West Betuwe.",
+      "titleParts": [
+        {
+          "text": " In de gemeente West Betuwe moet meer "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Monitoring of a building, area, or (groups of) people using security cameras."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be more camera surveillance in the municipality of West Betuwe.",
-      "themeEn": "Camera surveillance"
+      "isShootout": false
     },
     {
       "id": 239887,
@@ -2589,9 +2655,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should designate more parking spaces as charging points for electric cars.",
-      "themeEn": "Electric vehicle charging stations"
+      "isShootout": false
     },
     {
       "id": 239837,
@@ -2599,12 +2663,22 @@
       "theme": "Tourist tax",
       "themeId": "toeristenbelasting",
       "title": "The tourist tax should be increased. A tourist now pays €1.50 per person per night.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "toeristenbelasting",
+          "glossary": "The tax you must pay when you stay overnight in a hotel or at a campsite."
+        },
+        {
+          "text": " moet omhoog. Een toerist betaalt nu € 1,50 per persoon per nacht."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The tourist tax should be increased. A tourist now pays €1.50 per person per night.",
-      "themeEn": "Tourist tax"
+      "isShootout": false
     },
     {
       "id": 239892,
@@ -2612,12 +2686,29 @@
       "theme": "Relationships",
       "themeId": "relaties",
       "title": "The municipality should support initiatives that strengthen relationships and families, such as relationship courses for couples.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "initiatieven",
+          "glossary": "Ideas from citizens to improve their neighborhood, street or district."
+        },
+        {
+          "text": " ondersteunen die relaties en gezinnen versterken, zoals "
+        },
+        {
+          "text": "relatiecursussen",
+          "glossary": "Trainings that help people improve their relationship."
+        },
+        {
+          "text": " voor stellen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should support initiatives that strengthen relationships and families, such as relationship courses for couples.",
-      "themeEn": "Relationships"
+      "isShootout": false
     },
     {
       "id": 239857,
@@ -2628,9 +2719,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should ban solar panels on agricultural land.",
-      "themeEn": "Solar panels on farmland"
+      "isShootout": false
     },
     {
       "id": 239871,
@@ -2641,9 +2730,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should be cautious about making existing neighborhoods gas-free.",
-      "themeEn": "Gas-free neighborhoods"
+      "isShootout": false
     },
     {
       "id": 239862,
@@ -2654,9 +2741,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should give low-income residents a pass that allows their children to participate in sports for free.",
-      "themeEn": "Sports for children"
+      "isShootout": false
     },
     {
       "id": 239890,
@@ -2664,12 +2749,22 @@
       "theme": "Debt counseling",
       "themeId": "schuldhulpverlening",
       "title": "Entrepreneurs must be able to apply for debt counseling while keeping their business.",
+      "titleParts": [
+        {
+          "text": " Ondernemers moeten "
+        },
+        {
+          "text": "schuldhulpverlening",
+          "glossary": "The municipality helps people get out of debt. They receive an amount to live on and the rest of their income goes to their creditors."
+        },
+        {
+          "text": " kunnen aanvragen met behoud van hun bedrijf."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Entrepreneurs must be able to apply for debt counseling while keeping their business.",
-      "themeEn": "Debt counseling"
+      "isShootout": false
     },
     {
       "id": 239848,
@@ -2677,12 +2772,29 @@
       "theme": "Asylum seekers",
       "themeId": "asielzoekers",
       "title": "The reception of asylum seekers in West Betuwe should take place on a small scale and be spread across the towns and villages.",
+      "titleParts": [
+        {
+          "text": " De opvang van "
+        },
+        {
+          "text": "asielzoekers ",
+          "glossary": "People who have applied for asylum and are still waiting for a decision."
+        },
+        {
+          "text": " in West Betuwe moet op kleine schaal en verspreid over de "
+        },
+        {
+          "text": "kernen",
+          "glossary": "Villages or small towns that are part of the municipality."
+        },
+        {
+          "text": " plaatsvinden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The reception of asylum seekers in West Betuwe should take place on a small scale and be spread across the towns and villages.",
-      "themeEn": "Asylum seekers"
+      "isShootout": false
     },
     {
       "id": 239846,
@@ -2690,12 +2802,22 @@
       "theme": "Distribution centers",
       "themeId": "distributiecentra",
       "title": "The municipality must oppose the establishment of new distribution centers.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de vestiging van nieuwe "
+        },
+        {
+          "text": "distributiecentra",
+          "glossary": "Large warehouses where goods are received, sorted and transported to other locations."
+        },
+        {
+          "text": " tegengaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must oppose the establishment of new distribution centers.",
-      "themeEn": "Distribution centers"
+      "isShootout": false
     },
     {
       "id": 239875,
@@ -2706,9 +2828,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should abolish the aesthetic advisory committee. This committee assesses building plans based on their appearance and character.",
-      "themeEn": "Design and appearance regulations"
+      "isShootout": false
     },
     {
       "id": 239894,
@@ -2716,12 +2836,22 @@
       "theme": "Emergency shelter",
       "themeId": "noodopvang",
       "title": "The municipality should provide emergency shelter for people after a divorce.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet zorgen voor "
+        },
+        {
+          "text": "noodopvang",
+          "glossary": "A building for urgent and temporary shelter for people who need accommodation, for example asylum seekers."
+        },
+        {
+          "text": " voor mensen na een scheiding."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should provide emergency shelter for people after a divorce.",
-      "themeEn": "Emergency shelter"
+      "isShootout": false
     },
     {
       "id": 239832,
@@ -2729,12 +2859,22 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "The residents of West Betuwe should be able to express their opinion on important issues through a referendum.",
+      "titleParts": [
+        {
+          "text": " De inwoners van de gemeente West Betuwe moeten over belangrijke onderwerpen hun mening kunnen geven via een "
+        },
+        {
+          "text": "referendum",
+          "glossary": "A public consultation where residents can express their opinion on a political issue. The municipal council is not obliged to follow the result; legally it cannot."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The residents of West Betuwe should be able to express their opinion on important issues through a referendum.",
-      "themeEn": "Referendum"
+      "isShootout": false
     },
     {
       "id": 239861,
@@ -2745,9 +2885,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should provide space for artists' workspaces. These are shared buildings where they can work.",
-      "themeEn": "Artists"
+      "isShootout": false
     },
     {
       "id": 239850,
@@ -2755,12 +2893,22 @@
       "theme": "Nuclear energy",
       "themeId": "kernenergie",
       "title": "The municipality should provide space for small modular nuclear reactors (SMRs).",
+      "titleParts": [
+        {
+          "text": " De gemeente moet ruimte bieden voor kleinschalige "
+        },
+        {
+          "text": "kernreactoren",
+          "glossary": "An installation that generates energy through nuclear fission. A small nuclear reactor is also called a Small Modular Reactor (SMR)."
+        },
+        {
+          "text": " (SMR’s)."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should provide space for small modular nuclear reactors (SMRs).",
-      "themeEn": "Nuclear energy"
+      "isShootout": false
     },
     {
       "id": 239889,
@@ -2768,12 +2916,22 @@
       "theme": "Car speeds",
       "themeId": "snelheid-auto-s",
       "title": "The maximum speed limit within residential neighborhoods should be 30 km/h.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "maximumsnelheid",
+          "glossary": "The maximum speed that cars and motorcycles are allowed to drive on the road."
+        },
+        {
+          "text": " binnen woonwijken moet naar 30 km/u."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The maximum speed limit within residential neighborhoods should be 30 km/h.",
-      "themeEn": "Car speeds"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

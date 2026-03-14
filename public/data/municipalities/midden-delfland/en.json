@@ -791,12 +791,22 @@
       "theme": "Tiny houses",
       "themeId": "tiny-houses",
       "title": "There should be more tiny houses in Midden-Delfland.",
+      "titleParts": [
+        {
+          "text": " Er moeten meer "
+        },
+        {
+          "text": "tiny houses",
+          "glossary": "Small, detached houses of up to 50 square metres."
+        },
+        {
+          "text": " komen in Midden-Delfland."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be more tiny houses in Midden-Delfland.",
-      "themeEn": "Tiny houses"
+      "isShootout": false
     },
     {
       "id": 119307,
@@ -804,12 +814,29 @@
       "theme": "Mayor and municipal executive",
       "themeId": "burgemeester-en-college",
       "title": "The new college of mayor and aldermen must have an equal number of men and women.",
+      "titleParts": [
+        {
+          "text": " In het nieuwe "
+        },
+        {
+          "text": "college",
+          "glossary": "The college of mayor and aldermen, the municipality’s executive board."
+        },
+        {
+          "text": " van "
+        },
+        {
+          "text": "burgemeester",
+          "glossary": "The mayor leads the municipality and chairs the municipal council. The mayor is not elected but appointed by the national government, after recommendation by the municipal council."
+        },
+        {
+          "text": " en wethouders moet het aantal mannen en vrouwen gelijk zijn."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The new college of mayor and aldermen must have an equal number of men and women.",
-      "themeEn": "Mayor and municipal executive"
+      "isShootout": false
     },
     {
       "id": 119318,
@@ -820,9 +847,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Bulky waste must be collected from homes free of charge.",
-      "themeEn": "Bulky waste"
+      "isShootout": false
     },
     {
       "id": 119331,
@@ -830,12 +855,29 @@
       "theme": "Work requirement for welfare recipients",
       "themeId": "tegenprestatie-voor-uitkering",
       "title": "People receiving social assistance should, in return, do socially useful work.",
+      "titleParts": [
+        {
+          "text": " Mensen die een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Money from the municipality for people who have no income or personal funds."
+        },
+        {
+          "text": " krijgen, moeten in ruil daarvoor "
+        },
+        {
+          "text": "maatschappelijk zinvol werk",
+          "glossary": "For example cleaning the streets or keeping company and supporting elderly residents."
+        },
+        {
+          "text": " doen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People receiving social assistance should, in return, do socially useful work.",
-      "themeEn": "Work requirement for welfare recipients"
+      "isShootout": false
     },
     {
       "id": 119313,
@@ -843,12 +885,22 @@
       "theme": "Housing for foreign workers",
       "themeId": "huisvesting-buitenlandse-werknemers",
       "title": "Employers in agriculture and horticulture should provide housing for seasonal workers on their own premises.",
+      "titleParts": [
+        {
+          "text": " Werkgevers in de land- en tuinbouw moeten zelf zorgen voor de huisvesting van "
+        },
+        {
+          "text": "seizoenarbeiders",
+          "glossary": "People who do work that only takes place during certain seasons, often in agriculture and fruit picking."
+        },
+        {
+          "text": " op hun eigen bedrijfsterrein."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Employers in agriculture and horticulture should provide housing for seasonal workers on their own premises.",
-      "themeEn": "Housing for foreign workers"
+      "isShootout": false
     },
     {
       "id": 119317,
@@ -859,9 +911,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should organize a fireworks show on New Year's Eve.",
-      "themeEn": "Fireworks"
+      "isShootout": false
     },
     {
       "id": 119323,
@@ -869,12 +919,22 @@
       "theme": "Enforcement officers",
       "themeId": "handhavers",
       "title": "Midden-Delfland should have more municipal enforcement officers (BOAs) focused on safety.",
+      "titleParts": [
+        {
+          "text": " In Midden-Delfland moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "People who, for the municipality, check whether citizens and businesses comply with the rules."
+        },
+        {
+          "text": " (boa’s) komen die zich met veiligheid bezighouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Midden-Delfland should have more municipal enforcement officers (BOAs) focused on safety.",
-      "themeEn": "Enforcement officers"
+      "isShootout": false
     },
     {
       "id": 119320,
@@ -882,12 +942,22 @@
       "theme": "Local media",
       "themeId": "lokale-media",
       "title": "The municipality should support the local broadcaster with additional funding.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de "
+        },
+        {
+          "text": "lokale omroep",
+          "glossary": "Radio and television by and for people from the municipality and the immediate area."
+        },
+        {
+          "text": " ondersteunen met extra geld."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should support the local broadcaster with additional funding.",
-      "themeEn": "Local media"
+      "isShootout": false
     },
     {
       "id": 119311,
@@ -895,12 +965,22 @@
       "theme": "Distribution centers",
       "themeId": "distributiecentra",
       "title": "The municipality must oppose the establishment of new distribution centers.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de vestiging van nieuwe "
+        },
+        {
+          "text": "distributiecentra",
+          "glossary": "See distribution center."
+        },
+        {
+          "text": " tegengaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must oppose the establishment of new distribution centers.",
-      "themeEn": "Distribution centers"
+      "isShootout": false
     },
     {
       "id": 119357,
@@ -911,9 +991,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Electric garbage trucks should be deployed as soon as possible.",
-      "themeEn": "Electric garbage trucks"
+      "isShootout": false
     },
     {
       "id": 119332,
@@ -921,12 +999,29 @@
       "theme": "Stop debt forgiveness",
       "themeId": "kwijtschelding-stoppen",
       "title": "The municipality should stop forgiving municipal taxes for low-income residents.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet stoppen met het "
+        },
+        {
+          "text": "kwijtschelden",
+          "glossary": "That people no longer have to pay for something."
+        },
+        {
+          "text": " van de "
+        },
+        {
+          "text": "gemeentelijke belastingen",
+          "glossary": "Taxes you have to pay to the municipality (e.g., sewer charge, waste disposal charge, dog tax)."
+        },
+        {
+          "text": " voor inwoners met een laag inkomen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should stop forgiving municipal taxes for low-income residents.",
-      "themeEn": "Stop debt forgiveness"
+      "isShootout": false
     },
     {
       "id": 119355,
@@ -934,12 +1029,22 @@
       "theme": "Tourism",
       "themeId": "toerisme",
       "title": "The municipality should invest in promoting tourism in the rural areas of Midden-Delfland.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld steken in de bevordering van het toerisme in de "
+        },
+        {
+          "text": "buitengebied",
+          "glossary": "Area within the municipality's borders but outside the towns or villages themselves; there are few houses and other buildings here."
+        },
+        {
+          "text": "en van Midden-Delfland."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should invest in promoting tourism in the rural areas of Midden-Delfland.",
-      "themeEn": "Tourism"
+      "isShootout": false
     },
     {
       "id": 119321,
@@ -947,12 +1052,22 @@
       "theme": "Sports clubs",
       "themeId": "sportverenigingen",
       "title": "If sports clubs are struggling, the municipality should contribute financially.",
+      "titleParts": [
+        {
+          "text": " Als sportverenigingen het moeilijk hebben, moet de gemeente "
+        },
+        {
+          "text": "financieel",
+          "glossary": "Something related to money."
+        },
+        {
+          "text": " bijdragen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "If sports clubs are struggling, the municipality should contribute financially.",
-      "themeEn": "Sports clubs"
+      "isShootout": false
     },
     {
       "id": 119310,
@@ -963,9 +1078,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should always allow farmers to open, for example, a shop or a campsite at their farm.",
-      "themeEn": "Farm campsites"
+      "isShootout": false
     },
     {
       "id": 119349,
@@ -973,12 +1086,29 @@
       "theme": "Social housing",
       "themeId": "sociale-huurwoningen",
       "title": "At least 30% of the new homes to be built in Midden-Delfland should be social rental housing. Currently 28% of homes in the Netherlands are social rental housing.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in Midden-Delfland moet minimaal 30% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " zijn. In Nederland is nu 28% van de woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "At least 30% of the new homes to be built in Midden-Delfland should be social rental housing. Currently 28% of homes in the Netherlands are social rental housing.",
-      "themeEn": "Social housing"
+      "isShootout": false
     },
     {
       "id": 119353,
@@ -986,12 +1116,22 @@
       "theme": "More parking spaces",
       "themeId": "meer-parkeerplaatsen",
       "title": "There should be more parking spaces in the town centers.",
+      "titleParts": [
+        {
+          "text": " Er moeten meer parkeerplaatsen komen in de "
+        },
+        {
+          "text": "kern",
+          "glossary": "A village or small town that is part of the municipality."
+        },
+        {
+          "text": "en."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be more parking spaces in the town centers.",
-      "themeEn": "More parking spaces"
+      "isShootout": false
     },
     {
       "id": 119325,
@@ -999,12 +1139,22 @@
       "theme": "Violence against women",
       "themeId": "geweld-tegen-vrouwen",
       "title": "Midden-Delfland should have a women's shelter.",
+      "titleParts": [
+        {
+          "text": " In Midden-Delfland moet een "
+        },
+        {
+          "text": "blijf-van-mijn-lijf-huis",
+          "glossary": "Shelter for women who experience violence from their partner or family. The shelter is secured; sometimes the location is secret."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Midden-Delfland should have a women's shelter.",
-      "themeEn": "Violence against women"
+      "isShootout": false
     },
     {
       "id": 119345,
@@ -1015,9 +1165,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Midden-Delfland should renovate De Dorpshoeve.",
-      "themeEn": "Village community center"
+      "isShootout": false
     },
     {
       "id": 119359,
@@ -1025,12 +1173,22 @@
       "theme": "Yes/yes sticker",
       "themeId": "ja-ja-sticker",
       "title": "A \"yes-yes\" sticker should be introduced for unaddressed advertising mail.",
+      "titleParts": [
+        {
+          "text": " Er moet een "
+        },
+        {
+          "text": "ja-ja-sticker",
+          "glossary": "Sticker on the mailbox indicating that you want to receive advertising leaflets and door-to-door newspapers."
+        },
+        {
+          "text": " worden ingevoerd voor ongeadresseerd reclamedrukwerk."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "A \"yes-yes\" sticker should be introduced for unaddressed advertising mail.",
-      "themeEn": "Yes/yes sticker"
+      "isShootout": false
     },
     {
       "id": 119352,
@@ -1041,9 +1199,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "All villages in the municipality must have their own village center.",
-      "themeEn": "Village center"
+      "isShootout": false
     },
     {
       "id": 119342,
@@ -1051,12 +1207,29 @@
       "theme": "Priority for refugees",
       "themeId": "voorrang-voor-vluchtelingen",
       "title": "The municipality must continue to give refugees with a residence permit priority for social housing.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet vluchtelingen met een "
+        },
+        {
+          "text": "verblijfsvergunning",
+          "glossary": "The right to reside in the Netherlands. The term can refer to the right itself or to the card that shows someone has that right."
+        },
+        {
+          "text": " voorrang blijven geven op een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must continue to give refugees with a residence permit priority for social housing.",
-      "themeEn": "Priority for refugees"
+      "isShootout": false
     },
     {
       "id": 119315,
@@ -1064,12 +1237,22 @@
       "theme": "Wood burning",
       "themeId": "houtstook",
       "title": "The use of open fireplaces and wood-burning stoves should remain permitted in Midden-Delfland.",
+      "titleParts": [
+        {
+          "text": " In Midden-Delfland moet het gebruik van open haarden en "
+        },
+        {
+          "text": "houtkachels",
+          "glossary": "Wood-burning stoves used to heat a home."
+        },
+        {
+          "text": " toegestaan blijven."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The use of open fireplaces and wood-burning stoves should remain permitted in Midden-Delfland.",
-      "themeEn": "Wood burning"
+      "isShootout": false
     },
     {
       "id": 119347,
@@ -1077,12 +1260,22 @@
       "theme": "School swimming",
       "themeId": "schoolzwemmen",
       "title": "The municipality should allocate money for school swimming.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld beschikbaar stellen voor "
+        },
+        {
+          "text": "schoolzwemmen",
+          "glossary": "Swimming lessons organized by the school."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allocate money for school swimming.",
-      "themeEn": "School swimming"
+      "isShootout": false
     },
     {
       "id": 119327,
@@ -1090,12 +1283,22 @@
       "theme": "Priority for housing",
       "themeId": "voorrang-huisvesting",
       "title": "When allocating social housing, applicants from the municipality should be given priority.",
+      "titleParts": [
+        {
+          "text": " Bij de toewijzing van een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " moeten woningzoekenden uit de eigen gemeente voorrang krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "When allocating social housing, applicants from the municipality should be given priority.",
-      "themeEn": "Priority for housing"
+      "isShootout": false
     },
     {
       "id": 119308,
@@ -1103,12 +1306,22 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "Residents of Midden-Delfland should be able to give their opinion on important issues via a referendum.",
+      "titleParts": [
+        {
+          "text": " De inwoners van Midden-Delfland moeten over belangrijke onderwerpen hun mening kunnen geven via een "
+        },
+        {
+          "text": "referendum",
+          "glossary": "A public consultation where residents can express their opinion on a political issue. The municipal council is not obliged to follow the result; legally it cannot."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents of Midden-Delfland should be able to give their opinion on important issues via a referendum.",
-      "themeEn": "Referendum"
+      "isShootout": false
     },
     {
       "id": 119351,
@@ -1119,9 +1332,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allow landlords to rent out individual rooms instead of entire houses.",
-      "themeEn": "Subdivision into multiple rooms"
+      "isShootout": false
     },
     {
       "id": 119339,
@@ -1129,12 +1340,22 @@
       "theme": "Tourist tax",
       "themeId": "toeristenbelasting",
       "title": "The tourist tax should be lowered.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "toeristenbelasting",
+          "glossary": "The tax you must pay when you stay overnight in a hotel or at a campsite."
+        },
+        {
+          "text": " moet omlaag."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The tourist tax should be lowered.",
-      "themeEn": "Tourist tax"
+      "isShootout": false
     },
     {
       "id": 119312,
@@ -1142,12 +1363,22 @@
       "theme": "Asylum seekers' center",
       "themeId": "asielzoekerscentrum",
       "title": "The asylum reception center in our municipality should be closed as soon as possible.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "asielopvang",
+          "glossary": "A place where people who have applied for asylum are accommodated. An asylum shelter can be temporary. A permanent asylum shelter is called an asylum seekers' centre (azc)."
+        },
+        {
+          "text": " in onze gemeente moet zo snel mogelijk sluiten."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The asylum reception center in our municipality should be closed as soon as possible.",
-      "themeEn": "Asylum seekers' center"
+      "isShootout": false
     },
     {
       "id": 119335,
@@ -1155,12 +1386,22 @@
       "theme": "Choice of healthcare",
       "themeId": "zorgkeuze",
       "title": "People who need care should always be able to choose a caregiver who matches their religion, culture, or beliefs.",
+      "titleParts": [
+        {
+          "text": " Mensen die zorg nodig hebben, moeten altijd kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of "
+        },
+        {
+          "text": "levensovertuiging",
+          "glossary": "What someone believes about life, such as a religion or personal conviction."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People who need care should always be able to choose a caregiver who matches their religion, culture, or beliefs.",
-      "themeEn": "Choice of healthcare"
+      "isShootout": false
     },
     {
       "id": 119358,
@@ -1171,9 +1412,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should be able to require owners of long-term vacant properties to find a user or occupant.",
-      "themeEn": "Vacant properties"
+      "isShootout": false
     }
   ],
   "shootoutStatements": []

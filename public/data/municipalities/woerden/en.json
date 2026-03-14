@@ -1400,9 +1400,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The terraces in Woerden must be allowed to stay open longer.",
-      "themeEn": "Opening hours of terraces"
+      "isShootout": false
     },
     {
       "id": 207320,
@@ -1413,9 +1411,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Low-income residents of Woerden must continue to receive municipal funds to insulate their homes.",
-      "themeEn": "Insulating houses"
+      "isShootout": false
     },
     {
       "id": 207306,
@@ -1426,9 +1422,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must provide more funding for residents to improve their neighborhood.",
-      "themeEn": "Village and neighborhood budget"
+      "isShootout": false
     },
     {
       "id": 207310,
@@ -1439,9 +1433,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must invest in attracting companies that employ many vocationally trained workers.",
-      "themeEn": "Attract manufacturing companies"
+      "isShootout": false
     },
     {
       "id": 207321,
@@ -1452,9 +1444,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must mow roadside verges and grass fields less often.",
-      "themeEn": "Reduce mowing"
+      "isShootout": false
     },
     {
       "id": 207329,
@@ -1462,12 +1452,22 @@
       "theme": "Language lessons",
       "themeId": "taallessen",
       "title": "The municipality should provide newcomers with more language classes.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "nieuwkomers",
+          "glossary": "People who are new to the Netherlands."
+        },
+        {
+          "text": " meer taallessen geven."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should provide newcomers with more language classes.",
-      "themeEn": "Language lessons"
+      "isShootout": false
     },
     {
       "id": 207338,
@@ -1475,12 +1475,22 @@
       "theme": "Starter loan",
       "themeId": "starterslening",
       "title": "First-time homebuyers should be able to receive a starter loan from the municipality.",
+      "titleParts": [
+        {
+          "text": " Mensen die voor het eerst een huis willen kopen, moeten van de gemeente een "
+        },
+        {
+          "text": "starterslening",
+          "glossary": "An extra loan on top of your mortgage, which you can only get when buying a house for the first time."
+        },
+        {
+          "text": " kunnen krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "First-time homebuyers should be able to receive a starter loan from the municipality.",
-      "themeEn": "Starter loan"
+      "isShootout": false
     },
     {
       "id": 207331,
@@ -1488,12 +1498,22 @@
       "theme": "School swimming",
       "themeId": "schoolzwemmen",
       "title": "The municipality should allocate money for school swimming.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld beschikbaar stellen voor "
+        },
+        {
+          "text": "schoolzwemmen",
+          "glossary": "Swimming lessons organized by the school."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allocate money for school swimming.",
-      "themeEn": "School swimming"
+      "isShootout": false
     },
     {
       "id": 207323,
@@ -1501,12 +1521,29 @@
       "theme": "More or less waste",
       "themeId": "meer-of-minder-afval",
       "title": "Households should pay for the amount of residual waste they produce; more residual waste therefore means higher costs.",
+      "titleParts": [
+        {
+          "text": " Huishoudens moeten betalen voor de hoeveelheid "
+        },
+        {
+          "text": "restafval",
+          "glossary": "Waste that remains after paper, plastic and organic waste have been collected separately."
+        },
+        {
+          "text": " die ze aanbieden. Meer "
+        },
+        {
+          "text": "restafval",
+          "glossary": "Waste that remains after paper, plastic and organic waste have been collected separately."
+        },
+        {
+          "text": " is dus hogere kosten."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Households should pay for the amount of residual waste they produce; more residual waste therefore means higher costs.",
-      "themeEn": "More or less waste"
+      "isShootout": false
     },
     {
       "id": 207343,
@@ -1517,9 +1554,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should not build more houses in the Haanwijk polder near Harmelen than the 90 homes already planned.",
-      "themeEn": "Building in Haanwijk"
+      "isShootout": false
     },
     {
       "id": 207350,
@@ -1530,9 +1565,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should top up the income of residents who accept a job after being on welfare to the amount they received before.",
-      "themeEn": "Poverty trap"
+      "isShootout": false
     },
     {
       "id": 207335,
@@ -1540,12 +1573,22 @@
       "theme": "Enforcement officers",
       "themeId": "handhavers",
       "title": "Woerden should have more municipal enforcement officers (BOAs) who focus on public safety. There are currently four.",
+      "titleParts": [
+        {
+          "text": " In Woerden moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "People who, for the municipality, check whether citizens and businesses comply with the rules."
+        },
+        {
+          "text": " (boa’s) komen die zich met veiligheid bezighouden. Nu zijn er 4."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Woerden should have more municipal enforcement officers (BOAs) who focus on public safety. There are currently four.",
-      "themeEn": "Enforcement officers"
+      "isShootout": false
     },
     {
       "id": 207346,
@@ -1556,9 +1599,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should raise the income threshold for receiving poverty assistance. More people would then receive help.",
-      "themeEn": "Combating poverty"
+      "isShootout": false
     },
     {
       "id": 207362,
@@ -1566,12 +1607,22 @@
       "theme": "District heating networks",
       "themeId": "warmtenetten",
       "title": "The municipality must co-fund the construction of district heating networks.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meebetalen aan de aanleg van "
+        },
+        {
+          "text": "warmtenet",
+          "glossary": "Network of underground pipes that brings hot water from a central source to homes and buildings, for both heating and tap water."
+        },
+        {
+          "text": "ten."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must co-fund the construction of district heating networks.",
-      "themeEn": "District heating networks"
+      "isShootout": false
     },
     {
       "id": 207336,
@@ -1579,12 +1630,22 @@
       "theme": "Camera surveillance",
       "themeId": "cameratoezicht",
       "title": "Woerden should have more camera surveillance.",
+      "titleParts": [
+        {
+          "text": " In Woerden moet meer "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Monitoring of a building, area, or (groups of) people using security cameras."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Woerden should have more camera surveillance.",
-      "themeEn": "Camera surveillance"
+      "isShootout": false
     },
     {
       "id": 207348,
@@ -1592,12 +1653,29 @@
       "theme": "Subsidized jobs",
       "themeId": "gesubsidieerde-banen",
       "title": "There must be many more subsidized jobs for the long-term unemployed in our municipality.",
+      "titleParts": [
+        {
+          "text": " Er moeten veel meer "
+        },
+        {
+          "text": "gesubsidieerde",
+          "glossary": "Money the government gives to citizens, businesses, and organizations to support them."
+        },
+        {
+          "text": " banen voor "
+        },
+        {
+          "text": "langdurig werklozen",
+          "glossary": "People who have been without paid work for a long time (longer than a year)."
+        },
+        {
+          "text": " komen in onze gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There must be many more subsidized jobs for the long-term unemployed in our municipality.",
-      "themeEn": "Subsidized jobs"
+      "isShootout": false
     },
     {
       "id": 207304,
@@ -1605,12 +1683,22 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "The residents of Woerden should be able to express their opinion on important issues via a referendum.",
+      "titleParts": [
+        {
+          "text": " De inwoners van Woerden moeten over belangrijke onderwerpen hun mening kunnen geven via een "
+        },
+        {
+          "text": "referendum",
+          "glossary": "A public consultation where residents can express their opinion on a political issue. The municipal council is not obliged to follow the result; legally it cannot."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The residents of Woerden should be able to express their opinion on important issues via a referendum.",
-      "themeEn": "Referendum"
+      "isShootout": false
     },
     {
       "id": 207337,
@@ -1618,12 +1706,22 @@
       "theme": "More streetlights",
       "themeId": "meer-straatlantaarns",
       "title": "Woerden should install more streetlights in the outlying/rural areas.",
+      "titleParts": [
+        {
+          "text": " Woerden moet in het "
+        },
+        {
+          "text": "buitengebied",
+          "glossary": "Area within the municipality's borders but outside the towns or villages themselves; there are few houses and other buildings here."
+        },
+        {
+          "text": " meer straatlantaarns plaatsen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Woerden should install more streetlights in the outlying/rural areas.",
-      "themeEn": "More streetlights"
+      "isShootout": false
     },
     {
       "id": 207354,
@@ -1631,12 +1729,29 @@
       "theme": "Car speeds",
       "themeId": "snelheid-auto-s",
       "title": "The maximum speed limit in built-up areas should be set to 30 km/h.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "maximumsnelheid",
+          "glossary": "The maximum speed that cars and motorcycles are allowed to drive on the road."
+        },
+        {
+          "text": " binnen de "
+        },
+        {
+          "text": "bebouwde kom",
+          "glossary": "An area with buildings (houses, other structures)."
+        },
+        {
+          "text": " moet naar 30 km/u."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The maximum speed limit in built-up areas should be set to 30 km/h.",
-      "themeEn": "Car speeds"
+      "isShootout": false
     },
     {
       "id": 207327,
@@ -1644,12 +1759,29 @@
       "theme": "Integration",
       "themeId": "integratie",
       "title": "Woerden should spend more money on integrating newcomers into society.",
+      "titleParts": [
+        {
+          "text": " Woerden moet meer geld uitgeven aan "
+        },
+        {
+          "text": "integratie",
+          "glossary": "Newcomers learn the language and customs of the Netherlands."
+        },
+        {
+          "text": " van "
+        },
+        {
+          "text": "nieuwkomers",
+          "glossary": "People who are new to the Netherlands."
+        },
+        {
+          "text": " in de maatschappij."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Woerden should spend more money on integrating newcomers into society.",
-      "themeEn": "Integration"
+      "isShootout": false
     },
     {
       "id": 207349,
@@ -1657,12 +1789,29 @@
       "theme": "Stop debt forgiveness",
       "themeId": "kwijtschelding-stoppen",
       "title": "The municipality should stop fully waiving municipal taxes for low-income residents.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet stoppen met het volledig "
+        },
+        {
+          "text": "kwijtschelden",
+          "glossary": "That people no longer have to pay for something."
+        },
+        {
+          "text": " van de "
+        },
+        {
+          "text": "gemeentelijke belastingen",
+          "glossary": "Taxes you have to pay to the municipality (e.g., sewer charge, waste disposal charge, dog tax)."
+        },
+        {
+          "text": " voor inwoners met een laag inkomen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should stop fully waiving municipal taxes for low-income residents.",
-      "themeEn": "Stop debt forgiveness"
+      "isShootout": false
     },
     {
       "id": 207363,
@@ -1673,9 +1822,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Woerden should provide residents with more information about healthy living.",
-      "themeEn": "Healthy living"
+      "isShootout": false
     },
     {
       "id": 207334,
@@ -1686,9 +1833,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should build a new swimming pool in Woerden. The Batenstein and H2O pools would then close.",
-      "themeEn": "Swimming pool"
+      "isShootout": false
     },
     {
       "id": 207356,
@@ -1699,9 +1844,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be a bypass along the west side of the municipality.",
-      "themeEn": "Western ring road"
+      "isShootout": false
     },
     {
       "id": 207332,
@@ -1712,9 +1855,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should build a new, larger theater.",
-      "themeEn": "Theater"
+      "isShootout": false
     },
     {
       "id": 207360,
@@ -1725,9 +1866,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Woerden should make the first two hours of parking in a downtown parking garage free.",
-      "themeEn": "Two hours free parking"
+      "isShootout": false
     },
     {
       "id": 207355,
@@ -1738,9 +1877,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "In new neighborhoods, parking spaces should be located at the edge of the neighborhood.",
-      "themeEn": "Parking in new neighborhoods"
+      "isShootout": false
     },
     {
       "id": 207344,
@@ -1751,9 +1888,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Splitting a house into separate units should be made cheaper in Woerden.",
-      "themeEn": "Subdividing homes"
+      "isShootout": false
     },
     {
       "id": 207307,
@@ -1764,9 +1899,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "A group of residents selected by lottery should advise the municipality on important issues.",
-      "themeEn": "Citizens' assembly"
+      "isShootout": false
     },
     {
       "id": 207314,
@@ -1774,12 +1907,22 @@
       "theme": "Permit fees",
       "themeId": "leges",
       "title": "Municipal building permits should be cheaper.",
+      "titleParts": [
+        {
+          "text": " Gemeentelijke bouw"
+        },
+        {
+          "text": "vergunning",
+          "glossary": "Permission from the municipality to do something."
+        },
+        {
+          "text": "en moeten goedkoper worden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Municipal building permits should be cheaper.",
-      "themeEn": "Permit fees"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

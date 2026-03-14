@@ -1904,9 +1904,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Arnhem's centre should remain accessible to vans that run on diesel or petrol.",
-      "themeEn": "Accessibility of the city centre"
+      "isShootout": false
     },
     {
       "id": 109326,
@@ -1914,12 +1912,22 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "The residents of Arnhem should be able to give their opinion on important issues via a referendum.",
+      "titleParts": [
+        {
+          "text": " De inwoners van Arnhem moeten over belangrijke onderwerpen hun mening kunnen geven via een "
+        },
+        {
+          "text": "referendum",
+          "glossary": "A public consultation where residents can express their opinion on a political issue. The municipal council is not obliged to follow the result; legally it cannot."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The residents of Arnhem should be able to give their opinion on important issues via a referendum.",
-      "themeEn": "Referendum"
+      "isShootout": false
     },
     {
       "id": 109331,
@@ -1930,9 +1938,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Arnhem should continue to provide shelter to rejected asylum seekers.",
-      "themeEn": "Accommodation for rejected asylum seekers"
+      "isShootout": false
     },
     {
       "id": 109329,
@@ -1943,9 +1949,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Cafés and restaurants must be able to determine their own opening hours.",
-      "themeEn": "Opening hours for hospitality venues"
+      "isShootout": false
     },
     {
       "id": 109337,
@@ -1956,9 +1960,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Noise standards at festivals and parties must be made stricter.",
-      "themeEn": "Festival noise"
+      "isShootout": false
     },
     {
       "id": 109346,
@@ -1966,12 +1968,22 @@
       "theme": "Camera surveillance",
       "themeId": "cameratoezicht",
       "title": "There should be more CCTV surveillance in Arnhem.",
+      "titleParts": [
+        {
+          "text": " In Arnhem moet meer "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Monitoring of a building, area, or (groups of) people using security cameras."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be more CCTV surveillance in Arnhem.",
-      "themeEn": "Camera surveillance"
+      "isShootout": false
     },
     {
       "id": 109358,
@@ -1979,12 +1991,22 @@
       "theme": "Basic income",
       "themeId": "basisinkomen",
       "title": "Arnhem should run a basic income pilot.",
+      "titleParts": [
+        {
+          "text": " Arnhem moet een proef doen met "
+        },
+        {
+          "text": "basisinkomen",
+          "glossary": "With a basic income, people receive a fixed amount per month from the government. They do not have to apply for jobs or perform socially useful work in return for the money."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Arnhem should run a basic income pilot.",
-      "themeEn": "Basic income"
+      "isShootout": false
     },
     {
       "id": 109363,
@@ -1992,12 +2014,22 @@
       "theme": "Choice of healthcare",
       "themeId": "zorgkeuze",
       "title": "People who need care should always be able to choose a caregiver who matches their religion, culture, or beliefs.",
+      "titleParts": [
+        {
+          "text": " Mensen die zorg nodig hebben, moeten altijd kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of "
+        },
+        {
+          "text": "levensovertuiging",
+          "glossary": "What someone believes about life, such as a religion or personal conviction."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People who need care should always be able to choose a caregiver who matches their religion, culture, or beliefs.",
-      "themeEn": "Choice of healthcare"
+      "isShootout": false
     },
     {
       "id": 109345,
@@ -2005,12 +2037,22 @@
       "theme": "Enforcement officers",
       "themeId": "handhavers",
       "title": "Arnhem should hire more municipal enforcement officers (BOAs) who focus on safety.",
+      "titleParts": [
+        {
+          "text": " In Arnhem moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "People who, for the municipality, check whether citizens and businesses comply with the rules."
+        },
+        {
+          "text": " (boa’s) komen die zich met veiligheid bezighouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Arnhem should hire more municipal enforcement officers (BOAs) who focus on safety.",
-      "themeEn": "Enforcement officers"
+      "isShootout": false
     },
     {
       "id": 109383,
@@ -2018,12 +2060,22 @@
       "theme": "Gap between rich and poor",
       "themeId": "kloof-tussen-arm-en-rijk",
       "title": "More social rental homes should be built in all Arnhem neighbourhoods.",
+      "titleParts": [
+        {
+          "text": " In alle Arnhemse wijken moeten meer "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "en komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "More social rental homes should be built in all Arnhem neighbourhoods.",
-      "themeEn": "Gap between rich and poor"
+      "isShootout": false
     },
     {
       "id": 109335,
@@ -2034,9 +2086,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should organize a fireworks show on New Year's Eve.",
-      "themeEn": "Fireworks"
+      "isShootout": false
     },
     {
       "id": 109325,
@@ -2044,12 +2094,29 @@
       "theme": "Mayor and municipal executive",
       "themeId": "burgemeester-en-college",
       "title": "The new college of mayor and aldermen must have an equal number of men and women.",
+      "titleParts": [
+        {
+          "text": " In het nieuwe "
+        },
+        {
+          "text": "college",
+          "glossary": "The college of mayor and aldermen, the municipality’s executive board."
+        },
+        {
+          "text": " van "
+        },
+        {
+          "text": "burgemeester",
+          "glossary": "The mayor leads the municipality and chairs the municipal council. The mayor is not elected but appointed by the national government, after recommendation by the municipal council."
+        },
+        {
+          "text": " en wethouders moet het aantal mannen en vrouwen gelijk zijn."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The new college of mayor and aldermen must have an equal number of men and women.",
-      "themeEn": "Mayor and municipal executive"
+      "isShootout": false
     },
     {
       "id": 109375,
@@ -2057,12 +2124,22 @@
       "theme": "Coffeeshops (cannabis cafés)",
       "themeId": "coffeeshops",
       "title": "The municipality should allow the establishment of new coffeeshops.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de vestiging van nieuwe "
+        },
+        {
+          "text": "coffeeshops",
+          "glossary": "Shop or café where you can buy and smoke soft drugs (hash, weed)."
+        },
+        {
+          "text": " toestaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allow the establishment of new coffeeshops.",
-      "themeEn": "Coffeeshops (cannabis cafés)"
+      "isShootout": false
     },
     {
       "id": 109338,
@@ -2070,12 +2147,29 @@
       "theme": "Accessibility of buildings",
       "themeId": "toegankelijkheid-gebouwen",
       "title": "The municipality should financially help business owners to make their buildings accessible to people with disabilities.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet ondernemers "
+        },
+        {
+          "text": "financieel",
+          "glossary": "Something related to money."
+        },
+        {
+          "text": " helpen om hun gebouw toegankelijker te maken voor mensen met een "
+        },
+        {
+          "text": "beperking",
+          "glossary": "Something that limits you in daily life. A disability can be physical or intellectual or relate to hearing or sight, or combinations of these."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should financially help business owners to make their buildings accessible to people with disabilities.",
-      "themeEn": "Accessibility of buildings"
+      "isShootout": false
     },
     {
       "id": 109333,
@@ -2083,12 +2177,22 @@
       "theme": "Wood burning",
       "themeId": "houtstook",
       "title": "The use of open fireplaces and wood stoves should remain permitted in Arnhem.",
+      "titleParts": [
+        {
+          "text": " In Arnhem moet het gebruik van open haarden en "
+        },
+        {
+          "text": "houtkachels",
+          "glossary": "Wood-burning stoves used to heat a home."
+        },
+        {
+          "text": " toegestaan blijven."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The use of open fireplaces and wood stoves should remain permitted in Arnhem.",
-      "themeEn": "Wood burning"
+      "isShootout": false
     },
     {
       "id": 109342,
@@ -2096,12 +2200,22 @@
       "theme": "Music lessons",
       "themeId": "muziekles",
       "title": "Every primary school child should be able to receive music lessons subsidized by the municipality.",
+      "titleParts": [
+        {
+          "text": " Elk basisschoolkind moet met "
+        },
+        {
+          "text": "subsidie",
+          "glossary": "Money the government gives to citizens, businesses, and organizations to support them."
+        },
+        {
+          "text": " van de gemeente muziekles kunnen krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Every primary school child should be able to receive music lessons subsidized by the municipality.",
-      "themeEn": "Music lessons"
+      "isShootout": false
     },
     {
       "id": 109379,
@@ -2112,9 +2226,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Every neighborhood in the city should get its own community center.",
-      "themeEn": "Neighborhood center"
+      "isShootout": false
     },
     {
       "id": 109349,
@@ -2122,12 +2234,22 @@
       "theme": "Priority for housing",
       "themeId": "voorrang-huisvesting",
       "title": "When allocating social housing, applicants from the municipality should be given priority.",
+      "titleParts": [
+        {
+          "text": " Bij de toewijzing van een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " moeten woningzoekenden uit de eigen gemeente voorrang krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "When allocating social housing, applicants from the municipality should be given priority.",
-      "themeEn": "Priority for housing"
+      "isShootout": false
     },
     {
       "id": 109381,
@@ -2138,9 +2260,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be fewer parking spaces in the centre.",
-      "themeEn": "Fewer parking spaces"
+      "isShootout": false
     },
     {
       "id": 109354,
@@ -2148,12 +2268,29 @@
       "theme": "Work requirement for welfare recipients",
       "themeId": "tegenprestatie-voor-uitkering",
       "title": "People receiving social assistance should, in return, do socially useful work.",
+      "titleParts": [
+        {
+          "text": " Mensen die een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Money from the municipality for people who have no income or personal funds."
+        },
+        {
+          "text": " krijgen, moeten in ruil daarvoor "
+        },
+        {
+          "text": "maatschappelijk zinvol werk",
+          "glossary": "For example cleaning the streets or keeping company and supporting elderly residents."
+        },
+        {
+          "text": " doen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People receiving social assistance should, in return, do socially useful work.",
-      "themeEn": "Work requirement for welfare recipients"
+      "isShootout": false
     },
     {
       "id": 109348,
@@ -2161,12 +2298,22 @@
       "theme": "Starter loan",
       "themeId": "starterslening",
       "title": "First-time homebuyers should be able to receive a starter loan from the municipality.",
+      "titleParts": [
+        {
+          "text": " Mensen die voor het eerst een huis willen kopen, moeten van de gemeente een "
+        },
+        {
+          "text": "starterslening",
+          "glossary": "An extra loan on top of your mortgage, which you can only get when buying a house for the first time."
+        },
+        {
+          "text": " kunnen krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "First-time homebuyers should be able to receive a starter loan from the municipality.",
-      "themeEn": "Starter loan"
+      "isShootout": false
     },
     {
       "id": 109370,
@@ -2174,12 +2321,29 @@
       "theme": "Priority for refugees",
       "themeId": "voorrang-voor-vluchtelingen",
       "title": "The municipality must continue to give refugees with a residence permit priority for social housing.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet vluchtelingen met een "
+        },
+        {
+          "text": "verblijfsvergunning",
+          "glossary": "The right to live in the Netherlands. The term can mean that right itself, but also the card that shows someone has that right."
+        },
+        {
+          "text": " voorrang blijven geven op een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must continue to give refugees with a residence permit priority for social housing.",
-      "themeEn": "Priority for refugees"
+      "isShootout": false
     },
     {
       "id": 109361,
@@ -2190,9 +2354,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Parking at shopping centers must remain free.",
-      "themeEn": "Free parking"
+      "isShootout": false
     },
     {
       "id": 109356,
@@ -2203,9 +2365,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should raise the income threshold for receiving poverty assistance.",
-      "themeEn": "Combating poverty"
+      "isShootout": false
     },
     {
       "id": 109367,
@@ -2213,12 +2373,22 @@
       "theme": "Tourist tax",
       "themeId": "toeristenbelasting",
       "title": "The tourist tax should be lowered.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "toeristenbelasting",
+          "glossary": "The tax you must pay when you stay overnight in a hotel or at a campsite."
+        },
+        {
+          "text": " moet omlaag."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The tourist tax should be lowered.",
-      "themeEn": "Tourist tax"
+      "isShootout": false
     },
     {
       "id": 109343,
@@ -2226,12 +2396,22 @@
       "theme": "Sports clubs",
       "themeId": "sportverenigingen",
       "title": "If sports clubs are struggling, the municipality should contribute financially.",
+      "titleParts": [
+        {
+          "text": " Als sportverenigingen het moeilijk hebben, moet de gemeente "
+        },
+        {
+          "text": "financieel",
+          "glossary": "Something related to money."
+        },
+        {
+          "text": " bijdragen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "If sports clubs are struggling, the municipality should contribute financially.",
-      "themeEn": "Sports clubs"
+      "isShootout": false
     },
     {
       "id": 109368,
@@ -2242,9 +2422,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Business parks in Arnhem should be allowed to expand.",
-      "themeEn": "Business parks"
+      "isShootout": false
     },
     {
       "id": 109371,
@@ -2252,12 +2430,22 @@
       "theme": "Recycling center",
       "themeId": "milieustraat",
       "title": "Dropping off waste at the recycling center should be free of charge.",
+      "titleParts": [
+        {
+          "text": " Het inleveren van afval bij de "
+        },
+        {
+          "text": "milieustraat",
+          "glossary": "A place where citizens and businesses can bring different kinds of waste."
+        },
+        {
+          "text": " moet gratis worden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Dropping off waste at the recycling center should be free of charge.",
-      "themeEn": "Recycling center"
+      "isShootout": false
     },
     {
       "id": 109384,
@@ -2268,9 +2456,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allow building in parks or natural areas.",
-      "themeEn": "Housing construction"
+      "isShootout": false
     }
   ],
   "shootoutStatements": []

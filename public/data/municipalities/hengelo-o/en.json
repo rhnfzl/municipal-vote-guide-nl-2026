@@ -2895,12 +2895,22 @@
       "theme": "Housing construction",
       "themeId": "woningbouw",
       "title": "The municipality should allow the construction of a new residential neighborhood outside the built-up area.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de bouw van een nieuwe wijk buiten de "
+        },
+        {
+          "text": "bebouwde kom",
+          "glossary": "An area with buildings (houses, other structures)."
+        },
+        {
+          "text": " toestaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "Some parties find this necessary because the housing shortage is severe. There are too few places in the city to build new homes. This way Hengelo can build new homes faster.",
       "con": "Some parties believe there are still enough vacant sites in the city to build new homes. New construction outside the city damages the countryside and the nature that makes Hengelo so special. Hengelo should not grow to 100,000 inhabitants.",
-      "isShootout": false,
-      "titleEn": "The municipality should allow the construction of a new residential neighborhood outside the built-up area.",
-      "themeEn": "Housing construction"
+      "isShootout": false
     },
     {
       "id": 167174,
@@ -2908,12 +2918,22 @@
       "theme": "Maximum speed",
       "themeId": "maximumsnelheid",
       "title": "On streets where cycle lanes are not unobstructed, the maximum speed should be reduced to 30 km/h.",
+      "titleParts": [
+        {
+          "text": " In straten waar fietspaden niet vrij liggen, moet de "
+        },
+        {
+          "text": "maximumsnelheid",
+          "glossary": "The maximum speed that cars and motorcycles are allowed to drive on the road."
+        },
+        {
+          "text": " omlaag naar 30 km/u."
+        }
+      ],
       "moreInfo": "",
       "pro": "Some parties think this prevents dangerous situations, which promotes traffic safety. It makes the street clearer and more orderly.",
       "con": "Some parties believe it is not always necessary for traffic safety to lower the speed limit to 30 km/h. It increases travel time for city buses on some routes.",
-      "isShootout": false,
-      "titleEn": "On streets where cycle lanes are not unobstructed, the maximum speed should be reduced to 30 km/h.",
-      "themeEn": "Maximum speed"
+      "isShootout": false
     },
     {
       "id": 167130,
@@ -2921,12 +2941,22 @@
       "theme": "Enforcement officers",
       "themeId": "handhavers",
       "title": "Hengelo should have more municipal enforcement officers (BOAs) who focus on safety.",
+      "titleParts": [
+        {
+          "text": " In Hengelo moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "People who, for the municipality, check whether citizens and businesses comply with the rules."
+        },
+        {
+          "text": " (boa’s) komen die zich met veiligheid bezighouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "A number of parties agree with this because they think it provides more safety. Residents will only behave properly—for example regarding traffic violations and illegal dumping—if rules are enforced. Municipal enforcement officers ensure people trust that rules are followed.",
       "con": "A number of parties disagree with this because they believe the municipality can better ensure prevention. It should hire more youth workers. There are currently enough municipal enforcement officers (boa’s). It is unclear why more boa’s are needed.",
-      "isShootout": false,
-      "titleEn": "Hengelo should have more municipal enforcement officers (BOAs) who focus on safety.",
-      "themeEn": "Enforcement officers"
+      "isShootout": false
     },
     {
       "id": 167136,
@@ -2934,12 +2964,22 @@
       "theme": "Offices converted into homes",
       "themeId": "kantoren-worden-woningen",
       "title": "Vacant offices should be converted into housing with subsidies from the municipality.",
+      "titleParts": [
+        {
+          "text": " Leegstaande kantoren moeten met "
+        },
+        {
+          "text": "subsidie",
+          "glossary": "Money the government gives to citizens, businesses, and organizations to support them."
+        },
+        {
+          "text": " van de gemeente worden omgebouwd tot woningen."
+        }
+      ],
       "moreInfo": "",
       "pro": "Some parties believe this addresses the housing shortage. Converting offices into homes is too expensive without subsidies.",
       "con": "Some parties believe this is not a task for the municipality. It is up to entrepreneurs and project developers to do this. The municipality can, as an incentive, make conversions easier or make the permit free.",
-      "isShootout": false,
-      "titleEn": "Vacant offices should be converted into housing with subsidies from the municipality.",
-      "themeEn": "Offices converted into homes"
+      "isShootout": false
     },
     {
       "id": 167179,
@@ -2950,9 +2990,7 @@
       "moreInfo": "The municipal council of Hengelo adopted a mobility plan in 2023. It calls the Verlengde Laan van Driene a “missing link” to direct city traffic to the A1. The Oldenzaalsestraat is an important road to the center that is currently heavily loaded, causing frequent congestion. Building the Verlengde Laan van Driene should relieve traffic on the Oldenzaalsestraat. It was decided to first investigate whether building the Verlengde Laan van Driene is really necessary.",
       "pro": "A number of parties state that this leads to better traffic flow. It reduces through-traffic in surrounding neighborhoods. It improves accessibility.",
       "con": "A number of parties argue that this leads to more traffic nuisance in Groot Driene. It is unnecessary, because traffic usually flows fairly well. It is unclear what consequences this measure has for the livability of the neighborhoods.",
-      "isShootout": false,
-      "titleEn": "The Laan van Driene should be extended to end at Oldenzaalsestraat.",
-      "themeEn": "Laan van Driene"
+      "isShootout": false
     },
     {
       "id": 167161,
@@ -2963,9 +3001,7 @@
       "moreInfo": "",
       "pro": "Some parties think this is good for livability in the city center. It is good for the environment.",
       "con": "Some parties believe that already almost no cars are allowed into the city center. This makes the city center less accessible, which can have consequences for the local economy.",
-      "isShootout": false,
-      "titleEn": "Hengelo should, as soon as possible, allow only zero-emission cars in the city center.",
-      "themeEn": "Zero emission"
+      "isShootout": false
     },
     {
       "id": 167139,
@@ -2973,12 +3009,29 @@
       "theme": "Work requirement for welfare recipients",
       "themeId": "tegenprestatie-voor-uitkering",
       "title": "People receiving social assistance should, in return, do socially useful work.",
+      "titleParts": [
+        {
+          "text": " Mensen die een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Money from the municipality for people who have no income or personal funds."
+        },
+        {
+          "text": " krijgen, moeten in ruil daarvoor "
+        },
+        {
+          "text": "maatschappelijk zinvol werk",
+          "glossary": "For example cleaning the streets or keeping company and supporting elderly residents."
+        },
+        {
+          "text": " doen."
+        }
+      ],
       "moreInfo": "",
       "pro": "Some parties agree because they believe socially useful work helps people get paid employment. There should be reciprocity: if you receive something, you should give something back.",
       "con": "Some parties disagree because they believe that work as a counter-performance is not the purpose of a social assistance benefit. That benefit guarantees a minimum to survive, whatever your circumstances. Those who work should receive wages for it, not a benefit.",
-      "isShootout": false,
-      "titleEn": "People receiving social assistance should, in return, do socially useful work.",
-      "themeEn": "Work requirement for welfare recipients"
+      "isShootout": false
     },
     {
       "id": 167159,
@@ -2989,9 +3042,7 @@
       "moreInfo": "There is an asphalt plant in Hengelo. It is technically difficult for the plant to always meet all environmental requirements, and sometimes those limits are exceeded. To protect the health and safety of the surroundings, the municipality is legally obliged to take action when standards for very hazardous substances are violated.",
       "pro": "Some parties support this because it would end the smell and air pollution that is harmful to residents' health. The asphalt plant has often already received heavy fines for violating environmental rules. That proves the company cannot operate in Hengelo.",
       "con": "Some parties oppose this because they believe the municipality should enforce the rules. And if the company still does not comply, the municipality should close it. Buying out a company rewards bad behavior.",
-      "isShootout": false,
-      "titleEn": "The municipality should buy out and demolish the Twente asphalt plant.",
-      "themeEn": "Twente asphalt plant"
+      "isShootout": false
     },
     {
       "id": 167135,
@@ -2999,12 +3050,29 @@
       "theme": "Social housing",
       "themeId": "sociale-huurwoningen",
       "title": "At least 35% of newly built homes in Hengelo should be social rental housing. Currently, 30% of homes in Hengelo are social rental housing.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in Hengelo moet minstens 35% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " zijn. In Hengelo is nu 30% van de woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "A number of parties agree because there is a great need for social rental housing. This is visible from the long waiting lists. In recent years the number of social rental homes has declined because homes have been demolished or sold.",
       "con": "A number of parties disagree because they think the current target is sufficient. The municipality now wants 30% of new construction to be social rental housing. A rate of 35% leads to more rules and therefore to less being built.",
-      "isShootout": false,
-      "titleEn": "At least 35% of newly built homes in Hengelo should be social rental housing. Currently, 30% of homes in Hengelo are social rental housing.",
-      "themeEn": "Social housing"
+      "isShootout": false
     },
     {
       "id": 167162,
@@ -3012,12 +3080,22 @@
       "theme": "Wind turbines",
       "themeId": "windmolens",
       "title": "The municipality should ensure that not one but two wind turbines are built.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet ervoor zorgen dat er niet één, maar twee "
+        },
+        {
+          "text": "windmolens",
+          "glossary": "These are modern wind turbines that convert wind power into electricity and can be up to 150 meters high."
+        },
+        {
+          "text": " worden gebouwd."
+        }
+      ],
       "moreInfo": "",
       "pro": "Some parties agree because they believe wind turbines contribute to the switch to sustainable energy. Wind turbines take up less space than solar fields. On the site where one wind turbine is planned now, there is room for a second one.",
       "con": "Some parties disagree because they believe too few residents support wind turbines. There is too little space in Hengelo to place another wind turbine. Decisions about placing wind turbines are made by the province, not the municipality.",
-      "isShootout": false,
-      "titleEn": "The municipality should ensure that not one but two wind turbines are built.",
-      "themeEn": "Wind turbines"
+      "isShootout": false
     },
     {
       "id": 167126,
@@ -3028,9 +3106,7 @@
       "moreInfo": "The group referred to is usually called a citizens' assembly. The municipality can organize such an assembly. In 2023 the Hengelo municipal council adopted a participation ordinance setting the rules for citizen participation and thus for a citizens' assembly. The municipality must make clear in advance exactly what the assembly will advise on and how the council will take the assembly’s outcome into account in its final decision.",
       "pro": "A number of parties are in favor because such a group of citizens (a citizens' assembly) increases support for municipal council decisions. It gives residents influence over decisions that affect them. It produces better decisions.",
       "con": "A number of parties are against this because not all residents who want to participate would be allowed to. Only citizens who are drawn by lot would be allowed to speak. Advice should come from experts and not from a random group of residents. The municipal council is elected to represent residents. A citizens’ assembly is therefore not necessary.",
-      "isShootout": false,
-      "titleEn": "A group of residents selected by lottery should advise the municipality on important issues.",
-      "themeEn": "Citizens' assembly"
+      "isShootout": false
     },
     {
       "id": 167131,
@@ -3041,9 +3117,7 @@
       "moreInfo": "",
       "pro": "Some parties think polluters should be dealt with strictly. This is a good measure against decline and thus improves the city's livability. A lot of waste is currently dumped in the city.",
       "con": "Some parties believe fines do not help to combat illegal dumping of waste. The fines are already high. Increasing the chance of being caught is more important than increasing the fines.",
-      "isShootout": false,
-      "titleEn": "Fines for dumping waste should be increased.",
-      "themeEn": "Dumping waste"
+      "isShootout": false
     },
     {
       "id": 167138,
@@ -3054,9 +3128,7 @@
       "moreInfo": "",
       "pro": "A number of parties support this because then working residents who are just above the income threshold can also receive help. More and more residents need poverty assistance.",
       "con": "A number of parties are against this because Hengelo already has a high income threshold for poverty assistance. Tailored solutions work better than raising the income threshold.",
-      "isShootout": false,
-      "titleEn": "The municipality should raise the income threshold for receiving poverty assistance. More people would then receive help.",
-      "themeEn": "Combating poverty"
+      "isShootout": false
     },
     {
       "id": 167180,
@@ -3067,9 +3139,7 @@
       "moreInfo": "Hengelo has three community houses (Wijkhuyzen) where residents can go for activities, help, and information. These Wijkhuyzen are in Hasselo, Nijverheid, and Weidedorp.",
       "pro": "A number of parties think this is a good idea because Wijkhuyzen foster meetings between residents and social cohesion. In Wijkhuyzen the municipality can organize care close to home.",
       "con": "A number of parties think this is not a good idea because not every neighborhood has the same needs. Residents should indicate themselves whether they want a neighborhood house.",
-      "isShootout": false,
-      "titleEn": "Every neighborhood in Hengelo should get its own neighborhood community center.",
-      "themeEn": "Wijkhuyzen"
+      "isShootout": false
     },
     {
       "id": 167146,
@@ -3080,9 +3150,7 @@
       "moreInfo": "",
       "pro": "Some parties support this because it makes the city center more attractive to visitors. It increases the city's economic viability. It supports local entrepreneurs.",
       "con": "Some parties oppose this because there are currently enough free short-term parking spaces. Encouraging cycling and public transport to visit the city center is more important. City centers where a larger share of people go by car perform worse economically.",
-      "isShootout": false,
-      "titleEn": "There should be more free short-term parking spaces in the city center.",
-      "themeEn": "Parking at shops"
+      "isShootout": false
     },
     {
       "id": 167181,
@@ -3090,12 +3158,22 @@
       "theme": "Homeless people",
       "themeId": "daklozen",
       "title": "In Hengelo, homeless people should be given priority when allocating social rental housing.",
+      "titleParts": [
+        {
+          "text": " In Hengelo moeten daklozen voorrang krijgen bij de toewijzing van "
+        },
+        {
+          "text": "sociale huurwoningen",
+          "glossary": "Rental homes with low rent for people with a low income. In 2026 that is at most €932.93 per month."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "Parties that agree with this believe that housing is the most important thing for homeless people. Only by providing a roof over their heads can the municipality give homeless people a stable and safe base. It does not suit Hengelo that people are living on the streets.",
       "con": "Parties that disagree believe that giving priority to homeless people is not fair to other housing seekers. A home is not always the best solution to a homeless person's problems.",
-      "isShootout": false,
-      "titleEn": "In Hengelo, homeless people should be given priority when allocating social rental housing.",
-      "themeEn": "Homeless people"
+      "isShootout": false
     },
     {
       "id": 167177,
@@ -3106,9 +3184,7 @@
       "moreInfo": "",
       "pro": "Some parties agree with this because it attracts extra visitors to the city center. That is good for the local economy. It helps reduce loneliness. It reduces parking pressure in the city center.",
       "con": "Some parties disagree because they believe cycling to the city center should be preferred. It is an expensive measure that must be paid for by residents. It is better to arrange this only for residents with low incomes.",
-      "isShootout": false,
-      "titleEn": "The municipality should fund free buses between the neighborhoods and the city center on Saturdays.",
-      "themeEn": "Free public transport"
+      "isShootout": false
     },
     {
       "id": 167156,
@@ -3116,12 +3192,22 @@
       "theme": "Waste collection",
       "themeId": "afvalinzameling",
       "title": "The municipality of Hengelo should stop collecting residual waste and packaging waste (PMD) separately.",
+      "titleParts": [
+        {
+          "text": " De gemeente Hengelo moet stoppen met het apart inzamelen van "
+        },
+        {
+          "text": "restafval",
+          "glossary": "Waste that remains after paper, plastic and organic waste have been collected separately."
+        },
+        {
+          "text": " en verpakkingsafval (pmd)."
+        }
+      ],
       "moreInfo": "In September 2024 the collection of plastic packaging, metal packaging and drink cartons (PMD) changed for high-rise buildings. The above-ground PMD containers were removed and replaced by “drop posts” for bag collection. This collection method has caused a lot of litter and nuisance. In January the council decided to change the system from 2027. The exact form of the change is yet to be decided by the council.",
       "pro": "Parties that agree say that sorting waste afterwards leads to better results. The current way of disposing of waste is too complicated for residents. The current method leads to waste dumping and piles of debris in the neighborhood.",
       "con": "Parties that disagree say it is more sustainable if residents separate their waste in advance. Having residents separate their waste beforehand, as happens now, is cheaper. For low-rise housing, residents separating their waste in advance works fine.",
-      "isShootout": false,
-      "titleEn": "The municipality of Hengelo should stop collecting residual waste and packaging waste (PMD) separately.",
-      "themeEn": "Waste collection"
+      "isShootout": false
     },
     {
       "id": 167144,
@@ -3129,12 +3215,22 @@
       "theme": "Discrimination",
       "themeId": "discriminatie",
       "title": "The municipality should take part in the annual Pride week for all LGBTQIA+ residents.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meedoen met de jaarlijkse Prideweek voor alle "
+        },
+        {
+          "text": "lhbtqia+",
+          "glossary": "The letters stand for lesbian, gay, bisexual, transgender, queer, intersex and asexual. The + stands for all other ways people experience their identity and sexuality."
+        },
+        {
+          "text": "-inwoners."
+        }
+      ],
       "moreInfo": "",
       "pro": "A number of parties agree because this contributes to an inclusive society. The municipality thus shows that all residents are treated equally and everyone can feel at home and safe. LGBTQIA+ people are still regularly discriminated against.",
       "con": "A number of parties disagree because LGBTQIA+ people should not receive a separate platform. The municipality can also demonstrate inclusion and connection in other ways.",
-      "isShootout": false,
-      "titleEn": "The municipality should take part in the annual Pride week for all LGBTQIA+ residents.",
-      "themeEn": "Discrimination"
+      "isShootout": false
     },
     {
       "id": 167153,
@@ -3142,12 +3238,29 @@
       "theme": "Integration of residence permit holders",
       "themeId": "integratie-statushouders",
       "title": "The municipality should spend less money on integrating refugees who have a residence permit.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet minder geld uitgeven aan de "
+        },
+        {
+          "text": "integratie",
+          "glossary": "Newcomers learn the language and customs of the Netherlands."
+        },
+        {
+          "text": " van vluchtelingen met een "
+        },
+        {
+          "text": "verblijfsstatus",
+          "glossary": "Refugees who have been granted a residence permit and are therefore allowed to stay in the Netherlands."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "Some parties agree because they believe newcomers themselves are responsible for their integration. The municipality must scrutinize how the money is spent.",
       "con": "Some parties disagree because they believe these newcomers integrate faster with municipal support. They also find work more quickly. Supporting status holders in their integration is a legal duty and a moral obligation.",
-      "isShootout": false,
-      "titleEn": "The municipality should spend less money on integrating refugees who have a residence permit.",
-      "themeEn": "Integration of residence permit holders"
+      "isShootout": false
     },
     {
       "id": 167148,
@@ -3158,9 +3271,7 @@
       "moreInfo": "",
       "pro": "Some parties support this because the municipality has already promised to do so. It is called socially responsible procurement. Sustainable procurement is part of that. The municipality must set a good example.",
       "con": "Some parties oppose this because value for money must come first when the municipality buys goods or services. The municipality should purchase as much as possible from Hengelo businesses.",
-      "isShootout": false,
-      "titleEn": "When the municipality purchases goods or services, it should give priority to sustainable companies.",
-      "themeEn": "Sustainable procurement"
+      "isShootout": false
     },
     {
       "id": 167157,
@@ -3171,9 +3282,7 @@
       "moreInfo": "",
       "pro": "A number of parties agree because they think this will reduce dumping of waste. Currently, residents who dispose of more waste have to pay more. A fixed fee is fair. Everyone then pays the same for the same basic service.",
       "con": "A number of parties disagree because they find this unfair. It is not fair if people who deliver little waste have to pay the same as those who deliver a lot. If it is more expensive to deliver more waste, you encourage residents to produce less waste.",
-      "isShootout": false,
-      "titleEn": "Every household should pay a fixed fee for waste collection; the amount of waste you put out would not matter.",
-      "themeEn": "Residual waste"
+      "isShootout": false
     },
     {
       "id": 167167,
@@ -3184,9 +3293,7 @@
       "moreInfo": "",
       "pro": "Some parties agree because it invites young people to be active outdoors and meet others. The skateboard park behind the station is a great success. Groot Driene could also use a place like that.",
       "con": "Some parties disagree because there is already a nice skateboard park behind the station. Building and maintaining a new skate facility costs a lot of money.",
-      "isShootout": false,
-      "titleEn": "There should be more places to skateboard in Hengelo.",
-      "themeEn": "Skaters"
+      "isShootout": false
     },
     {
       "id": 167128,
@@ -3197,9 +3304,7 @@
       "moreInfo": "",
       "pro": "A number of parties agree because public spaces should be tidy. The public space then becomes more accessible. Mowing more often is better for traffic safety.",
       "con": "A number of parties disagree because they think it is better to give herbs and flowers a chance to grow. Not mowing the grass or mowing it later is good for insects and birds. Not mowing the grass or mowing it later is good for the liveability of Hengelo.",
-      "isShootout": false,
-      "titleEn": "The municipality should mow public grass more often.",
-      "themeEn": "Grass"
+      "isShootout": false
     },
     {
       "id": 167170,
@@ -3210,9 +3315,7 @@
       "moreInfo": "",
       "pro": "A number of parties agree because this helps first-time buyers to obtain an owner-occupied home. It is the municipality's task to ensure affordable housing. This will facilitate housing turnover.",
       "con": "A number of parties disagree because this leads to homebuyers having little choice. Mainly houses costing less than €250,000 would be built. It is almost impossible to build a house for €250,000. It does not help the flow on the housing market.",
-      "isShootout": false,
-      "titleEn": "Half of the newly built homes should be owner-occupied properties costing no more than €250,000.",
-      "themeEn": "Affordable housing"
+      "isShootout": false
     },
     {
       "id": 167164,
@@ -3220,12 +3323,22 @@
       "theme": "School buildings",
       "themeId": "schoolgebouwen",
       "title": "The municipality should invest more money in making existing school buildings more sustainable.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld steken in het "
+        },
+        {
+          "text": "duurzaam",
+          "glossary": "A building with low energy use or built with materials that can be (re)used for a long time."
+        },
+        {
+          "text": " maken van bestaande schoolgebouwen."
+        }
+      ],
       "moreInfo": "",
       "pro": "Parties that agree point out that this ensures a healthy and safe indoor climate in school buildings. In addition, the energy bill will be lower.",
       "con": "Parties that disagree point out that there is already a plan for the sustainability and new construction of school buildings. Spending more money than provided for in that plan is unnecessary.",
-      "isShootout": false,
-      "titleEn": "The municipality should invest more money in making existing school buildings more sustainable.",
-      "themeEn": "School buildings"
+      "isShootout": false
     },
     {
       "id": 167151,
@@ -3233,12 +3346,22 @@
       "theme": "Asylum seekers' center",
       "themeId": "asielzoekerscentrum",
       "title": "The municipality should accommodate more asylum seekers than is legally required.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer "
+        },
+        {
+          "text": "asielzoekers",
+          "glossary": "People who have applied for asylum and are still waiting for a decision."
+        },
+        {
+          "text": " opvangen dan wettelijk verplicht."
+        }
+      ],
       "moreInfo": "Under the Distribution Act Hengelo must accommodate 415 asylum seekers; Ukrainians are not counted in this. According to the municipality, in 2024 there were 470 asylum seekers in Hengelo’s reception, spread over three locations: Havezatelaan, Hazenweg and Van der Valk.",
       "pro": "A number of parties agree because Hengelo already does this, and it is going well. Hengelo is welcoming to refugees.",
       "con": "A number of parties disagree because Hengelo does not have to take on the responsibility of other municipalities. Other municipalities must also take in asylum seekers now. Some parties believe Hengelo should not take in asylum seekers at all.",
-      "isShootout": false,
-      "titleEn": "The municipality should accommodate more asylum seekers than is legally required.",
-      "themeEn": "Asylum seekers' center"
+      "isShootout": false
     },
     {
       "id": 167134,
@@ -3246,12 +3369,22 @@
       "theme": "Priority for housing",
       "themeId": "voorrang-huisvesting",
       "title": "When allocating social housing, applicants from the municipality should be given priority.",
+      "titleParts": [
+        {
+          "text": " Bij de toewijzing van een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " moeten woningzoekenden uit de eigen gemeente voorrang krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "Some parties agree because they believe priority for local residents is fair. People are best off living where they work or where their family and friends are.",
       "con": "Some parties disagree because they believe it is good for Hengelo's development if people from outside Hengelo move here. It is unfair: everyone should have an equal chance to get a social rental home.",
-      "isShootout": false,
-      "titleEn": "When allocating social housing, applicants from the municipality should be given priority.",
-      "themeEn": "Priority for housing"
+      "isShootout": false
     },
     {
       "id": 167169,
@@ -3262,9 +3395,7 @@
       "moreInfo": "",
       "pro": "Some parties agree because there is not always room for a parking space and not everyone needs one. We should use public space for trees, plants and lawns. If there are fewer rules, more can be built.",
       "con": "Some parties disagree because this causes more cars to be parked in the surrounding neighborhoods. Each home should have at least one parking space. People from Hengelo also want to keep driving their own car in the future.",
-      "isShootout": false,
-      "titleEn": "The municipality should allow the construction of homes without parking spaces.",
-      "themeEn": "Parking spaces for new construction"
+      "isShootout": false
     },
     {
       "id": 167133,
@@ -3275,9 +3406,7 @@
       "moreInfo": "",
       "pro": "Parties that agree believe fatbikes cause unsafe situations and accidents. A ban would put an end to this. Other municipalities are working on a fatbike ban.",
       "con": "Parties that disagree say it's not about the fatbike itself, but about the rider of the fatbike. It is not possible to ban fatbikes.",
-      "isShootout": false,
-      "titleEn": "There should be a ban on fatbikes in the city center.",
-      "themeEn": "Fat bikes"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

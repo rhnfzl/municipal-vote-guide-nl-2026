@@ -1120,9 +1120,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Cafés and restaurants must be able to determine their own opening hours.",
-      "themeEn": "Closing times for bars and restaurants"
+      "isShootout": false
     },
     {
       "id": 155732,
@@ -1130,12 +1128,29 @@
       "theme": "Social housing",
       "themeId": "sociale-huurwoningen",
       "title": "At least 35% of newly built homes in Nijkerk should be social rental housing. In the Netherlands, 28% of homes are currently social rental housing.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in Nijkerk moet minimaal 35% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " zijn. In Nederland is nu 28% van de woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "At least 35% of newly built homes in Nijkerk should be social rental housing. In the Netherlands, 28% of homes are currently social rental housing.",
-      "themeEn": "Social housing"
+      "isShootout": false
     },
     {
       "id": 155730,
@@ -1146,9 +1161,7 @@
       "moreInfo": "Camera surveillance refers to the use of cameras in public places, such as streets and squares. Camera footage of criminal offences can be shared with the police. In Nijkerk there is already camera surveillance in some locations, for example around the Paasbos shopping centre.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be more CCTV surveillance in the municipality of Nijkerk.",
-      "themeEn": "Camera surveillance"
+      "isShootout": false
     },
     {
       "id": 155756,
@@ -1159,9 +1172,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents who plan to create neighbourhood, façade or rooftop gardens should receive funding from the municipality.",
-      "themeEn": "Neighborhood, façade and roof gardens"
+      "isShootout": false
     },
     {
       "id": 155714,
@@ -1169,12 +1180,22 @@
       "theme": "Dog tax",
       "themeId": "hondenbelasting",
       "title": "The municipality should abolish the dog tax.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de "
+        },
+        {
+          "text": "hondenbelasting",
+          "glossary": "Tax paid to the municipality for owning one or more dogs."
+        },
+        {
+          "text": " afschaffen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should abolish the dog tax.",
-      "themeEn": "Dog tax"
+      "isShootout": false
     },
     {
       "id": 155752,
@@ -1185,9 +1206,7 @@
       "moreInfo": "Parking in certain parts of Nijkerk’s town centre now costs €1.10 per hour.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Parking in the centre of Nijkerk should be free for the first two hours.",
-      "themeEn": "First two hours of parking"
+      "isShootout": false
     },
     {
       "id": 155722,
@@ -1195,12 +1214,29 @@
       "theme": "Integration",
       "themeId": "integratie",
       "title": "The municipality should spend more money on integrating newcomers into society.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld uitgeven aan "
+        },
+        {
+          "text": "integratie",
+          "glossary": "Newcomers learn the language and customs of the Netherlands."
+        },
+        {
+          "text": " van "
+        },
+        {
+          "text": "nieuwkomers",
+          "glossary": "People who are new to the Netherlands."
+        },
+        {
+          "text": " in de maatschappij."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should spend more money on integrating newcomers into society.",
-      "themeEn": "Integration"
+      "isShootout": false
     },
     {
       "id": 155712,
@@ -1208,12 +1244,29 @@
       "theme": "Tax on buildings",
       "themeId": "belasting-op-gebouwen",
       "title": "Property tax (ozb) should be increased to maintain social services.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "onroerendezaakbelasting",
+          "glossary": "Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": " (ozb) moet omhoog om "
+        },
+        {
+          "text": "sociale voorzieningen",
+          "glossary": "Services and schemes for residents, such as financial support, care, culture, sport and recreation."
+        },
+        {
+          "text": " op peil te houden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Property tax (ozb) should be increased to maintain social services.",
-      "themeEn": "Tax on buildings"
+      "isShootout": false
     },
     {
       "id": 155715,
@@ -1221,12 +1274,22 @@
       "theme": "Attracting businesses",
       "themeId": "aantrekken-bedrijven",
       "title": "The municipality should invest in a promotional campaign to market Nijkerk as an attractive location for businesses.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld steken in een "
+        },
+        {
+          "text": "promotiecampagne",
+          "glossary": "A series of advertisements on, for example, billboards, television, and social media."
+        },
+        {
+          "text": " voor Nijkerk als aantrekkelijke vestigingsplaats voor bedrijven."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should invest in a promotional campaign to market Nijkerk as an attractive location for businesses.",
-      "themeEn": "Attracting businesses"
+      "isShootout": false
     },
     {
       "id": 155767,
@@ -1237,9 +1300,7 @@
       "moreInfo": "Nuclear energy is the energy produced by splitting the atomic nuclei of the fuel uranium. The province of Gelderland is examining locations for building a small nuclear reactor that generates nuclear energy, also called a Small Modular Reactor (SMR). A possible location is an area on the Veluwemeer near Harderwijk. The province aims to decide on this by 2027 at the latest.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should never invest in or cooperate with plans for nuclear energy.",
-      "themeEn": "Nuclear energy"
+      "isShootout": false
     },
     {
       "id": 155753,
@@ -1250,9 +1311,7 @@
       "moreInfo": "The future ring road will run on the right (east) side of the core of Nijkerk. There are already two plans for additional roads: one on the south side of Nijkerk (between the Arkemheenweg and the Barneveldseweg/Chopinlaan roundabout) and one on the northeast side (extending the Berencamperweg near the Vetkamp towards the Bloemendaalseweg). The future ring road will connect these two additional roads.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should commit to building a bypass on the east side of Nijkerk.",
-      "themeEn": "Ring road"
+      "isShootout": false
     },
     {
       "id": 155757,
@@ -1260,12 +1319,22 @@
       "theme": "Recycling center",
       "themeId": "milieustraat",
       "title": "Residents should be able to dispose of waste at the recycling centre for free twice a year.",
+      "titleParts": [
+        {
+          "text": " Inwoners moeten twee keer per jaar gratis afval kunnen storten bij de "
+        },
+        {
+          "text": "milieustraat",
+          "glossary": "A place where citizens and businesses can bring different kinds of waste."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents should be able to dispose of waste at the recycling centre for free twice a year.",
-      "themeEn": "Recycling center"
+      "isShootout": false
     },
     {
       "id": 155731,
@@ -1273,12 +1342,22 @@
       "theme": "Starter loan",
       "themeId": "starterslening",
       "title": "The municipality's starter loan should remain available for people buying a house for the first time.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "starterslening",
+          "glossary": "An extra loan on top of your mortgage, which you can only get when buying a house for the first time."
+        },
+        {
+          "text": " van de gemeente moet blijven bestaan, voor mensen die voor het eerst een huis willen kopen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality's starter loan should remain available for people buying a house for the first time.",
-      "themeEn": "Starter loan"
+      "isShootout": false
     },
     {
       "id": 155741,
@@ -1289,9 +1368,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should invest in open farm days at farms to show residents where their food comes from.",
-      "themeEn": "Open yard days"
+      "isShootout": false
     },
     {
       "id": 155728,
@@ -1299,12 +1376,22 @@
       "theme": "Coffeeshops (cannabis cafés)",
       "themeId": "coffeeshops",
       "title": "The municipality must allow the establishment of coffeeshops.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de vestiging van "
+        },
+        {
+          "text": "coffeeshops",
+          "glossary": "Shops or cafés where you can buy and smoke soft drugs (hash, weed)."
+        },
+        {
+          "text": " toestaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must allow the establishment of coffeeshops.",
-      "themeEn": "Coffeeshops (cannabis cafés)"
+      "isShootout": false
     },
     {
       "id": 155721,
@@ -1312,12 +1399,29 @@
       "theme": "Priority for refugees",
       "themeId": "voorrang-voor-vluchtelingen",
       "title": "The municipality must continue to give refugees with a residence permit priority for social housing.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet vluchtelingen met een "
+        },
+        {
+          "text": "verblijfsvergunning",
+          "glossary": "The right to reside in the Netherlands."
+        },
+        {
+          "text": " voorrang blijven geven op een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must continue to give refugees with a residence permit priority for social housing.",
-      "themeEn": "Priority for refugees"
+      "isShootout": false
     },
     {
       "id": 155758,
@@ -1328,9 +1432,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "If a wolf causes problems, the municipality must urge the province to have it shot.",
-      "themeEn": "Wolf"
+      "isShootout": false
     },
     {
       "id": 155754,
@@ -1341,9 +1443,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must open a guarded bicycle parking facility in the centre of Nijkerk.",
-      "themeEn": "Bicycle parking"
+      "isShootout": false
     },
     {
       "id": 155745,
@@ -1351,12 +1451,22 @@
       "theme": "Jobs for refugees",
       "themeId": "banen-voor-vluchtelingen",
       "title": "Refugees who receive a residence permit and move to the municipality of Nijkerk should be offered a job in the local business community by the municipality.",
+      "titleParts": [
+        {
+          "text": " Vluchtelingen die een "
+        },
+        {
+          "text": "verblijfsvergunning",
+          "glossary": "The right to reside in the Netherlands."
+        },
+        {
+          "text": " krijgen en in gemeente Nijkerk komen wonen, moet de gemeente een baan aanbieden in het lokale bedrijfsleven."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Refugees who receive a residence permit and move to the municipality of Nijkerk should be offered a job in the local business community by the municipality.",
-      "themeEn": "Jobs for refugees"
+      "isShootout": false
     },
     {
       "id": 155719,
@@ -1364,12 +1474,22 @@
       "theme": "Sustainable energy",
       "themeId": "duurzame-energie",
       "title": "Residents who want to generate sustainable energy together should receive financial support from the municipality.",
+      "titleParts": [
+        {
+          "text": " Inwoners die samen "
+        },
+        {
+          "text": "duurzame energie",
+          "glossary": "Energy based on resources that are effectively infinite, such as sunlight and wind."
+        },
+        {
+          "text": " op willen wekken, moeten financiële steun krijgen van de gemeente."
+        }
+      ],
       "moreInfo": "Homeowners can install solar panels on their roof if the roof is suitable, or apply for a permit for a wind turbine in the garden if it is large enough. If that is not possible, people can buy or rent land together with others for one or more wind turbines or solar panels so they can still invest in renewable energy. Renewable energy is generated from sources that never run out, such as sunlight and wind.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents who want to generate sustainable energy together should receive financial support from the municipality.",
-      "themeEn": "Sustainable energy"
+      "isShootout": false
     },
     {
       "id": 155765,
@@ -1377,12 +1497,36 @@
       "theme": "Diversity and inclusion",
       "themeId": "diversiteit-en-inclusie",
       "title": "The municipality must consider diversity and inclusion as a condition for every socio-cultural subsidy.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet bij iedere "
+        },
+        {
+          "text": "sociaal-culturele",
+          "glossary": "Aimed at bringing people together to jointly experience, for example, traditions or art."
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "subsidie",
+          "glossary": "Money the government gives to citizens, businesses, and organizations to support them."
+        },
+        {
+          "text": " diversiteit en "
+        },
+        {
+          "text": "inclusie",
+          "glossary": "Actively involving and treating all people equally, regardless of their background, characteristics or any disability."
+        },
+        {
+          "text": " meewegen als voorwaarde."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must consider diversity and inclusion as a condition for every socio-cultural subsidy.",
-      "themeEn": "Diversity and inclusion"
+      "isShootout": false
     },
     {
       "id": 155746,
@@ -1390,12 +1534,22 @@
       "theme": "Enforcement officers",
       "themeId": "handhavers",
       "title": "The municipal enforcement officers (BOAs) who monitor safety in the municipality of Nijkerk should be given a body camera, a baton and pepper spray.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "boa's",
+          "glossary": "Special Enforcement Officers. They can issue fines and often supervise the streets."
+        },
+        {
+          "text": " die in de gemeente Nijkerk controleren op veiligheid moeten een bodycam, wapenstok en pepperspray krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipal enforcement officers (BOAs) who monitor safety in the municipality of Nijkerk should be given a body camera, a baton and pepper spray.",
-      "themeEn": "Enforcement officers"
+      "isShootout": false
     },
     {
       "id": 155713,
@@ -1406,9 +1560,7 @@
       "moreInfo": "The municipality has many tasks. Most Dutch municipalities work together to carry out those tasks. The aldermen and civil servants then consult with each other to arrange the cooperation. A decision by such a cooperative body then applies to all municipalities participating in it.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should handle more itself and participate less in partnerships with other municipalities.",
-      "themeEn": "Partnerships"
+      "isShootout": false
     },
     {
       "id": 155733,
@@ -1419,9 +1571,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "More tall apartment buildings should be allowed in Nijkerk.",
-      "themeEn": "Apartment buildings"
+      "isShootout": false
     },
     {
       "id": 155764,
@@ -1432,9 +1582,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must oppose the construction of new wind turbines everywhere.",
-      "themeEn": "Wind turbines"
+      "isShootout": false
     },
     {
       "id": 155710,
@@ -1445,9 +1593,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents should be able to take over the management of, for example, a sports hall from the municipality.",
-      "themeEn": "Management by citizens"
+      "isShootout": false
     },
     {
       "id": 155747,
@@ -1458,9 +1604,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should disperse nuisance-causing loitering youth with smart \"mosquito\" devices: devices that emit an annoying sound people over 25 cannot hear.",
-      "themeEn": "Smart mosquitoes"
+      "isShootout": false
     },
     {
       "id": 155734,
@@ -1471,9 +1615,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Housing should also be built on business parks.",
-      "themeEn": "Living on an industrial estate"
+      "isShootout": false
     },
     {
       "id": 155751,
@@ -1484,9 +1626,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents who go into couples therapy should have it reimbursed by the municipality.",
-      "themeEn": "Couples therapy"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

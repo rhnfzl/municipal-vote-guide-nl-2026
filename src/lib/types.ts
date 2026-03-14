@@ -33,6 +33,11 @@ export interface PartyPosition {
   explanationEn?: string;
 }
 
+export interface TitlePart {
+  text: string;
+  glossary?: string;
+}
+
 export interface Statement {
   id: number;
   index: number;
@@ -41,6 +46,7 @@ export interface Statement {
   themeId: string;
   title: string;
   titleEn?: string;
+  titleParts?: TitlePart[];
   moreInfo: string;
   moreInfoEn?: string;
   pro: string;

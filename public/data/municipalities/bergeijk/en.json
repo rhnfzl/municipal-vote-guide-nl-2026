@@ -451,12 +451,22 @@
       "theme": "Public transport",
       "themeId": "openbaar-vervoer",
       "title": "The municipality of Bergeijk should spend money on public transport in addition to the provincial budget.",
+      "titleParts": [
+        {
+          "text": " De gemeente Bergeijk moet geld uitgeven aan het openbaar vervoer, bovenop het "
+        },
+        {
+          "text": "budget",
+          "glossary": "A sum of money for a specific task or assignment."
+        },
+        {
+          "text": " van de provincie."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality of Bergeijk should spend money on public transport in addition to the provincial budget.",
-      "themeEn": "Public transport"
+      "isShootout": false
     },
     {
       "id": 110099,
@@ -464,12 +474,22 @@
       "theme": "Sports membership fees",
       "themeId": "contributie-sport",
       "title": "The municipality should pay the membership fees for a sports club for people receiving social assistance.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet het lidmaatschap van een sportclub betalen voor mensen met een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Money from the municipality for people who have no income or personal funds."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should pay the membership fees for a sports club for people receiving social assistance.",
-      "themeEn": "Sports membership fees"
+      "isShootout": false
     },
     {
       "id": 110106,
@@ -477,12 +497,22 @@
       "theme": "Camera surveillance",
       "themeId": "cameratoezicht",
       "title": "There should be more camera surveillance in Bergeijk.",
+      "titleParts": [
+        {
+          "text": " In Bergeijk moet meer "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Monitoring of a building, area, or (groups of) people using security cameras."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be more camera surveillance in Bergeijk.",
-      "themeEn": "Camera surveillance"
+      "isShootout": false
     },
     {
       "id": 110117,
@@ -493,9 +523,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should designate more parking spaces as charging points for electric cars.",
-      "themeEn": "Electric vehicle charging stations"
+      "isShootout": false
     },
     {
       "id": 110132,
@@ -506,9 +534,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should make it possible for all primary schools to give attention to the Brabants dialect.",
-      "themeEn": "Regional language"
+      "isShootout": false
     },
     {
       "id": 110113,
@@ -516,12 +542,29 @@
       "theme": "Work requirement for welfare recipients",
       "themeId": "tegenprestatie-voor-uitkering",
       "title": "People receiving social assistance should, in return, do socially useful work.",
+      "titleParts": [
+        {
+          "text": " Mensen die een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Money from the municipality for people who have no income or personal funds."
+        },
+        {
+          "text": " krijgen, moeten in ruil daarvoor "
+        },
+        {
+          "text": "maatschappelijk zinvol werk",
+          "glossary": "For example cleaning the streets or keeping company and supporting elderly residents."
+        },
+        {
+          "text": " doen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People receiving social assistance should, in return, do socially useful work.",
-      "themeEn": "Work requirement for welfare recipients"
+      "isShootout": false
     },
     {
       "id": 110123,
@@ -529,12 +572,22 @@
       "theme": "Tourist tax",
       "themeId": "toeristenbelasting",
       "title": "The tourist tax should be increased.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "toeristenbelasting",
+          "glossary": "The tax you must pay when you stay overnight in a hotel or at a campsite."
+        },
+        {
+          "text": " moet omhoog."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The tourist tax should be increased.",
-      "themeEn": "Tourist tax"
+      "isShootout": false
     },
     {
       "id": 110098,
@@ -545,9 +598,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "It should be possible for farmers to build houses themselves on their land.",
-      "themeEn": "Building on agricultural land"
+      "isShootout": false
     },
     {
       "id": 110124,
@@ -558,9 +609,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Business parks in Bergeijk should be allowed to expand.",
-      "themeEn": "Business parks"
+      "isShootout": false
     },
     {
       "id": 110118,
@@ -568,12 +617,29 @@
       "theme": "Car speeds",
       "themeId": "snelheid-auto-s",
       "title": "The maximum speed limit in built-up areas should be set to 30 km/h.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "maximumsnelheid",
+          "glossary": "The maximum speed that cars and motorcycles are allowed to drive on the road."
+        },
+        {
+          "text": " binnen de "
+        },
+        {
+          "text": "bebouwde kom",
+          "glossary": "An area with buildings (houses, other structures)."
+        },
+        {
+          "text": " moet naar 30 km/u."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The maximum speed limit in built-up areas should be set to 30 km/h.",
-      "themeEn": "Car speeds"
+      "isShootout": false
     },
     {
       "id": 110111,
@@ -584,9 +650,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must allow holiday homes to be used as a permanent residence.",
-      "themeEn": "Holiday homes"
+      "isShootout": false
     },
     {
       "id": 110120,
@@ -597,9 +661,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "When selecting organizations for youth care, the municipality should primarily pay attention to price.",
-      "themeEn": "Youth care"
+      "isShootout": false
     },
     {
       "id": 110131,
@@ -607,12 +669,22 @@
       "theme": "School swimming",
       "themeId": "schoolzwemmen",
       "title": "The municipality should allocate money for school swimming.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld beschikbaar stellen voor "
+        },
+        {
+          "text": "schoolzwemmen",
+          "glossary": "Swimming lessons organized by the school."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allocate money for school swimming.",
-      "themeEn": "School swimming"
+      "isShootout": false
     },
     {
       "id": 110092,
@@ -620,12 +692,22 @@
       "theme": "Wood burning",
       "themeId": "houtstook",
       "title": "The use of open fireplaces and wood stoves should remain permitted in Bergeijk.",
+      "titleParts": [
+        {
+          "text": " In Bergeijk moet het gebruik van open haarden en "
+        },
+        {
+          "text": "houtkachels",
+          "glossary": "Wood-burning stoves used to heat a home."
+        },
+        {
+          "text": " toegestaan blijven."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The use of open fireplaces and wood stoves should remain permitted in Bergeijk.",
-      "themeEn": "Wood burning"
+      "isShootout": false
     },
     {
       "id": 110119,
@@ -633,12 +715,22 @@
       "theme": "Choice of healthcare",
       "themeId": "zorgkeuze",
       "title": "People who need care should always be able to choose a caregiver who matches their religion, culture, or beliefs.",
+      "titleParts": [
+        {
+          "text": " Mensen die zorg nodig hebben, moeten altijd kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of "
+        },
+        {
+          "text": "levensovertuiging",
+          "glossary": "What someone believes about life, such as a religion or personal conviction."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People who need care should always be able to choose a caregiver who matches their religion, culture, or beliefs.",
-      "themeEn": "Choice of healthcare"
+      "isShootout": false
     },
     {
       "id": 110089,
@@ -646,12 +738,22 @@
       "theme": "Asylum seekers' center",
       "themeId": "asielzoekerscentrum",
       "title": "An asylum seekers' center (AZC) should be established in our municipality.",
+      "titleParts": [
+        {
+          "text": " In onze gemeente moet een "
+        },
+        {
+          "text": "asielzoekerscentrum",
+          "glossary": "Reception center for asylum seekers. They live there until it is decided whether they may stay in the Netherlands. An asylum seekers’ center remains in a municipality for a long time."
+        },
+        {
+          "text": " (azc) komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "An asylum seekers' center (AZC) should be established in our municipality.",
-      "themeEn": "Asylum seekers' center"
+      "isShootout": false
     },
     {
       "id": 110083,
@@ -659,12 +761,22 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "The residents of Bergeijk should be able to give their opinion on important issues via a referendum.",
+      "titleParts": [
+        {
+          "text": " De inwoners van Bergeijk moeten over belangrijke onderwerpen hun mening kunnen geven via een "
+        },
+        {
+          "text": "referendum",
+          "glossary": "A public consultation where residents can express their opinion on a political issue. The municipal council is not obliged to follow the result; legally it cannot."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The residents of Bergeijk should be able to give their opinion on important issues via a referendum.",
-      "themeEn": "Referendum"
+      "isShootout": false
     },
     {
       "id": 110105,
@@ -672,12 +784,22 @@
       "theme": "Enforcement officers",
       "themeId": "handhavers",
       "title": "More municipal enforcement officers (BOAs) who focus on safety should be employed in Bergeijk.",
+      "titleParts": [
+        {
+          "text": " In Bergeijk moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "People who, for the municipality, check whether citizens and businesses comply with the rules."
+        },
+        {
+          "text": " (boa’s) komen die zich met veiligheid bezighouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "More municipal enforcement officers (BOAs) who focus on safety should be employed in Bergeijk.",
-      "themeEn": "Enforcement officers"
+      "isShootout": false
     },
     {
       "id": 110087,
@@ -685,12 +807,22 @@
       "theme": "Sustainable energy",
       "themeId": "duurzame-energie",
       "title": "Residents who want to generate sustainable energy together should receive financial support from the municipality.",
+      "titleParts": [
+        {
+          "text": " Inwoners die samen "
+        },
+        {
+          "text": "duurzame energie",
+          "glossary": "Energy based on resources that are effectively infinite, such as sunlight and wind."
+        },
+        {
+          "text": " op willen wekken, moeten financiële steun krijgen van de gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents who want to generate sustainable energy together should receive financial support from the municipality.",
-      "themeEn": "Sustainable energy"
+      "isShootout": false
     },
     {
       "id": 110128,
@@ -701,9 +833,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must allow solar panels on agricultural land.",
-      "themeEn": "Solar panels on farmland"
+      "isShootout": false
     },
     {
       "id": 110094,
@@ -714,9 +844,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should organize a fireworks show on New Year's Eve.",
-      "themeEn": "Fireworks"
+      "isShootout": false
     },
     {
       "id": 110116,
@@ -724,12 +852,29 @@
       "theme": "Youth services",
       "themeId": "jongerenwerk",
       "title": "The municipality should cut spending on youth work.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "bezuinigen",
+          "glossary": "Spending less money."
+        },
+        {
+          "text": " op het "
+        },
+        {
+          "text": "jongerenwerk",
+          "glossary": "People and organizations that help young people in the municipality with various things."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should cut spending on youth work.",
-      "themeEn": "Youth services"
+      "isShootout": false
     },
     {
       "id": 110133,
@@ -737,12 +882,22 @@
       "theme": "Coffeeshop (cannabis shop)",
       "themeId": "coffeeshop",
       "title": "The municipality should allow the establishment of a coffeeshop.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de vestiging van een "
+        },
+        {
+          "text": "coffeeshop",
+          "glossary": "Shop or café where you can buy and smoke soft drugs (hash, weed)."
+        },
+        {
+          "text": " toestaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allow the establishment of a coffeeshop.",
-      "themeEn": "Coffeeshop (cannabis shop)"
+      "isShootout": false
     },
     {
       "id": 110108,
@@ -750,12 +905,22 @@
       "theme": "Starter loan",
       "themeId": "starterslening",
       "title": "First-time homebuyers should be able to receive a starter loan from the municipality.",
+      "titleParts": [
+        {
+          "text": " Mensen die voor het eerst een huis willen kopen, moeten van de gemeente een "
+        },
+        {
+          "text": "starterslening",
+          "glossary": "An extra loan on top of your mortgage, which you can only get when buying a house for the first time."
+        },
+        {
+          "text": " kunnen krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "First-time homebuyers should be able to receive a starter loan from the municipality.",
-      "themeEn": "Starter loan"
+      "isShootout": false
     },
     {
       "id": 110139,
@@ -763,12 +928,22 @@
       "theme": "Wind turbines and solar parks",
       "themeId": "windmolens-en-zonneparken",
       "title": "Wind turbines should be built in Bergeijk.",
+      "titleParts": [
+        {
+          "text": " In Bergeijk moeten "
+        },
+        {
+          "text": "windmolens",
+          "glossary": "These are modern wind turbines that convert wind power into electricity and can be up to 150 meters high."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Wind turbines should be built in Bergeijk.",
-      "themeEn": "Wind turbines and solar parks"
+      "isShootout": false
     }
   ],
   "shootoutStatements": []

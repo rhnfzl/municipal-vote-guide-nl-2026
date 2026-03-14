@@ -1595,12 +1595,29 @@
       "theme": "Recycling center",
       "themeId": "milieustraat",
       "title": "Dropping off bulky waste at the recycling center should be free.",
+      "titleParts": [
+        {
+          "text": " Het inleveren van "
+        },
+        {
+          "text": "grofvuil",
+          "glossary": "Waste that is larger than an ordinary trash bin, such as old furniture."
+        },
+        {
+          "text": " bij de "
+        },
+        {
+          "text": "milieustraat",
+          "glossary": "A place where citizens and businesses can bring different kinds of waste."
+        },
+        {
+          "text": " moet gratis worden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Dropping off bulky waste at the recycling center should be free.",
-      "themeEn": "Recycling center"
+      "isShootout": false
     },
     {
       "id": 230707,
@@ -1608,12 +1625,22 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "The residents of Westerkwartier should be able to express their opinion on important issues through a referendum.",
+      "titleParts": [
+        {
+          "text": " De inwoners van Westerkwartier moeten over belangrijke onderwerpen hun mening kunnen geven via een "
+        },
+        {
+          "text": "referendum",
+          "glossary": "A public consultation where residents can express their opinion on a political issue. The municipal council is not obliged to follow the result; legally it cannot."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The residents of Westerkwartier should be able to express their opinion on important issues through a referendum.",
-      "themeEn": "Referendum"
+      "isShootout": false
     },
     {
       "id": 230711,
@@ -1624,9 +1651,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should extend Sunday opening hours for shops.",
-      "themeEn": "Extended opening hours on Sundays"
+      "isShootout": false
     },
     {
       "id": 230724,
@@ -1637,9 +1662,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Anyone who buys a house in our municipality must live in it themselves for at least three years.",
-      "themeEn": "Owner-occupancy of a home"
+      "isShootout": false
     },
     {
       "id": 230732,
@@ -1647,12 +1670,22 @@
       "theme": "Youth council",
       "themeId": "jongerenraad",
       "title": "There should be a youth council in Westerkwartier that can give advice on issues important to young people.",
+      "titleParts": [
+        {
+          "text": " Er moet in Westerkwartier een "
+        },
+        {
+          "text": "jongerenraad",
+          "glossary": "A group of young people who provide input and discuss plans and policy with the municipality."
+        },
+        {
+          "text": " komen die advies kan geven over kwesties die voor jongeren van belang zijn."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be a youth council in Westerkwartier that can give advice on issues important to young people.",
-      "themeEn": "Youth council"
+      "isShootout": false
     },
     {
       "id": 230713,
@@ -1660,12 +1693,22 @@
       "theme": "Bed, bath and bread",
       "themeId": "bed-bad-brood",
       "title": "The municipality of Westerkwartier should not house asylum seekers who are not allowed to stay in the Netherlands.",
+      "titleParts": [
+        {
+          "text": " De gemeente Westerkwartier moet geen "
+        },
+        {
+          "text": "asielzoekers ",
+          "glossary": "People who have applied for asylum and are still waiting for a decision."
+        },
+        {
+          "text": "opvangen die niet in Nederland mogen blijven."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality of Westerkwartier should not house asylum seekers who are not allowed to stay in the Netherlands.",
-      "themeEn": "Bed, bath and bread"
+      "isShootout": false
     },
     {
       "id": 230727,
@@ -1676,9 +1719,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Westerkwartier should not impose municipal charges on low-income residents.",
-      "themeEn": "Tax waivers"
+      "isShootout": false
     },
     {
       "id": 230733,
@@ -1686,12 +1727,22 @@
       "theme": "Municipal service desks",
       "themeId": "gemeenteloketten",
       "title": "More population centers in Westerkwartier should get a municipal service desk.",
+      "titleParts": [
+        {
+          "text": " Meer "
+        },
+        {
+          "text": "kernen",
+          "glossary": "A village or small town that is part of the municipality."
+        },
+        {
+          "text": " in Westerkwartier moeten een gemeenteloket krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "More population centers in Westerkwartier should get a municipal service desk.",
-      "themeEn": "Municipal service desks"
+      "isShootout": false
     },
     {
       "id": 230721,
@@ -1702,9 +1753,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality of Westerkwartier should install cameras in public places where there are frequent disturbances.",
-      "themeEn": "Camera surveillance"
+      "isShootout": false
     },
     {
       "id": 230735,
@@ -1715,9 +1764,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should take over sports fields from clubs that request it.",
-      "themeEn": "Ownership of sports fields"
+      "isShootout": false
     },
     {
       "id": 230742,
@@ -1725,12 +1772,22 @@
       "theme": "Shelter in neighborhoods",
       "themeId": "opvang-in-wijken",
       "title": "Reception locations for asylum seekers in Westerkwartier should not be on the outskirts of villages, but in the middle of residential neighborhoods.",
+      "titleParts": [
+        {
+          "text": " Opvanglocaties voor "
+        },
+        {
+          "text": "asielzoekers ",
+          "glossary": "People who have applied for asylum and are still waiting for a decision."
+        },
+        {
+          "text": "moeten in Westerkwartier niet aan de randen van dorpen komen, maar midden in de woonwijken."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Reception locations for asylum seekers in Westerkwartier should not be on the outskirts of villages, but in the middle of residential neighborhoods.",
-      "themeEn": "Shelter in neighborhoods"
+      "isShootout": false
     },
     {
       "id": 230722,
@@ -1738,12 +1795,29 @@
       "theme": "Enforcement officers",
       "themeId": "handhavers",
       "title": "The municipal enforcement officers (BOAs) in Westerkwartier should be allowed to carry a taser.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "boa's",
+          "glossary": "Special Enforcement Officers. They can issue fines and often supervise the streets."
+        },
+        {
+          "text": " in Westerkwartier moeten een "
+        },
+        {
+          "text": "taser",
+          "glossary": "A stun device that temporarily prevents someone from taking action."
+        },
+        {
+          "text": " bij zich kunnen dragen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipal enforcement officers (BOAs) in Westerkwartier should be allowed to carry a taser.",
-      "themeEn": "Enforcement officers"
+      "isShootout": false
     },
     {
       "id": 230744,
@@ -1754,9 +1828,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "At least 1,000 charging points for electric cars should be added in the municipality of Westerkwartier by 2030.",
-      "themeEn": "Additional charging points"
+      "isShootout": false
     },
     {
       "id": 230750,
@@ -1767,9 +1839,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should designate a site in Westerkwartier where at least 400 homes can be built at once.",
-      "themeEn": "Large-scale housing development"
+      "isShootout": false
     },
     {
       "id": 230728,
@@ -1780,9 +1850,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be more parking spaces in the residential neighborhoods of Westerkwartier.",
-      "themeEn": "Parking spaces"
+      "isShootout": false
     },
     {
       "id": 230761,
@@ -1790,12 +1858,22 @@
       "theme": "Free couples therapy",
       "themeId": "gratis-relatietherapie",
       "title": "The municipality should pay for couples therapy for residents who cannot afford it themselves.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "relatietherapie",
+          "glossary": "When people try to improve their romantic relationship together with a counselor."
+        },
+        {
+          "text": " betalen voor inwoners die dat zelf niet kunnen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should pay for couples therapy for residents who cannot afford it themselves.",
-      "themeEn": "Free couples therapy"
+      "isShootout": false
     },
     {
       "id": 230712,
@@ -1803,12 +1881,22 @@
       "theme": "Sustainable energy",
       "themeId": "duurzame-energie",
       "title": "Residents who want to generate sustainable energy together should receive financial support from the municipality.",
+      "titleParts": [
+        {
+          "text": " Inwoners die samen "
+        },
+        {
+          "text": "duurzame energie",
+          "glossary": "Energy based on resources that are effectively infinite, such as sunlight and wind."
+        },
+        {
+          "text": " op willen wekken, moeten financiële steun krijgen van de gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents who want to generate sustainable energy together should receive financial support from the municipality.",
-      "themeEn": "Sustainable energy"
+      "isShootout": false
     },
     {
       "id": 230718,
@@ -1816,12 +1904,22 @@
       "theme": "Fresh air in schools",
       "themeId": "frisse-lucht-op-school",
       "title": "The municipality should invest money in improving all school buildings during the next council term.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet in de komende "
+        },
+        {
+          "text": "raadsperiode",
+          "glossary": "The municipal council is elected for a period of four years."
+        },
+        {
+          "text": " geld steken in het verbeteren van alle schoolgebouwen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should invest money in improving all school buildings during the next council term.",
-      "themeEn": "Fresh air in schools"
+      "isShootout": false
     },
     {
       "id": 230749,
@@ -1829,12 +1927,22 @@
       "theme": "Abolish tree-felling permits",
       "themeId": "kapvergunning-afschaffen",
       "title": "Residents should be allowed to cut down trees on their own property without applying for a permit.",
+      "titleParts": [
+        {
+          "text": " Inwoners moeten op hun eigen erf bomen kunnen kappen zonder daarvoor een "
+        },
+        {
+          "text": "vergunning",
+          "glossary": "Permission from the municipality to do something."
+        },
+        {
+          "text": " aan te vragen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents should be allowed to cut down trees on their own property without applying for a permit.",
-      "themeEn": "Abolish tree-felling permits"
+      "isShootout": false
     },
     {
       "id": 230763,
@@ -1845,9 +1953,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should offer a rental home to homeless people in Westerkwartier.",
-      "themeEn": "Homeless people"
+      "isShootout": false
     },
     {
       "id": 230731,
@@ -1858,9 +1964,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Westerkwartier should establish a citizens' assembly that gives advice to the municipal council. A citizens' assembly consists of residents chosen by lot.",
-      "themeEn": "Citizens' assembly"
+      "isShootout": false
     },
     {
       "id": 230760,
@@ -1868,12 +1972,29 @@
       "theme": "Cuts to youth care",
       "themeId": "bezuinigen-jeugdzorg",
       "title": "The municipality of Westerkwartier should cut spending on youth care.",
+      "titleParts": [
+        {
+          "text": " De gemeente Westerkwartier moet "
+        },
+        {
+          "text": "bezuinigen",
+          "glossary": "Spending less money."
+        },
+        {
+          "text": " op "
+        },
+        {
+          "text": "jeugdzorg",
+          "glossary": "Support for young people with problems, for example mental health care, foster care, day programmes, and help with dyslexia."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality of Westerkwartier should cut spending on youth care.",
-      "themeEn": "Cuts to youth care"
+      "isShootout": false
     },
     {
       "id": 230736,
@@ -1884,9 +2005,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should spend more money on culture.",
-      "themeEn": "Funding for culture"
+      "isShootout": false
     },
     {
       "id": 230740,
@@ -1897,9 +2016,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The cost of burial plot rights in the municipality should be reduced.",
-      "themeEn": "Burial rights"
+      "isShootout": false
     },
     {
       "id": 230716,
@@ -1910,9 +2027,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must reverse the plans for two solar parks in Westerkwartier.",
-      "themeEn": "Solar panels on farmland"
+      "isShootout": false
     },
     {
       "id": 230759,
@@ -1923,9 +2038,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents of Westerkwartier with low incomes should be able to use public transport within the municipality for free.",
-      "themeEn": "Free public transport for low-income residents"
+      "isShootout": false
     },
     {
       "id": 230725,
@@ -1936,9 +2049,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must abolish the aesthetic standards for building and renovating.",
-      "themeEn": "Design and appearance regulations"
+      "isShootout": false
     },
     {
       "id": 230729,
@@ -1946,12 +2057,29 @@
       "theme": "Car speeds",
       "themeId": "snelheid-auto-s",
       "title": "The speed limit should be 30 km/h everywhere within built-up areas.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "maximumsnelheid",
+          "glossary": "The maximum speed that cars and motorcycles are allowed to drive on the road."
+        },
+        {
+          "text": " moet overal binnen de "
+        },
+        {
+          "text": "bebouwde kom",
+          "glossary": "An area with buildings (houses, other structures)."
+        },
+        {
+          "text": " 30 km/u zijn."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The speed limit should be 30 km/h everywhere within built-up areas.",
-      "themeEn": "Car speeds"
+      "isShootout": false
     },
     {
       "id": 230756,
@@ -1962,9 +2090,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Building new bike lanes in Westerkwartier must not come at the expense of space for cars.",
-      "themeEn": "Bicycles before cars"
+      "isShootout": false
     },
     {
       "id": 230730,
@@ -1975,9 +2101,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should open more locations where tampons and sanitary pads are available for free.",
-      "themeEn": "Free menstrual products"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

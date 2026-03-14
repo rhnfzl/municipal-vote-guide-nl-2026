@@ -924,9 +924,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should give money to sports clubs to replace existing artificial turf pitches.",
-      "themeEn": "Artificial turf fields"
+      "isShootout": false
     },
     {
       "id": 121224,
@@ -934,12 +932,29 @@
       "theme": "Mayor and municipal executive",
       "themeId": "burgemeester-en-college",
       "title": "The new college of mayor and aldermen must have an equal number of men and women.",
+      "titleParts": [
+        {
+          "text": " In het nieuwe "
+        },
+        {
+          "text": "college",
+          "glossary": "The college of mayor and aldermen, the municipality’s executive board."
+        },
+        {
+          "text": " van "
+        },
+        {
+          "text": "burgemeester",
+          "glossary": "The mayor leads the municipality and chairs the municipal council. The mayor is not elected but appointed by the national government, after recommendation by the municipal council."
+        },
+        {
+          "text": " en wethouders moet het aantal mannen en vrouwen gelijk zijn."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The new college of mayor and aldermen must have an equal number of men and women.",
-      "themeEn": "Mayor and municipal executive"
+      "isShootout": false
     },
     {
       "id": 121279,
@@ -950,9 +965,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Oost Gelre should open a reporting point for drug use.",
-      "themeEn": "Drug use reporting center"
+      "isShootout": false
     },
     {
       "id": 121230,
@@ -960,12 +973,22 @@
       "theme": "Asylum seekers' center",
       "themeId": "asielzoekerscentrum",
       "title": "An asylum seekers' center (AZC) should be established in our municipality.",
+      "titleParts": [
+        {
+          "text": " In onze gemeente moet een "
+        },
+        {
+          "text": "asielzoekerscentrum",
+          "glossary": "Reception center for asylum seekers. They live there until it is decided whether they may stay in the Netherlands. An asylum seekers’ center remains in a municipality for a long time."
+        },
+        {
+          "text": " (azc) komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "An asylum seekers' center (AZC) should be established in our municipality.",
-      "themeEn": "Asylum seekers' center"
+      "isShootout": false
     },
     {
       "id": 121233,
@@ -973,12 +996,22 @@
       "theme": "Wood burning",
       "themeId": "houtstook",
       "title": "In Oost Gelre the use of open fireplaces and wood stoves should remain allowed.",
+      "titleParts": [
+        {
+          "text": " In Oost Gelre moet het gebruik van open haarden en "
+        },
+        {
+          "text": "houtkachels",
+          "glossary": "Wood-burning stoves used to heat a home."
+        },
+        {
+          "text": " toegestaan blijven."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "In Oost Gelre the use of open fireplaces and wood stoves should remain allowed.",
-      "themeEn": "Wood burning"
+      "isShootout": false
     },
     {
       "id": 121225,
@@ -986,12 +1019,22 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "The residents of Oost Gelre should be able to give their opinion on important issues via a referendum.",
+      "titleParts": [
+        {
+          "text": " De inwoners van Oost Gelre moeten over belangrijke onderwerpen hun mening kunnen geven via een "
+        },
+        {
+          "text": "referendum",
+          "glossary": "A public consultation where residents can express their opinion on a political issue. The municipal council is not obliged to follow the result; legally it cannot."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The residents of Oost Gelre should be able to give their opinion on important issues via a referendum.",
-      "themeEn": "Referendum"
+      "isShootout": false
     },
     {
       "id": 121245,
@@ -999,12 +1042,22 @@
       "theme": "Enforcement officers",
       "themeId": "handhavers",
       "title": "In Oost Gelre there should be more municipal enforcement officers (BOAs) who focus on safety.",
+      "titleParts": [
+        {
+          "text": " In Oost Gelre moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "People who, for the municipality, check whether citizens and businesses comply with the rules."
+        },
+        {
+          "text": " (boa’s) komen die zich met veiligheid bezighouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "In Oost Gelre there should be more municipal enforcement officers (BOAs) who focus on safety.",
-      "themeEn": "Enforcement officers"
+      "isShootout": false
     },
     {
       "id": 121266,
@@ -1015,9 +1068,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should ban solar panels on agricultural land.",
-      "themeEn": "Solar panels on farmland"
+      "isShootout": false
     },
     {
       "id": 121274,
@@ -1028,9 +1079,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The center of Groenlo should be car-free.",
-      "themeEn": "Car-free"
+      "isShootout": false
     },
     {
       "id": 121278,
@@ -1038,12 +1087,22 @@
       "theme": "Building in town centers",
       "themeId": "bouwen-in-kernen",
       "title": "Housing development in the small villages should from now on have priority over that in Lichtenvoorde and Groenlo.",
+      "titleParts": [
+        {
+          "text": " Woningbouw in de kleine "
+        },
+        {
+          "text": "kernen",
+          "glossary": "Villages and small towns that are part of the municipality."
+        },
+        {
+          "text": " moet voortaan voorrang krijgen op die in Lichtenvoorde en Groenlo."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Housing development in the small villages should from now on have priority over that in Lichtenvoorde and Groenlo.",
-      "themeEn": "Building in town centers"
+      "isShootout": false
     },
     {
       "id": 121269,
@@ -1054,9 +1113,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should make it possible for all primary schools to give attention to the Achterhoeks dialect.",
-      "themeEn": "Regional language"
+      "isShootout": false
     },
     {
       "id": 121246,
@@ -1064,12 +1121,22 @@
       "theme": "Camera surveillance",
       "themeId": "cameratoezicht",
       "title": "In Oost Gelre there should be more camera surveillance.",
+      "titleParts": [
+        {
+          "text": " In Oost Gelre moet meer "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Monitoring of a building, area, or (groups of) people using security cameras."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "In Oost Gelre there should be more camera surveillance.",
-      "themeEn": "Camera surveillance"
+      "isShootout": false
     },
     {
       "id": 121240,
@@ -1077,12 +1144,22 @@
       "theme": "Local media",
       "themeId": "lokale-media",
       "title": "The municipality should support the local broadcaster with additional funding.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de "
+        },
+        {
+          "text": "lokale omroep",
+          "glossary": "Radio and television by and for people from the municipality and the immediate area."
+        },
+        {
+          "text": " ondersteunen met extra geld."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should support the local broadcaster with additional funding.",
-      "themeEn": "Local media"
+      "isShootout": false
     },
     {
       "id": 121260,
@@ -1090,12 +1167,29 @@
       "theme": "Tax on buildings",
       "themeId": "belasting-op-gebouwen",
       "title": "The property tax (onroerendezaakbelasting, OZB) should be reduced.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "onroerendezaakbelasting",
+          "glossary": "Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "ozb",
+          "glossary": "Property tax. Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": ") moet omlaag."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The property tax (onroerendezaakbelasting, OZB) should be reduced.",
-      "themeEn": "Tax on buildings"
+      "isShootout": false
     },
     {
       "id": 121254,
@@ -1106,9 +1200,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should raise the income threshold for receiving poverty assistance.",
-      "themeEn": "Combating poverty"
+      "isShootout": false
     },
     {
       "id": 121270,
@@ -1116,12 +1208,22 @@
       "theme": "Coffeeshop (cannabis shop)",
       "themeId": "coffeeshop",
       "title": "The municipality should allow the establishment of a coffeeshop.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de vestiging van een "
+        },
+        {
+          "text": "coffeeshop",
+          "glossary": "Shop or café where you can buy and smoke soft drugs (hash, weed)."
+        },
+        {
+          "text": " toestaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allow the establishment of a coffeeshop.",
-      "themeEn": "Coffeeshop (cannabis shop)"
+      "isShootout": false
     },
     {
       "id": 121252,
@@ -1129,12 +1231,29 @@
       "theme": "Work requirement for welfare recipients",
       "themeId": "tegenprestatie-voor-uitkering",
       "title": "People receiving social assistance should, in return, do socially useful work.",
+      "titleParts": [
+        {
+          "text": " Mensen die een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Money from the municipality for people who have no income or personal funds."
+        },
+        {
+          "text": " krijgen, moeten in ruil daarvoor "
+        },
+        {
+          "text": "maatschappelijk zinvol werk",
+          "glossary": "For example cleaning the streets or keeping company and supporting elderly residents."
+        },
+        {
+          "text": " doen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People receiving social assistance should, in return, do socially useful work.",
-      "themeEn": "Work requirement for welfare recipients"
+      "isShootout": false
     },
     {
       "id": 121272,
@@ -1145,9 +1264,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allow landlords to rent out individual rooms instead of entire houses.",
-      "themeEn": "Subdivision into multiple rooms"
+      "isShootout": false
     },
     {
       "id": 121276,
@@ -1158,9 +1275,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "In addition to the Zwarte Cross there should be another large-scale event in Oost Gelre.",
-      "themeEn": "Events"
+      "isShootout": false
     },
     {
       "id": 121262,
@@ -1168,12 +1283,22 @@
       "theme": "Tourist tax",
       "themeId": "toeristenbelasting",
       "title": "The tourist tax should be increased.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "toeristenbelasting",
+          "glossary": "The tax you must pay when you stay overnight in a hotel or at a campsite."
+        },
+        {
+          "text": " moet omhoog."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The tourist tax should be increased.",
-      "themeEn": "Tourist tax"
+      "isShootout": false
     },
     {
       "id": 121263,
@@ -1184,9 +1309,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "More business parks should be built in Oost Gelre.",
-      "themeEn": "Business parks"
+      "isShootout": false
     },
     {
       "id": 121271,
@@ -1194,12 +1317,29 @@
       "theme": "Social housing",
       "themeId": "sociale-huurwoningen",
       "title": "Of the new homes to be built in Oost Gelre, at least 30% should be social rental housing. In the Netherlands, 28% of homes are currently social rental housing.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in Oost Gelre moet minimaal 30% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " zijn. In Nederland is nu 28% van de woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Of the new homes to be built in Oost Gelre, at least 30% should be social rental housing. In the Netherlands, 28% of homes are currently social rental housing.",
-      "themeEn": "Social housing"
+      "isShootout": false
     },
     {
       "id": 121261,
@@ -1207,12 +1347,22 @@
       "theme": "Dog tax",
       "themeId": "hondenbelasting",
       "title": "The municipality should abolish the dog tax.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de "
+        },
+        {
+          "text": "hondenbelasting",
+          "glossary": "Tax paid to the municipality for owning one or more dogs."
+        },
+        {
+          "text": " afschaffen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should abolish the dog tax.",
-      "themeEn": "Dog tax"
+      "isShootout": false
     },
     {
       "id": 121277,
@@ -1223,9 +1373,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should actively discourage the consumption of alcohol.",
-      "themeEn": "Alcohol use"
+      "isShootout": false
     },
     {
       "id": 121273,
@@ -1233,12 +1381,22 @@
       "theme": "More parking spaces",
       "themeId": "meer-parkeerplaatsen",
       "title": "There should be more parking spaces in the town centers.",
+      "titleParts": [
+        {
+          "text": " Er moeten meer parkeerplaatsen komen in de "
+        },
+        {
+          "text": "kernen",
+          "glossary": "Villages and small towns that are part of the municipality."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be more parking spaces in the town centers.",
-      "themeEn": "More parking spaces"
+      "isShootout": false
     },
     {
       "id": 121231,
@@ -1246,12 +1404,22 @@
       "theme": "Housing for foreign workers",
       "themeId": "huisvesting-buitenlandse-werknemers",
       "title": "Employers in agriculture and horticulture should provide housing for seasonal workers on their own premises.",
+      "titleParts": [
+        {
+          "text": " Werkgevers in de land- en tuinbouw moeten zelf zorgen voor de huisvesting van "
+        },
+        {
+          "text": "seizoenarbeiders",
+          "glossary": "People who do work that only takes place during certain seasons, often in agriculture and fruit picking."
+        },
+        {
+          "text": " op hun eigen bedrijfsterrein."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Employers in agriculture and horticulture should provide housing for seasonal workers on their own premises.",
-      "themeEn": "Housing for foreign workers"
+      "isShootout": false
     },
     {
       "id": 121238,
@@ -1262,9 +1430,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "It should be possible for farmers to build houses themselves on their land.",
-      "themeEn": "Building on agricultural land"
+      "isShootout": false
     },
     {
       "id": 121257,
@@ -1272,12 +1438,29 @@
       "theme": "Car speeds",
       "themeId": "snelheid-auto-s",
       "title": "The maximum speed limit in built-up areas should be set to 30 km/h.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "maximumsnelheid",
+          "glossary": "The maximum speed that cars and motorcycles are allowed to drive on the street."
+        },
+        {
+          "text": " binnen de "
+        },
+        {
+          "text": "bebouwde kom",
+          "glossary": "An area with buildings (houses, other structures)."
+        },
+        {
+          "text": " moet naar 30 km/u."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The maximum speed limit in built-up areas should be set to 30 km/h.",
-      "themeEn": "Car speeds"
+      "isShootout": false
     },
     {
       "id": 121258,
@@ -1285,12 +1468,22 @@
       "theme": "Choice of healthcare",
       "themeId": "zorgkeuze",
       "title": "People who need care should always be able to choose a caregiver who matches their religion, culture, or beliefs.",
+      "titleParts": [
+        {
+          "text": " Mensen die zorg nodig hebben, moeten altijd kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of "
+        },
+        {
+          "text": "levensovertuiging",
+          "glossary": "What someone believes about life, such as a religion or personal conviction."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People who need care should always be able to choose a caregiver who matches their religion, culture, or beliefs.",
-      "themeEn": "Choice of healthcare"
+      "isShootout": false
     },
     {
       "id": 121280,
@@ -1298,12 +1491,22 @@
       "theme": "Wind turbines",
       "themeId": "windmolens",
       "title": "The municipality must cooperate in placing wind turbines in Oost Gelre.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meewerken aan de plaatsing van "
+        },
+        {
+          "text": "windmolens",
+          "glossary": "These are modern wind turbines that convert wind power into electricity and can be up to 150 meters high."
+        },
+        {
+          "text": " in Oost Gelre."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must cooperate in placing wind turbines in Oost Gelre.",
-      "themeEn": "Wind turbines"
+      "isShootout": false
     }
   ],
   "shootoutStatements": []

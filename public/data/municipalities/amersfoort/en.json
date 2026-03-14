@@ -2354,9 +2354,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Parking should be free again in a large part of the city.",
-      "themeEn": "Parking"
+      "isShootout": false
     },
     {
       "id": 109159,
@@ -2367,9 +2365,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Anyone who buys a home in our municipality must live in it themselves.",
-      "themeEn": "Owner-occupancy of a home"
+      "isShootout": false
     },
     {
       "id": 109171,
@@ -2377,12 +2373,29 @@
       "theme": "Tax on buildings",
       "themeId": "belasting-op-gebouwen",
       "title": "The property tax (onroerendezaakbelasting, OZB) should be reduced.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "onroerendezaakbelasting",
+          "glossary": "Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "ozb",
+          "glossary": "Property tax. Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": ") moet omlaag."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The property tax (onroerendezaakbelasting, OZB) should be reduced.",
-      "themeEn": "Tax on buildings"
+      "isShootout": false
     },
     {
       "id": 109149,
@@ -2390,12 +2403,22 @@
       "theme": "Improving school buildings",
       "themeId": "verbeteren-schoolgebouwen",
       "title": "The municipality should invest money in improving all school buildings during the next council term.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet in de komende "
+        },
+        {
+          "text": "raadsperiode",
+          "glossary": "The municipal council is elected for a period of four years."
+        },
+        {
+          "text": " geld steken in het verbeteren van alle schoolgebouwen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should invest money in improving all school buildings during the next council term.",
-      "themeEn": "Improving school buildings"
+      "isShootout": false
     },
     {
       "id": 109189,
@@ -2406,9 +2429,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Amersfoort should have its own swimming lake.",
-      "themeEn": "Recreation"
+      "isShootout": false
     },
     {
       "id": 109164,
@@ -2419,9 +2440,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should raise the income threshold for receiving poverty assistance.",
-      "themeEn": "Combating poverty"
+      "isShootout": false
     },
     {
       "id": 109139,
@@ -2432,9 +2451,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Cafés and restaurants must be able to determine their own opening hours.",
-      "themeEn": "Opening hours for hospitality venues"
+      "isShootout": false
     },
     {
       "id": 109181,
@@ -2442,12 +2459,29 @@
       "theme": "Social housing",
       "themeId": "sociale-huurwoningen",
       "title": "At least 40% of the new homes built in Amersfoort must be social-rental housing. Currently 28% of homes in the Netherlands are social-rental.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in Amersfoort moet minimaal 40% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " zijn. In Nederland is nu 28% van de woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "At least 40% of the new homes built in Amersfoort must be social-rental housing. Currently 28% of homes in the Netherlands are social-rental.",
-      "themeEn": "Social housing"
+      "isShootout": false
     },
     {
       "id": 109191,
@@ -2458,9 +2492,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "A car tunnel should be built at the Barchman Wuytierslaan railway level crossing.",
-      "themeEn": "Car tunnel"
+      "isShootout": false
     },
     {
       "id": 109156,
@@ -2468,12 +2500,22 @@
       "theme": "Baton (police baton)",
       "themeId": "wapenstok",
       "title": "The municipal enforcement officers (BOAs) who patrol safety in Amersfoort should be issued a baton.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "boa's",
+          "glossary": "Special Enforcement Officers. They can issue fines and often supervise the streets."
+        },
+        {
+          "text": " die in Amersfoort controleren op veiligheid moeten een wapenstok krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipal enforcement officers (BOAs) who patrol safety in Amersfoort should be issued a baton.",
-      "themeEn": "Baton (police baton)"
+      "isShootout": false
     },
     {
       "id": 109135,
@@ -2481,12 +2523,29 @@
       "theme": "Mayor and municipal executive",
       "themeId": "burgemeester-en-college",
       "title": "The new college of mayor and aldermen must have an equal number of men and women.",
+      "titleParts": [
+        {
+          "text": " In het nieuwe "
+        },
+        {
+          "text": "college",
+          "glossary": "The college of mayor and aldermen, the municipality’s executive board."
+        },
+        {
+          "text": " van "
+        },
+        {
+          "text": "burgemeester",
+          "glossary": "The mayor leads the municipality and chairs the municipal council. The mayor is not elected but appointed by the national government, after recommendation by the municipal council."
+        },
+        {
+          "text": " en wethouders moet het aantal mannen en vrouwen gelijk zijn."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The new college of mayor and aldermen must have an equal number of men and women.",
-      "themeEn": "Mayor and municipal executive"
+      "isShootout": false
     },
     {
       "id": 109142,
@@ -2494,12 +2553,22 @@
       "theme": "Wood burning",
       "themeId": "houtstook",
       "title": "The use of open fireplaces and wood-burning stoves should always be permitted in Amersfoort.",
+      "titleParts": [
+        {
+          "text": " In Amersfoort moet het gebruik van open haarden en "
+        },
+        {
+          "text": "houtkachels",
+          "glossary": "Wood-burning stoves used to heat a home."
+        },
+        {
+          "text": " altijd toestaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The use of open fireplaces and wood-burning stoves should always be permitted in Amersfoort.",
-      "themeEn": "Wood burning"
+      "isShootout": false
     },
     {
       "id": 109141,
@@ -2510,9 +2579,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Amersfoort must provide (or continue to provide) shelter to rejected asylum seekers.",
-      "themeEn": "Accommodation for rejected asylum seekers"
+      "isShootout": false
     },
     {
       "id": 109163,
@@ -2520,12 +2587,29 @@
       "theme": "Stop debt forgiveness",
       "themeId": "kwijtschelding-stoppen",
       "title": "The municipality should stop forgiving municipal taxes for low-income residents.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet stoppen met het "
+        },
+        {
+          "text": "kwijtschelden",
+          "glossary": "That people no longer have to pay for something."
+        },
+        {
+          "text": " van de "
+        },
+        {
+          "text": "gemeentelijke belastingen",
+          "glossary": "Taxes you have to pay to the municipality (e.g., sewer charge, waste disposal charge, dog tax)."
+        },
+        {
+          "text": " voor inwoners met een laag inkomen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should stop forgiving municipal taxes for low-income residents.",
-      "themeEn": "Stop debt forgiveness"
+      "isShootout": false
     },
     {
       "id": 109160,
@@ -2533,12 +2617,22 @@
       "theme": "Offices converted into homes",
       "themeId": "kantoren-worden-woningen",
       "title": "Vacant offices should be converted into housing with subsidies from the municipality.",
+      "titleParts": [
+        {
+          "text": " Leegstaande kantoren moeten met "
+        },
+        {
+          "text": "subsidie",
+          "glossary": "Money the government gives to citizens, businesses, and organizations to support them."
+        },
+        {
+          "text": " van de gemeente worden omgebouwd tot woningen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Vacant offices should be converted into housing with subsidies from the municipality.",
-      "themeEn": "Offices converted into homes"
+      "isShootout": false
     },
     {
       "id": 109195,
@@ -2549,9 +2643,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "A homeless shelter should be established on Bergstraat.",
-      "themeEn": "Healthcare"
+      "isShootout": false
     },
     {
       "id": 109172,
@@ -2559,12 +2651,22 @@
       "theme": "Dog tax",
       "themeId": "hondenbelasting",
       "title": "The municipality should abolish the dog tax.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de "
+        },
+        {
+          "text": "hondenbelasting",
+          "glossary": "Tax paid to the municipality for owning one or more dogs."
+        },
+        {
+          "text": " afschaffen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should abolish the dog tax.",
-      "themeEn": "Dog tax"
+      "isShootout": false
     },
     {
       "id": 109176,
@@ -2572,12 +2674,29 @@
       "theme": "Priority for refugees",
       "themeId": "voorrang-voor-vluchtelingen",
       "title": "The municipality must continue to give refugees with a residence permit priority for social housing.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet vluchtelingen met een "
+        },
+        {
+          "text": "verblijfsvergunning",
+          "glossary": "The right to live in the Netherlands. The term can mean that right itself, but also the card that shows someone has that right."
+        },
+        {
+          "text": " voorrang blijven geven op een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must continue to give refugees with a residence permit priority for social housing.",
-      "themeEn": "Priority for refugees"
+      "isShootout": false
     },
     {
       "id": 109192,
@@ -2588,9 +2707,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Amersfoort should make residents and businesses pay per garbage bag they dispose of.",
-      "themeEn": "Waste"
+      "isShootout": false
     },
     {
       "id": 109179,
@@ -2598,12 +2715,22 @@
       "theme": "School swimming",
       "themeId": "schoolzwemmen",
       "title": "The municipality should allocate money for school swimming.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld beschikbaar stellen voor "
+        },
+        {
+          "text": "schoolzwemmen",
+          "glossary": "Swimming lessons organized by the school."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allocate money for school swimming.",
-      "themeEn": "School swimming"
+      "isShootout": false
     },
     {
       "id": 109154,
@@ -2611,12 +2738,22 @@
       "theme": "More surveillance cameras",
       "themeId": "meer-cameratoezicht",
       "title": "There should be more CCTV surveillance in Amersfoort.",
+      "titleParts": [
+        {
+          "text": " In Amersfoort moet meer "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Monitoring of a building, area, or (groups of) people using security cameras."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be more CCTV surveillance in Amersfoort.",
-      "themeEn": "More surveillance cameras"
+      "isShootout": false
     },
     {
       "id": 109194,
@@ -2627,9 +2764,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should invest in renovating Amersfoort Central and Amersfoort Schothorst stations.",
-      "themeEn": "Renovate stations"
+      "isShootout": false
     },
     {
       "id": 109136,
@@ -2637,12 +2772,22 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "The residents of Amersfoort should be able to give their opinion on important issues via a referendum.",
+      "titleParts": [
+        {
+          "text": " De inwoners van Amersfoort moeten over belangrijke onderwerpen hun mening kunnen geven via een "
+        },
+        {
+          "text": "referendum",
+          "glossary": "A public consultation where residents can express their opinion on a political issue. The municipal council is not obliged to follow the result; legally it cannot."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The residents of Amersfoort should be able to give their opinion on important issues via a referendum.",
-      "themeEn": "Referendum"
+      "isShootout": false
     },
     {
       "id": 109188,
@@ -2653,9 +2798,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "A cultural center should be built on the site of the current town hall once the new House for the City is completed.",
-      "themeEn": "Culture"
+      "isShootout": false
     },
     {
       "id": 109161,
@@ -2663,12 +2806,22 @@
       "theme": "Student housing",
       "themeId": "studentenwoningen",
       "title": "The municipality must invest in temporary housing for students, for example container housing.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld steken in tijdelijke huisvesting voor studenten, bijvoorbeeld "
+        },
+        {
+          "text": "containerwoningen",
+          "glossary": "A movable and temporary dwelling, usually made from a shipping container."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must invest in temporary housing for students, for example container housing.",
-      "themeEn": "Student housing"
+      "isShootout": false
     },
     {
       "id": 109166,
@@ -2676,12 +2829,22 @@
       "theme": "Basic income",
       "themeId": "basisinkomen",
       "title": "Amersfoort should run a pilot project for a basic income.",
+      "titleParts": [
+        {
+          "text": " Amersfoort moet een proef doen met "
+        },
+        {
+          "text": "basisinkomen",
+          "glossary": "With a basic income, people receive a fixed amount per month from the government. They do not have to apply for jobs or perform socially useful work in return for the money."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Amersfoort should run a pilot project for a basic income.",
-      "themeEn": "Basic income"
+      "isShootout": false
     },
     {
       "id": 109168,
@@ -2692,9 +2855,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Parking at shopping centers should be free again.",
-      "themeEn": "Free parking"
+      "isShootout": false
     },
     {
       "id": 109180,
@@ -2702,12 +2863,22 @@
       "theme": "Coffeeshops (cannabis cafés)",
       "themeId": "coffeeshops",
       "title": "The municipality should allow the establishment of new coffeeshops.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de vestiging van nieuwe "
+        },
+        {
+          "text": "coffeeshops",
+          "glossary": "Shop or café where you can buy and smoke soft drugs (hash, weed)."
+        },
+        {
+          "text": " toestaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allow the establishment of new coffeeshops.",
-      "themeEn": "Coffeeshops (cannabis cafés)"
+      "isShootout": false
     },
     {
       "id": 109174,
@@ -2718,9 +2889,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Business parks in Amersfoort should be allowed to expand.",
-      "themeEn": "Business parks"
+      "isShootout": false
     },
     {
       "id": 109193,
@@ -2728,12 +2897,22 @@
       "theme": "Climate",
       "themeId": "klimaat",
       "title": "Wind turbines should be installed in Amersfoort.",
+      "titleParts": [
+        {
+          "text": " Er moeten "
+        },
+        {
+          "text": "windmolens",
+          "glossary": "These are modern wind turbines that convert wind power into electricity and can be up to 150 meters high."
+        },
+        {
+          "text": " komen in Amersfoort."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Wind turbines should be installed in Amersfoort.",
-      "themeEn": "Climate"
+      "isShootout": false
     }
   ],
   "shootoutStatements": []

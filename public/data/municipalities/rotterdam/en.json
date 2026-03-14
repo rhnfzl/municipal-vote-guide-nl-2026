@@ -5852,9 +5852,7 @@
       "moreInfo": "Rotterdam The Hague Airport is a regional airport north of the city. In 2025 there were nearly 60,000 takeoffs and landings and about 2.5 million passengers were carried. There are restrictions on airport use in the evening and at night. Residents in the area experience noise nuisance from air traffic. In 2024 the environmental service received about 135,000 complaints about this.",
       "pro": "Some parties believe tackling the housing shortage is more important than preserving the airfield. If the airfield disappears, noise nuisance will naturally decrease. Schiphol and trains sometimes offer good alternatives to this airfield.",
       "con": "According to some parties the airport is indispensable for the position of the port city Rotterdam. Many people have jobs thanks to the airport. Because the soil is contaminated, building housing on that site is expensive.",
-      "isShootout": false,
-      "titleEn": "Rotterdam The Hague Airport (Zestienhoven) should be replaced by a residential neighborhood.",
-      "themeEn": "Airport"
+      "isShootout": false
     },
     {
       "id": 137561,
@@ -5862,12 +5860,22 @@
       "theme": "Tourist tax",
       "themeId": "toeristenbelasting",
       "title": "The tourist tax should be increased.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "toeristenbelasting",
+          "glossary": "The tax you must pay when you stay overnight in a hotel or at a campsite."
+        },
+        {
+          "text": " moet omhoog."
+        }
+      ],
       "moreInfo": "Tourist tax is sometimes also called accommodation tax. Anyone who offers paid overnight accommodation (for example in a hotel, hostel, campsite or B&B) must pay accommodation tax. That amount is passed on to the guest. In 2026 the accommodation tax is 6.5% of the overnight price.",
       "pro": "Compared with other cities, Rotterdam’s tourist tax is low. Tourists should contribute more to the services they use.",
       "con": "Rotterdam is becoming less attractive as a tourist draw. Fewer tourists are bad for local businesses and the local economy.",
-      "isShootout": false,
-      "titleEn": "The tourist tax should be increased.",
-      "themeEn": "Tourist tax"
+      "isShootout": false
     },
     {
       "id": 137555,
@@ -5875,12 +5883,22 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "The municipality should ask neighborhood residents for their opinion on local issues via a referendum.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet wijkbewoners via een "
+        },
+        {
+          "text": "referendum",
+          "glossary": "A public consultation where residents can express their opinion on a political issue. The municipal council is not obliged to follow the result; legally it cannot."
+        },
+        {
+          "text": " om hun mening vragen over zaken die in hun wijk spelen."
+        }
+      ],
       "moreInfo": "A referendum is a public vote in which residents can speak directly for or against a proposal. In a neighborhood referendum residents can express their opinion about developments in their own neighborhood. A referendum in the Netherlands is not binding. That means the municipal council can set the result aside.",
       "pro": "A referendum gives neighborhood residents more influence over decisions about their living environment. Residents usually know best what is going on in their neighborhood.",
       "con": "According to some parties, neighborhood residents already have enough influence through the district council or municipal council. For complicated issues a referendum (yes or no) is usually far too simplistic.",
-      "isShootout": false,
-      "titleEn": "The municipality should ask neighborhood residents for their opinion on local issues via a referendum.",
-      "themeEn": "Referendum"
+      "isShootout": false
     },
     {
       "id": 137559,
@@ -5888,12 +5906,22 @@
       "theme": "Tax on buildings",
       "themeId": "belasting-op-gebouwen",
       "title": "In case of financial shortfalls the municipality may increase the property tax (ozb).",
+      "titleParts": [
+        {
+          "text": " Bij financiële tegenvallers mag de gemeente de onroerendezaakbelasting ("
+        },
+        {
+          "text": "ozb",
+          "glossary": "Property tax. Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": ") verhogen."
+        }
+      ],
       "moreInfo": "Homeowners and owners of commercial properties pay annually a percentage of the estimated value of their house or business property as tax to the municipality. The municipality uses this revenue for a variety of things, such as education, road maintenance, culture, recreation, but also for services like the fire department.",
       "pro": "Some parties believe people with inexpensive homes are less disadvantaged by this than people with expensive homes. This is an important way for the municipality to absorb cutbacks from the national government.",
       "con": "It is unfair if homeowners have to pay for the municipality's shortfalls. According to some parties, the municipality spends money on other things that could be cut more easily.",
-      "isShootout": false,
-      "titleEn": "In case of financial shortfalls the municipality may increase the property tax (ozb).",
-      "themeEn": "Tax on buildings"
+      "isShootout": false
     },
     {
       "id": 137577,
@@ -5904,9 +5932,7 @@
       "moreInfo": "In many areas of the city nuisance is reported from, among others, rats and pigeons. Growth in numbers, for example of rats, is caused by waste on the street. New ways are being sought to combat the nuisance effectively. For instance, it is being considered whether pigeon nuisance can be reduced by using special pigeon lofts (dovecotes).",
       "pro": "Some parties believe nuisance control should always be animal-friendly. Killing animals usually does not solve the root cause of the problems.",
       "con": "According to some parties, reducing nuisance without killing animals is impossible. If there is a nuisance, the municipality should be able to intervene.",
-      "isShootout": false,
-      "titleEn": "The municipality should combat nuisances from, for example, rats and pigeons without killing the animals.",
-      "themeEn": "Animal nuisance"
+      "isShootout": false
     },
     {
       "id": 137589,
@@ -5914,12 +5940,29 @@
       "theme": "Equipment for enforcement officers",
       "themeId": "uitrusting-handhavers",
       "title": "Municipal enforcement officers (BOAs) should be given a baton and pepper spray.",
+      "titleParts": [
+        {
+          "text": " Gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "Someone who works for the municipality and ensures everyone follows the rules."
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "boa's",
+          "glossary": "Special Enforcement Officers. They can issue fines and often supervise the streets."
+        },
+        {
+          "text": ") moeten een wapenstok en pepperspray krijgen."
+        }
+      ],
       "moreInfo": "There has been an ongoing national discussion about whether enforcement officers are sufficiently equipped to carry out their duties safely and effectively. For example, some municipalities have experimented with equipping special enforcement officers (BOAs) with pepper spray or batons. In Rotterdam enforcement officers are currently not equipped with batons or pepper spray.",
       "pro": "Some parties believe municipal enforcement officers (BOAs) must have sufficient means to protect themselves. Society is becoming rougher, which they say requires greater equipment for BOAs.",
       "con": "Only police officers may use such weapons. According to some parties, a larger arsenal increases the chance that situations on the street will get out of control.",
-      "isShootout": false,
-      "titleEn": "Municipal enforcement officers (BOAs) should be given a baton and pepper spray.",
-      "themeEn": "Equipment for enforcement officers"
+      "isShootout": false
     },
     {
       "id": 137563,
@@ -5930,9 +5973,7 @@
       "moreInfo": "Through promotion and by supporting companies the municipality can attract businesses to Rotterdam. That produces investment and employment. The municipality can choose which companies to focus on, for example clean and innovative companies that contribute to a sustainable economy.",
       "pro": "Some parties believe the future is sustainable. Investing in non-sustainable companies is, according to some, wasted money. If the municipality only invests in a clean economy, it sets a good example.",
       "con": "According to some parties, employment and new jobs are at least as important as sustainability. You can also attract companies that are still working to become sustainable.",
-      "isShootout": false,
-      "titleEn": "The municipality should only invest money in attracting sustainable businesses.",
-      "themeEn": "City marketing"
+      "isShootout": false
     },
     {
       "id": 137557,
@@ -5943,9 +5984,7 @@
       "moreInfo": "In Rotterdam all aldermen now have their own set of tasks and their own portfolios. They are jointly responsible for the interests of women regarding work, safety and emancipation. Rotterdam does not have an alderman who deals exclusively with women's affairs.",
       "pro": "Some parties believe that without a dedicated alderman attention to women’s issues is fragmented. In areas such as pay, safety and care, women clearly lag behind.",
       "con": "It is the responsibility of all aldermen to improve the position of women and girls. Some parties think it would get out of hand if every group were given its own separate alderman.",
-      "isShootout": false,
-      "titleEn": "Rotterdam should have a dedicated alderman for women's affairs.",
-      "themeEn": "Emancipation"
+      "isShootout": false
     },
     {
       "id": 137582,
@@ -5956,9 +5995,7 @@
       "moreInfo": "Rotterdam has 23 popular event locations where festivals often take place. These places are designated by the municipality. In addition, the city has over 150 special locations that the municipality considers suitable for events, such as parks and industrial sites. Well-known locations include the Kralingse Bos, the Park by the Euromast and Ahoy.",
       "pro": "Some parties believe permanent locations are more efficient because fixed facilities are used. Temporary event grounds cause damage and nuisance; this is better managed at a permanent location.",
       "con": "The benefits and burdens of festivals should be fairly distributed across the city. According to some parties, fixed locations come at the expense of spontaneous events in neighborhoods.",
-      "isShootout": false,
-      "titleEn": "In Rotterdam there should be permanent festival grounds in several locations around the city.",
-      "themeEn": "Festivals"
+      "isShootout": false
     },
     {
       "id": 137569,
@@ -5966,12 +6003,29 @@
       "theme": "Priority for refugees",
       "themeId": "voorrang-voor-vluchtelingen",
       "title": "The municipality must continue to give refugees with a residence permit priority for social housing.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet vluchtelingen met een "
+        },
+        {
+          "text": "verblijfsvergunning",
+          "glossary": "The right to reside in the Netherlands. The term can refer to the right itself or to the card that shows someone has that right."
+        },
+        {
+          "text": " voorrang blijven geven op een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "Priority for a social rental home in the Rotterdam region is arranged through the Housing Mediation Regulation (Verordening Woonruimtebemiddeling). It contains all conditions for the allocation of housing. The regulation covers, among other things, housing permits, urgency statements and the role of housing corporations. It also describes which housing seekers receive priority in the allocation of social rental housing.",
       "pro": "Some parties believe refugees without priority have no chance at all of finding housing. Without a home, refugees will never become part of society.",
       "con": "Some parties think social rental homes should first go to Rotterdam residents. Other parties think no one should have priority; everyone has an equal right to housing.",
-      "isShootout": false,
-      "titleEn": "The municipality must continue to give refugees with a residence permit priority for social housing.",
-      "themeEn": "Priority for refugees"
+      "isShootout": false
     },
     {
       "id": 137573,
@@ -5979,12 +6033,22 @@
       "theme": "Wood burning",
       "themeId": "houtstook",
       "title": "Rotterdam should ban the use of wood-burning stoves.",
+      "titleParts": [
+        {
+          "text": " Rotterdam moet het stoken van "
+        },
+        {
+          "text": "houtkachels",
+          "glossary": "Wood-burning stoves used to heat a home."
+        },
+        {
+          "text": " verbieden."
+        }
+      ],
       "moreInfo": "Burning wood in stoves and fireplaces releases fine particulate matter and other harmful substances that cause air pollution. This air pollution is bad for health. For example, complaints from people with asthma or COPD can worsen. Several Dutch municipalities limit or ban wood burning.",
       "pro": "Some parties believe wood burning produces fine particulate matter and is bad for the environment and health. Clean air is everyone’s basic right. Rotterdam has the dirtiest air in the Netherlands.",
       "con": "Residents should be able to decide how they heat their homes. According to some parties, wood stoves are a tradition. There's nothing wrong with that if the rules are followed. It is sufficient to ban wood burning only on windless days.",
-      "isShootout": false,
-      "titleEn": "Rotterdam should ban the use of wood-burning stoves.",
-      "themeEn": "Wood burning"
+      "isShootout": false
     },
     {
       "id": 137611,
@@ -5995,9 +6059,7 @@
       "moreInfo": "Large and heavy cars, such as SUVs and pick-up trucks, take up more space than smaller cars and often also have higher emissions. The road tax that car owners pay depends partly on the weight of the car and the type of fuel. Parking rates are currently the same for all passenger cars.",
       "pro": "Some parties believe it is logical that large and heavy cars are more expensive to park; this is also the case with vehicle tax. Large cars often cause more pollution, so paying a little extra is acceptable. According to some parties, people with large cars can often easily afford to pay more parking fees.",
       "con": "A car is just a car. Big or small makes no difference for a parking space. Different parking rates make the system unnecessarily complicated and confusing, according to some parties. Higher rates are unfair to, for example, entrepreneurs and large families.",
-      "isShootout": false,
-      "titleEn": "Large and heavy cars should pay more for parking than small and fuel-efficient cars.",
-      "themeEn": "Paid parking"
+      "isShootout": false
     },
     {
       "id": 137570,
@@ -6008,9 +6070,7 @@
       "moreInfo": "The Constitution provides that everyone is free to practice their religion. But in the interest of public order the government can choose to set certain conditions on how faith is expressed in public spaces.",
       "pro": "Some parties believe public calls to prayer in the area cause noise nuisance. Stricter rules are seen as a way to limit the Islamization of the city.",
       "con": "According to some parties, the existing rules on noise nuisance are strict enough. Restrictions conflict with freedom of religion.",
-      "isShootout": false,
-      "titleEn": "The municipality should restrict amplified calls to prayer by mosques.",
-      "themeEn": "Calls to prayer"
+      "isShootout": false
     },
     {
       "id": 137584,
@@ -6021,9 +6081,7 @@
       "moreInfo": "Social media are online platforms and apps, such as Facebook, Instagram and TikTok. Users create and share the content themselves and communicate about it. Social media are often linked to disadvantages, especially for young people. Think of things like addiction and lost time, privacy and safety, cyberbullying and intimidation, sleep problems, the spread of misinformation and reduced social skills.",
       "pro": "Some parties believe the municipality has the resources and responsibility to warn young people about the downsides. This is very important in the fight against, among other things, loneliness and online bullying.",
       "con": "According to some parties, education about social media is not the municipality's task but the parents'. They also believe there are plenty of other issues the municipality should focus on.",
-      "isShootout": false,
-      "titleEn": "The municipality should do more to inform young people about the disadvantages of social media.",
-      "themeEn": "Social media"
+      "isShootout": false
     },
     {
       "id": 137575,
@@ -6031,12 +6089,22 @@
       "theme": "Wind turbines",
       "themeId": "windmolens",
       "title": "No new wind turbines should be installed within Rotterdam.",
+      "titleParts": [
+        {
+          "text": " Er mogen op het grondgebied van Rotterdam geen nieuwe "
+        },
+        {
+          "text": "windmolens",
+          "glossary": "These are modern wind turbines that convert wind power into electricity and can be up to 150 meters high."
+        },
+        {
+          "text": " bijkomen."
+        }
+      ],
       "moreInfo": "Wind turbines provide sustainable energy. On land they have certain advantages compared with offshore turbines: construction and maintenance are cheaper. By generating energy close to the user (cities, industry), the power grid is less burdened. Local residents can experience nuisance from wind turbines, for example because of noise and shadow flicker. For that reason a wind turbine may not be placed too close to homes.",
       "pro": "Some parties believe wind turbines have negative effects on the living environment and the health of nearby residents. Compared with offshore wind farms, onshore turbines produce relatively little energy.",
       "con": "Rotterdam should cooperate in improving the climate. Wind energy is part of that. According to some parties, there are still plenty of places where new wind turbines would not cause nuisance, such as along highways and in the port.",
-      "isShootout": false,
-      "titleEn": "No new wind turbines should be installed within Rotterdam.",
-      "themeEn": "Wind turbines"
+      "isShootout": false
     },
     {
       "id": 137602,
@@ -6047,9 +6115,7 @@
       "moreInfo": "The costs of veterinary treatments have risen sharply recently, especially for care outside regular opening hours and for specialist and emergency care. As a result, people with little money often cannot provide the necessary care for their pets.",
       "pro": "Some parties believe pets are often an important part of the family. Animals should not suffer because of their owner’s financial problems.",
       "con": "Financial assistance for veterinary costs is already possible through other programs. According to some parties, bringing animals into the home is a personal choice and the community does not have to pay for it.",
-      "isShootout": false,
-      "titleEn": "The municipality should help low-income people pay their veterinary bills.",
-      "themeEn": "Animal care"
+      "isShootout": false
     },
     {
       "id": 137588,
@@ -6057,12 +6123,29 @@
       "theme": "Religious expressions",
       "themeId": "religieuze-uitingen",
       "title": "Municipal enforcement officers (BOAs) should be allowed to wear a headscarf, yarmulke, or turban.",
+      "titleParts": [
+        {
+          "text": " Gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "Someone who works for the municipality and ensures everyone follows the rules."
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "boa's",
+          "glossary": "Special Enforcement Officers. They can issue fines and often supervise the streets."
+        },
+        {
+          "text": ") moeten een hoofddoek, keppeltje of tulband kunnen dragen."
+        }
+      ],
       "moreInfo": "At the moment municipalities themselves may decide whether their enforcement officers may express their religion, for example by wearing a headscarf or a skullcap. The previous cabinet wanted to introduce a national ban on such expressions to guarantee the neutral appearance of enforcement officers.",
       "pro": "Some parties believe religion is not something you have to hide. That also applies to people in uniform. If religious expressions are not allowed, certain groups may be unable to do this work.",
       "con": "BOAs should always act neutrally, which includes wearing a uniform and maintaining a neutral appearance. BOAs represent the government, which is impartial and shows no religious or political preference.",
-      "isShootout": false,
-      "titleEn": "Municipal enforcement officers (BOAs) should be allowed to wear a headscarf, yarmulke, or turban.",
-      "themeEn": "Religious expressions"
+      "isShootout": false
     },
     {
       "id": 137586,
@@ -6073,9 +6156,7 @@
       "moreInfo": "The development of the TU Delft Campus in Rotterdam focuses on integrating education and housing, with an ambition of 10,000 students by 2040.",
       "pro": "Some parties believe only in this way will more university-level technical education come to Rotterdam. New students give the city’s economy a significant boost.",
       "con": "It is not the municipality's task to arrange student housing. According to some parties, subsidizing TU Delft students is unfair to other students.",
-      "isShootout": false,
-      "titleEn": "The municipality should contribute to housing in Rotterdam for students of the Technical University Delft.",
-      "themeEn": "Student housing"
+      "isShootout": false
     },
     {
       "id": 137590,
@@ -6083,12 +6164,22 @@
       "theme": "Camera surveillance",
       "themeId": "cameratoezicht",
       "title": "There should be more camera surveillance in Rotterdam.",
+      "titleParts": [
+        {
+          "text": " In Rotterdam moet meer "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Monitoring of a building, area, or (groups of) people using security cameras."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "Cameras are installed in multiple places in Rotterdam. The municipality and the police can thus monitor public order and safety. The municipality may not just put cameras anywhere. That can only be done in places where there is a lot of nuisance or safety problems and where placing a camera demonstrably adds value to addressing those problems.",
       "pro": "Some parties believe camera surveillance makes people feel safer on the street. Camera surveillance also makes it easier to quickly identify perpetrators.",
       "con": "Cameras usually do not solve the root causes of problems. According to some parties, camera surveillance comes at the expense of citizens' privacy.",
-      "isShootout": false,
-      "titleEn": "There should be more camera surveillance in Rotterdam.",
-      "themeEn": "Camera surveillance"
+      "isShootout": false
     },
     {
       "id": 137609,
@@ -6099,9 +6190,7 @@
       "moreInfo": "Because the number of residents is growing and there are more visitors, the city is getting busier and available space is scarce. Paid parking has been introduced in many places in Rotterdam. There are parking spaces on the street and in parking garages. By limiting the number of parking spaces, car use may decrease and more space remains available for other functions.",
       "pro": "Some parties believe this creates more space for cycling, greenery and play. Fewer cars means less emissions and a better living environment.",
       "con": "According to some parties, there are already too few parking spaces in many parts of the city. Cars will remain an indispensable means of transport for people and businesses in the coming years.",
-      "isShootout": false,
-      "titleEn": "The municipality should reduce the number of parking spaces in the city every year.",
-      "themeEn": "Parking spaces"
+      "isShootout": false
     },
     {
       "id": 137592,
@@ -6109,12 +6198,22 @@
       "theme": "Priority for housing",
       "themeId": "voorrang-huisvesting",
       "title": "When allocating a social rental home, applicants from the municipality should be given priority as much as possible.",
+      "titleParts": [
+        {
+          "text": " Bij de toewijzing van een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " moeten woningzoekenden uit de eigen gemeente zoveel mogelijk voorrang krijgen."
+        }
+      ],
       "moreInfo": "Priority for a social rental home in the Rotterdam region is arranged through the Housing Mediation Regulation (Verordening Woonruimtebemiddeling). It contains all conditions for the allocation of housing. The regulation covers, among other things, housing permits, urgency statements and the role of housing corporations. It also describes which housing seekers receive priority in the allocation of social rental housing.",
       "pro": "Some parties believe this is fair because Rotterdammers are often on a waiting list for far too long. They say it is important for the quality of neighborhoods that houses go to Rotterdam residents.",
       "con": "People from outside Rotterdam should also be welcome in the city. According to some parties, you do not solve the housing shortage by giving people priority, but by building more.",
-      "isShootout": false,
-      "titleEn": "When allocating a social rental home, applicants from the municipality should be given priority as much as possible.",
-      "themeEn": "Priority for housing"
+      "isShootout": false
     },
     {
       "id": 137566,
@@ -6122,12 +6221,22 @@
       "theme": "Closing times for bars and restaurants",
       "themeId": "sluitingstijden-horeca",
       "title": "The municipality should give more hospitality businesses a permit to stay open at night.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer horecabedrijven een "
+        },
+        {
+          "text": "vergunning",
+          "glossary": "Permission from the municipality to do something."
+        },
+        {
+          "text": " geven om 's nachts open te zijn."
+        }
+      ],
       "moreInfo": "Evening hospitality, such as cafés and discos, may be open in Rotterdam on weekdays until 1:00 a.m. and on Friday and Saturday until 3:00 a.m. Hospitality businesses with a night permit may be open 24 hours a day. The municipality can set conditions on these permits. The municipality also determines where evening and night hospitality is allowed or not allowed. Entrepreneurs can apply for a permit for the designated locations.",
       "pro": "Some parties believe more hospitality businesses create a vibrant nightlife in Rotterdam. As long as there is no nuisance to the surroundings, they see no objection to issuing more permits.",
       "con": "The night-time hospitality sector causes nuisance in some parts of the city. Some parties believe there are already enough night permits for hospitality businesses in Rotterdam.",
-      "isShootout": false,
-      "titleEn": "The municipality should give more hospitality businesses a permit to stay open at night.",
-      "themeEn": "Closing times for bars and restaurants"
+      "isShootout": false
     },
     {
       "id": 137593,
@@ -6135,12 +6244,22 @@
       "theme": "Priority for teachers, nurses, and police officers",
       "themeId": "voorrang-leraren-verpleegkundigen-en-politieagenten",
       "title": "When allocating social rental housing, teachers, nurses and police officers should be given priority.",
+      "titleParts": [
+        {
+          "text": " Bij de toewijzing van een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " moeten leraren, verpleegkundigen en politieagenten voorrang krijgen."
+        }
+      ],
       "moreInfo": "Priority for a social rental home in the Rotterdam region is arranged through the Housing Mediation Regulation (Verordening Woonruimtebemiddeling). It contains all conditions for the allocation of housing. The regulation covers, among other things, housing permits, urgency statements and the role of housing corporations. It also describes which housing seekers receive priority in the allocation of social rental housing.",
       "pro": "Some parties believe these people have a crucial profession and are indispensable for the city. If there are not enough of them, Rotterdam’s quality as a place to live is at risk.",
       "con": "According to some parties, you do not solve the housing shortage by giving priority but by building more. People in unsafe situations or without a roof over their heads deserve priority over someone because of their profession.",
-      "isShootout": false,
-      "titleEn": "When allocating social rental housing, teachers, nurses and police officers should be given priority.",
-      "themeEn": "Priority for teachers, nurses, and police officers"
+      "isShootout": false
     },
     {
       "id": 137621,
@@ -6148,12 +6267,22 @@
       "theme": "Wmo (Social Support Act)",
       "themeId": "wmo",
       "title": "Rotterdam should undo the cuts to elderly care under the Wmo.",
+      "titleParts": [
+        {
+          "text": " Rotterdam moet de bezuiniging op de zorg aan ouderen via de "
+        },
+        {
+          "text": "Wmo",
+          "glossary": "Social Support Act. The Wmo gives citizens the right to help and support so they can live independently at home as long as possible."
+        },
+        {
+          "text": " ongedaan maken."
+        }
+      ],
       "moreInfo": "Under the Social Support Act (Wmo) people can receive help from the municipality to be able to live independently at home as long as possible and to continue to participate in society. This includes, for example, household help, adaptations to the home (such as a stairlift), aids (wheelchair or mobility scooter), guidance (day activities), transport and support for informal caregivers.",
       "pro": "Some parties believe people have the right to good care and deserve to age with dignity. According to some, budget cuts have made the work of informal caregivers unnecessarily heavy.",
       "con": "Care for the elderly must remain affordable. According to some parties, instead of more money, care should be better coordinated.",
-      "isShootout": false,
-      "titleEn": "Rotterdam should undo the cuts to elderly care under the Wmo.",
-      "themeEn": "Wmo (Social Support Act)"
+      "isShootout": false
     },
     {
       "id": 137606,
@@ -6161,12 +6290,22 @@
       "theme": "Welfare fraud",
       "themeId": "bijstandsfraude",
       "title": "The municipality should step up controls for fraud in social assistance benefits.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer controleren op fraude met "
+        },
+        {
+          "text": "bijstandsuitkeringen",
+          "glossary": "Money from the municipality for people who have no income or personal funds."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "The municipality is legally obliged to check for fraud with social assistance benefits. Since the benefits scandal, more account is being taken of the personal situation of the benefit recipient.",
       "pro": "Some parties believe benefit fraud is theft of public funds and must be tackled. If someone accidentally made a mistake, the municipality can still refrain from taking measures.",
       "con": "According to some parties, the municipality already monitors enough. More control is not necessary. The government should trust citizens more and not place an extra inspector everywhere.",
-      "isShootout": false,
-      "titleEn": "The municipality should step up controls for fraud in social assistance benefits.",
-      "themeEn": "Welfare fraud"
+      "isShootout": false
     },
     {
       "id": 245530,
@@ -6177,9 +6316,7 @@
       "moreInfo": "The Port of Rotterdam is home to many companies that use a lot of energy and emit large amounts of greenhouse gases. These companies therefore contribute to global warming. Companies can make their production processes more sustainable by saving energy, switching to other energy sources and investing in cleaner production methods. These investments cost money and may lead companies to leave Rotterdam, causing job losses.",
       "pro": "Some parties believe clean companies are crucial for the climate and therefore for the future of the port. Even after greening the port, they say there will still be enough jobs left.",
       "con": "According to some parties, employment in the port is too important for Rotterdam's economy. If companies are simply driven to other ports, it does nothing for the environment.",
-      "isShootout": false,
-      "titleEn": "The port must become more sustainable, even if it costs jobs.",
-      "themeEn": "Sustainable port"
+      "isShootout": false
     },
     {
       "id": 137596,
@@ -6187,12 +6324,22 @@
       "theme": "Mid-range rents",
       "themeId": "middenhuur",
       "title": "The municipality should primarily facilitate the construction of owner-occupied starter homes and mid-range rental housing.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet vooral de bouw van koopwoningen voor "
+        },
+        {
+          "text": "starters ",
+          "glossary": "People buying a house for the first time who have never had a mortgage."
+        },
+        {
+          "text": "en huizen met een middenhuur mogelijk maken."
+        }
+      ],
       "moreInfo": "The current Rotterdam Housing Vision focuses on a varied housing stock with an emphasis on affordability and the middle segment. The goal is 65% affordable new construction (social rent, mid-range rent and low-cost owner-occupied) to among other things promote housing mobility.",
       "pro": "Some parties believe this stimulates movement in the housing chain, freeing up more social rental homes. Especially first-time tenants thus get a better chance at an affordable home.",
       "con": "The municipality should actively encourage the construction of social rental housing because there are too few. \"Starter homes\" and \"mid-rent\" are, according to some parties, concepts invented by people who profit from them. Just build cheap rental homes.",
-      "isShootout": false,
-      "titleEn": "The municipality should primarily facilitate the construction of owner-occupied starter homes and mid-range rental housing.",
-      "themeEn": "Mid-range rents"
+      "isShootout": false
     },
     {
       "id": 137622,
@@ -6200,12 +6347,22 @@
       "theme": "Rotterdam Pass",
       "themeId": "rotterdampas",
       "title": "The municipality should set aside more money for reimbursements through the Rotterdampas.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld uittrekken voor vergoedingen via de "
+        },
+        {
+          "text": "Rotterdampas",
+          "glossary": "Special card for people with little money that gives them discounts."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "The Rotterdampas is a discount pass that gives you free or reduced access to more than 750 activities in Rotterdam and the surrounding area. The Rotterdampas costs €65 for adults (as of March 1, 2026). For children up to and including 17 years the price is €20. People with a low income (up to 130–150% of the social assistance standard) can often get the pass for €5 (adults) or sometimes free (children).",
       "pro": "Then more low-income people can take part in activities such as sports and culture. According to some parties, being able to participate is important for equality in the city. According to some parties, expanding the Rotterdampas can simplify the system of reimbursements.",
       "con": "Some parties say the money could be better spent on increasing safety in the city. Holders of the Rotterdampas are, some argue, stigmatized as poor. It is better to raise the incomes of low-income people and make services cheaper.",
-      "isShootout": false,
-      "titleEn": "The municipality should set aside more money for reimbursements through the Rotterdampas.",
-      "themeEn": "Rotterdam Pass"
+      "isShootout": false
     },
     {
       "id": 137618,
@@ -6216,9 +6373,7 @@
       "moreInfo": "The Paulus Church in Rotterdam is a well-known drop-in center focused on shelter and support for vulnerable groups such as homeless people, drug addicts and people without valid papers. Nearby residents and businesses experience nuisance and complain about pollution, drug use, begging and intimidating behavior.",
       "pro": "By relocating, the current nuisance to the surroundings will, according to some parties, decrease significantly. A large new facility outside the center enables better care.",
       "con": "Shelters in the center will always be necessary. Relocating them does not solve homelessness. Some parties think the municipality should provide more shelter locations in addition to the Paulus Church.",
-      "isShootout": false,
-      "titleEn": "The shelter facility in the Paulus Church for homeless people should be moved to a larger facility outside the centre.",
-      "themeEn": "Homeless people"
+      "isShootout": false
     },
     {
       "id": 137615,
@@ -6229,9 +6384,7 @@
       "moreInfo": "In a car-free area no car traffic is allowed. In the center of Rotterdam, for example, the Lijnbaan and the Beurstraverse are car-free.",
       "pro": "A car-free center is cleaner for residents and visitors. A car-free center provides more space for green amenities.",
       "con": "A car is indispensable for residents with a disability. A car is also indispensable for many businesses in the city center.",
-      "isShootout": false,
-      "titleEn": "The centre of Rotterdam should be car-free.",
-      "themeEn": "Car-free"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

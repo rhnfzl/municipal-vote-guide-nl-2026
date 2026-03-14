@@ -2895,6 +2895,18 @@
       "theme": "Woningbouw",
       "themeId": "woningbouw",
       "title": "De gemeente moet de bouw van een nieuwe wijk buiten de bebouwde kom toestaan.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de bouw van een nieuwe wijk buiten de "
+        },
+        {
+          "text": "bebouwde kom",
+          "glossary": "Gebied met bebouwing (huizen, gebouwen)."
+        },
+        {
+          "text": " toestaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "Sommige partijen vinden dit nodig, omdat de woningnood hoog is.Er zijn in de stad te weinig plekken om nieuwe woningen te bouwen.Zo kan Hengelo sneller nieuwe woningen bouwen.",
       "con": "Sommige partijen vinden dat er nog genoeg lege plekken in de stad zijn om nieuwe woningen te bouwen.Nieuwbouw buiten de stad tast het landelijk gebied en de natuur aan die Hengelo zo bijzonder maken.Hengelo moet niet groeien naar 100.000 inwoners.",
@@ -2908,6 +2920,18 @@
       "theme": "Maximumsnelheid",
       "themeId": "maximumsnelheid",
       "title": "In straten waar fietspaden niet vrij liggen, moet de maximumsnelheid omlaag naar 30 km/u.",
+      "titleParts": [
+        {
+          "text": " In straten waar fietspaden niet vrij liggen, moet de "
+        },
+        {
+          "text": "maximumsnelheid",
+          "glossary": "De hoogste snelheid die auto’s en motoren mogen rijden op straat."
+        },
+        {
+          "text": " omlaag naar 30 km/u."
+        }
+      ],
       "moreInfo": "",
       "pro": "Sommige partijen vinden dat dit gevaarlijke situaties voorkomt, wat de verkeersveiligheid bevordert.Het maakt de straat overzichtelijker.",
       "con": "Sommige partijen vinden dat het voor de verkeersveiligheid niet altijd nodig is de maximumsnelheid te verlagen naar 30 km/u.Het maakt de reistijd voor stadsbussen op sommige trajecten langer.",
@@ -2921,6 +2945,18 @@
       "theme": "Handhavers",
       "themeId": "handhavers",
       "title": "In Hengelo moeten meer gemeentelijke handhavers (boa’s) komen die zich met veiligheid bezighouden.",
+      "titleParts": [
+        {
+          "text": " In Hengelo moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "Mensen die voor de gemeente controleren of burgers en bedrijven zich aan de regels houden."
+        },
+        {
+          "text": " (boa’s) komen die zich met veiligheid bezighouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "Een aantal partijen is hiermee eens, omdat ze vinden dat dit zorgt voor meer veiligheid.Inwoners gaan zich alleen netjes gedragen, bijvoorbeeld bij verkeersovertredingen en dumpen van afval, als regels worden gehandhaafd.Boa’s zorgen ervoor dat mensen erop vertrouwen dat regels worden nageleefd",
       "con": "Een aantal partijen is het hiermee niet eens, omdat ze vinden dat de gemeente beter kan zorgen voor preventie. Ze moet meer jongerenwerkers aanstellen.Er zijn op dit moment voldoende boa’s.Het is niet duidelijk waarom meer boa’s nodig zijn.",
@@ -2934,6 +2970,18 @@
       "theme": "Kantoren worden woningen",
       "themeId": "kantoren-worden-woningen",
       "title": "Leegstaande kantoren moeten met subsidie van de gemeente worden omgebouwd tot woningen.",
+      "titleParts": [
+        {
+          "text": " Leegstaande kantoren moeten met "
+        },
+        {
+          "text": "subsidie",
+          "glossary": "Geld dat de overheid aan burgers, bedrijven en organisaties geeft om ze te steunen."
+        },
+        {
+          "text": " van de gemeente worden omgebouwd tot woningen."
+        }
+      ],
       "moreInfo": "",
       "pro": "Sommige partijen vinden dat je hiermee de woningnood aanpakt.Het ombouwen van kantoren naar woningen is zonder subsidie anders te duur.",
       "con": "Sommige partijen vinden dat dit niet een taak van de gemeente is. Het is aan ondernemers en projectontwikkelaars om dit te doen.De gemeente kan als stimulans het ombouwen beter makkelijker maken of de vergunning gratis maken.",
@@ -2973,6 +3021,25 @@
       "theme": "Tegenprestatie voor uitkering",
       "themeId": "tegenprestatie-voor-uitkering",
       "title": "Mensen die een bijstandsuitkering krijgen, moeten in ruil daarvoor maatschappelijk zinvol werk doen.",
+      "titleParts": [
+        {
+          "text": " Mensen die een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Geld van de gemeente voor mensen die geen inkomen of eigen geld hebben."
+        },
+        {
+          "text": " krijgen, moeten in ruil daarvoor "
+        },
+        {
+          "text": "maatschappelijk zinvol werk",
+          "glossary": "Bijvoorbeeld schoonmaken van de straten of het gezelschap houden en ondersteunen van oudere inwoners."
+        },
+        {
+          "text": " doen."
+        }
+      ],
       "moreInfo": "",
       "pro": "Sommige partijen zijn het hiermee eens, omdat ze vinden dat maatschappelijk zinvol werk helpt om aan betaald werk te komen.Voor wat hoort wat. Als je iets krijgt, moet je daarvoor iets terugdoen.",
       "con": "Sommige partijen zijn het hiermee niet eens, omdat ze vinden dat werken als tegenprestatie niet het doel van een bijstandsuitkering. Die uitkering garandeert een minimum om te overleven, wat je omstandigheden ook zijn.Wie werkt, moet daarvoor loon krijgen, geen uitkering.",
@@ -2999,6 +3066,25 @@
       "theme": "Sociale huurwoningen",
       "themeId": "sociale-huurwoningen",
       "title": "Van de nieuw te bouwen woningen in Hengelo moet minstens 35% een sociale huurwoning zijn. In Hengelo is nu 30% van de woningen een sociale huurwoning.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in Hengelo moet minstens 35% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": " zijn. In Hengelo is nu 30% van de woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "Een aantal partijen is het hiermee eens, omdat er een grote behoefte is aan sociale huurwoningen. Dat is zichtbaar door de lange wachttijden.De afgelopen jaren is het aantal sociale huurwoningen gedaald doordat woningen zijn gesloopt of verkocht.",
       "con": "Een aantal partijen is het hier niet mee eens, omdat het huidige doel voldoende is. De gemeente wil nu bij nieuwbouw dat 30% een sociale huurwoning is.Het percentage van 35% leidt tot meer regels en dat leidt ertoe dat er minder wordt gebouwd.",
@@ -3012,6 +3098,18 @@
       "theme": "Windmolens",
       "themeId": "windmolens",
       "title": "De gemeente moet ervoor zorgen dat er niet één, maar twee windmolens worden gebouwd.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet ervoor zorgen dat er niet één, maar twee "
+        },
+        {
+          "text": "windmolens",
+          "glossary": "Het gaat om moderne windturbines die windkracht omzetten in elektriciteit, en die tot 150 meter hoog kunnen zijn."
+        },
+        {
+          "text": " worden gebouwd."
+        }
+      ],
       "moreInfo": "",
       "pro": "Sommige partijen zijn het hiermee eens, omdat ze vinden dat windmolens bijdragen aan de overstap naar duurzame energie.Windmolens nemen minder ruimte in beslag dan zonnevelden.Op de plek waar nu één windmolen komt, is ruimte voor een tweede windmolen.",
       "con": "Sommige partijen zijn het hiermee niet eens, omdat ze vinden dat er te weinig inwoners voorstander van windmolens zijn.Er is te weinig ruimte in Hengelo om nog een windmolen te plaatsen.Niet de gemeente, maar de provincie neemt beslissingen over het plaatsen van windmolens.",
@@ -3090,6 +3188,18 @@
       "theme": "Daklozen",
       "themeId": "daklozen",
       "title": "In Hengelo moeten daklozen voorrang krijgen bij de toewijzing van sociale huurwoningen.",
+      "titleParts": [
+        {
+          "text": " In Hengelo moeten daklozen voorrang krijgen bij de toewijzing van "
+        },
+        {
+          "text": "sociale huurwoningen",
+          "glossary": "Huurwoningen met een lage huur voor mensen met een laag inkomen. In 2026 is dat een bedrag van ten hoogste € 932,93 per maand."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "Partijen die het hiermee eens zijn vinden dat een woning het belangrijkste is voor daklozen. Alleen door een dak boven het hoofd kan de gemeente daklozen een stabiele en veilige basis bieden.Het past niet bij Hengelo dat er mensen op straat leven.",
       "con": "Partijen die het oneens zijn vinden dat voorrang geven aan daklozen niet eerlijk is tegenover andere woningzoekenden.Een woning is niet altijd de beste oplossing voor de problemen van een dakloze.",
@@ -3116,6 +3226,18 @@
       "theme": "Afvalinzameling",
       "themeId": "afvalinzameling",
       "title": "De gemeente Hengelo moet stoppen met het apart inzamelen van restafval en verpakkingsafval (pmd).",
+      "titleParts": [
+        {
+          "text": " De gemeente Hengelo moet stoppen met het apart inzamelen van "
+        },
+        {
+          "text": "restafval",
+          "glossary": "Afval dat overblijft nadat papier, plastic en gft apart zijn ingezameld."
+        },
+        {
+          "text": " en verpakkingsafval (pmd)."
+        }
+      ],
       "moreInfo": "In september 2024 is de inzameling van plastic verpakkingen, metalen verpakkingen en drankkartons (pmd) veranderd bij hoogbouw. De bovengrondse containers voor pmd-afval zijn toen verdwenen. In plaats daarvan zijn er ‘aanbiedpalen’ voor zakkeninzameling gekomen. Deze manier van inzameling heeft geleid tot veel afvaloverlast. In januari heeft de raad besloten om dit systeem vanaf 2027 te veranderen. Over hoe precies, moet de raad nog beslissen.",
       "pro": "De partijen die het hiermee eens zijn zeggen dat het achteraf scheiden van afval leidt tot betere resultaten.De huidige manier van afval afvoeren is voor de inwoners te ingewikkeld.De huidige manier van afval afvoeren leidt tot afval dumpen en puinhopen in de wijk.",
       "con": "De partijen die het hiermee niet eens zijn zeggen dat het duurzamer is als inwoners van tevoren het afval scheiden.Vooraf het afval laten scheiden door de inwoners, wat nu gebeurt, is goedkoper.Bij laagbouw werkt het vooraf scheiden door inwoners prima.",
@@ -3129,6 +3251,18 @@
       "theme": "Discriminatie",
       "themeId": "discriminatie",
       "title": "De gemeente moet meedoen met de jaarlijkse Prideweek voor alle lhbtqia+-inwoners.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meedoen met de jaarlijkse Prideweek voor alle "
+        },
+        {
+          "text": "lhbtqia+",
+          "glossary": "De letters staan voor lesbisch, homoseksueel, biseksueel, transgender, queer, intersekse en aseksueel. De + staat voor alle andere vormen waarop mensen hun identiteit en seksualiteit beleven."
+        },
+        {
+          "text": "-inwoners."
+        }
+      ],
       "moreInfo": "",
       "pro": "Een aantal partijen is het hiermee eens, omdat dit bijdraagt aan een inclusieve samenleving. De gemeente laat zo zien dat alle inwoners gelijk worden behandeld en ieder zich thuis en veilig kan voelen.Lhbtqia+-personen worden nog altijd regelmatig gediscrimineerd.",
       "con": "Een aantal partijen is het hiermee oneens, omdat lhbtqia+’ers geen apart podium moet krijgen.Inclusie en verbinding kan de gemeente ook op een andere manier tonen.",
@@ -3142,6 +3276,25 @@
       "theme": "Integratie statushouders",
       "themeId": "integratie-statushouders",
       "title": "De gemeente moet minder geld uitgeven aan de integratie van vluchtelingen met een verblijfsstatus.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet minder geld uitgeven aan de "
+        },
+        {
+          "text": "integratie",
+          "glossary": "Nieuwkomers leren de taal en gewoonten van Nederland."
+        },
+        {
+          "text": " van vluchtelingen met een "
+        },
+        {
+          "text": "verblijfsstatus",
+          "glossary": "Vluchtelingen die een verblijfsvergunning hebben gekregen en dus in Nederland mogen blijven."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "Sommige partijen zijn het hiermee eens, omdat ze vinden dat nieuwkomers zelf verantwoordelijk zijn voor hun integratie.De gemeente moet kritisch kijken hoe het geld wordt besteed.",
       "con": "Sommige partijen zijn het hiermee oneens, omdat ze menen dat deze nieuwkomers met steun van de gemeente sneller integreren. Ze vinden dan ook sneller werk.Statushouders steunen bij hun integratie is een wettelijke taak en morele plicht.",
@@ -3220,6 +3373,18 @@
       "theme": "Schoolgebouwen",
       "themeId": "schoolgebouwen",
       "title": "De gemeente moet meer geld steken in het duurzaam maken van bestaande schoolgebouwen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld steken in het "
+        },
+        {
+          "text": "duurzaam",
+          "glossary": "Een gebouw met een laag energieverbruik of gebouwd met materialen die je lang kunt (her)gebruiken."
+        },
+        {
+          "text": " maken van bestaande schoolgebouwen."
+        }
+      ],
       "moreInfo": "",
       "pro": "Partijen die het hiermee eens zijn, wijzen erop dat dit zorgt voor een gezond en veilig binnenklimaat van de schoolgebouwen. Bovendien is de energierekening dan minder hoog.",
       "con": "Partijen die het hiermee niet eens zijn, wijzen erop dat er al een plan is voor verduurzaming en nieuwbouw van schoolgebouwen. Nog meer geld uitgeven dan in dit plan geregeld is, is onnodig.",
@@ -3233,6 +3398,18 @@
       "theme": "Asielzoekerscentrum",
       "themeId": "asielzoekerscentrum",
       "title": "De gemeente moet meer asielzoekers opvangen dan wettelijk verplicht.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer "
+        },
+        {
+          "text": "asielzoekers",
+          "glossary": "Mensen die asiel hebben aangevraagd en nog wachten op de beslissing daarover."
+        },
+        {
+          "text": " opvangen dan wettelijk verplicht."
+        }
+      ],
       "moreInfo": "Volgens de Spreidingswet moet Hengelo 415 asielzoekers opvangen. Daarbij tellen Oekraïeners niet mee. Volgens de gemeente Hengelo zaten er in 2024 470 asielzoekers in de opvang in Hengelo. Zij waren verspreid over drie plekken: Havezatelaan, Hazenweg en Van der Valk.",
       "pro": "Een aantal partijen is het hiermee eens, omdat Hengelo dit al doet. En dat gaat goed.Hengelo is sociaal voor vluchtelingen.",
       "con": "Een aantal partijen is het hier niet mee eens, omdat Hengelo niet de verantwoordelijkheid van andere gemeenten op zich hoeft te nemen. Andere gemeenten moeten nu ook asielzoekers opvangen.Sommige partijen vinden dat Hengelo helemaal geen asielzoekers moet opvangen.",
@@ -3246,6 +3423,18 @@
       "theme": "Voorrang huisvesting",
       "themeId": "voorrang-huisvesting",
       "title": "Bij de toewijzing van een sociale huurwoning moeten woningzoekenden uit de eigen gemeente voorrang krijgen.",
+      "titleParts": [
+        {
+          "text": " Bij de toewijzing van een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": " moeten woningzoekenden uit de eigen gemeente voorrang krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "Sommige partijen zijn het hiermee eens, omdat ze vinden dat voorrang voor de lokale inwoners rechtvaardig is.Mensen kunnen het beste wonen op de plek waar ze werken of waar ze familie en vrienden hebben.",
       "con": "Sommige partijen zijn het hiermee niet eens, omdat ze vinden dat het voor de ontwikkeling van Hengelo goed is als er mensen van buiten Hengelo komen wonen.Het is oneerlijk: iedereen moet evenveel kansen krijgen om een sociale huurwoning te krijgen.",

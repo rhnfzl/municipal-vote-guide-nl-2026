@@ -1257,12 +1257,22 @@
       "theme": "Camera surveillance",
       "themeId": "cameratoezicht",
       "title": "There should be more camera surveillance in all shopping centers in the municipality of Medemblik.",
+      "titleParts": [
+        {
+          "text": " In alle winkelcentra van de gemeente Medemblik moet meer "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Monitoring of a building, area, or (groups of) people using security cameras."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be more camera surveillance in all shopping centers in the municipality of Medemblik.",
-      "themeEn": "Camera surveillance"
+      "isShootout": false
     },
     {
       "id": 207160,
@@ -1273,9 +1283,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "New neighborhoods should be composed of 30 percent water and green space.",
-      "themeEn": "Green neighborhoods"
+      "isShootout": false
     },
     {
       "id": 207156,
@@ -1286,9 +1294,7 @@
       "moreInfo": "In the municipality of Medemblik a multi-person household pays the fixed waste collection fee of €315.41. A single-person household pays €237.15. In addition, residents pay each time the municipality empties their container. Emptying a 140-liter residual waste container costs €10.39. Opening an underground container to throw in residual waste costs €3.48 per time.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Every household should pay the same fee for residual waste, regardless of how much waste they produce.",
-      "themeEn": "Waste"
+      "isShootout": false
     },
     {
       "id": 207126,
@@ -1299,9 +1305,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must allow agricultural land in Medemblik to be converted into nature reserves.",
-      "themeEn": "Agricultural land"
+      "isShootout": false
     },
     {
       "id": 207147,
@@ -1312,9 +1316,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Every village should have a municipal service desk where residents can, for example, apply for a passport.",
-      "themeEn": "Municipal service desk"
+      "isShootout": false
     },
     {
       "id": 207128,
@@ -1322,12 +1324,29 @@
       "theme": "Priority for refugees",
       "themeId": "voorrang-voor-vluchtelingen",
       "title": "The municipality must continue to give refugees with a residence permit priority for social housing.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet vluchtelingen met een "
+        },
+        {
+          "text": "verblijfsvergunning",
+          "glossary": "The right to reside in the Netherlands. The term can refer to the right itself or to the card that shows someone has that right."
+        },
+        {
+          "text": " voorrang blijven geven op een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must continue to give refugees with a residence permit priority for social housing.",
-      "themeEn": "Priority for refugees"
+      "isShootout": false
     },
     {
       "id": 207149,
@@ -1335,12 +1354,22 @@
       "theme": "Renovation of the town hall",
       "themeId": "renovatie-gemeentehuis",
       "title": "The municipality must spend less on renovating the town hall.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet minder uitgeven aan de "
+        },
+        {
+          "text": "renovatie",
+          "glossary": "Repairing or partially renewing an existing building."
+        },
+        {
+          "text": " van het gemeentehuis."
+        }
+      ],
       "moreInfo": "At the beginning of 2025 the municipal council decided to renovate the town hall in Wognum. The municipality estimates the renovation will cost about €18 million. The renovation will begin in 2027.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must spend less on renovating the town hall.",
-      "themeEn": "Renovation of the town hall"
+      "isShootout": false
     },
     {
       "id": 207137,
@@ -1348,12 +1377,22 @@
       "theme": "Violence against women",
       "themeId": "geweld-tegen-vrouwen",
       "title": "The municipality of Medemblik must establish a women's shelter for victims of domestic violence.",
+      "titleParts": [
+        {
+          "text": " In de gemeente Medemblik moet een "
+        },
+        {
+          "text": "blijf-van-mijn-lijf-huis",
+          "glossary": "Shelter for women who experience violence from their partner or family. The shelter is secured; sometimes the location is secret."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality of Medemblik must establish a women's shelter for victims of domestic violence.",
-      "themeEn": "Violence against women"
+      "isShootout": false
     },
     {
       "id": 207132,
@@ -1364,9 +1403,7 @@
       "moreInfo": "School swimming is swimming lessons that students receive through school. The goal is for children to learn to swim and to be able to keep themselves safe in the water. In the past school swimming was offered in many municipalities. Nowadays parents often arrange this themselves, so not all children obtain a swimming diploma. At the moment the municipality of Medemblik provides money to low-income families so children can obtain swimming diplomas A and B.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allocate money for school swimming.",
-      "themeEn": "School swimming"
+      "isShootout": false
     },
     {
       "id": 207125,
@@ -1377,9 +1414,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "More business parks should be developed in the municipality of Medemblik.",
-      "themeEn": "Business parks"
+      "isShootout": false
     },
     {
       "id": 207164,
@@ -1390,9 +1425,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Libraries and community centers should offer more free reading and writing classes.",
-      "themeEn": "Low literacy"
+      "isShootout": false
     },
     {
       "id": 207130,
@@ -1403,9 +1436,7 @@
       "moreInfo": "The municipality is responsible for mowing grass in public spaces, such as lawns, parks and verges. The municipality mows the lawns 26 times a year. The verges are mowed twice a year.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should mow public grass more often.",
-      "themeEn": "Grass"
+      "isShootout": false
     },
     {
       "id": 207138,
@@ -1413,12 +1444,29 @@
       "theme": "Social housing",
       "themeId": "sociale-huurwoningen",
       "title": "At least 35% of the newly built homes in the municipality of Medemblik should be social rental homes. In Medemblik now 17% of the new homes are social rental homes.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in de gemeente Medemblik moet minimaal 35% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " zijn. In Medemblik is nu 17% van de nieuwe woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "At least 35% of the newly built homes in the municipality of Medemblik should be social rental homes. In Medemblik now 17% of the new homes are social rental homes.",
-      "themeEn": "Social housing"
+      "isShootout": false
     },
     {
       "id": 207123,
@@ -1426,12 +1474,22 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "Residents of the municipality of Medemblik should be able to give their opinion on important issues via a referendum.",
+      "titleParts": [
+        {
+          "text": " De inwoners van de gemeente Medemblik moeten over belangrijke onderwerpen hun mening kunnen geven via een "
+        },
+        {
+          "text": "referendum",
+          "glossary": "A public consultation where residents can express their opinion on a political issue. The municipal council is not obliged to follow the result; legally it cannot."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents of the municipality of Medemblik should be able to give their opinion on important issues via a referendum.",
-      "themeEn": "Referendum"
+      "isShootout": false
     },
     {
       "id": 207177,
@@ -1442,9 +1500,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The maximum speed near schools should be 15 km/h.",
-      "themeEn": "Speed limit near schools"
+      "isShootout": false
     },
     {
       "id": 207154,
@@ -1455,9 +1511,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must allow agricultural businesses to house up to 120 foreign workers on their own premises instead of 60.",
-      "themeEn": "Housing for foreign workers"
+      "isShootout": false
     },
     {
       "id": 207157,
@@ -1465,12 +1519,22 @@
       "theme": "Solar field on the IJsselmeer",
       "themeId": "zonneveld-op-ijsselmeer",
       "title": "The municipality must continue to advocate with the national government for a solar park on the IJsselmeer.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet zich bij het Rijk blijven inzetten voor een "
+        },
+        {
+          "text": "zonneveld",
+          "glossary": "Field of solar panels."
+        },
+        {
+          "text": " op het IJsselmeer."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must continue to advocate with the national government for a solar park on the IJsselmeer.",
-      "themeEn": "Solar field on the IJsselmeer"
+      "isShootout": false
     },
     {
       "id": 207141,
@@ -1478,12 +1542,28 @@
       "theme": "Work requirement for welfare recipients",
       "themeId": "tegenprestatie-voor-uitkering",
       "title": "People receiving social assistance should, in return, do socially useful work.",
+      "titleParts": [
+        {
+          "text": " Mensen die een "
+        },
+        {
+          "text": "bijstandsuitkering"
+        },
+        {
+          "text": " krijgen, moeten in ruil daarvoor "
+        },
+        {
+          "text": "maatschappelijk zinvol werk",
+          "glossary": "For example cleaning the streets or keeping company and supporting elderly residents."
+        },
+        {
+          "text": " doen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People receiving social assistance should, in return, do socially useful work.",
-      "themeEn": "Work requirement for welfare recipients"
+      "isShootout": false
     },
     {
       "id": 207182,
@@ -1494,9 +1574,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Medemblik should have a health center where elderly people can go with questions.",
-      "themeEn": "Health center for the elderly"
+      "isShootout": false
     },
     {
       "id": 207162,
@@ -1507,9 +1585,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should invest in research into neighborhood batteries to store electricity from solar panels.",
-      "themeEn": "Neighborhood batteries"
+      "isShootout": false
     },
     {
       "id": 207166,
@@ -1520,9 +1596,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should contribute financially when a large event comes to Medemblik.",
-      "themeEn": "Events"
+      "isShootout": false
     },
     {
       "id": 207146,
@@ -1533,9 +1607,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should distribute tampons and sanitary pads for free.",
-      "themeEn": "Free menstrual products"
+      "isShootout": false
     },
     {
       "id": 207174,
@@ -1546,9 +1618,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should give companies money to hire more people with disabilities.",
-      "themeEn": "Jobs for people with disabilities"
+      "isShootout": false
     },
     {
       "id": 207175,
@@ -1556,12 +1626,22 @@
       "theme": "Speed cameras",
       "themeId": "flitspalen",
       "title": "The municipality should ask the Public Prosecution Service to install more speed cameras within built-up areas.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet aan het Openbaar Ministerie vragen om meer "
+        },
+        {
+          "text": "flitspalen",
+          "glossary": "Devices along the road that record traffic violations."
+        },
+        {
+          "text": " neer te zetten binnen de bebouwde kom."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should ask the Public Prosecution Service to install more speed cameras within built-up areas.",
-      "themeEn": "Speed cameras"
+      "isShootout": false
     },
     {
       "id": 207173,
@@ -1569,12 +1649,22 @@
       "theme": "Free insulation materials",
       "themeId": "gratis-isolatiemateriaal",
       "title": "Residents with low incomes must receive free insulation materials for their homes from the municipality.",
+      "titleParts": [
+        {
+          "text": " Inwoners met weinig geld moeten van de gemeente gratis "
+        },
+        {
+          "text": "isolatiemateriaal",
+          "glossary": "Material in roofs, walls and floors that keeps heat in or out. In winter it keeps heat inside and in summer outside."
+        },
+        {
+          "text": " krijgen voor hun huis."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents with low incomes must receive free insulation materials for their homes from the municipality.",
-      "themeEn": "Free insulation materials"
+      "isShootout": false
     },
     {
       "id": 207180,
@@ -1585,9 +1675,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Every village should have a social team to help residents with problems related to money, care, and parenting.",
-      "themeEn": "Social teams"
+      "isShootout": false
     },
     {
       "id": 207172,
@@ -1598,9 +1686,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should abolish municipal rules about how houses must look when being built or renovated.",
-      "themeEn": "Design and appearance regulations"
+      "isShootout": false
     },
     {
       "id": 207152,
@@ -1608,12 +1694,22 @@
       "theme": "Asylum seekers",
       "themeId": "asielzoekers",
       "title": "The municipality should help asylum seekers find paid work.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "asielzoekers",
+          "glossary": "People who have applied for asylum and are still waiting for a decision."
+        },
+        {
+          "text": " helpen met vinden van betaald werk."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should help asylum seekers find paid work.",
-      "themeEn": "Asylum seekers"
+      "isShootout": false
     },
     {
       "id": 207159,
@@ -1624,9 +1720,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality may no longer use poison when managing public green spaces, such as verges and parks.",
-      "themeEn": "Weed management"
+      "isShootout": false
     },
     {
       "id": 207167,
@@ -1634,12 +1728,22 @@
       "theme": "Funfair",
       "themeId": "kermis",
       "title": "The municipality should deploy more municipal enforcement officers (BOAs) at fairs to check for alcohol and drug use among young people.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "People who, for the municipality, check whether citizens and businesses comply with the rules."
+        },
+        {
+          "text": " (boa’s) inzetten op kermissen om te controleren op drank- en drugsgebruik onder jongeren."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should deploy more municipal enforcement officers (BOAs) at fairs to check for alcohol and drug use among young people.",
-      "themeEn": "Funfair"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

@@ -1964,9 +1964,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "New student housing should be located outside the city, on campus and in surrounding municipalities.",
-      "themeEn": "Student housing"
+      "isShootout": false
     },
     {
       "id": 112080,
@@ -1974,12 +1972,29 @@
       "theme": "Mayor and municipal executive",
       "themeId": "burgemeester-en-college",
       "title": "The new college of mayor and aldermen must have an equal number of men and women.",
+      "titleParts": [
+        {
+          "text": " In het nieuwe "
+        },
+        {
+          "text": "college",
+          "glossary": "The college of mayor and aldermen, the municipality’s executive board."
+        },
+        {
+          "text": " van "
+        },
+        {
+          "text": "burgemeester",
+          "glossary": "The mayor leads the municipality and chairs the municipal council. The mayor is not elected but appointed by the national government, after recommendation by the municipal council."
+        },
+        {
+          "text": " en wethouders moet het aantal mannen en vrouwen gelijk zijn."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The new college of mayor and aldermen must have an equal number of men and women.",
-      "themeEn": "Mayor and municipal executive"
+      "isShootout": false
     },
     {
       "id": 112129,
@@ -1990,9 +2005,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Delft should renovate Theater de Veste.",
-      "themeEn": "Theater De Veste"
+      "isShootout": false
     },
     {
       "id": 112093,
@@ -2000,12 +2013,29 @@
       "theme": "Accessibility of buildings",
       "themeId": "toegankelijkheid-gebouwen",
       "title": "The municipality should financially help business owners to make their buildings accessible to people with disabilities.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet ondernemers "
+        },
+        {
+          "text": "financieel",
+          "glossary": "Something related to money."
+        },
+        {
+          "text": " helpen om hun gebouw toegankelijker te maken voor mensen met een "
+        },
+        {
+          "text": "beperking",
+          "glossary": "Something that limits you in daily life. A disability can be physical or intellectual or relate to hearing or sight, or combinations of these."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should financially help business owners to make their buildings accessible to people with disabilities.",
-      "themeEn": "Accessibility of buildings"
+      "isShootout": false
     },
     {
       "id": 112084,
@@ -2016,9 +2046,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Cafés and restaurants must be able to determine their own opening hours.",
-      "themeEn": "Opening hours for hospitality venues"
+      "isShootout": false
     },
     {
       "id": 112090,
@@ -2029,9 +2057,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should organize a fireworks show on New Year's Eve.",
-      "themeEn": "Fireworks"
+      "isShootout": false
     },
     {
       "id": 112100,
@@ -2039,12 +2065,22 @@
       "theme": "Enforcement officers",
       "themeId": "handhavers",
       "title": "Delft should have more municipal enforcement officers (BOAs) focused on safety.",
+      "titleParts": [
+        {
+          "text": " In Delft moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "People who, for the municipality, check whether citizens and businesses comply with the rules."
+        },
+        {
+          "text": " (boa’s) komen die zich met veiligheid bezighouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Delft should have more municipal enforcement officers (BOAs) focused on safety.",
-      "themeEn": "Enforcement officers"
+      "isShootout": false
     },
     {
       "id": 112097,
@@ -2052,12 +2088,22 @@
       "theme": "Music lessons",
       "themeId": "muziekles",
       "title": "Every primary school child should be able to receive music lessons subsidized by the municipality.",
+      "titleParts": [
+        {
+          "text": " Elk basisschoolkind moet met "
+        },
+        {
+          "text": "subsidie",
+          "glossary": "Money the government gives to citizens, businesses, and organizations to support them."
+        },
+        {
+          "text": " van de gemeente muziekles kunnen krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Every primary school child should be able to receive music lessons subsidized by the municipality.",
-      "themeEn": "Music lessons"
+      "isShootout": false
     },
     {
       "id": 112137,
@@ -2068,9 +2114,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "More parking spaces should be created in the center.",
-      "themeEn": "More parking spaces"
+      "isShootout": false
     },
     {
       "id": 112111,
@@ -2081,9 +2125,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should raise the income threshold for receiving poverty assistance.",
-      "themeEn": "Combating poverty"
+      "isShootout": false
     },
     {
       "id": 112101,
@@ -2091,12 +2133,22 @@
       "theme": "Camera surveillance",
       "themeId": "cameratoezicht",
       "title": "There should be more camera surveillance in Delft.",
+      "titleParts": [
+        {
+          "text": " In Delft moet meer "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Monitoring of a building, area, or (groups of) people using security cameras."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be more camera surveillance in Delft.",
-      "themeEn": "Camera surveillance"
+      "isShootout": false
     },
     {
       "id": 112107,
@@ -2104,12 +2156,22 @@
       "theme": "Offices converted into homes",
       "themeId": "kantoren-worden-woningen",
       "title": "Vacant offices should be converted into housing with subsidies from the municipality.",
+      "titleParts": [
+        {
+          "text": " Leegstaande kantoren moeten met "
+        },
+        {
+          "text": "subsidie",
+          "glossary": "Money the government gives to citizens, businesses, and organizations to support them."
+        },
+        {
+          "text": " van de gemeente worden omgebouwd tot woningen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Vacant offices should be converted into housing with subsidies from the municipality.",
-      "themeEn": "Offices converted into homes"
+      "isShootout": false
     },
     {
       "id": 112103,
@@ -2117,12 +2179,22 @@
       "theme": "Baton (police baton)",
       "themeId": "wapenstok",
       "title": "The BOAs who check safety in Delft should be given a baton.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "boa's",
+          "glossary": "Special Enforcement Officers. They can issue fines and often supervise the streets."
+        },
+        {
+          "text": " die in Delft controleren op veiligheid moeten een wapenstok krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The BOAs who check safety in Delft should be given a baton.",
-      "themeEn": "Baton (police baton)"
+      "isShootout": false
     },
     {
       "id": 112135,
@@ -2133,9 +2205,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allow landlords to rent out individual rooms instead of entire houses.",
-      "themeEn": "Subdivision into multiple rooms"
+      "isShootout": false
     },
     {
       "id": 112109,
@@ -2143,12 +2213,29 @@
       "theme": "Work requirement for welfare recipients",
       "themeId": "tegenprestatie-voor-uitkering",
       "title": "People receiving social assistance should, in return, do socially useful work.",
+      "titleParts": [
+        {
+          "text": " Mensen die een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Money from the municipality for people who have no income or personal funds."
+        },
+        {
+          "text": " krijgen, moeten in ruil daarvoor "
+        },
+        {
+          "text": "maatschappelijk zinvol werk",
+          "glossary": "For example cleaning the streets or keeping company and supporting elderly residents."
+        },
+        {
+          "text": " doen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People receiving social assistance should, in return, do socially useful work.",
-      "themeEn": "Work requirement for welfare recipients"
+      "isShootout": false
     },
     {
       "id": 112114,
@@ -2159,9 +2246,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should designate more parking spaces as charging points for electric cars.",
-      "themeEn": "Electric vehicle charging stations"
+      "isShootout": false
     },
     {
       "id": 112120,
@@ -2169,12 +2254,22 @@
       "theme": "Choice of healthcare",
       "themeId": "zorgkeuze",
       "title": "People who need care should always be able to choose a caregiver who matches their religion, culture, or beliefs.",
+      "titleParts": [
+        {
+          "text": " Mensen die zorg nodig hebben, moeten altijd kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of "
+        },
+        {
+          "text": "levensovertuiging",
+          "glossary": "What someone believes about life, such as a religion or personal conviction."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People who need care should always be able to choose a caregiver who matches their religion, culture, or beliefs.",
-      "themeEn": "Choice of healthcare"
+      "isShootout": false
     },
     {
       "id": 112127,
@@ -2182,12 +2277,29 @@
       "theme": "Priority for refugees",
       "themeId": "voorrang-voor-vluchtelingen",
       "title": "The municipality must continue to give refugees with a residence permit priority for social housing.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet vluchtelingen met een "
+        },
+        {
+          "text": "verblijfsvergunning",
+          "glossary": "The right to reside in the Netherlands. The term can refer to the right itself or to the card that shows someone has that right."
+        },
+        {
+          "text": " voorrang blijven geven op een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must continue to give refugees with a residence permit priority for social housing.",
-      "themeEn": "Priority for refugees"
+      "isShootout": false
     },
     {
       "id": 112110,
@@ -2195,12 +2307,29 @@
       "theme": "Stop debt forgiveness",
       "themeId": "kwijtschelding-stoppen",
       "title": "The municipality should stop forgiving municipal taxes for low-income residents.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet stoppen met het "
+        },
+        {
+          "text": "kwijtschelden",
+          "glossary": "That people no longer have to pay for something."
+        },
+        {
+          "text": " van de "
+        },
+        {
+          "text": "gemeentelijke belastingen",
+          "glossary": "Taxes you have to pay to the municipality (e.g., sewer charge, waste disposal charge, dog tax)."
+        },
+        {
+          "text": " voor inwoners met een laag inkomen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should stop forgiving municipal taxes for low-income residents.",
-      "themeEn": "Stop debt forgiveness"
+      "isShootout": false
     },
     {
       "id": 112124,
@@ -2208,12 +2337,22 @@
       "theme": "Tourist tax",
       "themeId": "toeristenbelasting",
       "title": "The tourist tax should be increased.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "toeristenbelasting",
+          "glossary": "The tax you must pay when you stay overnight in a hotel or at a campsite."
+        },
+        {
+          "text": " moet omhoog."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The tourist tax should be increased.",
-      "themeEn": "Tourist tax"
+      "isShootout": false
     },
     {
       "id": 112116,
@@ -2224,9 +2363,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Parking at shopping centers must remain free.",
-      "themeEn": "Free parking"
+      "isShootout": false
     },
     {
       "id": 112140,
@@ -2234,12 +2371,22 @@
       "theme": "Business activity",
       "themeId": "bedrijvigheid",
       "title": "The municipality should financially help companies established on the TU campus to stay in Delft.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet bedrijven die op de campus van de TU zijn opgericht "
+        },
+        {
+          "text": "financieel",
+          "glossary": "Something related to money."
+        },
+        {
+          "text": " helpen om in Delft te blijven."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should financially help companies established on the TU campus to stay in Delft.",
-      "themeEn": "Business activity"
+      "isShootout": false
     },
     {
       "id": 112121,
@@ -2250,9 +2397,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "When selecting organizations for youth care, the municipality should primarily pay attention to price.",
-      "themeEn": "Youth care"
+      "isShootout": false
     },
     {
       "id": 112086,
@@ -2263,9 +2408,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Delft should continue to provide shelter for rejected asylum seekers.",
-      "themeEn": "Accommodation for rejected asylum seekers"
+      "isShootout": false
     },
     {
       "id": 112125,
@@ -2276,9 +2419,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be more business parks in Delft.",
-      "themeEn": "Business parks"
+      "isShootout": false
     },
     {
       "id": 112098,
@@ -2286,12 +2427,22 @@
       "theme": "Sports clubs",
       "themeId": "sportverenigingen",
       "title": "If sports clubs are struggling, the municipality should contribute financially.",
+      "titleParts": [
+        {
+          "text": " Als sportverenigingen het moeilijk hebben, moet de gemeente "
+        },
+        {
+          "text": "financieel",
+          "glossary": "Something related to money."
+        },
+        {
+          "text": " bijdragen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "If sports clubs are struggling, the municipality should contribute financially.",
-      "themeEn": "Sports clubs"
+      "isShootout": false
     },
     {
       "id": 112132,
@@ -2299,12 +2450,22 @@
       "theme": "Coffeeshops (cannabis cafés)",
       "themeId": "coffeeshops",
       "title": "The municipality should prevent the opening of new coffeeshops.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de vestiging van nieuwe "
+        },
+        {
+          "text": "coffeeshops",
+          "glossary": "Shops or cafés where you can buy and smoke soft drugs (hash, weed)."
+        },
+        {
+          "text": " tegenhouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should prevent the opening of new coffeeshops.",
-      "themeEn": "Coffeeshops (cannabis cafés)"
+      "isShootout": false
     },
     {
       "id": 112117,
@@ -2312,12 +2473,36 @@
       "theme": "Public transport",
       "themeId": "openbaar-vervoer",
       "title": "The municipality should invest in tailored transport between the local centers (for example a dial‑a‑ride bus).",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld steken in "
+        },
+        {
+          "text": "vervoer op maat",
+          "glossary": "A type of public transport that doesn't run on a fixed schedule but can be called to pick you up."
+        },
+        {
+          "text": " tussen de "
+        },
+        {
+          "text": "kernen",
+          "glossary": "A village or small town that is part of the municipality."
+        },
+        {
+          "text": " (bijvoorbeeld een "
+        },
+        {
+          "text": "belbus",
+          "glossary": "A bus that only runs if you reserve it in advance. The bus then takes you door to door."
+        },
+        {
+          "text": ")."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should invest in tailored transport between the local centers (for example a dial‑a‑ride bus).",
-      "themeEn": "Public transport"
+      "isShootout": false
     },
     {
       "id": 112081,
@@ -2325,12 +2510,22 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "The residents of Delft should be able to give their opinion on important issues via a referendum.",
+      "titleParts": [
+        {
+          "text": " De inwoners van Delft moeten over belangrijke onderwerpen hun mening kunnen geven via een "
+        },
+        {
+          "text": "referendum",
+          "glossary": "A public consultation where residents can express their opinion on a political issue. The municipal council is not obliged to follow the result; legally it cannot."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The residents of Delft should be able to give their opinion on important issues via a referendum.",
-      "themeEn": "Referendum"
+      "isShootout": false
     },
     {
       "id": 112141,
@@ -2338,12 +2533,22 @@
       "theme": "Energy transition",
       "themeId": "energietransitie",
       "title": "The municipality should continue the rollout of the district heating network.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de aanleg van het "
+        },
+        {
+          "text": "warmtenet",
+          "glossary": "Network of underground pipes that brings hot water from a central source to homes and buildings, for both heating and tap water."
+        },
+        {
+          "text": " voortzetten."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should continue the rollout of the district heating network.",
-      "themeEn": "Energy transition"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

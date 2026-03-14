@@ -451,6 +451,18 @@
       "theme": "Openbaar vervoer",
       "themeId": "openbaar-vervoer",
       "title": "De gemeente Bergeijk moet geld uitgeven aan het openbaar vervoer, bovenop het budget van de provincie.",
+      "titleParts": [
+        {
+          "text": " De gemeente Bergeijk moet geld uitgeven aan het openbaar vervoer, bovenop het "
+        },
+        {
+          "text": "budget",
+          "glossary": "Een hoeveelheid geld voor een bepaalde taak of opdracht."
+        },
+        {
+          "text": " van de provincie."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -464,6 +476,18 @@
       "theme": "Contributie sport",
       "themeId": "contributie-sport",
       "title": "De gemeente moet het lidmaatschap van een sportclub betalen voor mensen met een bijstandsuitkering.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet het lidmaatschap van een sportclub betalen voor mensen met een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Geld van de gemeente voor mensen die geen inkomen of eigen geld hebben."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -477,6 +501,18 @@
       "theme": "Cameratoezicht",
       "themeId": "cameratoezicht",
       "title": "In Bergeijk moet meer cameratoezicht komen.",
+      "titleParts": [
+        {
+          "text": " In Bergeijk moet meer "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Het houden van toezicht op of in een gebouw, gebied of (groepen) mensen met behulp van bewakingscamera's."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -516,6 +552,25 @@
       "theme": "Tegenprestatie voor uitkering",
       "themeId": "tegenprestatie-voor-uitkering",
       "title": "Mensen die een bijstandsuitkering krijgen, moeten in ruil daarvoor maatschappelijk zinvol werk doen.",
+      "titleParts": [
+        {
+          "text": " Mensen die een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Geld van de gemeente voor mensen die geen inkomen of eigen geld hebben."
+        },
+        {
+          "text": " krijgen, moeten in ruil daarvoor "
+        },
+        {
+          "text": "maatschappelijk zinvol werk",
+          "glossary": "Bijvoorbeeld schoonmaken van de straten of het gezelschap houden en ondersteunen van oudere inwoners."
+        },
+        {
+          "text": " doen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -529,6 +584,18 @@
       "theme": "Toeristenbelasting",
       "themeId": "toeristenbelasting",
       "title": "De toeristenbelasting moet omhoog.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "toeristenbelasting",
+          "glossary": "De belasting die je moet betalen als je in een hotel of op een camping bijft slapen."
+        },
+        {
+          "text": " moet omhoog."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -568,6 +635,25 @@
       "theme": "Snelheid auto's",
       "themeId": "snelheid-auto-s",
       "title": "De maximumsnelheid binnen de bebouwde kom moet naar 30 km/u.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "maximumsnelheid",
+          "glossary": "De hoogste snelheid die auto’s en motoren mogen rijden op straat."
+        },
+        {
+          "text": " binnen de "
+        },
+        {
+          "text": "bebouwde kom",
+          "glossary": "Gebied met bebouwing (huizen, gebouwen)."
+        },
+        {
+          "text": " moet naar 30 km/u."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -607,6 +693,18 @@
       "theme": "Schoolzwemmen",
       "themeId": "schoolzwemmen",
       "title": "De gemeente moet geld beschikbaar stellen voor schoolzwemmen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld beschikbaar stellen voor "
+        },
+        {
+          "text": "schoolzwemmen",
+          "glossary": "Zwemlessen die vanuit de school worden georganiseerd."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -620,6 +718,18 @@
       "theme": "Houtstook",
       "themeId": "houtstook",
       "title": "In Bergeijk moet het gebruik van open haarden en houtkachels toegestaan blijven.",
+      "titleParts": [
+        {
+          "text": " In Bergeijk moet het gebruik van open haarden en "
+        },
+        {
+          "text": "houtkachels",
+          "glossary": "Kachels die worden gestookt met hout om een woning te verwarmen."
+        },
+        {
+          "text": " toegestaan blijven."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -633,6 +743,18 @@
       "theme": "Zorgkeuze",
       "themeId": "zorgkeuze",
       "title": "Mensen die zorg nodig hebben, moeten altijd kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of levensovertuiging.",
+      "titleParts": [
+        {
+          "text": " Mensen die zorg nodig hebben, moeten altijd kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of "
+        },
+        {
+          "text": "levensovertuiging",
+          "glossary": "Wat iemand gelooft over het leven, zoals een geloof of persoonlijke overtuiging."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -646,6 +768,18 @@
       "theme": "Asielzoekerscentrum",
       "themeId": "asielzoekerscentrum",
       "title": "In onze gemeente moet een asielzoekerscentrum (azc) komen.",
+      "titleParts": [
+        {
+          "text": " In onze gemeente moet een "
+        },
+        {
+          "text": "asielzoekerscentrum",
+          "glossary": "Opvangcentrum voor asielzoekers. Ze wonen daar tot besloten is of ze in Nederland mogen blijven. Een asielzoekerscentrum blijft langere tijd in een gemeente staan."
+        },
+        {
+          "text": " (azc) komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -659,6 +793,18 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "De inwoners van Bergeijk moeten over belangrijke onderwerpen hun mening kunnen geven via een referendum.",
+      "titleParts": [
+        {
+          "text": " De inwoners van Bergeijk moeten over belangrijke onderwerpen hun mening kunnen geven via een "
+        },
+        {
+          "text": "referendum",
+          "glossary": "Volksraadpleging waarbij inwoners zich kunnen uitspreken over een politieke kwestie. De gemeenteraad is niet verplicht de uitslag te volgen, dat is wettelijk niet mogelijk."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -672,6 +818,18 @@
       "theme": "Handhavers",
       "themeId": "handhavers",
       "title": "In Bergeijk moeten meer gemeentelijke handhavers (boa’s) komen die zich met veiligheid bezighouden.",
+      "titleParts": [
+        {
+          "text": " In Bergeijk moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "Mensen die voor de gemeente controleren of burgers en bedrijven zich aan de regels houden."
+        },
+        {
+          "text": " (boa’s) komen die zich met veiligheid bezighouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -685,6 +843,18 @@
       "theme": "Duurzame energie",
       "themeId": "duurzame-energie",
       "title": "Inwoners die samen duurzame energie op willen wekken, moeten financiële steun krijgen van de gemeente.",
+      "titleParts": [
+        {
+          "text": " Inwoners die samen "
+        },
+        {
+          "text": "duurzame energie",
+          "glossary": "Energie op basis van grondstoffen waar een oneindige hoeveelheid van is, zoals zonlicht en wind."
+        },
+        {
+          "text": " op willen wekken, moeten financiële steun krijgen van de gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -724,6 +894,25 @@
       "theme": "Jongerenwerk",
       "themeId": "jongerenwerk",
       "title": "De gemeente moet bezuinigen op het jongerenwerk.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "bezuinigen",
+          "glossary": "Minder geld uitgeven."
+        },
+        {
+          "text": " op het "
+        },
+        {
+          "text": "jongerenwerk",
+          "glossary": "Mensen en organisaties die jongeren in de gemeente helpen met allerlei dingen."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -737,6 +926,18 @@
       "theme": "Coffeeshop",
       "themeId": "coffeeshop",
       "title": "De gemeente moet de vestiging van een coffeeshop toestaan.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de vestiging van een "
+        },
+        {
+          "text": "coffeeshop",
+          "glossary": "Winkel of café waar je softdrugs (hasj, wiet) kunt kopen en oproken."
+        },
+        {
+          "text": " toestaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -750,6 +951,18 @@
       "theme": "Starterslening",
       "themeId": "starterslening",
       "title": "Mensen die voor het eerst een huis willen kopen, moeten van de gemeente een starterslening kunnen krijgen.",
+      "titleParts": [
+        {
+          "text": " Mensen die voor het eerst een huis willen kopen, moeten van de gemeente een "
+        },
+        {
+          "text": "starterslening",
+          "glossary": "Extra lening naast je hypotheek, die je alleen kunt krijgen als je voor het eerst een huis koopt."
+        },
+        {
+          "text": " kunnen krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -763,6 +976,18 @@
       "theme": "Windmolens en zonneparken",
       "themeId": "windmolens-en-zonneparken",
       "title": "In Bergeijk moeten windmolens komen.",
+      "titleParts": [
+        {
+          "text": " In Bergeijk moeten "
+        },
+        {
+          "text": "windmolens",
+          "glossary": "Het gaat om moderne windturbines die windkracht omzetten in elektriciteit, en die tot 150 meter hoog kunnen zijn."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",

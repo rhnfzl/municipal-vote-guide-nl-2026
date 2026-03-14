@@ -804,6 +804,18 @@
       "theme": "Huisvesting buitenlandse werknemers",
       "themeId": "huisvesting-buitenlandse-werknemers",
       "title": "Werkgevers in de land- en tuinbouw moeten zelf zorgen voor de huisvesting van seizoenarbeiders op hun eigen bedrijfsterrein.",
+      "titleParts": [
+        {
+          "text": " Werkgevers in de land- en tuinbouw moeten zelf zorgen voor de huisvesting van "
+        },
+        {
+          "text": "seizoenarbeiders",
+          "glossary": "Mensen die werk doen dat alleen in een bepaald seizoen kan gebeuren. Vaak in de landbouw en de fruitpluk."
+        },
+        {
+          "text": " op hun eigen bedrijfsterrein."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -817,6 +829,18 @@
       "theme": "Zorgkeuze",
       "themeId": "zorgkeuze",
       "title": "Mensen die zorg nodig hebben, moeten altijd kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of levensovertuiging.",
+      "titleParts": [
+        {
+          "text": " Mensen die zorg nodig hebben, moeten altijd kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of "
+        },
+        {
+          "text": "levensovertuiging",
+          "glossary": "Wat iemand gelooft over het leven, zoals een geloof of persoonlijke overtuiging."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -856,6 +880,18 @@
       "theme": "Verbeteren schoolgebouwen",
       "themeId": "verbeteren-schoolgebouwen",
       "title": "De gemeente moet in de komende raadsperiode geld steken in het verbeteren van alle schoolgebouwen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet in de komende "
+        },
+        {
+          "text": "raadsperiode",
+          "glossary": "De gemeenteraad wordt gekozen voor een periode van vier jaar."
+        },
+        {
+          "text": " geld steken in het verbeteren van alle schoolgebouwen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -869,6 +905,18 @@
       "theme": "Handhavers",
       "themeId": "handhavers",
       "title": "In Brummen moeten meer gemeentelijke handhavers (boa’s) komen die zich met veiligheid bezighouden.",
+      "titleParts": [
+        {
+          "text": " In Brummen moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "Mensen die voor de gemeente controleren of burgers en bedrijven zich aan de regels houden."
+        },
+        {
+          "text": " (boa’s) komen die zich met veiligheid bezighouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -882,6 +930,18 @@
       "theme": "Sportverenigingen",
       "themeId": "sportverenigingen",
       "title": "Als sportverenigingen het moeilijk hebben, moet de gemeente financieel bijdragen.",
+      "titleParts": [
+        {
+          "text": " Als sportverenigingen het moeilijk hebben, moet de gemeente "
+        },
+        {
+          "text": "financieel",
+          "glossary": "Iets dat met geld te maken heeft."
+        },
+        {
+          "text": " bijdragen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -921,6 +981,18 @@
       "theme": "Geweld tegen vrouwen",
       "themeId": "geweld-tegen-vrouwen",
       "title": "In Brummen moet een blijf-van-mijn-lijf-huis komen.",
+      "titleParts": [
+        {
+          "text": " In Brummen moet een "
+        },
+        {
+          "text": "blijf-van-mijn-lijf-huis",
+          "glossary": "Opvang voor vrouwen die te maken hebben met geweld van hun partner of familie. De opvang is beveiligd, soms is de locatie geheim."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -986,6 +1058,18 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "De inwoners van Brummen moeten over belangrijke onderwerpen hun mening kunnen geven via een referendum.",
+      "titleParts": [
+        {
+          "text": " De inwoners van Brummen moeten over belangrijke onderwerpen hun mening kunnen geven via een "
+        },
+        {
+          "text": "referendum",
+          "glossary": "Volksraadpleging waarbij inwoners zich kunnen uitspreken over een politieke kwestie. De gemeenteraad is niet verplicht de uitslag te volgen, dat is wettelijk niet mogelijk."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -999,6 +1083,25 @@
       "theme": "Voorrang voor vluchtelingen",
       "themeId": "voorrang-voor-vluchtelingen",
       "title": "De gemeente moet vluchtelingen met een verblijfsvergunning voorrang blijven geven op een sociale huurwoning.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet vluchtelingen met een "
+        },
+        {
+          "text": "verblijfsvergunning",
+          "glossary": "Het recht om in Nederland te blijven wonen. Met het woord kun je dat recht zelf bedoelen en ook het kaartje waarop staat dat iemand dat recht heeft."
+        },
+        {
+          "text": " voorrang blijven geven op een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1025,6 +1128,18 @@
       "theme": "Toeristenbelasting",
       "themeId": "toeristenbelasting",
       "title": "De toeristenbelasting moet omhoog.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "toeristenbelasting",
+          "glossary": "De belasting die je moet betalen als je in een hotel of op een camping bijft slapen."
+        },
+        {
+          "text": " moet omhoog."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1064,6 +1179,25 @@
       "theme": "Tegenprestatie voor uitkering",
       "themeId": "tegenprestatie-voor-uitkering",
       "title": "Mensen die een bijstandsuitkering krijgen, moeten in ruil daarvoor maatschappelijk zinvol werk doen.",
+      "titleParts": [
+        {
+          "text": " Mensen die een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Geld van de gemeente voor mensen die geen inkomen of eigen geld hebben."
+        },
+        {
+          "text": " krijgen, moeten in ruil daarvoor "
+        },
+        {
+          "text": "maatschappelijk zinvol werk",
+          "glossary": "Bijvoorbeeld schoonmaken van de straten of het gezelschap houden en ondersteunen van oudere inwoners."
+        },
+        {
+          "text": " doen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1116,6 +1250,18 @@
       "theme": "Schoolzwemmen",
       "themeId": "schoolzwemmen",
       "title": "De gemeente moet geld beschikbaar blijven stellen  voor schoolzwemmen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld beschikbaar blijven stellen  voor "
+        },
+        {
+          "text": "schoolzwemmen",
+          "glossary": "Zwemlessen die vanuit de school worden georganiseerd."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1129,6 +1275,18 @@
       "theme": "Starterslening",
       "themeId": "starterslening",
       "title": "Mensen die voor het eerst een huis willen kopen, moeten van de gemeente een starterslening kunnen krijgen.",
+      "titleParts": [
+        {
+          "text": " Mensen die voor het eerst een huis willen kopen, moeten van de gemeente een "
+        },
+        {
+          "text": "starterslening",
+          "glossary": "Extra lening naast je hypotheek, die je alleen kunt krijgen als je voor het eerst een huis koopt."
+        },
+        {
+          "text": " kunnen krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1142,6 +1300,18 @@
       "theme": "Coffeeshop",
       "themeId": "coffeeshop",
       "title": "De gemeente moet de vestiging van een coffeeshop toestaan.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de vestiging van een "
+        },
+        {
+          "text": "coffeeshop",
+          "glossary": "Winkel of café waar je softdrugs (hasj, wiet) kunt kopen en oproken."
+        },
+        {
+          "text": " toestaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1155,6 +1325,18 @@
       "theme": "Parkeerplaatsen",
       "themeId": "parkeerplaatsen",
       "title": "Er moeten meer parkeerplaatsen komen in de kernen.",
+      "titleParts": [
+        {
+          "text": " Er moeten meer parkeerplaatsen komen in de "
+        },
+        {
+          "text": "kernen",
+          "glossary": "Een dorp of stadje dat onderdeel is van de gemeente."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",

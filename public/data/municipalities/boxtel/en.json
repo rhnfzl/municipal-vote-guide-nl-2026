@@ -924,9 +924,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Boxtel must ensure that Esch gets a supermarket again.",
-      "themeEn": "Facilities"
+      "isShootout": false
     },
     {
       "id": 111147,
@@ -934,12 +932,29 @@
       "theme": "Mayor and municipal executive",
       "themeId": "burgemeester-en-college",
       "title": "The new college of mayor and aldermen must have an equal number of men and women.",
+      "titleParts": [
+        {
+          "text": " In het nieuwe "
+        },
+        {
+          "text": "college",
+          "glossary": "The college of mayor and aldermen, the municipality’s executive board."
+        },
+        {
+          "text": " van "
+        },
+        {
+          "text": "burgemeester",
+          "glossary": "The mayor leads the municipality and chairs the municipal council. The mayor is not elected but appointed by the national government, after recommendation by the municipal council."
+        },
+        {
+          "text": " en wethouders moet het aantal mannen en vrouwen gelijk zijn."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The new college of mayor and aldermen must have an equal number of men and women.",
-      "themeEn": "Mayor and municipal executive"
+      "isShootout": false
     },
     {
       "id": 111157,
@@ -947,12 +962,22 @@
       "theme": "Wood burning",
       "themeId": "houtstook",
       "title": "The use of open fireplaces and wood-burning stoves must remain permitted in Boxtel.",
+      "titleParts": [
+        {
+          "text": " In Boxtel moet het gebruik van open haarden en "
+        },
+        {
+          "text": "houtkachels",
+          "glossary": "Wood-burning stoves used to heat a home."
+        },
+        {
+          "text": " toegestaan blijven."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The use of open fireplaces and wood-burning stoves must remain permitted in Boxtel.",
-      "themeEn": "Wood burning"
+      "isShootout": false
     },
     {
       "id": 111148,
@@ -960,12 +985,22 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "The residents of Boxtel must be able to give their opinion on important issues through a referendum.",
+      "titleParts": [
+        {
+          "text": " De inwoners van Boxtel moeten over belangrijke onderwerpen hun mening kunnen geven via een "
+        },
+        {
+          "text": "referendum",
+          "glossary": "A public consultation where residents can express their opinion on a political issue. The municipal council is not obliged to follow the result; legally it cannot."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The residents of Boxtel must be able to give their opinion on important issues through a referendum.",
-      "themeEn": "Referendum"
+      "isShootout": false
     },
     {
       "id": 111155,
@@ -973,12 +1008,22 @@
       "theme": "Housing for foreign workers",
       "themeId": "huisvesting-buitenlandse-werknemers",
       "title": "Employers in agriculture and horticulture should provide housing for seasonal workers on their own premises.",
+      "titleParts": [
+        {
+          "text": " Werkgevers in de land- en tuinbouw moeten zelf zorgen voor de huisvesting van "
+        },
+        {
+          "text": "seizoenarbeiders",
+          "glossary": "People who do work that only takes place during certain seasons, often in agriculture and fruit picking."
+        },
+        {
+          "text": " op hun eigen bedrijfsterrein."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Employers in agriculture and horticulture should provide housing for seasonal workers on their own premises.",
-      "themeEn": "Housing for foreign workers"
+      "isShootout": false
     },
     {
       "id": 111160,
@@ -989,9 +1034,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Bulky waste must be collected from homes free of charge.",
-      "themeEn": "Bulky waste"
+      "isShootout": false
     },
     {
       "id": 111170,
@@ -999,12 +1042,22 @@
       "theme": "Enforcement officers",
       "themeId": "handhavers",
       "title": "More municipal enforcement officers (BOAs) focused on public safety must be deployed in Boxtel.",
+      "titleParts": [
+        {
+          "text": " In Boxtel moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "People who, for the municipality, check whether citizens and businesses comply with the rules."
+        },
+        {
+          "text": " (boa’s) komen die zich met veiligheid bezighouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "More municipal enforcement officers (BOAs) focused on public safety must be deployed in Boxtel.",
-      "themeEn": "Enforcement officers"
+      "isShootout": false
     },
     {
       "id": 111207,
@@ -1012,12 +1065,22 @@
       "theme": "Migrant workers",
       "themeId": "arbeidsmigranten",
       "title": "Boxtel must stop the construction of housing for labor migrants in Vrilkhoven.",
+      "titleParts": [
+        {
+          "text": " Boxtel moet de bouw van woningen voor "
+        },
+        {
+          "text": "arbeidsmigranten",
+          "glossary": "People from another country who work temporarily in the Netherlands."
+        },
+        {
+          "text": " in Vrilkhoven tegenhouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Boxtel must stop the construction of housing for labor migrants in Vrilkhoven.",
-      "themeEn": "Migrant workers"
+      "isShootout": false
     },
     {
       "id": 111172,
@@ -1025,12 +1088,22 @@
       "theme": "Starter loan",
       "themeId": "starterslening",
       "title": "First-time homebuyers should be able to receive a starter loan from the municipality.",
+      "titleParts": [
+        {
+          "text": " Mensen die voor het eerst een huis willen kopen, moeten van de gemeente een "
+        },
+        {
+          "text": "starterslening",
+          "glossary": "An extra loan on top of your mortgage, which you can only get when buying a house for the first time."
+        },
+        {
+          "text": " kunnen krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "First-time homebuyers should be able to receive a starter loan from the municipality.",
-      "themeEn": "Starter loan"
+      "isShootout": false
     },
     {
       "id": 111162,
@@ -1038,12 +1111,29 @@
       "theme": "Accessibility of buildings",
       "themeId": "toegankelijkheid-gebouwen",
       "title": "The municipality should financially help business owners to make their buildings accessible to people with disabilities.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet ondernemers "
+        },
+        {
+          "text": "financieel",
+          "glossary": "Something related to money."
+        },
+        {
+          "text": " helpen om hun gebouw toegankelijker te maken voor mensen met een "
+        },
+        {
+          "text": "beperking",
+          "glossary": "Something that limits you in daily life. A disability can be physical or intellectual or relate to hearing or sight, or combinations of these."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should financially help business owners to make their buildings accessible to people with disabilities.",
-      "themeEn": "Accessibility of buildings"
+      "isShootout": false
     },
     {
       "id": 111171,
@@ -1051,12 +1141,22 @@
       "theme": "Camera surveillance",
       "themeId": "cameratoezicht",
       "title": "More CCTV surveillance must be installed in Boxtel.",
+      "titleParts": [
+        {
+          "text": " In Boxtel moet meer "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Monitoring of a building, area, or (groups of) people using security cameras."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "More CCTV surveillance must be installed in Boxtel.",
-      "themeEn": "Camera surveillance"
+      "isShootout": false
     },
     {
       "id": 111167,
@@ -1064,12 +1164,22 @@
       "theme": "Music lessons",
       "themeId": "muziekles",
       "title": "Every primary school child should be able to receive music lessons subsidized by the municipality.",
+      "titleParts": [
+        {
+          "text": " Elk basisschoolkind moet met "
+        },
+        {
+          "text": "subsidie",
+          "glossary": "Money the government gives to citizens, businesses, and organizations to support them."
+        },
+        {
+          "text": " van de gemeente muziekles kunnen krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Every primary school child should be able to receive music lessons subsidized by the municipality.",
-      "themeEn": "Music lessons"
+      "isShootout": false
     },
     {
       "id": 111183,
@@ -1077,12 +1187,22 @@
       "theme": "Choice of healthcare",
       "themeId": "zorgkeuze",
       "title": "People who need care should always be able to choose a caregiver who matches their religion, culture, or beliefs.",
+      "titleParts": [
+        {
+          "text": " Mensen die zorg nodig hebben, moeten altijd kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of "
+        },
+        {
+          "text": "levensovertuiging",
+          "glossary": "What someone believes about life, such as a religion or personal conviction."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People who need care should always be able to choose a caregiver who matches their religion, culture, or beliefs.",
-      "themeEn": "Choice of healthcare"
+      "isShootout": false
     },
     {
       "id": 111203,
@@ -1093,9 +1213,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The market in Boxtel must be made car-free.",
-      "themeEn": "Car-free city center"
+      "isShootout": false
     },
     {
       "id": 111196,
@@ -1106,9 +1224,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must make it possible for all primary schools to include attention to the Brabant dialect.",
-      "themeEn": "Regional language"
+      "isShootout": false
     },
     {
       "id": 111173,
@@ -1116,12 +1232,22 @@
       "theme": "Priority for housing",
       "themeId": "voorrang-huisvesting",
       "title": "When allocating social housing, applicants from the municipality should be given priority.",
+      "titleParts": [
+        {
+          "text": " Bij de toewijzing van een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " moeten woningzoekenden uit de eigen gemeente voorrang krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "When allocating social housing, applicants from the municipality should be given priority.",
-      "themeEn": "Priority for housing"
+      "isShootout": false
     },
     {
       "id": 111168,
@@ -1129,12 +1255,22 @@
       "theme": "Sports clubs",
       "themeId": "sportverenigingen",
       "title": "If sports clubs are struggling, the municipality should contribute financially.",
+      "titleParts": [
+        {
+          "text": " Als sportverenigingen het moeilijk hebben, moet de gemeente "
+        },
+        {
+          "text": "financieel",
+          "glossary": "Something related to money."
+        },
+        {
+          "text": " bijdragen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "If sports clubs are struggling, the municipality should contribute financially.",
-      "themeEn": "Sports clubs"
+      "isShootout": false
     },
     {
       "id": 111208,
@@ -1145,9 +1281,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The Baroniestraat must be reopened to two-way traffic.",
-      "themeEn": "Traffic"
+      "isShootout": false
     },
     {
       "id": 111179,
@@ -1158,9 +1292,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should raise the income threshold for receiving poverty assistance.",
-      "themeEn": "Combating poverty"
+      "isShootout": false
     },
     {
       "id": 111200,
@@ -1171,9 +1303,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Every neighborhood in Boxtel must receive its own community center.",
-      "themeEn": "Neighborhood center"
+      "isShootout": false
     },
     {
       "id": 111177,
@@ -1181,12 +1311,29 @@
       "theme": "Work requirement for welfare recipients",
       "themeId": "tegenprestatie-voor-uitkering",
       "title": "People receiving social assistance should, in return, do socially useful work.",
+      "titleParts": [
+        {
+          "text": " Mensen die een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Money from the municipality for people who have no income or personal funds."
+        },
+        {
+          "text": " krijgen, moeten in ruil daarvoor "
+        },
+        {
+          "text": "maatschappelijk zinvol werk",
+          "glossary": "For example cleaning the streets or keeping company and supporting elderly residents."
+        },
+        {
+          "text": " doen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People receiving social assistance should, in return, do socially useful work.",
-      "themeEn": "Work requirement for welfare recipients"
+      "isShootout": false
     },
     {
       "id": 111181,
@@ -1197,9 +1344,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should designate more parking spaces as charging points for electric cars.",
-      "themeEn": "Electric vehicle charging stations"
+      "isShootout": false
     },
     {
       "id": 111178,
@@ -1207,12 +1352,29 @@
       "theme": "Stop debt forgiveness",
       "themeId": "kwijtschelding-stoppen",
       "title": "The municipality should stop forgiving municipal taxes for low-income residents.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet stoppen met het "
+        },
+        {
+          "text": "kwijtschelden",
+          "glossary": "That people no longer have to pay for something."
+        },
+        {
+          "text": " van de "
+        },
+        {
+          "text": "gemeentelijke belastingen",
+          "glossary": "Taxes you have to pay to the municipality (e.g., sewer charge, waste disposal charge, dog tax)."
+        },
+        {
+          "text": " voor inwoners met een laag inkomen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should stop forgiving municipal taxes for low-income residents.",
-      "themeEn": "Stop debt forgiveness"
+      "isShootout": false
     },
     {
       "id": 111190,
@@ -1220,12 +1382,29 @@
       "theme": "Priority for refugees",
       "themeId": "voorrang-voor-vluchtelingen",
       "title": "The municipality should give refugees with a residence permit priority for social housing.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet vluchtelingen met een "
+        },
+        {
+          "text": "verblijfsvergunning",
+          "glossary": "The right to reside in the Netherlands. The term can refer to the right itself or to the card that shows someone has that right."
+        },
+        {
+          "text": " voorrang gaan geven op een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should give refugees with a residence permit priority for social housing.",
-      "themeEn": "Priority for refugees"
+      "isShootout": false
     },
     {
       "id": 111184,
@@ -1236,9 +1415,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "When selecting organizations for youth care, the municipality should primarily pay attention to price.",
-      "themeEn": "Youth care"
+      "isShootout": false
     },
     {
       "id": 111205,
@@ -1249,9 +1426,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "A primary school must be built in Heem van Selis.",
-      "themeEn": "Education"
+      "isShootout": false
     },
     {
       "id": 111188,
@@ -1262,9 +1437,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "In Boxtel, the business parks may expand.",
-      "themeEn": "Business parks"
+      "isShootout": false
     },
     {
       "id": 111191,
@@ -1272,12 +1445,22 @@
       "theme": "Recycling center",
       "themeId": "milieustraat",
       "title": "Dropping off waste at the recycling centre should remain free of charge.",
+      "titleParts": [
+        {
+          "text": " Het inleveren van afval bij de "
+        },
+        {
+          "text": "milieustraat",
+          "glossary": "A place where citizens and businesses can bring different kinds of waste."
+        },
+        {
+          "text": " moet gratis blijven."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Dropping off waste at the recycling centre should remain free of charge.",
-      "themeEn": "Recycling center"
+      "isShootout": false
     },
     {
       "id": 111185,
@@ -1285,12 +1468,22 @@
       "theme": "Tax on buildings",
       "themeId": "belasting-op-gebouwen",
       "title": "The property tax (onroerendezaakbelasting, OZB) should be reduced.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "onroerendezaakbelasting",
+          "glossary": "Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": " (ozb) moet omlaag."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The property tax (onroerendezaakbelasting, OZB) should be reduced.",
-      "themeEn": "Tax on buildings"
+      "isShootout": false
     },
     {
       "id": 111204,
@@ -1301,9 +1494,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Boxtel should pursue the departure of slaughterhouse Vion from the municipality.",
-      "themeEn": "Vion"
+      "isShootout": false
     }
   ],
   "shootoutStatements": []

@@ -2952,9 +2952,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The city centre must remain easily accessible by car.",
-      "themeEn": "City center accessibility"
+      "isShootout": false
     },
     {
       "id": 215605,
@@ -2965,9 +2963,7 @@
       "moreInfo": "An ombudsman or ombudswoman is independent and helps citizens who get stuck with the government. Heerlen does not have its own ombudsman. Residents with complaints about the municipality can go to the National Ombudsman.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Heerlen should get its own ombudsman for complaints about the municipality.",
-      "themeEn": "Ombudsman"
+      "isShootout": false
     },
     {
       "id": 215587,
@@ -2975,12 +2971,22 @@
       "theme": "Sustainable energy",
       "themeId": "duurzame-energie",
       "title": "Residents who want to generate sustainable energy together should receive financial support from the municipality.",
+      "titleParts": [
+        {
+          "text": " Inwoners die samen "
+        },
+        {
+          "text": "duurzame energie",
+          "glossary": "Energy based on resources that are effectively infinite, such as sunlight and wind."
+        },
+        {
+          "text": " op willen wekken, moeten financiële steun krijgen van de gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents who want to generate sustainable energy together should receive financial support from the municipality.",
-      "themeEn": "Sustainable energy"
+      "isShootout": false
     },
     {
       "id": 215599,
@@ -2988,12 +2994,22 @@
       "theme": "Basic income",
       "themeId": "basisinkomen",
       "title": "Heerlen should run a trial of a basic income.",
+      "titleParts": [
+        {
+          "text": " Heerlen moet een proef doen met "
+        },
+        {
+          "text": "basisinkomen",
+          "glossary": "With a basic income, people receive a fixed amount per month from the government. They do not have to apply for jobs or perform socially useful work in return for the money."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "A basic income is a fixed amount of money that everyone receives from the government each month, regardless of whether you work or have savings. Municipalities may run trials with basic income. A trial can show how recipients experience it and whether, for example, they work more or less. Such a trial is often not a true basic income but a social assistance benefit with less strict rules. People then, for example, do not have to apply for jobs to keep their benefit.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Heerlen should run a trial of a basic income.",
-      "themeEn": "Basic income"
+      "isShootout": false
     },
     {
       "id": 215625,
@@ -3004,9 +3020,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should spend more money on detecting healthcare fraud.",
-      "themeEn": "Healthcare fraud"
+      "isShootout": false
     },
     {
       "id": 215591,
@@ -3017,9 +3031,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The use of open fireplaces and wood-burning stoves in Heerlen should remain allowed.",
-      "themeEn": "Wood burning"
+      "isShootout": false
     },
     {
       "id": 215602,
@@ -3030,9 +3042,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should designate more parking spaces as charging spots for electric cars.",
-      "themeEn": "Electric vehicle charging stations"
+      "isShootout": false
     },
     {
       "id": 215641,
@@ -3043,9 +3053,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Elderly people who can afford a walker themselves should not receive one from the municipality.",
-      "themeEn": "Walker (rollator)"
+      "isShootout": false
     },
     {
       "id": 215590,
@@ -3053,12 +3061,22 @@
       "theme": "Integration",
       "themeId": "integratie",
       "title": "The municipality should spend more money on integrating newcomers into society.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld uitgeven aan "
+        },
+        {
+          "text": "integratie",
+          "glossary": "Newcomers learn the language and customs of the Netherlands."
+        },
+        {
+          "text": " van nieuwkomers in de maatschappij."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should spend more money on integrating newcomers into society.",
-      "themeEn": "Integration"
+      "isShootout": false
     },
     {
       "id": 215592,
@@ -3069,9 +3087,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should mow public grass more often.",
-      "themeEn": "Grass"
+      "isShootout": false
     },
     {
       "id": 215626,
@@ -3082,9 +3098,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People who use drugs and alcohol in public should not be fined.",
-      "themeEn": "Fines for drug use"
+      "isShootout": false
     },
     {
       "id": 215585,
@@ -3092,12 +3106,22 @@
       "theme": "Tax on buildings",
       "themeId": "belasting-op-gebouwen",
       "title": "Property tax should be reduced.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "onroerendezaakbelasting",
+          "glossary": "Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": " moet omlaag."
+        }
+      ],
       "moreInfo": "The property tax (OZB) is the annual tax you pay as the owner of a building or piece of land, or as the user of a business property. The amount depends on the WOZ value: the estimated market value of the building or land on January 1 of the previous year. The municipality determines how high the OZB is.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Property tax should be reduced.",
-      "themeEn": "Tax on buildings"
+      "isShootout": false
     },
     {
       "id": 215631,
@@ -3108,9 +3132,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should pay veterinary costs for low-income people.",
-      "themeEn": "Veterinary costs"
+      "isShootout": false
     },
     {
       "id": 215642,
@@ -3121,9 +3143,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should arrange care more often through help from family, friends, or the neighborhood.",
-      "themeEn": "Informal care"
+      "isShootout": false
     },
     {
       "id": 215606,
@@ -3134,9 +3154,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality of Heerlen should send gender-neutral letters to residents.",
-      "themeEn": "Gender-neutral letters"
+      "isShootout": false
     },
     {
       "id": 215616,
@@ -3147,9 +3165,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents and local entrepreneurs should no longer have to ask the municipality for permission to cut down a tree.",
-      "themeEn": "Tree felling"
+      "isShootout": false
     },
     {
       "id": 215621,
@@ -3160,9 +3176,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Artificial turf on the sports fields should be replaced with real grass.",
-      "themeEn": "Artificial turf"
+      "isShootout": false
     },
     {
       "id": 215607,
@@ -3173,9 +3187,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Hospitality businesses should be allowed to open small terraces without having to ask the municipality for permission.",
-      "themeEn": "Terraces"
+      "isShootout": false
     },
     {
       "id": 215611,
@@ -3186,9 +3198,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should help migrant workers return to their home country if they lose their job and housing.",
-      "themeEn": "Migrant workers"
+      "isShootout": false
     },
     {
       "id": 215644,
@@ -3199,9 +3209,7 @@
       "moreInfo": "Youth care is all help for children up to 18 years old. That can be light help such as tutoring, but also more intensive help, such as treatment for psychological problems. Since 2015 municipalities are responsible for youth care. Municipalities often have too little money for this. At the moment Heerlen pays for both light and more intensive care.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Parents should pay themselves for light youth care such as homework tutoring and help with dyslexia.",
-      "themeEn": "Youth care"
+      "isShootout": false
     },
     {
       "id": 215589,
@@ -3209,12 +3217,29 @@
       "theme": "Priority for refugees",
       "themeId": "voorrang-voor-vluchtelingen",
       "title": "The municipality should give refugees with a residence permit priority for social housing.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet vluchtelingen met een "
+        },
+        {
+          "text": "verblijfsvergunning",
+          "glossary": "The right to reside in the Netherlands. The term can refer to the right itself or to the card that shows someone has that right."
+        },
+        {
+          "text": " voorrang gaan geven op een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should give refugees with a residence permit priority for social housing.",
-      "themeEn": "Priority for refugees"
+      "isShootout": false
     },
     {
       "id": 215636,
@@ -3225,9 +3250,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be fewer speed bumps.",
-      "themeEn": "Speed bumps"
+      "isShootout": false
     },
     {
       "id": 215628,
@@ -3238,9 +3261,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be more social-rented housing in neighborhoods with mostly expensive owner-occupied homes.",
-      "themeEn": "Mixed neighborhoods"
+      "isShootout": false
     },
     {
       "id": 215596,
@@ -3248,12 +3269,22 @@
       "theme": "Enforcement officers",
       "themeId": "handhavers",
       "title": "The municipal enforcement officers (BOAs) who monitor safety in Heerlen should also be allowed to frisk/search people.",
+      "titleParts": [
+        {
+          "text": " De gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "People who, for the municipality, check whether citizens and businesses comply with the rules."
+        },
+        {
+          "text": " (boa’s) die in Heerlen controleren op veiligheid moeten ook mogen fouilleren."
+        }
+      ],
       "moreInfo": "BOAs are enforcers who check that the streets remain safe and tidy. Frisking (searching) means an officer feels your clothing or looks in your pockets to see if you have prohibited items, such as weapons. Currently only the police may do this. If this plan goes ahead, BOAs in Heerlen would also get this right.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipal enforcement officers (BOAs) who monitor safety in Heerlen should also be allowed to frisk/search people.",
-      "themeEn": "Enforcement officers"
+      "isShootout": false
     },
     {
       "id": 215609,
@@ -3264,9 +3295,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should fund more free events where residents can repair broken items with experts, such as electrical appliances or bicycles.",
-      "themeEn": "Repair café"
+      "isShootout": false
     },
     {
       "id": 215632,
@@ -3277,9 +3306,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should reduce welfare benefits for people who do not actively look for work.",
-      "themeEn": "Social assistance benefit"
+      "isShootout": false
     },
     {
       "id": 215597,
@@ -3287,12 +3314,22 @@
       "theme": "Offices converted into homes",
       "themeId": "kantoren-worden-woningen",
       "title": "Vacant offices should be converted into housing with subsidies from the municipality.",
+      "titleParts": [
+        {
+          "text": " Leegstaande kantoren moeten met "
+        },
+        {
+          "text": "subsidie",
+          "glossary": "Money the government gives to citizens, businesses, and organizations to support them."
+        },
+        {
+          "text": " van de gemeente worden omgebouwd tot woningen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Vacant offices should be converted into housing with subsidies from the municipality.",
-      "themeEn": "Offices converted into homes"
+      "isShootout": false
     },
     {
       "id": 215620,
@@ -3303,9 +3340,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should spend less money on culture.",
-      "themeEn": "Culture"
+      "isShootout": false
     },
     {
       "id": 215615,
@@ -3316,9 +3351,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should invest in neighborhood batteries to store electricity from solar panels.",
-      "themeEn": "Neighborhood batteries"
+      "isShootout": false
     },
     {
       "id": 215630,
@@ -3329,9 +3362,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be more sites for mobile homes (caravans) in Heerlen.",
-      "themeEn": "Caravans (mobile homes)"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

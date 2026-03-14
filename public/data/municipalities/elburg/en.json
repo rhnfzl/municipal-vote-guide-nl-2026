@@ -719,12 +719,22 @@
       "theme": "Youth council",
       "themeId": "jongerenraad",
       "title": "A youth council should be established for young people aged 12 to 20.",
+      "titleParts": [
+        {
+          "text": " Er moet een "
+        },
+        {
+          "text": "jongerenraad",
+          "glossary": "A group of young people who provide input and discuss plans and policy with the municipality."
+        },
+        {
+          "text": " komen voor jongeren tussen de 12 en 20 jaar."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "A youth council should be established for young people aged 12 to 20.",
-      "themeEn": "Youth council"
+      "isShootout": false
     },
     {
       "id": 113619,
@@ -732,12 +742,22 @@
       "theme": "Enforcement officers",
       "themeId": "handhavers",
       "title": "Elburg should have more municipal enforcement officers (BOAs) who focus on safety.",
+      "titleParts": [
+        {
+          "text": " In Elburg moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "People who, for the municipality, check whether citizens and businesses comply with the rules."
+        },
+        {
+          "text": " (boa’s) komen die zich met veiligheid bezighouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Elburg should have more municipal enforcement officers (BOAs) who focus on safety.",
-      "themeEn": "Enforcement officers"
+      "isShootout": false
     },
     {
       "id": 113602,
@@ -745,12 +765,22 @@
       "theme": "Asylum seekers' center",
       "themeId": "asielzoekerscentrum",
       "title": "An asylum seekers' center (AZC) should be established in our municipality.",
+      "titleParts": [
+        {
+          "text": " In onze gemeente moet een "
+        },
+        {
+          "text": "asielzoekerscentrum",
+          "glossary": "Reception center for asylum seekers. They live there until it is decided whether they may stay in the Netherlands. An asylum seekers’ center remains in a municipality for a long time."
+        },
+        {
+          "text": " (azc) komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "An asylum seekers' center (AZC) should be established in our municipality.",
-      "themeEn": "Asylum seekers' center"
+      "isShootout": false
     },
     {
       "id": 113600,
@@ -758,12 +788,22 @@
       "theme": "Sustainable energy",
       "themeId": "duurzame-energie",
       "title": "Residents who want to generate sustainable energy together should receive financial support from the municipality.",
+      "titleParts": [
+        {
+          "text": " Inwoners die samen "
+        },
+        {
+          "text": "duurzame energie",
+          "glossary": "Energy based on resources that are effectively infinite, such as sunlight and wind."
+        },
+        {
+          "text": " op willen wekken, moeten financiële steun krijgen van de gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents who want to generate sustainable energy together should receive financial support from the municipality.",
-      "themeEn": "Sustainable energy"
+      "isShootout": false
     },
     {
       "id": 113626,
@@ -774,9 +814,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should prevent new construction outside existing village boundaries.",
-      "themeEn": "Housing construction"
+      "isShootout": false
     },
     {
       "id": 113595,
@@ -784,12 +822,29 @@
       "theme": "Mayor and municipal executive",
       "themeId": "burgemeester-en-college",
       "title": "The new college of mayor and aldermen must have an equal number of men and women.",
+      "titleParts": [
+        {
+          "text": " In het nieuwe "
+        },
+        {
+          "text": "college",
+          "glossary": "The college of mayor and aldermen, the municipality’s executive board."
+        },
+        {
+          "text": " van "
+        },
+        {
+          "text": "burgemeester",
+          "glossary": "The mayor leads the municipality and chairs the municipal council. The mayor is not elected but appointed by the national government, after recommendation by the municipal council."
+        },
+        {
+          "text": " en wethouders moet het aantal mannen en vrouwen gelijk zijn."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The new college of mayor and aldermen must have an equal number of men and women.",
-      "themeEn": "Mayor and municipal executive"
+      "isShootout": false
     },
     {
       "id": 113627,
@@ -797,12 +852,29 @@
       "theme": "Work requirement for welfare recipients",
       "themeId": "tegenprestatie-voor-uitkering",
       "title": "People receiving social assistance should, in return, do socially useful work.",
+      "titleParts": [
+        {
+          "text": " Mensen die een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Money from the municipality for people who have no income or personal funds."
+        },
+        {
+          "text": " krijgen, moeten in ruil daarvoor "
+        },
+        {
+          "text": "maatschappelijk zinvol werk",
+          "glossary": "For example cleaning the streets or keeping company and supporting elderly residents."
+        },
+        {
+          "text": " doen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People receiving social assistance should, in return, do socially useful work.",
-      "themeEn": "Work requirement for welfare recipients"
+      "isShootout": false
     },
     {
       "id": 113610,
@@ -810,12 +882,29 @@
       "theme": "Accessibility of buildings",
       "themeId": "toegankelijkheid-gebouwen",
       "title": "The municipality should financially help business owners to make their buildings accessible to people with disabilities.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet ondernemers "
+        },
+        {
+          "text": "financieel",
+          "glossary": "Something related to money."
+        },
+        {
+          "text": " helpen om hun gebouw toegankelijker te maken voor mensen met een "
+        },
+        {
+          "text": "beperking",
+          "glossary": "Something that limits you in daily life. A disability can be physical or intellectual or relate to hearing or sight, or combinations of these."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should financially help business owners to make their buildings accessible to people with disabilities.",
-      "themeEn": "Accessibility of buildings"
+      "isShootout": false
     },
     {
       "id": 113634,
@@ -826,9 +915,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "When selecting organizations for youth care, the municipality should primarily pay attention to price.",
-      "themeEn": "Youth care"
+      "isShootout": false
     },
     {
       "id": 113616,
@@ -836,12 +923,22 @@
       "theme": "Sports clubs",
       "themeId": "sportverenigingen",
       "title": "If sports clubs are struggling, the municipality should contribute financially.",
+      "titleParts": [
+        {
+          "text": " Als sportverenigingen het moeilijk hebben, moet de gemeente "
+        },
+        {
+          "text": "financieel",
+          "glossary": "Something related to money."
+        },
+        {
+          "text": " bijdragen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "If sports clubs are struggling, the municipality should contribute financially.",
-      "themeEn": "Sports clubs"
+      "isShootout": false
     },
     {
       "id": 113653,
@@ -852,9 +949,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Elburg should invest money in developing water sports, campsites and holiday parks on the Strekdam.",
-      "themeEn": "Groyne (coastal breakwater)"
+      "isShootout": false
     },
     {
       "id": 113629,
@@ -865,9 +960,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should raise the income threshold for receiving poverty assistance.",
-      "themeEn": "Combating poverty"
+      "isShootout": false
     },
     {
       "id": 113633,
@@ -875,12 +968,22 @@
       "theme": "Choice of healthcare",
       "themeId": "zorgkeuze",
       "title": "People who need care should always be able to choose a caregiver who matches their religion, culture, or beliefs.",
+      "titleParts": [
+        {
+          "text": " Mensen die zorg nodig hebben, moeten altijd kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of "
+        },
+        {
+          "text": "levensovertuiging",
+          "glossary": "What someone believes about life, such as a religion or personal conviction."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People who need care should always be able to choose a caregiver who matches their religion, culture, or beliefs.",
-      "themeEn": "Choice of healthcare"
+      "isShootout": false
     },
     {
       "id": 113638,
@@ -891,9 +994,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "In Elburg, the business parks may be expanded.",
-      "themeEn": "Business parks"
+      "isShootout": false
     },
     {
       "id": 113631,
@@ -904,9 +1005,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should designate more parking spaces as charging points for electric cars.",
-      "themeEn": "Electric vehicle charging stations"
+      "isShootout": false
     },
     {
       "id": 113649,
@@ -917,9 +1016,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allow landlords to rent out individual rooms instead of entire houses.",
-      "themeEn": "Subdivision into multiple rooms"
+      "isShootout": false
     },
     {
       "id": 113632,
@@ -927,12 +1024,29 @@
       "theme": "Car speeds",
       "themeId": "snelheid-auto-s",
       "title": "The maximum speed limit in built-up areas should be set to 30 km/h.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "maximumsnelheid",
+          "glossary": "The maximum speed that cars and motorcycles are allowed to drive on the road."
+        },
+        {
+          "text": " binnen de "
+        },
+        {
+          "text": "bebouwde kom",
+          "glossary": "An area with buildings (houses, other structures)."
+        },
+        {
+          "text": " moet naar 30 km/u."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The maximum speed limit in built-up areas should be set to 30 km/h.",
-      "themeEn": "Car speeds"
+      "isShootout": false
     },
     {
       "id": 113643,
@@ -943,9 +1057,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Elburg should renovate the Buurtgebouw Oostendorp community building.",
-      "themeEn": "Oostendorp community center"
+      "isShootout": false
     },
     {
       "id": 113639,
@@ -956,9 +1068,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must not allow Sunday shopping.",
-      "themeEn": "Sunday shopping"
+      "isShootout": false
     },
     {
       "id": 113650,
@@ -969,9 +1079,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "More parking spaces should be created in the centre of Elburg.",
-      "themeEn": "More parking spaces"
+      "isShootout": false
     },
     {
       "id": 113641,
@@ -979,12 +1087,22 @@
       "theme": "Recycling center",
       "themeId": "milieustraat",
       "title": "Dropping off waste at the recycling center should be free of charge.",
+      "titleParts": [
+        {
+          "text": " Het inleveren van afval bij de "
+        },
+        {
+          "text": "milieustraat",
+          "glossary": "A place where citizens and businesses can bring different kinds of waste."
+        },
+        {
+          "text": " moet gratis worden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Dropping off waste at the recycling center should be free of charge.",
-      "themeEn": "Recycling center"
+      "isShootout": false
     },
     {
       "id": 113596,
@@ -992,12 +1110,22 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "Residents of Elburg should be able to express their opinion on important issues via a referendum.",
+      "titleParts": [
+        {
+          "text": " De inwoners van Elburg moeten over belangrijke onderwerpen hun mening kunnen geven via een "
+        },
+        {
+          "text": "referendum",
+          "glossary": "A public consultation where residents can express their opinion on a political issue. The municipal council is not obliged to follow the result; legally it cannot."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents of Elburg should be able to express their opinion on important issues via a referendum.",
-      "themeEn": "Referendum"
+      "isShootout": false
     },
     {
       "id": 113645,
@@ -1005,12 +1133,22 @@
       "theme": "School swimming",
       "themeId": "schoolzwemmen",
       "title": "The municipality should allocate money for school swimming.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld beschikbaar stellen voor "
+        },
+        {
+          "text": "schoolzwemmen",
+          "glossary": "Swimming lessons organized by the school."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allocate money for school swimming.",
-      "themeEn": "School swimming"
+      "isShootout": false
     },
     {
       "id": 113647,
@@ -1018,12 +1156,29 @@
       "theme": "Social housing",
       "themeId": "sociale-huurwoningen",
       "title": "At least 40% of the newly built homes in Elburg should be social rental housing. In the Netherlands, 28% of homes are currently social rental housing.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in Elburg moet minimaal 40% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " zijn. In Nederland is nu 28% van de woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "At least 40% of the newly built homes in Elburg should be social rental housing. In the Netherlands, 28% of homes are currently social rental housing.",
-      "themeEn": "Social housing"
+      "isShootout": false
     },
     {
       "id": 113607,
@@ -1034,9 +1189,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should organize a fireworks show on New Year's Eve.",
-      "themeEn": "Fireworks"
+      "isShootout": false
     },
     {
       "id": 113615,
@@ -1044,12 +1197,22 @@
       "theme": "Music lessons",
       "themeId": "muziekles",
       "title": "Every primary school child should be able to receive music lessons subsidized by the municipality.",
+      "titleParts": [
+        {
+          "text": " Elk basisschoolkind moet met "
+        },
+        {
+          "text": "subsidie",
+          "glossary": "Money the government gives to citizens, businesses, and organizations to support them."
+        },
+        {
+          "text": " van de gemeente muziekles kunnen krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Every primary school child should be able to receive music lessons subsidized by the municipality.",
-      "themeEn": "Music lessons"
+      "isShootout": false
     },
     {
       "id": 113655,
@@ -1057,12 +1220,22 @@
       "theme": "CCTV in playgrounds",
       "themeId": "cameratoezicht-speeltuinen",
       "title": "There should be video surveillance at the playgrounds in Elburg.",
+      "titleParts": [
+        {
+          "text": " Er moet "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Monitoring of a building, area, or (groups of) people using security cameras."
+        },
+        {
+          "text": " komen bij de speeltuinen in Elburg."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be video surveillance at the playgrounds in Elburg.",
-      "themeEn": "CCTV in playgrounds"
+      "isShootout": false
     }
   ],
   "shootoutStatements": []

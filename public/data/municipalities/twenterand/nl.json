@@ -1512,6 +1512,18 @@
       "theme": "Muziekles",
       "themeId": "muziekles",
       "title": "Elk basisschoolkind moet met subsidie van de gemeente muziekles kunnen krijgen.",
+      "titleParts": [
+        {
+          "text": " Elk basisschoolkind moet met "
+        },
+        {
+          "text": "subsidie",
+          "glossary": "Geld dat de overheid aan burgers, bedrijven en organisaties geeft om ze te steunen."
+        },
+        {
+          "text": " van de gemeente muziekles kunnen krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1525,6 +1537,25 @@
       "theme": "Handhavers",
       "themeId": "handhavers",
       "title": "In Twenterand moeten meer gemeentelijke handhavers (boa's) komen die zich met veiligheid bezighouden.",
+      "titleParts": [
+        {
+          "text": " In Twenterand moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "Mensen die voor de gemeente controleren of burgers en bedrijven zich aan de regels houden."
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "boa's",
+          "glossary": "Bijzondere Opsporings Ambtenaren. Ze kunnen boetes geven en hebben vaak de taak om toezicht te houden op straat."
+        },
+        {
+          "text": ") komen die zich met veiligheid bezighouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1564,6 +1595,18 @@
       "theme": "Schuldhulpverlening",
       "themeId": "schuldhulpverlening",
       "title": "Ondernemers moeten schuldhulpverlening kunnen aanvragen met behoud van hun bedrijf.",
+      "titleParts": [
+        {
+          "text": " Ondernemers moeten "
+        },
+        {
+          "text": "schuldhulpverlening",
+          "glossary": "De gemeente helpt mensen om van hun schulden af te komen. Soms krijgen ze alleen advies. Soms helpt de gemeente met afspraken met schuldeisers. Soms krijgen ze een bedrag om van te leven en gaat de rest van hun inkomsten naar hun schuldeisers."
+        },
+        {
+          "text": " kunnen aanvragen met behoud van hun bedrijf."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1655,6 +1698,18 @@
       "theme": "Zorgkeuze",
       "themeId": "zorgkeuze",
       "title": "Mensen die zorg nodig hebben, moeten altijd kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of levensovertuiging.",
+      "titleParts": [
+        {
+          "text": " Mensen die zorg nodig hebben, moeten altijd kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of "
+        },
+        {
+          "text": "levensovertuiging",
+          "glossary": "Wat iemand gelooft over het leven, zoals een geloof of persoonlijke overtuiging."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1668,6 +1723,18 @@
       "theme": "Bomen",
       "themeId": "bomen",
       "title": "De gemeente hoeft geen extra bomen te planten binnen de bebouwde kom.",
+      "titleParts": [
+        {
+          "text": " De gemeente hoeft geen extra bomen te planten binnen de "
+        },
+        {
+          "text": "bebouwde kom",
+          "glossary": "Gebied met bebouwing (huizen, gebouwen)."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1681,6 +1748,25 @@
       "theme": "Burgerberaad",
       "themeId": "burgerberaad",
       "title": "Twenterand moet een burgerberaad krijgen, dat advies geeft aan de gemeenteraad. In een burgerberaad zitten inwoners die door loting zijn uitgekozen.",
+      "titleParts": [
+        {
+          "text": " Twenterand moet een "
+        },
+        {
+          "text": "burgerberaad",
+          "glossary": "Gelote groep inwoners die de politiek adviseert of helpt te beslissen over een specifiek onderwerp."
+        },
+        {
+          "text": " krijgen, dat advies geeft aan de gemeenteraad. In een "
+        },
+        {
+          "text": "burgerberaad",
+          "glossary": "Gelote groep inwoners die de politiek adviseert of helpt te beslissen over een specifiek onderwerp."
+        },
+        {
+          "text": " zitten inwoners die door loting zijn uitgekozen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1707,6 +1793,25 @@
       "theme": "Bedrijven in buitengebied",
       "themeId": "bedrijven-in-buitengebied",
       "title": "Als bedrijven zich in het buitengebied willen vestigen, moet de gemeente daaraan meewerken.",
+      "titleParts": [
+        {
+          "text": " Als bedrijven zich in het "
+        },
+        {
+          "text": "buitengebied",
+          "glossary": "Gebied binnen de grenzen van de gemeente maar buiten de steden of dorpen zelf, hier staan weinig huizen en andere gebouwen."
+        },
+        {
+          "text": " willen "
+        },
+        {
+          "text": "vestigen",
+          "glossary": "Bouwen, ergens neerzetten (een gebouw, organisatie of huishouden)."
+        },
+        {
+          "text": ", moet de gemeente daaraan meewerken."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1720,6 +1825,18 @@
       "theme": "Verslaving",
       "themeId": "verslaving",
       "title": "De gemeente moet meer jongerenwerkers in dienst nemen die verslaafde jongeren helpen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer "
+        },
+        {
+          "text": "jongerenwerkers",
+          "glossary": "Mensen die jongeren in de gemeente helpen met allerlei dingen."
+        },
+        {
+          "text": " in dienst nemen die verslaafde jongeren helpen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1746,6 +1863,18 @@
       "theme": "Tegenprestatie voor uitkering",
       "themeId": "tegenprestatie-voor-uitkering",
       "title": "Mensen die een bijstandsuitkering krijgen, moeten in ruil daarvoor maatschappelijk zinvol werk doen.",
+      "titleParts": [
+        {
+          "text": " Mensen die een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Geld van de gemeente voor mensen die geen inkomen of eigen geld hebben."
+        },
+        {
+          "text": " krijgen, moeten in ruil daarvoor maatschappelijk zinvol werk doen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1759,6 +1888,25 @@
       "theme": "Snelheid auto's",
       "themeId": "snelheid-auto-s",
       "title": "De maximumsnelheid binnen de bebouwde kom moet naar 30 km/u.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "maximumsnelheid",
+          "glossary": "De hoogste snelheid die autos en motoren mogen rijden op straat."
+        },
+        {
+          "text": " binnen de "
+        },
+        {
+          "text": "bebouwde kom",
+          "glossary": "Gebied met bebouwing (huizen, gebouwen)."
+        },
+        {
+          "text": " moet naar 30 km/u."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1772,6 +1920,25 @@
       "theme": "Kwijtschelding stoppen",
       "themeId": "kwijtschelding-stoppen",
       "title": "De gemeente moet stoppen met het kwijtschelden van de gemeentelijke belastingen voor inwoners met een laag inkomen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet stoppen met het "
+        },
+        {
+          "text": "kwijtschelden",
+          "glossary": "Dat mensen iets niet meer hoeven te betalen."
+        },
+        {
+          "text": " van de "
+        },
+        {
+          "text": "gemeentelijke belastingen",
+          "glossary": "Belastingen die je aan de gemeente moet betalen (bijv. rioolheffing, afvalstoffenheffing, hondenbelasting)."
+        },
+        {
+          "text": " voor inwoners met een laag inkomen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1798,6 +1965,25 @@
       "theme": "Recreatiebedrijven",
       "themeId": "recreatiebedrijven",
       "title": "Campings en andere bedrijven die toeristen trekken, moeten zich makkelijker in het buitengebied van Twenterand kunnen vestigen.",
+      "titleParts": [
+        {
+          "text": " Campings en andere bedrijven die toeristen trekken, moeten zich makkelijker in het "
+        },
+        {
+          "text": "buitengebied",
+          "glossary": "Gebied binnen de grenzen van de gemeente maar buiten de steden of dorpen zelf, hier staan weinig huizen en andere gebouwen."
+        },
+        {
+          "text": " van Twenterand kunnen "
+        },
+        {
+          "text": "vestigen",
+          "glossary": "Bouwen, ergens neerzetten (een gebouw, organisatie of huishouden)."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1811,6 +1997,25 @@
       "theme": "Sociale huurwoningen",
       "themeId": "sociale-huurwoningen",
       "title": "Van de nieuw te bouwen woningen in Twenterand moet minimaal 30% een sociale huurwoning zijn. Op dit moment is 25% van de woningen in Twenterand een sociale huurwoning.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in Twenterand moet minimaal 30% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": " zijn. Op dit moment is 25% van de woningen in Twenterand een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1837,6 +2042,18 @@
       "theme": "Afval",
       "themeId": "afval",
       "title": "De jaarlijkse afvalstoffenheffing moet omlaag en de prijs per afvalbak moet omhoog.",
+      "titleParts": [
+        {
+          "text": " De jaarlijkse "
+        },
+        {
+          "text": "afvalstoffenheffing",
+          "glossary": "Gemeentelijke belasting voor het ophalen en verwerken van afval van huishoudens."
+        },
+        {
+          "text": " moet omlaag en de prijs per afvalbak moet omhoog."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1863,6 +2080,18 @@
       "theme": "Milieustraat",
       "themeId": "milieustraat",
       "title": "Het inleveren van afval bij de milieustraat moet gratis worden.",
+      "titleParts": [
+        {
+          "text": " Het inleveren van afval bij de "
+        },
+        {
+          "text": "milieustraat",
+          "glossary": "Plek waar burgers en bedrijven verschillende soorten afval naartoe kunnen brengen. "
+        },
+        {
+          "text": " moet gratis worden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1876,6 +2105,18 @@
       "theme": "Hondenbelasting",
       "themeId": "hondenbelasting",
       "title": "De gemeente moet een hondenbelasting invoeren.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet een "
+        },
+        {
+          "text": "hondenbelasting",
+          "glossary": "Belasting die je aan de gemeente moet betalen voor het hebben van een hond of meerdere honden."
+        },
+        {
+          "text": " invoeren."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",

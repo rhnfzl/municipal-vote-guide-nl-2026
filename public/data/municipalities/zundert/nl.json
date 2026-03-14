@@ -756,6 +756,25 @@
       "theme": "Burgemeester en college",
       "themeId": "burgemeester-en-college",
       "title": "In het nieuwe college van burgemeester en wethouders moet het aantal mannen en vrouwen gelijk zijn.",
+      "titleParts": [
+        {
+          "text": " In het nieuwe "
+        },
+        {
+          "text": "college",
+          "glossary": "College van burgemeester en wethouders, het dagelijks bestuur van de gemeente."
+        },
+        {
+          "text": " van "
+        },
+        {
+          "text": "burgemeester",
+          "glossary": "De burgemeester leidt de gemeente en zit de gemeenteraad voor. De burgemeester wordt niet gekozen maar benoemd door de regering, na aanbeveling door de gemeenteraad."
+        },
+        {
+          "text": " en wethouders moet het aantal mannen en vrouwen gelijk zijn."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -795,6 +814,18 @@
       "theme": "Handhavers",
       "themeId": "handhavers",
       "title": "In Zundert moeten meer gemeentelijke handhavers (boa’s) komen die zich met veiligheid bezighouden.",
+      "titleParts": [
+        {
+          "text": " In Zundert moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "Mensen die voor de gemeente controleren of burgers en bedrijven zich aan de regels houden."
+        },
+        {
+          "text": " (boa’s) komen die zich met veiligheid bezighouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -808,6 +839,18 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "De inwoners van Zundert moeten over belangrijke onderwerpen hun mening kunnen geven via een referendum.",
+      "titleParts": [
+        {
+          "text": " De inwoners van Zundert moeten over belangrijke onderwerpen hun mening kunnen geven via een "
+        },
+        {
+          "text": "referendum",
+          "glossary": "Volksraadpleging waarbij inwoners zich kunnen uitspreken over een politieke kwestie. De gemeenteraad is niet verplicht de uitslag te volgen, dat is wettelijk niet mogelijk."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -834,6 +877,25 @@
       "theme": "Tegenprestatie voor uitkering",
       "themeId": "tegenprestatie-voor-uitkering",
       "title": "Mensen die een bijstandsuitkering krijgen, moeten in ruil daarvoor maatschappelijk zinvol werk doen.",
+      "titleParts": [
+        {
+          "text": " Mensen die een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Geld van de gemeente voor mensen die geen inkomen of eigen geld hebben."
+        },
+        {
+          "text": " krijgen, moeten in ruil daarvoor "
+        },
+        {
+          "text": "maatschappelijk zinvol werk",
+          "glossary": "Bijvoorbeeld schoonmaken van de straten of het gezelschap houden en ondersteunen van oudere inwoners."
+        },
+        {
+          "text": " doen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -847,6 +909,18 @@
       "theme": "Huisvesting buitenlandse werknemers",
       "themeId": "huisvesting-buitenlandse-werknemers",
       "title": "Werkgevers in de land- en tuinbouw moeten zelf zorgen voor de huisvesting van seizoenarbeiders op hun eigen bedrijfsterrein.",
+      "titleParts": [
+        {
+          "text": " Werkgevers in de land- en tuinbouw moeten zelf zorgen voor de huisvesting van "
+        },
+        {
+          "text": "seizoenarbeiders",
+          "glossary": "Mensen die werk doen dat alleen in een bepaald seizoen kan gebeuren. Vaak in de landbouw en de fruitpluk."
+        },
+        {
+          "text": " op hun eigen bedrijfsterrein."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -860,6 +934,18 @@
       "theme": "Duurzame energie",
       "themeId": "duurzame-energie",
       "title": "Inwoners die samen duurzame energie op willen wekken, moeten financiële steun krijgen van de gemeente.",
+      "titleParts": [
+        {
+          "text": " Inwoners die samen "
+        },
+        {
+          "text": "duurzame energie",
+          "glossary": "Energie op basis van grondstoffen waar een oneindige hoeveelheid van is, zoals zonlicht en wind."
+        },
+        {
+          "text": " op willen wekken, moeten financiële steun krijgen van de gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -886,6 +972,25 @@
       "theme": "Kwijtschelding stoppen",
       "themeId": "kwijtschelding-stoppen",
       "title": "De gemeente moet stoppen met het kwijtschelden van de gemeentelijke belastingen voor inwoners met een laag inkomen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet stoppen met het "
+        },
+        {
+          "text": "kwijtschelden",
+          "glossary": "Dat mensen iets niet meer hoeven te betalen."
+        },
+        {
+          "text": " van de "
+        },
+        {
+          "text": "gemeentelijke belastingen",
+          "glossary": "Belastingen die je aan de gemeente moet betalen (bijv. rioolheffing, afvalstoffenheffing, hondenbelasting)."
+        },
+        {
+          "text": " voor inwoners met een laag inkomen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -899,6 +1004,18 @@
       "theme": "Contributie sport",
       "themeId": "contributie-sport",
       "title": "De gemeente moet het lidmaatschap van een sportclub betalen voor mensen met een bijstandsuitkering.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet het lidmaatschap van een sportclub betalen voor mensen met een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Geld van de gemeente voor mensen die geen inkomen of eigen geld hebben."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -912,6 +1029,18 @@
       "theme": "Cameratoezicht",
       "themeId": "cameratoezicht",
       "title": "In Zundert moet meer cameratoezicht komen.",
+      "titleParts": [
+        {
+          "text": " In Zundert moet meer "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Het houden van toezicht op of in een gebouw, gebied of (groepen) mensen met behulp van bewakingscamera's."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -938,6 +1067,18 @@
       "theme": "Sportverenigingen",
       "themeId": "sportverenigingen",
       "title": "Als sportverenigingen het moeilijk hebben, moet de gemeente financieel bijdragen.",
+      "titleParts": [
+        {
+          "text": " Als sportverenigingen het moeilijk hebben, moet de gemeente "
+        },
+        {
+          "text": "financieel",
+          "glossary": "Iets dat met geld te maken heeft."
+        },
+        {
+          "text": " bijdragen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -951,6 +1092,18 @@
       "theme": "Distributiecentra",
       "themeId": "distributiecentra",
       "title": "De gemeente moet de vestiging van nieuwe distributiecentra tegengaan.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de vestiging van nieuwe "
+        },
+        {
+          "text": "distributiecentra",
+          "glossary": "Grote loodsen waar goederen worden ontvangen, verdeeld en vervoerd naar andere locaties."
+        },
+        {
+          "text": " tegengaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -990,6 +1143,18 @@
       "theme": "Zorgkeuze",
       "themeId": "zorgkeuze",
       "title": "Mensen die zorg nodig hebben, moeten altijd kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of levensovertuiging.",
+      "titleParts": [
+        {
+          "text": " Mensen die zorg nodig hebben, moeten altijd kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of "
+        },
+        {
+          "text": "levensovertuiging",
+          "glossary": "Wat iemand gelooft over het leven, zoals een geloof of persoonlijke overtuiging."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1016,6 +1181,18 @@
       "theme": "Toeristenbelasting",
       "themeId": "toeristenbelasting",
       "title": "De toeristenbelasting moet omhoog.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "toeristenbelasting",
+          "glossary": "De belasting die je moet betalen als je in een hotel of op een camping bijft slapen."
+        },
+        {
+          "text": " moet omhoog."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1068,6 +1245,18 @@
       "theme": "Schoolzwemmen",
       "themeId": "schoolzwemmen",
       "title": "De gemeente moet geld beschikbaar stellen voor schoolzwemmen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld beschikbaar stellen voor "
+        },
+        {
+          "text": "schoolzwemmen",
+          "glossary": "Zwemlessen die vanuit de school worden georganiseerd."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",

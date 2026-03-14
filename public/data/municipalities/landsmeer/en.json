@@ -1374,9 +1374,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality of Landsmeer should appeal to the national government and Schiphol for reduced air traffic.",
-      "themeEn": "Air traffic"
+      "isShootout": false
     },
     {
       "id": 239511,
@@ -1384,12 +1382,22 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "The residents of Landsmeer should continue to be able to express their opinion on important issues via a referendum.",
+      "titleParts": [
+        {
+          "text": " De inwoners van Landsmeer moeten over belangrijke onderwerpen hun mening kunnen blijven geven via een "
+        },
+        {
+          "text": "referendum",
+          "glossary": "A public consultation where residents can express their opinion on a political issue. The municipal council is not obliged to follow the result; legally it cannot."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The residents of Landsmeer should continue to be able to express their opinion on important issues via a referendum.",
-      "themeEn": "Referendum"
+      "isShootout": false
     },
     {
       "id": 239545,
@@ -1400,9 +1408,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be more parking spaces at the shopping center in Landsmeer.",
-      "themeEn": "Parking spaces at the shopping center"
+      "isShootout": false
     },
     {
       "id": 239522,
@@ -1410,12 +1416,29 @@
       "theme": "Priority for refugees",
       "themeId": "voorrang-voor-vluchtelingen",
       "title": "The municipality must continue to give refugees with a residence permit priority for social housing.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet vluchtelingen met een "
+        },
+        {
+          "text": "verblijfsvergunning",
+          "glossary": "The right to reside in the Netherlands."
+        },
+        {
+          "text": " voorrang blijven geven op een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must continue to give refugees with a residence permit priority for social housing.",
-      "themeEn": "Priority for refugees"
+      "isShootout": false
     },
     {
       "id": 239512,
@@ -1426,9 +1449,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents should be able to continue taking over the management of a public green space from the municipality.",
-      "themeEn": "Management by citizens"
+      "isShootout": false
     },
     {
       "id": 239516,
@@ -1436,12 +1457,29 @@
       "theme": "Attracting businesses",
       "themeId": "aantrekken-bedrijven",
       "title": "The municipality should invest in a promotional campaign marketing Landsmeer as an attractive location for businesses.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld steken in een "
+        },
+        {
+          "text": "promotiecampagne",
+          "glossary": "A series of advertisements on, for example, billboards, television, and social media."
+        },
+        {
+          "text": " voor Landsmeer als aantrekkelijke "
+        },
+        {
+          "text": "vestigingsplaats",
+          "glossary": "The location where a company establishes itself."
+        },
+        {
+          "text": " voor bedrijven."
+        }
+      ],
       "moreInfo": "Municipalities can attract companies by showing what they have to offer. This can be done, for example, with a promotional campaign. The goal is to convince companies to settle in the municipality.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should invest in a promotional campaign marketing Landsmeer as an attractive location for businesses.",
-      "themeEn": "Attracting businesses"
+      "isShootout": false
     },
     {
       "id": 239531,
@@ -1449,12 +1487,22 @@
       "theme": "School swimming",
       "themeId": "schoolzwemmen",
       "title": "The municipality should allocate money for school swimming.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld beschikbaar stellen voor "
+        },
+        {
+          "text": "schoolzwemmen",
+          "glossary": "Swimming lessons organized by the school."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allocate money for school swimming.",
-      "themeEn": "School swimming"
+      "isShootout": false
     },
     {
       "id": 239523,
@@ -1462,12 +1510,29 @@
       "theme": "Integration",
       "themeId": "integratie",
       "title": "The municipality should spend more money on integrating newcomers into society.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld uitgeven aan "
+        },
+        {
+          "text": "integratie",
+          "glossary": "Newcomers learn the language and customs of the Netherlands."
+        },
+        {
+          "text": " van "
+        },
+        {
+          "text": "nieuwkomers",
+          "glossary": "People who are new to the Netherlands."
+        },
+        {
+          "text": " in de maatschappij."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should spend more money on integrating newcomers into society.",
-      "themeEn": "Integration"
+      "isShootout": false
     },
     {
       "id": 239565,
@@ -1478,9 +1543,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should work towards creating a road for cars through the Landsmeerderveld nature area.",
-      "themeEn": "Landsmeerderveld"
+      "isShootout": false
     },
     {
       "id": 239535,
@@ -1488,12 +1551,29 @@
       "theme": "Social housing",
       "themeId": "sociale-huurwoningen",
       "title": "At least 40% of newly built homes in the municipality of Landsmeer should be social rental housing. Currently, 28% of homes in the Netherlands are social rental housing.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in de gemeente Landsmeer moet minimaal 40% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " zijn. In Nederland is nu 28% van de woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "At least 40% of newly built homes in the municipality of Landsmeer should be social rental housing. Currently, 28% of homes in the Netherlands are social rental housing.",
-      "themeEn": "Social housing"
+      "isShootout": false
     },
     {
       "id": 239519,
@@ -1504,9 +1584,7 @@
       "moreInfo": "Farmers need a lot of land for their businesses. That land is usually their own property, but they cannot do whatever they want with it. The municipality determines the function of land in a zoning plan. The purpose of a piece of land can be, for example, housing, shops or agriculture. If a farmer wants to do something else on land zoned for agriculture, the municipality must change the zoning plan. This applies to all activities that are not agriculture, such as building houses, running a farm shop, operating a campsite or a daycare.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should always allow farmers to open, for example, a shop or a campsite at their farm.",
-      "themeEn": "Farmers"
+      "isShootout": false
     },
     {
       "id": 239539,
@@ -1514,12 +1592,22 @@
       "theme": "Businesses converted into homes",
       "themeId": "bedrijven-worden-woningen",
       "title": "Old commercial buildings should be converted into housing with subsidies from the municipality.",
+      "titleParts": [
+        {
+          "text": " Oude bedrijfsgebouwen moeten met "
+        },
+        {
+          "text": "subsidie",
+          "glossary": "Money the government gives to citizens, businesses, and organizations to support them."
+        },
+        {
+          "text": " van de gemeente worden omgebouwd tot woningen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Old commercial buildings should be converted into housing with subsidies from the municipality.",
-      "themeEn": "Businesses converted into homes"
+      "isShootout": false
     },
     {
       "id": 239529,
@@ -1530,9 +1618,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allow fewer festivals in Het Twiske.",
-      "themeEn": "Festivals"
+      "isShootout": false
     },
     {
       "id": 239533,
@@ -1540,12 +1626,22 @@
       "theme": "Enforcement officers",
       "themeId": "handhavers",
       "title": "Landsmeer should have municipal enforcement officers (BOAs) who can be deployed 24 hours a day.",
+      "titleParts": [
+        {
+          "text": " In Landsmeer moeten gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "People who, for the municipality, check whether citizens and businesses comply with the rules."
+        },
+        {
+          "text": " (boa’s) komen die 24 uur per dag inzetbaar zijn."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Landsmeer should have municipal enforcement officers (BOAs) who can be deployed 24 hours a day.",
-      "themeEn": "Enforcement officers"
+      "isShootout": false
     },
     {
       "id": 239549,
@@ -1553,12 +1649,22 @@
       "theme": "Youth services",
       "themeId": "jongerenwerk",
       "title": "There should be more youth work hours available in the municipality; currently that is 20 hours per week.",
+      "titleParts": [
+        {
+          "text": " Er moeten meer uren "
+        },
+        {
+          "text": "jongerenwerk",
+          "glossary": "People and organizations that help young people in the municipality with various things."
+        },
+        {
+          "text": " beschikbaar zijn in de gemeente. Nu is dat 20 uur per week."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be more youth work hours available in the municipality; currently that is 20 hours per week.",
-      "themeEn": "Youth services"
+      "isShootout": false
     },
     {
       "id": 239559,
@@ -1569,9 +1675,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should spend money on better noise barriers along the A10 motorway.",
-      "themeEn": "Noise barriers on the A10"
+      "isShootout": false
     },
     {
       "id": 239528,
@@ -1582,9 +1686,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should ban solar panels on pastures/fields.",
-      "themeEn": "Solar panels on pastureland"
+      "isShootout": false
     },
     {
       "id": 239550,
@@ -1595,9 +1697,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should reintroduce a city pass for people aged 67 and over that provides discounts on cultural activities.",
-      "themeEn": "City pass"
+      "isShootout": false
     },
     {
       "id": 239564,
@@ -1605,12 +1705,22 @@
       "theme": "Reports from residents",
       "themeId": "meldingen-van-inwoners",
       "title": "With the Fixi app residents can report issues to the municipality, for example about litter, nuisance and vandalism. The municipality should invest in additional staff so reports are handled more quickly.",
+      "titleParts": [
+        {
+          "text": " Met de Fixi-"
+        },
+        {
+          "text": "app",
+          "glossary": "Abbreviation for application, usually referring to a program on a smartphone."
+        },
+        {
+          "text": " kunnen inwoners meldingen doorgeven aan de gemeente, bijvoorbeeld over zwerfvuil, overlast en vernielingen. De gemeente moet geld steken in extra medewerkers zodat meldingen sneller worden opgepakt."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "With the Fixi app residents can report issues to the municipality, for example about litter, nuisance and vandalism. The municipality should invest in additional staff so reports are handled more quickly.",
-      "themeEn": "Reports from residents"
+      "isShootout": false
     },
     {
       "id": 239534,
@@ -1618,12 +1728,22 @@
       "theme": "Camera surveillance",
       "themeId": "cameratoezicht",
       "title": "There should be more camera surveillance in Landsmeer.",
+      "titleParts": [
+        {
+          "text": " In Landsmeer moet meer "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Monitoring of a building, area, or (groups of) people using security cameras."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be more camera surveillance in Landsmeer.",
-      "themeEn": "Camera surveillance"
+      "isShootout": false
     },
     {
       "id": 239556,
@@ -1634,9 +1754,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents who want to create neighborhood or front-yard gardens should receive funding from the municipality.",
-      "themeEn": "Neighborhood and front-yard gardens"
+      "isShootout": false
     },
     {
       "id": 239540,
@@ -1644,12 +1762,22 @@
       "theme": "Housing construction",
       "themeId": "woningbouw",
       "title": "The municipality should oppose new development outside the built-up area.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet nieuwbouw buiten de "
+        },
+        {
+          "text": "bebouwde kom",
+          "glossary": "An area with buildings (houses, other structures)."
+        },
+        {
+          "text": " tegengaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should oppose new development outside the built-up area.",
-      "themeEn": "Housing construction"
+      "isShootout": false
     },
     {
       "id": 239558,
@@ -1660,9 +1788,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The social welfare counselor helps residents with questions about, for example, benefits or allowances. There should be more walk-in consultation hours with the social counselor.",
-      "themeEn": "Social advisor"
+      "isShootout": false
     },
     {
       "id": 239541,
@@ -1673,9 +1799,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allow landlords to rent out individual rooms instead of entire houses.",
-      "themeEn": "Subdivision into multiple rooms"
+      "isShootout": false
     },
     {
       "id": 239561,
@@ -1686,9 +1810,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should ban fast food advertising in bus shelters, swimming pools and sports halls.",
-      "themeEn": "Fast-food advertising"
+      "isShootout": false
     },
     {
       "id": 239514,
@@ -1696,12 +1818,22 @@
       "theme": "Tax on buildings",
       "themeId": "belasting-op-gebouwen",
       "title": "The property tax (onroerendezaakbelasting, OZB) should be reduced.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "onroerendezaakbelasting",
+          "glossary": "Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": " (ozb) moet omlaag."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The property tax (onroerendezaakbelasting, OZB) should be reduced.",
-      "themeEn": "Tax on buildings"
+      "isShootout": false
     },
     {
       "id": 239547,
@@ -1709,12 +1841,22 @@
       "theme": "Parking permits",
       "themeId": "parkeervergunningen",
       "title": "Landsmeer should introduce parking permits in the residential neighborhoods around the center.",
+      "titleParts": [
+        {
+          "text": " Landsmeer moet in de woonwijken rondom het centrum "
+        },
+        {
+          "text": "parkeervergunningen",
+          "glossary": "A permit to park in a certain place. You have to pay for that right."
+        },
+        {
+          "text": " invoeren."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Landsmeer should introduce parking permits in the residential neighborhoods around the center.",
-      "themeEn": "Parking permits"
+      "isShootout": false
     },
     {
       "id": 239518,
@@ -1725,9 +1867,7 @@
       "moreInfo": "Farmers can receive money from the national government and the province to convert agricultural land into nature. This mainly applies to farmland that borders nature reserves. The municipality decides together with the province where new nature is desired. For this the municipality must amend the Environmental Plan (Omgevingsplan).",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should not allow agricultural land in Landsmeer to be converted into nature areas.",
-      "themeEn": "Agricultural land"
+      "isShootout": false
     },
     {
       "id": 239527,
@@ -1738,9 +1878,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should organize a fireworks show on New Year's Eve.",
-      "themeEn": "Fireworks"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

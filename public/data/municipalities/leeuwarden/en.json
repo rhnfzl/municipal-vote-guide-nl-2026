@@ -3224,9 +3224,7 @@
       "moreInfo": "The core goals for education are set nationally. Schools have room to determine how to meet them. The municipality cannot force extra attention for Frisian, but it can encourage and support it, for example by making funds available.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should encourage more attention to Frisian at all primary schools.",
-      "themeEn": "Frisian language"
+      "isShootout": false
     },
     {
       "id": 230255,
@@ -3237,9 +3235,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Paid parking in the municipality should become cheaper.",
-      "themeEn": "Paid parking"
+      "isShootout": false
     },
     {
       "id": 230239,
@@ -3250,9 +3246,7 @@
       "moreInfo": "From the coming New Year’s, a national ban on setting off most types of consumer fireworks will apply in the Netherlands. These rules are made by the national government and apply to all municipalities. The ban does not apply to professional fireworks. Municipalities may decide to organize a fireworks display on New Year’s Eve; the municipality arranges and pays for such a display itself.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should organize a fireworks show on New Year's Eve.",
-      "themeEn": "Fireworks"
+      "isShootout": false
     },
     {
       "id": 230234,
@@ -3260,12 +3254,29 @@
       "theme": "Priority for people with refugee status",
       "themeId": "voorrang-voor-statushouders",
       "title": "The municipality must continue to give refugees with a residence permit priority for social housing.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet vluchtelingen met een "
+        },
+        {
+          "text": "verblijfsvergunning",
+          "glossary": "The right to reside in the Netherlands. The term can refer to the right itself or to the card that shows someone has that right."
+        },
+        {
+          "text": " voorrang blijven geven op een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "People who flee their country because of war or personal persecution can apply for asylum in the Netherlands. If they receive a residence permit, they must move from an asylum seekers’ centre to social housing. Municipalities can choose to give refugees with a residence permit priority for social housing. The municipality of Leeuwarden is currently doing this.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must continue to give refugees with a residence permit priority for social housing.",
-      "themeEn": "Priority for people with refugee status"
+      "isShootout": false
     },
     {
       "id": 230227,
@@ -3273,12 +3284,22 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "It should be easier for residents to request a referendum, for example by requiring fewer signatures; currently 300 signatures are needed.",
+      "titleParts": [
+        {
+          "text": " Het moet makkelijker worden voor inwoners een "
+        },
+        {
+          "text": "referendum",
+          "glossary": "A public consultation where residents can express their opinion on a political issue. The municipal council is not obliged to follow the result; legally it cannot."
+        },
+        {
+          "text": " aan te vragen, bijvoorbeeld met minder handtekeningen. Nu zijn daar 300 handtekeningen voor nodig."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "It should be easier for residents to request a referendum, for example by requiring fewer signatures; currently 300 signatures are needed.",
-      "themeEn": "Referendum"
+      "isShootout": false
     },
     {
       "id": 230237,
@@ -3289,9 +3310,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should plant more trees, including along main roads.",
-      "themeEn": "Trees"
+      "isShootout": false
     },
     {
       "id": 230238,
@@ -3299,12 +3318,22 @@
       "theme": "Wood burning",
       "themeId": "houtstook",
       "title": "In the municipality of Leeuwarden the use of open fireplaces and wood stoves should remain allowed, even in bad weather.",
+      "titleParts": [
+        {
+          "text": " In de gemeente Leeuwarden moet het gebruik van open haarden en "
+        },
+        {
+          "text": "houtkachels",
+          "glossary": "Wood-burning stoves used to heat a home."
+        },
+        {
+          "text": " toegestaan blijven, ook bij slecht weer."
+        }
+      ],
       "moreInfo": "Open fireplaces and wood stoves emit smoke and fine particulate matter. Municipalities can set rules on their use, for example under certain weather conditions.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "In the municipality of Leeuwarden the use of open fireplaces and wood stoves should remain allowed, even in bad weather.",
-      "themeEn": "Wood burning"
+      "isShootout": false
     },
     {
       "id": 230246,
@@ -3312,12 +3341,22 @@
       "theme": "Social housing",
       "themeId": "sociale-huurwoningen",
       "title": "At least 40% of newly built homes in the municipality of Leeuwarden should be social rental housing; the municipality currently aims for 30%.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in de gemeente Leeuwarden moet minimaal 40% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " zijn. Nu streeft de gemeente naar 30%."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "At least 40% of newly built homes in the municipality of Leeuwarden should be social rental housing; the municipality currently aims for 30%.",
-      "themeEn": "Social housing"
+      "isShootout": false
     },
     {
       "id": 230232,
@@ -3328,9 +3367,7 @@
       "moreInfo": "What time a café or restaurant must close currently depends on the location in Leeuwarden. Different rules apply for different locations.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Cafés and restaurants in Leeuwarden’s city center should be able to set their own closing times.",
-      "themeEn": "Closing times for bars and restaurants"
+      "isShootout": false
     },
     {
       "id": 230252,
@@ -3338,12 +3375,29 @@
       "theme": "Subsidized jobs",
       "themeId": "gesubsidieerde-banen",
       "title": "There should be more subsidized jobs for the long-term unemployed in our municipality.",
+      "titleParts": [
+        {
+          "text": " Er moeten meer "
+        },
+        {
+          "text": "gesubsidieerde banen",
+          "glossary": "Government-funded jobs for people who have little chance of getting a regular job."
+        },
+        {
+          "text": " voor "
+        },
+        {
+          "text": "langdurig werklozen",
+          "glossary": "People who have been without paid work for a long time (longer than a year)."
+        },
+        {
+          "text": " komen in onze gemeente."
+        }
+      ],
       "moreInfo": "Subsidized jobs, also called basic jobs, are positions where the municipality pays part of the wage costs for people who have been out of work for a long time. Leeuwarden currently has 25 basic jobs available.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be more subsidized jobs for the long-term unemployed in our municipality.",
-      "themeEn": "Subsidized jobs"
+      "isShootout": false
     },
     {
       "id": 230259,
@@ -3354,9 +3408,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "More car-free streets should be created in Leeuwarden’s city center.",
-      "themeEn": "Car-free"
+      "isShootout": false
     },
     {
       "id": 230260,
@@ -3367,9 +3419,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "All villages and neighborhoods within the municipality should have their own social and cultural community center.",
-      "themeEn": "Neighborhood center"
+      "isShootout": false
     },
     {
       "id": 275824,
@@ -3380,9 +3430,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should modify the Prins Hendrik Bridge between the center and the station so that it can open.",
-      "themeEn": "Prins Hendrik Bridge"
+      "isShootout": false
     },
     {
       "id": 230233,
@@ -3390,12 +3438,22 @@
       "theme": "Sustainable energy",
       "themeId": "duurzame-energie",
       "title": "Residents who want to generate sustainable energy together should receive financial support from the municipality.",
+      "titleParts": [
+        {
+          "text": " Inwoners die samen "
+        },
+        {
+          "text": "duurzame energie",
+          "glossary": "Energy based on resources that are effectively infinite, such as sunlight and wind."
+        },
+        {
+          "text": " op willen wekken, moeten financiële steun krijgen van de gemeente."
+        }
+      ],
       "moreInfo": "Homeowners can install solar panels on their roof if the roof is suitable, or apply for a permit for a wind turbine in the garden if it is large enough. If that is not possible, people can jointly buy or rent land for one or more wind turbines or solar panels so they can still invest in sustainable energy. Sustainable energy is generated from sources that never run out, such as sunlight and wind. Municipalities can offer various forms of support for this, such as subsidies or loans. At the moment the municipality of Leeuwarden is running a number of experiments supporting energy cooperatives.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents who want to generate sustainable energy together should receive financial support from the municipality.",
-      "themeEn": "Sustainable energy"
+      "isShootout": false
     },
     {
       "id": 230243,
@@ -3403,12 +3461,22 @@
       "theme": "Coffeeshops (cannabis cafés)",
       "themeId": "coffeeshops",
       "title": "The municipality should prevent the opening of new coffeeshops.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de vestiging van nieuwe "
+        },
+        {
+          "text": "coffeeshops",
+          "glossary": "Shop or café where you can buy and smoke soft drugs (hash, weed)."
+        },
+        {
+          "text": " tegenhouden."
+        }
+      ],
       "moreInfo": "Leeuwarden currently has twelve coffeeshops. The sale of soft drugs such as marijuana in coffeeshops is tolerated; that is national policy. Toleration (gedogen) means something is illegal under the law but is nevertheless allowed by the police. Municipalities may decide how many coffeeshops they allow and where they may be located.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should prevent the opening of new coffeeshops.",
-      "themeEn": "Coffeeshops (cannabis cafés)"
+      "isShootout": false
     },
     {
       "id": 230256,
@@ -3419,9 +3487,7 @@
       "moreInfo": "A zero-emission zone is an area in a city where cars that emit harmful substances are not allowed.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Commercial and freight trucks that emit pollutants should be banned from the center of Leeuwarden.",
-      "themeEn": "Zero-emission zone"
+      "isShootout": false
     },
     {
       "id": 275826,
@@ -3432,9 +3498,7 @@
       "moreInfo": "People who flee their country because of war or personal persecution can apply for asylum in the Netherlands. The Immigration and Naturalisation Service (IND) assesses their application and decides whether they may stay in the Netherlands. During that procedure these asylum seekers must be accommodated. If the asylum request is rejected, former asylum seekers must leave the Netherlands. That usually cannot be done immediately, but they no longer have a right to accommodation. Some municipalities offer simple shelter for this group, commonly called \"bed-bath-bread\" shelter, which provides only a place to sleep, food and a shower.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality of Leeuwarden should provide shelter to asylum seekers who are not allowed to remain in the Netherlands.",
-      "themeEn": "Accommodation for rejected asylum seekers"
+      "isShootout": false
     },
     {
       "id": 230281,
@@ -3442,12 +3506,22 @@
       "theme": "Youth ombudsman",
       "themeId": "jeugdombudsman",
       "title": "The municipality should appoint a youth ombudsman where children and young people can bring complaints about the municipality.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet een "
+        },
+        {
+          "text": "jeugdombudsman",
+          "glossary": "An independent person who helps children and young people with complaints about the government."
+        },
+        {
+          "text": " aanstellen waar kinderen en jongeren terecht kunnen met klachten over de gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should appoint a youth ombudsman where children and young people can bring complaints about the municipality.",
-      "themeEn": "Youth ombudsman"
+      "isShootout": false
     },
     {
       "id": 230261,
@@ -3458,9 +3532,7 @@
       "moreInfo": "The area around the station in Leeuwarden was arranged a few years ago as a so-called shared space. That means pedestrians, cyclists and cars use the same space without clear separation.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should again create separate areas for pedestrians, cyclists and motorists at the station.",
-      "themeEn": "Shared space"
+      "isShootout": false
     },
     {
       "id": 230244,
@@ -3468,12 +3540,22 @@
       "theme": "Camera surveillance",
       "themeId": "cameratoezicht",
       "title": "There should be more camera surveillance in Leeuwarden.",
+      "titleParts": [
+        {
+          "text": " In Leeuwarden moet meer "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Monitoring of a building, area, or (groups of) people using security cameras."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be more camera surveillance in Leeuwarden.",
-      "themeEn": "Camera surveillance"
+      "isShootout": false
     },
     {
       "id": 230263,
@@ -3484,9 +3566,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should introduce a fine for people who leave their homes vacant for a long time.",
-      "themeEn": "Vacancy tax"
+      "isShootout": false
     },
     {
       "id": 230279,
@@ -3494,12 +3574,22 @@
       "theme": "Waste disposal charge",
       "themeId": "afvalstoffenheffing",
       "title": "The waste collection charge should be reduced.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "afvalstoffenheffing",
+          "glossary": "Municipal tax for collecting and processing household waste."
+        },
+        {
+          "text": " moet omlaag."
+        }
+      ],
       "moreInfo": "The waste collection levy is the municipal tax for collecting and processing household waste. Municipalities determine the amount themselves. If the waste collection levy is reduced, the municipality must compensate by cutting spending or increasing income in another way.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The waste collection charge should be reduced.",
-      "themeEn": "Waste disposal charge"
+      "isShootout": false
     },
     {
       "id": 230268,
@@ -3510,9 +3600,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should spend less money on the cultural event Arcadia.",
-      "themeEn": "Arcadia"
+      "isShootout": false
     },
     {
       "id": 230251,
@@ -3520,12 +3608,29 @@
       "theme": "Work requirement for welfare recipients",
       "themeId": "tegenprestatie-voor-uitkering",
       "title": "People receiving social assistance should, in return, do socially useful work.",
+      "titleParts": [
+        {
+          "text": " Mensen die een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Money from the municipality for people who have no income or personal funds."
+        },
+        {
+          "text": " krijgen, moeten in ruil daarvoor "
+        },
+        {
+          "text": "maatschappelijk zinvol werk",
+          "glossary": "For example cleaning the streets or keeping company and supporting elderly residents."
+        },
+        {
+          "text": " doen."
+        }
+      ],
       "moreInfo": "People who have no work and no other benefit can apply to the municipality for social assistance. In some municipalities they are required to perform a counter-performance. They then do socially useful work for which they are not paid.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People receiving social assistance should, in return, do socially useful work.",
-      "themeEn": "Work requirement for welfare recipients"
+      "isShootout": false
     },
     {
       "id": 230284,
@@ -3536,9 +3641,7 @@
       "moreInfo": "Leeuwarden is currently affiliated with the Adult Fund for Sport & Culture. Residents with a low income can receive a reimbursement from this fund for, for example, a subscription or equipment. The maximum contribution from this fund is €300 per person per year.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents with low incomes should receive more funding for sports and culture.",
-      "themeEn": "Adults' fund"
+      "isShootout": false
     },
     {
       "id": 230262,
@@ -3546,12 +3649,22 @@
       "theme": "Speed limit on Overijsselselaan",
       "themeId": "maximumsnelheid-overijsselselaan",
       "title": "The speed limit on the Overijsselselaan should be raised from 50 to 70 km/h.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "maximumsnelheid",
+          "glossary": "The maximum speed that cars and motorcycles are allowed to drive on the road."
+        },
+        {
+          "text": " op de Overijsselselaan moet omhoog van 50 naar 70 km/u."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The speed limit on the Overijsselselaan should be raised from 50 to 70 km/h.",
-      "themeEn": "Speed limit on Overijsselselaan"
+      "isShootout": false
     },
     {
       "id": 275823,
@@ -3562,9 +3675,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should invest more in energy coaches who help residents make their homes more sustainable.",
-      "themeEn": "Energy coaches"
+      "isShootout": false
     },
     {
       "id": 230274,
@@ -3572,12 +3683,22 @@
       "theme": "Advertisements for gambling and alcohol",
       "themeId": "reclames-gokken-en-alcohol",
       "title": "Advertisements for gambling and alcohol in public spaces should remain allowed.",
+      "titleParts": [
+        {
+          "text": " Reclames voor gokken en alcohol in de "
+        },
+        {
+          "text": "openbare ruimte",
+          "glossary": "Outdoor areas that are accessible to everyone, such as streets, squares, and parks."
+        },
+        {
+          "text": " moeten toegestaan blijven."
+        }
+      ],
       "moreInfo": "Advertising in public space is seen on, for example, billboards and digital screens. Municipalities can set their own rules, in addition to national rules, about where and in what form advertising in public space is allowed.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Advertisements for gambling and alcohol in public spaces should remain allowed.",
-      "themeEn": "Advertisements for gambling and alcohol"
+      "isShootout": false
     },
     {
       "id": 230265,
@@ -3588,9 +3709,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should provide extra funding to clubs that practice Frisian sports.",
-      "themeEn": "Frisian sports"
+      "isShootout": false
     },
     {
       "id": 275827,
@@ -3601,9 +3720,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "A new asylum seekers’ center should be established in our municipality.",
-      "themeEn": "Asylum seekers' center"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

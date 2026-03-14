@@ -2154,9 +2154,7 @@
       "moreInfo": "In various villages of the Krimpenerwaard municipality there is a known parking problem, for example in Schoonhoven and Stolwijk. Research is being used to determine where additional parking spaces should and can be created.",
       "pro": "There are parties that think some centers have a shortage of parking spaces. Some parties also believe more parking is needed to solve parking nuisance and unsafe situations and thereby increase livability.",
       "con": "Some other parties think parking spaces reduce the area available for building homes. Other parties believe more space is needed for green areas, playgrounds and meeting places for residents.",
-      "isShootout": false,
-      "titleEn": "More parking spaces should be provided in Krimpenerwaard.",
-      "themeEn": "Parking spaces"
+      "isShootout": false
     },
     {
       "id": 133547,
@@ -2164,12 +2162,22 @@
       "theme": "Coffeeshops (cannabis cafés)",
       "themeId": "coffeeshops",
       "title": "The municipality should allow coffeeshops.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "coffeeshops",
+          "glossary": "Shops or cafés where you can buy and smoke soft drugs (hash, weed)."
+        },
+        {
+          "text": " toestaan."
+        }
+      ],
       "moreInfo": "The sale of weed and hash takes place in special shops called coffeeshops. In the Netherlands this sale is tolerated. That means coffeeshops are not fined if they sell these soft drugs, but they must comply with strict rules. Municipalities may decide for themselves whether to allow coffeeshops. In the municipality of Krimpenerwaard it is currently not allowed to open a coffeeshop.",
       "pro": "Some parties say controlled sale of weed keeps the cannabis trade out of the criminal circuit. Parties also think that coffeeshops reduce street dealing and nuisance.",
       "con": "Opponents are worried about an increase in drug use and addictions. Parties also cite a rise in nuisance in the neighborhood as an argument against this proposal.",
-      "isShootout": false,
-      "titleEn": "The municipality should allow coffeeshops.",
-      "themeEn": "Coffeeshops (cannabis cafés)"
+      "isShootout": false
     },
     {
       "id": 133555,
@@ -2180,9 +2188,7 @@
       "moreInfo": "A neighborhood center, also called a community center, is a place where activities are organized for local residents. In Krimpenerwaard there are currently eleven locations that the municipality considers neighborhood or village centers.",
       "pro": "There are parties that find this important because community centers help residents meet each other more often. Some parties believe neighborhood centers promote solidarity and community spirit. Parties also argue that they help residents feel at home.",
       "con": "Other parties think it is not a good idea because community centers cost a lot of money. Some parties believe the taxpayer would be overburdened. It is also said that there are already sufficient facilities in Krimpenerwaard.",
-      "isShootout": false,
-      "titleEn": "All villages and towns in Krimpenerwaard should have their own social and cultural community centre.",
-      "themeEn": "Neighborhood center"
+      "isShootout": false
     },
     {
       "id": 133539,
@@ -2193,9 +2199,7 @@
       "moreInfo": "In recent years the municipality of Krimpenerwaard has created 2,250 hectares of new nature as part of the Natuur Netwerk Nederland (NNN). This is a network of areas across the country where nature has priority, intended to preserve sufficient natural area in the Netherlands. In some cases agriculture and nature can coexist in these areas; in other cases farmland has been fully converted into nature.",
       "pro": "Multiple parties think the municipality of Krimpenerwaard has already given up a lot of agricultural land for nature in recent years. Parties also believe agricultural land should be protected to preserve food security. Furthermore, parties think it is not right to force farmers to convert land.",
       "con": "On the other hand, some parties think farmers should use and protect more nature in their work. Some parties believe the distribution of space in Krimpenerwaard is unbalanced. It is also said that nature can help strengthen the landscape and keep the water clean.",
-      "isShootout": false,
-      "titleEn": "The municipality should prevent agricultural land in Krimpenerwaard from being converted into nature areas.",
-      "themeEn": "Agricultural land"
+      "isShootout": false
     },
     {
       "id": 133587,
@@ -2206,9 +2210,7 @@
       "moreInfo": "The ferry service in Schoonhoven takes residents from Schoonhoven to Gelkenes and back. It is the connection between the Krimpenerwaard and the Alblasserwaard. The ferry now runs every day from 05:00 to 24:00, including weekends. The ferry operates at least four times per hour.",
       "pro": "Some parties think it is important to improve the municipality's accessibility and see extending service hours as a possible solution. Some parties also think it would be good if residents could make more use of nightlife and hospitality venues; that is good for the local economy.",
       "con": "Other parties think that adding staff for evening services makes the ferry run at a loss. Parties also mention the option of driving around via the Vianen bridge as a reasonable alternative.",
-      "isShootout": false,
-      "titleEn": "On weekends the ferry service in Schoonhoven should operate until at least 01:00.",
-      "themeEn": "Ferry services"
+      "isShootout": false
     },
     {
       "id": 133545,
@@ -2216,12 +2218,36 @@
       "theme": "Sports clubs",
       "themeId": "sportverenigingen",
       "title": "The municipality should not charge property tax (onroerendezaakbelasting, OZB) to sports clubs that are financially struggling.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet sportverenigingen die het "
+        },
+        {
+          "text": "financieel",
+          "glossary": "Something related to money."
+        },
+        {
+          "text": " moeilijk hebben geen "
+        },
+        {
+          "text": "onroerendezaakbelasting",
+          "glossary": "Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "ozb",
+          "glossary": "Property tax. Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": ") opleggen."
+        }
+      ],
       "moreInfo": "Everyone who owns a house or a business property pays tax to the municipality for it. That tax is called property tax (onroerendezaakbelasting, ozb). The average ozb for a home in Krimpenerwaard was €409 in 2024, less than the national average. Sports clubs also have to pay ozb on buildings they own. A municipality can choose to refund that ozb in whole or in part, for example by giving a subsidy to the club.",
       "pro": "Some parties think it is the municipality's responsibility to step in if a sports club is having difficulties. It is also said that sports clubs are indispensable for a healthy society. Furthermore, parties think the exemption ensures residents continue to meet each other and participate in society.",
       "con": "Other parties believe all clubs should contribute to municipal costs. There are also parties that think there are already enough subsidy schemes available for clubs to use. Finally, it is argued that clubs should be able to remain financially healthy on their own.",
-      "isShootout": false,
-      "titleEn": "The municipality should not charge property tax (onroerendezaakbelasting, OZB) to sports clubs that are financially struggling.",
-      "themeEn": "Sports clubs"
+      "isShootout": false
     },
     {
       "id": 133548,
@@ -2229,12 +2255,22 @@
       "theme": "Camera surveillance",
       "themeId": "cameratoezicht",
       "title": "There should be more camera surveillance in Krimpenerwaard.",
+      "titleParts": [
+        {
+          "text": " In Krimpenerwaard moet meer "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Monitoring of a building, area, or (groups of) people using security cameras."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "The mayor is responsible for safety in a municipality. In consultation with the municipal council the mayor can decide to place cameras in public places that can help the police monitor a particular area. The municipality must comply with a number of rules when doing this, for example rules about protecting residents’ privacy.",
       "pro": "Parties in favor mainly think it is important that residents feel safer because of camera surveillance. They also think cameras help solve crimes. Supporters say cameras deter criminals and thus prevent crime.",
       "con": "Parties opposed to this proposal, for example, think Krimpenerwaard is already safe enough. Some parties also argue that camera surveillance reduces residents' privacy. Furthermore, there are parties that believe camera surveillance breeds mistrust.",
-      "isShootout": false,
-      "titleEn": "There should be more camera surveillance in Krimpenerwaard.",
-      "themeEn": "Camera surveillance"
+      "isShootout": false
     },
     {
       "id": 133549,
@@ -2242,12 +2278,29 @@
       "theme": "Social housing",
       "themeId": "sociale-huurwoningen",
       "title": "Of the newly built homes in Krimpenerwaard at least 35% must be social rental housing. Currently 26% of homes in Krimpenerwaard are social rental housing.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in Krimpenerwaard moet minimaal 35% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " zijn. In Krimpenerwaard is nu 26% van de woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "Social rental housing are homes with a rent of up to €932.93 per month. These homes are intended for residents with lower incomes. Singles qualify for social rental housing if they earn less than €51,537 per year. For households of two or more people the limit is €56,910. The province of South Holland wants all municipalities to ensure that at least thirty percent of all homes are designated for social rent. In Krimpenerwaard it has been agreed that 30 to 34 percent of all new-build homes must be social rental housing.",
       "pro": "Some parties believe this standard ensures all residents have a fair chance of obtaining an affordable home in their own municipality. Parties also say the waiting lists for social rental housing are too long.",
       "con": "Some parties also believe that a 35% cap will make the housing supply not diverse enough. Another argument from parties is that such a standard could mean that building is not possible in some situations.",
-      "isShootout": false,
-      "titleEn": "Of the newly built homes in Krimpenerwaard at least 35% must be social rental housing. Currently 26% of homes in Krimpenerwaard are social rental housing.",
-      "themeEn": "Social housing"
+      "isShootout": false
     },
     {
       "id": 133561,
@@ -2255,12 +2308,22 @@
       "theme": "Citizens' assembly",
       "themeId": "burgerberaad",
       "title": "For important decisions the municipality should ask residents for their opinion via a citizens' assembly.",
+      "titleParts": [
+        {
+          "text": " Bij belangrijke besluiten moet de gemeente de inwoners om hun mening vragen via een "
+        },
+        {
+          "text": "burgerberaad",
+          "glossary": "A group of residents chosen by lot that advises politicians or helps decide on a specific issue."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "In a citizen assembly the municipality asks a diverse group of residents for advice on an important topic. Which residents may participate is determined by a lottery. The municipal council ultimately makes the decision itself and may therefore decide whether or not to act on the assembly’s advice.",
       "pro": "Some parties think a citizens' assembly will make residents more likely to support municipal decisions. It is also said that a citizens' assembly reduces the distance between residents and the municipality.",
       "con": "Some parties think the municipal council has already been elected by residents and may therefore make decisions on their behalf. There are also parties that find a citizens' assembly complicated and expensive.",
-      "isShootout": false,
-      "titleEn": "For important decisions the municipality should ask residents for their opinion via a citizens' assembly.",
-      "themeEn": "Citizens' assembly"
+      "isShootout": false
     },
     {
       "id": 133569,
@@ -2271,9 +2334,7 @@
       "moreInfo": "Entrepreneurs always have to deal with rules. The national government has rules that apply to all companies in the country, for example rules about nitrogen or building regulations. Many of these rules are in the Environmental Planning Act (Omgevingswet). A municipality can also make additional rules that apply only to businesses within the municipality. Those rules can cover things like the spaces businesses may use, the noise they may produce, or special municipal taxes.",
       "pro": "Some parties think the municipality should give entrepreneurs room to do business and not obstruct them. Another argument they mention is that imposing fewer rules allows entrepreneurs to innovate more.",
       "con": "Parties opposing this motion argue, among other things, that rules are needed to protect the environment and make the economy more sustainable. And some parties believe national rules cannot solve all local problems.",
-      "isShootout": false,
-      "titleEn": "The municipality should not impose more rules on businesses in Krimpenerwaard than the national government already does.",
-      "themeEn": "Rules for SMEs"
+      "isShootout": false
     },
     {
       "id": 133574,
@@ -2284,9 +2345,7 @@
       "moreInfo": "People who flee their country because of war or personal persecution can apply for asylum in the Netherlands. The Immigration and Naturalisation Service (IND) assesses their application and decides whether they may stay. During that procedure these asylum seekers must be accommodated. The Minister for Asylum and Migration made a decision on 20 December 2024 about the distribution of reception places for asylum seekers in the province of South Holland, which includes Krimpenerwaard. The national government requires the municipality of Krimpenerwaard to provide reception places for about 300 asylum seekers.",
       "pro": "One argument parties use is that Krimpenerwaard must comply with the law. Parties also think finding reception locations takes too long and the municipality should therefore speed up. Some parties add that quickly accommodating asylum seekers signals the municipality has people's best interests at heart.",
       "con": "One reason parties mention is that there are no suitable reception places in Krimpenerwaard. Some parties also think the municipality is already doing enough in housing asylum seekers. Furthermore, some parties believe that municipalities currently providing less reception should be the ones to act first.",
-      "isShootout": false,
-      "titleEn": "Under a national law Krimpenerwaard must accommodate about 300 asylum seekers. The municipality must comply with this as soon as possible.",
-      "themeEn": "Asylum accommodation"
+      "isShootout": false
     },
     {
       "id": 133568,
@@ -2297,9 +2356,7 @@
       "moreInfo": "The municipal council determines each year how much residents must pay to bury or inter a loved one in a municipal cemetery. Residents also pay grave rights for using a grave. These grave rights can be bought off for twenty or thirty years. All these fees together form the so-called “funeral rights.” At the moment residents of Krimpenerwaard pay less in funeral rights than the municipality’s costs, causing the municipality to operate at a loss on this service.",
       "pro": "Some parties say current burial fees do not generate enough income for the municipality to break even. They also argue that raising these prices would provide funds for the maintenance and expansion of cemeteries.",
       "con": "Some parties think burial is already expensive enough and should not become unaffordable. Parties also believe the municipality should handle costs around farewells and mourning carefully.",
-      "isShootout": false,
-      "titleEn": "The fees for grave plots in the municipality should be increased.",
-      "themeEn": "Burial rights"
+      "isShootout": false
     },
     {
       "id": 133577,
@@ -2310,9 +2367,7 @@
       "moreInfo": "A municipality can take various measures to make neighborhoods greener. One such measure is replacing paving stones on land owned by the municipality. Instead of stones the municipality can create grass, trees or flower beds.",
       "pro": "Replacing paving stones with greenery can counteract overheating and problems with excess water. Some parties also believe it increases biodiversity and livability.",
       "con": "Other parties believe that giving up streets comes at the expense of accessibility. They also cite the negative consequences for people who have difficulty walking or who use wheelchairs.",
-      "isShootout": false,
-      "titleEn": "The municipality must replace 10% of the paving stones with greenery.",
-      "themeEn": "Replacing stones"
+      "isShootout": false
     },
     {
       "id": 133582,
@@ -2320,12 +2375,22 @@
       "theme": "Ambulance stations",
       "themeId": "ambulanceposten",
       "title": "The municipality must help fund a new ambulance station in Krimpenerwaard-West.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet een nieuwe ambulancepost in Krimpenerwaard-West "
+        },
+        {
+          "text": "financieel",
+          "glossary": "Something related to money."
+        },
+        {
+          "text": " mede mogelijk maken."
+        }
+      ],
       "moreInfo": "In the Netherlands the Regional Ambulance Services (RAV) are responsible for ambulance care in a region. The placement of ambulance posts is therefore determined by the region and not by the municipality. A municipality can encourage the arrival of a new ambulance post by providing financial support. The only ambulance post in Krimpenerwaard was recently moved from Zuidbroek (Berkenwoude) to Bergambacht.",
       "pro": "Some parties cite the importance of ambulances being able to arrive quickly. Others believe a new ambulance station could save lives.",
       "con": "Some parties also say ambulances can already arrive on-site quickly enough. They also say the ambulance station is a matter for the safety region and that the municipality should therefore not contribute financially.",
-      "isShootout": false,
-      "titleEn": "The municipality must help fund a new ambulance station in Krimpenerwaard-West.",
-      "themeEn": "Ambulance stations"
+      "isShootout": false
     },
     {
       "id": 133571,
@@ -2336,9 +2401,7 @@
       "moreInfo": "People who apply for asylum in the Netherlands are usually entitled to accommodation. Krimpenerwaard also accommodates asylum seekers. When designating a reception location the municipality can decide that the accommodation should be temporary, for example for a period of three years as is the case for a reception site in Haastrecht. Another possibility is that a reception location has no end date and is therefore permanent.",
       "pro": "Some parties believe an end date provides clarity for local residents. They also say residents are more likely to accept a reception location if a closing date is promised.",
       "con": "Moving temporary locations costs a lot of money, say parties who oppose this motion. Some parties also think a permanent shelter is more humane for the people staying in it.",
-      "isShootout": false,
-      "titleEn": "Reception locations for asylum seekers may be in use for a maximum of three years.",
-      "themeEn": "Reception centres for asylum seekers"
+      "isShootout": false
     },
     {
       "id": 133578,
@@ -2349,9 +2412,7 @@
       "moreInfo": "Agreements have been made in the region about generating sufficient energy. A municipality can, for example, generate energy with solar panels. Those panels can be placed on large roofs, but a municipality can also choose to build a solar field: a piece of land covered with solar panels. Under the agreements Krimpenerwaard must also contribute to energy generation, but so far the municipality has not found a suitable site for a solar field.",
       "pro": "Other parties argue that if the municipality designates locations itself, it retains control over the landscape of Krimpenerwaard. Some also think ground-mounted solar panels can help achieve the targets set in the Regional Energy Strategy.",
       "con": "Some parties believe there is no need for solar panels on land if panels can still be placed on roofs. Parties also hold the view that solar panels damage the landscape.",
-      "isShootout": false,
-      "titleEn": "The municipality must designate a site where ground-mounted solar panels can be installed.",
-      "themeEn": "Solar farms on land"
+      "isShootout": false
     },
     {
       "id": 133570,
@@ -2362,9 +2423,7 @@
       "moreInfo": "There are different ways to involve citizens in municipal decisions, such as a referendum or a citizen assembly. A municipality can also try to involve specific groups of residents in its policies, such as entrepreneurs. In Krimpenerwaard the municipality, for example, invites entrepreneurs to the town hall to discuss its plans. There are also entrepreneurs’ associations in Krimpenerwaard that represent business interests.",
       "pro": "Parties that want more involvement from entrepreneurs say, for example, that entrepreneurs have a lot of local knowledge and understand the practical realities.",
       "con": "Some parties opposing this motion think all residents should be involved equally, not just entrepreneurs.",
-      "isShootout": false,
-      "titleEn": "The municipality should involve businesses more in planning.",
-      "themeEn": "Consultation with businesses"
+      "isShootout": false
     },
     {
       "id": 133560,
@@ -2375,9 +2434,7 @@
       "moreInfo": "An advisory council is a group of people with a lot of knowledge about the matters they advise on. This group provides advice to the mayor and aldermen and/or to the municipal council about their policies. The advisory council can give advice when the municipality asks for it, but it can also advise unsolicited if it deems that necessary. In Krimpenerwaard, for example, the Advisory Council for the Social Domain and the Clients’ Council for Social Affairs are active, but there is not an advisory council for every locality.",
       "pro": "Some parties believe advisory councils increase residents' engagement. They also say every locality has its own problems, which this makes more visible.",
       "con": "Parties that oppose this say, for example, that an advisory council in every village leads to unrealistic expectations and possible disappointment. Some parties also believe there are already enough ways for residents to have a say.",
-      "isShootout": false,
-      "titleEn": "Each town in Krimpenerwaard should have its own advisory council where residents can have input on municipal plans.",
-      "themeEn": "Advisory councils"
+      "isShootout": false
     },
     {
       "id": 133551,
@@ -2388,9 +2445,7 @@
       "moreInfo": "The national government and municipalities can financially help residents with low incomes. There are schemes for that. A municipality can, for example, provide social assistance or allowances, or waive municipal taxes. In Krimpenerwaard there are schemes for people who earn up to 120% of the social minimum (the amount someone needs to live on). That 120% is called the income threshold. There are also schemes in Krimpenerwaard with a threshold of 130%. The higher the threshold, the more people can apply for help from the municipality.",
       "pro": "Some parties think more people should be able to participate actively in society without financial worries holding them back. They also say more people are getting into trouble because life is becoming more expensive.",
       "con": "Parties opposed to the motion argue, among other things, that residents are less motivated to provide for their own income when they receive subsidies from the municipality. Some parties also think poverty should be addressed at the national level and the municipality should not spend extra money on it now.",
-      "isShootout": false,
-      "titleEn": "The municipality should raise the income threshold for receiving poverty assistance.",
-      "themeEn": "Combating poverty"
+      "isShootout": false
     },
     {
       "id": 133580,
@@ -2401,9 +2456,7 @@
       "moreInfo": "Many protected meadow birds live in Krimpenerwaard, such as the black-tailed godwit (grutto), the redshank (tureluur) and the lapwing (kievit). The province of South Holland has designated special areas where many meadow birds live and which therefore receive extra attention and protection. At the moment building homes in these areas is not allowed without proof that the construction will not damage the birds’ habitat.",
       "pro": "Some parties in favor of this motion consider it more important that sufficient housing is available for residents. It is also said that birds can still nest near new-build sites.",
       "con": "Some parties think development disrupts the open landscape where the birds live. Development also reduces the birds' breeding opportunities, they say.",
-      "isShootout": false,
-      "titleEn": "New development may be permitted in areas with many meadow birds.",
-      "themeEn": "Building near meadow bird habitats"
+      "isShootout": false
     },
     {
       "id": 133590,
@@ -2414,9 +2467,7 @@
       "moreInfo": "De Bastille is the only youth club in Schoonhoven. Activities are organized there and young people can meet each other. The club stood in Spoorstraat for 35 years. Because houses are being built there, De Bastille had to move to another location. It is now temporarily housed in the old station building, but a permanent location has not yet been found. The municipality is currently researching that.",
       "pro": "Because De Bastille had to leave its previous location due to the municipality, some parties believe the municipality should find a new place for the youth club. They also think the municipality should provide young people with a pleasant, safe meeting place.",
       "con": "Other parties consider it De Bastille's own responsibility to find a new location. It is also said that it would become too expensive if the municipality had to arrange this for multiple clubs and associations.",
-      "isShootout": false,
-      "titleEn": "The municipality must arrange and pay for a new location for youth club Bastille in Schoonhoven.",
-      "themeEn": "Bastille youth club"
+      "isShootout": false
     },
     {
       "id": 133536,
@@ -2427,9 +2478,7 @@
       "moreInfo": "The municipality has an Environmental Programme for Business Parks. It states that 35 hectares of business park area must be added in Krimpenerwaard by 2040. This can be done by creating new business parks or by expanding existing ones. At present there are 31 business parks in the municipality of Krimpenerwaard.",
       "pro": "Some parties believe more business parks are good for employment. Others support this because having enough space makes Krimpenerwaard attractive to companies.",
       "con": "Other parties, for example, believe there are already enough business parks in Krimpenerwaard. Some parties also think the municipality's space should be used for other things, such as housing.",
-      "isShootout": false,
-      "titleEn": "More business parks should be created in Krimpenerwaard.",
-      "themeEn": "Business parks"
+      "isShootout": false
     },
     {
       "id": 133593,
@@ -2440,9 +2489,7 @@
       "moreInfo": "The public transport company Qbuzz operates public transport in the municipality of Krimpenerwaard. Children up to and including 11 years old may travel free when accompanied by an adult. At the moment public transport within Krimpenerwaard is not free for all young people up to 18. The municipality does offer a free public-transport pass to low-income residents. This pass can be used on weekdays during off-peak hours and all day on weekends. Children aged 12 to 17 from families covered by this scheme receive their own OV pass.",
       "pro": "Some parties support free public transport for all young people up to 18 years old, because it makes it easier for them to participate in education, sports and social activities.",
       "con": "An argument against the motion is that young people from low-income families can already travel for free now, and that this arrangement is sufficient.",
-      "isShootout": false,
-      "titleEn": "Public transport within the municipality should be free for all young people up to 18 years old.",
-      "themeEn": "Free public transport for young people"
+      "isShootout": false
     },
     {
       "id": 133556,
@@ -2453,9 +2500,7 @@
       "moreInfo": "The municipality of Krimpenerwaard works with the Armoedefonds Foundation to combat “menstrual poverty.” The foundation supplies free menstrual products via special distribution points, for example at schools. There are eight of these distribution points in Krimpenerwaard. The municipality has made €3,576 available for this this year.",
       "pro": "Some parties think providing free tampons and sanitary pads is not the municipality's responsibility. They also say there are already other schemes people with little money can use.",
       "con": "There are parties who believe everyone in the municipality of Krimpenerwaard should be able to access tampons and sanitary pads, including people who cannot afford to buy them themselves. Some parties say this also contributes to residents' health and self-confidence.",
-      "isShootout": false,
-      "titleEn": "The municipality should stop distributing free tampons and sanitary pads.",
-      "themeEn": "Free menstrual products"
+      "isShootout": false
     },
     {
       "id": 133564,
@@ -2463,12 +2508,22 @@
       "theme": "Silver museum",
       "themeId": "zilvermuseum",
       "title": "The municipality should again give more subsidies to the Zilvermuseum in Schoonhoven.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet het Zilvermuseum in Schoonhoven weer meer "
+        },
+        {
+          "text": "subsidie",
+          "glossary": "Money the government gives to citizens, businesses, and organizations to support them."
+        },
+        {
+          "text": " gaan geven."
+        }
+      ],
       "moreInfo": "The municipal council decided in 2024 to give more subsidy to the Silver Museum and to secure this increase for the long term. In return the museum must make a plan to manage from 2026 with €13,500 less subsidy. The Silver Museum can apply for additional subsidies from the municipality, for example for new activities. In total the museum receives about €390,000 in subsidy per year. Current agreements for the coming years state that the subsidy will be gradually reduced.",
       "pro": "Some parties who favor more subsidy argue that the extra tourism will generate enough revenue to recoup the subsidy. Others believe the museum must retain its appeal to people from across the country.",
       "con": "Parties opposing more subsidy, for example, believe the museum already receives enough funding. It is also argued that the Silver Museum itself should seek more income.",
-      "isShootout": false,
-      "titleEn": "The municipality should again give more subsidies to the Zilvermuseum in Schoonhoven.",
-      "themeEn": "Silver museum"
+      "isShootout": false
     },
     {
       "id": 133542,
@@ -2479,9 +2534,7 @@
       "moreInfo": "Farmers need a lot of land for their businesses. That land is usually their own property, but they cannot do whatever they want with it. The municipality determines the function of land in the zoning plan (omgevingsplan). The designation of a piece of land can be, for example, housing, shops or agriculture. If a farmer wants to do something else on land designated as agriculture, the municipality must change the zoning plan.",
       "pro": "The most mentioned advantage is a reduction in the housing shortage without the need for large-scale new construction. Some also see opportunities for multigenerational homes on farmyards, allowing families and businesses to stay together.",
       "con": "Parties opposing the motion cite the loss of agricultural land as an argument. Some parties would also prefer development on the edges of villages rather than on farmyards.",
-      "isShootout": false,
-      "titleEn": "It should be possible for farmers to build houses themselves on their land.",
-      "themeEn": "Building on agricultural land"
+      "isShootout": false
     },
     {
       "id": 133537,
@@ -2492,9 +2545,7 @@
       "moreInfo": "The municipality determines until what time cafes and restaurants may stay open. These times are set in the General Local Regulation (Algemene Plaatselijke Verordening, APV). At the moment hospitality businesses in Krimpenerwaard may stay open until 02:00. A municipal council can decide to allow free opening hours, in which case cafes and restaurants may decide for themselves how late to stay open.",
       "pro": "Some parties believe hospitality businesses should be given the freedom to operate as they wish.",
       "con": "Opponents of this motion fear that extended opening hours will lead to more nuisance for residents living near hospitality businesses.",
-      "isShootout": false,
-      "titleEn": "Owners of cafés and restaurants should be able to set their own opening hours.",
-      "themeEn": "Closing times for bars and restaurants"
+      "isShootout": false
     },
     {
       "id": 133584,
@@ -2505,9 +2556,7 @@
       "moreInfo": "Family coaches support young people and their parents with parenting and growing-up questions. They are professionals who also know about families and children with disabilities, mental health issues and behavioral problems. The municipality of Krimpenerwaard does not currently deploy its own family coaches, but it does offer other forms of parenting support to residents.",
       "pro": "Some parties say deploying family coaches can prevent large costs in youth care. They also argue family coaches stop problems from getting out of hand. Furthermore, parties find it important that children grow up safe and stable.",
       "con": "Parties opposing the motion say, for example, that the current deployment of family coaches is already sufficient. It is also argued that families in difficulty can already turn to aid agencies. Some parties also believe parenting is the responsibility of parents.",
-      "isShootout": false,
-      "titleEn": "The municipality should spend more money on deploying family coaches who can help families in difficult situations.",
-      "themeEn": "Family coaches"
+      "isShootout": false
     },
     {
       "id": 133546,
@@ -2515,12 +2564,22 @@
       "theme": "Enforcement officers",
       "themeId": "handhavers",
       "title": "Krimpenerwaard should hire more municipal enforcement officers (BOAs) who focus on safety.",
+      "titleParts": [
+        {
+          "text": " In Krimpenerwaard moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "People who, for the municipality, check whether citizens and businesses comply with the rules."
+        },
+        {
+          "text": " (boa’s) komen die zich met veiligheid bezighouden."
+        }
+      ],
       "moreInfo": "The municipality is responsible for enforcement of minor offenses, for example parking without paying, cycling on the pavement or littering in nature. People who do that receive a fine. The municipality’s enforcement officers are BOAs (special enforcement officers). Police officers are general enforcement officers and have different tasks and powers. There are also BOAs who do not work for the municipality, for example on trains. In the municipality of Krimpenerwaard there are currently 5–10 BOAs. They work Monday to Saturday between 09:00 and 24:00. These BOAs do not work on Sundays.",
       "pro": "Some parties say increased deployment of municipal enforcement officers (BOAs) makes residents of Krimpenerwaard feel safer. They also believe more BOAs make it easier to enforce rules more quickly and in a targeted way. Relieving the police is also cited as a reason to support more BOAs.",
       "con": "Parties opposing the motion, for example, say they already consider Krimpenerwaard safe enough. Some parties also think deploying more enforcement officers does not automatically make Krimpenerwaard safer. The high costs are also cited as an argument against deploying more enforcement officers.",
-      "isShootout": false,
-      "titleEn": "Krimpenerwaard should hire more municipal enforcement officers (BOAs) who focus on safety.",
-      "themeEn": "Enforcement officers"
+      "isShootout": false
     },
     {
       "id": 133562,
@@ -2531,9 +2590,7 @@
       "moreInfo": "October 11 is Coming Out Day. On this day people from the LGBTQIA+ community celebrate being able to come out about their sexual orientation. The rainbow flag is a symbol of this community. Last year the municipality of Krimpenerwaard raised the rainbow flag at the Schoonhoven town hall on national Coming Out Day. The municipality can choose to display the rainbow flag at other municipal buildings as well. Residents can also hang the rainbow flag at their own house or association.",
       "pro": "Some parties feel the rainbow flag signals that everyone in Krimpenerwaard is welcome and may be themselves. They also believe the municipality should show it stands for equality and supports human rights. Finally, they say LGBTI+ residents will be better accepted in Krimpenerwaard if there is more awareness.",
       "con": "Other parties believe it is sufficient to fly the rainbow flag at the town hall. Some parties argue that the government should remain neutral. There are also parties who think certain groups should not be favored over others.",
-      "isShootout": false,
-      "titleEn": "On National Coming Out Day the rainbow flag should be flown in all towns and villages of Krimpenerwaard.",
-      "themeEn": "Rainbow flag"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

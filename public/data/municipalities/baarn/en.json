@@ -1470,9 +1470,7 @@
       "moreInfo": "Theater de Speeldoos has been Baarn's cultural center since 1975. The building, with its characteristic \"red plush\" atmosphere, is however outdated and no longer meets current standards. This has led to discussions in the municipal council about renovation or new construction.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Theater de Speeldoos should be completely rebuilt on its current site.",
-      "themeEn": "Theater De Speeldoos"
+      "isShootout": false
     },
     {
       "id": 169229,
@@ -1483,9 +1481,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The new college of mayor and aldermen must have an equal number of men and women.",
-      "themeEn": "Mayor and municipal executive"
+      "isShootout": false
     },
     {
       "id": 169235,
@@ -1496,9 +1492,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should use its reserve fund only for unexpected expenses.",
-      "themeEn": "General reserve"
+      "isShootout": false
     },
     {
       "id": 169241,
@@ -1509,9 +1503,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "By 2035 Baarn must emit no greenhouse gases so the municipality no longer contributes to global warming.",
-      "themeEn": "Baarn climate-neutral"
+      "isShootout": false
     },
     {
       "id": 169231,
@@ -1522,9 +1514,7 @@
       "moreInfo": "In a referendum the municipality puts a single-issue question to voters, who can vote for or against. All residents of the municipality who are 18 or older may vote. Both the municipal council and citizens can request a referendum. The result is not binding, which means the municipality does not have to follow it.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The residents of Baarn should be able to give their opinion on important issues via a referendum.",
-      "themeEn": "Referendum"
+      "isShootout": false
     },
     {
       "id": 169238,
@@ -1535,9 +1525,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should provide fewer subsidies.",
-      "themeEn": "Fewer subsidies"
+      "isShootout": false
     },
     {
       "id": 169247,
@@ -1548,9 +1536,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should cooperate with plans for wind turbines or fields of solar panels.",
-      "themeEn": "Wind turbines and solar panels"
+      "isShootout": false
     },
     {
       "id": 169232,
@@ -1558,12 +1544,22 @@
       "theme": "Geerenweg sports facilities",
       "themeId": "sportvoorzieningen-geerenweg",
       "title": "The municipality should expand the sports facilities along Geerenweg, providing space for all sports.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de sport"
+        },
+        {
+          "text": "voorzieningen",
+          "glossary": "Buildings or services needed for daily life, such as roads, sports facilities or healthcare."
+        },
+        {
+          "text": " langs de Geerenweg uitbreiden, met ruimte voor alle sporten."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should expand the sports facilities along Geerenweg, providing space for all sports.",
-      "themeEn": "Geerenweg sports facilities"
+      "isShootout": false
     },
     {
       "id": 169263,
@@ -1574,9 +1570,7 @@
       "moreInfo": "The current Housing Program of the municipality of Baarn states that in every building plan the share of social rental housing must be at least 30%.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "At least 40% of the new homes built in Baarn must be social-rental housing. Currently 28% of homes in the Netherlands are social-rental.",
-      "themeEn": "Social housing"
+      "isShootout": false
     },
     {
       "id": 169230,
@@ -1587,9 +1581,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should ask for less advice from external research firms.",
-      "themeEn": "Research agencies"
+      "isShootout": false
     },
     {
       "id": 169249,
@@ -1600,9 +1592,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The practice of housing many asylum seekers in one location in our municipality should end as soon as possible.",
-      "themeEn": "Small-scale asylum reception"
+      "isShootout": false
     },
     {
       "id": 169266,
@@ -1613,9 +1603,7 @@
       "moreInfo": "PIT Baarn is the broad welfare organization that works to ensure all residents can participate in the community — from parenting support to meeting activities for the elderly, and support for residents in poverty or with debts. In 2025 the municipality cut PIT's budget by €200,000.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must not cut funding for PIT Baarn, the service desk for help with poverty and debt.",
-      "themeEn": "Debt counseling"
+      "isShootout": false
     },
     {
       "id": 169255,
@@ -1626,9 +1614,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be more CCTV surveillance in Baarn.",
-      "themeEn": "Camera surveillance"
+      "isShootout": false
     },
     {
       "id": 169273,
@@ -1639,9 +1625,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should designate more parking spaces as charging points for electric cars.",
-      "themeEn": "Electric vehicle charging stations"
+      "isShootout": false
     },
     {
       "id": 169240,
@@ -1652,9 +1636,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should work to attract more tourists to Baarn and the surrounding area.",
-      "themeEn": "Promote tourism"
+      "isShootout": false
     },
     {
       "id": 169257,
@@ -1662,12 +1644,22 @@
       "theme": "Enforcement officers",
       "themeId": "handhavers",
       "title": "Baarn should have more municipal enforcement officers (BOAs) to enforce safety, waste, environmental rules, and fireworks regulations.",
+      "titleParts": [
+        {
+          "text": " In Baarn moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhaver",
+          "glossary": "Someone who works for the municipality and ensures everyone follows the rules."
+        },
+        {
+          "text": "s (boa’s) komen die gaan handhaven op veiligheid, afval, milieu en vuurwerk."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Baarn should have more municipal enforcement officers (BOAs) to enforce safety, waste, environmental rules, and fireworks regulations.",
-      "themeEn": "Enforcement officers"
+      "isShootout": false
     },
     {
       "id": 169272,
@@ -1678,9 +1670,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents who want to share cars should receive financial support from the municipality.",
-      "themeEn": "Car-sharing"
+      "isShootout": false
     },
     {
       "id": 169276,
@@ -1691,9 +1681,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should open a neighborhood community room in every area where residents can have coffee or take part in activities.",
-      "themeEn": "Neighborhood community center"
+      "isShootout": false
     },
     {
       "id": 169267,
@@ -1704,9 +1692,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should open a modern sheltered workshop for everyone who has difficulty finding work.",
-      "themeEn": "Sheltered workshop"
+      "isShootout": false
     },
     {
       "id": 169269,
@@ -1717,9 +1703,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Parking in Baarn should remain free.",
-      "themeEn": "Free parking"
+      "isShootout": false
     },
     {
       "id": 169260,
@@ -1730,9 +1714,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Vacant offices should be converted into housing with subsidies from the municipality.",
-      "themeEn": "Offices converted into homes"
+      "isShootout": false
     },
     {
       "id": 169237,
@@ -1740,12 +1722,22 @@
       "theme": "Events tax",
       "themeId": "evenementenbelasting",
       "title": "Organizers of events with more than one thousand visitors should pay a tax to cover the municipality's costs.",
+      "titleParts": [
+        {
+          "text": " Wie een "
+        },
+        {
+          "text": "evenement",
+          "glossary": "A temporary, organized gathering. For example a street party, a flea market, or a music festival."
+        },
+        {
+          "text": " organiseert met meer dan duizend bezoekers, moet daarover belasting gaan betalen om de kosten voor de gemeente te dekken."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Organizers of events with more than one thousand visitors should pay a tax to cover the municipality's costs.",
-      "themeEn": "Events tax"
+      "isShootout": false
     },
     {
       "id": 169278,
@@ -1753,12 +1745,22 @@
       "theme": "Youth care",
       "themeId": "jeugdzorg",
       "title": "The municipality must not spend more money on youth care.",
+      "titleParts": [
+        {
+          "text": " De gemeente mag niet meer geld uitgeven aan "
+        },
+        {
+          "text": "jeugdzorg",
+          "glossary": "Support for young people with problems, for example mental health care, foster care, day programmes, and help with dyslexia."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "Since 2015 the municipality of Baarn has been responsible for youth care. For that reason it has engaged youth support from the Local Team and specialist youth care from MetMaya. Partly because more young people suffer from issues such as stress, mental health problems or loneliness, the costs the municipality pays for youth care have risen sharply.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must not spend more money on youth care.",
-      "themeEn": "Youth care"
+      "isShootout": false
     },
     {
       "id": 169252,
@@ -1769,9 +1771,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "More educational activities should be organized in the library.",
-      "themeEn": "Expand the library"
+      "isShootout": false
     },
     {
       "id": 169271,
@@ -1782,9 +1782,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The Brink in Baarn town center should become car-free.",
-      "themeEn": "Car-free Brink"
+      "isShootout": false
     },
     {
       "id": 169285,
@@ -1795,9 +1793,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should use neighborhood coaches to try to improve livability in the neighborhoods.",
-      "themeEn": "Neighborhood coaches"
+      "isShootout": false
     },
     {
       "id": 169287,
@@ -1808,9 +1804,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "When allocating social housing, applicants from the municipality should be given priority.",
-      "themeEn": "Housing construction"
+      "isShootout": false
     },
     {
       "id": 169239,
@@ -1821,9 +1815,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should use events to try to attract more people to the town center and the Brink.",
-      "themeEn": "Vibrant town center"
+      "isShootout": false
     },
     {
       "id": 169288,
@@ -1834,9 +1826,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should invest in tailored public transport between the town centers.",
-      "themeEn": "Public transport"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

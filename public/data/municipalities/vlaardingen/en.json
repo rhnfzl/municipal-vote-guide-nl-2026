@@ -3105,12 +3105,29 @@
       "theme": "Sustainable businesses",
       "themeId": "duurzame-bedrijven",
       "title": "Only companies that operate sustainably should be allowed to establish themselves in our municipality from now on.",
+      "titleParts": [
+        {
+          "text": " Alleen bedrijven die "
+        },
+        {
+          "text": "duurzaam",
+          "glossary": "Something you can (re)use for a long time."
+        },
+        {
+          "text": " werken mogen zich voortaan in onze gemeente "
+        },
+        {
+          "text": "vestigen",
+          "glossary": "To build; to establish or set up (a building, organization or household)."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Only companies that operate sustainably should be allowed to establish themselves in our municipality from now on.",
-      "themeEn": "Sustainable businesses"
+      "isShootout": false
     },
     {
       "id": 239747,
@@ -3118,12 +3135,22 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "Residents of Vlaardingen must be able to express their opinion on important issues via a referendum.",
+      "titleParts": [
+        {
+          "text": " De inwoners van Vlaardingen moeten over belangrijke onderwerpen hun mening kunnen geven via een "
+        },
+        {
+          "text": "referendum",
+          "glossary": "A public consultation where residents can express their opinion on a political issue. The municipal council is not obliged to follow the result; legally it cannot."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents of Vlaardingen must be able to express their opinion on important issues via a referendum.",
-      "themeEn": "Referendum"
+      "isShootout": false
     },
     {
       "id": 239752,
@@ -3131,12 +3158,22 @@
       "theme": "Tourism",
       "themeId": "toerisme",
       "title": "The municipality must invest more money in a promotional campaign to attract more tourists to Vlaardingen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld steken in een "
+        },
+        {
+          "text": "promotiecampagne",
+          "glossary": "A series of advertisements on, for example, billboards, television, and social media."
+        },
+        {
+          "text": " om meer toeristen naar Vlaardingen te krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must invest more money in a promotional campaign to attract more tourists to Vlaardingen.",
-      "themeEn": "Tourism"
+      "isShootout": false
     },
     {
       "id": 239765,
@@ -3147,9 +3184,7 @@
       "moreInfo": "Under the Distribution Act Vlaardingen must provide 100 reception places for asylum seekers. Initially that was 351, but because the municipality also accommodates many Ukrainians the number was set at 100. The college of mayor and aldermen has designated Zuidbuurtseweg 1 as the reception location. The municipal council has approved this. Research shows that there are probably protected animals (bats) at the location. The preparations have therefore been delayed.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "A reception center for asylum seekers may be located on Zuidbuurtseweg.",
-      "themeEn": "Asylum shelter on Zuidbuurtseweg"
+      "isShootout": false
     },
     {
       "id": 239749,
@@ -3160,9 +3195,7 @@
       "moreInfo": "Based on its population Vlaardingen may have 7 aldermen. In the past Vlaardingen usually had 5 aldermen. At the moment Vlaardingen has 6 aldermen. The aldermen and the mayor divide the municipality’s tasks among themselves. If there remain 6 aldermen and one of them focuses only on elderly affairs, the other aldermen and the mayor will take on more other subjects. A 7th full-time alderman costs about €120,000 extra per year.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Vlaardingen must appoint an alderman who focuses solely on policies for the elderly.",
-      "themeEn": "Alderman for the elderly"
+      "isShootout": false
     },
     {
       "id": 239757,
@@ -3170,12 +3203,22 @@
       "theme": "Wood burning",
       "themeId": "houtstook",
       "title": "In Vlaardingen the use of open fireplaces and wood stoves must remain allowed under all weather conditions.",
+      "titleParts": [
+        {
+          "text": " In Vlaardingen moet het gebruik van open haarden en "
+        },
+        {
+          "text": "houtkachels",
+          "glossary": "Wood-burning stoves used to heat a home."
+        },
+        {
+          "text": " onder alle weersomstandigheden toegestaan blijven."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "In Vlaardingen the use of open fireplaces and wood stoves must remain allowed under all weather conditions.",
-      "themeEn": "Wood burning"
+      "isShootout": false
     },
     {
       "id": 239777,
@@ -3183,12 +3226,29 @@
       "theme": "Social housing",
       "themeId": "sociale-huurwoningen",
       "title": "Of the newly built homes in Vlaardingen, at least 35% must be social rental housing. In Vlaardingen, 40% of all homes are currently social rentals.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in Vlaardingen moet minimaal 35% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " zijn. In Vlaardingen is nu 40 % van alle woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Of the newly built homes in Vlaardingen, at least 35% must be social rental housing. In Vlaardingen, 40% of all homes are currently social rentals.",
-      "themeEn": "Social housing"
+      "isShootout": false
     },
     {
       "id": 239753,
@@ -3199,9 +3259,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Owners of shops that have been empty for more than six months must receive a fine from the municipality.",
-      "themeEn": "Vacant shops"
+      "isShootout": false
     },
     {
       "id": 239764,
@@ -3212,9 +3270,7 @@
       "moreInfo": "In Vlaardingen there is a temporary neighborhood with almost 400 flexible homes. More than 1,000 Ukrainian refugees live there. The neighborhood was built on land intended for businesses and industry. The municipality receives funds from the national government for this temporary reception. The reception was originally intended to remain until 2026. In July 2025 the municipal council decided to extend the reception until 2030 for about 750–800 Ukrainian refugees. It was also decided to rent the remaining homes until 2030 to other housing seekers.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The Ukrainian neighborhood Mrija must be closed as soon as possible.",
-      "themeEn": "Ukrainian neighborhood Mrija"
+      "isShootout": false
     },
     {
       "id": 239792,
@@ -3225,9 +3281,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must invest in free public transport in the city for all elderly people.",
-      "themeEn": "Free public transport for the elderly"
+      "isShootout": false
     },
     {
       "id": 239755,
@@ -3238,9 +3292,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must hire more people over the age of 50.",
-      "themeEn": "Jobs for people over 50"
+      "isShootout": false
     },
     {
       "id": 239771,
@@ -3248,12 +3300,22 @@
       "theme": "Coffeeshops (cannabis cafés)",
       "themeId": "coffeeshops",
       "title": "The municipality should prevent the opening of new coffeeshops.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de vestiging van nieuwe "
+        },
+        {
+          "text": "coffeeshops",
+          "glossary": "Shop or café where you can buy and smoke soft drugs (hash, weed)."
+        },
+        {
+          "text": " tegenhouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should prevent the opening of new coffeeshops.",
-      "themeEn": "Coffeeshops (cannabis cafés)"
+      "isShootout": false
     },
     {
       "id": 239797,
@@ -3261,12 +3323,29 @@
       "theme": "Reduce speed",
       "themeId": "snelheid-omlaag",
       "title": "The maximum speed limit in built-up areas should be set to 30 km/h.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "maximumsnelheid",
+          "glossary": "The maximum speed that cars and motorcycles are allowed to drive on the road."
+        },
+        {
+          "text": " binnen de "
+        },
+        {
+          "text": "bebouwde kom",
+          "glossary": "An area with buildings (houses, other structures)."
+        },
+        {
+          "text": " moet naar 30 km/u."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The maximum speed limit in built-up areas should be set to 30 km/h.",
-      "themeEn": "Reduce speed"
+      "isShootout": false
     },
     {
       "id": 239763,
@@ -3274,12 +3353,29 @@
       "theme": "Integration",
       "themeId": "integratie",
       "title": "The municipality should spend more money on integrating newcomers into society.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld uitgeven aan "
+        },
+        {
+          "text": "integratie",
+          "glossary": "Newcomers learn the language and customs of the Netherlands."
+        },
+        {
+          "text": " van "
+        },
+        {
+          "text": "nieuwkomers",
+          "glossary": "People who are new to the Netherlands."
+        },
+        {
+          "text": " in de maatschappij."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should spend more money on integrating newcomers into society.",
-      "themeEn": "Integration"
+      "isShootout": false
     },
     {
       "id": 239775,
@@ -3290,9 +3386,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Vlaardingen must allow temporary low prices for alcoholic drinks in bars and restaurants. Currently, happy hours are prohibited.",
-      "themeEn": "Happy hours"
+      "isShootout": false
     },
     {
       "id": 239798,
@@ -3303,9 +3397,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must create more parking spaces on the edge of the city.",
-      "themeEn": "Parking spaces on the outskirts"
+      "isShootout": false
     },
     {
       "id": 239767,
@@ -3313,12 +3405,22 @@
       "theme": "MBO vocational training",
       "themeId": "mbo-opleidingen",
       "title": "The municipality must invest money in lobbying to bring more vocational (MBO) programs to Vlaardingen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld steken in een lobby om meer "
+        },
+        {
+          "text": "mbo",
+          "glossary": "Secondary vocational education (MBO)."
+        },
+        {
+          "text": "-opleidingen naar Vlaardingen te halen."
+        }
+      ],
       "moreInfo": "Municipalities are actually only responsible for school buildings. Educational institutions decide themselves where they offer which programs. A municipality can influence which programs are offered locally, for example by lobbying school boards. Since 2022 Vlaardingen has been promoting the \"Vlaardingen mbo-stad\" program. The program currently focuses on the sectors food, care and technology.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must invest money in lobbying to bring more vocational (MBO) programs to Vlaardingen.",
-      "themeEn": "MBO vocational training"
+      "isShootout": false
     },
     {
       "id": 239774,
@@ -3326,12 +3428,22 @@
       "theme": "Preventive searches",
       "themeId": "preventief-fouilleren",
       "title": "The municipality must allow preventive searches less often.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "preventief fouilleren",
+          "glossary": "Frisking is searching someone's clothes, pockets or bag to check whether they are carrying weapons or drugs. In preventive frisking there does not have to be a suspicion; it is done as a precaution."
+        },
+        {
+          "text": " minder vaak toestaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must allow preventive searches less often.",
-      "themeEn": "Preventive searches"
+      "isShootout": false
     },
     {
       "id": 239803,
@@ -3342,9 +3454,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must invest in more shelter places for homeless people.",
-      "themeEn": "Shelter for homeless people"
+      "isShootout": false
     },
     {
       "id": 239769,
@@ -3355,9 +3465,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must make agreements with sports clubs to reduce alcohol consumption.",
-      "themeEn": "Alcohol agreement"
+      "isShootout": false
     },
     {
       "id": 239781,
@@ -3368,9 +3476,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "More new homes must be built in the city center.",
-      "themeEn": "Housing in the city center"
+      "isShootout": false
     },
     {
       "id": 239799,
@@ -3381,9 +3487,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Vlaardingen must allocate money to obtain a connection to the Waterbus.",
-      "themeEn": "Water bus"
+      "isShootout": false
     },
     {
       "id": 239776,
@@ -3394,9 +3498,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must place cameras at waste containers.",
-      "themeEn": "Cameras at waste containers"
+      "isShootout": false
     },
     {
       "id": 239794,
@@ -3407,9 +3509,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must introduce paid parking in more neighborhoods.",
-      "themeEn": "Paid parking in more neighborhoods"
+      "isShootout": false
     },
     {
       "id": 239784,
@@ -3420,9 +3520,7 @@
       "moreInfo": "Groot Vettenoord is an outdated business park on the east side of the city. The area can be redeveloped into a more attractive business park. Housing can also be built there.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "A new residential neighborhood must be built on the Groot Vettenoord business park.",
-      "themeEn": "Groot Vettenoord"
+      "isShootout": false
     },
     {
       "id": 239761,
@@ -3430,12 +3528,22 @@
       "theme": "District heating networks",
       "themeId": "warmtenetten",
       "title": "The municipality must co-fund the construction of district heating networks.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meebetalen aan de aanleg van "
+        },
+        {
+          "text": "warmtenetten",
+          "glossary": "Network of underground pipes that brings hot water from a central source to homes and buildings, for both heating and tap water."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must co-fund the construction of district heating networks.",
-      "themeEn": "District heating networks"
+      "isShootout": false
     },
     {
       "id": 239790,
@@ -3443,12 +3551,29 @@
       "theme": "Informal care",
       "themeId": "mantelzorg",
       "title": "People receiving welfare benefits who provide informal care to a family member or acquaintance do not have to apply for jobs.",
+      "titleParts": [
+        {
+          "text": " Mensen met een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Money from the municipality for people who have no income or personal funds."
+        },
+        {
+          "text": " die een familielid of bekende verzorgen als "
+        },
+        {
+          "text": "mantelzorger",
+          "glossary": "Someone who provides unpaid and often long-term care for sick family members or friends."
+        },
+        {
+          "text": ", hoeven niet te solliciteren."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People receiving welfare benefits who provide informal care to a family member or acquaintance do not have to apply for jobs.",
-      "themeEn": "Informal care"
+      "isShootout": false
     },
     {
       "id": 239796,
@@ -3459,9 +3584,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must not designate any more parking spaces as charging spots for electric cars.",
-      "themeEn": "Electric vehicle charging stations"
+      "isShootout": false
     },
     {
       "id": 239751,
@@ -3472,9 +3595,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Cafés and restaurants must be able to determine their own opening hours.",
-      "themeEn": "Opening hours for hospitality venues"
+      "isShootout": false
     },
     {
       "id": 239804,
@@ -3485,9 +3606,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Every neighborhood in the city must have a community center.",
-      "themeEn": "Neighborhood center"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

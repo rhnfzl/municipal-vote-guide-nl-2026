@@ -1336,6 +1336,18 @@
       "theme": "Schoolzwemmen",
       "themeId": "schoolzwemmen",
       "title": "De gemeente moet geld beschikbaar stellen voor schoolzwemmen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld beschikbaar stellen voor "
+        },
+        {
+          "text": "schoolzwemmen",
+          "glossary": "Zwemlessen die vanuit de school worden georganiseerd."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1349,6 +1361,25 @@
       "theme": "Sociale huurwoningen",
       "themeId": "sociale-huurwoningen",
       "title": "De gemeente moet ervoor zorgen dat 30% van de nieuw te bouwen woningen een sociale huurwoning is. In de gemeente Staphorst is nu 10% van de woningen een sociale huurwoning.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet ervoor zorgen dat 30% van de nieuw te bouwen woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": " is. In de gemeente Staphorst is nu 10% van de woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1362,6 +1393,18 @@
       "theme": "Belasting op gebouwen",
       "themeId": "belasting-op-gebouwen",
       "title": "De onroerendezaakbelasting (ozb) moet omhoog.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "onroerendezaakbelasting",
+          "glossary": "Belasting die je betaalt als eigenaar van een gebouw of stuk grond, of gebruiker van een bedrijfspand."
+        },
+        {
+          "text": " (ozb) moet omhoog."
+        }
+      ],
       "moreInfo": "De onroerendezaakbelasting is een van de gemeentelijke belastingen en is afhankelijk van de WOZ-waarde. De WOZ-waarde is de waarde die de gemeente aan een huis toekent. WOZ staat voor Waardering Onroerende Zaken. Voor woningeigenaren in de gemeente Staphorst is het tarief in 2026 0,1005% van de WOZ-waarde.",
       "pro": "",
       "con": "",
@@ -1388,6 +1431,18 @@
       "theme": "Jongerenwerk",
       "themeId": "jongerenwerk",
       "title": "De gemeente moet meer geld steken in jongerenwerk.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld steken in "
+        },
+        {
+          "text": "jongerenwerk",
+          "glossary": "Mensen en organisaties die jongeren in de gemeente helpen met allerlei dingen."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1414,6 +1469,18 @@
       "theme": "Welstandsregels",
       "themeId": "welstandsregels",
       "title": "De gemeente moet de welstandsregels voor bouwen en verbouwen afschaffen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de "
+        },
+        {
+          "text": "welstandsregels",
+          "glossary": "In welstandsregels staat hoe de buitenkant van een gebouw eruit mag zien."
+        },
+        {
+          "text": " voor bouwen en verbouwen afschaffen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1427,6 +1494,18 @@
       "theme": "Relatietherapie",
       "themeId": "relatietherapie",
       "title": "De gemeente moet blijven zorgen voor gratis relatietherapie.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet blijven zorgen voor gratis "
+        },
+        {
+          "text": "relatietherapie",
+          "glossary": "Als mensen hun liefdesrelatie proberen te verbeteren samen met een hulpverlener."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1453,6 +1532,18 @@
       "theme": "Integratie",
       "themeId": "integratie",
       "title": "De gemeente moet meer geld uitgeven aan taallessen voor nieuwkomers.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld uitgeven aan taallessen voor "
+        },
+        {
+          "text": "nieuwkomers",
+          "glossary": "Mensen die nog niet lang in Nederland wonen."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1505,6 +1596,18 @@
       "theme": "Sociale ondernemers",
       "themeId": "sociale-ondernemers",
       "title": "De gemeente moet sociale ondernemers financieel ondersteunen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "sociale ondernemers",
+          "glossary": "sociale ondernemers hebben een bedrijf dat niet alleen winst maakt maar ook een maatschappelijke functie heeft."
+        },
+        {
+          "text": " financieel ondersteunen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1544,6 +1647,18 @@
       "theme": "Asielzoekerscentrum",
       "themeId": "asielzoekerscentrum",
       "title": "In onze gemeente moet een asielzoekerscentrum (azc) komen.",
+      "titleParts": [
+        {
+          "text": " In onze gemeente moet een "
+        },
+        {
+          "text": "asielzoekerscentrum",
+          "glossary": "Opvangcentrum voor asielzoekers. Ze wonen daar tot besloten is of ze in Nederland mogen blijven. Een asielzoekerscentrum blijft langere tijd in een gemeente staan."
+        },
+        {
+          "text": " (azc) komen."
+        }
+      ],
       "moreInfo": "Mensen die uit hun land vluchten voor oorlog of persoonlijke vervolging kunnen in Nederland asiel aanvragen. De Immigratie- en Naturalisatiedienst (IND) beoordeelt hun aanvraag en besluit of zij in Nederland mogen blijven. Tijdens die procedure moeten deze asielzoekers worden opgevangen.   In Nederland is een tekort aan opvangplekken voor asielzoekers. Eigenlijk moeten zij in een asielzoekerscentrum (azc) worden opgevangen. Dat gebouw is ingericht op wonen en er zijn voorzieningen zoals medische en sociale hulp. Kinderen kunnen in de buurt van asielzoekerscentra naar school.   De gemeente Staphorst moet vanwege de landelijke Spreidingswet 101 asielzoekers opvangen, waarvan 14 alleenstaande jongeren.",
       "pro": "",
       "con": "",
@@ -1596,6 +1711,18 @@
       "theme": "Werken met een beperking",
       "themeId": "werken-met-een-beperking",
       "title": "De gemeente moet meer geld geven aan bedrijven die mensen met een beperking in dienst nemen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld geven aan bedrijven die mensen met een "
+        },
+        {
+          "text": "beperking",
+          "glossary": "Iets dat je belemmert in het dagelijks leven. Een beperking kan lichamelijk of verstandelijk zijn of te maken hebben met horen of zien. Of combinaties daarvan."
+        },
+        {
+          "text": " in dienst nemen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1609,6 +1736,25 @@
       "theme": "Vergunningkosten evenementen",
       "themeId": "vergunningkosten-evenementen",
       "title": "De gemeente moet vergunningkosten voor evenementen afschaffen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "vergunningkosten",
+          "glossary": "Met een vergunning geeft de gemeente toestemming om iets te mogen doen."
+        },
+        {
+          "text": " voor "
+        },
+        {
+          "text": "evenementen",
+          "glossary": "Een tijdelijke, georganiseerde bijeenkomst. Bijvoorbeeld een straatfeest, een rommelmarkt of een muziekfestival."
+        },
+        {
+          "text": " afschaffen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",

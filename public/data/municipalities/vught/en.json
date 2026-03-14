@@ -896,9 +896,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should replace Theater de Speeldoos with a new socio-cultural center.",
-      "themeEn": "Theater De Speeldoos"
+      "isShootout": false
     },
     {
       "id": 126168,
@@ -906,12 +904,22 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "Residents of Vught should be able to express their opinion on important issues via a referendum.",
+      "titleParts": [
+        {
+          "text": " De inwoners van Vught moeten over belangrijke onderwerpen hun mening kunnen geven via een "
+        },
+        {
+          "text": "referendum",
+          "glossary": "A public consultation where residents can express their opinion on a political issue. The municipal council is not obliged to follow the result; legally it cannot."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents of Vught should be able to express their opinion on important issues via a referendum.",
-      "themeEn": "Referendum"
+      "isShootout": false
     },
     {
       "id": 126171,
@@ -922,9 +930,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should always allow farmers to open, for example, a shop or a campsite at their farm.",
-      "themeEn": "Farm campsites"
+      "isShootout": false
     },
     {
       "id": 126167,
@@ -932,12 +938,29 @@
       "theme": "Mayor and municipal executive",
       "themeId": "burgemeester-en-college",
       "title": "The new college of mayor and aldermen must have an equal number of men and women.",
+      "titleParts": [
+        {
+          "text": " In het nieuwe "
+        },
+        {
+          "text": "college",
+          "glossary": "The college of mayor and aldermen, the municipality’s executive board."
+        },
+        {
+          "text": " van "
+        },
+        {
+          "text": "burgemeester",
+          "glossary": "The mayor leads the municipality and chairs the municipal council. The mayor is not elected but appointed by the national government, after recommendation by the municipal council."
+        },
+        {
+          "text": " en wethouders moet het aantal mannen en vrouwen gelijk zijn."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The new college of mayor and aldermen must have an equal number of men and women.",
-      "themeEn": "Mayor and municipal executive"
+      "isShootout": false
     },
     {
       "id": 126172,
@@ -945,12 +968,22 @@
       "theme": "Sustainable energy",
       "themeId": "duurzame-energie",
       "title": "Residents who want to generate sustainable energy together should receive financial support from the municipality.",
+      "titleParts": [
+        {
+          "text": " Inwoners die samen "
+        },
+        {
+          "text": "duurzame energie",
+          "glossary": "Energy based on resources that are effectively infinite, such as sunlight and wind."
+        },
+        {
+          "text": " op willen wekken, moeten financiële steun krijgen van de gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents who want to generate sustainable energy together should receive financial support from the municipality.",
-      "themeEn": "Sustainable energy"
+      "isShootout": false
     },
     {
       "id": 126203,
@@ -958,12 +991,29 @@
       "theme": "Car speeds",
       "themeId": "snelheid-auto-s",
       "title": "The maximum speed limit in built-up areas should be set to 30 km/h.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "maximumsnelheid",
+          "glossary": "The maximum speed that cars and motorcycles are allowed to drive on the road."
+        },
+        {
+          "text": " binnen de "
+        },
+        {
+          "text": "bebouwde kom",
+          "glossary": "An area with buildings (houses, other structures)."
+        },
+        {
+          "text": " moet naar 30 km/u."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The maximum speed limit in built-up areas should be set to 30 km/h.",
-      "themeEn": "Car speeds"
+      "isShootout": false
     },
     {
       "id": 126190,
@@ -971,12 +1021,22 @@
       "theme": "Enforcement officers",
       "themeId": "handhavers",
       "title": "Vught should have more municipal enforcement officers (BOAs) who focus on safety.",
+      "titleParts": [
+        {
+          "text": " In Vught moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "People who, for the municipality, check whether citizens and businesses comply with the rules."
+        },
+        {
+          "text": " (boa’s) komen die zich met veiligheid bezighouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Vught should have more municipal enforcement officers (BOAs) who focus on safety.",
-      "themeEn": "Enforcement officers"
+      "isShootout": false
     },
     {
       "id": 126174,
@@ -984,12 +1044,22 @@
       "theme": "Asylum seekers' center",
       "themeId": "asielzoekerscentrum",
       "title": "An asylum seekers' center (AZC) should be established in our municipality.",
+      "titleParts": [
+        {
+          "text": " In onze gemeente moet een "
+        },
+        {
+          "text": "asielzoekerscentrum",
+          "glossary": "Reception center for asylum seekers. They live there until it is decided whether they may stay in the Netherlands. An asylum seekers’ center remains in a municipality for a long time."
+        },
+        {
+          "text": " (azc) komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "An asylum seekers' center (AZC) should be established in our municipality.",
-      "themeEn": "Asylum seekers' center"
+      "isShootout": false
     },
     {
       "id": 126194,
@@ -997,12 +1067,22 @@
       "theme": "Priority for housing",
       "themeId": "voorrang-huisvesting",
       "title": "When allocating social housing, applicants from the municipality should be given priority.",
+      "titleParts": [
+        {
+          "text": " Bij de toewijzing van een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " moeten woningzoekenden uit de eigen gemeente voorrang krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "When allocating social housing, applicants from the municipality should be given priority.",
-      "themeEn": "Priority for housing"
+      "isShootout": false
     },
     {
       "id": 126204,
@@ -1010,12 +1090,22 @@
       "theme": "Choice of healthcare",
       "themeId": "zorgkeuze",
       "title": "People who need care should always be able to choose a caregiver who matches their religion, culture, or beliefs.",
+      "titleParts": [
+        {
+          "text": " Mensen die zorg nodig hebben, moeten altijd kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of "
+        },
+        {
+          "text": "levensovertuiging",
+          "glossary": "What someone believes about life, such as a religion or personal conviction."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People who need care should always be able to choose a caregiver who matches their religion, culture, or beliefs.",
-      "themeEn": "Choice of healthcare"
+      "isShootout": false
     },
     {
       "id": 126191,
@@ -1023,12 +1113,22 @@
       "theme": "Camera surveillance",
       "themeId": "cameratoezicht",
       "title": "In Vught there should be more camera surveillance.",
+      "titleParts": [
+        {
+          "text": " In Vught moet meer "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Monitoring of a building, area, or (groups of) people using security cameras."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "In Vught there should be more camera surveillance.",
-      "themeEn": "Camera surveillance"
+      "isShootout": false
     },
     {
       "id": 126181,
@@ -1039,9 +1139,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Noise standards at festivals and parties must be made stricter.",
-      "themeEn": "Festival noise"
+      "isShootout": false
     },
     {
       "id": 126223,
@@ -1052,9 +1150,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allow new construction in green areas in Vught.",
-      "themeEn": "Housing development in green areas"
+      "isShootout": false
     },
     {
       "id": 126184,
@@ -1062,12 +1158,22 @@
       "theme": "Sports membership fees",
       "themeId": "contributie-sport",
       "title": "The municipality should pay the membership fees for a sports club for people receiving social assistance.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet het lidmaatschap van een sportclub betalen voor mensen met een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Money from the municipality for people who have no income or personal funds."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should pay the membership fees for a sports club for people receiving social assistance.",
-      "themeEn": "Sports membership fees"
+      "isShootout": false
     },
     {
       "id": 126220,
@@ -1078,9 +1184,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "More high-rise residential buildings should be allowed in the municipality of Vught.",
-      "themeEn": "Apartment buildings"
+      "isShootout": false
     },
     {
       "id": 126186,
@@ -1088,12 +1192,22 @@
       "theme": "Improving school buildings",
       "themeId": "verbeteren-schoolgebouwen",
       "title": "The municipality should invest money in improving all school buildings during the next council term.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet in de komende "
+        },
+        {
+          "text": "raadsperiode",
+          "glossary": "The municipal council is elected for a period of four years."
+        },
+        {
+          "text": " geld steken in het verbeteren van alle schoolgebouwen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should invest money in improving all school buildings during the next council term.",
-      "themeEn": "Improving school buildings"
+      "isShootout": false
     },
     {
       "id": 126198,
@@ -1101,12 +1215,29 @@
       "theme": "Work requirement for welfare recipients",
       "themeId": "tegenprestatie-voor-uitkering",
       "title": "People receiving social assistance should, in return, do socially useful work.",
+      "titleParts": [
+        {
+          "text": " Mensen die een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Money from the municipality for people who have no income or personal funds."
+        },
+        {
+          "text": " krijgen, moeten in ruil daarvoor "
+        },
+        {
+          "text": "maatschappelijk zinvol werk",
+          "glossary": "For example cleaning the streets or keeping company and supporting elderly residents."
+        },
+        {
+          "text": " doen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People receiving social assistance should, in return, do socially useful work.",
-      "themeEn": "Work requirement for welfare recipients"
+      "isShootout": false
     },
     {
       "id": 126219,
@@ -1114,12 +1245,29 @@
       "theme": "Social housing",
       "themeId": "sociale-huurwoningen",
       "title": "At least 30% of the newly built homes in Vught should be social-rent housing. In the Netherlands currently 28% of homes are social-rent housing.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in Vught moet minimaal 30% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " zijn. In Nederland is nu 28% van de woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "At least 30% of the newly built homes in Vught should be social-rent housing. In the Netherlands currently 28% of homes are social-rent housing.",
-      "themeEn": "Social housing"
+      "isShootout": false
     },
     {
       "id": 126206,
@@ -1127,12 +1275,29 @@
       "theme": "Tax on buildings",
       "themeId": "belasting-op-gebouwen",
       "title": "The property tax (onroerendezaakbelasting, OZB) should be reduced.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "onroerendezaakbelasting",
+          "glossary": "Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "ozb",
+          "glossary": "Property tax. Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": ") moet omlaag."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The property tax (onroerendezaakbelasting, OZB) should be reduced.",
-      "themeEn": "Tax on buildings"
+      "isShootout": false
     },
     {
       "id": 126175,
@@ -1140,12 +1305,22 @@
       "theme": "Housing for foreign workers",
       "themeId": "huisvesting-buitenlandse-werknemers",
       "title": "Employers in agriculture and horticulture should provide housing for seasonal workers on their own premises.",
+      "titleParts": [
+        {
+          "text": " Werkgevers in de land- en tuinbouw moeten zelf zorgen voor de huisvesting van "
+        },
+        {
+          "text": "seizoenarbeiders",
+          "glossary": "People who do work that only takes place during certain seasons, often in agriculture and fruit picking."
+        },
+        {
+          "text": " op hun eigen bedrijfsterrein."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Employers in agriculture and horticulture should provide housing for seasonal workers on their own premises.",
-      "themeEn": "Housing for foreign workers"
+      "isShootout": false
     },
     {
       "id": 126192,
@@ -1153,12 +1328,22 @@
       "theme": "Violence against women",
       "themeId": "geweld-tegen-vrouwen",
       "title": "There should be a women's shelter (domestic violence shelter) in Vught.",
+      "titleParts": [
+        {
+          "text": " In Vught moet een "
+        },
+        {
+          "text": "blijf-van-mijn-lijf-huis",
+          "glossary": "Shelter for women who experience violence from their partner or family. The shelter is secured; sometimes the location is secret."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be a women's shelter (domestic violence shelter) in Vught.",
-      "themeEn": "Violence against women"
+      "isShootout": false
     },
     {
       "id": 126197,
@@ -1169,9 +1354,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should prevent new construction outside existing village boundaries.",
-      "themeEn": "Housing construction"
+      "isShootout": false
     },
     {
       "id": 126202,
@@ -1182,9 +1365,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should designate more parking spaces as charging points for electric cars.",
-      "themeEn": "Electric vehicle charging stations"
+      "isShootout": false
     },
     {
       "id": 126183,
@@ -1195,9 +1376,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "It should be possible for farmers to build houses themselves on their land.",
-      "themeEn": "Building on agricultural land"
+      "isShootout": false
     },
     {
       "id": 126209,
@@ -1208,9 +1387,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Vught should develop more business parks.",
-      "themeEn": "Business parks"
+      "isShootout": false
     },
     {
       "id": 126211,
@@ -1218,12 +1395,29 @@
       "theme": "Priority for refugees",
       "themeId": "voorrang-voor-vluchtelingen",
       "title": "The municipality must continue to give refugees with a residence permit priority for social housing.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet vluchtelingen met een "
+        },
+        {
+          "text": "verblijfsvergunning",
+          "glossary": "The right to reside in the Netherlands. The term can refer to the right itself or to the card that shows someone has that right."
+        },
+        {
+          "text": " voorrang blijven geven op een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must continue to give refugees with a residence permit priority for social housing.",
-      "themeEn": "Priority for refugees"
+      "isShootout": false
     },
     {
       "id": 126214,
@@ -1234,9 +1428,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Vught should renovate the clubhouse of football club Real Lunet.",
-      "themeEn": "Real Lunet"
+      "isShootout": false
     },
     {
       "id": 126222,
@@ -1247,9 +1439,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The center of Vught should become car-free.",
-      "themeEn": "Car-free"
+      "isShootout": false
     },
     {
       "id": 126224,
@@ -1260,9 +1450,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Recreation park De IJzeren Man in Vught should be allowed to expand to include a hotel.",
-      "themeEn": "Hotel De IJzeren Man"
+      "isShootout": false
     }
   ],
   "shootoutStatements": []

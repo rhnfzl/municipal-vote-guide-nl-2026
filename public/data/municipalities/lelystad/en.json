@@ -1964,9 +1964,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Lelystad should build a new swimming pool in the Zuiderhage district.",
-      "themeEn": "Zuiderhage swimming pool"
+      "isShootout": false
     },
     {
       "id": 118228,
@@ -1974,12 +1972,29 @@
       "theme": "Youth services",
       "themeId": "jongerenwerk",
       "title": "The municipality should cut spending on youth work.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "bezuinigen",
+          "glossary": "Spending less money."
+        },
+        {
+          "text": " op het "
+        },
+        {
+          "text": "jongerenwerk",
+          "glossary": "People and organizations that help young people in the municipality with various things."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should cut spending on youth work.",
-      "themeEn": "Youth services"
+      "isShootout": false
     },
     {
       "id": 118203,
@@ -1990,9 +2005,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "For every tree cut down in the municipality, a new one must be planted.",
-      "themeEn": "Trees"
+      "isShootout": false
     },
     {
       "id": 118219,
@@ -2000,12 +2013,22 @@
       "theme": "Starter loan",
       "themeId": "starterslening",
       "title": "First-time homebuyers should be able to receive a starter loan from the municipality.",
+      "titleParts": [
+        {
+          "text": " Mensen die voor het eerst een huis willen kopen, moeten van de gemeente een "
+        },
+        {
+          "text": "starterslening",
+          "glossary": "An extra loan on top of your mortgage, which you can only get when buying a house for the first time."
+        },
+        {
+          "text": " kunnen krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "First-time homebuyers should be able to receive a starter loan from the municipality.",
-      "themeEn": "Starter loan"
+      "isShootout": false
     },
     {
       "id": 118202,
@@ -2013,12 +2036,22 @@
       "theme": "Accommodation for rejected asylum seekers",
       "themeId": "opvang-afgewezen-asielzoekers",
       "title": "Lelystad should provide shelter to rejected asylum seekers.",
+      "titleParts": [
+        {
+          "text": " Lelystad moet opvang bieden aan afgewezen "
+        },
+        {
+          "text": "asielzoekers",
+          "glossary": "People who have applied for asylum and are still waiting for a decision."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Lelystad should provide shelter to rejected asylum seekers.",
-      "themeEn": "Accommodation for rejected asylum seekers"
+      "isShootout": false
     },
     {
       "id": 118242,
@@ -2029,9 +2062,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allow more Sunday shopping days.",
-      "themeEn": "Sunday shopping"
+      "isShootout": false
     },
     {
       "id": 118236,
@@ -2042,9 +2073,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "When selecting organizations for youth care, the municipality should primarily pay attention to price.",
-      "themeEn": "Youth care"
+      "isShootout": false
     },
     {
       "id": 118209,
@@ -2052,12 +2081,29 @@
       "theme": "Accessibility of buildings",
       "themeId": "toegankelijkheid-gebouwen",
       "title": "The municipality should financially help business owners to make their buildings accessible to people with disabilities.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet ondernemers "
+        },
+        {
+          "text": "financieel",
+          "glossary": "Something related to money."
+        },
+        {
+          "text": " helpen om hun gebouw toegankelijker te maken voor mensen met een "
+        },
+        {
+          "text": "beperking",
+          "glossary": "Something that limits you in daily life. A disability can be physical or intellectual or relate to hearing or sight, or combinations of these."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should financially help business owners to make their buildings accessible to people with disabilities.",
-      "themeEn": "Accessibility of buildings"
+      "isShootout": false
     },
     {
       "id": 118198,
@@ -2068,9 +2114,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents should be able to take over the management of, for example, a sports hall or a public green space from the municipality.",
-      "themeEn": "Management by citizens"
+      "isShootout": false
     },
     {
       "id": 118246,
@@ -2081,9 +2125,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Lelystad should stop providing funding to Theater Agora.",
-      "themeEn": "Agora Theatre"
+      "isShootout": false
     },
     {
       "id": 118223,
@@ -2091,12 +2133,22 @@
       "theme": "Offices converted into homes",
       "themeId": "kantoren-worden-woningen",
       "title": "Vacant offices should be converted into housing with subsidies from the municipality.",
+      "titleParts": [
+        {
+          "text": " Leegstaande kantoren moeten met "
+        },
+        {
+          "text": "subsidie",
+          "glossary": "Money the government gives to citizens, businesses, and organizations to support them."
+        },
+        {
+          "text": " van de gemeente worden omgebouwd tot woningen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Vacant offices should be converted into housing with subsidies from the municipality.",
-      "themeEn": "Offices converted into homes"
+      "isShootout": false
     },
     {
       "id": 118204,
@@ -2104,12 +2156,22 @@
       "theme": "Wood burning",
       "themeId": "houtstook",
       "title": "In Lelystad the use of open fireplaces and wood stoves should remain permitted.",
+      "titleParts": [
+        {
+          "text": " In Lelystad moet het gebruik van open haarden en "
+        },
+        {
+          "text": "houtkachels",
+          "glossary": "Wood-burning stoves used to heat a home."
+        },
+        {
+          "text": " toegestaan blijven."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "In Lelystad the use of open fireplaces and wood stoves should remain permitted.",
-      "themeEn": "Wood burning"
+      "isShootout": false
     },
     {
       "id": 118237,
@@ -2120,9 +2182,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should distribute tampons and sanitary pads for free.",
-      "themeEn": "Free menstrual products"
+      "isShootout": false
     },
     {
       "id": 118257,
@@ -2130,12 +2190,22 @@
       "theme": "Migrant workers",
       "themeId": "arbeidsmigranten",
       "title": "The municipality should allow large housing locations for migrant workers.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet grote woonlocaties voor "
+        },
+        {
+          "text": "arbeidsmigranten",
+          "glossary": "People from another country who work temporarily in the Netherlands."
+        },
+        {
+          "text": " toestaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allow large housing locations for migrant workers.",
-      "themeEn": "Migrant workers"
+      "isShootout": false
     },
     {
       "id": 118227,
@@ -2146,9 +2216,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should raise the income threshold for receiving poverty assistance.",
-      "themeEn": "Combating poverty"
+      "isShootout": false
     },
     {
       "id": 118249,
@@ -2156,12 +2224,22 @@
       "theme": "Coffeeshops (cannabis cafés)",
       "themeId": "coffeeshops",
       "title": "The municipality should prevent the opening of new coffeeshops.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de vestiging van nieuwe "
+        },
+        {
+          "text": "coffeeshops",
+          "glossary": "Shop or café where you can buy and smoke soft drugs (hash, weed)."
+        },
+        {
+          "text": " tegenhouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should prevent the opening of new coffeeshops.",
-      "themeEn": "Coffeeshops (cannabis cafés)"
+      "isShootout": false
     },
     {
       "id": 118240,
@@ -2169,12 +2247,22 @@
       "theme": "Tourist tax",
       "themeId": "toeristenbelasting",
       "title": "The tourist tax should be increased.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "toeristenbelasting",
+          "glossary": "The tax you must pay when you stay overnight in a hotel or at a campsite."
+        },
+        {
+          "text": " moet omhoog."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The tourist tax should be increased.",
-      "themeEn": "Tourist tax"
+      "isShootout": false
     },
     {
       "id": 118254,
@@ -2185,9 +2273,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "More parking spaces should be created in the center.",
-      "themeEn": "More parking spaces"
+      "isShootout": false
     },
     {
       "id": 118197,
@@ -2195,12 +2281,22 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "The residents of Lelystad should be able to express their opinion on important issues via a referendum.",
+      "titleParts": [
+        {
+          "text": " De inwoners van Lelystad moeten over belangrijke onderwerpen hun mening kunnen geven via een "
+        },
+        {
+          "text": "referendum",
+          "glossary": "A public consultation where residents can express their opinion on a political issue. The municipal council is not obliged to follow the result; legally it cannot."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The residents of Lelystad should be able to express their opinion on important issues via a referendum.",
-      "themeEn": "Referendum"
+      "isShootout": false
     },
     {
       "id": 118215,
@@ -2208,12 +2304,22 @@
       "theme": "Enforcement officers",
       "themeId": "handhavers",
       "title": "In Lelystad there should be more municipal enforcement officers (BOA’s) who deal with safety.",
+      "titleParts": [
+        {
+          "text": " In Lelystad moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "People who, for the municipality, check whether citizens and businesses comply with the rules."
+        },
+        {
+          "text": " (boa’s) komen die zich met veiligheid bezighouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "In Lelystad there should be more municipal enforcement officers (BOA’s) who deal with safety.",
-      "themeEn": "Enforcement officers"
+      "isShootout": false
     },
     {
       "id": 118250,
@@ -2221,12 +2327,29 @@
       "theme": "Social housing",
       "themeId": "sociale-huurwoningen",
       "title": "At least 30% of the newly built homes in Lelystad should be social rental housing. In the Netherlands currently 28% of homes are social rental housing.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in Lelystad moet minimaal 30% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " zijn. In Nederland is nu 28% van de woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "At least 30% of the newly built homes in Lelystad should be social rental housing. In the Netherlands currently 28% of homes are social rental housing.",
-      "themeEn": "Social housing"
+      "isShootout": false
     },
     {
       "id": 118200,
@@ -2237,9 +2360,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Cafés and restaurants must be able to determine their own opening hours.",
-      "themeEn": "Opening hours for hospitality venues"
+      "isShootout": false
     },
     {
       "id": 118245,
@@ -2250,9 +2371,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should ban solar panels on agricultural land.",
-      "themeEn": "Solar panels on farmland"
+      "isShootout": false
     },
     {
       "id": 118253,
@@ -2263,9 +2382,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Paid parking in the city center should become more expensive.",
-      "themeEn": "Paid parking more expensive"
+      "isShootout": false
     },
     {
       "id": 118220,
@@ -2273,12 +2390,22 @@
       "theme": "Priority for housing",
       "themeId": "voorrang-huisvesting",
       "title": "When allocating social housing, applicants from the municipality should be given priority.",
+      "titleParts": [
+        {
+          "text": " Bij de toewijzing van een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " moeten woningzoekenden uit de eigen gemeente voorrang krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "When allocating social housing, applicants from the municipality should be given priority.",
-      "themeEn": "Priority for housing"
+      "isShootout": false
     },
     {
       "id": 118248,
@@ -2286,12 +2413,22 @@
       "theme": "School swimming",
       "themeId": "schoolzwemmen",
       "title": "The municipality should allocate money for school swimming.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld beschikbaar stellen voor "
+        },
+        {
+          "text": "schoolzwemmen",
+          "glossary": "Swimming lessons organized by the school."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allocate money for school swimming.",
-      "themeEn": "School swimming"
+      "isShootout": false
     },
     {
       "id": 118239,
@@ -2299,12 +2436,22 @@
       "theme": "Dog tax",
       "themeId": "hondenbelasting",
       "title": "The municipality should abolish the dog tax.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de "
+        },
+        {
+          "text": "hondenbelasting",
+          "glossary": "Tax paid to the municipality for owning one or more dogs."
+        },
+        {
+          "text": " afschaffen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should abolish the dog tax.",
-      "themeEn": "Dog tax"
+      "isShootout": false
     },
     {
       "id": 118217,
@@ -2312,12 +2459,22 @@
       "theme": "Violence against women",
       "themeId": "geweld-tegen-vrouwen",
       "title": "Lelystad should establish a women's shelter for victims of domestic violence.",
+      "titleParts": [
+        {
+          "text": " In Lelystad moet een "
+        },
+        {
+          "text": "blijf-van-mijn-lijf-huis",
+          "glossary": "Shelter for women who experience violence from their partner or family. The shelter is secured; sometimes the location is secret."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Lelystad should establish a women's shelter for victims of domestic violence.",
-      "themeEn": "Violence against women"
+      "isShootout": false
     },
     {
       "id": 118255,
@@ -2328,9 +2485,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The center of Lelystad should become car-free.",
-      "themeEn": "Car-free"
+      "isShootout": false
     },
     {
       "id": 118256,
@@ -2341,9 +2496,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Holiday flights should also operate from Lelystad Airport.",
-      "themeEn": "Aviation"
+      "isShootout": false
     }
   ],
   "shootoutStatements": []

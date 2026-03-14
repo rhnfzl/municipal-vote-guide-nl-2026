@@ -2503,6 +2503,18 @@
       "theme": "Jongerenraad",
       "themeId": "jongerenraad",
       "title": "Er moet een jongerenraad komen die de gemeenteraad gevraagd en ongevraagd advies geeft.",
+      "titleParts": [
+        {
+          "text": " Er moet een "
+        },
+        {
+          "text": "jongerenraad",
+          "glossary": "Een groep jongeren die meedenkt en meepraat met de gemeente over plannen en beleid."
+        },
+        {
+          "text": " komen die de gemeenteraad gevraagd en ongevraagd advies geeft."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2516,6 +2528,18 @@
       "theme": "Afvalstoffenheffing",
       "themeId": "afvalstoffenheffing",
       "title": "Inwoners die weinig restafval inleveren, moeten minder gemeentelijke belasting betalen.",
+      "titleParts": [
+        {
+          "text": " Inwoners die weinig "
+        },
+        {
+          "text": "restafval",
+          "glossary": "Afval dat overblijft nadat papier, plastic en gft apart zijn ingezameld."
+        },
+        {
+          "text": " inleveren, moeten minder gemeentelijke belasting betalen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2568,6 +2592,18 @@
       "theme": "Gemeentefusie",
       "themeId": "gemeentefusie",
       "title": "De gemeente Vlissingen moet met de gemeenten Middelburg en Veere fuseren tot één gemeente Walcheren.",
+      "titleParts": [
+        {
+          "text": " De gemeente Vlissingen moet met de gemeenten Middelburg en Veere "
+        },
+        {
+          "text": "fuseren",
+          "glossary": "Het samengaan van twee of meer gemeenten."
+        },
+        {
+          "text": " tot één gemeente Walcheren."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2581,6 +2617,18 @@
       "theme": "Toeristenbelasting",
       "themeId": "toeristenbelasting",
       "title": "De toeristenbelasting moet omhoog.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "toeristenbelasting",
+          "glossary": "De belasting die je moet betalen als je in een hotel of op een camping bijft slapen."
+        },
+        {
+          "text": " moet omhoog."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2594,6 +2642,18 @@
       "theme": "Minimaal 2 handhavers",
       "themeId": "minimaal-2-handhavers",
       "title": "In Souburg en Ritthem moeten minimaal 2 gemeentelijke handhavers (boa's) komen.",
+      "titleParts": [
+        {
+          "text": " In Souburg en Ritthem moeten minimaal 2 gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "Mensen die voor de gemeente controleren of burgers en bedrijven zich aan de regels houden."
+        },
+        {
+          "text": " (boa's) komen."
+        }
+      ],
       "moreInfo": "In de gemeente Vlissingen werken nu in totaal 11 boa's.",
       "pro": "",
       "con": "",
@@ -2620,6 +2680,18 @@
       "theme": "Hondenbelasting",
       "themeId": "hondenbelasting",
       "title": "De gemeente moet de hondenbelasting afschaffen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de "
+        },
+        {
+          "text": "hondenbelasting",
+          "glossary": "Belasting die je aan de gemeente moet betalen voor het hebben van een hond of meerdere honden."
+        },
+        {
+          "text": " afschaffen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2659,6 +2731,18 @@
       "theme": "Noodopvang asielzoekers",
       "themeId": "noodopvang-asielzoekers",
       "title": "De gemeente moet geen noodopvang meer bieden aan asielzoekers.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geen "
+        },
+        {
+          "text": "noodopvang",
+          "glossary": "Een gebouw voor dringende en tijdelijke opvang van mensen die onderdak nodig hebben, bijvoorbeeld asielzoekers."
+        },
+        {
+          "text": " meer bieden aan asielzoekers."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2711,6 +2795,18 @@
       "theme": "Parkeervergunningen",
       "themeId": "parkeervergunningen",
       "title": "In de binnenstad van Vlissingen moeten parkeervergunningen voor bewoners en ondernemers gratis zijn.",
+      "titleParts": [
+        {
+          "text": " In de binnenstad van Vlissingen moeten "
+        },
+        {
+          "text": "parkeervergunning",
+          "glossary": "Een vergunning om op een bepaalde plek te parkeren. Voor dat recht moet je betalen."
+        },
+        {
+          "text": "en voor bewoners en ondernemers gratis zijn."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2737,6 +2833,18 @@
       "theme": "Cameratoezicht",
       "themeId": "cameratoezicht",
       "title": "In de stad Vlissingen moet meer cameratoezicht komen.",
+      "titleParts": [
+        {
+          "text": " In de stad Vlissingen moet meer "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Het houden van toezicht op of in een gebouw, gebied of (groepen) mensen met behulp van bewakingscamera's."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2750,6 +2858,18 @@
       "theme": "Autoluw",
       "themeId": "autoluw",
       "title": "In de stad Vlissingen moeten meer straten autoluw worden. Dat betekent dat er minder auto's mogen rijden.",
+      "titleParts": [
+        {
+          "text": " In de stad Vlissingen moeten meer straten "
+        },
+        {
+          "text": "autoluw",
+          "glossary": "Dat er weinig autoverkeer is."
+        },
+        {
+          "text": " worden. Dat betekent dat er minder auto's mogen rijden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2789,6 +2909,25 @@
       "theme": "Slavernijverleden",
       "themeId": "slavernijverleden",
       "title": "De gemeente moet samen met maatschappelijke organisaties een jaarlijkse herdenking van het slavernijverleden organiseren.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet samen met "
+        },
+        {
+          "text": "maatschappelijke organisaties",
+          "glossary": "Bijvoorbeeld de huisarts, jeugdzorg, thuiszorg, de GGZ"
+        },
+        {
+          "text": " een jaarlijkse herdenking van het "
+        },
+        {
+          "text": "slavernijverleden",
+          "glossary": "Een periode waarin Nederland op grote schaal mensen uit Afrika en Azië verhandelde."
+        },
+        {
+          "text": " organiseren."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2802,6 +2941,18 @@
       "theme": "Sociale huurwoningen",
       "themeId": "sociale-huurwoningen",
       "title": "Van de nieuwbouw in Vlissingen moet minimaal 35% een sociale huurwoning zijn.",
+      "titleParts": [
+        {
+          "text": " Van de nieuwbouw in Vlissingen moet minimaal 35% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": " zijn."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2854,6 +3005,32 @@
       "theme": "Belasting op gebouwen",
       "themeId": "belasting-op-gebouwen",
       "title": "De onroerendezaakbelasting (ozb ) mag alleen omhoog met de inflatie.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "onroerendezaakbelasting",
+          "glossary": "Belasting die je betaalt als eigenaar van een gebouw of stuk grond, of gebruiker van een bedrijfspand."
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "ozb",
+          "glossary": "Onroerendezaakbelasting. Belasting die je betaalt als eigenaar van een gebouw of stuk grond, of gebruiker van een bedrijfspand."
+        },
+        {
+          "text": " ) mag alleen omhoog met de "
+        },
+        {
+          "text": "inflatie",
+          "glossary": "Gemiddelde stijging van de prijzen (van voedsel, spullen, diensten, etc.)"
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",

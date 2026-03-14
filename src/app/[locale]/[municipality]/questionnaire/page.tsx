@@ -11,6 +11,7 @@ import { Skeleton } from "@/components/ui/skeleton";
 import { Separator } from "@/components/ui/separator";
 import type { MunicipalityData, UserAnswer, Statement } from "@/lib/types";
 import { PartyAvatar } from "@/components/party-avatar";
+import { GlossaryTitle } from "@/components/glossary-title";
 import {
   MdThumbUp, MdThumbDown, MdRemove, MdChat, MdMenuBook,
   MdBalance, MdFlag, MdArrowBack, MdSkipNext, MdClose,
@@ -238,10 +239,14 @@ export default function QuestionnairePage() {
             )}
           </div>
 
-          {/* Statement */}
+          {/* Statement — with glossary tooltips if available */}
           <div>
             <h2 className="text-lg font-semibold leading-relaxed text-gray-900 dark:text-gray-100 sm:text-xl">
-              {title}
+              {current.titleParts ? (
+                <GlossaryTitle titleParts={current.titleParts} />
+              ) : (
+                title
+              )}
             </h2>
             {altTitle && altTitle !== title && (
               <p className="mt-1.5 text-sm text-gray-400 italic leading-relaxed">

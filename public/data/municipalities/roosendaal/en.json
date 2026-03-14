@@ -2390,9 +2390,7 @@
       "moreInfo": "In Roosendaal neighbourhood sports and movement coaches work to get residents to exercise and be more active. These coaches operate through Sportservice Noord-Brabant (SSNB). They organise activities at schools, in neighbourhoods and with organisations for the elderly and people with disabilities.",
       "pro": "Neighbourhood sports coaches help residents become more active and live healthier lives. They also reach groups who are less likely to exercise, such as older people and youth. More exercise can help reduce healthcare costs.",
       "con": "Extra neighborhood sports coaches cost the municipality a lot of money. Sports are primarily the responsibility of individuals. The municipality should focus on basic facilities, not extra sports coaching.",
-      "isShootout": false,
-      "titleEn": "There must be more neighborhood sports coaches to promote health and physical activity.",
-      "themeEn": "Neighborhood sports coaches"
+      "isShootout": false
     },
     {
       "id": 215863,
@@ -2403,9 +2401,7 @@
       "moreInfo": "Sometimes the municipality fells trees, for example because of disease, safety or construction plans. A municipality has rules for cutting down and replanting trees.",
       "pro": "Trees create a pleasant, green neighborhood. They help prevent too much paving and asphalt. Trees are good for health.",
       "con": "A fixed rule for every tree is too strict. Residents and entrepreneurs should be able to make their own choices. Tailored solutions are better than one fixed rule.",
-      "isShootout": false,
-      "titleEn": "For every tree cut down in the municipality, a new one must be planted.",
-      "themeEn": "Trees"
+      "isShootout": false
     },
     {
       "id": 215847,
@@ -2416,9 +2412,7 @@
       "moreInfo": "The municipality has many tasks. For that reason many Dutch municipalities cooperate with other municipalities. Aldermen and civil servants then consult with each other. A decision they make together applies to all participating municipalities. In Roosendaal this happens in various ways. For example, Roosendaal cooperates with other municipalities in the urban region West‑Brabant West. This cooperation mainly concerns economic and spatial developments. In addition Roosendaal cooperates with other municipalities in areas such as care and support, safety, taxation, ICT and the environment.",
       "pro": "The municipality can decide for itself when it carries out tasks in-house. The municipal council can better monitor and control what happens. The municipality is closer to residents.",
       "con": "Working with other municipalities saves money. A municipality cannot do everything alone. Cooperation brings more knowledge and experience.",
-      "isShootout": false,
-      "titleEn": "The municipality should handle more itself and participate less in partnerships with other municipalities.",
-      "themeEn": "Cooperation with other municipalities"
+      "isShootout": false
     },
     {
       "id": 215844,
@@ -2429,9 +2423,7 @@
       "moreInfo": "The municipality can involve residents in decisions about important topics. One way to do this is through a citizens' assembly. In a citizens' assembly a group of residents is chosen by lottery. This group reflects society, for example in age and place of residence. The participants talk together about a topic and then give advice to the municipality. The municipal council ultimately decides what to do with that advice.",
       "pro": "It increases residents' involvement in decisions. A citizens' assembly can provide careful advice on difficult topics. Other municipalities have had positive experiences with such assemblies.",
       "con": "The elected municipal council should make decisions, not citizens chosen by lot. Not all residents can participate or have a voice. There is a risk the group would not be a good reflection of society.",
-      "isShootout": false,
-      "titleEn": "A group of residents selected by lottery should advise the municipality on important issues.",
-      "themeEn": "Citizens' assembly"
+      "isShootout": false
     },
     {
       "id": 215854,
@@ -2439,12 +2431,29 @@
       "theme": "Integration",
       "themeId": "integratie",
       "title": "The municipality should spend more money on integrating newcomers into society.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld uitgeven aan "
+        },
+        {
+          "text": "integratie",
+          "glossary": "Newcomers learn the language and customs of the Netherlands."
+        },
+        {
+          "text": " van "
+        },
+        {
+          "text": "nieuwkomers",
+          "glossary": "People who are new to the Netherlands."
+        },
+        {
+          "text": " in de maatschappij."
+        }
+      ],
       "moreInfo": "Newcomers are people who move to the Netherlands, for example refugees or labour migrants. They often have to build a new life in a different environment. The municipality helps newcomers, for example with learning Dutch, finding work, following education and participating in society.",
       "pro": "Good integration helps newcomers participate in society more quickly. Integration helps newcomers find work and become independent. Good integration creates more mutual understanding in society.",
       "con": "Integration is primarily the responsibility of newcomers themselves. The municipality already spends enough on integration. Extra money will not automatically solve the problems.",
-      "isShootout": false,
-      "titleEn": "The municipality should spend more money on integrating newcomers into society.",
-      "themeEn": "Integration"
+      "isShootout": false
     },
     {
       "id": 215859,
@@ -2452,12 +2461,29 @@
       "theme": "Recycling center",
       "themeId": "milieustraat",
       "title": "Dropping off residual waste at the recycling center must be free.",
+      "titleParts": [
+        {
+          "text": " Het inleveren van "
+        },
+        {
+          "text": "restafval",
+          "glossary": "Waste that remains after paper, plastic and organic waste have been collected separately."
+        },
+        {
+          "text": " bij de "
+        },
+        {
+          "text": "milieustraat",
+          "glossary": "A place where citizens and businesses can bring different kinds of waste."
+        },
+        {
+          "text": " moet gratis worden."
+        }
+      ],
       "moreInfo": "Residual waste is waste that remains after separating items such as paper, plastic and GFT (vegetable, fruit and garden waste). In Roosendaal residents can dispose of residual waste at the recycling centre. For disposing of residual waste you currently pay €0.24 per kilogram.",
       "pro": "Free drop-off can prevent illegal dumping and litter. Cleaning up litter costs the municipality a lot of money. Free drop-off ensures a cleaner living environment.",
       "con": "Free drop-off increases costs for the municipality. Charging encourages people to separate waste better. With a paid system the waste tax remains low.",
-      "isShootout": false,
-      "titleEn": "Dropping off residual waste at the recycling center must be free.",
-      "themeEn": "Recycling center"
+      "isShootout": false
     },
     {
       "id": 215845,
@@ -2465,12 +2491,29 @@
       "theme": "Tax on buildings",
       "themeId": "belasting-op-gebouwen",
       "title": "The property tax (onroerendezaakbelasting, OZB) should be reduced.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "onroerendezaakbelasting",
+          "glossary": "Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "ozb",
+          "glossary": "Property tax. Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": ") moet omlaag."
+        }
+      ],
       "moreInfo": "The property tax (onroerendezaakbelasting, ozb) is a tax people pay if they own a house or another building. How much you pay depends on the value of your house or building and the rates set by the municipality. The revenue from the property tax is used by the municipality for things such as roads, green spaces and support for residents.",
       "pro": "A lower property tax reduces housing costs for homeowners. This forces the municipality to work more efficiently. The municipality must be frugal with taxpayers' money.",
       "con": "The property tax (ozb) is needed to carry out municipal tasks. A reduction means less money for, for example, care. The municipality would then have to raise other taxes or cut spending.",
-      "isShootout": false,
-      "titleEn": "The property tax (onroerendezaakbelasting, OZB) should be reduced.",
-      "themeEn": "Tax on buildings"
+      "isShootout": false
     },
     {
       "id": 215855,
@@ -2478,12 +2521,22 @@
       "theme": "Asylum seekers' center",
       "themeId": "asielzoekerscentrum",
       "title": "An asylum seekers' center (AZC) should be established in our municipality.",
+      "titleParts": [
+        {
+          "text": " In onze gemeente moet een "
+        },
+        {
+          "text": "asielzoekerscentrum",
+          "glossary": "Reception center for asylum seekers. They live there until it is decided whether they may stay in the Netherlands. An asylum seekers’ center remains in a municipality for a long time."
+        },
+        {
+          "text": " (azc) komen."
+        }
+      ],
       "moreInfo": "People can apply for asylum in the Netherlands if they are fleeing war or are in danger in their own country. The Immigration and Naturalisation Service (IND) assesses their application and decides whether they may stay in the Netherlands. During that procedure these asylum seekers must be accommodated. There is a shortage of reception places for asylum seekers in the Netherlands. According to the Distribution Act the municipality of Roosendaal must provide accommodation for 300 asylum seekers for a period of four years. The municipal council decided in April 2025 not to allow accommodation in Heerle. As a result the municipality does not meet the agreement and the national government can impose accommodation.",
       "pro": "The municipality is obliged to accommodate asylum seekers. A reception centre is needed because there are too few places. With a reception centre the municipality can decide how to organize the reception.",
       "con": "A reception center for asylum seekers (azc) has major consequences for the neighborhood. Not all residents support the arrival of an azc. The municipality should be able to make its own choices, without coercion from the national government.",
-      "isShootout": false,
-      "titleEn": "An asylum seekers' center (AZC) should be established in our municipality.",
-      "themeEn": "Asylum seekers' center"
+      "isShootout": false
     },
     {
       "id": 215850,
@@ -2494,9 +2547,7 @@
       "moreInfo": "In shopping areas visitors often have to pay to park. The municipality determines where and when paid parking applies. In Roosendaal on-street parking is charged Monday through Saturday from 9:00 AM. On Sunday paid parking applies from 12:00 PM. In parking garages you always have to pay.",
       "pro": "Free parking attracts more visitors. It helps local businesses. It makes the town centre more attractive.",
       "con": "Parking fees are necessary for municipal revenue. Free parking can lead to more cars and congestion. A low rate for short-term parking is a better alternative.",
-      "isShootout": false,
-      "titleEn": "The municipality must make the first hour of parking free at shops.",
-      "themeEn": "Parking for shops"
+      "isShootout": false
     },
     {
       "id": 215876,
@@ -2507,9 +2558,7 @@
       "moreInfo": "Homeless people are those without a fixed place to live. They sleep, for example, on the street, in night shelters or with others. The municipality is responsible for social shelter for the homeless. In Roosendaal Kloosterstraat 1 has been designated as a temporary shelter location. People who are homeless or temporarily without housing can go there. This shelter is intended for about 1.5 to 2 years. During that period the municipality is looking for a permanent location for social shelter.",
       "pro": "Shelter gives people the prospect of rejoining society. More shelter places are needed because the number of homeless is increasing. More shelter prevents nuisance.",
       "con": "More shelter places do not structurally solve homelessness. There is already sufficient funding for homeless shelters. The focus should be on prevention and housing, not just on shelter.",
-      "isShootout": false,
-      "titleEn": "The municipality must invest in more shelter spaces for homeless people.",
-      "themeEn": "Shelter for the homeless"
+      "isShootout": false
     },
     {
       "id": 215896,
@@ -2517,12 +2566,29 @@
       "theme": "Maximum speed",
       "themeId": "maximumsnelheid",
       "title": "Within built-up areas, the maximum speed must be reduced to 30 km/h.",
+      "titleParts": [
+        {
+          "text": " Binnen de "
+        },
+        {
+          "text": "bebouwde kom",
+          "glossary": "An area with buildings (houses, other structures)."
+        },
+        {
+          "text": " moet de "
+        },
+        {
+          "text": "maximumsnelheid",
+          "glossary": "The maximum speed that cars and motorcycles are allowed to drive on the road."
+        },
+        {
+          "text": " omlaag naar 30 km/u."
+        }
+      ],
       "moreInfo": "The built-up area is the part of the city or village where people live, work and shop. A speed limit of 50 km/h often applies there now. On some streets it is already 30 km/h. The Mobility Vision Roosendaal 2040 states that 30 km/h should become the norm for almost all roads within the built-up area. Only on large, busy roads intended for through traffic will 50 km/h remain. These are roads where cyclists and cars are separated.",
       "pro": "30 km/h makes traffic safer. A lower speed reduces noise. Residential areas become quieter.",
       "con": "30 km/h leads to slower traffic and reduced flow. It worsens accessibility. On through roads 50 km/h should remain in effect.",
-      "isShootout": false,
-      "titleEn": "Within built-up areas, the maximum speed must be reduced to 30 km/h.",
-      "themeEn": "Maximum speed"
+      "isShootout": false
     },
     {
       "id": 215851,
@@ -2530,12 +2596,29 @@
       "theme": "Attracting businesses",
       "themeId": "aantrekken-bedrijven",
       "title": "The municipality must invest in a promotional campaign to market Roosendaal as an attractive location for businesses.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld steken in een "
+        },
+        {
+          "text": "promotiecampagne",
+          "glossary": "A series of advertisements on, for example, billboards, television, and social media."
+        },
+        {
+          "text": " voor de gemeente Roosendaal als aantrekkelijke "
+        },
+        {
+          "text": "vestigingsplaats",
+          "glossary": "The location where a company establishes itself."
+        },
+        {
+          "text": " voor bedrijven."
+        }
+      ],
       "moreInfo": "Municipalities can attract companies by showing what they have to offer. This can be done, for example, with a promotional campaign. The goal is to convince companies to settle in the municipality.",
       "pro": "A promotional campaign can attract more companies. More companies create more jobs in the municipality. It strengthens the local economy.",
       "con": "A promotion campaign costs a lot of money. Companies settle primarily because of good facilities, not advertising. There are already enough companies in the municipality.",
-      "isShootout": false,
-      "titleEn": "The municipality must invest in a promotional campaign to market Roosendaal as an attractive location for businesses.",
-      "themeEn": "Attracting businesses"
+      "isShootout": false
     },
     {
       "id": 215870,
@@ -2543,12 +2626,22 @@
       "theme": "Public space art",
       "themeId": "kunst-openbare-ruimte",
       "title": "There must be more art in public spaces.",
+      "titleParts": [
+        {
+          "text": " Er moet meer kunst komen in de "
+        },
+        {
+          "text": "openbare ruimte",
+          "glossary": "Outdoor areas that are accessible to everyone, such as streets, squares, and parks."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "Art in public space is art that is visible and accessible to everyone. You find this art in parks, on squares, in the street and also on, at or in buildings. Examples include statues, facade stones, paintings and graffiti murals. But the music played by the city carillonneur and the poems of local poets are also forms of art.",
       "pro": "Art makes neighborhoods more attractive and lively. Art can create pride and recognition in the municipality.",
       "con": "Art is not a priority for the municipality. We can better spend municipal money on other tasks.",
-      "isShootout": false,
-      "titleEn": "There must be more art in public spaces.",
-      "themeEn": "Public space art"
+      "isShootout": false
     },
     {
       "id": 215883,
@@ -2559,9 +2652,7 @@
       "moreInfo": "There are too few homes in Roosendaal. Young people, starters and the elderly in particular have difficulty finding suitable housing. The municipality wants more movement in the housing market. That means people move to a home that better suits their situation, freeing up homes for others.",
       "pro": "Small homes are more affordable for young people and first-time buyers. They help older people to live appropriately on one level. More small homes improve circulation on the housing market.",
       "con": "The municipality should build for all target groups, not mainly for one group. Family homes are still needed for families with children. Too many small homes can create unbalanced neighborhoods.",
-      "isShootout": false,
-      "titleEn": "The municipality must primarily focus on building smaller homes and apartments for young people and the elderly.",
-      "themeEn": "Smaller homes"
+      "isShootout": false
     },
     {
       "id": 215869,
@@ -2569,12 +2660,22 @@
       "theme": "School swimming",
       "themeId": "schoolzwemmen",
       "title": "The municipality should allocate money for school swimming.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld beschikbaar stellen voor "
+        },
+        {
+          "text": "schoolzwemmen",
+          "glossary": "Swimming lessons organized by the school."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "School swimming is swimming lessons that pupils receive through school. The goal is for children to learn to swim and be able to keep themselves safe in the water. In the past school swimming was offered in many municipalities. Nowadays parents often arrange this themselves. As a result, not all children obtain a swimming certificate.",
       "pro": "School swimming helps children learn to swim safely. Swimming lessons through school help reduce inequality between children. School swimming makes better use of pools.",
       "con": "Swimming lessons are primarily the responsibility of parents. School swimming costs the municipality a lot of money. Schools should focus mainly on subjects like math and reading, not on swimming lessons.",
-      "isShootout": false,
-      "titleEn": "The municipality should allocate money for school swimming.",
-      "themeEn": "School swimming"
+      "isShootout": false
     },
     {
       "id": 215857,
@@ -2582,12 +2683,22 @@
       "theme": "Coffeeshops (cannabis cafés)",
       "themeId": "coffeeshops",
       "title": "The municipality of Roosendaal must allow coffeeshops again.",
+      "titleParts": [
+        {
+          "text": " De gemeente Roosendaal moet "
+        },
+        {
+          "text": "coffeeshops",
+          "glossary": "Shop or café where you can buy and smoke soft drugs (hash, weed)."
+        },
+        {
+          "text": " weer toestaan."
+        }
+      ],
       "moreInfo": "In the Netherlands the use and sale of soft drugs is permitted under conditions. Municipalities decide for themselves whether to allow coffeeshops. In 2009 Roosendaal introduced a new coffeeshop policy and chose a zero policy. This means coffeeshops are not permitted in the municipality. That policy still applies.",
       "pro": "Coffeeshops provide supervision of sales. This can help reduce street dealing and nuisance. Residents can buy soft drugs in a controlled way.",
       "con": "Coffeeshops have caused nuisance and crime in the past. Coffeeshops can lead to drug tourism. The municipality should promote healthy behavior.",
-      "isShootout": false,
-      "titleEn": "The municipality of Roosendaal must allow coffeeshops again.",
-      "themeEn": "Coffeeshops (cannabis cafés)"
+      "isShootout": false
     },
     {
       "id": 215880,
@@ -2598,9 +2709,7 @@
       "moreInfo": "A municipality can introduce a vacancy tax for homes or commercial buildings that have been unused for more than a year. The aim of this tax is to encourage owners to rent out or sell the buildings. In Roosendaal the vacancy rate is 4%. This is higher than the provincial average in North Brabant of 2%.",
       "pro": "The tax encourages owners to use their buildings. Less vacancy is good for streets and neighborhoods. Less vacancy helps address the housing shortage.",
       "con": "Owners do not always have influence over vacancy. The municipality should talk and help, not punish. Because of taxes, owners have less money to renovate their buildings.",
-      "isShootout": false,
-      "titleEn": "Owners of properties that remain vacant for a long time should be required to pay a tax.",
-      "themeEn": "Vacancy tax"
+      "isShootout": false
     },
     {
       "id": 215891,
@@ -2608,12 +2717,22 @@
       "theme": "Fast cycling routes",
       "themeId": "snelfietsroutes",
       "title": "The municipality must expand fast-cycle routes, for example to Etten-Leur and Essen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "snelfietsroutes",
+          "glossary": "Bicycle paths with few intersections and side paths, on which cyclists can travel long distances quickly and safely."
+        },
+        {
+          "text": " uitbreiden, bijvoorbeeld naar Etten-Leur en Essen."
+        }
+      ],
       "moreInfo": "Fast cycling routes are wide and safe cycle paths for longer distances. They are mainly intended for daily cycling, for example to work or school. In Roosendaal there is already a fast cycling route from Roosendaal to Bergen op Zoom. There are currently no concrete plans to extend it towards Etten-Leur. However, the province has expressed a desire to expand fast cycling routes further.",
       "pro": "Fast bike routes make cycling safer and more attractive. More people can use the bike instead of the car. Fast bike routes improve accessibility between municipalities.",
       "con": "Building fast bicycle routes costs a lot of money. Not everyone uses these routes. Improving public transport yields more benefit.",
-      "isShootout": false,
-      "titleEn": "The municipality must expand fast-cycle routes, for example to Etten-Leur and Essen.",
-      "themeEn": "Fast cycling routes"
+      "isShootout": false
     },
     {
       "id": 215853,
@@ -2621,12 +2740,29 @@
       "theme": "Priority for recognized refugees",
       "themeId": "voorrang-statushouders",
       "title": "Refugees with a residence permit must not be given priority for social rental housing.",
+      "titleParts": [
+        {
+          "text": " Vluchtelingen met een "
+        },
+        {
+          "text": "verblijfsvergunning",
+          "glossary": "The right to reside in the Netherlands. The term can refer to the right itself or to the card that shows someone has that right."
+        },
+        {
+          "text": " mogen geen voorrang krijgen op "
+        },
+        {
+          "text": "sociale huurwoningen",
+          "glossary": "Rental homes with a low rent (in 2026 this is an amount of at most € 932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "Refugees with a residence permit are people who applied for asylum and are allowed to stay in the Netherlands. These are status holders. The national government determines every six months how many status holders a municipality must house. This number is based on the municipality's population. Municipalities may decide themselves who gets priority for a social rental home. Status holders do not automatically receive priority; that depends on the municipality’s rules.",
       "pro": "Priority for status holders is not fair to other housing seekers. Waiting times should be the same for everyone. Priority rules can make it harder for young people and starters to find a home.",
       "con": "Priority should remain possible for vulnerable groups, such as status holders (recognized refugees). We would rather build more social housing to shorten waiting lists than remove priority. Good reception and integration of refugees helps maintain oversight and control in the municipality.",
-      "isShootout": false,
-      "titleEn": "Refugees with a residence permit must not be given priority for social rental housing.",
-      "themeEn": "Priority for recognized refugees"
+      "isShootout": false
     },
     {
       "id": 215882,
@@ -2634,12 +2770,22 @@
       "theme": "Energy-neutral construction",
       "themeId": "energieneutraal-bouwen",
       "title": "The municipality must require that new homes be built energy-neutral.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet verplichten dat nieuwe woningen "
+        },
+        {
+          "text": "energieneutraal",
+          "glossary": "An energy-neutral municipality generates as much clean energy as all its residents and businesses together consume. A building or area can also be energy-neutral."
+        },
+        {
+          "text": " worden gebouwd."
+        }
+      ],
       "moreInfo": "An energy-neutral home generates as much energy as it uses. This is achieved, for example, with good insulation, solar panels and efficient systems. New homes already must meet national rules for energy-efficient construction. Municipalities can set additional requirements for new builds, for example to make homes completely energy-neutral.",
       "pro": "Energy-neutral homes lead to lower energy costs for residents. They help use renewable energy and reduce CO₂ emissions. New homes are thus ready for the future.",
       "con": "Energy-neutral building makes homes more expensive. Strict requirements can lead to fewer and slower housing projects. The municipality should make building easier, not impose extra rules.",
-      "isShootout": false,
-      "titleEn": "The municipality must require that new homes be built energy-neutral.",
-      "themeEn": "Energy-neutral construction"
+      "isShootout": false
     },
     {
       "id": 215874,
@@ -2647,12 +2793,22 @@
       "theme": "Camera surveillance",
       "themeId": "cameratoezicht",
       "title": "There must be more camera surveillance in the municipality of Roosendaal.",
+      "titleParts": [
+        {
+          "text": " In de gemeente Roosendaal moet meer "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Monitoring of a building, area, or (groups of) people using security cameras."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "Municipalities may use cameras to monitor and enforce public order. The police may then view and use the footage. In Roosendaal the mayor has decided to place cameras in the city centre. These are mainly near nightlife areas and in places with drug-related nuisance.",
       "pro": "Camera surveillance helps tackle nuisance and crime. Cameras increase the feeling of safety. Footage can assist in criminal investigations.",
       "con": "Camera surveillance affects residents’ privacy. Cameras do not solve the causes of nuisance. We should use surveillance temporarily and carefully.",
-      "isShootout": false,
-      "titleEn": "There must be more camera surveillance in the municipality of Roosendaal.",
-      "themeEn": "Camera surveillance"
+      "isShootout": false
     },
     {
       "id": 215888,
@@ -2660,12 +2816,22 @@
       "theme": "Subsidized jobs",
       "themeId": "gesubsidieerde-banen",
       "title": "There should be more subsidized jobs for the long-term unemployed in our municipality.",
+      "titleParts": [
+        {
+          "text": " Er moeten meer gesubsidieerde banen voor "
+        },
+        {
+          "text": "langdurig werklozen",
+          "glossary": "People who have been without paid work for a long time (longer than a year)."
+        },
+        {
+          "text": " komen in onze gemeente."
+        }
+      ],
       "moreInfo": "Long-term unemployed are people who have been without paid work for a long time. Subsidised jobs are jobs in which the municipality pays part of the wage.",
       "pro": "Subsidized jobs help people get back to work. They prevent people from needing benefits for a long time. Work provides more structure and self-confidence.",
       "con": "Subsidized jobs cost the municipality a lot of money. People can remain dependent on the government. Work should mainly come through ordinary jobs with employers.",
-      "isShootout": false,
-      "titleEn": "There should be more subsidized jobs for the long-term unemployed in our municipality.",
-      "themeEn": "Subsidized jobs"
+      "isShootout": false
     },
     {
       "id": 215875,
@@ -2676,9 +2842,7 @@
       "moreInfo": "Noise nuisance occurs when people or companies make a lot of noise, such as loud music or machines during renovations. Municipalities have rules for this in the General Local Regulation (APV). If someone does not comply with these rules, the municipality can impose a fine. The amount of the fine is mainly determined by national rules; the municipality cannot decide this entirely on its own. The municipality can choose stricter enforcement and may apply a higher fine within the bounds of the law.",
       "pro": "Stricter fines can reduce noise nuisance. Higher fines make clear that we do not accept noise disturbances. Fines protect livability and peace.",
       "con": "The fines are already high enough. Noise nuisance is mainly solved with education and clear rules. The problem is primarily enforcement, not the level of the fine.",
-      "isShootout": false,
-      "titleEn": "Fines for noise nuisance must be increased.",
-      "themeEn": "Noise nuisance"
+      "isShootout": false
     },
     {
       "id": 215895,
@@ -2686,12 +2850,29 @@
       "theme": "Public transport",
       "themeId": "openbaar-vervoer",
       "title": "The municipality must invest more in tailored public transport, for example a dial-a-ride bus.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld steken in openbaar "
+        },
+        {
+          "text": "vervoer op maat",
+          "glossary": "A type of public transport that doesn't run on a fixed schedule but can be called to pick you up."
+        },
+        {
+          "text": " , bijvoorbeeld een "
+        },
+        {
+          "text": "belbus",
+          "glossary": "A bus that only runs if you reserve it in advance. The bus then takes you door to door."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "On-demand public transport is transport that only runs when someone needs it. Examples are a dial-a-ride bus or shared taxi. The municipality of Roosendaal is part of Deeltaxi West‑Brabant. This service is for people who, due to illness, disability or old age, cannot travel independently or use regular public transport. The shared taxi runs only by reservation and is intended as a supplement to bus and train. There is also on-demand public transport for everyone via BravoFlex, which transports passengers from a local stop to a larger public transport interchange.",
       "pro": "Tailored public transport ensures that everyone can participate in society. It makes villages more accessible. It is a good complement to bus and train services.",
       "con": "Demand-responsive public transport costs a lot of money. This is more a provincial task. We can better use the money for improved bus and train services.",
-      "isShootout": false,
-      "titleEn": "The municipality must invest more in tailored public transport, for example a dial-a-ride bus.",
-      "themeEn": "Public transport"
+      "isShootout": false
     },
     {
       "id": 215866,
@@ -2702,9 +2883,7 @@
       "moreInfo": "Solar panels generate sustainable energy. They can be installed on roofs or on open land. Sometimes they are placed on agricultural land, which is land intended for farming and food production. The municipality can set rules about where solar panels are allowed.",
       "pro": "Solar panels are better placed on roofs and business parks. Agricultural land is needed for growing food. Solar panels on farmland disrupt the landscape.",
       "con": "Solar panels on agricultural land are needed to generate sufficient sustainable energy. This allows many households to use clean and affordable energy. Farmers should be allowed to choose how they use their land.",
-      "isShootout": false,
-      "titleEn": "The municipality should ban solar panels on agricultural land.",
-      "themeEn": "Solar panels on farmland"
+      "isShootout": false
     },
     {
       "id": 215877,
@@ -2712,12 +2891,29 @@
       "theme": "Location for enforcement officers",
       "themeId": "locatie-voor-boa-s",
       "title": "The municipality must open a fixed location for enforcement officers (boa's) in the town center and at the station.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet een vaste locatie voor "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "People who, for the municipality, check whether citizens and businesses comply with the rules."
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "boa's",
+          "glossary": "Special Enforcement Officers. They can issue fines and often supervise the streets."
+        },
+        {
+          "text": ") openen in het centrum en bij het station."
+        }
+      ],
       "moreInfo": "Enforcement officers (BOAs) supervise and enforce rules in public spaces. They address people causing nuisance, check compliance with rules and work with the police. The municipal council of Roosendaal decided on 16 May 2024 to temporarily house enforcement at Laan van Brabant 60-64.",
       "pro": "A fixed location makes enforcement officers more accessible to residents. Community officers can supervise busy places more quickly and effectively. The visible presence of officers increases the feeling of safety.",
       "con": "Enforcement officers should mainly be present on the street. A fixed location costs the municipality extra money. Deployment should focus on enforcement where needed, not on a permanent site.",
-      "isShootout": false,
-      "titleEn": "The municipality must open a fixed location for enforcement officers (boa's) in the town center and at the station.",
-      "themeEn": "Location for enforcement officers"
+      "isShootout": false
     },
     {
       "id": 215899,
@@ -2728,9 +2924,7 @@
       "moreInfo": "The Roosendaal Resident Support desk helps residents with financial worries and poverty. Residents can get help with debts, benefits and poverty schemes, receive advice and be referred to other forms of support.",
       "pro": "More information ensures that more residents know how to find help. Early assistance can prevent bigger problems. Programs only work well if people know they exist.",
       "con": "We can better spend the money on direct help to residents. A campaign can increase shame. Information campaigns do not always reach the people who need help.",
-      "isShootout": false,
-      "titleEn": "The municipality must invest in an information campaign about the help desk for people in poverty.",
-      "themeEn": "Awareness of income support"
+      "isShootout": false
     },
     {
       "id": 215890,
@@ -2738,12 +2932,22 @@
       "theme": "Fewer poverty assistance schemes",
       "themeId": "minder-armoederegelingen",
       "title": "There must be a single budget for low-income people who need assistance.",
+      "titleParts": [
+        {
+          "text": " Er moet één "
+        },
+        {
+          "text": "budget",
+          "glossary": "A sum of money for a specific task or assignment."
+        },
+        {
+          "text": " komen voor mensen met een laag inkomen die hulp nodig hebben."
+        }
+      ],
       "moreInfo": "People with low incomes sometimes have trouble paying bills or making ends meet. The municipality of Roosendaal has various schemes to help them, such as special social assistance or debt support. The municipality may choose to combine this help into a single budget.",
       "pro": "One budget is clear and transparent. With one budget, help reaches the right people faster. Early help can prevent debt and bigger problems.",
       "con": "Tailored solutions through multiple schemes work better than a single budget. There are already several schemes for people with low incomes. Extra assistance can cause people to remain dependent on support.",
-      "isShootout": false,
-      "titleEn": "There must be a single budget for low-income people who need assistance.",
-      "themeEn": "Fewer poverty assistance schemes"
+      "isShootout": false
     },
     {
       "id": 215900,
@@ -2754,9 +2958,7 @@
       "moreInfo": "Some older people have less contact with others or feel lonely. The municipality of Roosendaal works with organizations such as WijZijn, Groenhuysen, GGZ WNB, CultuurCompaan and Sportservice Noord-Brabant to organize meetings and social contact, for example through activities like Stamtafels, the Odensehuis and the Herstel XL Academy in neighborhoods and villages.",
       "pro": "Meeting places help prevent loneliness. They ensure that older people stay active and can participate in society.",
       "con": "Older people mainly need an incentive to get out more, not necessarily new meeting places. There are already neighborhood centers and clubs where older people can meet.",
-      "isShootout": false,
-      "titleEn": "The municipality must invest in meeting places for the elderly.",
-      "themeEn": "Meeting places"
+      "isShootout": false
     },
     {
       "id": 215881,
@@ -2767,9 +2969,7 @@
       "moreInfo": "The municipality of Roosendaal must build new homes. This can be within the existing towns and villages, but also on the outskirts of towns and villages.",
       "pro": "At the edges there is more space to quickly build homes. It helps address the housing shortage. Young people can thus remain living in their own village or neighborhood.",
       "con": "We must first build homes within the city and villages. Building on the outskirts harms nature. We should first convert vacant buildings into housing.",
-      "isShootout": false,
-      "titleEn": "The municipality must allow housing development on the edges of the city and villages.",
-      "themeEn": "Housing construction"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

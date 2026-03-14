@@ -1054,9 +1054,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Etten-Leur should stop giving money to De Nobelaer.",
-      "themeEn": "De Nobelaer"
+      "isShootout": false
     },
     {
       "id": 114018,
@@ -1064,12 +1062,29 @@
       "theme": "Accessibility of buildings",
       "themeId": "toegankelijkheid-gebouwen",
       "title": "The municipality should financially help business owners to make their buildings accessible to people with disabilities.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet ondernemers "
+        },
+        {
+          "text": "financieel",
+          "glossary": "Something related to money."
+        },
+        {
+          "text": " helpen om hun gebouw toegankelijker te maken voor mensen met een "
+        },
+        {
+          "text": "beperking",
+          "glossary": "Something that limits you in daily life. A disability can be physical or intellectual or relate to hearing or sight, or combinations of these."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should financially help business owners to make their buildings accessible to people with disabilities.",
-      "themeEn": "Accessibility of buildings"
+      "isShootout": false
     },
     {
       "id": 114007,
@@ -1080,9 +1095,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should always allow farmers to open, for example, a shop or a campsite at their farm.",
-      "themeEn": "Farm campsites"
+      "isShootout": false
     },
     {
       "id": 114030,
@@ -1093,9 +1106,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "More small rental and owner-occupied homes should be built for the elderly in Etten-Leur.",
-      "themeEn": "Senior housing"
+      "isShootout": false
     },
     {
       "id": 114036,
@@ -1103,12 +1114,29 @@
       "theme": "Youth services",
       "themeId": "jongerenwerk",
       "title": "The municipality should cut spending on youth work.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "bezuinigen",
+          "glossary": "Spending less money."
+        },
+        {
+          "text": " op het "
+        },
+        {
+          "text": "jongerenwerk",
+          "glossary": "People and organizations that help young people in the municipality with various things."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should cut spending on youth work.",
-      "themeEn": "Youth services"
+      "isShootout": false
     },
     {
       "id": 114023,
@@ -1116,12 +1144,22 @@
       "theme": "Music lessons",
       "themeId": "muziekles",
       "title": "Every primary school child should be able to receive music lessons subsidized by the municipality.",
+      "titleParts": [
+        {
+          "text": " Elk basisschoolkind moet met "
+        },
+        {
+          "text": "subsidie",
+          "glossary": "Money the government gives to citizens, businesses, and organizations to support them."
+        },
+        {
+          "text": " van de gemeente muziekles kunnen krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Every primary school child should be able to receive music lessons subsidized by the municipality.",
-      "themeEn": "Music lessons"
+      "isShootout": false
     },
     {
       "id": 114008,
@@ -1129,12 +1167,22 @@
       "theme": "Sustainable energy",
       "themeId": "duurzame-energie",
       "title": "Residents who want to generate sustainable energy together should receive financial support from the municipality.",
+      "titleParts": [
+        {
+          "text": " Inwoners die samen "
+        },
+        {
+          "text": "duurzame energie",
+          "glossary": "Energy based on resources that are effectively infinite, such as sunlight and wind."
+        },
+        {
+          "text": " op willen wekken, moeten financiële steun krijgen van de gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents who want to generate sustainable energy together should receive financial support from the municipality.",
-      "themeEn": "Sustainable energy"
+      "isShootout": false
     },
     {
       "id": 114013,
@@ -1142,12 +1190,22 @@
       "theme": "Wood burning",
       "themeId": "houtstook",
       "title": "The use of fireplaces and wood-burning stoves should remain permitted in Etten-Leur.",
+      "titleParts": [
+        {
+          "text": " In Etten-Leur moet het gebruik van open haarden en "
+        },
+        {
+          "text": "houtkachels",
+          "glossary": "Wood-burning stoves used to heat a home."
+        },
+        {
+          "text": " toegestaan blijven."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The use of fireplaces and wood-burning stoves should remain permitted in Etten-Leur.",
-      "themeEn": "Wood burning"
+      "isShootout": false
     },
     {
       "id": 114055,
@@ -1158,9 +1216,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The center of Etten-Leur should become car-free.",
-      "themeEn": "Car-free"
+      "isShootout": false
     },
     {
       "id": 114051,
@@ -1171,9 +1227,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "More high-rise residential buildings should be allowed in Etten-Leur.",
-      "themeEn": "Apartment buildings"
+      "isShootout": false
     },
     {
       "id": 114010,
@@ -1181,12 +1235,22 @@
       "theme": "Asylum accommodation",
       "themeId": "asielopvang",
       "title": "The asylum reception center in our municipality should be closed as soon as possible.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "asielopvang",
+          "glossary": "A place where people who have applied for asylum are accommodated. An asylum shelter can be temporary. A permanent asylum shelter is called an asylum seekers' centre (azc)."
+        },
+        {
+          "text": " in onze gemeente moet zo snel mogelijk sluiten."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The asylum reception center in our municipality should be closed as soon as possible.",
-      "themeEn": "Asylum accommodation"
+      "isShootout": false
     },
     {
       "id": 114020,
@@ -1194,12 +1258,22 @@
       "theme": "Sports membership fees",
       "themeId": "contributie-sport",
       "title": "The municipality should pay the membership fees for a sports club for people receiving social assistance.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet het lidmaatschap van een sportclub betalen voor mensen met een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Money from the municipality for people who have no income or personal funds."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should pay the membership fees for a sports club for people receiving social assistance.",
-      "themeEn": "Sports membership fees"
+      "isShootout": false
     },
     {
       "id": 114032,
@@ -1210,9 +1284,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should prevent new construction outside existing village boundaries.",
-      "themeEn": "Housing construction"
+      "isShootout": false
     },
     {
       "id": 114003,
@@ -1220,12 +1292,29 @@
       "theme": "Mayor and municipal executive",
       "themeId": "burgemeester-en-college",
       "title": "The new college of mayor and aldermen must have an equal number of men and women.",
+      "titleParts": [
+        {
+          "text": " In het nieuwe "
+        },
+        {
+          "text": "college",
+          "glossary": "The college of mayor and aldermen, the municipality’s executive board."
+        },
+        {
+          "text": " van "
+        },
+        {
+          "text": "burgemeester",
+          "glossary": "The mayor leads the municipality and chairs the municipal council. The mayor is not elected but appointed by the national government, after recommendation by the municipal council."
+        },
+        {
+          "text": " en wethouders moet het aantal mannen en vrouwen gelijk zijn."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The new college of mayor and aldermen must have an equal number of men and women.",
-      "themeEn": "Mayor and municipal executive"
+      "isShootout": false
     },
     {
       "id": 114015,
@@ -1236,9 +1325,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should organize a fireworks show on New Year's Eve.",
-      "themeEn": "Fireworks"
+      "isShootout": false
     },
     {
       "id": 114024,
@@ -1246,12 +1333,22 @@
       "theme": "Sports clubs",
       "themeId": "sportverenigingen",
       "title": "If sports clubs are struggling, the municipality should contribute financially.",
+      "titleParts": [
+        {
+          "text": " Als sportverenigingen het moeilijk hebben, moet de gemeente "
+        },
+        {
+          "text": "financieel",
+          "glossary": "Something related to money."
+        },
+        {
+          "text": " bijdragen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "If sports clubs are struggling, the municipality should contribute financially.",
-      "themeEn": "Sports clubs"
+      "isShootout": false
     },
     {
       "id": 114042,
@@ -1259,12 +1356,22 @@
       "theme": "Dog tax",
       "themeId": "hondenbelasting",
       "title": "The municipality should abolish the dog tax.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de "
+        },
+        {
+          "text": "hondenbelasting",
+          "glossary": "Tax paid to the municipality for owning one or more dogs."
+        },
+        {
+          "text": " afschaffen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should abolish the dog tax.",
-      "themeEn": "Dog tax"
+      "isShootout": false
     },
     {
       "id": 114039,
@@ -1272,12 +1379,22 @@
       "theme": "Choice of healthcare",
       "themeId": "zorgkeuze",
       "title": "People who need care should always be able to choose a caregiver who matches their religion, culture, or beliefs.",
+      "titleParts": [
+        {
+          "text": " Mensen die zorg nodig hebben, moeten altijd kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of "
+        },
+        {
+          "text": "levensovertuiging",
+          "glossary": "What someone believes about life, such as a religion or personal conviction."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People who need care should always be able to choose a caregiver who matches their religion, culture, or beliefs.",
-      "themeEn": "Choice of healthcare"
+      "isShootout": false
     },
     {
       "id": 114038,
@@ -1285,12 +1402,29 @@
       "theme": "Car speeds",
       "themeId": "snelheid-auto-s",
       "title": "The maximum speed limit in built-up areas should be set to 30 km/h.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "maximumsnelheid",
+          "glossary": "The maximum speed that cars and motorcycles are allowed to drive on the road."
+        },
+        {
+          "text": " binnen de "
+        },
+        {
+          "text": "bebouwde kom",
+          "glossary": "An area with buildings (houses, other structures)."
+        },
+        {
+          "text": " moet naar 30 km/u."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The maximum speed limit in built-up areas should be set to 30 km/h.",
-      "themeEn": "Car speeds"
+      "isShootout": false
     },
     {
       "id": 114044,
@@ -1301,9 +1435,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Etten-Leur should have more business parks.",
-      "themeEn": "Business parks"
+      "isShootout": false
     },
     {
       "id": 114035,
@@ -1314,9 +1446,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should raise the income threshold for receiving poverty assistance.",
-      "themeEn": "Combating poverty"
+      "isShootout": false
     },
     {
       "id": 114049,
@@ -1324,12 +1454,22 @@
       "theme": "Coffeeshops (cannabis cafés)",
       "themeId": "coffeeshops",
       "title": "The municipality should prevent the opening of new coffeeshops.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de vestiging van nieuwe "
+        },
+        {
+          "text": "coffeeshops",
+          "glossary": "Shops or cafés where you can buy and smoke soft drugs (hash, weed)."
+        },
+        {
+          "text": " tegenhouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should prevent the opening of new coffeeshops.",
-      "themeEn": "Coffeeshops (cannabis cafés)"
+      "isShootout": false
     },
     {
       "id": 114046,
@@ -1337,12 +1477,22 @@
       "theme": "Recycling center",
       "themeId": "milieustraat",
       "title": "Dropping off waste at the recycling center should be free of charge.",
+      "titleParts": [
+        {
+          "text": " Het inleveren van afval bij de "
+        },
+        {
+          "text": "milieustraat",
+          "glossary": "A place where citizens and businesses can bring different kinds of waste."
+        },
+        {
+          "text": " moet gratis worden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Dropping off waste at the recycling center should be free of charge.",
-      "themeEn": "Recycling center"
+      "isShootout": false
     },
     {
       "id": 114031,
@@ -1353,9 +1503,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must allow holiday homes to be used as a permanent residence.",
-      "themeEn": "Holiday homes"
+      "isShootout": false
     },
     {
       "id": 114053,
@@ -1366,9 +1514,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Paid parking in the center should be made cheaper.",
-      "themeEn": "Cheaper paid parking"
+      "isShootout": false
     },
     {
       "id": 114004,
@@ -1376,12 +1522,22 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "The residents of Etten-Leur should be able to give their opinion on important issues through a referendum.",
+      "titleParts": [
+        {
+          "text": " De inwoners van Etten-Leur moeten over belangrijke onderwerpen hun mening kunnen geven via een "
+        },
+        {
+          "text": "referendum",
+          "glossary": "A public consultation where residents can express their opinion on a political issue. The municipal council is not obliged to follow the result; legally it cannot."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The residents of Etten-Leur should be able to give their opinion on important issues through a referendum.",
-      "themeEn": "Referendum"
+      "isShootout": false
     },
     {
       "id": 114045,
@@ -1389,12 +1545,29 @@
       "theme": "Priority for refugees",
       "themeId": "voorrang-voor-vluchtelingen",
       "title": "The municipality must continue to give refugees with a residence permit priority for social housing.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet vluchtelingen met een "
+        },
+        {
+          "text": "verblijfsvergunning",
+          "glossary": "The right to reside in the Netherlands. The term can refer to the right itself or to the card that shows someone has that right."
+        },
+        {
+          "text": " voorrang blijven geven op een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must continue to give refugees with a residence permit priority for social housing.",
-      "themeEn": "Priority for refugees"
+      "isShootout": false
     },
     {
       "id": 114043,
@@ -1402,12 +1575,22 @@
       "theme": "Tourist tax",
       "themeId": "toeristenbelasting",
       "title": "The tourist tax should be lowered.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "toeristenbelasting",
+          "glossary": "The tax you must pay when you stay overnight in a hotel or at a campsite."
+        },
+        {
+          "text": " moet omlaag."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The tourist tax should be lowered.",
-      "themeEn": "Tourist tax"
+      "isShootout": false
     },
     {
       "id": 114016,
@@ -1418,9 +1601,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Bulky waste must be collected from homes free of charge.",
-      "themeEn": "Bulky waste"
+      "isShootout": false
     },
     {
       "id": 114050,
@@ -1428,12 +1609,29 @@
       "theme": "Social housing",
       "themeId": "sociale-huurwoningen",
       "title": "At least 40% of the new homes built in Etten-Leur should be social rental housing. Currently 28% of homes in the Netherlands are social rental housing.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in Etten-Leur moet minimaal 40% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " zijn. In Nederland is nu 28% van de woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "At least 40% of the new homes built in Etten-Leur should be social rental housing. Currently 28% of homes in the Netherlands are social rental housing.",
-      "themeEn": "Social housing"
+      "isShootout": false
     }
   ],
   "shootoutStatements": []

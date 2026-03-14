@@ -2362,6 +2362,18 @@
       "theme": "Rookvrije terrassen",
       "themeId": "rookvrije-terrassen",
       "title": "De terrassen in Winterswijk moeten rookvrij worden.",
+      "titleParts": [
+        {
+          "text": " De terrassen in Winterswijk moeten "
+        },
+        {
+          "text": "rookvrij",
+          "glossary": "Hier mag je niet roken of vapen."
+        },
+        {
+          "text": " worden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2375,6 +2387,25 @@
       "theme": "Tegenprestatie voor uitkering",
       "themeId": "tegenprestatie-voor-uitkering",
       "title": "Mensen die een bijstandsuitkering krijgen, moeten in ruil daarvoor maatschappelijk zinvol werk doen.",
+      "titleParts": [
+        {
+          "text": " Mensen die een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Geld van de gemeente voor mensen die geen inkomen of eigen geld hebben."
+        },
+        {
+          "text": " krijgen, moeten in ruil daarvoor "
+        },
+        {
+          "text": "maatschappelijk zinvol werk",
+          "glossary": "Bijvoorbeeld schoonmaken van de straten of het gezelschap houden en ondersteunen van oudere inwoners."
+        },
+        {
+          "text": " doen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2401,6 +2432,25 @@
       "theme": "Bedrijven aantrekken",
       "themeId": "bedrijven-aantrekken",
       "title": "De gemeente moet geld steken in een promotiecampagne voor Winterswijk als aantrekkelijke vestigingsplaats voor bedrijven.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld steken in een "
+        },
+        {
+          "text": "promotiecampagne",
+          "glossary": "Een serie reclames op bijvoorbeeld borden, televisie en sociale media."
+        },
+        {
+          "text": " voor Winterswijk als aantrekkelijke "
+        },
+        {
+          "text": "vestigingsplaats",
+          "glossary": "De plek waar een bedrijf zich vestigt."
+        },
+        {
+          "text": " voor bedrijven."
+        }
+      ],
       "moreInfo": "Gemeenten kunnen bedrijven aantrekken door te laten zien wat zij te bieden hebben. Dit kan bijvoorbeeld met een promotiecampagne. Het doel is om bedrijven te overtuigen zich in de gemeente te vestigen.",
       "pro": "",
       "con": "",
@@ -2414,6 +2464,18 @@
       "theme": "Huisvesting buitenlandse werknemers",
       "themeId": "huisvesting-buitenlandse-werknemers",
       "title": "De gemeente moet vaker controleren of bedrijven hun arbeidsmigranten goed hebben gehuisvest.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet vaker controleren of bedrijven hun "
+        },
+        {
+          "text": "arbeidsmigranten",
+          "glossary": "Mensen uit een ander land die tijdelijk in Nederland werken."
+        },
+        {
+          "text": " goed hebben gehuisvest."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2492,6 +2554,18 @@
       "theme": "Lokale omroep",
       "themeId": "lokale-omroep",
       "title": "Winterswijk moet de lokale omroep RTV Slingeland ondersteunen met extra geld.",
+      "titleParts": [
+        {
+          "text": " Winterswijk moet de "
+        },
+        {
+          "text": "lokale omroep",
+          "glossary": "Radio en televisie voor en door mensen uit de gemeente en de directe omgeving."
+        },
+        {
+          "text": " RTV Slingeland ondersteunen met extra geld."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2531,6 +2605,18 @@
       "theme": "Sociale huurwoningen",
       "themeId": "sociale-huurwoningen",
       "title": "Van de nieuw te bouwen woningen in Winterswijk moet minimaal 30% een sociale huurwoning zijn.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in Winterswijk moet minimaal 30% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur voor mensen met een laag inkomen. In 2026 is dat een bedrag van ten hoogste € 932,93 per maand."
+        },
+        {
+          "text": " zijn."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2544,6 +2630,18 @@
       "theme": "Einddatum asielzoekerscentrum",
       "themeId": "einddatum-asielzoekerscentrum",
       "title": "De gemeente moet een einddatum voor het asielzoekerscentrum in Winterswijk afspreken met het Rijk.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet een einddatum voor het "
+        },
+        {
+          "text": "asielzoekerscentrum",
+          "glossary": "Opvangcentrum voor asielzoekers. Ze wonen daar tot besloten is of ze in Nederland mogen blijven. Een asielzoekerscentrum blijft langere tijd in een gemeente staan."
+        },
+        {
+          "text": " in Winterswijk afspreken met het Rijk."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2596,6 +2694,18 @@
       "theme": "Respijtzorg",
       "themeId": "respijtzorg",
       "title": "De gemeente moet meer geld beschikbaar stellen voor vervangende zorg, zodat mensen die mantelzorg geven vaker worden ontlast.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld beschikbaar stellen voor vervangende zorg, zodat mensen die "
+        },
+        {
+          "text": "mantelzorg",
+          "glossary": "Onbetaalde en vaak langdurige zorg voor zieke familieleden of vrienden."
+        },
+        {
+          "text": " geven vaker worden ontlast."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2609,6 +2719,18 @@
       "theme": "Vrijstelling sollicitatieplicht",
       "themeId": "vrijstelling-sollicitatieplicht",
       "title": "Mensen met een bijstandsuitkering die bijscholing volgen, hoeven tijdelijk niet te solliciteren.",
+      "titleParts": [
+        {
+          "text": " Mensen met een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Geld van de gemeente voor mensen die geen inkomen of eigen geld hebben."
+        },
+        {
+          "text": " die bijscholing volgen, hoeven tijdelijk niet te solliciteren."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2622,6 +2744,18 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "De inwoners van Winterswijk moeten over belangrijke onderwerpen hun mening kunnen geven via een referendum.",
+      "titleParts": [
+        {
+          "text": " De inwoners van Winterswijk moeten over belangrijke onderwerpen hun mening kunnen geven via een "
+        },
+        {
+          "text": "referendum",
+          "glossary": "Volksraadpleging waarbij inwoners zich kunnen uitspreken over een politieke kwestie. De gemeenteraad is niet verplicht de uitslag te volgen, dat is wettelijk niet mogelijk."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "Bij een referendum legt een overheid een vraag over één onderwerp voor aan kiezers. Die kunnen voor of tegen stemmen. Bij een gemeentelijk referendum mogen alle inwoners van die gemeente stemmen die 18 jaar of ouder zijn. Zowel leden van de gemeenteraad als inwoners kunnen een referendum aanvragen. Als inwoners een referendum willen, moeten ze daar handtekeningen voor verzamelen. In de regels van de gemeente staat hoeveel handtekeningen minimaal nodig zijn. In Nederland is de uitslag van een referendum niet bindend. De gemeente hoeft de uitslag niet te volgen en kan een ander besluit nemen.",
       "pro": "",
       "con": "",
@@ -2635,6 +2769,25 @@
       "theme": "Snelheid auto's",
       "themeId": "snelheid-auto-s",
       "title": "De maximumsnelheid binnen de bebouwde kom moet overal omlaag naar 30 km/u.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "maximumsnelheid",
+          "glossary": "De hoogste snelheid die autos en motoren mogen rijden op straat."
+        },
+        {
+          "text": " binnen de "
+        },
+        {
+          "text": "bebouwde kom",
+          "glossary": "Gebied met bebouwing (huizen, gebouwen)."
+        },
+        {
+          "text": " moet overal omlaag naar 30 km/u."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2661,6 +2814,18 @@
       "theme": "Testlocatie voor drugs",
       "themeId": "testlocatie-voor-drugs",
       "title": "De gemeente moet zorgen voor een testlocatie voor drugs in de gemeente.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet zorgen voor een "
+        },
+        {
+          "text": "testlocatie voor drugs",
+          "glossary": "Plek waar je kunt laten onderzoeken wat er in je drugs zit en hoe sterk je drugs zijn."
+        },
+        {
+          "text": " in de gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",

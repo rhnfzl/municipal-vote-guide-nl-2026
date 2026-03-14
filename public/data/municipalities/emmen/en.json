@@ -2848,9 +2848,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must allow housing construction in Rensenpark (the old zoo).",
-      "themeEn": "Housing in Rensenpark"
+      "isShootout": false
     },
     {
       "id": 269112,
@@ -2861,9 +2859,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must contribute to the cost of a new stadium for FC Emmen.",
-      "themeEn": "FC Emmen stadium"
+      "isShootout": false
     },
     {
       "id": 269084,
@@ -2871,12 +2867,22 @@
       "theme": "Asylum seekers' center",
       "themeId": "asielzoekerscentrum",
       "title": "The asylum seekers' centre (azc) in our municipality must close as soon as possible. The contract runs until 2031.",
+      "titleParts": [
+        {
+          "text": " Het "
+        },
+        {
+          "text": "asielzoekerscentrum",
+          "glossary": "Reception center for asylum seekers. They live there until it is decided whether they may stay in the Netherlands. An asylum seekers’ center remains in a municipality for a long time."
+        },
+        {
+          "text": " (azc) in onze gemeente moet zo snel mogelijk sluiten. Het contract loopt tot 2031."
+        }
+      ],
       "moreInfo": "Emmen has one asylum seekers’ centre. It is located near Emmen Zuid station. This family location with space for 650 people will, according to agreements with the COA, remain open until mid-2031.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The asylum seekers' centre (azc) in our municipality must close as soon as possible. The contract runs until 2031.",
-      "themeEn": "Asylum seekers' center"
+      "isShootout": false
     },
     {
       "id": 269080,
@@ -2884,12 +2890,22 @@
       "theme": "Sustainable energy",
       "themeId": "duurzame-energie",
       "title": "Residents who want to generate sustainable energy together should receive financial support from the municipality.",
+      "titleParts": [
+        {
+          "text": " Inwoners die samen "
+        },
+        {
+          "text": "duurzame energie",
+          "glossary": "Energy based on resources that are effectively infinite, such as sunlight and wind."
+        },
+        {
+          "text": " op willen wekken, moeten financiële steun krijgen van de gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents who want to generate sustainable energy together should receive financial support from the municipality.",
-      "themeEn": "Sustainable energy"
+      "isShootout": false
     },
     {
       "id": 269076,
@@ -2897,12 +2913,22 @@
       "theme": "Tax on buildings",
       "themeId": "belasting-op-gebouwen",
       "title": "The property tax (ozb) must remain the same.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "onroerendezaakbelasting",
+          "glossary": "Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": " (ozb) moet hetzelfde blijven."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The property tax (ozb) must remain the same.",
-      "themeEn": "Tax on buildings"
+      "isShootout": false
     },
     {
       "id": 269121,
@@ -2913,9 +2939,7 @@
       "moreInfo": "Greenwise Campus is a collaborative site in development. Companies, schools, government and residents work there on sustainable and innovative solutions for the future.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must invest more money in the Greenwise Campus on Eerste Bokslootweg.",
-      "themeEn": "Greenwise Campus"
+      "isShootout": false
     },
     {
       "id": 269092,
@@ -2923,12 +2947,22 @@
       "theme": "Enforcement officers",
       "themeId": "handhavers",
       "title": "Emmen and all villages must have more municipal enforcement officers (BOAs) who focus on safety.",
+      "titleParts": [
+        {
+          "text": " In Emmen en alle dorpen moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "People who, for the municipality, check whether citizens and businesses comply with the rules."
+        },
+        {
+          "text": " (boa’s) komen die zich met veiligheid bezighouden."
+        }
+      ],
       "moreInfo": "BOAs (special enforcement officers) work for the municipality and supervise neighborhoods and villages. They watch for nuisance and minor offences and can give warnings or fines. The municipality decides how many BOAs are deployed. The police are under national direction, over which the municipality has no direct influence.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Emmen and all villages must have more municipal enforcement officers (BOAs) who focus on safety.",
-      "themeEn": "Enforcement officers"
+      "isShootout": false
     },
     {
       "id": 269097,
@@ -2939,9 +2973,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Anyone who buys a home in our municipality must live in it themselves.",
-      "themeEn": "Owner-occupancy of a home"
+      "isShootout": false
     },
     {
       "id": 269093,
@@ -2949,12 +2981,22 @@
       "theme": "Coffeeshops (cannabis cafés)",
       "themeId": "coffeeshops",
       "title": "The municipality should prevent the opening of new coffeeshops.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de vestiging van nieuwe "
+        },
+        {
+          "text": "coffeeshops",
+          "glossary": "Shops or cafés where you can buy and smoke soft drugs (hash, weed)."
+        },
+        {
+          "text": " tegenhouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should prevent the opening of new coffeeshops.",
-      "themeEn": "Coffeeshops (cannabis cafés)"
+      "isShootout": false
     },
     {
       "id": 269110,
@@ -2965,9 +3007,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Every village and neighborhood in the municipality must have its own community center.",
-      "themeEn": "Neighborhood center"
+      "isShootout": false
     },
     {
       "id": 269134,
@@ -2975,12 +3015,22 @@
       "theme": "Sheltered employment",
       "themeId": "beschermde-banen",
       "title": "There must be more workplaces for people with employment disabilities (formerly called social workshops).",
+      "titleParts": [
+        {
+          "text": " Er moeten meer werkplaatsen voor "
+        },
+        {
+          "text": "mensen met een arbeidsbeperking",
+          "glossary": "People who, due to illness or a disability, have difficulty obtaining paid work."
+        },
+        {
+          "text": " komen (vroeger sociale werkplaats)."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There must be more workplaces for people with employment disabilities (formerly called social workshops).",
-      "themeEn": "Sheltered employment"
+      "isShootout": false
     },
     {
       "id": 269108,
@@ -2991,9 +3041,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must build separate bike paths between all villages and neighborhoods that allow for fast cycling.",
-      "themeEn": "Fast cycling connection"
+      "isShootout": false
     },
     {
       "id": 269106,
@@ -3004,9 +3052,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Paid parking in the center of Emmen must become cheaper.",
-      "themeEn": "Paid parking"
+      "isShootout": false
     },
     {
       "id": 269117,
@@ -3017,9 +3063,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must invest more in exhibition and work spaces for artists in Rensenpark (the old zoo).",
-      "themeEn": "Art in Rensenpark"
+      "isShootout": false
     },
     {
       "id": 269082,
@@ -3027,12 +3071,29 @@
       "theme": "Priority for refugees",
       "themeId": "voorrang-voor-vluchtelingen",
       "title": "Refugees with residence permits must be given priority for social housing.",
+      "titleParts": [
+        {
+          "text": " Vluchtelingen met een "
+        },
+        {
+          "text": "verblijfsvergunning",
+          "glossary": "The right to reside in the Netherlands. The term can refer to the right itself or to the card that shows someone has that right."
+        },
+        {
+          "text": " moeten voorrang krijgen op een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Refugees with residence permits must be given priority for social housing.",
-      "themeEn": "Priority for refugees"
+      "isShootout": false
     },
     {
       "id": 269101,
@@ -3040,12 +3101,29 @@
       "theme": "Work requirement for welfare recipients",
       "themeId": "tegenprestatie-voor-uitkering",
       "title": "People receiving social assistance should, in return, do socially useful work.",
+      "titleParts": [
+        {
+          "text": " Mensen die een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Money from the municipality for people who have no income or personal funds."
+        },
+        {
+          "text": " krijgen, moeten in ruil daarvoor "
+        },
+        {
+          "text": "maatschappelijk zinvol werk",
+          "glossary": "For example cleaning the streets or keeping company and supporting elderly residents."
+        },
+        {
+          "text": " doen."
+        }
+      ],
       "moreInfo": "Socially useful work is work that benefits others, such as helping in a community center, reading at school or working in green spaces. It is temporary, not excessive and must not replace paid work.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People receiving social assistance should, in return, do socially useful work.",
-      "themeEn": "Work requirement for welfare recipients"
+      "isShootout": false
     },
     {
       "id": 269125,
@@ -3056,9 +3134,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must invest in a shared heating system for houses and other buildings.",
-      "themeEn": "District heating network"
+      "isShootout": false
     },
     {
       "id": 269127,
@@ -3069,9 +3145,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must install more speed bumps in villages and neighborhoods.",
-      "themeEn": "Speed bumps"
+      "isShootout": false
     },
     {
       "id": 269096,
@@ -3079,12 +3153,29 @@
       "theme": "Social housing",
       "themeId": "sociale-huurwoningen",
       "title": "At least 30% of the newly built homes in the municipality of Emmen must be social housing. Currently 28% of the homes in the municipality are social housing.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in de gemeente Emmen moet minimaal 30% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " zijn. In de gemeente is nu 28% van de woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "At least 30% of the newly built homes in the municipality of Emmen must be social housing. Currently 28% of the homes in the municipality are social housing.",
-      "themeEn": "Social housing"
+      "isShootout": false
     },
     {
       "id": 269119,
@@ -3095,9 +3186,7 @@
       "moreInfo": "Asylum seekers can use a shuttle bus to the asylum seekers’ centre in Ter Apel. This bus departs from Emmen Station.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must contribute to permanent security around the bus to Ter Apel.",
-      "themeEn": "Security for the Ter Apel bus"
+      "isShootout": false
     },
     {
       "id": 269118,
@@ -3108,9 +3197,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The shelter for homeless people near Emmen station must be moved to another location.",
-      "themeEn": "Homeless shelter"
+      "isShootout": false
     },
     {
       "id": 269102,
@@ -3118,12 +3205,29 @@
       "theme": "Subsidized jobs",
       "themeId": "gesubsidieerde-banen",
       "title": "There should be more subsidized jobs for the long-term unemployed in our municipality.",
+      "titleParts": [
+        {
+          "text": " Er moeten meer "
+        },
+        {
+          "text": "gesubsidieerde banen",
+          "glossary": "Government-funded jobs for people who have little chance of getting a regular job."
+        },
+        {
+          "text": " voor "
+        },
+        {
+          "text": "langdurig werklozen",
+          "glossary": "People who have been without paid work for a long time (longer than a year)."
+        },
+        {
+          "text": " komen in onze gemeente."
+        }
+      ],
       "moreInfo": "Subsidized jobs are positions where the municipality pays part of the wage. These jobs are intended for people who have been out of work for a long time or who find it difficult to get a job, so they can gain work experience.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be more subsidized jobs for the long-term unemployed in our municipality.",
-      "themeEn": "Subsidized jobs"
+      "isShootout": false
     },
     {
       "id": 269123,
@@ -3134,9 +3238,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must work with fewer different care providers for assistance and support.",
-      "themeEn": "Market mechanisms in healthcare"
+      "isShootout": false
     },
     {
       "id": 269131,
@@ -3144,12 +3246,29 @@
       "theme": "LGBTI",
       "themeId": "lhbti",
       "title": "The municipality must subsidize activities for LGBTI people.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "subsidie",
+          "glossary": "Money the government gives to citizens, businesses, and organizations to support them."
+        },
+        {
+          "text": " geven aan activiteiten voor "
+        },
+        {
+          "text": "LHBTI'ers",
+          "glossary": "LHBTI stands for lesbian women (L), gay men (H), bisexuals (B), transgender people (T) and intersex persons (I)."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must subsidize activities for LGBTI people.",
-      "themeEn": "LGBTI"
+      "isShootout": false
     },
     {
       "id": 269113,
@@ -3157,12 +3276,22 @@
       "theme": "Recycling center",
       "themeId": "milieustraat",
       "title": "The amount of waste residents may bring free to the recycling center must be increased. It is currently 300 kilograms.",
+      "titleParts": [
+        {
+          "text": " De hoeveelheid afval die bewoners gratis naar de "
+        },
+        {
+          "text": "milieustraat",
+          "glossary": "A place where citizens and businesses can bring different kinds of waste."
+        },
+        {
+          "text": " mogen brengen, moet omhoog. Nu is het 300 kilo."
+        }
+      ],
       "moreInfo": "Residents of the municipality of Emmen can annually hand in 300 kilograms of (coarse) household waste per household free of charge at the Area Reiniging recycling centre.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The amount of waste residents may bring free to the recycling center must be increased. It is currently 300 kilograms.",
-      "themeEn": "Recycling center"
+      "isShootout": false
     },
     {
       "id": 269089,
@@ -3170,12 +3299,22 @@
       "theme": "Sports membership fees",
       "themeId": "contributie-sport",
       "title": "The municipality must pay the full sports club membership for people receiving social assistance.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet het lidmaatschap van een sportclub volledig betalen voor mensen met een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Money from the municipality for people who have no income or personal funds."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must pay the full sports club membership for people receiving social assistance.",
-      "themeEn": "Sports membership fees"
+      "isShootout": false
     },
     {
       "id": 269114,
@@ -3186,9 +3325,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must no longer lend money to the Wildlands animal park.",
-      "themeEn": "Financial support for Wildlands"
+      "isShootout": false
     },
     {
       "id": 269133,
@@ -3199,9 +3336,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Emmen must have a citizens' assembly that advises the municipal council. A citizens' assembly consists of residents chosen by lot.",
-      "themeEn": "Citizens' assembly"
+      "isShootout": false
     },
     {
       "id": 269124,
@@ -3212,9 +3347,7 @@
       "moreInfo": "The Nedersaksenlijn is a not-yet-existing rail connection from Groningen, via Emmen, to Twente. The project is intended to connect parts of the Netherlands that are currently poorly reachable by train (mainly Southeast Drenthe and Northeast Overijssel) to the main rail network. Expropriating land means the government can take land for a project that benefits everyone, such as a railway line. The owner receives payment for this.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The Nedersaksenlijn must be built, even if the municipality has to expropriate land for it.",
-      "themeEn": "Lower Saxony line"
+      "isShootout": false
     },
     {
       "id": 269132,
@@ -3225,9 +3358,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must create more bicycle streets where cyclists have priority over cars.",
-      "themeEn": "Bicycle streets"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

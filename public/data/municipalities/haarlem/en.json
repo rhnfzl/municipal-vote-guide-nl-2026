@@ -2221,12 +2221,22 @@
       "theme": "Low-traffic city center",
       "themeId": "autoluwe-binnenstad",
       "title": "The municipality of Haarlem should make the west side of the Spaarne low-traffic, between Bakenessergracht and Gedempte Oude Gracht.",
+      "titleParts": [
+        {
+          "text": " De gemeente Haarlem moet de westkant van het Spaarne "
+        },
+        {
+          "text": "autoluw",
+          "glossary": "That there is little car traffic."
+        },
+        {
+          "text": " maken, tussen Bakenessergracht en Gedempte Oude Gracht."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality of Haarlem should make the west side of the Spaarne low-traffic, between Bakenessergracht and Gedempte Oude Gracht.",
-      "themeEn": "Low-traffic city center"
+      "isShootout": false
     },
     {
       "id": 114987,
@@ -2237,9 +2247,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents should be able to take over the management of, for example, a sports hall or a public green space from the municipality.",
-      "themeEn": "Management by citizens"
+      "isShootout": false
     },
     {
       "id": 114989,
@@ -2250,9 +2258,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Cafés and restaurants must be able to determine their own opening hours.",
-      "themeEn": "Opening hours for hospitality venues"
+      "isShootout": false
     },
     {
       "id": 114991,
@@ -2263,9 +2269,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Haarlem should provide shelter for rejected asylum seekers.",
-      "themeEn": "Accommodation for rejected asylum seekers"
+      "isShootout": false
     },
     {
       "id": 114995,
@@ -2276,9 +2280,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should organize a fireworks show on New Year's Eve.",
-      "themeEn": "Fireworks"
+      "isShootout": false
     },
     {
       "id": 115040,
@@ -2286,12 +2288,29 @@
       "theme": "District heating network",
       "themeId": "warmtenet",
       "title": "The municipality should only allow district heating networks that are fully sustainable and no longer run on gas or other fossil fuels.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet alleen nog "
+        },
+        {
+          "text": "warmtenetten",
+          "glossary": "Network of underground pipes that brings hot water from a central source to homes and buildings, for both heating and tap water."
+        },
+        {
+          "text": " toestaan die volledig "
+        },
+        {
+          "text": "duurzaam",
+          "glossary": "Something you can (re)use for a long time."
+        },
+        {
+          "text": " zijn en niet meer werken op gas of andere fossiele brandstoffen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should only allow district heating networks that are fully sustainable and no longer run on gas or other fossil fuels.",
-      "themeEn": "District heating network"
+      "isShootout": false
     },
     {
       "id": 115006,
@@ -2299,12 +2318,22 @@
       "theme": "Camera surveillance",
       "themeId": "cameratoezicht",
       "title": "There should be more camera surveillance in Haarlem.",
+      "titleParts": [
+        {
+          "text": " In Haarlem moet meer "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Monitoring of a building, area, or (groups of) people using security cameras."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be more camera surveillance in Haarlem.",
-      "themeEn": "Camera surveillance"
+      "isShootout": false
     },
     {
       "id": 115011,
@@ -2312,12 +2341,22 @@
       "theme": "Student housing",
       "themeId": "studentenwoningen",
       "title": "The municipality must invest in temporary housing for students, for example container housing.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld steken in tijdelijke huisvesting voor studenten, bijvoorbeeld "
+        },
+        {
+          "text": "containerwoningen",
+          "glossary": "Moveable and temporary homes, usually made from a shipping container."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must invest in temporary housing for students, for example container housing.",
-      "themeEn": "Student housing"
+      "isShootout": false
     },
     {
       "id": 114998,
@@ -2325,12 +2364,29 @@
       "theme": "Accessibility of buildings",
       "themeId": "toegankelijkheid-gebouwen",
       "title": "The municipality should financially help business owners to make their buildings accessible to people with disabilities.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet ondernemers "
+        },
+        {
+          "text": "financieel",
+          "glossary": "Something related to money."
+        },
+        {
+          "text": " helpen om hun gebouw toegankelijker te maken voor mensen met een "
+        },
+        {
+          "text": "beperking",
+          "glossary": "Something that limits you in daily life. A disability can be physical or intellectual or relate to hearing or sight, or combinations of these."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should financially help business owners to make their buildings accessible to people with disabilities.",
-      "themeEn": "Accessibility of buildings"
+      "isShootout": false
     },
     {
       "id": 115021,
@@ -2338,12 +2394,22 @@
       "theme": "Choice of healthcare",
       "themeId": "zorgkeuze",
       "title": "People who need care should always be able to choose a caregiver who matches their religion, culture, or beliefs.",
+      "titleParts": [
+        {
+          "text": " Mensen die zorg nodig hebben, moeten altijd kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of "
+        },
+        {
+          "text": "levensovertuiging",
+          "glossary": "What someone believes about life, such as a religion or personal conviction."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People who need care should always be able to choose a caregiver who matches their religion, culture, or beliefs.",
-      "themeEn": "Choice of healthcare"
+      "isShootout": false
     },
     {
       "id": 115037,
@@ -2354,9 +2420,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be more parking spaces in the neighborhoods.",
-      "themeEn": "More parking spaces"
+      "isShootout": false
     },
     {
       "id": 114986,
@@ -2364,12 +2428,29 @@
       "theme": "Mayor and municipal executive",
       "themeId": "burgemeester-en-college",
       "title": "The new college of mayor and aldermen must have an equal number of men and women.",
+      "titleParts": [
+        {
+          "text": " In het nieuwe "
+        },
+        {
+          "text": "college",
+          "glossary": "The college of mayor and aldermen, the municipality’s executive board."
+        },
+        {
+          "text": " van "
+        },
+        {
+          "text": "burgemeester",
+          "glossary": "The mayor leads the municipality and chairs the municipal council. The mayor is not elected but appointed by the national government, after recommendation by the municipal council."
+        },
+        {
+          "text": " en wethouders moet het aantal mannen en vrouwen gelijk zijn."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The new college of mayor and aldermen must have an equal number of men and women.",
-      "themeEn": "Mayor and municipal executive"
+      "isShootout": false
     },
     {
       "id": 114993,
@@ -2377,12 +2458,22 @@
       "theme": "Wood burning",
       "themeId": "houtstook",
       "title": "The use of open fireplaces and wood-burning stoves should remain allowed in Haarlem.",
+      "titleParts": [
+        {
+          "text": " In Haarlem moet het gebruik van open haarden en "
+        },
+        {
+          "text": "houtkachels",
+          "glossary": "Wood-burning stoves used to heat a home."
+        },
+        {
+          "text": " toegestaan blijven."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The use of open fireplaces and wood-burning stoves should remain allowed in Haarlem.",
-      "themeEn": "Wood burning"
+      "isShootout": false
     },
     {
       "id": 115000,
@@ -2390,12 +2481,22 @@
       "theme": "Local media",
       "themeId": "lokale-media",
       "title": "The municipality should support the local broadcaster with additional funding.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de "
+        },
+        {
+          "text": "lokale omroep",
+          "glossary": "Radio and television by and for people from the municipality and the immediate area."
+        },
+        {
+          "text": " ondersteunen met extra geld."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should support the local broadcaster with additional funding.",
-      "themeEn": "Local media"
+      "isShootout": false
     },
     {
       "id": 115035,
@@ -2406,9 +2507,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Every neighborhood in the city should get its own community center.",
-      "themeEn": "Neighborhood center"
+      "isShootout": false
     },
     {
       "id": 115007,
@@ -2416,12 +2515,22 @@
       "theme": "Enforcement officers",
       "themeId": "handhavers",
       "title": "The municipal enforcement officers who monitor safety in Haarlem should be given a baton.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "boa's",
+          "glossary": "Special Enforcement Officers. They can issue fines and often supervise the streets."
+        },
+        {
+          "text": " die in Haarlem controleren op veiligheid moeten een wapenstok krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipal enforcement officers who monitor safety in Haarlem should be given a baton.",
-      "themeEn": "Enforcement officers"
+      "isShootout": false
     },
     {
       "id": 115003,
@@ -2429,12 +2538,22 @@
       "theme": "Sports clubs",
       "themeId": "sportverenigingen",
       "title": "If sports clubs are struggling, the municipality should contribute financially.",
+      "titleParts": [
+        {
+          "text": " Als sportverenigingen het moeilijk hebben, moet de gemeente "
+        },
+        {
+          "text": "financieel",
+          "glossary": "Something related to money."
+        },
+        {
+          "text": " bijdragen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "If sports clubs are struggling, the municipality should contribute financially.",
-      "themeEn": "Sports clubs"
+      "isShootout": false
     },
     {
       "id": 114990,
@@ -2442,12 +2561,22 @@
       "theme": "Asylum seekers' center",
       "themeId": "asielzoekerscentrum",
       "title": "The asylum reception center in our municipality should be closed as soon as possible.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "asielopvang",
+          "glossary": "A place where people who have applied for asylum are accommodated. An asylum shelter can be temporary. A permanent asylum shelter is called an asylum seekers' centre (azc)."
+        },
+        {
+          "text": " in onze gemeente moet zo snel mogelijk sluiten."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The asylum reception center in our municipality should be closed as soon as possible.",
-      "themeEn": "Asylum seekers' center"
+      "isShootout": false
     },
     {
       "id": 115014,
@@ -2458,9 +2587,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should raise the income threshold for receiving poverty assistance.",
-      "themeEn": "Combating poverty"
+      "isShootout": false
     },
     {
       "id": 115008,
@@ -2468,12 +2595,22 @@
       "theme": "Priority for housing",
       "themeId": "voorrang-huisvesting",
       "title": "When allocating social housing, applicants from the municipality should be given priority.",
+      "titleParts": [
+        {
+          "text": " Bij de toewijzing van een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " moeten woningzoekenden uit de eigen gemeente voorrang krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "When allocating social housing, applicants from the municipality should be given priority.",
-      "themeEn": "Priority for housing"
+      "isShootout": false
     },
     {
       "id": 115017,
@@ -2484,9 +2621,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should designate more parking spaces as charging points for electric cars.",
-      "themeEn": "Electric vehicle charging stations"
+      "isShootout": false
     },
     {
       "id": 115012,
@@ -2494,12 +2629,29 @@
       "theme": "Work requirement for welfare recipients",
       "themeId": "tegenprestatie-voor-uitkering",
       "title": "People receiving social assistance should, in return, do socially useful work.",
+      "titleParts": [
+        {
+          "text": " Mensen die een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Money from the municipality for people who have no income or personal funds."
+        },
+        {
+          "text": " krijgen, moeten in ruil daarvoor "
+        },
+        {
+          "text": "maatschappelijk zinvol werk",
+          "glossary": "For example cleaning the streets or keeping company and supporting elderly residents."
+        },
+        {
+          "text": " doen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People receiving social assistance should, in return, do socially useful work.",
-      "themeEn": "Work requirement for welfare recipients"
+      "isShootout": false
     },
     {
       "id": 114994,
@@ -2510,9 +2662,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must ban outdoor patio heaters.",
-      "themeEn": "Terrace heating"
+      "isShootout": false
     },
     {
       "id": 115013,
@@ -2520,12 +2670,29 @@
       "theme": "Stop debt forgiveness",
       "themeId": "kwijtschelding-stoppen",
       "title": "The municipality should stop forgiving municipal taxes for low-income residents.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet stoppen met het "
+        },
+        {
+          "text": "kwijtschelden",
+          "glossary": "That people no longer have to pay for something."
+        },
+        {
+          "text": " van de "
+        },
+        {
+          "text": "gemeentelijke belastingen",
+          "glossary": "Taxes you have to pay to the municipality (e.g., sewer charge, waste disposal charge, dog tax)."
+        },
+        {
+          "text": " voor inwoners met een laag inkomen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should stop forgiving municipal taxes for low-income residents.",
-      "themeEn": "Stop debt forgiveness"
+      "isShootout": false
     },
     {
       "id": 115032,
@@ -2533,12 +2700,29 @@
       "theme": "Social housing",
       "themeId": "sociale-huurwoningen",
       "title": "Of the newly built homes in Haarlem, at least 50% should be social rental housing. Currently 28% of homes in the Netherlands are social rental housing.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in Haarlem moet minimaal 50% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " zijn. In Nederland is nu 28% van de woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Of the newly built homes in Haarlem, at least 50% should be social rental housing. Currently 28% of homes in the Netherlands are social rental housing.",
-      "themeEn": "Social housing"
+      "isShootout": false
     },
     {
       "id": 115024,
@@ -2546,12 +2730,22 @@
       "theme": "Dog tax",
       "themeId": "hondenbelasting",
       "title": "The municipality should abolish the dog tax.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de "
+        },
+        {
+          "text": "hondenbelasting",
+          "glossary": "Tax paid to the municipality for owning one or more dogs."
+        },
+        {
+          "text": " afschaffen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should abolish the dog tax.",
-      "themeEn": "Dog tax"
+      "isShootout": false
     },
     {
       "id": 115038,
@@ -2562,9 +2756,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Haarlem's city center should become car-free.",
-      "themeEn": "Car-free"
+      "isShootout": false
     },
     {
       "id": 115026,
@@ -2575,9 +2767,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Industrial/business parks in Haarlem should be allowed to expand.",
-      "themeEn": "Business parks"
+      "isShootout": false
     },
     {
       "id": 115031,
@@ -2585,12 +2775,22 @@
       "theme": "Coffeeshops (cannabis cafés)",
       "themeId": "coffeeshops",
       "title": "The municipality should allow the establishment of new coffeeshops.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de vestiging van nieuwe "
+        },
+        {
+          "text": "coffeeshops",
+          "glossary": "Shops or cafés where you can buy and smoke soft drugs (hash, weed)."
+        },
+        {
+          "text": " toestaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allow the establishment of new coffeeshops.",
-      "themeEn": "Coffeeshops (cannabis cafés)"
+      "isShootout": false
     },
     {
       "id": 115041,
@@ -2601,9 +2801,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Parking should be free again in neighborhoods where paid parking was recently introduced.",
-      "themeEn": "Parking"
+      "isShootout": false
     }
   ],
   "shootoutStatements": []

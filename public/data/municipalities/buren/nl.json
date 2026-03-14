@@ -1051,6 +1051,18 @@
       "theme": "Windmolens",
       "themeId": "windmolens",
       "title": "Buren moet een plek aanwijzen waar windmolens mogen komen.",
+      "titleParts": [
+        {
+          "text": " Buren moet een plek aanwijzen waar "
+        },
+        {
+          "text": "windmolens",
+          "glossary": "Het gaat om moderne windturbines die windkracht omzetten in elektriciteit, en die tot 150 meter hoog kunnen zijn."
+        },
+        {
+          "text": " mogen komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1064,6 +1076,25 @@
       "theme": "Burgemeester en college",
       "themeId": "burgemeester-en-college",
       "title": "In het nieuwe college van burgemeester en wethouders moet het aantal mannen en vrouwen gelijk zijn.",
+      "titleParts": [
+        {
+          "text": " In het nieuwe "
+        },
+        {
+          "text": "college",
+          "glossary": "College van burgemeester en wethouders, het dagelijks bestuur van de gemeente."
+        },
+        {
+          "text": " van "
+        },
+        {
+          "text": "burgemeester",
+          "glossary": "De burgemeester leidt de gemeente en zit de gemeenteraad voor. De burgemeester wordt niet gekozen maar benoemd door de regering, na aanbeveling door de gemeenteraad."
+        },
+        {
+          "text": " en wethouders moet het aantal mannen en vrouwen gelijk zijn."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1090,6 +1121,18 @@
       "theme": "Huisvesting buitenlandse werknemers",
       "themeId": "huisvesting-buitenlandse-werknemers",
       "title": "Werkgevers in de land- en tuinbouw moeten zelf zorgen voor de huisvesting van seizoenarbeiders op hun eigen bedrijfsterrein.",
+      "titleParts": [
+        {
+          "text": " Werkgevers in de land- en tuinbouw moeten zelf zorgen voor de huisvesting van "
+        },
+        {
+          "text": "seizoenarbeiders",
+          "glossary": "Mensen die werk doen dat alleen in een bepaald seizoen kan gebeuren. Vaak in de landbouw en de fruitpluk."
+        },
+        {
+          "text": " op hun eigen bedrijfsterrein."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1103,6 +1146,18 @@
       "theme": "Houtstook",
       "themeId": "houtstook",
       "title": "In Buren moet het gebruik van open haarden en houtkachels toegestaan blijven.",
+      "titleParts": [
+        {
+          "text": " In Buren moet het gebruik van open haarden en "
+        },
+        {
+          "text": "houtkachels",
+          "glossary": "Kachels die worden gestookt met hout om een woning te verwarmen."
+        },
+        {
+          "text": " toegestaan blijven."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1116,6 +1171,18 @@
       "theme": "Zorgkeuze",
       "themeId": "zorgkeuze",
       "title": "Mensen die zorg nodig hebben, moeten altijd kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of levensovertuiging.",
+      "titleParts": [
+        {
+          "text": " Mensen die zorg nodig hebben, moeten altijd kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of "
+        },
+        {
+          "text": "levensovertuiging",
+          "glossary": "Wat iemand gelooft over het leven, zoals een geloof of persoonlijke overtuiging."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1129,6 +1196,18 @@
       "theme": "Asielzoekerscentrum",
       "themeId": "asielzoekerscentrum",
       "title": "In onze gemeente moet een asielzoekerscentrum (azc) komen.",
+      "titleParts": [
+        {
+          "text": " In onze gemeente moet een "
+        },
+        {
+          "text": "asielzoekerscentrum",
+          "glossary": "Opvangcentrum voor asielzoekers. Ze wonen daar tot besloten is of ze in Nederland mogen blijven. Een asielzoekerscentrum blijft langere tijd in een gemeente staan."
+        },
+        {
+          "text": " (azc) komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1155,6 +1234,18 @@
       "theme": "Handhavers",
       "themeId": "handhavers",
       "title": "In Buren moeten meer gemeentelijke handhavers (boa’s) komen die zich met veiligheid bezighouden.",
+      "titleParts": [
+        {
+          "text": " In Buren moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "Mensen die voor de gemeente controleren of burgers en bedrijven zich aan de regels houden."
+        },
+        {
+          "text": " (boa’s) komen die zich met veiligheid bezighouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1168,6 +1259,18 @@
       "theme": "Contributie sport",
       "themeId": "contributie-sport",
       "title": "De gemeente moet het lidmaatschap van een sportclub betalen voor mensen met een bijstandsuitkering.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet het lidmaatschap van een sportclub betalen voor mensen met een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Geld van de gemeente voor mensen die geen inkomen of eigen geld hebben."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1181,6 +1284,18 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "De inwoners van Buren moeten over belangrijke onderwerpen hun mening kunnen geven via een referendum.",
+      "titleParts": [
+        {
+          "text": " De inwoners van Buren moeten over belangrijke onderwerpen hun mening kunnen geven via een "
+        },
+        {
+          "text": "referendum",
+          "glossary": "Volksraadpleging waarbij inwoners zich kunnen uitspreken over een politieke kwestie. De gemeenteraad is niet verplicht de uitslag te volgen, dat is wettelijk niet mogelijk."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1194,6 +1309,18 @@
       "theme": "Cameratoezicht",
       "themeId": "cameratoezicht",
       "title": "In Buren moet meer cameratoezicht komen.",
+      "titleParts": [
+        {
+          "text": " In Buren moet meer "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Het houden van toezicht op of in een gebouw, gebied of (groepen) mensen met behulp van bewakingscamera's."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1207,6 +1334,18 @@
       "theme": "Lokale media",
       "themeId": "lokale-media",
       "title": "De gemeente moet de lokale omroep ondersteunen met extra geld.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de "
+        },
+        {
+          "text": "lokale omroep",
+          "glossary": "Radio en televisie voor en door mensen uit de gemeente en de directe omgeving."
+        },
+        {
+          "text": " ondersteunen met extra geld."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1246,6 +1385,18 @@
       "theme": "Sportverenigingen",
       "themeId": "sportverenigingen",
       "title": "Als sportverenigingen het moeilijk hebben, moet de gemeente financieel bijdragen.",
+      "titleParts": [
+        {
+          "text": " Als sportverenigingen het moeilijk hebben, moet de gemeente "
+        },
+        {
+          "text": "financieel",
+          "glossary": "Iets dat met geld te maken heeft."
+        },
+        {
+          "text": " bijdragen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1285,6 +1436,18 @@
       "theme": "Opvang migranten aan de Bredesteeg",
       "themeId": "opvang-migranten-aan-de-bredesteeg",
       "title": "De gemeente Buren moet niet meewerken aan het plan van de gemeente Neder-Betuwe om een opvang voor migranten te bouwen aan de Bredesteeg.",
+      "titleParts": [
+        {
+          "text": " De gemeente Buren moet niet meewerken aan het plan van de gemeente Neder-Betuwe om een opvang voor "
+        },
+        {
+          "text": "migranten",
+          "glossary": "Mensen die vanuit een ander land naar Nederland zijn gekomen, om welke reden dan ook."
+        },
+        {
+          "text": " te bouwen aan de Bredesteeg."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1311,6 +1474,25 @@
       "theme": "Tegenprestatie voor uitkering",
       "themeId": "tegenprestatie-voor-uitkering",
       "title": "Mensen die een bijstandsuitkering krijgen, moeten in ruil daarvoor maatschappelijk zinvol werk doen.",
+      "titleParts": [
+        {
+          "text": " Mensen die een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Geld van de gemeente voor mensen die geen inkomen of eigen geld hebben."
+        },
+        {
+          "text": " krijgen, moeten in ruil daarvoor "
+        },
+        {
+          "text": "maatschappelijk zinvol werk",
+          "glossary": "Bijvoorbeeld schoonmaken van de straten of het gezelschap houden en ondersteunen van oudere inwoners."
+        },
+        {
+          "text": " doen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1324,6 +1506,18 @@
       "theme": "Toeristenbelasting",
       "themeId": "toeristenbelasting",
       "title": "De toeristenbelasting moet omhoog.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "toeristenbelasting",
+          "glossary": "De belasting die je moet betalen als je in een hotel of op een camping bijft slapen."
+        },
+        {
+          "text": " moet omhoog."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1376,6 +1570,18 @@
       "theme": "Milieustraat",
       "themeId": "milieustraat",
       "title": "Het inleveren van afval bij de milieustraat moet gratis blijven.",
+      "titleParts": [
+        {
+          "text": " Het inleveren van afval bij de "
+        },
+        {
+          "text": "milieustraat",
+          "glossary": "Plek waar burgers en bedrijven verschillende soorten afval naartoe kunnen brengen. "
+        },
+        {
+          "text": " moet gratis blijven."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",

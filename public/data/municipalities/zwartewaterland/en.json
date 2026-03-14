@@ -674,9 +674,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "More high-rise residential buildings may be allowed in Zwartewaterland.",
-      "themeEn": "Apartment buildings"
+      "isShootout": false
     },
     {
       "id": 128132,
@@ -684,12 +682,22 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "Residents of Zwartewaterland should be able to express their opinion on important issues through a referendum.",
+      "titleParts": [
+        {
+          "text": " De inwoners van Zwartewaterland moeten over belangrijke onderwerpen hun mening kunnen geven via een "
+        },
+        {
+          "text": "referendum",
+          "glossary": "A public consultation where residents can express their opinion on a political issue. The municipal council is not obliged to follow the result; legally it cannot."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents of Zwartewaterland should be able to express their opinion on important issues through a referendum.",
-      "themeEn": "Referendum"
+      "isShootout": false
     },
     {
       "id": 128155,
@@ -697,12 +705,22 @@
       "theme": "Enforcement officers",
       "themeId": "handhavers",
       "title": "Zwartewaterland should have more municipal enforcement officers (BOAs) focused on public safety.",
+      "titleParts": [
+        {
+          "text": " In Zwartewaterland moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "People who, for the municipality, check whether citizens and businesses comply with the rules."
+        },
+        {
+          "text": " (boa’s) komen die zich met veiligheid bezighouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Zwartewaterland should have more municipal enforcement officers (BOAs) focused on public safety.",
-      "themeEn": "Enforcement officers"
+      "isShootout": false
     },
     {
       "id": 128138,
@@ -710,12 +728,22 @@
       "theme": "Asylum seekers' center",
       "themeId": "asielzoekerscentrum",
       "title": "An asylum seekers' center (AZC) should be established in our municipality.",
+      "titleParts": [
+        {
+          "text": " In onze gemeente moet een "
+        },
+        {
+          "text": "asielzoekerscentrum",
+          "glossary": "Reception center for asylum seekers. They live there until it is decided whether they may stay in the Netherlands. An asylum seekers’ center remains in a municipality for a long time."
+        },
+        {
+          "text": " (azc) komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "An asylum seekers' center (AZC) should be established in our municipality.",
-      "themeEn": "Asylum seekers' center"
+      "isShootout": false
     },
     {
       "id": 128136,
@@ -723,12 +751,22 @@
       "theme": "Sustainable energy",
       "themeId": "duurzame-energie",
       "title": "Residents who want to generate sustainable energy together should receive financial support from the municipality.",
+      "titleParts": [
+        {
+          "text": " Inwoners die samen "
+        },
+        {
+          "text": "duurzame energie",
+          "glossary": "Energy based on resources that are effectively infinite, such as sunlight and wind."
+        },
+        {
+          "text": " op willen wekken, moeten financiële steun krijgen van de gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents who want to generate sustainable energy together should receive financial support from the municipality.",
-      "themeEn": "Sustainable energy"
+      "isShootout": false
     },
     {
       "id": 128156,
@@ -736,12 +774,22 @@
       "theme": "Camera surveillance",
       "themeId": "cameratoezicht",
       "title": "Zwartewaterland should install more CCTV/camera surveillance.",
+      "titleParts": [
+        {
+          "text": " In Zwartewaterland moet meer "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Monitoring of a building, area, or (groups of) people using security cameras."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Zwartewaterland should install more CCTV/camera surveillance.",
-      "themeEn": "Camera surveillance"
+      "isShootout": false
     },
     {
       "id": 128149,
@@ -749,12 +797,22 @@
       "theme": "Local media",
       "themeId": "lokale-media",
       "title": "The municipality should support the local broadcaster with additional funding.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de "
+        },
+        {
+          "text": "lokale omroep",
+          "glossary": "Radio and television by and for people from the municipality and the immediate area."
+        },
+        {
+          "text": " ondersteunen met extra geld."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should support the local broadcaster with additional funding.",
-      "themeEn": "Local media"
+      "isShootout": false
     },
     {
       "id": 128137,
@@ -762,12 +820,22 @@
       "theme": "Distribution centers",
       "themeId": "distributiecentra",
       "title": "The municipality must oppose the establishment of new distribution centers.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de vestiging van nieuwe "
+        },
+        {
+          "text": "distributiecentra",
+          "glossary": "Large warehouses where goods are received, sorted and transported to other locations."
+        },
+        {
+          "text": " tegengaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must oppose the establishment of new distribution centers.",
-      "themeEn": "Distribution centers"
+      "isShootout": false
     },
     {
       "id": 128131,
@@ -775,12 +843,29 @@
       "theme": "Mayor and municipal executive",
       "themeId": "burgemeester-en-college",
       "title": "The new college of mayor and aldermen must have an equal number of men and women.",
+      "titleParts": [
+        {
+          "text": " In het nieuwe "
+        },
+        {
+          "text": "college",
+          "glossary": "The college of mayor and aldermen, the municipality’s executive board."
+        },
+        {
+          "text": " van "
+        },
+        {
+          "text": "burgemeester",
+          "glossary": "The mayor leads the municipality and chairs the municipal council. The mayor is not elected but appointed by the national government, after recommendation by the municipal council."
+        },
+        {
+          "text": " en wethouders moet het aantal mannen en vrouwen gelijk zijn."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The new college of mayor and aldermen must have an equal number of men and women.",
-      "themeEn": "Mayor and municipal executive"
+      "isShootout": false
     },
     {
       "id": 128143,
@@ -791,9 +876,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should organize a fireworks show on New Year's Eve.",
-      "themeEn": "Fireworks"
+      "isShootout": false
     },
     {
       "id": 128151,
@@ -801,12 +884,22 @@
       "theme": "Music lessons",
       "themeId": "muziekles",
       "title": "Every primary school child should be able to receive music lessons subsidized by the municipality.",
+      "titleParts": [
+        {
+          "text": " Elk basisschoolkind moet met "
+        },
+        {
+          "text": "subsidie",
+          "glossary": "Money the government gives to citizens, businesses, and organizations to support them."
+        },
+        {
+          "text": " van de gemeente muziekles kunnen krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Every primary school child should be able to receive music lessons subsidized by the municipality.",
-      "themeEn": "Music lessons"
+      "isShootout": false
     },
     {
       "id": 128163,
@@ -814,12 +907,29 @@
       "theme": "Work requirement for welfare recipients",
       "themeId": "tegenprestatie-voor-uitkering",
       "title": "People receiving social assistance should, in return, do socially useful work.",
+      "titleParts": [
+        {
+          "text": " Mensen die een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Money from the municipality for people who have no income or personal funds."
+        },
+        {
+          "text": " krijgen, moeten in ruil daarvoor "
+        },
+        {
+          "text": "maatschappelijk zinvol werk",
+          "glossary": "For example cleaning the streets or keeping company and supporting elderly residents."
+        },
+        {
+          "text": " doen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People receiving social assistance should, in return, do socially useful work.",
-      "themeEn": "Work requirement for welfare recipients"
+      "isShootout": false
     },
     {
       "id": 128152,
@@ -827,12 +937,22 @@
       "theme": "Sports clubs",
       "themeId": "sportverenigingen",
       "title": "If sports clubs are struggling, the municipality should contribute financially.",
+      "titleParts": [
+        {
+          "text": " Als sportverenigingen het moeilijk hebben, moet de gemeente "
+        },
+        {
+          "text": "financieel",
+          "glossary": "Something related to money."
+        },
+        {
+          "text": " bijdragen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "If sports clubs are struggling, the municipality should contribute financially.",
-      "themeEn": "Sports clubs"
+      "isShootout": false
     },
     {
       "id": 128162,
@@ -843,9 +963,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should prevent new construction outside existing village boundaries.",
-      "themeEn": "Housing construction"
+      "isShootout": false
     },
     {
       "id": 128144,
@@ -856,9 +974,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Bulky waste must be collected from homes free of charge.",
-      "themeEn": "Bulky waste"
+      "isShootout": false
     },
     {
       "id": 128172,
@@ -866,12 +982,22 @@
       "theme": "Dog tax",
       "themeId": "hondenbelasting",
       "title": "The municipality should abolish the dog tax.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de "
+        },
+        {
+          "text": "hondenbelasting",
+          "glossary": "Tax paid to the municipality for owning one or more dogs."
+        },
+        {
+          "text": " afschaffen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should abolish the dog tax.",
-      "themeEn": "Dog tax"
+      "isShootout": false
     },
     {
       "id": 128157,
@@ -879,12 +1005,22 @@
       "theme": "Violence against women",
       "themeId": "geweld-tegen-vrouwen",
       "title": "Zwartewaterland should establish a shelter for victims of domestic violence.",
+      "titleParts": [
+        {
+          "text": " In Zwartewaterland moet een "
+        },
+        {
+          "text": "blijf-van-mijn-lijf-huis",
+          "glossary": "Shelter for women who experience violence from their partner or family. The shelter is secured; sometimes the location is secret."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Zwartewaterland should establish a shelter for victims of domestic violence.",
-      "themeEn": "Violence against women"
+      "isShootout": false
     },
     {
       "id": 128147,
@@ -895,9 +1031,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "It should be possible for farmers to build houses themselves on their land.",
-      "themeEn": "Building on agricultural land"
+      "isShootout": false
     },
     {
       "id": 128167,
@@ -908,9 +1042,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should designate more parking spaces as charging points for electric cars.",
-      "themeEn": "Electric vehicle charging stations"
+      "isShootout": false
     },
     {
       "id": 128154,
@@ -921,9 +1053,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be one larger library in Zwartewaterland instead of smaller libraries in every village.",
-      "themeEn": "Library"
+      "isShootout": false
     },
     {
       "id": 128179,
@@ -931,12 +1061,22 @@
       "theme": "Coffeeshop (cannabis shop)",
       "themeId": "coffeeshop",
       "title": "The municipality should allow the establishment of a coffeeshop.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de vestiging van een "
+        },
+        {
+          "text": "coffeeshop",
+          "glossary": "Shop or café where you can buy and smoke soft drugs (hash, weed)."
+        },
+        {
+          "text": " toestaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allow the establishment of a coffeeshop.",
-      "themeEn": "Coffeeshop (cannabis shop)"
+      "isShootout": false
     },
     {
       "id": 128169,
@@ -944,12 +1084,22 @@
       "theme": "Choice of healthcare",
       "themeId": "zorgkeuze",
       "title": "People who need care should always be able to choose a caregiver who matches their religion, culture, or beliefs.",
+      "titleParts": [
+        {
+          "text": " Mensen die zorg nodig hebben, moeten altijd kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of "
+        },
+        {
+          "text": "levensovertuiging",
+          "glossary": "What someone believes about life, such as a religion or personal conviction."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People who need care should always be able to choose a caregiver who matches their religion, culture, or beliefs.",
-      "themeEn": "Choice of healthcare"
+      "isShootout": false
     },
     {
       "id": 128182,
@@ -960,9 +1110,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must prohibit landlords from renting out separate rooms instead of whole houses.",
-      "themeEn": "Subdivision into multiple rooms"
+      "isShootout": false
     },
     {
       "id": 128187,
@@ -970,12 +1118,22 @@
       "theme": "Youth center",
       "themeId": "jeugdhonk",
       "title": "Zwartewaterland should open a youth center in every population center.",
+      "titleParts": [
+        {
+          "text": " Zwartewaterland moet in iedere "
+        },
+        {
+          "text": "kern",
+          "glossary": "A village or small town that is part of the municipality."
+        },
+        {
+          "text": " een jeugdhonk openen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Zwartewaterland should open a youth center in every population center.",
-      "themeEn": "Youth center"
+      "isShootout": false
     },
     {
       "id": 128175,
@@ -986,9 +1144,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allow more Sunday shopping days.",
-      "themeEn": "Sunday shopping"
+      "isShootout": false
     }
   ],
   "shootoutStatements": []

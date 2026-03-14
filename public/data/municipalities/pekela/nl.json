@@ -1094,6 +1094,18 @@
       "theme": "Belasting op gebouwen omhoog",
       "themeId": "belasting-op-gebouwen-omhoog",
       "title": "De onroerendezaakbelasting (ozb) moet omhoog als de gemeente geld tekort komt.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "onroerendezaakbelasting",
+          "glossary": "Belasting die je betaalt als eigenaar van een gebouw of stuk grond, of gebruiker van een bedrijfspand."
+        },
+        {
+          "text": " (ozb) moet omhoog als de gemeente geld tekort komt."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1120,6 +1132,18 @@
       "theme": "Wateroverlast voorkomen",
       "themeId": "wateroverlast-voorkomen",
       "title": "Pekela moet meer doen om wateroverlast door extreme buien te voorkomen.",
+      "titleParts": [
+        {
+          "text": " Pekela moet meer doen om "
+        },
+        {
+          "text": "wateroverlast",
+          "glossary": "Schade of hinder door te veel water, bijvoorbeeld bij hevige regen."
+        },
+        {
+          "text": " door extreme buien te voorkomen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1133,6 +1157,18 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "De inwoners van Pekela moeten minstens één keer per jaar hun mening kunnen geven over een belangrijk onderwerp in een referendum.",
+      "titleParts": [
+        {
+          "text": " De inwoners van Pekela moeten minstens één keer per jaar hun mening kunnen geven over een belangrijk onderwerp in een "
+        },
+        {
+          "text": "referendum",
+          "glossary": "Volksraadpleging waarbij inwoners zich kunnen uitspreken over een politieke kwestie. De gemeenteraad is niet verplicht de uitslag te volgen, dat is wettelijk niet mogelijk."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1146,6 +1182,18 @@
       "theme": "Bestrijdingsmiddelen",
       "themeId": "bestrijdingsmiddelen",
       "title": "De gemeente moet het gebruik van bestrijdingsmiddelen in de landbouw tegengaan.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet het gebruik van "
+        },
+        {
+          "text": "bestrijdingsmiddelen",
+          "glossary": "Middelen die worden gebruikt om onkruid, insecten of ziekten te bestrijden."
+        },
+        {
+          "text": " in de landbouw tegengaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1159,6 +1207,18 @@
       "theme": "Vrouwvriendelijke ruimte",
       "themeId": "vrouwvriendelijke-ruimte",
       "title": "De gemeente moet de openbare ruimte vrouwvriendelijker inrichten.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de "
+        },
+        {
+          "text": "openbare ruimte",
+          "glossary": "Gebieden in de buitenlucht die voor iedereen toegankelijk zijn, zoals straten, pleinen en parken."
+        },
+        {
+          "text": " vrouwvriendelijker inrichten."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1185,6 +1245,18 @@
       "theme": "Energieneutrale gemeente",
       "themeId": "energieneutrale-gemeente",
       "title": "De gemeente Pekela moet uiterlijk in 2040 energieneutraal zijn.",
+      "titleParts": [
+        {
+          "text": " De gemeente Pekela moet uiterlijk in 2040 "
+        },
+        {
+          "text": "energieneutraal",
+          "glossary": "Een energieneutrale gemeente wekt net zoveel schone energie op als alle inwoners en bedrijven samen verbruiken. Een gebouw of gebied kan ook energieneutraal zijn."
+        },
+        {
+          "text": " zijn."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1237,6 +1309,25 @@
       "theme": "Voorrang voor vluchtelingen",
       "themeId": "voorrang-voor-vluchtelingen",
       "title": "De gemeente moet vluchtelingen met een verblijfsvergunning voorrang blijven geven op een sociale huurwoning.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet vluchtelingen met een "
+        },
+        {
+          "text": "verblijfsvergunning",
+          "glossary": "Het recht om in Nederland te blijven wonen. Met het woord kun je dat recht zelf bedoelen en ook het kaartje waarop staat dat iemand dat recht heeft."
+        },
+        {
+          "text": " voorrang blijven geven op een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1263,6 +1354,18 @@
       "theme": "Handhavers voor veiligheid",
       "themeId": "handhavers-voor-veiligheid",
       "title": "In Pekela moeten meer gemeentelijke handhavers (boa’s) komen die zich met veiligheid bezighouden.",
+      "titleParts": [
+        {
+          "text": " In Pekela moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "Mensen die voor de gemeente controleren of burgers en bedrijven zich aan de regels houden."
+        },
+        {
+          "text": " (boa’s) komen die zich met veiligheid bezighouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1289,6 +1392,25 @@
       "theme": "Tegenprestatie voor uitkering",
       "themeId": "tegenprestatie-voor-uitkering",
       "title": "Mensen die een bijstandsuitkering krijgen, moeten in ruil daarvoor maatschappelijk zinvol werk doen.",
+      "titleParts": [
+        {
+          "text": " Mensen die een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Geld van de gemeente voor mensen die geen inkomen of eigen geld hebben."
+        },
+        {
+          "text": " krijgen, moeten in ruil daarvoor "
+        },
+        {
+          "text": "maatschappelijk zinvol werk",
+          "glossary": "Bijvoorbeeld schoonmaken van de straten of het gezelschap houden en ondersteunen van oudere inwoners."
+        },
+        {
+          "text": " doen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1302,6 +1424,18 @@
       "theme": "Eigen corporatie",
       "themeId": "eigen-corporatie",
       "title": "De gemeente moet de bouw van sociale huurwoningen en alternatieve woonvormen zelf gaan uitvoeren.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de bouw van "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": "en en alternatieve woonvormen zelf gaan uitvoeren."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1315,6 +1449,18 @@
       "theme": "Starterslening",
       "themeId": "starterslening",
       "title": "Mensen die voor het eerst een huis willen kopen, moeten van de gemeente een starterslening kunnen krijgen.",
+      "titleParts": [
+        {
+          "text": " Mensen die voor het eerst een huis willen kopen, moeten van de gemeente een "
+        },
+        {
+          "text": "starterslening",
+          "glossary": "Extra lening naast je hypotheek, die je alleen kunt krijgen als je voor het eerst een huis koopt."
+        },
+        {
+          "text": " kunnen krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1328,6 +1474,18 @@
       "theme": "Snelheidscontrole",
       "themeId": "snelheidscontrole",
       "title": "De gemeente moet de politie vragen om vaker te controleren op de maximumsnelheid.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de politie vragen om vaker te controleren op de "
+        },
+        {
+          "text": "maximumsnelheid",
+          "glossary": "De hoogste snelheid die auto’s en motoren mogen rijden op straat."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1393,6 +1551,18 @@
       "theme": "Toegankelijkheid speeltuinen",
       "themeId": "toegankelijkheid-speeltuinen",
       "title": "De gemeente moet zorgen dat er een speeltuin is voor kinderen met een beperking.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet zorgen dat er een speeltuin is voor kinderen met een "
+        },
+        {
+          "text": "beperking",
+          "glossary": "Iets dat je belemmert in het dagelijks leven. Een beperking kan lichamelijk of verstandelijk zijn of te maken hebben met horen of zien. Of combinaties daarvan."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1419,6 +1589,18 @@
       "theme": "Duurzame energie",
       "themeId": "duurzame-energie",
       "title": "Inwoners die samen duurzame energie op willen wekken, moeten financiële steun krijgen van de gemeente.",
+      "titleParts": [
+        {
+          "text": " Inwoners die samen "
+        },
+        {
+          "text": "duurzame energie",
+          "glossary": "Energie op basis van grondstoffen waar een oneindige hoeveelheid van is, zoals zonlicht en wind."
+        },
+        {
+          "text": " op willen wekken, moeten financiële steun krijgen van de gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1445,6 +1627,18 @@
       "theme": "Schoolzwemmen",
       "themeId": "schoolzwemmen",
       "title": "De gemeente moet onderzoeken of schoolzwemmen terug kan komen in Pekela.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet onderzoeken of "
+        },
+        {
+          "text": "schoolzwemmen",
+          "glossary": "Zwemlessen die vanuit de school worden georganiseerd."
+        },
+        {
+          "text": " terug kan komen in Pekela."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1458,6 +1652,18 @@
       "theme": "Ervaringsdeskundige jeugdzorg",
       "themeId": "ervaringsdeskundige-jeugdzorg",
       "title": "Er moeten zoveel mogelijk ervaringsdeskundigen werken in de jeugdzorg.",
+      "titleParts": [
+        {
+          "text": " Er moeten zoveel mogelijk ervaringsdeskundigen werken in de "
+        },
+        {
+          "text": "jeugdzorg",
+          "glossary": "Hulp voor jongeren met problemen, bijvoorbeeld psychische hulp, pleegzorg, dagbesteding, maar ook begeleiding bij dyslexie."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",

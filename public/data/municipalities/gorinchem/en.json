@@ -1868,9 +1868,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "More places should be created in Gorinchem where dogs can run off‑leash.",
-      "themeEn": "Off-leash area"
+      "isShootout": false
     },
     {
       "id": 230069,
@@ -1881,9 +1879,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should spend more on language classes and volunteer programs for refugees.",
-      "themeEn": "Language classes for refugees"
+      "isShootout": false
     },
     {
       "id": 230054,
@@ -1891,12 +1887,29 @@
       "theme": "Citizens' assembly",
       "themeId": "burgerberaad",
       "title": "Gorinchem should have a citizens' assembly that advises the municipal council. A citizens' assembly is made up of residents chosen by lot.",
+      "titleParts": [
+        {
+          "text": " Gorinchem moet een "
+        },
+        {
+          "text": "burgerberaad",
+          "glossary": "A group of residents chosen by lot that advises politicians or helps decide on a specific issue."
+        },
+        {
+          "text": " krijgen, dat advies geeft aan de gemeenteraad. In een "
+        },
+        {
+          "text": "burgerberaad",
+          "glossary": "A group of residents chosen by lot that advises politicians or helps decide on a specific issue."
+        },
+        {
+          "text": " zitten inwoners die door loting zijn uitgekozen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Gorinchem should have a citizens' assembly that advises the municipal council. A citizens' assembly is made up of residents chosen by lot.",
-      "themeEn": "Citizens' assembly"
+      "isShootout": false
     },
     {
       "id": 230059,
@@ -1904,12 +1917,22 @@
       "theme": "Tax on buildings",
       "themeId": "belasting-op-gebouwen",
       "title": "For businesses and shops the municipality should make only the owners pay property tax, not the users.",
+      "titleParts": [
+        {
+          "text": " Bij bedrijven en winkels moet de gemeente alleen de eigenaren "
+        },
+        {
+          "text": "onroerendezaakbelasting",
+          "glossary": "Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": " laten betalen, niet de gebruikers."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "For businesses and shops the municipality should make only the owners pay property tax, not the users.",
-      "themeEn": "Tax on buildings"
+      "isShootout": false
     },
     {
       "id": 230079,
@@ -1920,9 +1943,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "When creating new sports fields the municipality should choose artificial turf.",
-      "themeEn": "Sports fields"
+      "isShootout": false
     },
     {
       "id": 230095,
@@ -1930,12 +1951,22 @@
       "theme": "Housing for young people",
       "themeId": "jongerenwoningen",
       "title": "The municipality should invest in temporary housing for young people, for example flex homes.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld steken in tijdelijke huisvesting voor jongeren, bijvoorbeeld "
+        },
+        {
+          "text": "flexwoningen",
+          "glossary": "Temporary, small homes for people who need housing quickly."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should invest in temporary housing for young people, for example flex homes.",
-      "themeEn": "Housing for young people"
+      "isShootout": false
     },
     {
       "id": 230072,
@@ -1946,9 +1977,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should require residents of new homes to plant plants and trees in more than half of their garden.",
-      "themeEn": "No paving"
+      "isShootout": false
     },
     {
       "id": 230108,
@@ -1959,9 +1988,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Parking on Sundays should be free.",
-      "themeEn": "Sunday parking"
+      "isShootout": false
     },
     {
       "id": 230056,
@@ -1969,12 +1996,22 @@
       "theme": "Ombudsman",
       "themeId": "ombudsman",
       "title": "Gorinchem should appoint an ombudsman who helps residents when they have problems with the municipality.",
+      "titleParts": [
+        {
+          "text": " Gorinchem moet een "
+        },
+        {
+          "text": "ombudsman",
+          "glossary": "An independent person who helps residents with complaints about the government."
+        },
+        {
+          "text": " krijgen, die inwoners helpt als ze problemen hebben met de gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Gorinchem should appoint an ombudsman who helps residents when they have problems with the municipality.",
-      "themeEn": "Ombudsman"
+      "isShootout": false
     },
     {
       "id": 230081,
@@ -1982,12 +2019,29 @@
       "theme": "Public art",
       "themeId": "kunst-in-openbare-ruimte",
       "title": "For large construction projects in Gorinchem at least 1 percent of the budget should be reserved for public art.",
+      "titleParts": [
+        {
+          "text": " Bij grote bouwprojecten in Gorinchem moet minstens 1 procent van het "
+        },
+        {
+          "text": "budget",
+          "glossary": "A sum of money for a specific task or assignment."
+        },
+        {
+          "text": " bestemd zijn voor kunst in de "
+        },
+        {
+          "text": "openbare ruimte",
+          "glossary": "Outdoor areas that are accessible to everyone, such as streets, squares, and parks."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "For large construction projects in Gorinchem at least 1 percent of the budget should be reserved for public art.",
-      "themeEn": "Public art"
+      "isShootout": false
     },
     {
       "id": 230085,
@@ -1995,12 +2049,22 @@
       "theme": "Camera surveillance against illegal dumping",
       "themeId": "cameratoezicht-tegen-afval-dumpen",
       "title": "Gorinchem should install more camera surveillance in places where people dump waste.",
+      "titleParts": [
+        {
+          "text": " In Gorinchem moet meer "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Monitoring of a building, area, or (groups of) people using security cameras."
+        },
+        {
+          "text": " komen op plekken waar mensen afval dumpen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Gorinchem should install more camera surveillance in places where people dump waste.",
-      "themeEn": "Camera surveillance against illegal dumping"
+      "isShootout": false
     },
     {
       "id": 230091,
@@ -2008,12 +2072,22 @@
       "theme": "Offices converted into homes",
       "themeId": "kantoren-worden-woningen",
       "title": "Vacant offices should be converted into housing with subsidies from the municipality.",
+      "titleParts": [
+        {
+          "text": " Leegstaande kantoren moeten met "
+        },
+        {
+          "text": "subsidie",
+          "glossary": "Money the government gives to citizens, businesses, and organizations to support them."
+        },
+        {
+          "text": " van de gemeente worden omgebouwd tot woningen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Vacant offices should be converted into housing with subsidies from the municipality.",
-      "themeEn": "Offices converted into homes"
+      "isShootout": false
     },
     {
       "id": 230084,
@@ -2024,9 +2098,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should ban sex work in private homes.",
-      "themeEn": "Sex work"
+      "isShootout": false
     },
     {
       "id": 230082,
@@ -2037,9 +2109,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should invest in homework support at schools.",
-      "themeEn": "Homework tutoring"
+      "isShootout": false
     },
     {
       "id": 230061,
@@ -2050,9 +2120,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should spend more money on attracting tourists.",
-      "themeEn": "City marketing"
+      "isShootout": false
     },
     {
       "id": 230093,
@@ -2063,9 +2131,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "At most 30% of newly built homes in Gorinchem may be high‑priced rental or owner‑occupied homes.",
-      "themeEn": "Expensive housing"
+      "isShootout": false
     },
     {
       "id": 230109,
@@ -2076,9 +2142,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The parking spaces on the Groenmarkt should be removed.",
-      "themeEn": "Green market"
+      "isShootout": false
     },
     {
       "id": 230096,
@@ -2086,12 +2150,22 @@
       "theme": "Gorkum pass",
       "themeId": "gorkumpas",
       "title": "The municipality should introduce a discount card that gives only people with a minimum income discounts on sports, courses and cultural performances.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet een kortingspas invoeren waarmee alleen mensen met een "
+        },
+        {
+          "text": "minimuminkomen",
+          "glossary": "Maximum €1645 (gross) per month, for one person (single, aged 21 or older)."
+        },
+        {
+          "text": " korting krijgen op sport, cursussen en culturele voorstellingen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should introduce a discount card that gives only people with a minimum income discounts on sports, courses and cultural performances.",
-      "themeEn": "Gorkum pass"
+      "isShootout": false
     },
     {
       "id": 230112,
@@ -2099,12 +2173,22 @@
       "theme": "Couples therapy",
       "themeId": "relatietherapie",
       "title": "The municipality should fully cover relationship therapy for families with children.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "relatietherapie",
+          "glossary": "When people try to improve their romantic relationship together with a counselor."
+        },
+        {
+          "text": " voor gezinnen met kinderen volledig vergoeden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should fully cover relationship therapy for families with children.",
-      "themeEn": "Couples therapy"
+      "isShootout": false
     },
     {
       "id": 230102,
@@ -2115,9 +2199,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should designate more parking spaces as charging points for electric cars.",
-      "themeEn": "Electric vehicle charging stations"
+      "isShootout": false
     },
     {
       "id": 230086,
@@ -2125,12 +2207,22 @@
       "theme": "Camera surveillance in the entertainment/nightlife area",
       "themeId": "cameratoezicht-in-uitgaansgebied",
       "title": "There should be more camera surveillance in the nightlife area of Gorinchem.",
+      "titleParts": [
+        {
+          "text": " In Gorinchem moet meer "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Monitoring of a building, area, or (groups of) people using security cameras."
+        },
+        {
+          "text": " komen in het uitgaansgebied."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be more camera surveillance in the nightlife area of Gorinchem.",
-      "themeEn": "Camera surveillance in the entertainment/nightlife area"
+      "isShootout": false
     },
     {
       "id": 230089,
@@ -2141,9 +2233,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "A new residential neighborhood should be built in Gorinchem-North.",
-      "themeEn": "Residential neighborhood"
+      "isShootout": false
     },
     {
       "id": 230097,
@@ -2151,12 +2241,29 @@
       "theme": "Work requirement for welfare recipients",
       "themeId": "tegenprestatie-voor-uitkering",
       "title": "People receiving social assistance should, in return, do socially useful work.",
+      "titleParts": [
+        {
+          "text": " Mensen die een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Money from the municipality for people who have no income or personal funds."
+        },
+        {
+          "text": " krijgen, moeten in ruil daarvoor "
+        },
+        {
+          "text": "maatschappelijk zinvol werk",
+          "glossary": "For example cleaning the streets or keeping company and supporting elderly residents."
+        },
+        {
+          "text": " doen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People receiving social assistance should, in return, do socially useful work.",
-      "themeEn": "Work requirement for welfare recipients"
+      "isShootout": false
     },
     {
       "id": 230107,
@@ -2167,9 +2274,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be more bicycle streets in Gorinchem where cyclists have priority over cars.",
-      "themeEn": "Bicycle streets"
+      "isShootout": false
     },
     {
       "id": 230076,
@@ -2177,12 +2282,29 @@
       "theme": "Wind turbines",
       "themeId": "windmolens",
       "title": "Two large wind turbines will be built in Gorinchem. The municipality should oppose any additional wind turbines.",
+      "titleParts": [
+        {
+          "text": " Er komen twee grote "
+        },
+        {
+          "text": "windmolens",
+          "glossary": "These are modern wind turbines that convert wind power into electricity and can be up to 150 meters high."
+        },
+        {
+          "text": " in Gorinchem. De gemeente moet zich verzetten tegen meer "
+        },
+        {
+          "text": "windmolens",
+          "glossary": "These are modern wind turbines that convert wind power into electricity and can be up to 150 meters high."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Two large wind turbines will be built in Gorinchem. The municipality should oppose any additional wind turbines.",
-      "themeEn": "Wind turbines"
+      "isShootout": false
     },
     {
       "id": 230113,
@@ -2193,9 +2315,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should distribute tampons and sanitary pads for free.",
-      "themeEn": "Free menstrual products"
+      "isShootout": false
     },
     {
       "id": 230068,
@@ -2206,9 +2326,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must ensure that no unaccompanied minor asylum seekers are accommodated in Gorinchem.",
-      "themeEn": "Underage asylum seekers"
+      "isShootout": false
     },
     {
       "id": 230115,
@@ -2219,9 +2337,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be more hangout spots for young people in Gorinchem.",
-      "themeEn": "Hangout spots"
+      "isShootout": false
     },
     {
       "id": 230103,
@@ -2232,9 +2348,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "If the Merwede Bridge goes into maintenance, a ferry should run across the Merwede. The municipality should contribute to the cost.",
-      "themeEn": "Ferry across the Merwede"
+      "isShootout": false
     },
     {
       "id": 230063,
@@ -2245,9 +2359,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "A second berth for cruise ships should be built near Gorinchem.",
-      "themeEn": "Cruise ship dock"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

@@ -1522,6 +1522,18 @@
       "theme": "Voorrang huisvesting",
       "themeId": "voorrang-huisvesting",
       "title": "Woningzoekenden uit Zeewolde moeten voorrang krijgen bij een sociale huurwoning.",
+      "titleParts": [
+        {
+          "text": " Woningzoekenden uit Zeewolde moeten voorrang krijgen bij een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur voor mensen met een laag inkomen. In 2026 is dat een bedrag van ten hoogste € 932,93 per maand."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1561,6 +1573,18 @@
       "theme": "Hoogbouw",
       "themeId": "hoogbouw",
       "title": "Zeewolde moet hoogbouw van 6 verdiepingen toestaan.",
+      "titleParts": [
+        {
+          "text": " Zeewolde moet "
+        },
+        {
+          "text": "hoogbouw",
+          "glossary": "Gebouwen met woningen of bedrijven op meerdere verdiepingen, bijvoorbeeld appartementen of flats."
+        },
+        {
+          "text": " van 6 verdiepingen toestaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1574,6 +1598,18 @@
       "theme": "Lokale cultuur",
       "themeId": "lokale-cultuur",
       "title": "De gemeente moet vooral kunstenaars uit Zeewolde inschakelen voor kunst in de openbare ruimte.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet vooral kunstenaars uit Zeewolde inschakelen voor kunst in de "
+        },
+        {
+          "text": "openbare ruimte",
+          "glossary": "Gebieden in de buitenlucht die voor iedereen toegankelijk zijn, zoals straten, pleinen en parken."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1587,6 +1623,25 @@
       "theme": "Belasting op gebouwen",
       "themeId": "belasting-op-gebouwen",
       "title": "De onroerendezaakbelasting (ozb) moet omlaag.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "onroerendezaakbelasting",
+          "glossary": "Belasting die je betaalt als eigenaar van een gebouw of stuk grond, of gebruiker van een bedrijfspand."
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "ozb",
+          "glossary": "Onroerendezaakbelasting. Belasting die je betaalt als eigenaar van een gebouw of stuk grond, of gebruiker van een bedrijfspand."
+        },
+        {
+          "text": ") moet omlaag."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1600,6 +1655,18 @@
       "theme": "Jeugdzorg",
       "themeId": "jeugdzorg",
       "title": "De gemeente mag niet bezuinigen op jeugdhulp.",
+      "titleParts": [
+        {
+          "text": " De gemeente mag niet "
+        },
+        {
+          "text": "bezuinigen",
+          "glossary": "Minder geld uitgeven."
+        },
+        {
+          "text": " op jeugdhulp."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1613,6 +1680,18 @@
       "theme": "Cameratoezicht",
       "themeId": "cameratoezicht",
       "title": "In Zeewolde moet meer cameratoezicht komen.",
+      "titleParts": [
+        {
+          "text": " In Zeewolde moet meer "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Het houden van toezicht op of in een gebouw, gebied of (groepen) mensen met behulp van bewakingscamera's."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1652,6 +1731,18 @@
       "theme": "Sociale huurwoningen",
       "themeId": "sociale-huurwoningen",
       "title": "Bij nieuwbouw moet minstens 45% bestaan uit sociale huurwoningen.",
+      "titleParts": [
+        {
+          "text": " Bij nieuwbouw moet minstens 45% bestaan uit "
+        },
+        {
+          "text": "sociale huurwoningen",
+          "glossary": "Huurwoningen met een lage huur voor mensen met een laag inkomen. In 2026 is dat een bedrag van ten hoogste € 932,93 per maand."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1678,6 +1769,18 @@
       "theme": "Huisvesting buitenlandse werknemers",
       "themeId": "huisvesting-buitenlandse-werknemers",
       "title": "De gemeente moet arbeidsmigranten die hun woning verliezen helpen om een andere woonplek te vinden.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "arbeidsmigranten",
+          "glossary": "Mensen uit een ander land die tijdelijk in Nederland werken."
+        },
+        {
+          "text": " die hun woning verliezen helpen om een andere woonplek te vinden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1691,6 +1794,18 @@
       "theme": "Wapenstok",
       "themeId": "wapenstok",
       "title": "Gemeentelijke handhavers (boa’s) moeten een wapenstok krijgen.",
+      "titleParts": [
+        {
+          "text": " Gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "Mensen die voor de gemeente controleren of burgers en bedrijven zich aan de regels houden."
+        },
+        {
+          "text": " (boa’s) moeten een wapenstok krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1704,6 +1819,18 @@
       "theme": "Intensieve veehouderij",
       "themeId": "intensieve-veehouderij",
       "title": "Er mogen geen grote veestallen in het buitengebied bij komen.",
+      "titleParts": [
+        {
+          "text": " Er mogen geen grote veestallen in het "
+        },
+        {
+          "text": "buitengebied",
+          "glossary": "Gebied binnen de grenzen van de gemeente maar buiten de steden of dorpen zelf, hier staan weinig huizen en andere gebouwen."
+        },
+        {
+          "text": " bij komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1717,6 +1844,18 @@
       "theme": "City marketing",
       "themeId": "city-marketing",
       "title": "De gemeente moet geld steken in een promotiecampagne om meer toeristen en dagjesmensen naar Zeewolde te trekken.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld steken in een "
+        },
+        {
+          "text": "promotiecampagne",
+          "glossary": "Een serie reclames op bijvoorbeeld borden, televisie en sociale media."
+        },
+        {
+          "text": " om meer toeristen en dagjesmensen naar Zeewolde te trekken."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1769,6 +1908,25 @@
       "theme": "Tegenprestatie voor uitkering",
       "themeId": "tegenprestatie-voor-uitkering",
       "title": "Mensen die een bijstandsuitkering krijgen, moeten in ruil daarvoor maatschappelijk zinvol werk doen.",
+      "titleParts": [
+        {
+          "text": " Mensen die een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Geld van de gemeente voor mensen die geen inkomen of eigen geld hebben."
+        },
+        {
+          "text": " krijgen, moeten in ruil daarvoor "
+        },
+        {
+          "text": "maatschappelijk zinvol werk",
+          "glossary": "Bijvoorbeeld schoonmaken van de straten of het gezelschap houden en ondersteunen van oudere inwoners."
+        },
+        {
+          "text": " doen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1808,6 +1966,18 @@
       "theme": "Coffeeshop",
       "themeId": "coffeeshop",
       "title": "De gemeente moet een coffeeshop in Zeewolde toestaan.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet een "
+        },
+        {
+          "text": "coffeeshop",
+          "glossary": "Winkel of café waar je softdrugs (hasj, wiet) kunt kopen en oproken."
+        },
+        {
+          "text": " in Zeewolde toestaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1860,6 +2030,25 @@
       "theme": "Voorrang statushouders",
       "themeId": "voorrang-statushouders",
       "title": "De gemeente moet statushouders voorrang geven bij de toewijzing van een sociale huurwoning.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "statushouders",
+          "glossary": "Vluchtelingen die een verblijfsvergunning hebben gekregen en dus in Nederland mogen blijven."
+        },
+        {
+          "text": " voorrang geven bij de toewijzing van een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur voor mensen met een laag inkomen. In 2026 is dat een bedrag van ten hoogste € 932,93 per maand."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",

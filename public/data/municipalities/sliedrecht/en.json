@@ -1173,12 +1173,22 @@
       "theme": "Dog tax",
       "themeId": "hondenbelasting",
       "title": "The municipality should abolish the dog tax.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de "
+        },
+        {
+          "text": "hondenbelasting",
+          "glossary": "Tax paid to the municipality for owning one or more dogs."
+        },
+        {
+          "text": " afschaffen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should abolish the dog tax.",
-      "themeEn": "Dog tax"
+      "isShootout": false
     },
     {
       "id": 155835,
@@ -1186,12 +1196,22 @@
       "theme": "Couples therapy",
       "themeId": "relatietherapie",
       "title": "The municipality should fully cover relationship therapy for families with children.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "relatietherapie",
+          "glossary": "When people try to improve their romantic relationship together with a counselor."
+        },
+        {
+          "text": " voor gezinnen met kinderen volledig vergoeden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should fully cover relationship therapy for families with children.",
-      "themeEn": "Couples therapy"
+      "isShootout": false
     },
     {
       "id": 155802,
@@ -1202,9 +1222,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should spend more on language classes and volunteer programs for refugees.",
-      "themeEn": "Language classes for refugees"
+      "isShootout": false
     },
     {
       "id": 155796,
@@ -1212,12 +1230,22 @@
       "theme": "Larger municipality",
       "themeId": "grotere-gemeente",
       "title": "Sliedrecht must merge in the future with Alblasserdam, Hardinxveld-Giessendam and Papendrecht.",
+      "titleParts": [
+        {
+          "text": " Sliedrecht moet in de toekomst "
+        },
+        {
+          "text": "fuseren",
+          "glossary": "The merging of two or more municipalities."
+        },
+        {
+          "text": " met Alblasserdam, Hardinxveld-Giessendam en Papendrecht."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Sliedrecht must merge in the future with Alblasserdam, Hardinxveld-Giessendam and Papendrecht.",
-      "themeEn": "Larger municipality"
+      "isShootout": false
     },
     {
       "id": 155821,
@@ -1228,9 +1256,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Building houses within the village must not come at the expense of space for parks.",
-      "themeEn": "Parks"
+      "isShootout": false
     },
     {
       "id": 155801,
@@ -1241,9 +1267,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must allow expansion of the marina in Sliedrecht.",
-      "themeEn": "Marina"
+      "isShootout": false
     },
     {
       "id": 155824,
@@ -1251,12 +1275,29 @@
       "theme": "Informal care",
       "themeId": "mantelzorg",
       "title": "People receiving welfare benefits who provide informal care to a family member or acquaintance do not have to apply for jobs.",
+      "titleParts": [
+        {
+          "text": " Mensen met een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Money from the municipality for people who have no income or personal funds."
+        },
+        {
+          "text": " die een familielid of bekende verzorgen als "
+        },
+        {
+          "text": "mantelzorger",
+          "glossary": "Someone who provides unpaid and often long-term care for sick family members or friends."
+        },
+        {
+          "text": ", hoeven niet te solliciteren."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People receiving welfare benefits who provide informal care to a family member or acquaintance do not have to apply for jobs.",
-      "themeEn": "Informal care"
+      "isShootout": false
     },
     {
       "id": 155803,
@@ -1264,12 +1305,29 @@
       "theme": "Rental housing for refugees",
       "themeId": "huurwoning-voor-vluchtelingen",
       "title": "The municipality should give refugees with a residence permit priority for social rental housing.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet vluchtelingen met een "
+        },
+        {
+          "text": "verblijfsvergunning",
+          "glossary": "The right to reside in the Netherlands. The term can refer to the right itself or to the card that shows someone has that right."
+        },
+        {
+          "text": " voorrang geven op een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should give refugees with a residence permit priority for social rental housing.",
-      "themeEn": "Rental housing for refugees"
+      "isShootout": false
     },
     {
       "id": 155819,
@@ -1280,9 +1338,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "In the new Sliedrecht-Noord development, at least 40% of the homes must be higher-priced owner-occupied homes.",
-      "themeEn": "New construction"
+      "isShootout": false
     },
     {
       "id": 155805,
@@ -1290,12 +1346,22 @@
       "theme": "Residual waste",
       "themeId": "restafval",
       "title": "Residents of Sliedrecht must pay more if they put out more residual waste.",
+      "titleParts": [
+        {
+          "text": " Inwoners van Sliedrecht moeten meer gaan betalen als ze meer "
+        },
+        {
+          "text": "restafval",
+          "glossary": "Waste that remains after paper, plastic and organic waste have been collected separately."
+        },
+        {
+          "text": "  aanbieden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents of Sliedrecht must pay more if they put out more residual waste.",
-      "themeEn": "Residual waste"
+      "isShootout": false
     },
     {
       "id": 155816,
@@ -1303,12 +1369,22 @@
       "theme": "Priority for housing",
       "themeId": "voorrang-huisvesting",
       "title": "When allocating social housing, applicants from the municipality should be given priority.",
+      "titleParts": [
+        {
+          "text": " Bij de toewijzing van een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " moeten woningzoekenden uit de eigen gemeente voorrang krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "When allocating social housing, applicants from the municipality should be given priority.",
-      "themeEn": "Priority for housing"
+      "isShootout": false
     },
     {
       "id": 155811,
@@ -1319,9 +1395,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Sliedrecht must build a new swimming pool together with Hardinxveld-Giessendam.",
-      "themeEn": "Shared swimming pool"
+      "isShootout": false
     },
     {
       "id": 155806,
@@ -1329,12 +1403,22 @@
       "theme": "Sustainable energy",
       "themeId": "duurzame-energie",
       "title": "Residents who want to generate sustainable energy together should receive financial support from the municipality.",
+      "titleParts": [
+        {
+          "text": " Inwoners die samen "
+        },
+        {
+          "text": "duurzame energie",
+          "glossary": "Energy based on resources that are effectively infinite, such as sunlight and wind."
+        },
+        {
+          "text": " op willen wekken, moeten financiële steun krijgen van de gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents who want to generate sustainable energy together should receive financial support from the municipality.",
-      "themeEn": "Sustainable energy"
+      "isShootout": false
     },
     {
       "id": 155795,
@@ -1345,9 +1429,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must organize at least two meetings a year where council members and residents talk with each other.",
-      "themeEn": "Dialogue between residents and municipal council members"
+      "isShootout": false
     },
     {
       "id": 155798,
@@ -1358,9 +1440,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must spend less money on Smart Delta Drechtsteden, a partnership between schools, businesses and municipalities in the Drechtsteden region.",
-      "themeEn": "Smart Delta"
+      "isShootout": false
     },
     {
       "id": 155809,
@@ -1371,9 +1451,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must pay for sports club memberships for children whose parents or guardians have little money.",
-      "themeEn": "Sports membership fees"
+      "isShootout": false
     },
     {
       "id": 155793,
@@ -1381,12 +1459,22 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "Residents of Sliedrecht must be able to give their opinion on important issues via a referendum.",
+      "titleParts": [
+        {
+          "text": " De inwoners van Sliedrecht moeten over belangrijke onderwerpen hun mening kunnen geven via een "
+        },
+        {
+          "text": "referendum",
+          "glossary": "A public consultation where residents can express their opinion on a political issue. The municipal council is not obliged to follow the result; legally it cannot."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents of Sliedrecht must be able to give their opinion on important issues via a referendum.",
-      "themeEn": "Referendum"
+      "isShootout": false
     },
     {
       "id": 155814,
@@ -1394,12 +1482,22 @@
       "theme": "Coffeeshop (cannabis shop)",
       "themeId": "coffeeshop",
       "title": "The municipality must close the coffeeshop in Sliedrecht.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de "
+        },
+        {
+          "text": "coffeeshop",
+          "glossary": "Shop or café where you can buy and smoke soft drugs (hash, weed)."
+        },
+        {
+          "text": " in Sliedrecht sluiten."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must close the coffeeshop in Sliedrecht.",
-      "themeEn": "Coffeeshop (cannabis shop)"
+      "isShootout": false
     },
     {
       "id": 155818,
@@ -1407,12 +1505,29 @@
       "theme": "Social housing",
       "themeId": "sociale-huurwoningen",
       "title": "Of the newly built homes in Sliedrecht, at least 40% must be social rental housing. In the Netherlands, 28% of homes are currently social rentals.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in Sliedrecht moet minimaal 40 procent een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " zijn. In Nederland is nu 28 procent van de woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Of the newly built homes in Sliedrecht, at least 40% must be social rental housing. In the Netherlands, 28% of homes are currently social rentals.",
-      "themeEn": "Social housing"
+      "isShootout": false
     },
     {
       "id": 155812,
@@ -1420,12 +1535,22 @@
       "theme": "Enforcement officers",
       "themeId": "handhavers",
       "title": "Sliedrecht must have more municipal enforcement officers (BOAs) who focus on safety.",
+      "titleParts": [
+        {
+          "text": " In Sliedrecht moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "People who, for the municipality, check whether citizens and businesses comply with the rules."
+        },
+        {
+          "text": " (boa’s) komen die zich met veiligheid bezighouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Sliedrecht must have more municipal enforcement officers (BOAs) who focus on safety.",
-      "themeEn": "Enforcement officers"
+      "isShootout": false
     },
     {
       "id": 155817,
@@ -1433,12 +1558,22 @@
       "theme": "Priority for teachers and nurses",
       "themeId": "voorrang-leraren-en-verpleegkundigen",
       "title": "When allocating social rental housing, teachers, nurses and police officers should be given priority.",
+      "titleParts": [
+        {
+          "text": " Bij de toewijzing van een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " moeten leraren, verpleegkundigen en politieagenten voorrang krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "When allocating social rental housing, teachers, nurses and police officers should be given priority.",
-      "themeEn": "Priority for teachers and nurses"
+      "isShootout": false
     },
     {
       "id": 155807,
@@ -1449,9 +1584,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "More charging points for electric cars must be installed, even if ordinary parking spaces are lost as a result.",
-      "themeEn": "Charging stations for electric cars"
+      "isShootout": false
     },
     {
       "id": 155828,
@@ -1462,9 +1595,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must not build a new North–South connection over the railway and the A15.",
-      "themeEn": "No north–south connection"
+      "isShootout": false
     },
     {
       "id": 155813,
@@ -1472,12 +1603,22 @@
       "theme": "Camera surveillance",
       "themeId": "cameratoezicht",
       "title": "Sliedrecht must increase camera surveillance at Burgemeester Winklerplein.",
+      "titleParts": [
+        {
+          "text": " In Sliedrecht moet meer "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Monitoring of a building, area, or (groups of) people using security cameras."
+        },
+        {
+          "text": " komen bij het Burgemeester Winklerplein."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Sliedrecht must increase camera surveillance at Burgemeester Winklerplein.",
-      "themeEn": "Camera surveillance"
+      "isShootout": false
     },
     {
       "id": 155832,
@@ -1488,9 +1629,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "A segregated cycle path must be built along the entire Deltalaan.",
-      "themeEn": "Separated bike paths"
+      "isShootout": false
     },
     {
       "id": 155833,
@@ -1498,12 +1637,22 @@
       "theme": "Choice of healthcare",
       "themeId": "zorgkeuze",
       "title": "People who need care should always be able to choose a caregiver who matches their religion, culture, or beliefs.",
+      "titleParts": [
+        {
+          "text": " Mensen die zorg nodig hebben, moeten altijd kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of "
+        },
+        {
+          "text": "levensovertuiging",
+          "glossary": "What someone believes about life, such as a religion or personal conviction."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People who need care should always be able to choose a caregiver who matches their religion, culture, or beliefs.",
-      "themeEn": "Choice of healthcare"
+      "isShootout": false
     },
     {
       "id": 155831,
@@ -1514,9 +1663,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Cyclists must be given priority at all roundabouts in Sliedrecht.",
-      "themeEn": "Cyclists on the roundabout"
+      "isShootout": false
     },
     {
       "id": 155823,
@@ -1527,9 +1674,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should raise the income threshold for receiving poverty assistance.",
-      "themeEn": "Combating poverty"
+      "isShootout": false
     },
     {
       "id": 155808,
@@ -1540,9 +1685,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "As long as Chemours does not do it, the municipality must pay for the removal of soil contaminated by PFAS.",
-      "themeEn": "Contaminated soil"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

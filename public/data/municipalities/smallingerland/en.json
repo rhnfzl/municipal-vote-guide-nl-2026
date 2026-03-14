@@ -1874,9 +1874,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should provide letters, online news items and forms in both Frisian and Dutch.",
-      "themeEn": "Municipality communicates in Frisian"
+      "isShootout": false
     },
     {
       "id": 269167,
@@ -1884,12 +1882,22 @@
       "theme": "Camera surveillance",
       "themeId": "cameratoezicht",
       "title": "Camera surveillance should be installed in Drachten’s nightlife area.",
+      "titleParts": [
+        {
+          "text": " In het uitgaansgebied van Drachten moet "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Monitoring of a building, area, or (groups of) people using security cameras."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Camera surveillance should be installed in Drachten’s nightlife area.",
-      "themeEn": "Camera surveillance"
+      "isShootout": false
     },
     {
       "id": 269160,
@@ -1897,12 +1905,29 @@
       "theme": "Integration",
       "themeId": "integratie",
       "title": "The municipality should spend more money on integrating newcomers into society.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld uitgeven aan "
+        },
+        {
+          "text": "integratie",
+          "glossary": "Newcomers learn the language and customs of the Netherlands."
+        },
+        {
+          "text": " van "
+        },
+        {
+          "text": "nieuwkomers",
+          "glossary": "People who are new to the Netherlands."
+        },
+        {
+          "text": " in de maatschappij."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should spend more money on integrating newcomers into society.",
-      "themeEn": "Integration"
+      "isShootout": false
     },
     {
       "id": 269170,
@@ -1910,12 +1935,29 @@
       "theme": "Social housing",
       "themeId": "sociale-huurwoningen",
       "title": "At least 35% of newly built homes in Smallingerland should be social rental housing; currently 31% of homes in the municipality are social rentals.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in Smallingerland moet minimaal 35% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " zijn. In de gemeente is nu 31% van de woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "At least 35% of newly built homes in Smallingerland should be social rental housing; currently 31% of homes in the municipality are social rentals.",
-      "themeEn": "Social housing"
+      "isShootout": false
     },
     {
       "id": 269158,
@@ -1923,12 +1965,22 @@
       "theme": "Dog tax",
       "themeId": "hondenbelasting",
       "title": "The municipality should abolish the dog tax.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de "
+        },
+        {
+          "text": "hondenbelasting",
+          "glossary": "Tax paid to the municipality for owning one or more dogs."
+        },
+        {
+          "text": " afschaffen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should abolish the dog tax.",
-      "themeEn": "Dog tax"
+      "isShootout": false
     },
     {
       "id": 269175,
@@ -1936,12 +1988,29 @@
       "theme": "Subsidized jobs",
       "themeId": "gesubsidieerde-banen",
       "title": "There must be many more subsidized jobs for the long-term unemployed in our municipality.",
+      "titleParts": [
+        {
+          "text": " Er moeten veel meer "
+        },
+        {
+          "text": "gesubsidieerde",
+          "glossary": "Money the government gives to citizens, businesses, and organizations to support them."
+        },
+        {
+          "text": " banen voor "
+        },
+        {
+          "text": "langdurig werklozen",
+          "glossary": "People who have been without paid work for a long time (longer than a year)."
+        },
+        {
+          "text": " komen in onze gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There must be many more subsidized jobs for the long-term unemployed in our municipality.",
-      "themeEn": "Subsidized jobs"
+      "isShootout": false
     },
     {
       "id": 269179,
@@ -1952,9 +2021,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should retain the parking spaces in the Drachten neighborhoods.",
-      "themeEn": "Parking spaces"
+      "isShootout": false
     },
     {
       "id": 269162,
@@ -1962,12 +2029,29 @@
       "theme": "Accessibility of buildings",
       "themeId": "toegankelijkheid-gebouwen",
       "title": "The municipality should financially help business owners to make their buildings accessible to people with disabilities.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet ondernemers "
+        },
+        {
+          "text": "financieel",
+          "glossary": "Something related to money."
+        },
+        {
+          "text": " helpen om hun gebouw toegankelijker te maken voor mensen met een "
+        },
+        {
+          "text": "beperking",
+          "glossary": "Something that limits you in daily life. A disability can be physical or intellectual or relate to hearing or sight, or combinations of these."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should financially help business owners to make their buildings accessible to people with disabilities.",
-      "themeEn": "Accessibility of buildings"
+      "isShootout": false
     },
     {
       "id": 269185,
@@ -1975,12 +2059,22 @@
       "theme": "Choice of healthcare",
       "themeId": "zorgkeuze",
       "title": "People who need care should always be able to choose a caregiver who matches their religion, culture, or beliefs.",
+      "titleParts": [
+        {
+          "text": " Mensen die zorg nodig hebben, moeten altijd kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of "
+        },
+        {
+          "text": "levensovertuiging",
+          "glossary": "What someone believes about life, such as a religion or personal conviction."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People who need care should always be able to choose a caregiver who matches their religion, culture, or beliefs.",
-      "themeEn": "Choice of healthcare"
+      "isShootout": false
     },
     {
       "id": 269166,
@@ -1988,12 +2082,22 @@
       "theme": "Neighborhood police officer",
       "themeId": "wijkagent",
       "title": "The municipality should ask the police to hold a weekly consultation hour with the local officer in every neighborhood and village.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de politie vragen om in elke wijk en elk dorp wekelijks een "
+        },
+        {
+          "text": "spreekuur",
+          "glossary": "A fixed time when residents can ask questions or drop in."
+        },
+        {
+          "text": " te houden met de wijkagent."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should ask the police to hold a weekly consultation hour with the local officer in every neighborhood and village.",
-      "themeEn": "Neighborhood police officer"
+      "isShootout": false
     },
     {
       "id": 269173,
@@ -2004,9 +2108,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should raise the income threshold for receiving poverty assistance.",
-      "themeEn": "Combating poverty"
+      "isShootout": false
     },
     {
       "id": 269188,
@@ -2014,12 +2116,22 @@
       "theme": "Distribution Act",
       "themeId": "spreidingswet",
       "title": "Smallingerland should not accommodate more asylum seekers than required; the municipality currently does.",
+      "titleParts": [
+        {
+          "text": " Smallingerland mag niet meer "
+        },
+        {
+          "text": "asielzoekers ",
+          "glossary": "People who have applied for asylum and are still waiting for a decision."
+        },
+        {
+          "text": "opvangen dan verplicht is. Dat doet de gemeente nu wel."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Smallingerland should not accommodate more asylum seekers than required; the municipality currently does.",
-      "themeEn": "Distribution Act"
+      "isShootout": false
     },
     {
       "id": 269184,
@@ -2027,12 +2139,29 @@
       "theme": "Car speeds",
       "themeId": "snelheid-auto-s",
       "title": "The maximum speed limit in built-up areas should be set to 30 km/h.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "maximumsnelheid",
+          "glossary": "The maximum speed that cars and motorcycles are allowed to drive on the road."
+        },
+        {
+          "text": " binnen de "
+        },
+        {
+          "text": "bebouwde kom",
+          "glossary": "An area with buildings (houses, other structures)."
+        },
+        {
+          "text": " moet naar 30 km/u."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The maximum speed limit in built-up areas should be set to 30 km/h.",
-      "themeEn": "Car speeds"
+      "isShootout": false
     },
     {
       "id": 269174,
@@ -2040,12 +2169,29 @@
       "theme": "Work requirement for welfare recipients",
       "themeId": "tegenprestatie-voor-uitkering",
       "title": "People receiving social assistance should, in return, do socially useful work.",
+      "titleParts": [
+        {
+          "text": " Mensen die een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Money from the municipality for people who have no income or personal funds."
+        },
+        {
+          "text": " krijgen, moeten in ruil daarvoor "
+        },
+        {
+          "text": "maatschappelijk zinvol werk",
+          "glossary": "For example cleaning the streets or keeping company and supporting elderly residents."
+        },
+        {
+          "text": " doen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People receiving social assistance should, in return, do socially useful work.",
-      "themeEn": "Work requirement for welfare recipients"
+      "isShootout": false
     },
     {
       "id": 269186,
@@ -2056,9 +2202,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "All villages and neighborhoods in the municipality should have their own social and cultural community center.",
-      "themeEn": "Neighborhood center"
+      "isShootout": false
     },
     {
       "id": 269181,
@@ -2069,9 +2213,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Parking at shopping centers should be free.",
-      "themeEn": "Free parking"
+      "isShootout": false
     },
     {
       "id": 269197,
@@ -2082,9 +2224,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allocate a larger share of the money to neighborhood and village budgets.",
-      "themeEn": "Village budget"
+      "isShootout": false
     },
     {
       "id": 269196,
@@ -2095,9 +2235,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should expand nature reserves and meadow bird areas, even if that costs farmland.",
-      "themeEn": "Agriculture and landscape"
+      "isShootout": false
     },
     {
       "id": 269189,
@@ -2108,9 +2246,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should enforce rules more strictly regarding nuisance around asylum seeker reception centers.",
-      "themeEn": "Tackling nuisance at shelter locations"
+      "isShootout": false
     },
     {
       "id": 269183,
@@ -2121,9 +2257,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be more car-free streets in the center of Drachten.",
-      "themeEn": "Car-free"
+      "isShootout": false
     },
     {
       "id": 269192,
@@ -2131,12 +2265,22 @@
       "theme": "Village festivals",
       "themeId": "dorpsfeesten",
       "title": "The municipality should lower permit fees for village and neighborhood festivals.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de "
+        },
+        {
+          "text": "vergunning",
+          "glossary": "Permission from the municipality to do something."
+        },
+        {
+          "text": "kosten voor dorpsfeesten en wijkfeesten verlagen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should lower permit fees for village and neighborhood festivals.",
-      "themeEn": "Village festivals"
+      "isShootout": false
     },
     {
       "id": 269202,
@@ -2147,9 +2291,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "A large new residential neighborhood should be built near Drachten.",
-      "themeEn": "New residential neighborhood"
+      "isShootout": false
     },
     {
       "id": 269168,
@@ -2160,9 +2302,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should urge the police to more often check fatbikers for antisocial behavior.",
-      "themeEn": "Fat bikes"
+      "isShootout": false
     },
     {
       "id": 269207,
@@ -2173,9 +2313,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should invest more money in youth meeting spaces.",
-      "themeEn": "Youth shelters"
+      "isShootout": false
     },
     {
       "id": 269200,
@@ -2183,12 +2321,22 @@
       "theme": "Social assistance",
       "themeId": "bijstand",
       "title": "The municipality should reduce the social assistance benefit if someone fails to keep agreements about work or education.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Money from the municipality for people who have no income or personal funds."
+        },
+        {
+          "text": " verlagen als iemand afspraken over werk of scholing niet nakomt."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should reduce the social assistance benefit if someone fails to keep agreements about work or education.",
-      "themeEn": "Social assistance"
+      "isShootout": false
     },
     {
       "id": 269209,
@@ -2196,12 +2344,29 @@
       "theme": "Tax on buildings",
       "themeId": "belasting-op-gebouwen",
       "title": "The property tax (ozb) should be increased.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "onroerendezaakbelasting",
+          "glossary": "Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "ozb",
+          "glossary": "Property tax. Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": ") moet omhoog."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The property tax (ozb) should be increased.",
-      "themeEn": "Tax on buildings"
+      "isShootout": false
     },
     {
       "id": 269204,
@@ -2209,12 +2374,22 @@
       "theme": "Lely Line",
       "themeId": "lelylijn",
       "title": "Smallingerland should stop lobbying for a railway line between Groningen and Lelystad via Emmeloord.",
+      "titleParts": [
+        {
+          "text": " Smallingerland moet stoppen met "
+        },
+        {
+          "text": "lobbyen",
+          "glossary": "Influencing politics by talking to the decision-makers."
+        },
+        {
+          "text": " voor een spoorlijn tussen Groningen en Lelystad over Emmeloord."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Smallingerland should stop lobbying for a railway line between Groningen and Lelystad via Emmeloord.",
-      "themeEn": "Lely Line"
+      "isShootout": false
     },
     {
       "id": 269164,
@@ -2222,12 +2397,22 @@
       "theme": "Sports clubs",
       "themeId": "sportverenigingen",
       "title": "If sports clubs are struggling, the municipality should contribute financially.",
+      "titleParts": [
+        {
+          "text": " Als sportverenigingen het moeilijk hebben, moet de gemeente "
+        },
+        {
+          "text": "financieel",
+          "glossary": "Something related to money."
+        },
+        {
+          "text": " bijdragen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "If sports clubs are struggling, the municipality should contribute financially.",
-      "themeEn": "Sports clubs"
+      "isShootout": false
     },
     {
       "id": 269208,
@@ -2238,9 +2423,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Camera surveillance in Smallingerland must always be temporary.",
-      "themeEn": "Temporary camera surveillance"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

@@ -958,9 +958,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "More affordable owner-occupied homes must be built in Bleiswijk.",
-      "themeEn": "Starter homes"
+      "isShootout": false
     },
     {
       "id": 117769,
@@ -968,12 +966,22 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "The residents of Lansingerland must be able to give their opinion on important issues via a referendum.",
+      "titleParts": [
+        {
+          "text": " De inwoners van Lansingerland moeten over belangrijke onderwerpen hun mening kunnen geven via een "
+        },
+        {
+          "text": "referendum",
+          "glossary": "A public consultation where residents can express their opinion on a political issue. The municipal council is not obliged to follow the result; legally it cannot."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The residents of Lansingerland must be able to give their opinion on important issues via a referendum.",
-      "themeEn": "Referendum"
+      "isShootout": false
     },
     {
       "id": 117772,
@@ -984,9 +992,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Cafés and restaurants must be able to determine their own opening hours.",
-      "themeEn": "Opening hours for hospitality venues"
+      "isShootout": false
     },
     {
       "id": 117780,
@@ -997,9 +1003,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should organize a fireworks show on New Year's Eve.",
-      "themeEn": "Fireworks"
+      "isShootout": false
     },
     {
       "id": 117775,
@@ -1007,12 +1011,22 @@
       "theme": "Asylum accommodation",
       "themeId": "asielopvang",
       "title": "The asylum reception center in our municipality should be closed as soon as possible.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "asielopvang",
+          "glossary": "A place where people who have applied for asylum are accommodated. An asylum shelter can be temporary. A permanent asylum shelter is called an asylum seekers' centre (azc)."
+        },
+        {
+          "text": " in onze gemeente moet zo snel mogelijk sluiten."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The asylum reception center in our municipality should be closed as soon as possible.",
-      "themeEn": "Asylum accommodation"
+      "isShootout": false
     },
     {
       "id": 117782,
@@ -1023,9 +1037,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Noise standards at festivals and parties must be made stricter.",
-      "themeEn": "Festival noise"
+      "isShootout": false
     },
     {
       "id": 117806,
@@ -1033,12 +1045,22 @@
       "theme": "Parking permits",
       "themeId": "parkeervergunningen",
       "title": "Lansingerland must introduce a parking permit in more neighborhoods.",
+      "titleParts": [
+        {
+          "text": " Lansingerland moet in meer wijken een "
+        },
+        {
+          "text": "parkeervergunning",
+          "glossary": "A permit to park in a certain place. You have to pay for that right."
+        },
+        {
+          "text": " invoeren."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Lansingerland must introduce a parking permit in more neighborhoods.",
-      "themeEn": "Parking permits"
+      "isShootout": false
     },
     {
       "id": 117778,
@@ -1046,12 +1068,22 @@
       "theme": "Wood burning",
       "themeId": "houtstook",
       "title": "In Lansingerland the use of open fireplaces and wood stoves must remain permitted.",
+      "titleParts": [
+        {
+          "text": " In Lansingerland moet het gebruik van open haarden en "
+        },
+        {
+          "text": "houtkachels",
+          "glossary": "Wood-burning stoves used to heat a home."
+        },
+        {
+          "text": " toegestaan blijven."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "In Lansingerland the use of open fireplaces and wood stoves must remain permitted.",
-      "themeEn": "Wood burning"
+      "isShootout": false
     },
     {
       "id": 117787,
@@ -1059,12 +1091,22 @@
       "theme": "Music lessons",
       "themeId": "muziekles",
       "title": "Every primary school child should be able to receive music lessons subsidized by the municipality.",
+      "titleParts": [
+        {
+          "text": " Elk basisschoolkind moet met "
+        },
+        {
+          "text": "subsidie",
+          "glossary": "Money the government gives to citizens, businesses, and organizations to support them."
+        },
+        {
+          "text": " van de gemeente muziekles kunnen krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Every primary school child should be able to receive music lessons subsidized by the municipality.",
-      "themeEn": "Music lessons"
+      "isShootout": false
     },
     {
       "id": 117825,
@@ -1075,9 +1117,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "All villages in the municipality must have their own village center.",
-      "themeEn": "Village center"
+      "isShootout": false
     },
     {
       "id": 117783,
@@ -1085,12 +1125,29 @@
       "theme": "Accessibility of buildings",
       "themeId": "toegankelijkheid-gebouwen",
       "title": "The municipality should financially help business owners to make their buildings accessible to people with disabilities.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet ondernemers "
+        },
+        {
+          "text": "financieel",
+          "glossary": "Something related to money."
+        },
+        {
+          "text": " helpen om hun gebouw toegankelijker te maken voor mensen met een "
+        },
+        {
+          "text": "beperking",
+          "glossary": "Something that limits you in daily life. A disability can be physical or intellectual or relate to hearing or sight, or combinations of these."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should financially help business owners to make their buildings accessible to people with disabilities.",
-      "themeEn": "Accessibility of buildings"
+      "isShootout": false
     },
     {
       "id": 117773,
@@ -1098,12 +1155,22 @@
       "theme": "Sustainable energy",
       "themeId": "duurzame-energie",
       "title": "Residents who want to generate sustainable energy together should receive financial support from the municipality.",
+      "titleParts": [
+        {
+          "text": " Inwoners die samen "
+        },
+        {
+          "text": "duurzame energie",
+          "glossary": "Energy based on resources that are effectively infinite, such as sunlight and wind."
+        },
+        {
+          "text": " op willen wekken, moeten financiële steun krijgen van de gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents who want to generate sustainable energy together should receive financial support from the municipality.",
-      "themeEn": "Sustainable energy"
+      "isShootout": false
     },
     {
       "id": 117791,
@@ -1111,12 +1178,22 @@
       "theme": "Camera surveillance",
       "themeId": "cameratoezicht",
       "title": "More camera surveillance must be introduced in Lansingerland.",
+      "titleParts": [
+        {
+          "text": " In Lansingerland moet meer "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Monitoring of a building, area, or (groups of) people using security cameras."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "More camera surveillance must be introduced in Lansingerland.",
-      "themeEn": "Camera surveillance"
+      "isShootout": false
     },
     {
       "id": 117798,
@@ -1124,12 +1201,22 @@
       "theme": "Offices converted into homes",
       "themeId": "kantoren-worden-woningen",
       "title": "Vacant offices should be converted into housing with subsidies from the municipality.",
+      "titleParts": [
+        {
+          "text": " Leegstaande kantoren moeten met "
+        },
+        {
+          "text": "subsidie",
+          "glossary": "Money the government gives to citizens, businesses, and organizations to support them."
+        },
+        {
+          "text": " van de gemeente worden omgebouwd tot woningen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Vacant offices should be converted into housing with subsidies from the municipality.",
-      "themeEn": "Offices converted into homes"
+      "isShootout": false
     },
     {
       "id": 117793,
@@ -1137,12 +1224,22 @@
       "theme": "Baton (police baton)",
       "themeId": "wapenstok",
       "title": "The municipal enforcement officers (BOAs) who oversee safety in Lansingerland must be equipped with a baton.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "boa's",
+          "glossary": "Special Enforcement Officers. They can issue fines and often supervise the streets."
+        },
+        {
+          "text": " die in Lansingerland controleren op veiligheid moeten een wapenstok krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipal enforcement officers (BOAs) who oversee safety in Lansingerland must be equipped with a baton.",
-      "themeEn": "Baton (police baton)"
+      "isShootout": false
     },
     {
       "id": 117781,
@@ -1153,9 +1250,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Bulky waste must be collected from homes free of charge.",
-      "themeEn": "Bulky waste"
+      "isShootout": false
     },
     {
       "id": 117795,
@@ -1163,12 +1258,22 @@
       "theme": "Priority for housing",
       "themeId": "voorrang-huisvesting",
       "title": "When allocating social housing, applicants from the municipality should be given priority.",
+      "titleParts": [
+        {
+          "text": " Bij de toewijzing van een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " moeten woningzoekenden uit de eigen gemeente voorrang krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "When allocating social housing, applicants from the municipality should be given priority.",
-      "themeEn": "Priority for housing"
+      "isShootout": false
     },
     {
       "id": 117807,
@@ -1176,12 +1281,22 @@
       "theme": "Environmental zone",
       "themeId": "milieuzone",
       "title": "Lansingerland must introduce an environmental zone to exclude polluting vehicles from the center.",
+      "titleParts": [
+        {
+          "text": " Lansingerland moet een "
+        },
+        {
+          "text": "milieuzone",
+          "glossary": "An area where very polluting cars are not allowed to drive."
+        },
+        {
+          "text": " invoeren om vervuilende voertuigen uit het centrum te weren."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Lansingerland must introduce an environmental zone to exclude polluting vehicles from the center.",
-      "themeEn": "Environmental zone"
+      "isShootout": false
     },
     {
       "id": 117800,
@@ -1189,12 +1304,29 @@
       "theme": "Work requirement for welfare recipients",
       "themeId": "tegenprestatie-voor-uitkering",
       "title": "People receiving social assistance should, in return, do socially useful work.",
+      "titleParts": [
+        {
+          "text": " Mensen die een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Money from the municipality for people who have no income or personal funds."
+        },
+        {
+          "text": " krijgen, moeten in ruil daarvoor "
+        },
+        {
+          "text": "maatschappelijk zinvol werk",
+          "glossary": "For example cleaning the streets or keeping company and supporting elderly residents."
+        },
+        {
+          "text": " doen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People receiving social assistance should, in return, do socially useful work.",
-      "themeEn": "Work requirement for welfare recipients"
+      "isShootout": false
     },
     {
       "id": 117811,
@@ -1202,12 +1334,22 @@
       "theme": "Tax on buildings",
       "themeId": "belasting-op-gebouwen",
       "title": "The property tax (ozb) should be increased.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "onroerendezaakbelasting",
+          "glossary": "Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": " (ozb) moet omhoog."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The property tax (ozb) should be increased.",
-      "themeEn": "Tax on buildings"
+      "isShootout": false
     },
     {
       "id": 117801,
@@ -1215,12 +1357,29 @@
       "theme": "Stop debt forgiveness",
       "themeId": "kwijtschelding-stoppen",
       "title": "The municipality should stop forgiving municipal taxes for low-income residents.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet stoppen met het "
+        },
+        {
+          "text": "kwijtschelden",
+          "glossary": "That people no longer have to pay for something."
+        },
+        {
+          "text": " van de "
+        },
+        {
+          "text": "gemeentelijke belastingen",
+          "glossary": "Taxes you have to pay to the municipality (e.g., sewer charge, waste disposal charge, dog tax)."
+        },
+        {
+          "text": " voor inwoners met een laag inkomen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should stop forgiving municipal taxes for low-income residents.",
-      "themeEn": "Stop debt forgiveness"
+      "isShootout": false
     },
     {
       "id": 117816,
@@ -1228,12 +1387,29 @@
       "theme": "Priority for refugees",
       "themeId": "voorrang-voor-vluchtelingen",
       "title": "The municipality should give refugees with a residence permit priority for social housing.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet vluchtelingen met een "
+        },
+        {
+          "text": "verblijfsvergunning",
+          "glossary": "The right to reside in the Netherlands. The term can refer to the right itself or to the card that shows someone has that right."
+        },
+        {
+          "text": " voorrang gaan geven op een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should give refugees with a residence permit priority for social housing.",
-      "themeEn": "Priority for refugees"
+      "isShootout": false
     },
     {
       "id": 117814,
@@ -1244,9 +1420,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Business parks in Lansingerland may be expanded.",
-      "themeEn": "Business parks"
+      "isShootout": false
     },
     {
       "id": 117827,
@@ -1257,9 +1431,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The center of Bleiswijk must become car-free.",
-      "themeEn": "Car-free"
+      "isShootout": false
     },
     {
       "id": 117799,
@@ -1267,12 +1439,22 @@
       "theme": "Student housing",
       "themeId": "studentenwoningen",
       "title": "The municipality must invest in temporary housing for students, for example container housing.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld steken in tijdelijke huisvesting voor studenten, bijvoorbeeld "
+        },
+        {
+          "text": "containerwoning",
+          "glossary": "A movable and temporary dwelling, usually made from a shipping container."
+        },
+        {
+          "text": "en."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must invest in temporary housing for students, for example container housing.",
-      "themeEn": "Student housing"
+      "isShootout": false
     },
     {
       "id": 117819,
@@ -1283,9 +1465,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Lansingerland must renovate the De Windas swimming pool in Bergschenhoek.",
-      "themeEn": "De Windas swimming pool"
+      "isShootout": false
     },
     {
       "id": 117829,
@@ -1296,9 +1476,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must spend more money on youth workers in Bergschenhoek.",
-      "themeEn": "Youth workers"
+      "isShootout": false
     }
   ],
   "shootoutStatements": []

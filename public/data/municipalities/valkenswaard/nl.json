@@ -1301,6 +1301,25 @@
       "theme": "Sociale huurwoningen",
       "themeId": "sociale-huurwoningen",
       "title": "Van de nieuw te bouwen woningen in gemeente Valkenswaard moet minimaal 40% een sociale huurwoning zijn. In de gemeente is nu 29% van de woningen een sociale huurwoning.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in gemeente Valkenswaard moet minimaal 40% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": " zijn. In de gemeente is nu 29% van de woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "De gemeente streeft bij nieuwbouwprojecten nu naar 35 procent sociale huur. Het minimale aantal sociale huurwoningen bij nieuwbouwprojecten vanaf 10 woningen is 30 procent.",
       "pro": "",
       "con": "",
@@ -1340,6 +1359,25 @@
       "theme": "Tegenprestatie voor uitkering",
       "themeId": "tegenprestatie-voor-uitkering",
       "title": "Mensen die een bijstandsuitkering krijgen, moeten in ruil daarvoor maatschappelijk zinvol werk doen.",
+      "titleParts": [
+        {
+          "text": " Mensen die een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Geld van de gemeente voor mensen die geen inkomen of eigen geld hebben."
+        },
+        {
+          "text": " krijgen, moeten in ruil daarvoor "
+        },
+        {
+          "text": "maatschappelijk zinvol werk",
+          "glossary": "Bijvoorbeeld schoonmaken van de straten of het gezelschap houden en ondersteunen van oudere inwoners."
+        },
+        {
+          "text": " doen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1353,6 +1391,25 @@
       "theme": "Voorrang voor vluchtelingen",
       "themeId": "voorrang-voor-vluchtelingen",
       "title": "De gemeente moet statushouders voorrang blijven geven op een sociale huurwoning.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "statushouders",
+          "glossary": "Vluchtelingen die een verblijfsvergunning hebben gekregen en dus in Nederland mogen blijven."
+        },
+        {
+          "text": " voorrang blijven geven op een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1379,6 +1436,18 @@
       "theme": "Cameratoezicht",
       "themeId": "cameratoezicht",
       "title": "In het centrum van Valkenswaard moet cameratoezicht komen.",
+      "titleParts": [
+        {
+          "text": " In het centrum van Valkenswaard moet "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Het houden van toezicht op of in een gebouw, gebied of (groepen) mensen met behulp van bewakingscamera's."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1418,6 +1487,18 @@
       "theme": "Asielzoekerscentrum",
       "themeId": "asielzoekerscentrum",
       "title": "In de gemeente Valkenswaard moet geen asielzoekerscentrum (azc) komen.",
+      "titleParts": [
+        {
+          "text": " In de gemeente Valkenswaard moet geen "
+        },
+        {
+          "text": "asielzoekerscentrum",
+          "glossary": "Opvangcentrum voor asielzoekers. Ze wonen daar tot besloten is of ze in Nederland mogen blijven. Een asielzoekerscentrum blijft langere tijd in een gemeente staan."
+        },
+        {
+          "text": " (azc) komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1431,6 +1512,25 @@
       "theme": "Toegankelijkheid gebouwen",
       "themeId": "toegankelijkheid-gebouwen",
       "title": "De gemeente moet ondernemers financieel helpen om hun gebouw toegankelijker te maken voor mensen met een beperking.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet ondernemers "
+        },
+        {
+          "text": "financieel",
+          "glossary": "Iets dat met geld te maken heeft."
+        },
+        {
+          "text": " helpen om hun gebouw toegankelijker te maken voor mensen met een "
+        },
+        {
+          "text": "beperking",
+          "glossary": "Iets dat je belemmert in het dagelijks leven. Een beperking kan lichamelijk of verstandelijk zijn of te maken hebben met horen of zien. Of combinaties daarvan."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1470,6 +1570,18 @@
       "theme": "Subsidie voor sport",
       "themeId": "subsidie-voor-sport",
       "title": "De subsidies voor sportverenigingen moeten omhoog.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "subsidies",
+          "glossary": "Geld dat de overheid aan burgers, bedrijven en organisaties geeft om ze te steunen."
+        },
+        {
+          "text": " voor sportverenigingen moeten omhoog."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1509,6 +1621,18 @@
       "theme": "Vrijwillige handhavers",
       "themeId": "vrijwillige-handhavers",
       "title": "De gemeente Valkenswaard moet een proef starten met vrijwillige handhavers.",
+      "titleParts": [
+        {
+          "text": " De gemeente Valkenswaard moet een proef starten met vrijwillige "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "Mensen die voor de gemeente controleren of burgers en bedrijven zich aan de regels houden."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1535,6 +1659,18 @@
       "theme": "Ambtenaren",
       "themeId": "ambtenaren",
       "title": "De gemeente moet bezuinigen op het aantal ambtenaren.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "bezuinigen",
+          "glossary": "Minder geld uitgeven."
+        },
+        {
+          "text": " op het aantal ambtenaren."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1548,6 +1684,25 @@
       "theme": "Integratie",
       "themeId": "integratie",
       "title": "De gemeente moet meer geld uitgeven aan integratie van nieuwkomers in de maatschappij.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld uitgeven aan "
+        },
+        {
+          "text": "integratie",
+          "glossary": "Nieuwkomers leren de taal en gewoonten van Nederland."
+        },
+        {
+          "text": " van "
+        },
+        {
+          "text": "nieuwkomers",
+          "glossary": "Mensen die nog niet lang in Nederland wonen."
+        },
+        {
+          "text": " in de maatschappij."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1587,6 +1742,25 @@
       "theme": "LHBTI",
       "themeId": "lhbti",
       "title": "De gemeente moet subsidie geven voor activiteiten voor LHBTI'ers.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "subsidie",
+          "glossary": "Geld dat de overheid aan burgers, bedrijven en organisaties geeft om ze te steunen."
+        },
+        {
+          "text": " geven voor activiteiten voor "
+        },
+        {
+          "text": "LHBTI'ers",
+          "glossary": "LHBTI staat voor lesbische vrouwen (L), homoseksuele mannen (H), biseksuelen (B), transgenders (T) en intersekse personen (I)."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1600,6 +1774,25 @@
       "theme": "City marketing",
       "themeId": "city-marketing",
       "title": "De gemeente moet geld steken in een promotiecampagne voor Valkenswaard als aantrekkelijke vestigingsplaats voor bedrijven.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld steken in een "
+        },
+        {
+          "text": "promotiecampagne",
+          "glossary": "Een serie reclames op bijvoorbeeld borden, televisie en sociale media."
+        },
+        {
+          "text": " voor Valkenswaard als aantrekkelijke "
+        },
+        {
+          "text": "vestigingsplaats",
+          "glossary": "De plek waar een bedrijf zich vestigt."
+        },
+        {
+          "text": " voor bedrijven."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1613,6 +1806,18 @@
       "theme": "Sportverenigingen",
       "themeId": "sportverenigingen",
       "title": "Als sportverenigingen het moeilijk hebben, moet de gemeente financieel bijdragen.",
+      "titleParts": [
+        {
+          "text": " Als sportverenigingen het moeilijk hebben, moet de gemeente "
+        },
+        {
+          "text": "financieel",
+          "glossary": "Iets dat met geld te maken heeft."
+        },
+        {
+          "text": " bijdragen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1626,6 +1831,18 @@
       "theme": "Sluipverkeer",
       "themeId": "sluipverkeer",
       "title": "De gemeente moet aan de Belgische dorpen Lommel en Hamont-Achel vragen om maatregelen te nemen om sluipverkeer te stoppen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet aan de Belgische dorpen Lommel en Hamont-Achel vragen om maatregelen te nemen om "
+        },
+        {
+          "text": "sluipverkeer",
+          "glossary": "Verkeer dat door woonstraten rijdt om drukke wegen te vermijden."
+        },
+        {
+          "text": " te stoppen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1652,6 +1869,18 @@
       "theme": "Vergoeding relatietherapie",
       "themeId": "vergoeding-relatietherapie",
       "title": "De gemeente Valkenswaard moet relatietherapie vergoeden voor stellen met kinderen.",
+      "titleParts": [
+        {
+          "text": " De gemeente Valkenswaard moet "
+        },
+        {
+          "text": "relatietherapie",
+          "glossary": "Als mensen hun liefdesrelatie proberen te verbeteren samen met een hulpverlener."
+        },
+        {
+          "text": " vergoeden voor stellen met kinderen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",

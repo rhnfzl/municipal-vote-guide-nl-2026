@@ -1940,9 +1940,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Every village should have a village council that advises the municipality.",
-      "themeEn": "Village council and neighborhood council"
+      "isShootout": false
     },
     {
       "id": 230425,
@@ -1950,12 +1948,22 @@
       "theme": "Logistics",
       "themeId": "logistiek",
       "title": "No new distribution centers should be allowed in Montferland.",
+      "titleParts": [
+        {
+          "text": " Er mogen geen nieuwe "
+        },
+        {
+          "text": "distributiecentra",
+          "glossary": "Large warehouses where goods are received, sorted and transported to other locations."
+        },
+        {
+          "text": " komen in Montferland."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "No new distribution centers should be allowed in Montferland.",
-      "themeEn": "Logistics"
+      "isShootout": false
     },
     {
       "id": 230408,
@@ -1963,12 +1971,22 @@
       "theme": "Enforcement officers",
       "themeId": "handhavers",
       "title": "Montferland should have more municipal enforcement officers (BOAs) who focus on safety.",
+      "titleParts": [
+        {
+          "text": " In Montferland moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "People who, for the municipality, check whether citizens and businesses comply with the rules."
+        },
+        {
+          "text": " (boa’s) komen die zich met veiligheid bezighouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Montferland should have more municipal enforcement officers (BOAs) who focus on safety.",
-      "themeEn": "Enforcement officers"
+      "isShootout": false
     },
     {
       "id": 230420,
@@ -1976,12 +1994,29 @@
       "theme": "Car speeds",
       "themeId": "snelheid-auto-s",
       "title": "The maximum speed limit in built-up areas should be set to 30 km/h.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "maximumsnelheid",
+          "glossary": "The maximum speed that cars and motorcycles are allowed to drive on the road."
+        },
+        {
+          "text": " binnen de "
+        },
+        {
+          "text": "bebouwde kom",
+          "glossary": "An area with buildings (houses, other structures)."
+        },
+        {
+          "text": " moet naar 30 km/u."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The maximum speed limit in built-up areas should be set to 30 km/h.",
-      "themeEn": "Car speeds"
+      "isShootout": false
     },
     {
       "id": 230424,
@@ -1992,9 +2027,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "If a resident asks the municipality a question, the municipality must respond within one working day.",
-      "themeEn": "Response to a citizen's question"
+      "isShootout": false
     },
     {
       "id": 230404,
@@ -2005,9 +2038,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "If employers want to house labor migrants on their own premises, the municipality should cooperate as much as possible.",
-      "themeEn": "Housing for foreign workers"
+      "isShootout": false
     },
     {
       "id": 230409,
@@ -2015,12 +2046,22 @@
       "theme": "Camera surveillance",
       "themeId": "cameratoezicht",
       "title": "There should be camera surveillance in Didam.",
+      "titleParts": [
+        {
+          "text": " In Didam moet "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Monitoring of a building, area, or (groups of) people using security cameras."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be camera surveillance in Didam.",
-      "themeEn": "Camera surveillance"
+      "isShootout": false
     },
     {
       "id": 230439,
@@ -2031,9 +2072,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "More money should go to culture and music for young people.",
-      "themeEn": "Culture and youth"
+      "isShootout": false
     },
     {
       "id": 230426,
@@ -2044,9 +2083,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should invest in an advertising campaign to attract more tourists.",
-      "themeEn": "Tourism"
+      "isShootout": false
     },
     {
       "id": 230432,
@@ -2054,12 +2091,22 @@
       "theme": "Wind turbines",
       "themeId": "windturbines",
       "title": "The municipality should designate areas for wind turbines as soon as possible.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet zo snel mogelijk gebieden aanwijzen waar "
+        },
+        {
+          "text": "windmolens",
+          "glossary": "These are modern wind turbines that convert wind power into electricity and can be up to 150 meters high."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should designate areas for wind turbines as soon as possible.",
-      "themeEn": "Wind turbines"
+      "isShootout": false
     },
     {
       "id": 230450,
@@ -2067,12 +2114,22 @@
       "theme": "Internship placements",
       "themeId": "stageplekken",
       "title": "More MBO students (vocational education) should be able to do internships at the municipality.",
+      "titleParts": [
+        {
+          "text": " Meer "
+        },
+        {
+          "text": "mbo'ers",
+          "glossary": "Secondary vocational education (MBO)."
+        },
+        {
+          "text": " moeten stage kunnen lopen bij de gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "More MBO students (vocational education) should be able to do internships at the municipality.",
-      "themeEn": "Internship placements"
+      "isShootout": false
     },
     {
       "id": 230430,
@@ -2083,9 +2140,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should provide accommodation for asylum seekers as soon as possible.",
-      "themeEn": "Asylum seekers' center"
+      "isShootout": false
     },
     {
       "id": 230437,
@@ -2096,9 +2151,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Many more trees should be planted in Montferland.",
-      "themeEn": "Greening public spaces"
+      "isShootout": false
     },
     {
       "id": 230453,
@@ -2109,9 +2162,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should invest more in cycle paths with smart lighting that only turns on when cyclists pass.",
-      "themeEn": "Lighting for bike routes"
+      "isShootout": false
     },
     {
       "id": 230452,
@@ -2122,9 +2173,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be more parking spaces at De Nevelhorst.",
-      "themeEn": "Parking spaces"
+      "isShootout": false
     },
     {
       "id": 230445,
@@ -2135,9 +2184,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must fine owners who leave a building vacant for longer than a year.",
-      "themeEn": "Vacancy tax"
+      "isShootout": false
     },
     {
       "id": 230413,
@@ -2145,12 +2192,22 @@
       "theme": "Apartment buildings",
       "themeId": "flats",
       "title": "High-rise buildings up to six stories may be allowed in Didam.",
+      "titleParts": [
+        {
+          "text": " In Didam mag "
+        },
+        {
+          "text": "hoogbouw",
+          "glossary": "Buildings with homes or businesses on multiple floors, for example apartments or flats."
+        },
+        {
+          "text": " tot zes verdiepingen komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "High-rise buildings up to six stories may be allowed in Didam.",
-      "themeEn": "Apartment buildings"
+      "isShootout": false
     },
     {
       "id": 230451,
@@ -2161,9 +2218,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The center of 's-Heerenberg should remain easily accessible by car.",
-      "themeEn": "Low-traffic (car-restricted)"
+      "isShootout": false
     },
     {
       "id": 230455,
@@ -2174,9 +2229,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Each village should have a contact person who notifies the municipality if residents become socially isolated.",
-      "themeEn": "Loneliness"
+      "isShootout": false
     },
     {
       "id": 230456,
@@ -2184,12 +2237,22 @@
       "theme": "Seniors",
       "themeId": "ouderen",
       "title": "Montferland should spend more money on home care for the elderly.",
+      "titleParts": [
+        {
+          "text": " Montferland moet meer geld uitgeven aan "
+        },
+        {
+          "text": "thuiszorg",
+          "glossary": "Care provided at home by staff with a diploma (qualified staff)."
+        },
+        {
+          "text": " voor ouderen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Montferland should spend more money on home care for the elderly.",
-      "themeEn": "Seniors"
+      "isShootout": false
     },
     {
       "id": 288611,
@@ -2200,9 +2263,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "More business parks should be developed in Montferland.",
-      "themeEn": "More business parks"
+      "isShootout": false
     },
     {
       "id": 230435,
@@ -2213,9 +2274,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must ensure that by 2035 Montferland consumes no more energy than it generates.",
-      "themeEn": "Energy-neutral"
+      "isShootout": false
     },
     {
       "id": 288610,
@@ -2223,12 +2282,22 @@
       "theme": "Care",
       "themeId": "zorg",
       "title": "People who need care should always be able to choose a caregiver who matches their religion, culture, or beliefs.",
+      "titleParts": [
+        {
+          "text": " Mensen die zorg nodig hebben, moeten altijd kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of "
+        },
+        {
+          "text": "levensovertuiging",
+          "glossary": "What someone believes about life, such as a religion or personal conviction."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People who need care should always be able to choose a caregiver who matches their religion, culture, or beliefs.",
-      "themeEn": "Care"
+      "isShootout": false
     },
     {
       "id": 288609,
@@ -2236,12 +2305,22 @@
       "theme": "Property tax (onroerendezaakbelasting, OZB)",
       "themeId": "onroerendezaakbelasting-ozb",
       "title": "The property tax (onroerendezaakbelasting, OZB) should be reduced.",
+      "titleParts": [
+        {
+          "text": " De onroerendezaakbelasting ("
+        },
+        {
+          "text": "ozb",
+          "glossary": "Property tax. Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": ") moet omlaag.  "
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The property tax (onroerendezaakbelasting, OZB) should be reduced.",
-      "themeEn": "Property tax (onroerendezaakbelasting, OZB)"
+      "isShootout": false
     },
     {
       "id": 230446,
@@ -2252,9 +2331,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "New homes should generate their own energy, for example with solar panels.",
-      "themeEn": "Energy-neutral homes"
+      "isShootout": false
     },
     {
       "id": 288612,
@@ -2265,9 +2342,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should continue to use the existing school buildings.",
-      "themeEn": "School buildings"
+      "isShootout": false
     },
     {
       "id": 230449,
@@ -2278,9 +2353,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There must be a relocation allowance for elderly people who leave a large family home.",
-      "themeEn": "Relocation allowance"
+      "isShootout": false
     },
     {
       "id": 230429,
@@ -2291,9 +2364,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should organize a cultural festival together with neighboring German municipalities.",
-      "themeEn": "Economic cooperation"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

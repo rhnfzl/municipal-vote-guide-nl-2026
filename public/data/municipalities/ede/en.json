@@ -3281,12 +3281,22 @@
       "theme": "Implement the distribution law",
       "themeId": "spreidingswet-uitvoeren",
       "title": "The municipality of Ede should be willing to accommodate more asylum seekers than the legally required number.",
+      "titleParts": [
+        {
+          "text": " De gemeente Ede moet bereid zijn om meer "
+        },
+        {
+          "text": "asielzoekers ",
+          "glossary": "People who have applied for asylum and are still waiting for a decision."
+        },
+        {
+          "text": "op te vangen dan het wettelijk verplichte aantal."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality of Ede should be willing to accommodate more asylum seekers than the legally required number.",
-      "themeEn": "Implement the distribution law"
+      "isShootout": false
     },
     {
       "id": 239409,
@@ -3297,9 +3307,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should not allow large-scale new construction projects in the villages of Ede.",
-      "themeEn": "Limited housing growth"
+      "isShootout": false
     },
     {
       "id": 239385,
@@ -3307,12 +3315,22 @@
       "theme": "Car speeds",
       "themeId": "snelheid-auto-s",
       "title": "On all roads where cars and cyclists share the road, the maximum speed should be reduced to 30 km/h.",
+      "titleParts": [
+        {
+          "text": " Op alle wegen waar auto's en fietsers samen gebruik maken van de weg moet de "
+        },
+        {
+          "text": "maximumsnelheid",
+          "glossary": "The maximum speed that cars and motorcycles are allowed to drive on the road."
+        },
+        {
+          "text": " naar 30 km/u."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "On all roads where cars and cyclists share the road, the maximum speed should be reduced to 30 km/h.",
-      "themeEn": "Car speeds"
+      "isShootout": false
     },
     {
       "id": 239408,
@@ -3323,9 +3341,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should pay for self-defense training for women.",
-      "themeEn": "Resilience training"
+      "isShootout": false
     },
     {
       "id": 239401,
@@ -3336,9 +3352,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Ede should object to the increase in military exercises in the municipality.",
-      "themeEn": "Defense exercises"
+      "isShootout": false
     },
     {
       "id": 239363,
@@ -3346,12 +3360,36 @@
       "theme": "Tax on buildings",
       "themeId": "belasting-op-gebouwen",
       "title": "The municipality should return accumulated reserves to residents by lowering the property tax (ozb).",
+      "titleParts": [
+        {
+          "text": " De gemeente moet opgespaarde "
+        },
+        {
+          "text": "reserves",
+          "glossary": "The municipality's treasury."
+        },
+        {
+          "text": " teruggeven aan de inwoners door de "
+        },
+        {
+          "text": "onroerendezaakbelasting",
+          "glossary": "Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "ozb",
+          "glossary": "Property tax. Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": ") te verlagen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should return accumulated reserves to residents by lowering the property tax (ozb).",
-      "themeEn": "Tax on buildings"
+      "isShootout": false
     },
     {
       "id": 239379,
@@ -3359,12 +3397,29 @@
       "theme": "Social housing",
       "themeId": "sociale-huurwoningen",
       "title": "At least 40% of newly built homes in Ede must be social rental housing. In the Netherlands, 28% of homes are currently social rental housing.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in Ede moet minimaal 40% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " zijn. In Nederland is nu 28% van de woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "Social rental homes are dwellings with a rent of up to €932.93 per month. These homes are intended for residents with lower incomes. Single people qualify for a social rental home if they earn less than €51,537 per year. For households of two or more people the limit is €56,910. At the moment about 23% of all homes in Ede are social rental housing.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "At least 40% of newly built homes in Ede must be social rental housing. In the Netherlands, 28% of homes are currently social rental housing.",
-      "themeEn": "Social housing"
+      "isShootout": false
     },
     {
       "id": 239391,
@@ -3375,9 +3430,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "New residents should receive a one-year free membership to an association in Ede from the municipality.",
-      "themeEn": "Free membership for newcomers"
+      "isShootout": false
     },
     {
       "id": 239389,
@@ -3388,9 +3441,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should stop the plans for a cultural center in the Frisokazerne.",
-      "themeEn": "Development of the Friso Barracks"
+      "isShootout": false
     },
     {
       "id": 239386,
@@ -3401,9 +3452,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality of Ede should appoint a coordinator who monitors discrimination in the municipality.",
-      "themeEn": "Anti-discrimination coordinator"
+      "isShootout": false
     },
     {
       "id": 239420,
@@ -3414,9 +3463,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Elderly people should receive home visits from a welfare worker once they turn 75. Currently this is from 80.",
-      "themeEn": "Home visits for the elderly"
+      "isShootout": false
     },
     {
       "id": 239366,
@@ -3424,12 +3471,29 @@
       "theme": "City marketing",
       "themeId": "city-marketing",
       "title": "The municipality should invest in a promotional campaign for Ede as an attractive location for businesses.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld steken in een "
+        },
+        {
+          "text": "promotiecampagne",
+          "glossary": "A series of advertisements on, for example, billboards, television, and social media."
+        },
+        {
+          "text": " voor Ede als aantrekkelijke "
+        },
+        {
+          "text": "vestigingsplaats",
+          "glossary": "The location where a company establishes itself."
+        },
+        {
+          "text": " voor bedrijven."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should invest in a promotional campaign for Ede as an attractive location for businesses.",
-      "themeEn": "City marketing"
+      "isShootout": false
     },
     {
       "id": 239400,
@@ -3440,9 +3504,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should pursue a reduction of livestock farming in Ede.",
-      "themeEn": "Reduction in livestock farming"
+      "isShootout": false
     },
     {
       "id": 239418,
@@ -3453,9 +3515,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should further postpone the ban on polluting trucks and delivery vans in the center of Ede. It is currently scheduled for January 1, 2030.",
-      "themeEn": "Zero-emission zone"
+      "isShootout": false
     },
     {
       "id": 239367,
@@ -3463,12 +3523,22 @@
       "theme": "Shops closed on Sundays",
       "themeId": "winkels-dicht-op-zondag",
       "title": "On Sundays, shops in all towns and villages of the municipality of Ede should be allowed to open.",
+      "titleParts": [
+        {
+          "text": " Op zondag moeten de winkels in alle "
+        },
+        {
+          "text": "kernen",
+          "glossary": "A village or small town that is part of the municipality."
+        },
+        {
+          "text": " van de gemeente Ede open kunnen zijn."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "On Sundays, shops in all towns and villages of the municipality of Ede should be allowed to open.",
-      "themeEn": "Shops closed on Sundays"
+      "isShootout": false
     },
     {
       "id": 239397,
@@ -3476,12 +3546,22 @@
       "theme": "Temporary shelter",
       "themeId": "tijdelijke-opvang",
       "title": "When designating new reception locations for asylum seekers in Ede, a closing date must always be agreed for the location.",
+      "titleParts": [
+        {
+          "text": " Bij het aanwijzen van nieuwe opvanglocaties voor "
+        },
+        {
+          "text": "asielzoekers ",
+          "glossary": "People who have applied for asylum and are still waiting for a decision."
+        },
+        {
+          "text": "in de gemeente Ede moet er altijd een datum worden afgesproken waarop de locatie gaat sluiten."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "When designating new reception locations for asylum seekers in Ede, a closing date must always be agreed for the location.",
-      "themeEn": "Temporary shelter"
+      "isShootout": false
     },
     {
       "id": 239371,
@@ -3492,9 +3572,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must allow solar panels on agricultural land.",
-      "themeEn": "Solar panels on farmland"
+      "isShootout": false
     },
     {
       "id": 239421,
@@ -3505,9 +3583,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should spend more money on deploying family coaches who can help families in difficult situations.",
-      "themeEn": "Family coaches"
+      "isShootout": false
     },
     {
       "id": 239415,
@@ -3515,12 +3591,22 @@
       "theme": "Sports card",
       "themeId": "sportkaart",
       "title": "Young people should be able to use the Ede Sports Card for free.",
+      "titleParts": [
+        {
+          "text": " Jongeren moeten gratis gebruik kunnen maken van de "
+        },
+        {
+          "text": "Edese Sportkaart",
+          "glossary": "With the Sport Card Ede, students and schoolchildren can take part in unlimited sports at multiple providers in the municipality of Ede for €15.95 per month."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Young people should be able to use the Ede Sports Card for free.",
-      "themeEn": "Sports card"
+      "isShootout": false
     },
     {
       "id": 239375,
@@ -3528,12 +3614,29 @@
       "theme": "Coffeeshops (cannabis cafés)",
       "themeId": "coffeeshops",
       "title": "The license for the coffeeshops in Ede runs until July 1, 2027. The municipality should not renew it.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "vergunning",
+          "glossary": "Permission from the municipality to do something."
+        },
+        {
+          "text": " voor de "
+        },
+        {
+          "text": "coffeeshops",
+          "glossary": "Shop or café where you can buy and smoke soft drugs (hash, weed)."
+        },
+        {
+          "text": " in Ede loopt tot 1 juli 2027. De gemeente moet deze niet verlengen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The license for the coffeeshops in Ede runs until July 1, 2027. The municipality should not renew it.",
-      "themeEn": "Coffeeshops (cannabis cafés)"
+      "isShootout": false
     },
     {
       "id": 239412,
@@ -3544,9 +3647,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must levy a tax on buildings that have been vacant for more than a year.",
-      "themeEn": "Vacancy tax"
+      "isShootout": false
     },
     {
       "id": 239368,
@@ -3557,9 +3658,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must prevent agricultural land in Ede from being converted into nature reserves.",
-      "themeEn": "Agricultural land"
+      "isShootout": false
     },
     {
       "id": 239419,
@@ -3570,9 +3669,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must offer homeless people in Ede a rental home.",
-      "themeEn": "Housing First"
+      "isShootout": false
     },
     {
       "id": 239376,
@@ -3583,9 +3680,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must urge the police to check fatbike riders more often for violations.",
-      "themeEn": "Fat bikes"
+      "isShootout": false
     },
     {
       "id": 239402,
@@ -3593,12 +3688,22 @@
       "theme": "Parking over green spaces",
       "themeId": "parkeren-boven-groen",
       "title": "The municipality may not replace parking spaces within the built-up area with greenery.",
+      "titleParts": [
+        {
+          "text": " De gemeente mag geen parkeerplaatsen binnen de "
+        },
+        {
+          "text": "bebouwde kom",
+          "glossary": "An area with buildings (houses, other structures)."
+        },
+        {
+          "text": " vervangen door groen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality may not replace parking spaces within the built-up area with greenery.",
-      "themeEn": "Parking over green spaces"
+      "isShootout": false
     },
     {
       "id": 239383,
@@ -3609,9 +3714,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The number of parking spaces in the municipality of Ede must be reduced.",
-      "themeEn": "Parking spaces"
+      "isShootout": false
     },
     {
       "id": 239382,
@@ -3619,12 +3722,29 @@
       "theme": "Stop debt forgiveness",
       "themeId": "kwijtschelding-stoppen",
       "title": "The municipality should stop forgiving municipal taxes for low-income residents.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet stoppen met het "
+        },
+        {
+          "text": "kwijtschelden",
+          "glossary": "That people no longer have to pay for something."
+        },
+        {
+          "text": " van de "
+        },
+        {
+          "text": "gemeentelijke belastingen",
+          "glossary": "Taxes you have to pay to the municipality (e.g., sewer charge, waste disposal charge, dog tax)."
+        },
+        {
+          "text": " voor inwoners met een laag inkomen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should stop forgiving municipal taxes for low-income residents.",
-      "themeEn": "Stop debt forgiveness"
+      "isShootout": false
     },
     {
       "id": 239364,
@@ -3632,12 +3752,22 @@
       "theme": "Tourist tax",
       "themeId": "toeristenbelasting",
       "title": "The municipality must invest all tourist tax revenue it receives in the maintenance of nature areas that attract many tourists.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet alle ontvangen "
+        },
+        {
+          "text": "toeristenbelasting",
+          "glossary": "The tax you must pay when you stay overnight in a hotel or at a campsite."
+        },
+        {
+          "text": " investeren in onderhoud van natuurgebieden waar veel toeristen komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must invest all tourist tax revenue it receives in the maintenance of nature areas that attract many tourists.",
-      "themeEn": "Tourist tax"
+      "isShootout": false
     },
     {
       "id": 239380,
@@ -3648,9 +3778,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "In the municipality of Ede, residential apartment buildings up to 70 meters high may be built.",
-      "themeEn": "Apartment buildings"
+      "isShootout": false
     },
     {
       "id": 239394,
@@ -3658,12 +3786,22 @@
       "theme": "Ede open-air theater",
       "themeId": "openluchttheater-ede",
       "title": "The open-air theatre in Ede should be able to increase the number of large events from 8 to 12 per year.",
+      "titleParts": [
+        {
+          "text": " Het openluchttheater in Ede moet het aantal grote "
+        },
+        {
+          "text": "evenementen",
+          "glossary": "A temporary, organized gathering. For example a street party, a flea market, or a music festival."
+        },
+        {
+          "text": " kunnen uitbreiden van 8 naar 12 per jaar."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The open-air theatre in Ede should be able to increase the number of large events from 8 to 12 per year.",
-      "themeEn": "Ede open-air theater"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

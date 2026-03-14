@@ -2409,12 +2409,22 @@
       "theme": "Library points",
       "themeId": "biebpunten",
       "title": "The BiebPunten (library points) in Groenekan, Hollandsche Rading, Westbroek, Bilthoven North, Bilthoven South and De Bilt must be reopened.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "BiebPunten",
+          "glossary": "A place where you can pick up and drop off library books."
+        },
+        {
+          "text": " in Groenekan, Hollandsche Rading, Westbroek, Bilthoven Noord, Bilthoven Zuid en De Bilt moeten weer open."
+        }
+      ],
       "moreInfo": "The BiebPunten in Groenekan, Hollandsche Rading, Westbroek, Bilthoven Noord, Bilthoven Zuid and De Bilt were closed as of July 1, 2025. Residents could, among other things, reserve books there and pick up reserved books.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The BiebPunten (library points) in Groenekan, Hollandsche Rading, Westbroek, Bilthoven North, Bilthoven South and De Bilt must be reopened.",
-      "themeEn": "Library points"
+      "isShootout": false
     },
     {
       "id": 166994,
@@ -2422,12 +2432,22 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "The residents of the municipality of De Bilt must be able to express their opinion on important issues via a referendum.",
+      "titleParts": [
+        {
+          "text": " De inwoners van gemeente De Bilt moeten over belangrijke onderwerpen hun mening kunnen geven via een "
+        },
+        {
+          "text": "referendum",
+          "glossary": "A public consultation where residents can express their opinion on a political issue. The municipal council is not obliged to follow the result; legally it cannot."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The residents of the municipality of De Bilt must be able to express their opinion on important issues via a referendum.",
-      "themeEn": "Referendum"
+      "isShootout": false
     },
     {
       "id": 167042,
@@ -2435,12 +2455,22 @@
       "theme": "Railway zone",
       "themeId": "spoorzone",
       "title": "The new development project in the Spoorzone must be smaller in scale than the 750 planned homes.",
+      "titleParts": [
+        {
+          "text": " Het nieuwbouwproject in de Spoorzone moet "
+        },
+        {
+          "text": "kleinschaliger",
+          "glossary": "Places where only a few people are housed together. Not many people in one place."
+        },
+        {
+          "text": " dan de 750 geplande woningen."
+        }
+      ],
       "moreInfo": "In the Spoorzone at Bilthoven station a new-build project is planned. In 2025 the municipal council of De Bilt decided that a maximum of 750 new homes may be built there.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The new development project in the Spoorzone must be smaller in scale than the 750 planned homes.",
-      "themeEn": "Railway zone"
+      "isShootout": false
     },
     {
       "id": 167001,
@@ -2451,9 +2481,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must allow solar panels on agricultural land.",
-      "themeEn": "Solar panels on farmland"
+      "isShootout": false
     },
     {
       "id": 166996,
@@ -2464,9 +2492,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must ban shops from being open on Sundays.",
-      "themeEn": "Shops closed on Sundays"
+      "isShootout": false
     },
     {
       "id": 167009,
@@ -2477,9 +2503,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "No tall residential apartment blocks may be built in the municipality anymore.",
-      "themeEn": "Apartment buildings"
+      "isShootout": false
     },
     {
       "id": 166998,
@@ -2487,12 +2511,29 @@
       "theme": "Integration",
       "themeId": "integratie",
       "title": "The municipality should spend more money on integrating newcomers into society.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld uitgeven aan "
+        },
+        {
+          "text": "integratie",
+          "glossary": "Newcomers learn the language and customs of the Netherlands."
+        },
+        {
+          "text": " van "
+        },
+        {
+          "text": "nieuwkomers",
+          "glossary": "People who are new to the Netherlands."
+        },
+        {
+          "text": " in de maatschappij."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should spend more money on integrating newcomers into society.",
-      "themeEn": "Integration"
+      "isShootout": false
     },
     {
       "id": 167005,
@@ -2500,12 +2541,22 @@
       "theme": "Coffeeshops (cannabis cafés)",
       "themeId": "coffeeshops",
       "title": "The municipality must prevent the establishment of new coffeeshops.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de vestiging van nieuwe "
+        },
+        {
+          "text": "coffeeshops",
+          "glossary": "Shop or café where you can buy and smoke soft drugs (hash, weed)."
+        },
+        {
+          "text": " tegengaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must prevent the establishment of new coffeeshops.",
-      "themeEn": "Coffeeshops (cannabis cafés)"
+      "isShootout": false
     },
     {
       "id": 167002,
@@ -2513,12 +2564,22 @@
       "theme": "School swimming",
       "themeId": "schoolzwemmen",
       "title": "The municipality should allocate money for school swimming.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld beschikbaar stellen voor "
+        },
+        {
+          "text": "schoolzwemmen",
+          "glossary": "Swimming lessons organized by the school."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allocate money for school swimming.",
-      "themeEn": "School swimming"
+      "isShootout": false
     },
     {
       "id": 167011,
@@ -2529,9 +2590,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must allow holiday homes to be used as a permanent residence.",
-      "themeEn": "Holiday cottages"
+      "isShootout": false
     },
     {
       "id": 167006,
@@ -2542,9 +2601,7 @@
       "moreInfo": "In the municipality of De Bilt building is only allowed within the \"red contour.\" The province sets this as the boundary of the built-up area, which is why we also call it the provincial red line. Only in very exceptional cases is building allowed outside it.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must prevent new construction outside the existing village boundaries (red contour).",
-      "themeEn": "Housing construction"
+      "isShootout": false
     },
     {
       "id": 167016,
@@ -2552,12 +2609,22 @@
       "theme": "Parking permits",
       "themeId": "parkeervergunningen",
       "title": "The municipality must introduce a parking permit in neighborhoods with parking problems.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet in wijken met parkeeroverlast een "
+        },
+        {
+          "text": "parkeervergunning",
+          "glossary": "A permit to park in a certain place. You have to pay for that right."
+        },
+        {
+          "text": " invoeren."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must introduce a parking permit in neighborhoods with parking problems.",
-      "themeEn": "Parking permits"
+      "isShootout": false
     },
     {
       "id": 167026,
@@ -2568,9 +2635,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must repay its debts as quickly as possible.",
-      "themeEn": "Municipal debts"
+      "isShootout": false
     },
     {
       "id": 167014,
@@ -2578,12 +2643,22 @@
       "theme": "Basic income",
       "themeId": "basisinkomen",
       "title": "The municipality must conduct a trial of a basic income.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet een proef doen met "
+        },
+        {
+          "text": "basisinkomen",
+          "glossary": "With a basic income, people receive a fixed amount per month from the government. They do not have to apply for jobs or perform socially useful work in return for the money."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must conduct a trial of a basic income.",
-      "themeEn": "Basic income"
+      "isShootout": false
     },
     {
       "id": 167025,
@@ -2591,12 +2666,22 @@
       "theme": "Vacancy in shopping areas",
       "themeId": "leegstand-winkelgebieden",
       "title": "The municipality must allocate more funds to combat vacancy in shopping districts.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld uittrekken om "
+        },
+        {
+          "text": "leegstand",
+          "glossary": "When buildings or homes are not used and are therefore vacant."
+        },
+        {
+          "text": " in winkelgebieden tegen te gaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must allocate more funds to combat vacancy in shopping districts.",
-      "themeEn": "Vacancy in shopping areas"
+      "isShootout": false
     },
     {
       "id": 167045,
@@ -2607,9 +2692,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must help young people with high debts by taking over their debts.",
-      "themeEn": "Young people with debts"
+      "isShootout": false
     },
     {
       "id": 167029,
@@ -2617,12 +2700,22 @@
       "theme": "Wind turbines",
       "themeId": "windmolens",
       "title": "The municipality must oppose the construction of new wind turbines.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de bouw van nieuwe "
+        },
+        {
+          "text": "windmolens",
+          "glossary": "These are modern wind turbines that convert wind power into electricity and can be up to 150 meters high."
+        },
+        {
+          "text": " tegengaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must oppose the construction of new wind turbines.",
-      "themeEn": "Wind turbines"
+      "isShootout": false
     },
     {
       "id": 167015,
@@ -2633,9 +2726,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should designate more parking spaces as charging points for electric cars.",
-      "themeEn": "Electric vehicle charging stations"
+      "isShootout": false
     },
     {
       "id": 167027,
@@ -2646,9 +2737,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must support dispersed, small-scale shelter for refugees.",
-      "themeEn": "Small-scale asylum reception"
+      "isShootout": false
     },
     {
       "id": 167038,
@@ -2659,9 +2748,7 @@
       "moreInfo": "The municipality of De Bilt dims street lighting after 22:00 to 70% and from midnight to 50%.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must restore street lighting to full brightness after 10:00 PM.",
-      "themeEn": "Street lighting"
+      "isShootout": false
     },
     {
       "id": 167017,
@@ -2669,12 +2756,29 @@
       "theme": "Car speeds",
       "themeId": "snelheid-auto-s",
       "title": "The speed limit within built-up areas must be set to 30 km/h everywhere.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "maximumsnelheid",
+          "glossary": "The maximum speed that cars and motorcycles are allowed to drive on the road."
+        },
+        {
+          "text": " binnen de "
+        },
+        {
+          "text": "bebouwde kom",
+          "glossary": "An area with buildings (houses, other structures)."
+        },
+        {
+          "text": " moet overal naar 30 km/u."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The speed limit within built-up areas must be set to 30 km/h everywhere.",
-      "themeEn": "Car speeds"
+      "isShootout": false
     },
     {
       "id": 167033,
@@ -2682,12 +2786,22 @@
       "theme": "Jagtlust Estate",
       "themeId": "landgoed-jagtlust",
       "title": "The municipality must designate the entire Jagtlust estate as a municipal monument.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet van heel Landgoed Jagtlust een "
+        },
+        {
+          "text": "gemeentelijk monument",
+          "glossary": "An old and notable building or object that is protected by the municipality."
+        },
+        {
+          "text": " maken."
+        }
+      ],
       "moreInfo": "The country house Jagtlust (attached to the town hall) is a municipal monument, but the surrounding estate is not yet. The municipality of De Bilt can choose to grant the entire Jagtlust estate that monumental status. Spatial and building plans on the estate would then have to take into account extra rules and protections.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must designate the entire Jagtlust estate as a municipal monument.",
-      "themeEn": "Jagtlust Estate"
+      "isShootout": false
     },
     {
       "id": 167039,
@@ -2695,12 +2809,22 @@
       "theme": "Psychiatric and forensic care",
       "themeId": "psychiatrische-en-forensische-zorg",
       "title": "The municipality must oppose the expansion of psychiatric and forensic care institutions in De Bilt.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de uitbreiding van instellingen voor "
+        },
+        {
+          "text": "psychiatrische en forensische zorg",
+          "glossary": "Psychiatric care is the treatment of people with serious mental problems. Forensic care is treatment ordered by a judge as part of a sentence or measure. Help for patients with an addiction or an intellectual disability may be included."
+        },
+        {
+          "text": " in De Bilt tegengaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must oppose the expansion of psychiatric and forensic care institutions in De Bilt.",
-      "themeEn": "Psychiatric and forensic care"
+      "isShootout": false
     },
     {
       "id": 167030,
@@ -2708,12 +2832,29 @@
       "theme": "Officer for biodiversity and animal welfare",
       "themeId": "ambtenaar-biodiversiteit-en-dierenwelzijn",
       "title": "The municipality must appoint a full-time official for biodiversity and animal welfare.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet een voltijds ambtenaar aanstellen voor "
+        },
+        {
+          "text": "biodiversiteit",
+          "glossary": "Many different kinds of plants, animals and fungi live on Earth. Species depend on each other to keep nature healthy."
+        },
+        {
+          "text": " en "
+        },
+        {
+          "text": "dierenwelzijn",
+          "glossary": "That animals have a good and healthy life."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must appoint a full-time official for biodiversity and animal welfare.",
-      "themeEn": "Officer for biodiversity and animal welfare"
+      "isShootout": false
     },
     {
       "id": 167050,
@@ -2724,9 +2865,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must spend less money on poverty reduction.",
-      "themeEn": "Combating poverty"
+      "isShootout": false
     },
     {
       "id": 167008,
@@ -2734,12 +2873,29 @@
       "theme": "Social housing",
       "themeId": "sociale-huurwoningen",
       "title": "At least 40% of the new homes to be built in the municipality must be social rental housing. Currently 28% of homes in the Netherlands are social rental housing.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in de gemeente moet minimaal 40% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " zijn. In Nederland is nu 28% van de woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "At least 40% of the new homes to be built in the municipality must be social rental housing. Currently 28% of homes in the Netherlands are social rental housing.",
-      "themeEn": "Social housing"
+      "isShootout": false
     },
     {
       "id": 167048,
@@ -2750,9 +2906,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Cyclists and pedestrians must be central to the municipality's traffic policy.",
-      "themeEn": "Cyclists and pedestrians"
+      "isShootout": false
     },
     {
       "id": 167054,
@@ -2760,12 +2914,22 @@
       "theme": "Youth care",
       "themeId": "jeugdzorg",
       "title": "The municipality must spend the same or less money on youth care.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet evenveel of minder geld uitgeven aan "
+        },
+        {
+          "text": "jeugdzorg",
+          "glossary": "Support for young people with problems, for example mental health care, foster care, day programmes, and help with dyslexia."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must spend the same or less money on youth care.",
-      "themeEn": "Youth care"
+      "isShootout": false
     },
     {
       "id": 167056,
@@ -2773,12 +2937,22 @@
       "theme": "Social media awareness campaign",
       "themeId": "bewustwordingscampagne-social-media",
       "title": "The municipality must allocate funds for an awareness campaign for parents and children about managing social media use.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld uittrekken voor een "
+        },
+        {
+          "text": "bewustwordingscampagne",
+          "glossary": "A series of advertisements to inform people about a topic and encourage them to think or change."
+        },
+        {
+          "text": " voor ouders en kinderen over omgaan met social media."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must allocate funds for an awareness campaign for parents and children about managing social media use.",
-      "themeEn": "Social media awareness campaign"
+      "isShootout": false
     },
     {
       "id": 167036,
@@ -2789,9 +2963,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must invest money in establishing an arthouse cinema in Bilthoven.",
-      "themeEn": "Art house cinema"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

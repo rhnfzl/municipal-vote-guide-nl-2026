@@ -2404,6 +2404,18 @@
       "theme": "Buurtbus",
       "themeId": "buurtbus",
       "title": "De buurtbus moet gratis toegankelijk zijn voor alle inwoners.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "buurtbus",
+          "glossary": "Een kleine bus die rijdt in dorpen of wijken waar weinig openbaar vervoer is."
+        },
+        {
+          "text": " moet gratis toegankelijk zijn voor alle inwoners."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2430,6 +2442,18 @@
       "theme": "Bedrijventerreinen energieneutraal",
       "themeId": "bedrijventerreinen-energieneutraal",
       "title": "Nieuwe bedrijventerreinen moeten energieneutraal worden ingericht.",
+      "titleParts": [
+        {
+          "text": " Nieuwe bedrijventerreinen moeten "
+        },
+        {
+          "text": "energieneutraal",
+          "glossary": "Een energie neutrale gemeente wekt net zoveel schone energie op als alle inwoners en bedrijven samen verbruiken. Een gebouw of gebied kan ook energieneutraal zijn."
+        },
+        {
+          "text": " worden ingericht."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2443,6 +2467,18 @@
       "theme": "Symbolen",
       "themeId": "symbolen",
       "title": "De gemeente moet geen gemeenschapsgeld gebruiken voor het tonen van de regenboogvlag of vergelijkbare symbolen op gebouwen van de gemeente.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geen "
+        },
+        {
+          "text": "gemeenschapsgeld",
+          "glossary": "Geld van de gemeente dat wordt betaald met belastinggeld van inwoners."
+        },
+        {
+          "text": " gebruiken voor het tonen van de regenboogvlag of vergelijkbare symbolen op gebouwen van de gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2469,6 +2505,18 @@
       "theme": "Integratie",
       "themeId": "integratie",
       "title": "De gemeente moet meer geld uitgeven aan de integratie van nieuwkomers in de maatschappij.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld uitgeven aan de "
+        },
+        {
+          "text": "integratie",
+          "glossary": "Nieuwkomers leren de taal en gewoonten van Nederland."
+        },
+        {
+          "text": " van nieuwkomers in de maatschappij."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2495,6 +2543,18 @@
       "theme": "Mantelzorg",
       "themeId": "mantelzorg",
       "title": "Mensen met een bijstandsuitkering die een familielid of bekende verzorgen, hoeven niet te solliciteren.",
+      "titleParts": [
+        {
+          "text": " Mensen met een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Geld van de gemeente voor mensen die geen inkomen of eigen geld hebben."
+        },
+        {
+          "text": " die een familielid of bekende verzorgen, hoeven niet te solliciteren."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2521,6 +2581,18 @@
       "theme": "Meer handhavers",
       "themeId": "meer-handhavers",
       "title": "In West Betuwe moeten meer gemeentelijke handhavers (boa’s) komen.",
+      "titleParts": [
+        {
+          "text": " In West Betuwe moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "Mensen die voor de gemeente controleren of burgers en bedrijven zich aan de regels houden."
+        },
+        {
+          "text": " (boa’s) komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2534,6 +2606,18 @@
       "theme": "Schulden overnemen",
       "themeId": "schulden-overnemen",
       "title": "De gemeente moet in bepaalde gevallen schulden overnemen, zodat inwoners nog maar één schuldeiser hebben.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet in bepaalde gevallen schulden overnemen, zodat inwoners nog maar één "
+        },
+        {
+          "text": "schuldeiser",
+          "glossary": "Een persoon of organisatie aan wie geld moet worden terugbetaald."
+        },
+        {
+          "text": " hebben."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2573,6 +2657,18 @@
       "theme": "Cameratoezicht",
       "themeId": "cameratoezicht",
       "title": "In de gemeente West Betuwe moet meer cameratoezicht komen.",
+      "titleParts": [
+        {
+          "text": " In de gemeente West Betuwe moet meer "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Het houden van toezicht op of in een gebouw, gebied of (groepen) mensen met behulp van bewakingscamera's."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2599,6 +2695,18 @@
       "theme": "Toeristenbelasting",
       "themeId": "toeristenbelasting",
       "title": "De toeristenbelasting moet omhoog. Een toerist betaalt nu € 1,50 per persoon per nacht.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "toeristenbelasting",
+          "glossary": "De belasting die je moet betalen als je in een hotel of op een camping bijft slapen."
+        },
+        {
+          "text": " moet omhoog. Een toerist betaalt nu € 1,50 per persoon per nacht."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2612,6 +2720,25 @@
       "theme": "Relaties",
       "themeId": "relaties",
       "title": "De gemeente moet initiatieven ondersteunen die relaties en gezinnen versterken, zoals relatiecursussen voor stellen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "initiatieven",
+          "glossary": "Ideeën van burgers om iets te verbeteren in hun buurt, straat of wijk."
+        },
+        {
+          "text": " ondersteunen die relaties en gezinnen versterken, zoals "
+        },
+        {
+          "text": "relatiecursussen",
+          "glossary": "Trainingen die mensen helpen om hun relatie te verbeteren."
+        },
+        {
+          "text": " voor stellen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2664,6 +2791,18 @@
       "theme": "Schuldhulpverlening",
       "themeId": "schuldhulpverlening",
       "title": "Ondernemers moeten schuldhulpverlening kunnen aanvragen met behoud van hun bedrijf.",
+      "titleParts": [
+        {
+          "text": " Ondernemers moeten "
+        },
+        {
+          "text": "schuldhulpverlening",
+          "glossary": "De gemeente helpt mensen om van hun schulden af te komen. Ze krijgen een bedrag om van te leven en de rest van hun inkomsten gaat naar hun schuldeisers."
+        },
+        {
+          "text": " kunnen aanvragen met behoud van hun bedrijf."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2677,6 +2816,25 @@
       "theme": "Asielzoekers",
       "themeId": "asielzoekers",
       "title": "De opvang van asielzoekers  in West Betuwe moet op kleine schaal en verspreid over de kernen plaatsvinden.",
+      "titleParts": [
+        {
+          "text": " De opvang van "
+        },
+        {
+          "text": "asielzoekers ",
+          "glossary": "Mensen die asiel hebben aangevraagd en nog wachten op de beslissing daarover."
+        },
+        {
+          "text": " in West Betuwe moet op kleine schaal en verspreid over de "
+        },
+        {
+          "text": "kernen",
+          "glossary": "Dorpen of stadjes die onderdeel zijn van de gemeente."
+        },
+        {
+          "text": " plaatsvinden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2690,6 +2848,18 @@
       "theme": "Distributiecentra",
       "themeId": "distributiecentra",
       "title": "De gemeente moet de vestiging van nieuwe distributiecentra tegengaan.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de vestiging van nieuwe "
+        },
+        {
+          "text": "distributiecentra",
+          "glossary": "Grote loodsen waar goederen worden ontvangen, verdeeld en vervoerd naar andere locaties."
+        },
+        {
+          "text": " tegengaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2716,6 +2886,18 @@
       "theme": "Noodopvang",
       "themeId": "noodopvang",
       "title": "De gemeente moet zorgen voor noodopvang voor mensen na een scheiding.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet zorgen voor "
+        },
+        {
+          "text": "noodopvang",
+          "glossary": "Een gebouw voor dringende en tijdelijke opvang van mensen die onderdak nodig hebben, bijvoorbeeld asielzoekers."
+        },
+        {
+          "text": " voor mensen na een scheiding."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2729,6 +2911,18 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "De inwoners van de gemeente West Betuwe moeten over belangrijke onderwerpen hun mening kunnen geven via een referendum.",
+      "titleParts": [
+        {
+          "text": " De inwoners van de gemeente West Betuwe moeten over belangrijke onderwerpen hun mening kunnen geven via een "
+        },
+        {
+          "text": "referendum",
+          "glossary": "Volksraadpleging waarbij inwoners zich kunnen uitspreken over een politieke kwestie. De gemeenteraad is niet verplicht de uitslag te volgen, dat is wettelijk niet mogelijk."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2755,6 +2949,18 @@
       "theme": "Kernenergie",
       "themeId": "kernenergie",
       "title": "De gemeente moet ruimte bieden voor kleinschalige kernreactoren (SMR’s).",
+      "titleParts": [
+        {
+          "text": " De gemeente moet ruimte bieden voor kleinschalige "
+        },
+        {
+          "text": "kernreactoren",
+          "glossary": "Installatie die energie opwekt door kernsplijting. Een kleine kernreactor noemen we ook wel een Small Modular Reactor (SMR)."
+        },
+        {
+          "text": " (SMR’s)."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2768,6 +2974,18 @@
       "theme": "Snelheid auto's",
       "themeId": "snelheid-auto-s",
       "title": "De maximumsnelheid binnen woonwijken moet naar 30 km/u.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "maximumsnelheid",
+          "glossary": "De hoogste snelheid die autos en motoren mogen rijden op straat."
+        },
+        {
+          "text": " binnen woonwijken moet naar 30 km/u."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",

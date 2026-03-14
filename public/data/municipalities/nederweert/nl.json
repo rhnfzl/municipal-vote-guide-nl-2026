@@ -634,6 +634,25 @@
       "theme": "Cameratoezicht",
       "themeId": "cameratoezicht",
       "title": "In het buitengebied moet meer cameratoezicht komen.",
+      "titleParts": [
+        {
+          "text": " In het "
+        },
+        {
+          "text": "buitengebied",
+          "glossary": "Gebied binnen de grenzen van de gemeente maar buiten de steden of dorpen zelf, hier staan weinig huizen en andere gebouwen."
+        },
+        {
+          "text": " moet meer "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Het houden van toezicht op of in een gebouw, gebied of (groepen) mensen met behulp van bewakingscamera's."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "Gemeenten mogen met camera’s toezicht houden om de openbare orde te handhaven. Vervolgens mag de politie de beelden bekijken en gebruiken. In Nederweert zijn nu camera’s op het bedrijventerrein Pannenweg II. Dit wordt door het parkmanagement zelf georganiseerd.",
       "pro": "Cameratoezicht kan onveiligheid, vernieling en overlast voorkomen.Cameratoezicht kan helpen bij het aanpakken van het dumpen van afval.",
       "con": "Cameratoezicht is een inbreuk op de privacy van inwoners.We kunnen beter zorgen voor meer agenten of boa’s op straat.",
@@ -647,6 +666,18 @@
       "theme": "Woonvormen voor ouderen",
       "themeId": "woonvormen-voor-ouderen",
       "title": "De gemeente moet voorrang geven aan het bouwen van woonvormen voor ouderen, zoals mantelzorgwoningen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet voorrang geven aan het bouwen van woonvormen voor ouderen, zoals "
+        },
+        {
+          "text": "mantelzorgwoningen",
+          "glossary": "Zelfstandige woning op het erf van een ander huis, waar bijvoorbeeld grootouders verzorgd kunnen worden."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "Meer woningen voor ouderen dragen bij aan een betere doorstroming op de woningmarkt. Zo komen er meer woningen beschikbaar voor starters en gezinnen.",
       "con": "We moeten juist ook bouwen voor starters en gezinnen. De bouw van seniorenwoningen gaat niet voor.",
@@ -673,6 +704,25 @@
       "theme": "Sociale huurwoningen",
       "themeId": "sociale-huurwoningen",
       "title": "Van de nieuw te bouwen woningen in de gemeente Nederweert moet minimaal 30% een sociale huurwoning zijn. In Nederland is nu 28% van de woningen een sociale huurwoning.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in de gemeente Nederweert moet minimaal 30% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": " zijn. In Nederland is nu 28% van de woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "We hebben sociale huurwoningen nodig voor jongeren, alleenstaanden en mensen met een kleiner inkomen.",
       "con": "De gemeente moet geen extra regels opleggen bij woningbouw. Dat vergroot het risico dat er minder wordt gebouwd.",
@@ -712,6 +762,18 @@
       "theme": "Duurzame energie",
       "themeId": "duurzame-energie",
       "title": "Inwoners die samen duurzame energie op willen wekken, moeten financiële steun krijgen van de gemeente.",
+      "titleParts": [
+        {
+          "text": " Inwoners die samen "
+        },
+        {
+          "text": "duurzame energie",
+          "glossary": "Energie op basis van grondstoffen waar een oneindige hoeveelheid van is, zoals zonlicht en wind."
+        },
+        {
+          "text": " op willen wekken, moeten financiële steun krijgen van de gemeente."
+        }
+      ],
       "moreInfo": "Huiseigenaren kunnen zonnepanelen op hun dak leggen als dat dak geschikt is. Of een vergunning aanvragen voor een windmolen in de tuin, als die groot genoeg is. Kan dat niet, dan kunnen mensen samen met anderen land kopen of huren voor een of meer windmolens of zonnepanelen. Zo kunnen zij toch hun geld steken in duurzame energie. Duurzame energie wordt opgewekt uit bronnen die nooit opraken, zoals zonlicht en wind.",
       "pro": "Initiatieven van inwoners zijn onmisbaar voor de overgang naar duurzame energie.Geld van de gemeente kan een startimpuls zijn voor initiatieven die op den duur zelfstandig kunnen functioneren.",
       "con": "De gemeente moet duurzaamheid stimuleren, maar hoeft er geen geld aan uit te geven.Duurzaamheidsprojecten moeten levensvatbaar zijn zonder subsidie.",
@@ -725,6 +787,25 @@
       "theme": "Maximumsnelheid bebouwde kom",
       "themeId": "maximumsnelheid-bebouwde-kom",
       "title": "De maximumsnelheid binnen de bebouwde kom moet naar 30 km/u.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "maximumsnelheid",
+          "glossary": "De hoogste snelheid die autos en motoren mogen rijden op straat."
+        },
+        {
+          "text": " binnen de "
+        },
+        {
+          "text": "bebouwde kom",
+          "glossary": "Gebied met bebouwing (huizen, gebouwen)."
+        },
+        {
+          "text": " moet naar 30 km/u."
+        }
+      ],
       "moreInfo": "De bebouwde kom is het gebied binnen de stad of het dorp waar mensen wonen, werken en winkelen. Daar geldt nu vaak een maximumsnelheid van 50 km/u. Op sommige straten is dit al 30 km/u.",
       "pro": "Een maximumsnelheid van 30 km/u maakt het verkeer veiliger voor voetgangers en fietsers. Het aantal verkeersslachtoffers zal hierdoor omlaag gaan.",
       "con": "Deze snelheid moet gelden in woonwijken, maar niet op grotere, doorgaande wegen in de bebouwde kom. Voor de doorstroming is daar een hogere snelheid beter.",
@@ -738,6 +819,25 @@
       "theme": "Aantrekken bedrijven",
       "themeId": "aantrekken-bedrijven",
       "title": "De gemeente moet geld steken in een promotiecampagne voor Nederweert als aantrekkelijke vestigingsplaats voor bedrijven.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld steken in een "
+        },
+        {
+          "text": "promotiecampagne",
+          "glossary": "Een serie reclames op bijvoorbeeld borden, televisie en sociale media."
+        },
+        {
+          "text": " voor Nederweert als aantrekkelijke "
+        },
+        {
+          "text": "vestigingsplaats",
+          "glossary": "De plek waar een bedrijf zich vestigt."
+        },
+        {
+          "text": " voor bedrijven."
+        }
+      ],
       "moreInfo": "Gemeenten kunnen bedrijven aantrekken door te laten zien wat zij te bieden hebben. Dit kan bijvoorbeeld met een promotiecampagne. Het doel is om bedrijven te overtuigen zich in de gemeente te vestigen.",
       "pro": "De komst van meer bedrijven zorgt voor leven in de brouwerij en een bruisende lokale economie.Nieuwe ondernemers brengen innovatie met zich mee.Voor inwoners van Nederweert is het belangrijk dat er voldoende banen dicht bij huis zijn.",
       "con": "De gemeente moet juist lokale ondernemers ondersteunen in plaats van geld te steken in het aantrekken van bedrijven van buitenaf.We kunnen beter geld uitgeven aan goede voorzieningen, bedrijventerreinen en infrastructuur dan aan een promotiecampagne.Nederweert is al aantrekkelijk genoeg voor ondernemers.",
@@ -764,6 +864,25 @@
       "theme": "Integratie",
       "themeId": "integratie",
       "title": "De gemeente moet meer geld uitgeven aan integratie van nieuwkomers in de maatschappij.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld uitgeven aan "
+        },
+        {
+          "text": "integratie",
+          "glossary": "Nieuwkomers leren de taal en gewoonten van Nederland."
+        },
+        {
+          "text": " van "
+        },
+        {
+          "text": "nieuwkomers",
+          "glossary": "Mensen die nog niet lang in Nederland wonen."
+        },
+        {
+          "text": " in de maatschappij."
+        }
+      ],
       "moreInfo": "",
       "pro": "Het is belangrijk dat nieuwkomers zo snel mogelijk de Nederlandse taal kunnen leren. Dan kunnen ze meedoen in de samenleving en een positieve bijdrage leveren.Goede integratie van nieuwkomers versterkt de gemeenschap van Nederweert en voorkomt later problemen.",
       "con": "Nieuwkomers die graag willen integreren moeten daarvoor zelf hun best doen. Zij kunnen zelf activiteiten ondernemen.De gemeente geeft genoeg geld uit aan integratie van nieuwkomers. Dat geld kunnen we beter en gerichter uitgeven.",
@@ -777,6 +896,25 @@
       "theme": "Tegenprestatie voor uitkering",
       "themeId": "tegenprestatie-voor-uitkering",
       "title": "Mensen die een bijstandsuitkering krijgen, moeten in ruil daarvoor maatschappelijk zinvol werk doen.",
+      "titleParts": [
+        {
+          "text": " Mensen die een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Geld van de gemeente voor mensen die geen inkomen of eigen geld hebben."
+        },
+        {
+          "text": " krijgen, moeten in ruil daarvoor "
+        },
+        {
+          "text": "maatschappelijk zinvol werk",
+          "glossary": "Bijvoorbeeld schoonmaken van de straten of het gezelschap houden en ondersteunen van oudere inwoners."
+        },
+        {
+          "text": " doen."
+        }
+      ],
       "moreInfo": "Mensen die geen werk en geen andere uitkering hebben, kunnen bij de gemeente een bijstandsuitkering aanvragen. In sommige gemeenten zijn ze verplicht daarvoor een tegenprestatie te leveren. Ze doen dan maatschappelijk zinvol werk waar ze niet voor betaald krijgen.",
       "pro": "Het is heel normaal om iets terug te doen wanneer je een uitkering krijgt.Iedereen in de gemeente telt mee, doet mee en draagt naar vermogen iets bij aan de maatschappij.",
       "con": "Een verplichting is niet nodig. Veel mensen doen dit al, bijvoorbeeld als   vrijwilliger of als mantelzorger.Niet iedereen kan werken.",
@@ -842,6 +980,18 @@
       "theme": "Lelieteelt",
       "themeId": "lelieteelt",
       "title": "De gemeente moet geen nieuwe lelieteelt toestaan op landbouwgrond.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geen nieuwe "
+        },
+        {
+          "text": "lelieteelt",
+          "glossary": "Het verbouwen van lelies op landbouwgrond."
+        },
+        {
+          "text": " toestaan op landbouwgrond."
+        }
+      ],
       "moreInfo": "In Nederweert worden op meerdere plaatsen lelies geteeld. Daarbij worden bestrijdingsmiddelen gebruikt tegen schimmels en onkruid. De gemeente kan deze telers nu niet verbieden om lelies te telen. Voor nieuwe locaties kan de gemeente wel regels maken. Bijvoorbeeld om lelieteelt te verbieden in de buurt van huizen.",
       "pro": "Bij het telen van lelies worden schadelijke bestrijdingsmiddelen   gebruikt. Dat is slecht voor het milieu.We kunnen landbouwgrond beter gebruiken voor voedselproductie.",
       "con": "We moeten alleen het gebruik van schadelijke bestrijdingsmiddelen bij de lelieteelt verminderen.Een algemeen verbod op lelieteelt is te ingewikkeld.",
@@ -881,6 +1031,25 @@
       "theme": "Maximumsnelheid in buitengebied",
       "themeId": "maximumsnelheid-in-buitengebied",
       "title": "De maximumsnelheid buiten de bebouwde kom moet naar 60 km/u.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "maximumsnelheid",
+          "glossary": "De hoogste snelheid die autos en motoren mogen rijden op straat."
+        },
+        {
+          "text": " buiten de "
+        },
+        {
+          "text": "bebouwde kom",
+          "glossary": "Gebied met bebouwing (huizen, gebouwen)."
+        },
+        {
+          "text": " moet naar 60 km/u."
+        }
+      ],
       "moreInfo": "",
       "pro": "Een maximumsnelheid van 60 km/u maakt het verkeer veiliger voor voetgangers en fietsers. Dat leidt tot minder verkeersslachtoffers.Nederweert moet dezelfde regels hebben als de omliggende gemeenten. Daar geldt deze maximumsnelheid al.",
       "con": "We moeten alleen onveilige wegen in het buitengebied aanpakken. Bijvoorbeeld door bredere fietspaden te maken.Een algemene snelheidsverlaging in het buitengebied is slecht voor de doorstroming van het verkeer en de bereikbaarheid van Nederweert.",
@@ -894,6 +1063,25 @@
       "theme": "Kwijtschelding stoppen",
       "themeId": "kwijtschelding-stoppen",
       "title": "De gemeente moet stoppen met het kwijtschelden van de gemeentelijke belastingen voor inwoners met een laag inkomen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet stoppen met het "
+        },
+        {
+          "text": "kwijtschelden",
+          "glossary": "Dat mensen iets niet meer hoeven te betalen."
+        },
+        {
+          "text": " van de "
+        },
+        {
+          "text": "gemeentelijke belastingen",
+          "glossary": "Belastingen die je aan de gemeente moet betalen (bijv. rioolheffing, afvalstoffenheffing, hondenbelasting)."
+        },
+        {
+          "text": " voor inwoners met een laag inkomen."
+        }
+      ],
       "moreInfo": "Mensen met een laag inkomen hebben vaak moeite om de gemeentelijke belastingen te betalen. Zij kunnen kwijtschelding aanvragen. Kwijtschelding houdt in dat je de gemeentelijke belastingen en heffingen of een deel daarvan niet hoeft te betalen. De gemeente bepaalt of je kwijtschelding krijgt. In Nederweert kun je kwijtschelding krijgen voor gemeentelijke belastingen en heffingen zoals Onroerendezaakbelasting (ozb), afvalstoffenheffing en rioolbelasting.",
       "pro": "We kunnen mensen in armoede beter gerichte hulp geven dan algemene kwijtschelding.",
       "con": "Kwijtschelden van belastingen is een goede manier om armoede te bestrijden en te voorkomen.",
@@ -920,6 +1108,18 @@
       "theme": "Brainport",
       "themeId": "brainport",
       "title": "De gemeente moet meewerken aan de uitbreiding van de Brainportregio, de regio met techbedrijven rond Eindhoven.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meewerken aan de uitbreiding van de Brainportregio, de regio met "
+        },
+        {
+          "text": "techbedrijven",
+          "glossary": "Bedrijven die vooral technische producten maken. Denk aan software, a.i. en internetdiensten."
+        },
+        {
+          "text": " rond Eindhoven."
+        }
+      ],
       "moreInfo": "",
       "pro": "Dit biedt kansen voor de economie en werkgelegenheid voor inwoners van Nederweert.De uitbreiding is niet tegen te houden. Daarom kan Nederweert het beste meedoen met die ontwikkeling.",
       "con": "We moeten de identiteit en het dorpse karakter van de gemeente Nederweert behouden.De gemeente Nederweert moet niet groeien door extra huizen te bouwen voor mensen die werken in de Brainportregio.",

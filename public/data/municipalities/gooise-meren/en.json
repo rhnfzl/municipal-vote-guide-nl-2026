@@ -1204,9 +1204,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Pre-war houses and buildings in Gooise Meren must not be demolished.",
-      "themeEn": "Heritage"
+      "isShootout": false
     },
     {
       "id": 239449,
@@ -1214,12 +1212,29 @@
       "theme": "Shelter for asylum seekers",
       "themeId": "opvang-asielzoekers",
       "title": "A new reception site for asylum seekers must be established in Gooise Meren if the temporary emergency shelter in Naarden closes.",
+      "titleParts": [
+        {
+          "text": " In Gooise Meren moet een nieuwe opvanglocatie voor "
+        },
+        {
+          "text": "asielzoekers ",
+          "glossary": "People who have applied for asylum and are still waiting for a decision."
+        },
+        {
+          "text": " komen als de tijdelijke "
+        },
+        {
+          "text": "noodopvang",
+          "glossary": "A building for urgent and temporary shelter for people who need accommodation, for example asylum seekers."
+        },
+        {
+          "text": " in Naarden sluit."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "A new reception site for asylum seekers must be established in Gooise Meren if the temporary emergency shelter in Naarden closes.",
-      "themeEn": "Shelter for asylum seekers"
+      "isShootout": false
     },
     {
       "id": 239459,
@@ -1227,12 +1242,22 @@
       "theme": "Camera surveillance",
       "themeId": "cameratoezicht",
       "title": "The municipality should install CCTV surveillance.",
+      "titleParts": [
+        {
+          "text": " In de gemeente moet "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Monitoring of a building, area, or (groups of) people using security cameras."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should install CCTV surveillance.",
-      "themeEn": "Camera surveillance"
+      "isShootout": false
     },
     {
       "id": 239470,
@@ -1243,9 +1268,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The Warmtenet project in Muiderberg must go ahead.",
-      "themeEn": "District heating network"
+      "isShootout": false
     },
     {
       "id": 239464,
@@ -1253,12 +1276,29 @@
       "theme": "Work requirement for welfare recipients",
       "themeId": "tegenprestatie-voor-uitkering",
       "title": "People receiving social assistance should, in return, do socially useful work.",
+      "titleParts": [
+        {
+          "text": " Mensen die een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Money from the municipality for people who have no income or personal funds."
+        },
+        {
+          "text": " krijgen, moeten in ruil daarvoor "
+        },
+        {
+          "text": "maatschappelijk zinvol werk",
+          "glossary": "For example cleaning the streets or keeping company and supporting elderly residents."
+        },
+        {
+          "text": " doen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People receiving social assistance should, in return, do socially useful work.",
-      "themeEn": "Work requirement for welfare recipients"
+      "isShootout": false
     },
     {
       "id": 239466,
@@ -1266,12 +1306,22 @@
       "theme": "Environmental zones",
       "themeId": "milieuzones",
       "title": "Gooise Meren should introduce environmental zones to keep polluting vehicles out of the town centers.",
+      "titleParts": [
+        {
+          "text": " Gooise Meren moet "
+        },
+        {
+          "text": "milieuzones",
+          "glossary": "An area where very polluting cars are not allowed to drive."
+        },
+        {
+          "text": " invoeren om vervuilende voertuigen uit de centra te weren."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Gooise Meren should introduce environmental zones to keep polluting vehicles out of the town centers.",
-      "themeEn": "Environmental zones"
+      "isShootout": false
     },
     {
       "id": 239444,
@@ -1279,12 +1329,22 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "The residents of Gooise Meren should be able to express their opinion on important issues via a referendum.",
+      "titleParts": [
+        {
+          "text": " De inwoners van Gooise Meren moeten over belangrijke onderwerpen hun mening kunnen geven via een "
+        },
+        {
+          "text": "referendum",
+          "glossary": "A public consultation where residents can express their opinion on a political issue. The municipal council is not obliged to follow the result; legally it cannot."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The residents of Gooise Meren should be able to express their opinion on important issues via a referendum.",
-      "themeEn": "Referendum"
+      "isShootout": false
     },
     {
       "id": 239463,
@@ -1292,12 +1352,29 @@
       "theme": "Social housing",
       "themeId": "sociale-huurwoningen",
       "title": "At least 40% of newly built homes in Gooise Meren should be social rental housing. Currently 21% of homes in Gooise Meren are social rental housing.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in Gooise Meren moet minimaal 40% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " zijn. In Gooise Meren is nu 21% van de woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "At least 40% of newly built homes in Gooise Meren should be social rental housing. Currently 21% of homes in Gooise Meren are social rental housing.",
-      "themeEn": "Social housing"
+      "isShootout": false
     },
     {
       "id": 239468,
@@ -1305,12 +1382,22 @@
       "theme": "Parking permits",
       "themeId": "parkeervergunningen",
       "title": "Permit parking should be introduced in Naarden-Vesting. Only residents and business owners from Naarden-Vesting would then be allowed to park there.",
+      "titleParts": [
+        {
+          "text": " In Naarden-Vesting moet "
+        },
+        {
+          "text": "vergunningsparkeren",
+          "glossary": "A permit to park in a certain place. You have to pay for that right."
+        },
+        {
+          "text": " komen. Alleen bewoners en ondernemers uit Naarden-Vesting kunnen er dan parkeren."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Permit parking should be introduced in Naarden-Vesting. Only residents and business owners from Naarden-Vesting would then be allowed to park there.",
-      "themeEn": "Parking permits"
+      "isShootout": false
     },
     {
       "id": 239474,
@@ -1321,9 +1408,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Parcel collection points should not be located next to houses in residential neighborhoods.",
-      "themeEn": "Parcel pick-up points"
+      "isShootout": false
     },
     {
       "id": 239483,
@@ -1334,9 +1419,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Building should be permitted on agricultural land within the municipality.",
-      "themeEn": "Building on agricultural land"
+      "isShootout": false
     },
     {
       "id": 239484,
@@ -1347,9 +1430,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents who cannot pay their veterinary bills should receive financial assistance from the municipality.",
-      "themeEn": "Help with pets"
+      "isShootout": false
     },
     {
       "id": 239486,
@@ -1360,9 +1441,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "More underground parking garages should be built in Bussum.",
-      "themeEn": "Parking garages"
+      "isShootout": false
     },
     {
       "id": 239448,
@@ -1370,12 +1449,29 @@
       "theme": "Integration",
       "themeId": "integratie",
       "title": "The municipality should spend more money on integrating newcomers into society.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld uitgeven aan "
+        },
+        {
+          "text": "integratie",
+          "glossary": "Newcomers learn the language and customs of the Netherlands."
+        },
+        {
+          "text": " van "
+        },
+        {
+          "text": "nieuwkomers",
+          "glossary": "People who are new to the Netherlands."
+        },
+        {
+          "text": " in de maatschappij."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should spend more money on integrating newcomers into society.",
-      "themeEn": "Integration"
+      "isShootout": false
     },
     {
       "id": 239445,
@@ -1383,12 +1479,29 @@
       "theme": "Tax on buildings",
       "themeId": "belasting-op-gebouwen",
       "title": "Property tax (ozb) must not be increased.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "onroerendezaakbelasting",
+          "glossary": "Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "ozb",
+          "glossary": "Property tax. Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": ") mag niet omhoog."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Property tax (ozb) must not be increased.",
-      "themeEn": "Tax on buildings"
+      "isShootout": false
     },
     {
       "id": 239489,
@@ -1399,9 +1512,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Every neighborhood in the municipality should have a health center.",
-      "themeEn": "Health centers"
+      "isShootout": false
     },
     {
       "id": 239462,
@@ -1409,12 +1520,22 @@
       "theme": "Priority housing for teachers, nurses, and police officers",
       "themeId": "voorrang-huisvesting-leraren-verpleegkundigen-en-politiemensen",
       "title": "When allocating social rental housing, teachers, nurses and police officers should be given priority wherever possible.",
+      "titleParts": [
+        {
+          "text": " Bij de toewijzing van een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " moeten leraren, verpleegkundigen en politiemensen zoveel mogelijk voorrang krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "When allocating social rental housing, teachers, nurses and police officers should be given priority wherever possible.",
-      "themeEn": "Priority housing for teachers, nurses, and police officers"
+      "isShootout": false
     },
     {
       "id": 239482,
@@ -1425,9 +1546,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "New construction in Gooise Meren should focus on mid-priced rental and owner-occupied homes.",
-      "themeEn": "New construction"
+      "isShootout": false
     },
     {
       "id": 239446,
@@ -1435,12 +1554,22 @@
       "theme": "Permit fees",
       "themeId": "leges",
       "title": "The fees for municipal event permits should be reduced.",
+      "titleParts": [
+        {
+          "text": " De prijzen van gemeentelijke vergunningen voor "
+        },
+        {
+          "text": "evenementen",
+          "glossary": "A temporary, organized gathering. For example a street party, a flea market, or a music festival."
+        },
+        {
+          "text": " moeten omlaag."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The fees for municipal event permits should be reduced.",
-      "themeEn": "Permit fees"
+      "isShootout": false
     },
     {
       "id": 239471,
@@ -1451,9 +1580,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The deer parks should be reinstated in Naarden and Bussum.",
-      "themeEn": "Deer enclosures"
+      "isShootout": false
     },
     {
       "id": 239447,
@@ -1461,12 +1588,22 @@
       "theme": "No more priority",
       "themeId": "geen-voorrang-meer",
       "title": "People who have been granted asylum should no longer be given priority for social rental housing in the municipality.",
+      "titleParts": [
+        {
+          "text": " Statushouders moeten geen voorrang meer krijgen op "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "en in de gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People who have been granted asylum should no longer be given priority for social rental housing in the municipality.",
-      "themeEn": "No more priority"
+      "isShootout": false
     },
     {
       "id": 239453,
@@ -1477,9 +1614,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must organize a fireworks show every year on New Year’s Eve.",
-      "themeEn": "Fireworks show"
+      "isShootout": false
     },
     {
       "id": 239443,
@@ -1490,9 +1625,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Parking in Muiderberg must remain free.",
-      "themeEn": "Free parking"
+      "isShootout": false
     },
     {
       "id": 239492,
@@ -1503,9 +1636,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should invest in a campaign to attract more tourists to Gooise Meren.",
-      "themeEn": "Tourism"
+      "isShootout": false
     },
     {
       "id": 239472,
@@ -1513,12 +1644,22 @@
       "theme": "Wind turbines",
       "themeId": "windmolens",
       "title": "Wind turbines should be installed in Gooise Meren.",
+      "titleParts": [
+        {
+          "text": " In Gooise Meren moeten "
+        },
+        {
+          "text": "windmolens",
+          "glossary": "These are modern wind turbines that convert wind power into electricity and can be up to 150 meters high."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Wind turbines should be installed in Gooise Meren.",
-      "themeEn": "Wind turbines"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

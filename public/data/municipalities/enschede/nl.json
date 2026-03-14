@@ -2234,6 +2234,25 @@
       "theme": "Burgemeester en college",
       "themeId": "burgemeester-en-college",
       "title": "In het nieuwe college van burgemeester en wethouders moet het aantal mannen en vrouwen gelijk zijn.",
+      "titleParts": [
+        {
+          "text": " In het nieuwe "
+        },
+        {
+          "text": "college",
+          "glossary": "College van burgemeester en wethouders, het dagelijks bestuur van de gemeente."
+        },
+        {
+          "text": " van "
+        },
+        {
+          "text": "burgemeester",
+          "glossary": "De burgemeester leidt de gemeente en zit de gemeenteraad voor. De burgemeester wordt niet gekozen maar benoemd door de regering, na aanbeveling door de gemeenteraad."
+        },
+        {
+          "text": " en wethouders moet het aantal mannen en vrouwen gelijk zijn."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2273,6 +2292,18 @@
       "theme": "Asielzoekerscentrum",
       "themeId": "asielzoekerscentrum",
       "title": "De asielopvang in onze gemeente moet zo snel mogelijk sluiten.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "asielopvang",
+          "glossary": "Plek waar mensen worden opgevangen die asiel hebben aangevraagd. Een asielopvang kan tijdelijk zijn. Een vaste asielopvang heet een asielzoekerscentrum (azc)."
+        },
+        {
+          "text": " in onze gemeente moet zo snel mogelijk sluiten."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2338,6 +2369,18 @@
       "theme": "Starterslening",
       "themeId": "starterslening",
       "title": "Mensen die voor het eerst een huis willen kopen, moeten van de gemeente een starterslening kunnen krijgen.",
+      "titleParts": [
+        {
+          "text": " Mensen die voor het eerst een huis willen kopen, moeten van de gemeente een "
+        },
+        {
+          "text": "starterslening",
+          "glossary": "Extra lening naast je hypotheek, die je alleen kunt krijgen als je voor het eerst een huis koopt."
+        },
+        {
+          "text": " kunnen krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2351,6 +2394,18 @@
       "theme": "Handhavers",
       "themeId": "handhavers",
       "title": "De boa's die in Enschede controleren op veiligheid moeten een wapenstok krijgen.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "boa's",
+          "glossary": "Bijzondere Opsporings Ambtenaren. Ze kunnen boetes geven en hebben vaak de taak om toezicht te houden op straat."
+        },
+        {
+          "text": " die in Enschede controleren op veiligheid moeten een wapenstok krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2364,6 +2419,18 @@
       "theme": "Milieustraat",
       "themeId": "milieustraat",
       "title": "Het inleveren van afval bij de milieustraat moet gratis worden.",
+      "titleParts": [
+        {
+          "text": " Het inleveren van afval bij de "
+        },
+        {
+          "text": "milieustraat",
+          "glossary": "Plek waar burgers en bedrijven verschillende soorten afval naartoe kunnen brengen. "
+        },
+        {
+          "text": " moet gratis worden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2377,6 +2444,18 @@
       "theme": "Parkeervergunningen",
       "themeId": "parkeervergunningen",
       "title": "Enschede moet in meer wijken een parkeervergunning invoeren.",
+      "titleParts": [
+        {
+          "text": " Enschede moet in meer wijken een "
+        },
+        {
+          "text": "parkeervergunning",
+          "glossary": "Een vergunning om op een bepaalde plek te parkeren. Voor dat recht moet je betalen."
+        },
+        {
+          "text": " invoeren."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2390,6 +2469,25 @@
       "theme": "Belasting op gebouwen",
       "themeId": "belasting-op-gebouwen",
       "title": "De onroerendezaakbelasting (ozb) moet omlaag.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "onroerendezaakbelasting",
+          "glossary": "Belasting die je betaalt als eigenaar van een gebouw of stuk grond, of gebruiker van een bedrijfspand."
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "ozb",
+          "glossary": "Onroerendezaakbelasting. Belasting die je betaalt als eigenaar van een gebouw of stuk grond, of gebruiker van een bedrijfspand."
+        },
+        {
+          "text": ") moet omlaag."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2403,6 +2501,25 @@
       "theme": "Tegenprestatie voor uitkering",
       "themeId": "tegenprestatie-voor-uitkering",
       "title": "Mensen die een bijstandsuitkering krijgen, moeten in ruil daarvoor maatschappelijk zinvol werk doen.",
+      "titleParts": [
+        {
+          "text": " Mensen die een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Geld van de gemeente voor mensen die geen inkomen of eigen geld hebben."
+        },
+        {
+          "text": " krijgen, moeten in ruil daarvoor "
+        },
+        {
+          "text": "maatschappelijk zinvol werk",
+          "glossary": "Bijvoorbeeld schoonmaken van de straten of het gezelschap houden en ondersteunen van oudere inwoners."
+        },
+        {
+          "text": " doen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2429,6 +2546,18 @@
       "theme": "Houtstook",
       "themeId": "houtstook",
       "title": "In Enschede moet het gebruik van open haarden en houtkachels toegestaan blijven.",
+      "titleParts": [
+        {
+          "text": " In Enschede moet het gebruik van open haarden en "
+        },
+        {
+          "text": "houtkachels",
+          "glossary": "Kachels die worden gestookt met hout om een woning te verwarmen."
+        },
+        {
+          "text": " toegestaan blijven."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2442,6 +2571,18 @@
       "theme": "Zorgkeuze",
       "themeId": "zorgkeuze",
       "title": "Mensen die zorg nodig hebben, moeten altijd kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of levensovertuiging.",
+      "titleParts": [
+        {
+          "text": " Mensen die zorg nodig hebben, moeten altijd kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of "
+        },
+        {
+          "text": "levensovertuiging",
+          "glossary": "Wat iemand gelooft over het leven, zoals een geloof of persoonlijke overtuiging."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2455,6 +2596,25 @@
       "theme": "Kwijtschelding stoppen",
       "themeId": "kwijtschelding-stoppen",
       "title": "De gemeente moet stoppen met het kwijtschelden van de gemeentelijke belastingen voor inwoners met een laag inkomen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet stoppen met het "
+        },
+        {
+          "text": "kwijtschelden",
+          "glossary": "Dat mensen iets niet meer hoeven te betalen."
+        },
+        {
+          "text": " van de "
+        },
+        {
+          "text": "gemeentelijke belastingen",
+          "glossary": "Belastingen die je aan de gemeente moet betalen (bijv. rioolheffing, afvalstoffenheffing, hondenbelasting)."
+        },
+        {
+          "text": " voor inwoners met een laag inkomen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2468,6 +2628,18 @@
       "theme": "Schoolzwemmen",
       "themeId": "schoolzwemmen",
       "title": "De gemeente moet geld beschikbaar stellen voor schoolzwemmen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld beschikbaar stellen voor "
+        },
+        {
+          "text": "schoolzwemmen",
+          "glossary": "Zwemlessen die vanuit de school worden georganiseerd."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2481,6 +2653,18 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "De inwoners van Enschede moeten over belangrijke onderwerpen hun mening kunnen geven via een referendum.",
+      "titleParts": [
+        {
+          "text": " De inwoners van Enschede moeten over belangrijke onderwerpen hun mening kunnen geven via een "
+        },
+        {
+          "text": "referendum",
+          "glossary": "Volksraadpleging waarbij inwoners zich kunnen uitspreken over een politieke kwestie. De gemeenteraad is niet verplicht de uitslag te volgen, dat is wettelijk niet mogelijk."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2507,6 +2691,18 @@
       "theme": "Coffeeshops",
       "themeId": "coffeeshops",
       "title": "De gemeente moet de vestiging van nieuwe coffeeshops toestaan.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de vestiging van nieuwe "
+        },
+        {
+          "text": "coffeeshops",
+          "glossary": "Winkels of cafés waar je softdrugs (hasj, wiet) kunt kopen en oproken."
+        },
+        {
+          "text": " toestaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2520,6 +2716,18 @@
       "theme": "Cameratoezicht afval",
       "themeId": "cameratoezicht-afval",
       "title": "Er moet cameratoezicht komen bij de ondergrondse vuilcontainers.",
+      "titleParts": [
+        {
+          "text": " Er moet "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Het houden van toezicht op of in een gebouw, gebied of (groepen) mensen met behulp van bewakingscamera's."
+        },
+        {
+          "text": " komen bij de ondergrondse vuilcontainers."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2533,6 +2741,25 @@
       "theme": "Sociale huurwoningen",
       "themeId": "sociale-huurwoningen",
       "title": "Van de nieuw te bouwen woningen in Enschede moet maximaal 25% een sociale huurwoning zijn. In Enschede is nu 36% van de woningen een sociale huurwoning.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in Enschede moet maximaal 25% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": " zijn. In Enschede is nu 36% van de woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2585,6 +2812,25 @@
       "theme": "Voorrang voor vluchtelingen",
       "themeId": "voorrang-voor-vluchtelingen",
       "title": "De gemeente moet vluchtelingen met een verblijfsvergunning voorrang gaan geven op een sociale huurwoning.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet vluchtelingen met een "
+        },
+        {
+          "text": "verblijfsvergunning",
+          "glossary": "Het recht om in Nederland te blijven wonen. Met het woord kun je dat recht zelf bedoelen en ook het kaartje waarop staat dat iemand dat recht heeft."
+        },
+        {
+          "text": " voorrang gaan geven op een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",

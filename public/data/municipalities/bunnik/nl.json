@@ -512,6 +512,18 @@
       "theme": "Houtstook",
       "themeId": "houtstook",
       "title": "In Bunnik moet het gebruik van open haarden en houtkachels toegestaan blijven.",
+      "titleParts": [
+        {
+          "text": " In Bunnik moet het gebruik van open haarden en "
+        },
+        {
+          "text": "houtkachels",
+          "glossary": "Kachels die worden gestookt met hout om een woning te verwarmen."
+        },
+        {
+          "text": " toegestaan blijven."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -590,6 +602,18 @@
       "theme": "Handhavers",
       "themeId": "handhavers",
       "title": "In Bunnik moeten meer gemeentelijke handhavers (boa’s) komen die zich met veiligheid bezighouden.",
+      "titleParts": [
+        {
+          "text": " In Bunnik moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhaver",
+          "glossary": "Iemand die werkt bij de gemeente en zorgt dat iedereen zich aan de regels houdt."
+        },
+        {
+          "text": "s (boa’s) komen die zich met veiligheid bezighouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -603,6 +627,18 @@
       "theme": "Contributie sport",
       "themeId": "contributie-sport",
       "title": "De gemeente moet het lidmaatschap van een sportclub betalen voor mensen met een bijstandsuitkering.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet het lidmaatschap van een sportclub betalen voor mensen met een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Geld van de gemeente voor mensen die geen inkomen of eigen geld hebben."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -642,6 +678,18 @@
       "theme": "Cameratoezicht",
       "themeId": "cameratoezicht",
       "title": "In Bunnik moet meer cameratoezicht komen.",
+      "titleParts": [
+        {
+          "text": " In Bunnik moet meer "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Het houden van toezicht op of in een gebouw, gebied of (groepen) mensen met behulp van bewakingscamera's."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -668,6 +716,18 @@
       "theme": "Tegenprestatie voor uitkering",
       "themeId": "tegenprestatie-voor-uitkering",
       "title": "Mensen die een bijstandsuitkering krijgen, moeten in ruil daarvoor maatschappelijk zinvol werk doen.",
+      "titleParts": [
+        {
+          "text": " Mensen die een bijstandsuitkering krijgen, moeten in ruil daarvoor maatsch"
+        },
+        {
+          "text": "app",
+          "glossary": "Afkorting voor applicatie, meestal wordt een programma op de smartphone bedoeld"
+        },
+        {
+          "text": "elijk zinvol werk doen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -798,6 +858,18 @@
       "theme": "Voorrang voor vluchtelingen",
       "themeId": "voorrang-voor-vluchtelingen",
       "title": "De gemeente moet vluchtelingen met een verblijfsvergunning voorrang blijven geven op een sociale huurwoning.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet vluchtelingen met een verblijfsvergunning voorrang blijven geven op een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -824,6 +896,18 @@
       "theme": "Zorgkeuze",
       "themeId": "zorgkeuze",
       "title": "Mensen die zorg nodig hebben, moeten altijd kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of levensovertuiging.",
+      "titleParts": [
+        {
+          "text": " Mensen die zorg nodig hebben, moeten altijd kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of "
+        },
+        {
+          "text": "levensovertuiging",
+          "glossary": "Wat iemand gelooft over het leven, zoals een geloof of persoonlijke overtuiging."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -837,6 +921,18 @@
       "theme": "Kwijtschelding stoppen",
       "themeId": "kwijtschelding-stoppen",
       "title": "De gemeente moet stoppen met het kwijtschelden van de gemeentelijke belastingen voor inwoners met een laag inkomen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet stoppen met het kwijtschelden van de "
+        },
+        {
+          "text": "gemeentelijke belastingen",
+          "glossary": "Belastingen die je aan de gemeente moet betalen (bijv. rioolheffing, afvalstoffenheffing, hondenbelasting)."
+        },
+        {
+          "text": " voor inwoners met een laag inkomen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -850,6 +946,25 @@
       "theme": "Sociale huurwoningen",
       "themeId": "sociale-huurwoningen",
       "title": "Van de nieuw te bouwen woningen in Bunnik moet minimaal 30% een sociale huurwoning zijn. In Nederland is nu 28% van de woningen een sociale huurwoning.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in Bunnik moet minimaal 30% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": " zijn. In Nederland is nu 28% van de woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",

@@ -132,6 +132,12 @@ async function main() {
       if (s.moreInfo) allMoreInfo.add(s.moreInfo);
       if (s.pro) allPro.add(s.pro);
       if (s.con) allCon.add(s.con);
+      // Collect glossary terms for translation
+      if (s.titleParts) {
+        for (const part of s.titleParts) {
+          if (part.glossary) allMoreInfo.add(part.glossary); // Reuse moreInfo category
+        }
+      }
     }
     // Also collect shootout statement texts
     for (const s of (data.shootoutStatements || [])) {
@@ -191,6 +197,12 @@ async function main() {
       s.moreInfo = cache[s.moreInfo] || s.moreInfo;
       s.pro = cache[s.pro] || s.pro;
       s.con = cache[s.con] || s.con;
+      // Translate glossary terms
+      if (s.titleParts) {
+        for (const part of s.titleParts) {
+          if (part.glossary) part.glossary = cache[part.glossary] || part.glossary;
+        }
+      }
     }
 
     // Apply translations to shootout statements

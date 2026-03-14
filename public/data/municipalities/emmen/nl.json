@@ -2871,6 +2871,18 @@
       "theme": "Asielzoekerscentrum",
       "themeId": "asielzoekerscentrum",
       "title": "Het asielzoekerscentrum (azc) in onze gemeente moet zo snel mogelijk sluiten. Het contract loopt tot 2031.",
+      "titleParts": [
+        {
+          "text": " Het "
+        },
+        {
+          "text": "asielzoekerscentrum",
+          "glossary": "Opvangcentrum voor asielzoekers. Ze wonen daar tot besloten is of ze in Nederland mogen blijven. Een asielzoekerscentrum blijft langere tijd in een gemeente staan."
+        },
+        {
+          "text": " (azc) in onze gemeente moet zo snel mogelijk sluiten. Het contract loopt tot 2031."
+        }
+      ],
       "moreInfo": "Emmen heeft één asielzoekerscentrum. Dat ligt in de buurt van station Emmen Zuid. Deze gezinslocatie met plek voor 650 mensen blijft volgens afspraken met het COA open tot het midden van 2031.",
       "pro": "",
       "con": "",
@@ -2884,6 +2896,18 @@
       "theme": "Duurzame energie",
       "themeId": "duurzame-energie",
       "title": "Inwoners die samen duurzame energie op willen wekken, moeten financiële steun krijgen van de gemeente.",
+      "titleParts": [
+        {
+          "text": " Inwoners die samen "
+        },
+        {
+          "text": "duurzame energie",
+          "glossary": "Energie op basis van grondstoffen waar een oneindige hoeveelheid van is, zoals zonlicht en wind."
+        },
+        {
+          "text": " op willen wekken, moeten financiële steun krijgen van de gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2897,6 +2921,18 @@
       "theme": "Belasting op gebouwen",
       "themeId": "belasting-op-gebouwen",
       "title": "De onroerendezaakbelasting (ozb) moet hetzelfde blijven.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "onroerendezaakbelasting",
+          "glossary": "Belasting die je betaalt als eigenaar van een gebouw of stuk grond, of gebruiker van een bedrijfspand."
+        },
+        {
+          "text": " (ozb) moet hetzelfde blijven."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2923,6 +2959,18 @@
       "theme": "Handhavers",
       "themeId": "handhavers",
       "title": "In Emmen en alle dorpen moeten meer gemeentelijke handhavers (boa’s) komen die zich met veiligheid bezighouden.",
+      "titleParts": [
+        {
+          "text": " In Emmen en alle dorpen moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "Mensen die voor de gemeente controleren of burgers en bedrijven zich aan de regels houden."
+        },
+        {
+          "text": " (boa’s) komen die zich met veiligheid bezighouden."
+        }
+      ],
       "moreInfo": "Boa’s (buitengewoon opsporingsambtenaren) werken voor de gemeente en houden toezicht in wijken en dorpen. Zij letten op overlast en kleine overtredingen en kunnen waarschuwen of boetes geven. De gemeente bepaalt zelf hoeveel boa’s worden ingezet. De politie valt onder landelijke aansturing, waar de gemeente geen directe invloed op heeft.",
       "pro": "",
       "con": "",
@@ -2949,6 +2997,18 @@
       "theme": "Coffeeshops",
       "themeId": "coffeeshops",
       "title": "De gemeente moet de vestiging van nieuwe coffeeshops tegenhouden.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de vestiging van nieuwe "
+        },
+        {
+          "text": "coffeeshops",
+          "glossary": "Winkels of cafés waar je softdrugs (hasj, wiet) kunt kopen en oproken."
+        },
+        {
+          "text": " tegenhouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2975,6 +3035,18 @@
       "theme": "Beschermde banen",
       "themeId": "beschermde-banen",
       "title": "Er moeten meer werkplaatsen voor mensen met een arbeidsbeperking komen (vroeger sociale werkplaats).",
+      "titleParts": [
+        {
+          "text": " Er moeten meer werkplaatsen voor "
+        },
+        {
+          "text": "mensen met een arbeidsbeperking",
+          "glossary": "Mensen die door ziekte of een gebrek moelijk aan een betaalde baan kunnen komen."
+        },
+        {
+          "text": " komen (vroeger sociale werkplaats)."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -3027,6 +3099,25 @@
       "theme": "Voorrang voor vluchtelingen",
       "themeId": "voorrang-voor-vluchtelingen",
       "title": "Vluchtelingen met een verblijfsvergunning moeten voorrang krijgen op een sociale huurwoning.",
+      "titleParts": [
+        {
+          "text": " Vluchtelingen met een "
+        },
+        {
+          "text": "verblijfsvergunning",
+          "glossary": "Het recht om in Nederland te blijven wonen. Met het woord kun je dat recht zelf bedoelen en ook het kaartje waarop staat dat iemand dat recht heeft."
+        },
+        {
+          "text": " moeten voorrang krijgen op een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -3040,6 +3131,25 @@
       "theme": "Tegenprestatie voor uitkering",
       "themeId": "tegenprestatie-voor-uitkering",
       "title": "Mensen die een bijstandsuitkering krijgen, moeten in ruil daarvoor maatschappelijk zinvol werk doen.",
+      "titleParts": [
+        {
+          "text": " Mensen die een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Geld van de gemeente voor mensen die geen inkomen of eigen geld hebben."
+        },
+        {
+          "text": " krijgen, moeten in ruil daarvoor "
+        },
+        {
+          "text": "maatschappelijk zinvol werk",
+          "glossary": "Bijvoorbeeld schoonmaken van de straten of het gezelschap houden en ondersteunen van oudere inwoners."
+        },
+        {
+          "text": " doen."
+        }
+      ],
       "moreInfo": "Maatschappelijk zinvol werk is werk dat nuttig is voor anderen, zoals helpen in een buurthuis, voorlezen op school of werken in het groen. Het is tijdelijk, niet te veel en mag geen betaald werk vervangen.",
       "pro": "",
       "con": "",
@@ -3079,6 +3189,25 @@
       "theme": "Sociale huurwoningen",
       "themeId": "sociale-huurwoningen",
       "title": "Van de nieuw te bouwen woningen in de gemeente Emmen moet minimaal 30% een sociale huurwoning zijn. In de gemeente is nu 28% van de woningen een sociale huurwoning.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in de gemeente Emmen moet minimaal 30% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": " zijn. In de gemeente is nu 28% van de woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -3118,6 +3247,25 @@
       "theme": "Gesubsidieerde banen",
       "themeId": "gesubsidieerde-banen",
       "title": "Er moeten meer gesubsidieerde banen voor langdurig werklozen komen in onze gemeente.",
+      "titleParts": [
+        {
+          "text": " Er moeten meer "
+        },
+        {
+          "text": "gesubsidieerde banen",
+          "glossary": "Door de overheid betaalde banen voor mensen die weinig kans maken op een gewone baan."
+        },
+        {
+          "text": " voor "
+        },
+        {
+          "text": "langdurig werklozen",
+          "glossary": "Mensen die al lange tijd (langer dan een jaar) geen betaald werk hebben."
+        },
+        {
+          "text": " komen in onze gemeente."
+        }
+      ],
       "moreInfo": "Gesubsidieerde banen zijn banen waarbij de gemeente een deel van het loon betaalt. Deze banen zijn bedoeld voor mensen die al lange tijd geen werk hebben of moeilijk aan werk komen, zodat zij werkervaring kunnen opdoen.",
       "pro": "",
       "con": "",
@@ -3144,6 +3292,25 @@
       "theme": "LHBTI",
       "themeId": "lhbti",
       "title": "De gemeente moet subsidie geven aan activiteiten voor LHBTI'ers.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "subsidie",
+          "glossary": "Geld dat de overheid aan burgers, bedrijven en organisaties geeft om ze te steunen."
+        },
+        {
+          "text": " geven aan activiteiten voor "
+        },
+        {
+          "text": "LHBTI'ers",
+          "glossary": "LHBTI staat voor lesbische vrouwen (L), homoseksuele mannen (H), biseksuelen (B), transgenders (T) en intersekse personen (I)."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -3157,6 +3324,18 @@
       "theme": "Milieustraat",
       "themeId": "milieustraat",
       "title": "De hoeveelheid afval die bewoners gratis naar de milieustraat mogen brengen, moet omhoog. Nu is het 300 kilo.",
+      "titleParts": [
+        {
+          "text": " De hoeveelheid afval die bewoners gratis naar de "
+        },
+        {
+          "text": "milieustraat",
+          "glossary": "Plek waar burgers en bedrijven verschillende soorten afval naartoe kunnen brengen. "
+        },
+        {
+          "text": " mogen brengen, moet omhoog. Nu is het 300 kilo."
+        }
+      ],
       "moreInfo": "Inwoners van de gemeente Emmen kunnen jaarlijks 300 kilo (grof) huishoudelijk afval per huishouden gratis inleveren bij de milieustraat van Area Reiniging.",
       "pro": "",
       "con": "",
@@ -3170,6 +3349,18 @@
       "theme": "Contributie sport",
       "themeId": "contributie-sport",
       "title": "De gemeente moet het lidmaatschap van een sportclub volledig betalen voor mensen met een bijstandsuitkering.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet het lidmaatschap van een sportclub volledig betalen voor mensen met een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Geld van de gemeente voor mensen die geen inkomen of eigen geld hebben."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",

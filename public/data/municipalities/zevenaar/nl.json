@@ -1244,6 +1244,18 @@
       "theme": "Contributie sport",
       "themeId": "contributie-sport",
       "title": "De gemeente moet het lidmaatschap van een sportclub betalen voor mensen met een bijstandsuitkering.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet het lidmaatschap van een sportclub betalen voor mensen met een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Geld van de gemeente voor mensen die geen inkomen of eigen geld hebben."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1257,6 +1269,18 @@
       "theme": "Handhavers",
       "themeId": "handhavers",
       "title": "In Zevenaar moeten meer gemeentelijke handhavers (boa’s) komen die zich met veiligheid bezighouden.",
+      "titleParts": [
+        {
+          "text": " In Zevenaar moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "Mensen die voor de gemeente controleren of burgers en bedrijven zich aan de regels houden."
+        },
+        {
+          "text": " (boa’s) komen die zich met veiligheid bezighouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1296,6 +1320,18 @@
       "theme": "Verbeteren schoolgebouwen",
       "themeId": "verbeteren-schoolgebouwen",
       "title": "De gemeente moet in de komende raadsperiode geld steken in het verbeteren van alle schoolgebouwen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet in de komende "
+        },
+        {
+          "text": "raadsperiode",
+          "glossary": "De gemeenteraad wordt gekozen voor een periode van vier jaar."
+        },
+        {
+          "text": " geld steken in het verbeteren van alle schoolgebouwen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1309,6 +1345,18 @@
       "theme": "Zorgkeuze",
       "themeId": "zorgkeuze",
       "title": "Mensen die zorg nodig hebben, moeten altijd kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of levensovertuiging.",
+      "titleParts": [
+        {
+          "text": " Mensen die zorg nodig hebben, moeten altijd kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of "
+        },
+        {
+          "text": "levensovertuiging",
+          "glossary": "Wat iemand gelooft over het leven, zoals een geloof of persoonlijke overtuiging."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1322,6 +1370,25 @@
       "theme": "Voorrang voor vluchtelingen",
       "themeId": "voorrang-voor-vluchtelingen",
       "title": "De gemeente moet vluchtelingen met een verblijfsvergunning voorrang blijven geven op een sociale huurwoning.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet vluchtelingen met een "
+        },
+        {
+          "text": "verblijfsvergunning",
+          "glossary": "Het recht om in Nederland te blijven wonen. Met het woord kun je dat recht zelf bedoelen en ook het kaartje waarop staat dat iemand dat recht heeft."
+        },
+        {
+          "text": " voorrang blijven geven op een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur voor mensen met een laag inkomen. In 2026 is dat een bedrag van ten hoogste € 932,93 per maand."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1348,6 +1415,25 @@
       "theme": "Burgemeester en college",
       "themeId": "burgemeester-en-college",
       "title": "In het nieuwe college van burgemeester en wethouders moet het aantal mannen en vrouwen gelijk zijn.",
+      "titleParts": [
+        {
+          "text": " In het nieuwe "
+        },
+        {
+          "text": "college",
+          "glossary": "College van burgemeester en wethouders, het dagelijks bestuur van de gemeente."
+        },
+        {
+          "text": " van "
+        },
+        {
+          "text": "burgemeester",
+          "glossary": "De burgemeester leidt de gemeente en zit de gemeenteraad voor. De burgemeester wordt niet gekozen maar benoemd door de regering, na aanbeveling door de gemeenteraad."
+        },
+        {
+          "text": " en wethouders moet het aantal mannen en vrouwen gelijk zijn."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1374,6 +1460,18 @@
       "theme": "Voorrang huisvesting",
       "themeId": "voorrang-huisvesting",
       "title": "Bij de toewijzing van een sociale huurwoning moeten woningzoekenden uit de eigen gemeente voorrang krijgen.",
+      "titleParts": [
+        {
+          "text": " Bij de toewijzing van een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur voor mensen met een laag inkomen. In 2026 is dat een bedrag van ten hoogste € 932,93 per maand."
+        },
+        {
+          "text": " moeten woningzoekenden uit de eigen gemeente voorrang krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1413,6 +1511,18 @@
       "theme": "Geweld tegen vrouwen",
       "themeId": "geweld-tegen-vrouwen",
       "title": "In Zevenaar moet een blijf-van-mijn-lijf-huis komen.",
+      "titleParts": [
+        {
+          "text": " In Zevenaar moet een "
+        },
+        {
+          "text": "blijf-van-mijn-lijf-huis",
+          "glossary": "Opvang voor vrouwen die te maken hebben met geweld van hun partner of familie. De opvang is beveiligd, soms is de locatie geheim."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1426,6 +1536,25 @@
       "theme": "Tegenprestatie voor uitkering",
       "themeId": "tegenprestatie-voor-uitkering",
       "title": "Mensen die een bijstandsuitkering krijgen, moeten in ruil daarvoor maatschappelijk zinvol werk doen.",
+      "titleParts": [
+        {
+          "text": " Mensen die een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Geld van de gemeente voor mensen die geen inkomen of eigen geld hebben."
+        },
+        {
+          "text": " krijgen, moeten in ruil daarvoor "
+        },
+        {
+          "text": "maatschappelijk zinvol werk",
+          "glossary": "Bijvoorbeeld schoonmaken van de straten of het gezelschap houden en ondersteunen van oudere inwoners."
+        },
+        {
+          "text": " doen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1439,6 +1568,25 @@
       "theme": "Sociale huurwoningen",
       "themeId": "sociale-huurwoningen",
       "title": "Van de nieuw te bouwen woningen in Zevenaar moet minimaal 30% een sociale huurwoning zijn. In Nederland is nu 28% van de woningen een sociale huurwoning.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in Zevenaar moet minimaal 30% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur voor mensen met een laag inkomen. In 2026 is dat een bedrag van ten hoogste € 932,93 per maand."
+        },
+        {
+          "text": " zijn. In Nederland is nu 28% van de woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur voor mensen met een laag inkomen. In 2026 is dat een bedrag van ten hoogste € 932,93 per maand."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1465,6 +1613,18 @@
       "theme": "Toeristenbelasting",
       "themeId": "toeristenbelasting",
       "title": "De toeristenbelasting moet omhoog.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "toeristenbelasting",
+          "glossary": "De belasting die je moet betalen als je in een hotel of op een camping bijft slapen."
+        },
+        {
+          "text": " moet omhoog."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1478,6 +1638,18 @@
       "theme": "Cameratoezicht",
       "themeId": "cameratoezicht",
       "title": "In Zevenaar moet meer cameratoezicht komen.",
+      "titleParts": [
+        {
+          "text": " In Zevenaar moet meer "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Het houden van toezicht op of in een gebouw, gebied of (groepen) mensen met behulp van bewakingscamera's."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1504,6 +1676,18 @@
       "theme": "Houtstook",
       "themeId": "houtstook",
       "title": "In Zevenaar moet het gebruik van open haarden en houtkachels toegestaan blijven.",
+      "titleParts": [
+        {
+          "text": " In Zevenaar moet het gebruik van open haarden en "
+        },
+        {
+          "text": "houtkachels",
+          "glossary": "Kachels die worden gestookt met hout om een woning te verwarmen."
+        },
+        {
+          "text": " toegestaan blijven."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1517,6 +1701,25 @@
       "theme": "Snelheid auto's",
       "themeId": "snelheid-auto-s",
       "title": "De maximumsnelheid binnen de bebouwde kom moet naar 30 km/u.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "maximumsnelheid",
+          "glossary": "De hoogste snelheid die autos en motoren mogen rijden op straat."
+        },
+        {
+          "text": " binnen de "
+        },
+        {
+          "text": "bebouwde kom",
+          "glossary": "Gebied met bebouwing (huizen, gebouwen)."
+        },
+        {
+          "text": " moet naar 30 km/u."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1556,6 +1759,18 @@
       "theme": "Coffeeshop",
       "themeId": "coffeeshop",
       "title": "De gemeente moet de vestiging van een coffeeshop toestaan.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de vestiging van een "
+        },
+        {
+          "text": "coffeeshop",
+          "glossary": "Winkel of café waar je softdrugs (hasj, wiet) kunt kopen en oproken."
+        },
+        {
+          "text": " toestaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1582,6 +1797,18 @@
       "theme": "Opvang asielzoekers",
       "themeId": "opvang-asielzoekers",
       "title": "De gemeente moet zorgen voor extra ruimte om nareizende familieleden van asielzoekers tijdelijk op te vangen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet zorgen voor extra ruimte om nareizende familieleden van "
+        },
+        {
+          "text": "asielzoekers",
+          "glossary": "Mensen die asiel hebben aangevraagd en nog wachten op de beslissing daarover."
+        },
+        {
+          "text": " tijdelijk op te vangen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",

@@ -598,9 +598,7 @@
       "moreInfo": "",
       "pro": "By building upwards, we make better use of space in Nederweert.",
       "con": "High-rise buildings undermine the village character of Nederweert.",
-      "isShootout": false,
-      "titleEn": "More buildings of five or more storeys should be allowed in Nederweert.",
-      "themeEn": "Apartment buildings"
+      "isShootout": false
     },
     {
       "id": 167307,
@@ -611,9 +609,7 @@
       "moreInfo": "De Pinnenhof is a community center located behind the church in Nederweert. De Pinnenhof is to become a multifunctional facility (MFA), with space for a library, activities by associations, and a place where residents can go for meeting and support.",
       "pro": "The current location is central and close to other facilities. There are currently no other suitable locations. This debate has been going on for years. Investigating alternative locations would cost extra time and money.",
       "con": "The plans for new construction at the current site are too expensive. We must first investigate whether other locations are suitable. The interests of the centre’s users come first. The location does not matter.",
-      "isShootout": false,
-      "titleEn": "The Pinnenhof should remain at its current location.",
-      "themeEn": "De Pinnenhof remains"
+      "isShootout": false
     },
     {
       "id": 167320,
@@ -624,9 +620,7 @@
       "moreInfo": "",
       "pro": "There should be a park on this site. That is better for the livability of Nederweert. There are already enough business parks in Nederweert and the surrounding area.",
       "con": "Entrepreneurs in Nederweert should be given more space to grow. The arrival of new companies is good for the local economy.",
-      "isShootout": false,
-      "titleEn": "There should be no business park built between the A2 and the village of Nederweert.",
-      "themeEn": "Ouwijck"
+      "isShootout": false
     },
     {
       "id": 167289,
@@ -634,12 +628,29 @@
       "theme": "Camera surveillance",
       "themeId": "cameratoezicht",
       "title": "There should be more camera surveillance in the surrounding countryside.",
+      "titleParts": [
+        {
+          "text": " In het "
+        },
+        {
+          "text": "buitengebied",
+          "glossary": "Area within the municipality's borders but outside the towns or villages themselves; there are few houses and other buildings here."
+        },
+        {
+          "text": " moet meer "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Monitoring of a building, area, or (groups of) people using security cameras."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "Municipalities may use cameras to supervise public order. The police may then view and use the footage. In Nederweert there are currently cameras on the Pannenweg II industrial estate. This is organized by park management itself.",
       "pro": "Camera surveillance can prevent unsafe situations, vandalism, and nuisance. It can help tackle illegal dumping of waste.",
       "con": "Camera surveillance is an infringement on residents’ privacy. It is better to provide more police officers or BOAs (municipal enforcement officers) on the streets.",
-      "isShootout": false,
-      "titleEn": "There should be more camera surveillance in the surrounding countryside.",
-      "themeEn": "Camera surveillance"
+      "isShootout": false
     },
     {
       "id": 167326,
@@ -647,12 +658,22 @@
       "theme": "Housing options for the elderly",
       "themeId": "woonvormen-voor-ouderen",
       "title": "The municipality should prioritize building housing for the elderly, such as homes for informal caregiving.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet voorrang geven aan het bouwen van woonvormen voor ouderen, zoals "
+        },
+        {
+          "text": "mantelzorgwoningen",
+          "glossary": "A self-contained dwelling on the grounds of another house, where, for example, grandparents can be cared for."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "More housing for the elderly contributes to better flow in the housing market. This frees up more homes for first-time buyers and families.",
       "con": "We should also build for first-time buyers and families. Building senior housing does not take priority.",
-      "isShootout": false,
-      "titleEn": "The municipality should prioritize building housing for the elderly, such as homes for informal caregiving.",
-      "themeEn": "Housing options for the elderly"
+      "isShootout": false
     },
     {
       "id": 167311,
@@ -663,9 +684,7 @@
       "moreInfo": "",
       "pro": "The existing roads N266 and N275 (Southern Ring Road) are currently far too busy. A ring road would make Nederweert safer and more livable. There would then be less through (freight) traffic through the village.",
       "con": "We should adapt the N266 and N275 (Southern Ring Road) so traffic can flow better there. There should be an additional road between the A2 and the N266 well north of Nederweert. No ring road right next to the village.",
-      "isShootout": false,
-      "titleEn": "A bypass should be built around the village of Nederweert.",
-      "themeEn": "Bypass (ring road)"
+      "isShootout": false
     },
     {
       "id": 167291,
@@ -673,12 +692,29 @@
       "theme": "Social housing",
       "themeId": "sociale-huurwoningen",
       "title": "At least 30% of newly built homes in the municipality of Nederweert should be social housing. Currently 28% of homes in the Netherlands are social housing.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in de gemeente Nederweert moet minimaal 30% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " zijn. In Nederland is nu 28% van de woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "We need social rental housing for young people, single households, and people with lower incomes.",
       "con": "The municipality should not impose extra rules on housing construction. That increases the risk that less will be built.",
-      "isShootout": false,
-      "titleEn": "At least 30% of newly built homes in the municipality of Nederweert should be social housing. Currently 28% of homes in the Netherlands are social housing.",
-      "themeEn": "Social housing"
+      "isShootout": false
     },
     {
       "id": 167278,
@@ -689,9 +725,7 @@
       "moreInfo": "Farmers can receive money from the national government and the province to convert agricultural land into nature. This mainly applies to farmland that borders nature reserves. The municipality decides together with the province where new nature is desired. For this the municipality must amend the Environmental Plan (Omgevingsplan).",
       "pro": "Agricultural land provides a good transition between the village of Nederweert with housing and the De Groote Peel nature reserve. It is a kind of buffer zone. Farmers should remain in the rural area around Nederweert.",
       "con": "The municipality should not fix the zoning of the area. There must be room for new plans in the future. In Ospeldijk there is mainly a need for housing.",
-      "isShootout": false,
-      "titleEn": "The area around Ospeldijk should remain agricultural land.",
-      "themeEn": "Agricultural land"
+      "isShootout": false
     },
     {
       "id": 167284,
@@ -702,9 +736,7 @@
       "moreInfo": "Labor migrants work in Nederweert: foreign workers who work here (temporarily). They mainly work in agriculture and horticulture. The municipality can set rules about where labor migrants may live and under what conditions.",
       "pro": "We must prevent houses in residential neighborhoods from being bought up to house large numbers of foreign workers. Therefore employers should provide accommodation at or near their own company.",
       "con": "It is not good if employees depend on their employer for their housing.",
-      "isShootout": false,
-      "titleEn": "Employers in agriculture and horticulture should provide housing for their foreign workers themselves.",
-      "themeEn": "Housing for foreign workers"
+      "isShootout": false
     },
     {
       "id": 167280,
@@ -712,12 +744,22 @@
       "theme": "Sustainable energy",
       "themeId": "duurzame-energie",
       "title": "Residents who want to generate sustainable energy together should receive financial support from the municipality.",
+      "titleParts": [
+        {
+          "text": " Inwoners die samen "
+        },
+        {
+          "text": "duurzame energie",
+          "glossary": "Energy based on resources that are effectively infinite, such as sunlight and wind."
+        },
+        {
+          "text": " op willen wekken, moeten financiële steun krijgen van de gemeente."
+        }
+      ],
       "moreInfo": "Homeowners can install solar panels on their roof if the roof is suitable, or apply for a permit for a wind turbine in the garden if it is large enough. If that is not possible, people can buy or rent land together with others for one or more wind turbines or solar panels so they can still invest in renewable energy. Renewable energy is generated from sources that never run out, such as sunlight and wind.",
       "pro": "Initiatives from residents are indispensable for the transition to sustainable energy. Municipal funding can provide a kick-start for initiatives that can eventually operate independently.",
       "con": "The municipality should encourage sustainability, but does not need to spend money on it. Sustainability projects must be viable without subsidies.",
-      "isShootout": false,
-      "titleEn": "Residents who want to generate sustainable energy together should receive financial support from the municipality.",
-      "themeEn": "Sustainable energy"
+      "isShootout": false
     },
     {
       "id": 167301,
@@ -725,12 +767,29 @@
       "theme": "Maximum speed in built-up areas",
       "themeId": "maximumsnelheid-bebouwde-kom",
       "title": "The maximum speed limit in built-up areas should be set to 30 km/h.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "maximumsnelheid",
+          "glossary": "The maximum speed that cars and motorcycles are allowed to drive on the road."
+        },
+        {
+          "text": " binnen de "
+        },
+        {
+          "text": "bebouwde kom",
+          "glossary": "An area with buildings (houses, other structures)."
+        },
+        {
+          "text": " moet naar 30 km/u."
+        }
+      ],
       "moreInfo": "The built-up area is the part of the town or village where people live, work and shop. A speed limit of 50 km/h often applies there. On some streets this is already 30 km/h.",
       "pro": "A 30 km/h speed limit makes traffic safer for pedestrians and cyclists. The number of traffic casualties will therefore decrease.",
       "con": "This speed limit should apply in residential neighbourhoods, but not on larger through-roads within the built-up area. For traffic flow, a higher speed is better there.",
-      "isShootout": false,
-      "titleEn": "The maximum speed limit in built-up areas should be set to 30 km/h.",
-      "themeEn": "Maximum speed in built-up areas"
+      "isShootout": false
     },
     {
       "id": 167277,
@@ -738,12 +797,29 @@
       "theme": "Attracting businesses",
       "themeId": "aantrekken-bedrijven",
       "title": "The municipality should invest in a promotional campaign for Nederweert as an attractive location for businesses.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld steken in een "
+        },
+        {
+          "text": "promotiecampagne",
+          "glossary": "A series of advertisements on, for example, billboards, television, and social media."
+        },
+        {
+          "text": " voor Nederweert als aantrekkelijke "
+        },
+        {
+          "text": "vestigingsplaats",
+          "glossary": "The location where a company establishes itself."
+        },
+        {
+          "text": " voor bedrijven."
+        }
+      ],
       "moreInfo": "Municipalities can attract companies by showing what they have to offer. This can be done, for example, with a promotional campaign. The goal is to convince companies to settle in the municipality.",
       "pro": "The arrival of more companies brings life to the town and a vibrant local economy. New entrepreneurs bring innovation. For residents of Nederweert it is important that there are enough jobs close to home.",
       "con": "The municipality should support local entrepreneurs rather than spend money attracting companies from outside. We should spend money on good amenities, business parks and infrastructure instead of a promotional campaign. Nederweert is already attractive enough for entrepreneurs.",
-      "isShootout": false,
-      "titleEn": "The municipality should invest in a promotional campaign for Nederweert as an attractive location for businesses.",
-      "themeEn": "Attracting businesses"
+      "isShootout": false
     },
     {
       "id": 167300,
@@ -754,9 +830,7 @@
       "moreInfo": "The municipality determines how many charging points for electric cars there are and where they are located. At the moment there are about 72 public charging points in Nederweert.",
       "pro": "The municipality should encourage the use of sustainable vehicles.",
       "con": "Additional charging points come at the expense of regular parking spaces, creating a shortage.",
-      "isShootout": false,
-      "titleEn": "The municipality should designate more parking spaces as charging points for electric cars.",
-      "themeEn": "Electric vehicle charging stations"
+      "isShootout": false
     },
     {
       "id": 167283,
@@ -764,12 +838,29 @@
       "theme": "Integration",
       "themeId": "integratie",
       "title": "The municipality should spend more money on integrating newcomers into society.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld uitgeven aan "
+        },
+        {
+          "text": "integratie",
+          "glossary": "Newcomers learn the language and customs of the Netherlands."
+        },
+        {
+          "text": " van "
+        },
+        {
+          "text": "nieuwkomers",
+          "glossary": "People who are new to the Netherlands."
+        },
+        {
+          "text": " in de maatschappij."
+        }
+      ],
       "moreInfo": "",
       "pro": "It is important that newcomers learn Dutch as quickly as possible. Then they can participate in society and make a positive contribution. Good integration of newcomers strengthens the Nederweert community and prevents problems later on.",
       "con": "Newcomers who want to integrate should make the effort themselves. They can organise activities themselves. The municipality already spends enough on newcomer integration; that money could be used better and more targeted.",
-      "isShootout": false,
-      "titleEn": "The municipality should spend more money on integrating newcomers into society.",
-      "themeEn": "Integration"
+      "isShootout": false
     },
     {
       "id": 167297,
@@ -777,12 +868,29 @@
       "theme": "Work requirement for welfare recipients",
       "themeId": "tegenprestatie-voor-uitkering",
       "title": "People receiving social assistance should, in return, do socially useful work.",
+      "titleParts": [
+        {
+          "text": " Mensen die een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Money from the municipality for people who have no income or personal funds."
+        },
+        {
+          "text": " krijgen, moeten in ruil daarvoor "
+        },
+        {
+          "text": "maatschappelijk zinvol werk",
+          "glossary": "For example cleaning the streets or keeping company and supporting elderly residents."
+        },
+        {
+          "text": " doen."
+        }
+      ],
       "moreInfo": "People who have no work and no other benefit can apply to the municipality for social assistance. In some municipalities they are required to perform a counter-performance. They then do socially useful work for which they are not paid.",
       "pro": "It is perfectly normal to give something back when you receive benefits. Everyone in the municipality is included, participates, and contributes to society according to their ability.",
       "con": "A requirement is not necessary. Many people already do this, for example as volunteers or as informal caregivers. Not everyone can work.",
-      "isShootout": false,
-      "titleEn": "People receiving social assistance should, in return, do socially useful work.",
-      "themeEn": "Work requirement for welfare recipients"
+      "isShootout": false
     },
     {
       "id": 167293,
@@ -793,9 +901,7 @@
       "moreInfo": "The municipality can require people who buy a house to live in it themselves. They may then not rent the house to others. In some municipalities the owner may have their adult children or parents live in the house.",
       "pro": "We must prevent investors or 'slumlords' from buying up homes. This keeps starter homes available for the target group. It is good for community spirit in Nederweert if owners live in their own homes.",
       "con": "In addition to owner-occupied homes, there must be sufficient rental homes in the municipality of Nederweert. Because of this rule the number of rental homes is decreasing. People should have the freedom to rent out their house.",
-      "isShootout": false,
-      "titleEn": "Anyone who buys a home in our municipality must live in it themselves.",
-      "themeEn": "Owner-occupancy of a home"
+      "isShootout": false
     },
     {
       "id": 167310,
@@ -806,9 +912,7 @@
       "moreInfo": "This concerns a bicycle bridge over Randweg Zuid at the height of the McDonald’s.",
       "pro": "A bridge makes the traffic situation safer for cyclists. This ensures better traffic flow for cars on the N275.",
       "con": "A bicycle crossing with traffic lights is sufficient for safety. A bicycle bridge is too expensive.",
-      "isShootout": false,
-      "titleEn": "The municipality should build a bicycle bridge over the Randweg Zuid.",
-      "themeEn": "Cycle bridge N275"
+      "isShootout": false
     },
     {
       "id": 167279,
@@ -819,9 +923,7 @@
       "moreInfo": "Farmers need a lot of land for their business. That land is usually their property, but they cannot do anything they want with it. The municipality determines the land use via a zoning plan. The designation of a piece of land can be, for example, housing, shops or agriculture. If a farmer wants to use land zoned for agriculture for something else as well, the municipality must change the zoning plan. This applies to all activities that are not agriculture, such as housing development, a farm shop, a campsite or a daycare.",
       "pro": "Farmers should have the freedom to earn money in other ways as well. Such initiatives are good for tourism and the leisure economy in Nederweert.",
       "con": "Nederweert does not need dozens of campsites or shops in the rural area. Not every location is suitable for everything. The municipality should assess this per location.",
-      "isShootout": false,
-      "titleEn": "The municipality should always allow farmers to open, for example, a shop or a campsite at their farm.",
-      "themeEn": "Farmers"
+      "isShootout": false
     },
     {
       "id": 167296,
@@ -832,9 +934,7 @@
       "moreInfo": "",
       "pro": "Too many residents of Nederweert now live in poverty. Some people currently cannot participate in social and cultural activities because of a low income. That must be prevented.",
       "con": "Poverty assistance is intended only for those who need it most. We should make existing poverty schemes better known. That will make more people use them.",
-      "isShootout": false,
-      "titleEn": "The municipality should raise the income threshold for poverty assistance. More people would then receive help.",
-      "themeEn": "Combating poverty"
+      "isShootout": false
     },
     {
       "id": 167315,
@@ -842,12 +942,22 @@
       "theme": "Lily cultivation",
       "themeId": "lelieteelt",
       "title": "The municipality should not allow new lily cultivation on agricultural land.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geen nieuwe "
+        },
+        {
+          "text": "lelieteelt",
+          "glossary": "Growing lilies on agricultural land."
+        },
+        {
+          "text": " toestaan op landbouwgrond."
+        }
+      ],
       "moreInfo": "Lilies are grown in several places in Nederweert. Pesticides are used against fungi and weeds. The municipality cannot currently prohibit these growers from cultivating lilies. For new locations the municipality can set rules, for example to ban lily cultivation near houses.",
       "pro": "Harmful pesticides are used in the cultivation of lilies. That is bad for the environment. We could use agricultural land better for food production.",
       "con": "We should only reduce the use of harmful pesticides in lily cultivation. A general ban on lily cultivation is too complicated.",
-      "isShootout": false,
-      "titleEn": "The municipality should not allow new lily cultivation on agricultural land.",
-      "themeEn": "Lily cultivation"
+      "isShootout": false
     },
     {
       "id": 167303,
@@ -858,9 +968,7 @@
       "moreInfo": "The municipality can involve residents in decisions about important topics. One way to do this is through a citizens' assembly. In a citizens' assembly a group of residents is chosen by lottery. This group reflects society, for example in age and place of residence. The participants talk together about a topic and then give advice to the municipality. The municipal council ultimately decides what to do with that advice.",
       "pro": "It is important to involve all residents in municipal decision-making in this way. Residents have many ideas and knowledge. The municipality can make use of that.",
       "con": "We should involve residents in municipal government in other ways. There are already enough ways for residents to give advice, for example the village councils in all parts of Nederweert.",
-      "isShootout": false,
-      "titleEn": "A group of residents selected by lottery should advise the municipality on important issues.",
-      "themeEn": "Citizens' assembly"
+      "isShootout": false
     },
     {
       "id": 167314,
@@ -871,9 +979,7 @@
       "moreInfo": "The canal junction at Nederweert is the intersection of the Wessem–Nederweert Canal, the Zuid-Willemsvaart and the Noordervaart. There are plans to build a container transshipment facility there: a place where containers are transferred from trucks to small ships. At the same time the scouting group has plans in this area for a new clubhouse with a play forest and a campsite.",
       "pro": "The Kanalenviersprong is a unique natural area. There must definitely be no container terminal here.",
       "con": "It is not good to fully fix the zoning of the canal crossroads at this moment.",
-      "isShootout": false,
-      "titleEn": "In the area around the canal crossroads only businesses for recreation and tourism should be allowed.",
-      "themeEn": "Canal crossroads"
+      "isShootout": false
     },
     {
       "id": 167304,
@@ -881,12 +987,29 @@
       "theme": "Maximum speed in rural areas",
       "themeId": "maximumsnelheid-in-buitengebied",
       "title": "The speed limit outside built-up areas should be 60 km/h.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "maximumsnelheid",
+          "glossary": "The maximum speed that cars and motorcycles are allowed to drive on the road."
+        },
+        {
+          "text": " buiten de "
+        },
+        {
+          "text": "bebouwde kom",
+          "glossary": "An area with buildings (houses, other structures)."
+        },
+        {
+          "text": " moet naar 60 km/u."
+        }
+      ],
       "moreInfo": "",
       "pro": "A 60 km/h speed limit makes traffic safer for pedestrians and cyclists. That leads to fewer traffic casualties. Nederweert should have the same rules as the surrounding municipalities; this speed limit already applies there.",
       "con": "We should only address unsafe roads in the countryside, for example by making wider cycle paths. A general speed reduction in the rural area is bad for traffic flow and Nederweert’s accessibility.",
-      "isShootout": false,
-      "titleEn": "The speed limit outside built-up areas should be 60 km/h.",
-      "themeEn": "Maximum speed in rural areas"
+      "isShootout": false
     },
     {
       "id": 167298,
@@ -894,12 +1017,29 @@
       "theme": "Stop debt forgiveness",
       "themeId": "kwijtschelding-stoppen",
       "title": "The municipality should stop forgiving municipal taxes for low-income residents.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet stoppen met het "
+        },
+        {
+          "text": "kwijtschelden",
+          "glossary": "That people no longer have to pay for something."
+        },
+        {
+          "text": " van de "
+        },
+        {
+          "text": "gemeentelijke belastingen",
+          "glossary": "Taxes you have to pay to the municipality (e.g., sewer charge, waste disposal charge, dog tax)."
+        },
+        {
+          "text": " voor inwoners met een laag inkomen."
+        }
+      ],
       "moreInfo": "People with a low income often have difficulty paying municipal taxes. They can apply for exemption (kwijtschelding). Exemption means you do not have to pay the municipal taxes and levies, or part of them. The municipality decides whether you receive exemption. In Nederweert you can get exemption for municipal taxes and levies such as property tax (onroerendezaakbelasting, OZB), waste collection charges and sewerage charges.",
       "pro": "We can provide people in poverty with more targeted assistance than with general waivers.",
       "con": "Waiving taxes is a good way to combat and prevent poverty.",
-      "isShootout": false,
-      "titleEn": "The municipality should stop forgiving municipal taxes for low-income residents.",
-      "themeEn": "Stop debt forgiveness"
+      "isShootout": false
     },
     {
       "id": 167308,
@@ -910,9 +1050,7 @@
       "moreInfo": "",
       "pro": "The municipality should help farmers make their businesses future-proof so they can remain in Nederweert.",
       "con": "Farmers should pay themselves for making their businesses more sustainable. Other entrepreneurs do the same.",
-      "isShootout": false,
-      "titleEn": "The municipality should give farmers money to make their businesses more environmentally friendly.",
-      "themeEn": "Sustainable farming"
+      "isShootout": false
     },
     {
       "id": 167329,
@@ -920,12 +1058,22 @@
       "theme": "Brainport",
       "themeId": "brainport",
       "title": "The municipality should cooperate in expanding the Brainport region, the tech area around Eindhoven.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meewerken aan de uitbreiding van de Brainportregio, de regio met "
+        },
+        {
+          "text": "techbedrijven",
+          "glossary": "Companies that mainly make technical products. Think of software, AI, and internet services."
+        },
+        {
+          "text": " rond Eindhoven."
+        }
+      ],
       "moreInfo": "",
       "pro": "This offers opportunities for the economy and employment for residents of Nederweert. The expansion cannot be stopped. Therefore Nederweert is best off participating in that development.",
       "con": "We must preserve the identity and village character of the municipality of Nederweert. Nederweert should not grow by building extra houses for people who work in the Brainport region.",
-      "isShootout": false,
-      "titleEn": "The municipality should cooperate in expanding the Brainport region, the tech area around Eindhoven.",
-      "themeEn": "Brainport"
+      "isShootout": false
     },
     {
       "id": 167323,
@@ -936,9 +1084,7 @@
       "moreInfo": "",
       "pro": "People can only participate in society once they speak Dutch. That prevents loneliness. Learning to read and write is important for finding work and being self-reliant.",
       "con": "Learning the language is the individual’s responsibility. The municipality does not have to pay for it. There are already many activities in Nederweert to improve Dutch language skills.",
-      "isShootout": false,
-      "titleEn": "The municipality should spend money on extra language lessons for people with limited language skills.",
-      "themeEn": "Language lessons"
+      "isShootout": false
     },
     {
       "id": 167306,
@@ -949,9 +1095,7 @@
       "moreInfo": "",
       "pro": "The users of De Pinnenhof know best what they need for their activities.",
       "con": "We should give equal consideration to the feasibility and affordability of plans.",
-      "isShootout": false,
-      "titleEn": "The wishes of the associations that use De Pinnenhof should guide the plans for the centre’s new construction.",
-      "themeEn": "Associations will manage De Pinnenhof"
+      "isShootout": false
     },
     {
       "id": 167322,
@@ -962,9 +1106,7 @@
       "moreInfo": "",
       "pro": "The municipality has a duty to pursue this goal for future generations. Innovative solutions make this goal achievable—for example, storing energy from solar panels or wind turbines in a community battery.",
       "con": "The municipality must remain realistic. Being emission-free by 2050 is not feasible. Rapid sustainability measures cause excessively high costs for residents.",
-      "isShootout": false,
-      "titleEn": "By 2050 Nederweert must no longer emit greenhouse gases.",
-      "themeEn": "Climate-neutral"
+      "isShootout": false
     },
     {
       "id": 167328,
@@ -975,9 +1117,7 @@
       "moreInfo": "",
       "pro": "Local entrepreneurs deserve some extra help to grow. This prevents the construction of large industrial halls that do not fit Nederweert's village character.",
       "con": "It does not matter where entrepreneurs come from, as long as they fit with Nederweert. Fewer rules for entrepreneurs are good for Nederweert’s economy.",
-      "isShootout": false,
-      "titleEn": "The municipality must give priority to local entrepreneurs when allocating sites on business parks.",
-      "themeEn": "Local businesses"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

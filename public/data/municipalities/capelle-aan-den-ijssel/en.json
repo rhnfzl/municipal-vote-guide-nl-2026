@@ -2431,12 +2431,29 @@
       "theme": "Waste disposal charge",
       "themeId": "afvalstoffenheffing",
       "title": "Residents who produce a lot of residual waste should pay higher waste collection fees.",
+      "titleParts": [
+        {
+          "text": " Inwoners die veel "
+        },
+        {
+          "text": "restafval",
+          "glossary": "Waste that remains after paper, plastic and organic waste have been collected separately."
+        },
+        {
+          "text": " aanbieden, moeten meer "
+        },
+        {
+          "text": "afvalstoffenheffing",
+          "glossary": "Municipal tax for collecting and processing household waste."
+        },
+        {
+          "text": " betalen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents who produce a lot of residual waste should pay higher waste collection fees.",
-      "themeEn": "Waste disposal charge"
+      "isShootout": false
     },
     {
       "id": 206652,
@@ -2447,9 +2464,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should extend shop opening hours on Sundays.",
-      "themeEn": "Shops closed on Sundays"
+      "isShootout": false
     },
     {
       "id": 206660,
@@ -2457,12 +2472,22 @@
       "theme": "Enforcement officers",
       "themeId": "handhavers",
       "title": "Capelle aan den IJssel should have more municipal enforcement officers (BOAs) focused on safety.",
+      "titleParts": [
+        {
+          "text": " In Capelle aan den IJssel moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "People who, for the municipality, check whether citizens and businesses comply with the rules."
+        },
+        {
+          "text": " (boa’s) komen die zich met veiligheid bezighouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Capelle aan den IJssel should have more municipal enforcement officers (BOAs) focused on safety.",
-      "themeEn": "Enforcement officers"
+      "isShootout": false
     },
     {
       "id": 206676,
@@ -2473,9 +2498,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Civil servants should receive training so they have sufficient knowledge about unconscious bias, racism and discrimination.",
-      "themeEn": "Racism and discrimination"
+      "isShootout": false
     },
     {
       "id": 206688,
@@ -2483,12 +2506,22 @@
       "theme": "Asylum seekers' center",
       "themeId": "asielzoekerscentrum",
       "title": "Asylum reception in our municipality must not be expanded.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "asielopvang",
+          "glossary": "A place where people who have applied for asylum are accommodated. An asylum shelter can be temporary. A permanent asylum shelter is called an asylum seekers' centre (azc)."
+        },
+        {
+          "text": " in onze gemeente mag niet uitbreiden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Asylum reception in our municipality must not be expanded.",
-      "themeEn": "Asylum seekers' center"
+      "isShootout": false
     },
     {
       "id": 206714,
@@ -2499,9 +2532,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should build its own community care centers where older people can also live.",
-      "themeEn": "Community care centers"
+      "isShootout": false
     },
     {
       "id": 206686,
@@ -2512,9 +2543,7 @@
       "moreInfo": "The municipality of Capelle aan den IJssel offers homeowners the option to borrow at a lower interest rate for more than twenty energy-saving measures, including insulation, solar panels, connection to a district heating network or a heat pump.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should retain the energy-saving loan for homeowners.",
-      "themeEn": "Energy-saving loan"
+      "isShootout": false
     },
     {
       "id": 206653,
@@ -2522,12 +2551,29 @@
       "theme": "Priority for refugees",
       "themeId": "voorrang-voor-vluchtelingen",
       "title": "The municipality should give refugees with a residence permit priority for social rental housing.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet vluchtelingen met een "
+        },
+        {
+          "text": "verblijfsvergunning",
+          "glossary": "The right to reside in the Netherlands. The term can refer to the right itself or to the card that shows someone has that right."
+        },
+        {
+          "text": " voorrang geven op een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should give refugees with a residence permit priority for social rental housing.",
-      "themeEn": "Priority for refugees"
+      "isShootout": false
     },
     {
       "id": 206661,
@@ -2535,12 +2581,22 @@
       "theme": "Coffeeshops (cannabis cafés)",
       "themeId": "coffeeshops",
       "title": "The municipality should prevent the opening of new coffeeshops.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de vestiging van nieuwe "
+        },
+        {
+          "text": "coffeeshops",
+          "glossary": "Shop or café where you can buy and smoke soft drugs (hash, weed)."
+        },
+        {
+          "text": " tegenhouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should prevent the opening of new coffeeshops.",
-      "themeEn": "Coffeeshops (cannabis cafés)"
+      "isShootout": false
     },
     {
       "id": 206659,
@@ -2548,12 +2604,22 @@
       "theme": "Sports clubs",
       "themeId": "sportverenigingen",
       "title": "If sports clubs are struggling, the municipality should contribute financially.",
+      "titleParts": [
+        {
+          "text": " Als sportverenigingen het moeilijk hebben, moet de gemeente "
+        },
+        {
+          "text": "financieel",
+          "glossary": "Something related to money."
+        },
+        {
+          "text": " bijdragen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "If sports clubs are struggling, the municipality should contribute financially.",
-      "themeEn": "Sports clubs"
+      "isShootout": false
     },
     {
       "id": 206694,
@@ -2564,9 +2630,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should make a plan for each neighborhood for a clear alternative to natural gas.",
-      "themeEn": "Alternative to natural gas"
+      "isShootout": false
     },
     {
       "id": 206670,
@@ -2574,12 +2638,22 @@
       "theme": "Environmental zone",
       "themeId": "milieuzone",
       "title": "Capelle aan den IJssel should introduce an environmental zone to keep polluting vehicles out of the center.",
+      "titleParts": [
+        {
+          "text": " Capelle aan den IJssel moet een "
+        },
+        {
+          "text": "milieuzone",
+          "glossary": "An area where very polluting cars are not allowed to drive."
+        },
+        {
+          "text": " invoeren om vervuilende voertuigen uit het centrum te weren."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Capelle aan den IJssel should introduce an environmental zone to keep polluting vehicles out of the center.",
-      "themeEn": "Environmental zone"
+      "isShootout": false
     },
     {
       "id": 206695,
@@ -2587,12 +2661,22 @@
       "theme": "Wind turbines",
       "themeId": "windturbines",
       "title": "The municipality should oppose the construction of wind turbines.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de bouw van "
+        },
+        {
+          "text": "windturbines",
+          "glossary": "Large wind turbines that convert wind power into electricity. They can be up to 150 meters tall (hub height)."
+        },
+        {
+          "text": " tegengaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should oppose the construction of wind turbines.",
-      "themeEn": "Wind turbines"
+      "isShootout": false
     },
     {
       "id": 206696,
@@ -2603,9 +2687,7 @@
       "moreInfo": "Not all cycle paths in the Schollebos in the Schollevaar district have lighting. There is debate about whether they should, or whether existing lighting should actually be dimmed more often.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "All bicycle paths in the Schollebos should have lighting.",
-      "themeEn": "Cycle path lighting"
+      "isShootout": false
     },
     {
       "id": 206666,
@@ -2613,12 +2695,29 @@
       "theme": "Social housing",
       "themeId": "sociale-huurwoningen",
       "title": "At least 35% of new homes built in Capelle aan den IJssel should be social rental housing. Currently 28% of homes in the Netherlands are social rental housing.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in Capelle aan den IJssel moet minimaal 35% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " zijn. In Nederland is nu 28% van de woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "At least 35% of new homes built in Capelle aan den IJssel should be social rental housing. Currently 28% of homes in the Netherlands are social rental housing.",
-      "themeEn": "Social housing"
+      "isShootout": false
     },
     {
       "id": 206698,
@@ -2629,9 +2728,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Capelle aan den IJssel should allow the establishment of a casino or gambling hall.",
-      "themeEn": "Casino and gambling hall"
+      "isShootout": false
     },
     {
       "id": 206687,
@@ -2639,12 +2736,29 @@
       "theme": "Advertisements promoting adultery",
       "themeId": "reclame-overspel",
       "title": "The municipality should ban advertising in public spaces that encourages adultery.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet reclame in de "
+        },
+        {
+          "text": "openbare ruimte",
+          "glossary": "Outdoor areas that are accessible to everyone, such as streets, squares, and parks."
+        },
+        {
+          "text": " verbieden die oproept tot "
+        },
+        {
+          "text": "overspel",
+          "glossary": "Having a (sexual) relationship with someone other than one's steady partner, without that partner's consent."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should ban advertising in public spaces that encourages adultery.",
-      "themeEn": "Advertisements promoting adultery"
+      "isShootout": false
     },
     {
       "id": 206699,
@@ -2655,9 +2769,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should stick to the plan to realize 10,000 new homes in Capelle aan den IJssel.",
-      "themeEn": "10,000 new homes"
+      "isShootout": false
     },
     {
       "id": 206691,
@@ -2668,9 +2780,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should require residents on welfare who do not speak Dutch well to take a language course.",
-      "themeEn": "Language course"
+      "isShootout": false
     },
     {
       "id": 206704,
@@ -2678,12 +2788,22 @@
       "theme": "Community service",
       "themeId": "maatschappelijke-diensttijd",
       "title": "The municipality should promote that more young people complete a community service year in Capelle aan den IJssel.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet zich ervoor inzetten dat meer jongeren een "
+        },
+        {
+          "text": "maatschappelijke diensttijd",
+          "glossary": "A period in which young people (ages 12–30) voluntarily help others to learn and develop their talents, for example at a sports club or in elderly care."
+        },
+        {
+          "text": " in Capelle aan den IJssel gaan vervullen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should promote that more young people complete a community service year in Capelle aan den IJssel.",
-      "themeEn": "Community service"
+      "isShootout": false
     },
     {
       "id": 206701,
@@ -2694,9 +2814,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should provide financial support to elderly people who want to move to a more suitable home.",
-      "themeEn": "Senior mobility"
+      "isShootout": false
     },
     {
       "id": 206707,
@@ -2707,9 +2825,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should invest more money in homeless shelters so there are always enough places.",
-      "themeEn": "Homeless shelter"
+      "isShootout": false
     },
     {
       "id": 206712,
@@ -2717,12 +2833,22 @@
       "theme": "Pet",
       "themeId": "huisdier",
       "title": "The municipality should fund an awareness campaign for prospective pet owners about the responsibilities of owning a pet.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld steken in een "
+        },
+        {
+          "text": "bewustwordingscampagne",
+          "glossary": "A series of advertisements to inform people about a topic and encourage them to think or change."
+        },
+        {
+          "text": " bij de aanschaf van een huisdier over de verplichtingen die dat met zich meebrengt."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should fund an awareness campaign for prospective pet owners about the responsibilities of owning a pet.",
-      "themeEn": "Pet"
+      "isShootout": false
     },
     {
       "id": 206710,
@@ -2733,9 +2859,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People aged 67 and over should be able to travel free on public transport in Capelle aan den IJssel, at the municipality's expense.",
-      "themeEn": "Free public transport for 67+"
+      "isShootout": false
     },
     {
       "id": 206680,
@@ -2743,12 +2867,29 @@
       "theme": "Cultural fund",
       "themeId": "cultuurfonds",
       "title": "The municipality should establish a local cultural fund to support cultural initiatives and projects.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet een lokaal "
+        },
+        {
+          "text": "cultuurfonds",
+          "glossary": "Money set aside for culture, commonly called a \"pot.\""
+        },
+        {
+          "text": " instellen om culturele "
+        },
+        {
+          "text": "initiatieven",
+          "glossary": "Ideas from citizens to improve their neighborhood, street or district."
+        },
+        {
+          "text": " en projecten te ondersteunen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should establish a local cultural fund to support cultural initiatives and projects.",
-      "themeEn": "Cultural fund"
+      "isShootout": false
     },
     {
       "id": 206709,
@@ -2759,9 +2900,7 @@
       "moreInfo": "The metro track at De Schenkel is formally located on Rotterdam territory. Any study into placing it on stilts will therefore have to be carried out by Capelle aan den IJssel together with the municipality of Rotterdam.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should investigate whether the metro line at Schenkel can be elevated on pillars.",
-      "themeEn": "Elevating the Schenkel metro line"
+      "isShootout": false
     },
     {
       "id": 206705,
@@ -2769,12 +2908,29 @@
       "theme": "Basic job",
       "themeId": "basisbaan",
       "title": "The municipality should offer residents on welfare a basic job while allowing them to keep their benefits.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet inwoners met een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Money from the municipality for people who have no income or personal funds."
+        },
+        {
+          "text": " een "
+        },
+        {
+          "text": "basisbaan",
+          "glossary": "A job with social benefit, intended for someone who has difficulty finding other work."
+        },
+        {
+          "text": " aanbieden met behoud van bijstand."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should offer residents on welfare a basic job while allowing them to keep their benefits.",
-      "themeEn": "Basic job"
+      "isShootout": false
     },
     {
       "id": 206713,
@@ -2782,12 +2938,29 @@
       "theme": "Sex work",
       "themeId": "sekswerk",
       "title": "The municipality should stop issuing permits to sex workers.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet stoppen met het verstrekken van "
+        },
+        {
+          "text": "vergunning",
+          "glossary": "Permission from the municipality to do something."
+        },
+        {
+          "text": " en aan "
+        },
+        {
+          "text": "sekswerkers",
+          "glossary": "A person who offers sexual services or acts for payment."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should stop issuing permits to sex workers.",
-      "themeEn": "Sex work"
+      "isShootout": false
     },
     {
       "id": 206702,
@@ -2795,12 +2968,22 @@
       "theme": "Rotterdam law",
       "themeId": "rotterdamwet",
       "title": "The Rotterdam Act should be abolished in Capelle aan den IJssel.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "Rotterdamwet",
+          "glossary": "With the Rotterdam Act (Law on special measures for major urban problems) the municipality, together with housing corporations, can set requirements including income and education for people who want to rent a social rental home."
+        },
+        {
+          "text": " moet in Capelle aan den IJssel worden afgeschaft."
+        }
+      ],
       "moreInfo": "The Rotterdam Act allows the municipality to temporarily impose stricter requirements on new residents. People with low incomes or a history of nuisance can, for example, be excluded. The aim of the law is to improve the livability of neighborhoods.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The Rotterdam Act should be abolished in Capelle aan den IJssel.",
-      "themeEn": "Rotterdam law"
+      "isShootout": false
     },
     {
       "id": 206650,
@@ -2808,12 +2991,22 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "Residents of Capelle aan den IJssel should be able to express their opinion on important issues via a referendum.",
+      "titleParts": [
+        {
+          "text": " De inwoners van Capelle aan den IJssel moeten over belangrijke onderwerpen hun mening kunnen geven via een "
+        },
+        {
+          "text": "referendum",
+          "glossary": "A public consultation where residents can express their opinion on a political issue. The municipal council is not obliged to follow the result; legally it cannot."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents of Capelle aan den IJssel should be able to express their opinion on important issues via a referendum.",
-      "themeEn": "Referendum"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

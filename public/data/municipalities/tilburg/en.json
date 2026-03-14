@@ -3224,9 +3224,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "During Carnival there should be a separate square for young people aged 17 and under.",
-      "themeEn": "Carnival"
+      "isShootout": false
     },
     {
       "id": 139821,
@@ -3237,9 +3235,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The Ringbaan-West should remain a four-lane road.",
-      "themeEn": "Ring Road West"
+      "isShootout": false
     },
     {
       "id": 139775,
@@ -3247,12 +3243,29 @@
       "theme": "Tax on buildings",
       "themeId": "belasting-op-gebouwen",
       "title": "The property tax (ozb) should be increased.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "onroerendezaakbelasting",
+          "glossary": "Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "ozb",
+          "glossary": "Property tax. Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": ") moet omhoog."
+        }
+      ],
       "moreInfo": "Property tax (ozb) is a municipal tax. This tax covers buildings such as homes and shops. Owners of homes pay this tax. For commercial properties the owners and sometimes the users pay. The amount of ozb is not the same in every municipality. The municipal council decides how much ozb people must pay. The council also decides what the municipality spends the ozb revenue on.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The property tax (ozb) should be increased.",
-      "themeEn": "Tax on buildings"
+      "isShootout": false
     },
     {
       "id": 139814,
@@ -3263,9 +3276,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allow new homes in Tilburg that are smaller than 50 square meters.",
-      "themeEn": "Small homes"
+      "isShootout": false
     },
     {
       "id": 139773,
@@ -3276,9 +3287,7 @@
       "moreInfo": "In Tilburg there are 22 neighborhood and village councils. How much money they can spend depends on subsidies they receive from the municipality. Residents can propose ideas and the municipal council decides whether to grant subsidies for them. The neighborhood and village councils participate in those decisions. They therefore do not receive a fixed annual amount of money from the municipality.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The neighborhood and village councils should receive more funding.",
-      "themeEn": "Funding for neighborhood councils"
+      "isShootout": false
     },
     {
       "id": 139786,
@@ -3289,9 +3298,7 @@
       "moreInfo": "According to the municipality of Tilburg, there are about 105,000 trees (not including forests). Sometimes a tree must be removed, for example if it is diseased. At the moment the municipality plants one new tree in return, either in the same spot or nearby.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "For every tree cut down, the municipality should plant two new trees.",
-      "themeEn": "Trees"
+      "isShootout": false
     },
     {
       "id": 139785,
@@ -3299,12 +3306,22 @@
       "theme": "Housing for foreign workers",
       "themeId": "huisvesting-buitenlandse-werknemers",
       "title": "On business parks at the edge of the city there should be more large housing complexes for labor migrants.",
+      "titleParts": [
+        {
+          "text": " Op bedrijventerreinen aan de rand van de stad moeten meer grote wooncomplexen komen voor "
+        },
+        {
+          "text": "arbeidsmigranten",
+          "glossary": "People from another country who work temporarily in the Netherlands."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "On business parks at the edge of the city there should be more large housing complexes for labor migrants.",
-      "themeEn": "Housing for foreign workers"
+      "isShootout": false
     },
     {
       "id": 139799,
@@ -3315,9 +3332,7 @@
       "moreInfo": "The artwork Draaiend Huis (Turning House) was created by John Körmeling. It stands on the Hasselt roundabout. The work is a freestanding terraced house that rotates around the roundabout in the direction of traffic. Since the end of 2024 the artwork has been stationary because its technical installation needs to be replaced.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should stop maintaining the Draaiend Huis, an artwork on the Hasselt roundabout.",
-      "themeEn": "Rotating house"
+      "isShootout": false
     },
     {
       "id": 139802,
@@ -3325,12 +3340,22 @@
       "theme": "Coffeeshops (cannabis cafés)",
       "themeId": "coffeeshops",
       "title": "The municipality should prevent the opening of new coffeeshops.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de vestiging van nieuwe "
+        },
+        {
+          "text": "coffeeshops",
+          "glossary": "Shops or cafés where you can buy and smoke soft drugs (hash, weed)."
+        },
+        {
+          "text": " tegenhouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should prevent the opening of new coffeeshops.",
-      "themeEn": "Coffeeshops (cannabis cafés)"
+      "isShootout": false
     },
     {
       "id": 139774,
@@ -3338,12 +3363,22 @@
       "theme": "Citizens' assembly",
       "themeId": "burgerberaad",
       "title": "Tilburg should stop the citizens' assembly that advises the municipal council.",
+      "titleParts": [
+        {
+          "text": " Tilburg moet stoppen met het "
+        },
+        {
+          "text": "burgerberaad",
+          "glossary": "A group of residents chosen by lot that advises politicians or helps decide on a specific issue."
+        },
+        {
+          "text": ", dat advies geeft aan de gemeenteraad."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Tilburg should stop the citizens' assembly that advises the municipal council.",
-      "themeEn": "Citizens' assembly"
+      "isShootout": false
     },
     {
       "id": 139781,
@@ -3354,9 +3389,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "No businesses or other buildings should be built on Wijkevoort between Tilburg and Gilze.",
-      "themeEn": "Wijkevoort"
+      "isShootout": false
     },
     {
       "id": 139815,
@@ -3364,12 +3397,29 @@
       "theme": "Work requirement for welfare recipients",
       "themeId": "tegenprestatie-voor-uitkering",
       "title": "People receiving social assistance should, in return, do socially useful work.",
+      "titleParts": [
+        {
+          "text": " Mensen die een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Money from the municipality for people who have no income or personal funds."
+        },
+        {
+          "text": " krijgen, moeten in ruil daarvoor "
+        },
+        {
+          "text": "maatschappelijk zinvol werk",
+          "glossary": "For example cleaning the streets or keeping company and supporting elderly residents."
+        },
+        {
+          "text": " doen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People receiving social assistance should, in return, do socially useful work.",
-      "themeEn": "Work requirement for welfare recipients"
+      "isShootout": false
     },
     {
       "id": 139807,
@@ -3380,9 +3430,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality rents land to farmers. When the lease expires, the municipality should no longer rent that land to farmers who keep livestock.",
-      "themeEn": "Livestock on municipal land"
+      "isShootout": false
     },
     {
       "id": 139803,
@@ -3393,9 +3441,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be more camera surveillance in Tilburg's nightlife district.",
-      "themeEn": "Camera surveillance"
+      "isShootout": false
     },
     {
       "id": 139788,
@@ -3406,9 +3452,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be a free public toilet on every square in the city center.",
-      "themeEn": "Toilet"
+      "isShootout": false
     },
     {
       "id": 139782,
@@ -3416,12 +3460,29 @@
       "theme": "Priority for refugees",
       "themeId": "voorrang-voor-vluchtelingen",
       "title": "The municipality must continue to give refugees with a residence permit priority for social housing.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet vluchtelingen met een "
+        },
+        {
+          "text": "verblijfsvergunning",
+          "glossary": "The right to reside in the Netherlands. The term can refer to the right itself or to the card that shows someone has that right."
+        },
+        {
+          "text": " voorrang blijven geven op een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must continue to give refugees with a residence permit priority for social housing.",
-      "themeEn": "Priority for refugees"
+      "isShootout": false
     },
     {
       "id": 139823,
@@ -3432,9 +3493,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Tilburg should introduce paid parking in more neighborhoods.",
-      "themeEn": "Parking permits"
+      "isShootout": false
     },
     {
       "id": 139822,
@@ -3442,12 +3501,22 @@
       "theme": "Environmental zone",
       "themeId": "milieuzone",
       "title": "Tilburg should abolish the environmental zone that prevents polluting vehicles from entering the city center.",
+      "titleParts": [
+        {
+          "text": " Tilburg moet de "
+        },
+        {
+          "text": "milieuzone",
+          "glossary": "An area where very polluting cars are not allowed to drive."
+        },
+        {
+          "text": " afschaffen die ervoor zorgt dat vervuilende voertuigen niet in het centrum mogen komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Tilburg should abolish the environmental zone that prevents polluting vehicles from entering the city center.",
-      "themeEn": "Environmental zone"
+      "isShootout": false
     },
     {
       "id": 139791,
@@ -3458,9 +3527,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should ban dogs from running off-leash in nature areas and parks.",
-      "themeEn": "Unleashed dogs"
+      "isShootout": false
     },
     {
       "id": 139809,
@@ -3468,12 +3535,29 @@
       "theme": "Social housing",
       "themeId": "sociale-huur",
       "title": "At least 40% of newly built homes in Tilburg should be social rental housing. Currently about 31% of homes in Tilburg are social rental housing.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in Tilburg moet minimaal 40% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " zijn. Nu is ongeveer 31% van de woningen in Tilburg een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "At least 40% of newly built homes in Tilburg should be social rental housing. Currently about 31% of homes in Tilburg are social rental housing.",
-      "themeEn": "Social housing"
+      "isShootout": false
     },
     {
       "id": 139826,
@@ -3484,9 +3568,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Tilburg should have an Islamic cemetery.",
-      "themeEn": "Muslim cemetery"
+      "isShootout": false
     },
     {
       "id": 139793,
@@ -3497,9 +3579,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should support Omroep Tilburg with additional funding.",
-      "themeEn": "Local media"
+      "isShootout": false
     },
     {
       "id": 139787,
@@ -3510,9 +3590,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should ban solar panels on agricultural land.",
-      "themeEn": "Solar panels on farmland"
+      "isShootout": false
     },
     {
       "id": 139812,
@@ -3523,9 +3601,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should only allow housing construction within existing neighborhoods and districts.",
-      "themeEn": "Housing construction"
+      "isShootout": false
     },
     {
       "id": 139830,
@@ -3536,9 +3612,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should invest in new housing where older people can live together and receive care.",
-      "themeEn": "Knarrenhof (senior cohousing)"
+      "isShootout": false
     },
     {
       "id": 139816,
@@ -3546,12 +3620,22 @@
       "theme": "Veterinary costs",
       "themeId": "kosten-dierenarts",
       "title": "The municipality should pay the veterinarian's bill for people on a minimum income.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de rekening van de dierenarts betalen voor mensen met een "
+        },
+        {
+          "text": "minimuminkomen",
+          "glossary": "Maximum €1645 (gross) per month, for one person (single, aged 21 or older)."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should pay the veterinarian's bill for people on a minimum income.",
-      "themeEn": "Veterinary costs"
+      "isShootout": false
     },
     {
       "id": 139780,
@@ -3562,9 +3646,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should always allow farmers to open, for example, a shop or a campsite at their farm.",
-      "themeEn": "Farmers"
+      "isShootout": false
     },
     {
       "id": 139818,
@@ -3572,12 +3654,29 @@
       "theme": "Youth services",
       "themeId": "jongerenwerk",
       "title": "The municipality should cut spending on youth work.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "bezuinigen",
+          "glossary": "Spending less money."
+        },
+        {
+          "text": " op het "
+        },
+        {
+          "text": "jongerenwerk",
+          "glossary": "People and organizations that help young people in the municipality with various things."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "Youth work is assistance and guidance for young people, on the street and in several youth centers in neighborhoods. In Tilburg this is provided by welfare organizations.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should cut spending on youth work.",
-      "themeEn": "Youth services"
+      "isShootout": false
     },
     {
       "id": 139828,
@@ -3588,9 +3687,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should continue to prohibit smoking at bus stops.",
-      "themeEn": "Smoking ban"
+      "isShootout": false
     },
     {
       "id": 139825,
@@ -3601,9 +3698,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should invest in a night bus between the center and the neighborhoods and villages.",
-      "themeEn": "Night bus"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

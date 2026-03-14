@@ -1831,6 +1831,18 @@
       "theme": "Milieustraat",
       "themeId": "milieustraat",
       "title": "Het inleveren van alle soorten afval bij de milieustraat moet gratis worden.",
+      "titleParts": [
+        {
+          "text": " Het inleveren van alle soorten afval bij de "
+        },
+        {
+          "text": "milieustraat",
+          "glossary": "Plek waar burgers en bedrijven verschillende soorten afval naartoe kunnen brengen. "
+        },
+        {
+          "text": " moet gratis worden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1870,6 +1882,18 @@
       "theme": "Kantoren worden woningen",
       "themeId": "kantoren-worden-woningen",
       "title": "Leegstaande kantoren moeten met subsidie van de gemeente worden omgebouwd tot woningen.",
+      "titleParts": [
+        {
+          "text": " Leegstaande kantoren moeten met "
+        },
+        {
+          "text": "subsidie",
+          "glossary": "Geld dat de overheid aan burgers, bedrijven en organisaties geeft om ze te steunen."
+        },
+        {
+          "text": " van de gemeente worden omgebouwd tot woningen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1883,6 +1907,18 @@
       "theme": "Toeristenbelasting",
       "themeId": "toeristenbelasting",
       "title": "De gemeente moet toeristenbelasting laten meestijgen met de prijs van de overnachting.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "toeristenbelasting",
+          "glossary": "De belasting die je moet betalen als je in een hotel of op een camping bijft slapen."
+        },
+        {
+          "text": " laten meestijgen met de prijs van de overnachting."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1935,6 +1971,25 @@
       "theme": "Sociale huurwoningen",
       "themeId": "sociale-huurwoningen",
       "title": "Van de nieuw te bouwen woningen in Noardeast-Fryslân moet minimaal 35% een sociale huurwoning zijn. In Nederland is nu 28% van de woningen een sociale huurwoning.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in Noardeast-Fryslân moet minimaal 35% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": " zijn. In Nederland is nu 28% van de woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1961,6 +2016,18 @@
       "theme": "City marketing",
       "themeId": "city-marketing",
       "title": "De gemeente moet geld blijven steken in de promotiecampagne voor Noardeast-Fryslân als aantrekkelijke vestigingsplaats voor bedrijven.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld blijven steken in de "
+        },
+        {
+          "text": "promotiecampagne",
+          "glossary": "Een serie reclames op bijvoorbeeld borden, televisie en sociale media."
+        },
+        {
+          "text": " voor Noardeast-Fryslân als aantrekkelijke vestigingsplaats voor bedrijven."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1974,6 +2041,18 @@
       "theme": "Asielzoekerscentrum",
       "themeId": "asielzoekerscentrum",
       "title": "In onze gemeente moet een asielzoekerscentrum (azc) komen.",
+      "titleParts": [
+        {
+          "text": " In onze gemeente moet een "
+        },
+        {
+          "text": "asielzoekerscentrum",
+          "glossary": "Opvangcentrum voor asielzoekers. Ze wonen daar tot besloten is of ze in Nederland mogen blijven. Een asielzoekerscentrum blijft langere tijd in een gemeente staan."
+        },
+        {
+          "text": " (azc) komen."
+        }
+      ],
       "moreInfo": "Volgens de landelijke Spreidingswet moet elke gemeente asielzoekers opvangen. Noardeast-Fryslân moet volgens de wet ongeveer 234 asielzoekers opvangen. Op dit moment zijn er geen opvangplekken voor asielzoekers in de gemeente.",
       "pro": "",
       "con": "",
@@ -2052,6 +2131,18 @@
       "theme": "Handhavers",
       "themeId": "handhavers",
       "title": "In Noardeast-Fryslân moeten meer gemeentelijke handhavers (boa’s) komen die zich met veiligheid bezighouden.",
+      "titleParts": [
+        {
+          "text": " In Noardeast-Fryslân moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "Mensen die voor de gemeente controleren of burgers en bedrijven zich aan de regels houden."
+        },
+        {
+          "text": " (boa’s) komen die zich met veiligheid bezighouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2065,6 +2156,18 @@
       "theme": "Sportverenigingen",
       "themeId": "sportverenigingen",
       "title": "Als sportverenigingen het moeilijk hebben, moet de gemeente financieel bijdragen.",
+      "titleParts": [
+        {
+          "text": " Als sportverenigingen het moeilijk hebben, moet de gemeente "
+        },
+        {
+          "text": "financieel",
+          "glossary": "Iets dat met geld te maken heeft."
+        },
+        {
+          "text": " bijdragen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2091,6 +2194,18 @@
       "theme": "Gesubsidieerde banen",
       "themeId": "gesubsidieerde-banen",
       "title": "Er moeten veel meer gesubsidieerde banen voor langdurig werklozen komen in onze gemeente.",
+      "titleParts": [
+        {
+          "text": " Er moeten veel meer "
+        },
+        {
+          "text": "gesubsidieerde banen",
+          "glossary": "Door de overheid betaalde banen voor mensen die weinig kans maken op een gewone baan."
+        },
+        {
+          "text": " voor langdurig werklozen komen in onze gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2104,6 +2219,18 @@
       "theme": "Huurwoning statushouders",
       "themeId": "huurwoning-statushouders",
       "title": "Statushouders mogen geen voorrang krijgen bij de toewijzing van sociale huurwoningen.",
+      "titleParts": [
+        {
+          "text": " Statushouders mogen geen voorrang krijgen bij de toewijzing van "
+        },
+        {
+          "text": "sociale huurwoningen",
+          "glossary": "Huurwoningen die bij aanvang van de huur niet duurder zijn dan een bepaald bedrag. In 2026 is dat bedrag € 932,93 per maand."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2169,6 +2296,18 @@
       "theme": "Integratie",
       "themeId": "integratie",
       "title": "De gemeente moet meer geld uitgeven aan integratie van nieuwkomers in de maatschappij.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld uitgeven aan "
+        },
+        {
+          "text": "integratie",
+          "glossary": "Nieuwkomers leren de taal en gewoonten van Nederland."
+        },
+        {
+          "text": " van nieuwkomers in de maatschappij."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",

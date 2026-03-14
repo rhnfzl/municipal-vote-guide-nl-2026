@@ -2009,12 +2009,22 @@
       "theme": "Sports hall",
       "themeId": "sporthal",
       "title": "A large multifunctional sports hall should be built in the municipality of Maashorst.",
+      "titleParts": [
+        {
+          "text": " In de gemeente Maashorst moet een grote "
+        },
+        {
+          "text": "multifunctionele sporthal",
+          "glossary": "A building in which many different sports can be practiced."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "A large multifunctional sports hall should be built in the municipality of Maashorst.",
-      "themeEn": "Sports hall"
+      "isShootout": false
     },
     {
       "id": 215718,
@@ -2022,12 +2032,22 @@
       "theme": "Energy saving",
       "themeId": "energiebesparing",
       "title": "The municipality should provide more financial support to low-income residents who want to implement energy-saving measures in their homes.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer "
+        },
+        {
+          "text": "financiële steun",
+          "glossary": "Giving money to something or someone."
+        },
+        {
+          "text": " geven aan inwoners met weinig geld die in huis energiebesparende maatregelen willen nemen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should provide more financial support to low-income residents who want to implement energy-saving measures in their homes.",
-      "themeEn": "Energy saving"
+      "isShootout": false
     },
     {
       "id": 215703,
@@ -2035,12 +2055,22 @@
       "theme": "Enforcement officers",
       "themeId": "handhavers",
       "title": "Maashorst should have more municipal enforcement officers (BOAs).",
+      "titleParts": [
+        {
+          "text": " In Maashorst moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "People who, for the municipality, check whether citizens and businesses comply with the rules."
+        },
+        {
+          "text": " (boa’s) komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Maashorst should have more municipal enforcement officers (BOAs).",
-      "themeEn": "Enforcement officers"
+      "isShootout": false
     },
     {
       "id": 215682,
@@ -2048,12 +2078,28 @@
       "theme": "Shelter for asylum seekers",
       "themeId": "opvang-asielzoekers",
       "title": "the reception of asylum seekers should be distributed across all population centers of the municipality.",
+      "titleParts": [
+        {
+          "text": " De opvang van "
+        },
+        {
+          "text": "asielzoekers"
+        },
+        {
+          "text": " moet verdeeld worden over alle "
+        },
+        {
+          "text": "kernen",
+          "glossary": "A village or small town that is part of the municipality."
+        },
+        {
+          "text": " van de gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "the reception of asylum seekers should be distributed across all population centers of the municipality.",
-      "themeEn": "Shelter for asylum seekers"
+      "isShootout": false
     },
     {
       "id": 215705,
@@ -2064,9 +2110,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should ban fatbikes in certain places as soon as this becomes legally possible.",
-      "themeEn": "Fat bikes"
+      "isShootout": false
     },
     {
       "id": 215669,
@@ -2077,9 +2121,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should use as much artificial intelligence (AI) as possible to answer residents' questions more quickly.",
-      "themeEn": "Information services"
+      "isShootout": false
     },
     {
       "id": 215704,
@@ -2087,12 +2129,22 @@
       "theme": "Camera surveillance",
       "themeId": "cameratoezicht",
       "title": "There should be more CCTV camera surveillance in the municipality of Maashorst.",
+      "titleParts": [
+        {
+          "text": " In de gemeente Maashorst moet meer "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Monitoring of a building, area, or (groups of) people using security cameras."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be more CCTV camera surveillance in the municipality of Maashorst.",
-      "themeEn": "Camera surveillance"
+      "isShootout": false
     },
     {
       "id": 215686,
@@ -2100,12 +2152,22 @@
       "theme": "Tree felling",
       "themeId": "kappen-bomen",
       "title": "For every tree cut down in public spaces, two new trees must be planted.",
+      "titleParts": [
+        {
+          "text": " Voor elke gekapte boom in de "
+        },
+        {
+          "text": "openbare ruimte",
+          "glossary": "Outdoor areas that are accessible to everyone, such as streets, squares, and parks."
+        },
+        {
+          "text": " moeten twee nieuwe worden geplant."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "For every tree cut down in public spaces, two new trees must be planted.",
-      "themeEn": "Tree felling"
+      "isShootout": false
     },
     {
       "id": 215672,
@@ -2113,12 +2175,22 @@
       "theme": "Number of civil servants",
       "themeId": "aantal-ambtenaren",
       "title": "The municipality of Maashorst should make significant cuts to the number of civil servants.",
+      "titleParts": [
+        {
+          "text": " De gemeente Maashorst moet fors "
+        },
+        {
+          "text": "bezuinigen",
+          "glossary": "Spending less money."
+        },
+        {
+          "text": " op het aantal ambtenaren."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality of Maashorst should make significant cuts to the number of civil servants.",
-      "themeEn": "Number of civil servants"
+      "isShootout": false
     },
     {
       "id": 215700,
@@ -2129,9 +2201,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should provide financial support to associations that struggle to pay their energy bills.",
-      "themeEn": "Energy bill"
+      "isShootout": false
     },
     {
       "id": 215674,
@@ -2139,12 +2209,22 @@
       "theme": "Promotion",
       "themeId": "promotie",
       "title": "The municipality should spend less money on advertising or promoting Maashorst.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet minder geld steken in reclame of "
+        },
+        {
+          "text": "promotie",
+          "glossary": "A method or action to draw attention to something."
+        },
+        {
+          "text": " van Maashorst."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should spend less money on advertising or promoting Maashorst.",
-      "themeEn": "Promotion"
+      "isShootout": false
     },
     {
       "id": 215707,
@@ -2152,12 +2232,22 @@
       "theme": "Priority for housing",
       "themeId": "voorrang-huisvesting",
       "title": "When allocating a social rental home, applicants from the municipality should be given priority as much as possible.",
+      "titleParts": [
+        {
+          "text": " Bij de toewijzing van een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " moeten woningzoekenden uit de eigen gemeente zoveel mogelijk voorrang krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "When allocating a social rental home, applicants from the municipality should be given priority as much as possible.",
-      "themeEn": "Priority for housing"
+      "isShootout": false
     },
     {
       "id": 215678,
@@ -2165,12 +2255,29 @@
       "theme": "Workplaces",
       "themeId": "werkplekken",
       "title": "The municipality should allocate funds for workspaces for the self-employed in every population center of Maashorst.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld uittrekken voor werkplekken voor "
+        },
+        {
+          "text": "zelfstandigen",
+          "glossary": "These workers are also called freelancers or self-employed. They are not employed by a company and have no boss above them."
+        },
+        {
+          "text": " in elke "
+        },
+        {
+          "text": "kern",
+          "glossary": "A village or small town that is part of the municipality."
+        },
+        {
+          "text": " van Maashorst."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allocate funds for workspaces for the self-employed in every population center of Maashorst.",
-      "themeEn": "Workplaces"
+      "isShootout": false
     },
     {
       "id": 215675,
@@ -2181,9 +2288,7 @@
       "moreInfo": "The Noordelijke Peelpoort is an area that is important for the future of Maashorst. There is room for businesses that can provide new jobs. But it is also an area that plays a role in nature protection and in improving the living environment.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The Noordelijke Peelpoort should develop into an important business center.",
-      "themeEn": "Northern Peel Gateway"
+      "isShootout": false
     },
     {
       "id": 215723,
@@ -2191,12 +2296,22 @@
       "theme": "Shared transport",
       "themeId": "deelvervoer",
       "title": "The municipality should invest in an information campaign about the benefits of shared transportation such as shared scooters or car-sharing.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld steken in een voorlichtingscampagne over de voordelen van "
+        },
+        {
+          "text": "deelvervoer",
+          "glossary": "This involves sharing, for example, a car, (cargo) bike or scooter with others."
+        },
+        {
+          "text": " zoals deelscooter of deelauto."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should invest in an information campaign about the benefits of shared transportation such as shared scooters or car-sharing.",
-      "themeEn": "Shared transport"
+      "isShootout": false
     },
     {
       "id": 215687,
@@ -2204,12 +2319,22 @@
       "theme": "Greening of public spaces",
       "themeId": "vergroening-openbare-ruimte",
       "title": "When creating flowerbeds, green roofs and parking lots with permeable paving, Volkel should be given priority.",
+      "titleParts": [
+        {
+          "text": " Bij de aanleg van bloemperken, groene daken en parkeerplaatsen met "
+        },
+        {
+          "text": "waterdoorlatende bestrating",
+          "glossary": "These are special tiles or pavers that let rainwater drain easily into the ground, for example because they have holes."
+        },
+        {
+          "text": " moet Volkel voorrang krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "When creating flowerbeds, green roofs and parking lots with permeable paving, Volkel should be given priority.",
-      "themeEn": "Greening of public spaces"
+      "isShootout": false
     },
     {
       "id": 215670,
@@ -2217,12 +2342,29 @@
       "theme": "Citizens' assembly",
       "themeId": "burgerberaad",
       "title": "The municipality should run a pilot citizens' assembly that gives advice to the municipal council. A citizens' assembly consists of residents selected by lot.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet een proef doen met een "
+        },
+        {
+          "text": "burgerberaad",
+          "glossary": "A group of residents chosen by lot that advises politicians or helps decide on a specific issue."
+        },
+        {
+          "text": " , dat advies geeft aan de gemeenteraad. In een "
+        },
+        {
+          "text": "burgerberaad",
+          "glossary": "A group of residents chosen by lot that advises politicians or helps decide on a specific issue."
+        },
+        {
+          "text": " zitten inwoners die door loting zijn uitgekozen."
+        }
+      ],
       "moreInfo": "A citizen assembly consists of residents selected by lottery to discuss an important topic. They provide advice to the municipality. A citizen assembly ensures broader involvement: residents can calmly and well-informed make recommendations together. On the other hand, a citizen assembly costs time and money, and the municipal council—regardless of the advice—always makes its own decision.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should run a pilot citizens' assembly that gives advice to the municipal council. A citizens' assembly consists of residents selected by lot.",
-      "themeEn": "Citizens' assembly"
+      "isShootout": false
     },
     {
       "id": 215688,
@@ -2230,12 +2372,22 @@
       "theme": "Village competition",
       "themeId": "dorpscompetitie",
       "title": "The municipality should fund a competition in which the population centers of Maashorst compete against each other in sports.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld steken in een competitie waarbij de "
+        },
+        {
+          "text": "kernen",
+          "glossary": "A village or small town that is part of the municipality."
+        },
+        {
+          "text": " van Maashorst het tijdens sportwedstrijden tegen elkaar opnemen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should fund a competition in which the population centers of Maashorst compete against each other in sports.",
-      "themeEn": "Village competition"
+      "isShootout": false
     },
     {
       "id": 215697,
@@ -2243,12 +2395,29 @@
       "theme": "Cultural venue",
       "themeId": "cultuurpodium",
       "title": "Each population center in Maashorst should have its own cultural venue.",
+      "titleParts": [
+        {
+          "text": " Elke "
+        },
+        {
+          "text": "kern",
+          "glossary": "A village or small town that is part of the municipality."
+        },
+        {
+          "text": " van Maashorst moet een eigen "
+        },
+        {
+          "text": "cultuurpodium",
+          "glossary": "Building with a raised platform where, for example, musicians, actors and comedians perform."
+        },
+        {
+          "text": " krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Each population center in Maashorst should have its own cultural venue.",
-      "themeEn": "Cultural venue"
+      "isShootout": false
     },
     {
       "id": 215691,
@@ -2256,12 +2425,29 @@
       "theme": "Wind turbines and solar parks",
       "themeId": "windmolens-en-zonneparken",
       "title": "The municipality should oppose the construction of solar parks and wind turbines.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet zich verzetten tegen de komst van "
+        },
+        {
+          "text": "zonneparken",
+          "glossary": "Fields with solar panels to generate electricity."
+        },
+        {
+          "text": " en "
+        },
+        {
+          "text": "windmolens",
+          "glossary": "These are modern wind turbines that convert wind power into electricity and can be up to 150 meters high."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should oppose the construction of solar parks and wind turbines.",
-      "themeEn": "Wind turbines and solar parks"
+      "isShootout": false
     },
     {
       "id": 215710,
@@ -2272,9 +2458,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should buy land more often to gain more influence over housing development in Maashorst.",
-      "themeEn": "Land purchases"
+      "isShootout": false
     },
     {
       "id": 215729,
@@ -2282,12 +2466,22 @@
       "theme": "Nuisance",
       "themeId": "overlast",
       "title": "Temporary housing should be provided in a quiet location in Maashorst for people with mental health problems who cause disturbances.",
+      "titleParts": [
+        {
+          "text": " Op een rustige plek in Maashorst moeten tijdelijke woningen komen voor mensen met "
+        },
+        {
+          "text": "psychische problemen",
+          "glossary": "You then suffer greatly from, for example, anxiety, depression or stress."
+        },
+        {
+          "text": " die overlast veroorzaken."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Temporary housing should be provided in a quiet location in Maashorst for people with mental health problems who cause disturbances.",
-      "themeEn": "Nuisance"
+      "isShootout": false
     },
     {
       "id": 215692,
@@ -2295,12 +2489,22 @@
       "theme": "Livestock farming",
       "themeId": "veeteelt",
       "title": "The municipality should ban the expansion of intensive livestock farming in Maashorst.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet uitbreiding van de "
+        },
+        {
+          "text": "intensieve veeteelt",
+          "glossary": "Livestock farming in which, among other animals, pigs, chickens or goats are kept on a relatively small area."
+        },
+        {
+          "text": " in Maashorst verbieden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should ban the expansion of intensive livestock farming in Maashorst.",
-      "themeEn": "Livestock farming"
+      "isShootout": false
     },
     {
       "id": 215716,
@@ -2308,12 +2512,22 @@
       "theme": "Informal care",
       "themeId": "mantelzorg",
       "title": "People receiving social assistance who care for a family member or acquaintance do not have to apply for jobs.",
+      "titleParts": [
+        {
+          "text": " Mensen met een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Money from the municipality for people who have no income or personal funds."
+        },
+        {
+          "text": " die een familielid of bekende verzorgen, hoeven niet te solliciteren."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People receiving social assistance who care for a family member or acquaintance do not have to apply for jobs.",
-      "themeEn": "Informal care"
+      "isShootout": false
     },
     {
       "id": 215730,
@@ -2321,12 +2535,22 @@
       "theme": "Care cooperatives",
       "themeId": "zorgcoperaties",
       "title": "The municipality should provide funding to care cooperatives run by residents who help each other.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld geven aan "
+        },
+        {
+          "text": "zorgcoöperaties",
+          "glossary": "These are usually initiatives by neighborhood residents who arrange care for other neighbors themselves."
+        },
+        {
+          "text": " van inwoners die elkaar helpen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should provide funding to care cooperatives run by residents who help each other.",
-      "themeEn": "Care cooperatives"
+      "isShootout": false
     },
     {
       "id": 215689,
@@ -2337,9 +2561,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should give neighborhoods a fixed amount of money that residents can use to improve their neighborhood.",
-      "themeEn": "Neighborhood budget"
+      "isShootout": false
     },
     {
       "id": 215724,
@@ -2350,9 +2572,7 @@
       "moreInfo": "In Uden there are currently two parking garages: Promenade and Brabantplein.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "A third parking garage should be built in Uden.",
-      "themeEn": "Parking garage"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

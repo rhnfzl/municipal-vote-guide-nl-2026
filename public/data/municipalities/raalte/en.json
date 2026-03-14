@@ -1204,9 +1204,7 @@
       "moreInfo": "The municipality determines the opening hours of restaurants and cafes. These rules are in the General Local Regulation (APV). Currently restaurants and cafes in the municipality of Raalte must be closed to visitors between 02:00 and 07:00.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The opening hours of restaurants and cafés should be extended.",
-      "themeEn": "Opening hours for hospitality venues"
+      "isShootout": false
     },
     {
       "id": 230473,
@@ -1214,12 +1212,22 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "Residents must be given the possibility to organize a consultative referendum to express their opinion on a municipal plan.",
+      "titleParts": [
+        {
+          "text": " Inwoners moeten de mogelijkheid krijgen een raadgevend "
+        },
+        {
+          "text": "referendum",
+          "glossary": "A public consultation where residents can express their opinion on a political issue. The municipal council is not obliged to follow the result; legally it cannot."
+        },
+        {
+          "text": " te organiseren. Zij kunnen dan hun mening geven over een plan van de gemeente."
+        }
+      ],
       "moreInfo": "In an advisory referendum residents can give their opinion on a municipal plan or decision by voting for or against a single issue. The result is an advice to the municipal council, which means the council ultimately decides and is not obliged to follow the outcome.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents must be given the possibility to organize a consultative referendum to express their opinion on a municipal plan.",
-      "themeEn": "Referendum"
+      "isShootout": false
     },
     {
       "id": 230483,
@@ -1227,12 +1235,22 @@
       "theme": "Tourist tax",
       "themeId": "toeristenbelasting",
       "title": "The tourist tax must be increased. The rate is now €1.55 per overnight stay per person.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "toeristenbelasting",
+          "glossary": "The tax you must pay when you stay overnight in a hotel or at a campsite."
+        },
+        {
+          "text": " moet omhoog. Het tarief is nu € 1,55 per overnachting per persoon."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The tourist tax must be increased. The rate is now €1.55 per overnight stay per person.",
-      "themeEn": "Tourist tax"
+      "isShootout": false
     },
     {
       "id": 230480,
@@ -1243,9 +1261,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must not impose extra rules on entrepreneurs beyond national regulations.",
-      "themeEn": "Entrepreneurs"
+      "isShootout": false
     },
     {
       "id": 230487,
@@ -1256,9 +1272,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must speed up the legally required reception of asylum seekers.",
-      "themeEn": "Asylum seekers' center"
+      "isShootout": false
     },
     {
       "id": 230475,
@@ -1266,12 +1280,22 @@
       "theme": "Town hall",
       "themeId": "gemeentehuis",
       "title": "Raalte must thoroughly renovate the existing town hall.",
+      "titleParts": [
+        {
+          "text": " Raalte moet het bestaande gemeentehuis grondig "
+        },
+        {
+          "text": "renoveren",
+          "glossary": "Repairing or partially renewing an existing building."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Raalte must thoroughly renovate the existing town hall.",
-      "themeEn": "Town hall"
+      "isShootout": false
     },
     {
       "id": 230484,
@@ -1279,12 +1303,29 @@
       "theme": "Priority for recognized refugees",
       "themeId": "voorrang-statushouders",
       "title": "Recognized refugees should not be given priority for social rental housing.",
+      "titleParts": [
+        {
+          "text": ""
+        },
+        {
+          "text": "Statushouders",
+          "glossary": "Refugees who have been granted a residence permit and are therefore allowed to stay in the Netherlands."
+        },
+        {
+          "text": " mogen geen voorrang krijgen op "
+        },
+        {
+          "text": "sociale huurwoningen",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Recognized refugees should not be given priority for social rental housing.",
-      "themeEn": "Priority for recognized refugees"
+      "isShootout": false
     },
     {
       "id": 230488,
@@ -1292,12 +1333,29 @@
       "theme": "Large livestock farms",
       "themeId": "grote-veehouderijen",
       "title": "The municipality must take measures against the growth of large livestock farms in the rural area.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet maatregelen nemen tegen de groei van grote "
+        },
+        {
+          "text": "veehouderijen",
+          "glossary": "Farms where animals are kept, such as cows or pigs."
+        },
+        {
+          "text": " in het "
+        },
+        {
+          "text": "buitengebied",
+          "glossary": "Area within the municipality's borders but outside the towns or villages themselves; there are few houses and other buildings here."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must take measures against the growth of large livestock farms in the rural area.",
-      "themeEn": "Large livestock farms"
+      "isShootout": false
     },
     {
       "id": 230485,
@@ -1305,12 +1363,22 @@
       "theme": "Dispersed asylum accommodation",
       "themeId": "asielopvang-verspreid",
       "title": "Raalte must spread the reception of asylum seekers across multiple locations in the municipality.",
+      "titleParts": [
+        {
+          "text": " Raalte moet de opvang van "
+        },
+        {
+          "text": "asielzoekers",
+          "glossary": "People who have applied for asylum and are still waiting for a decision."
+        },
+        {
+          "text": " spreiden over meerdere plekken in de gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Raalte must spread the reception of asylum seekers across multiple locations in the municipality.",
-      "themeEn": "Dispersed asylum accommodation"
+      "isShootout": false
     },
     {
       "id": 230489,
@@ -1321,9 +1389,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should ban solar panels on agricultural land.",
-      "themeEn": "Solar panels on farmland"
+      "isShootout": false
     },
     {
       "id": 230491,
@@ -1331,12 +1397,22 @@
       "theme": "Lily cultivation",
       "themeId": "lelieteelt",
       "title": "The municipality must tighten the rules for lily cultivation in the rural area.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de regels voor de teelt van lelies in het "
+        },
+        {
+          "text": "buitengebied",
+          "glossary": "Area within the municipality's borders but outside the towns or villages themselves; there are few houses and other buildings here."
+        },
+        {
+          "text": " strenger maken."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must tighten the rules for lily cultivation in the rural area.",
-      "themeEn": "Lily cultivation"
+      "isShootout": false
     },
     {
       "id": 230486,
@@ -1344,12 +1420,22 @@
       "theme": "Language course for newcomers",
       "themeId": "taalcursus-nieuwkomers",
       "title": "The municipality must spend more money on Dutch language lessons for newcomers.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld uitgeven aan Nederlandse taallessen voor "
+        },
+        {
+          "text": "nieuwkomers",
+          "glossary": "People who are new to the Netherlands."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must spend more money on Dutch language lessons for newcomers.",
-      "themeEn": "Language course for newcomers"
+      "isShootout": false
     },
     {
       "id": 230492,
@@ -1357,12 +1443,22 @@
       "theme": "Sustainability regulations",
       "themeId": "duurzaamheidsregels",
       "title": "The municipality must not introduce stricter sustainability rules than national regulations.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geen strengere regels voor "
+        },
+        {
+          "text": "duurzaamheid",
+          "glossary": "Sustainability is taking into account the consequences for people, the environment and the future."
+        },
+        {
+          "text": " invoeren dan de landelijke regels."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must not introduce stricter sustainability rules than national regulations.",
-      "themeEn": "Sustainability regulations"
+      "isShootout": false
     },
     {
       "id": 230511,
@@ -1373,9 +1469,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must encourage converting agricultural land in Raalte into nature reserves.",
-      "themeEn": "Nature development"
+      "isShootout": false
     },
     {
       "id": 230504,
@@ -1383,12 +1477,22 @@
       "theme": "Pesticide-free zones",
       "themeId": "spuitvrije-zones",
       "title": "The buffer zones around homes where spraying of pesticides is prohibited must be wider than the national requirement.",
+      "titleParts": [
+        {
+          "text": " De zones rond woningen waarbinnen het spuiten van "
+        },
+        {
+          "text": "bestrijdingsmiddelen",
+          "glossary": "Substances used to control weeds, insects or diseases."
+        },
+        {
+          "text": " verboden is moeten ruimer worden dan wat landelijk verplicht is."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The buffer zones around homes where spraying of pesticides is prohibited must be wider than the national requirement.",
-      "themeEn": "Pesticide-free zones"
+      "isShootout": false
     },
     {
       "id": 230514,
@@ -1396,12 +1500,22 @@
       "theme": "First-time buyers",
       "themeId": "starters",
       "title": "It must remain possible for first-time buyers to buy a home while the land remains owned by the municipality.",
+      "titleParts": [
+        {
+          "text": " Het moet mogelijk blijven voor "
+        },
+        {
+          "text": "starters",
+          "glossary": "People buying a house for the first time who have never had a mortgage."
+        },
+        {
+          "text": " om een woning te kopen terwijl de grond eigendom blijft van de gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "It must remain possible for first-time buyers to buy a home while the land remains owned by the municipality.",
-      "themeEn": "First-time buyers"
+      "isShootout": false
     },
     {
       "id": 230499,
@@ -1412,9 +1526,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must give extra money to sports clubs that have their own facilities.",
-      "themeEn": "Sports clubs"
+      "isShootout": false
     },
     {
       "id": 230512,
@@ -1422,12 +1534,22 @@
       "theme": "Council for housing seekers",
       "themeId": "raad-voor-woningzoekenden",
       "title": "The municipality must establish a Council for Housing Applicants that participates in housing policy discussions.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet een Raad voor Woningzoekenden instellen die meepraat over het woon"
+        },
+        {
+          "text": "beleid",
+          "glossary": "A plan for how a problem will be addressed."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must establish a Council for Housing Applicants that participates in housing policy discussions.",
-      "themeEn": "Council for housing seekers"
+      "isShootout": false
     },
     {
       "id": 230526,
@@ -1435,12 +1557,22 @@
       "theme": "Infrastructure for housing development",
       "themeId": "infrastructuur-voor-woningbouw",
       "title": "The municipality may only permit housing construction once the required roads and other facilities have been built.",
+      "titleParts": [
+        {
+          "text": " De gemeente mag woningbouw pas toestaan als de benodigde wegen en andere "
+        },
+        {
+          "text": "voorzieningen",
+          "glossary": "Buildings or services needed for daily life, such as roads, sports facilities or healthcare."
+        },
+        {
+          "text": " zijn aangelegd."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality may only permit housing construction once the required roads and other facilities have been built.",
-      "themeEn": "Infrastructure for housing development"
+      "isShootout": false
     },
     {
       "id": 230503,
@@ -1448,12 +1580,22 @@
       "theme": "Enforcement officers",
       "themeId": "handhavers",
       "title": "Raalte must have more municipal enforcement officers (BOAs).",
+      "titleParts": [
+        {
+          "text": " In Raalte moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "People who, for the municipality, check whether citizens and businesses comply with the rules."
+        },
+        {
+          "text": " (boa’s) komen."
+        }
+      ],
       "moreInfo": "Enforcement officers (BOAs) provide supervision and enforcement in Raalte’s public space. They address people causing nuisance, check that rules are followed, and work with the police. Raalte currently has 2 BOAs working a total of 1.6 FTE. FTE means full-time equivalent: 1.6 FTE equals the hours of 1.6 full-time jobs. Because BOAs always operate in pairs, practical street deployment is 0.8 FTE.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Raalte must have more municipal enforcement officers (BOAs).",
-      "themeEn": "Enforcement officers"
+      "isShootout": false
     },
     {
       "id": 230515,
@@ -1461,12 +1603,29 @@
       "theme": "Social housing",
       "themeId": "sociale-huurwoningen",
       "title": "Of the newly built homes in Raalte, at least 35% must be social rental housing. In the Netherlands 28% of homes are currently social rental housing.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in Raalte moet minimaal 35% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " zijn. In Nederland is nu 28% van de woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "Social rental homes are low-rent houses intended for people with lower incomes. In 2026 the maximum rent at the start of a social rental contract may be €932.93. About 24% of the current homes in Raalte are social rental. For new construction the municipality agrees on the share of social rental homes. Often the 30-40-30 split is used: 30% social rental, 40% affordable owner-occupied, 30% higher-priced owner-occupied. This is also the rule in Raalte. The proposal concerns raising the share of social rental to at least 35%.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Of the newly built homes in Raalte, at least 35% must be social rental housing. In the Netherlands 28% of homes are currently social rental housing.",
-      "themeEn": "Social housing"
+      "isShootout": false
     },
     {
       "id": 230531,
@@ -1474,12 +1633,29 @@
       "theme": "Informal caregivers",
       "themeId": "mantelzorgers",
       "title": "The municipality must give informal caregivers an annual token of appreciation.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "mantelzorgers",
+          "glossary": "Someone who provides unpaid and often long-term care for sick family members or friends."
+        },
+        {
+          "text": " jaarlijks een "
+        },
+        {
+          "text": "attentie",
+          "glossary": "A small gift or gesture to show appreciation."
+        },
+        {
+          "text": " geven als blijk van waardering."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must give informal caregivers an annual token of appreciation.",
-      "themeEn": "Informal caregivers"
+      "isShootout": false
     },
     {
       "id": 230505,
@@ -1487,12 +1663,22 @@
       "theme": "Camera surveillance",
       "themeId": "cameratoezicht",
       "title": "The municipality of Raalte must install CCTV in locations with nuisance problems.",
+      "titleParts": [
+        {
+          "text": " In de gemeente Raalte moet "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Monitoring of a building, area, or (groups of) people using security cameras."
+        },
+        {
+          "text": " komen op plekken met overlast."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality of Raalte must install CCTV in locations with nuisance problems.",
-      "themeEn": "Camera surveillance"
+      "isShootout": false
     },
     {
       "id": 230523,
@@ -1503,9 +1689,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Cars must be kept out of the centers of the villages.",
-      "themeEn": "Car traffic"
+      "isShootout": false
     },
     {
       "id": 230517,
@@ -1516,9 +1700,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must spend less money on culture.",
-      "themeEn": "Redistribution of subsidies"
+      "isShootout": false
     },
     {
       "id": 230532,
@@ -1526,12 +1708,22 @@
       "theme": "Printed municipal guide",
       "themeId": "papieren-gemeentegids",
       "title": "The municipality of Raalte must annually distribute a printed municipal guide with an overview of care and welfare services.",
+      "titleParts": [
+        {
+          "text": " De gemeente Raalte moet jaarlijks een papieren gemeentegids verspreiden met een overzicht van zorg- en "
+        },
+        {
+          "text": "welzijnsvoorzieningen",
+          "glossary": "Activities and services that help people take part in society."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality of Raalte must annually distribute a printed municipal guide with an overview of care and welfare services.",
-      "themeEn": "Printed municipal guide"
+      "isShootout": false
     },
     {
       "id": 230521,
@@ -1539,12 +1731,22 @@
       "theme": "Support for job seekers",
       "themeId": "ondersteuning-werkzoekenden",
       "title": "The municipality must provide practical support to jobseekers, for example with transport and application guidance.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet werkzoekenden praktisch ondersteunen, bijvoorbeeld met vervoer en "
+        },
+        {
+          "text": "sollicitatiebegeleiding",
+          "glossary": "Help with searching for work and applying for jobs."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must provide practical support to jobseekers, for example with transport and application guidance.",
-      "themeEn": "Support for job seekers"
+      "isShootout": false
     },
     {
       "id": 230525,
@@ -1555,9 +1757,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "More parking spaces must be created in residential neighborhoods in the municipality of Raalte.",
-      "themeEn": "Parking spaces"
+      "isShootout": false
     },
     {
       "id": 230527,
@@ -1568,9 +1768,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must advocate for an eastern bypass around Raalte with a connection to the N35.",
-      "themeEn": "Eastern bypass"
+      "isShootout": false
     },
     {
       "id": 230500,
@@ -1581,9 +1779,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must design roundabouts with art and cultural features.",
-      "themeEn": "Art at roundabouts"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

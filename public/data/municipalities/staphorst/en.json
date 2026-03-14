@@ -1274,9 +1274,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There must be an event grounds in IJhorst.",
-      "themeEn": "Event site in IJhorst"
+      "isShootout": false
     },
     {
       "id": 230584,
@@ -1287,9 +1285,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must invest in a start-up desk for questions from new entrepreneurs.",
-      "themeEn": "First-time buyers' desk"
+      "isShootout": false
     },
     {
       "id": 230603,
@@ -1300,9 +1296,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The parking lots next to the roundabout in the center of Staphorst must be converted into terraces.",
-      "themeEn": "Parking facilities at the roundabout"
+      "isShootout": false
     },
     {
       "id": 230596,
@@ -1313,9 +1307,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must ensure that a repair café is established in Staphorst where volunteers can carry out simple repairs.",
-      "themeEn": "Repair café"
+      "isShootout": false
     },
     {
       "id": 230575,
@@ -1326,9 +1318,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "All villages in the municipality should have their own social and cultural community center.",
-      "themeEn": "Neighborhood center"
+      "isShootout": false
     },
     {
       "id": 230558,
@@ -1336,12 +1326,22 @@
       "theme": "School swimming",
       "themeId": "schoolzwemmen",
       "title": "The municipality should allocate money for school swimming.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld beschikbaar stellen voor "
+        },
+        {
+          "text": "schoolzwemmen",
+          "glossary": "Swimming lessons organized by the school."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allocate money for school swimming.",
-      "themeEn": "School swimming"
+      "isShootout": false
     },
     {
       "id": 230563,
@@ -1349,12 +1349,29 @@
       "theme": "Social housing",
       "themeId": "sociale-huurwoningen",
       "title": "The municipality must ensure that 30% of newly built homes are social rental housing. In the municipality of Staphorst, 10% of homes are currently social rental housing.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet ervoor zorgen dat 30% van de nieuw te bouwen woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " is. In de gemeente Staphorst is nu 10% van de woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must ensure that 30% of newly built homes are social rental housing. In the municipality of Staphorst, 10% of homes are currently social rental housing.",
-      "themeEn": "Social housing"
+      "isShootout": false
     },
     {
       "id": 230548,
@@ -1362,12 +1379,22 @@
       "theme": "Tax on buildings",
       "themeId": "belasting-op-gebouwen",
       "title": "The property tax (ozb) should be increased.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "onroerendezaakbelasting",
+          "glossary": "Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": " (ozb) moet omhoog."
+        }
+      ],
       "moreInfo": "The property tax (on immovable property) is one of the municipal taxes and depends on the WOZ value. The WOZ value is the value the municipality assigns to a house; WOZ stands for Valuation of Immovable Property. For homeowners in the municipality of Staphorst the rate in 2026 is 0.1005% of the WOZ value.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The property tax (ozb) should be increased.",
-      "themeEn": "Tax on buildings"
+      "isShootout": false
     },
     {
       "id": 230605,
@@ -1378,9 +1405,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should encourage residents to have their children vaccinated.",
-      "themeEn": "Vaccination information"
+      "isShootout": false
     },
     {
       "id": 230570,
@@ -1388,12 +1413,22 @@
       "theme": "Youth services",
       "themeId": "jongerenwerk",
       "title": "The municipality should invest more money in youth work.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld steken in "
+        },
+        {
+          "text": "jongerenwerk",
+          "glossary": "People and organizations that help young people in the municipality with various things."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should invest more money in youth work.",
-      "themeEn": "Youth services"
+      "isShootout": false
     },
     {
       "id": 230582,
@@ -1404,9 +1439,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should move the riding school out of the village of Staphorst to the site of the De Tippe event grounds.",
-      "themeEn": "Riding school"
+      "isShootout": false
     },
     {
       "id": 230566,
@@ -1414,12 +1447,22 @@
       "theme": "Design and appearance regulations",
       "themeId": "welstandsregels",
       "title": "The municipality must abolish the aesthetic standards for building and renovating.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de "
+        },
+        {
+          "text": "welstandsregels",
+          "glossary": "Aesthetic regulations that state how the outside of a building may look."
+        },
+        {
+          "text": " voor bouwen en verbouwen afschaffen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must abolish the aesthetic standards for building and renovating.",
-      "themeEn": "Design and appearance regulations"
+      "isShootout": false
     },
     {
       "id": 230576,
@@ -1427,12 +1470,22 @@
       "theme": "Couples therapy",
       "themeId": "relatietherapie",
       "title": "The municipality should continue to provide free couples therapy.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet blijven zorgen voor gratis "
+        },
+        {
+          "text": "relatietherapie",
+          "glossary": "When people try to improve their romantic relationship together with a counselor."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should continue to provide free couples therapy.",
-      "themeEn": "Couples therapy"
+      "isShootout": false
     },
     {
       "id": 230571,
@@ -1443,9 +1496,7 @@
       "moreInfo": "The municipality of Staphorst currently has 34 public charging stations. Each charging station has two charging points. Only electric cars may park in a spot with a charging station.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should provide more charging points for electric cars.",
-      "themeEn": "Electric vehicle charging stations"
+      "isShootout": false
     },
     {
       "id": 230553,
@@ -1453,12 +1504,22 @@
       "theme": "Integration",
       "themeId": "integratie",
       "title": "The municipality should spend more money on language lessons for newcomers.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld uitgeven aan taallessen voor "
+        },
+        {
+          "text": "nieuwkomers",
+          "glossary": "People who are new to the Netherlands."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should spend more money on language lessons for newcomers.",
-      "themeEn": "Integration"
+      "isShootout": false
     },
     {
       "id": 230579,
@@ -1469,9 +1530,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should invest in shared housing for people experiencing mental health problems.",
-      "themeEn": "Housing for people with mental health issues"
+      "isShootout": false
     },
     {
       "id": 230594,
@@ -1482,9 +1541,7 @@
       "moreInfo": "The municipality determines how many parking spaces are required per dwelling. In Staphorst this varies by type of home. Under current policy, family homes must have more than one parking space per dwelling.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allow the construction of family homes with one parking space.",
-      "themeEn": "Parking spaces for new construction"
+      "isShootout": false
     },
     {
       "id": 230589,
@@ -1495,9 +1552,7 @@
       "moreInfo": "At the municipal yard on Gemeenteweg 36 are workshops and offices of the municipal outdoor service and a fire station. The municipal yard buildings are outdated and in poor condition. The municipality is conducting a council-mandated study into the future of the municipal yard.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The site of the municipal depot in Staphorst should be made available for new housing.",
-      "themeEn": "Housing at the municipal depot"
+      "isShootout": false
     },
     {
       "id": 230602,
@@ -1505,12 +1560,22 @@
       "theme": "Social entrepreneurs",
       "themeId": "sociale-ondernemers",
       "title": "The municipality should financially support social entrepreneurs.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "sociale ondernemers",
+          "glossary": "Social entrepreneurs run a business that not only makes profit but also serves a social purpose."
+        },
+        {
+          "text": " financieel ondersteunen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should financially support social entrepreneurs.",
-      "themeEn": "Social entrepreneurs"
+      "isShootout": false
     },
     {
       "id": 230588,
@@ -1521,9 +1586,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality of Staphorst should participate in the Politiekids project, in which children are introduced to the work of the police.",
-      "themeEn": "Politics for kids"
+      "isShootout": false
     },
     {
       "id": 230587,
@@ -1534,9 +1597,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality of Staphorst should appoint a children's mayor who communicates the views of children and young people to the municipal council.",
-      "themeEn": "Child mayor"
+      "isShootout": false
     },
     {
       "id": 230554,
@@ -1544,12 +1605,22 @@
       "theme": "Asylum seekers' center",
       "themeId": "asielzoekerscentrum",
       "title": "An asylum seekers' center (AZC) should be established in our municipality.",
+      "titleParts": [
+        {
+          "text": " In onze gemeente moet een "
+        },
+        {
+          "text": "asielzoekerscentrum",
+          "glossary": "Reception center for asylum seekers. They live there until it is decided whether they may stay in the Netherlands. An asylum seekers’ center remains in a municipality for a long time."
+        },
+        {
+          "text": " (azc) komen."
+        }
+      ],
       "moreInfo": "People who flee their country because of war or personal persecution can apply for asylum in the Netherlands. The Immigration and Naturalisation Service (IND) assesses the application and decides whether they may stay. During the procedure asylum seekers must be accommodated. The Netherlands has a shortage of reception places; asylum seekers ideally should be housed in an asylum seekers’ center (azc), a facility set up for living with services like medical and social care and nearby schooling for children. Under the national Distribution Act the municipality of Staphorst must accommodate 101 asylum seekers, of whom 14 are unaccompanied young people.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "An asylum seekers' center (AZC) should be established in our municipality.",
-      "themeEn": "Asylum seekers' center"
+      "isShootout": false
     },
     {
       "id": 230601,
@@ -1560,9 +1631,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "A farewell house for funerals should be built next to the cemetery in Staphorst.",
-      "themeEn": "Farewell house"
+      "isShootout": false
     },
     {
       "id": 230595,
@@ -1573,9 +1642,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should provide funds to farmers who want to switch from conventional to organic farming.",
-      "themeEn": "Organic farming"
+      "isShootout": false
     },
     {
       "id": 230590,
@@ -1586,9 +1653,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The fire station should remain on the site of the municipal depot in Staphorst.",
-      "themeEn": "Fire station"
+      "isShootout": false
     },
     {
       "id": 230593,
@@ -1596,12 +1661,22 @@
       "theme": "Work for people with disabilities",
       "themeId": "werken-met-een-beperking",
       "title": "The municipality should give more money to companies that employ people with disabilities.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld geven aan bedrijven die mensen met een "
+        },
+        {
+          "text": "beperking",
+          "glossary": "Something that limits you in daily life. A disability can be physical or intellectual or relate to hearing or sight, or combinations of these."
+        },
+        {
+          "text": " in dienst nemen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should give more money to companies that employ people with disabilities.",
-      "themeEn": "Work for people with disabilities"
+      "isShootout": false
     },
     {
       "id": 230608,
@@ -1609,12 +1684,29 @@
       "theme": "Event permit fees",
       "themeId": "vergunningkosten-evenementen",
       "title": "The municipality should abolish permit fees for events.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "vergunningkosten",
+          "glossary": "With a permit the municipality gives permission to do something."
+        },
+        {
+          "text": " voor "
+        },
+        {
+          "text": "evenementen",
+          "glossary": "A temporary, organized gathering. For example a street party, a flea market, or a music festival."
+        },
+        {
+          "text": " afschaffen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should abolish permit fees for events.",
-      "themeEn": "Event permit fees"
+      "isShootout": false
     },
     {
       "id": 230585,
@@ -1625,9 +1717,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should provide funds to schools and associations that help clean up litter.",
-      "themeEn": "Litter cleanup"
+      "isShootout": false
     },
     {
       "id": 230560,
@@ -1638,9 +1728,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should encourage attention to the local dialect of Staphorst at all primary schools.",
-      "themeEn": "Regional language"
+      "isShootout": false
     },
     {
       "id": 230551,
@@ -1651,9 +1739,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Shops in the municipality of Staphorst should remain closed on Sundays.",
-      "themeEn": "Shops closed on Sundays"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

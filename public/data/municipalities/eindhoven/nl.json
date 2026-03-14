@@ -3921,6 +3921,18 @@
       "theme": "Autoluw",
       "themeId": "autoluw",
       "title": "De binnenstad van Eindhoven moet zoveel mogelijk autoluw worden.",
+      "titleParts": [
+        {
+          "text": " De binnenstad van Eindhoven moet zoveel mogelijk "
+        },
+        {
+          "text": "autoluw",
+          "glossary": "Dat er weinig autoverkeer is."
+        },
+        {
+          "text": " worden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -3934,6 +3946,25 @@
       "theme": "Seniorenraad",
       "themeId": "seniorenraad",
       "title": "Er moet een seniorenraad komen, zodat ouderen kunnen meepraten over het beleid van de gemeente.",
+      "titleParts": [
+        {
+          "text": " Er moet een "
+        },
+        {
+          "text": "seniorenraad",
+          "glossary": "Een raad van oudere inwoners die advies geeft aan de gemeente."
+        },
+        {
+          "text": " komen, zodat ouderen kunnen meepraten over het "
+        },
+        {
+          "text": "beleid",
+          "glossary": "Een plan voor hoe een probleem wordt aangepakt."
+        },
+        {
+          "text": " van de gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -3947,6 +3978,18 @@
       "theme": "Brainport",
       "themeId": "brainport",
       "title": "De gemeente moet zich sterk maken voor de komst van nieuwe techbedrijven naar de regio Brainport Eindhoven.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet zich sterk maken voor de komst van nieuwe "
+        },
+        {
+          "text": "techbedrijven",
+          "glossary": "Bedrijven die vooral technische producten maken. Denk aan software, a.i. en internetdiensten."
+        },
+        {
+          "text": " naar de regio Brainport Eindhoven."
+        }
+      ],
       "moreInfo": "Brainport Eindhoven is de regio rondom Eindhoven waar veel bedrijven, overheidsinstellingen en onderzoeksinstituten zitten die zich richten op techniek en innovatie.",
       "pro": "",
       "con": "",
@@ -3960,6 +4003,25 @@
       "theme": "Voorrang statushouders",
       "themeId": "voorrang-statushouders",
       "title": "De gemeente moet vluchtelingen met een verblijfsvergunning voorrang geven op een sociale huurwoning.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet vluchtelingen met een "
+        },
+        {
+          "text": "verblijfsvergunning",
+          "glossary": "Het recht om in Nederland te blijven wonen."
+        },
+        {
+          "text": " voorrang geven op een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -3973,6 +4035,18 @@
       "theme": "Hondenbelasting",
       "themeId": "hondenbelasting",
       "title": "De gemeente moet de hondenbelasting afschaffen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de "
+        },
+        {
+          "text": "hondenbelasting",
+          "glossary": "Belasting die je aan de gemeente moet betalen voor het hebben van een hond of meerdere honden."
+        },
+        {
+          "text": " afschaffen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -4012,6 +4086,18 @@
       "theme": "Handhavers",
       "themeId": "handhavers",
       "title": "De boa's die in Eindhoven controleren op veiligheid moeten een wapenstok krijgen.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "boa's",
+          "glossary": "Bijzondere Opsporings Ambtenaren. Ze kunnen boetes geven en hebben vaak de taak om toezicht te houden op straat."
+        },
+        {
+          "text": " die in Eindhoven controleren op veiligheid moeten een wapenstok krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -4025,6 +4111,18 @@
       "theme": "Opvang asielzoekers",
       "themeId": "opvang-asielzoekers",
       "title": "De gemeente moet meer asielzoekers opvangen dan het wettelijk verplichte aantal.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer "
+        },
+        {
+          "text": "asielzoekers ",
+          "glossary": "Mensen die asiel hebben aangevraagd en nog wachten op de beslissing daarover."
+        },
+        {
+          "text": "opvangen dan het wettelijk verplichte aantal."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -4103,6 +4201,25 @@
       "theme": "Integratie",
       "themeId": "integratie",
       "title": "De gemeente Eindhoven moet meer geld uitgeven aan de integratie van nieuwkomers in de maatschappij.",
+      "titleParts": [
+        {
+          "text": " De gemeente Eindhoven moet meer geld uitgeven aan de "
+        },
+        {
+          "text": "integratie",
+          "glossary": "Nieuwkomers leren de taal en gewoonten van Nederland."
+        },
+        {
+          "text": " van "
+        },
+        {
+          "text": "nieuwkomers",
+          "glossary": "Mensen die nog niet lang in Nederland wonen."
+        },
+        {
+          "text": " in de maatschappij."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -4116,6 +4233,18 @@
       "theme": "Starterslening",
       "themeId": "starterslening",
       "title": "Mensen die voor het eerst een huis willen kopen, moeten van de gemeente een starterslening kunnen krijgen tegen 0 procent rente.",
+      "titleParts": [
+        {
+          "text": " Mensen die voor het eerst een huis willen kopen, moeten van de gemeente een "
+        },
+        {
+          "text": "starterslening",
+          "glossary": "Extra lening naast je hypotheek, die je alleen kunt krijgen als je voor het eerst een huis koopt."
+        },
+        {
+          "text": " kunnen krijgen tegen 0 procent rente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -4129,6 +4258,18 @@
       "theme": "Cameratoezicht",
       "themeId": "cameratoezicht",
       "title": "In Eindhoven moet meer cameratoezicht komen.",
+      "titleParts": [
+        {
+          "text": " In Eindhoven moet meer "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Het houden van toezicht op of in een gebouw, gebied of (groepen) mensen met behulp van bewakingscamera's."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -4155,6 +4296,18 @@
       "theme": "Rondweg",
       "themeId": "rondweg",
       "title": "De maximumsnelheid op de Rondweg van Eindhoven moet 70 km/u blijven.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "maximumsnelheid",
+          "glossary": "De hoogste snelheid die auto’s en motoren mogen rijden op straat."
+        },
+        {
+          "text": " op de Rondweg van Eindhoven moet 70 km/u blijven."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -4181,6 +4334,18 @@
       "theme": "Schulden opkopen",
       "themeId": "schulden-opkopen",
       "title": "De gemeente moet schulden opkopen en kwijtschelden van mensen met een uitkering die grote financiële problemen hebben.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet schulden opkopen en "
+        },
+        {
+          "text": "kwijtschelden",
+          "glossary": "Dat mensen iets niet meer hoeven te betalen."
+        },
+        {
+          "text": " van mensen met een uitkering die grote financiële problemen hebben."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -4207,6 +4372,18 @@
       "theme": "Religieuze uitingen",
       "themeId": "religieuze-uitingen",
       "title": "Gemeentelijke handhavers (boa's) moeten een hoofddoek, keppeltje of tulband kunnen dragen.",
+      "titleParts": [
+        {
+          "text": " Gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "Mensen die voor de gemeente controleren of burgers en bedrijven zich aan de regels houden."
+        },
+        {
+          "text": " (boa's) moeten een hoofddoek, keppeltje of tulband kunnen dragen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -4220,6 +4397,18 @@
       "theme": "Snelheid auto's",
       "themeId": "snelheid-auto-s",
       "title": "De maximumsnelheid in de wijken van Eindhoven moet naar 30 km/u.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "maximumsnelheid",
+          "glossary": "De hoogste snelheid die auto’s en motoren mogen rijden op straat."
+        },
+        {
+          "text": " in de wijken van Eindhoven moet naar 30 km/u."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -4233,6 +4422,18 @@
       "theme": "Voorrang huisvesting",
       "themeId": "voorrang-huisvesting",
       "title": "Bij de toewijzing van een sociale huurwoning moeten woningzoekenden uit Eindhoven zoveel mogelijk voorrang krijgen.",
+      "titleParts": [
+        {
+          "text": " Bij de toewijzing van een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": " moeten woningzoekenden uit Eindhoven zoveel mogelijk voorrang krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -4259,6 +4460,18 @@
       "theme": "Bijstandsfraude",
       "themeId": "bijstandsfraude",
       "title": "De gemeente moet meer geld steken in de aanpak van fraude met bijstandsuitkeringen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld steken in de aanpak van fraude met "
+        },
+        {
+          "text": "bijstandsuitkeringen",
+          "glossary": "Geld van de gemeente voor mensen die onvoldoende inkomen of eigen geld hebben."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -4272,6 +4485,18 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "De inwoners van Eindhoven moeten over belangrijke onderwerpen hun mening kunnen geven via een referendum.",
+      "titleParts": [
+        {
+          "text": " De inwoners van Eindhoven moeten over belangrijke onderwerpen hun mening kunnen geven via een "
+        },
+        {
+          "text": "referendum",
+          "glossary": "Volksraadpleging waarbij inwoners zich kunnen uitspreken over een politieke kwestie. De gemeenteraad is niet verplicht de uitslag te volgen, dat is wettelijk niet mogelijk."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -4285,6 +4510,25 @@
       "theme": "Airconditioning",
       "themeId": "airconditioning",
       "title": "Mensen van 75 jaar of ouder moeten subsidie van de gemeente krijgen om airconditioning aan te leggen.",
+      "titleParts": [
+        {
+          "text": " Mensen van 75 jaar of ouder moeten "
+        },
+        {
+          "text": "subsidie",
+          "glossary": "Geld dat de overheid aan burgers, bedrijven en organisaties geeft om ze te steunen."
+        },
+        {
+          "text": " van de gemeente krijgen om "
+        },
+        {
+          "text": "airconditioning",
+          "glossary": "Een technisch systeem waarmee je een ruimte kunt verkoelen of verwarmen."
+        },
+        {
+          "text": " aan te leggen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",

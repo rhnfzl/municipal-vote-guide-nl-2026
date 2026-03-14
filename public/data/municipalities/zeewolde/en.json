@@ -1512,9 +1512,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The G area should become a nature reserve.",
-      "themeEn": "G zone"
+      "isShootout": false
     },
     {
       "id": 239950,
@@ -1522,12 +1520,22 @@
       "theme": "Priority for housing",
       "themeId": "voorrang-huisvesting",
       "title": "Housing applicants from Zeewolde should be given priority for social housing.",
+      "titleParts": [
+        {
+          "text": " Woningzoekenden uit Zeewolde moeten voorrang krijgen bij een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent for people with a low income. In 2026 that is at most €932.93 per month."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Housing applicants from Zeewolde should be given priority for social housing.",
-      "themeEn": "Priority for housing"
+      "isShootout": false
     },
     {
       "id": 239961,
@@ -1538,9 +1546,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should make poverty assistance programs more flexible.",
-      "themeEn": "Combating poverty"
+      "isShootout": false
     },
     {
       "id": 239974,
@@ -1551,9 +1557,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should start a campaign together with schools to combat addiction among young people.",
-      "themeEn": "Addiction"
+      "isShootout": false
     },
     {
       "id": 239952,
@@ -1561,12 +1565,22 @@
       "theme": "High-rise buildings",
       "themeId": "hoogbouw",
       "title": "Zeewolde should allow high-rise buildings of six storeys.",
+      "titleParts": [
+        {
+          "text": " Zeewolde moet "
+        },
+        {
+          "text": "hoogbouw",
+          "glossary": "Buildings with homes or businesses on multiple floors, for example apartments or flats."
+        },
+        {
+          "text": " van 6 verdiepingen toestaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Zeewolde should allow high-rise buildings of six storeys.",
-      "themeEn": "High-rise buildings"
+      "isShootout": false
     },
     {
       "id": 239944,
@@ -1574,12 +1588,22 @@
       "theme": "Local culture",
       "themeId": "lokale-cultuur",
       "title": "The municipality should primarily engage artists from Zeewolde for public art.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet vooral kunstenaars uit Zeewolde inschakelen voor kunst in de "
+        },
+        {
+          "text": "openbare ruimte",
+          "glossary": "Outdoor areas that are accessible to everyone, such as streets, squares, and parks."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should primarily engage artists from Zeewolde for public art.",
-      "themeEn": "Local culture"
+      "isShootout": false
     },
     {
       "id": 239918,
@@ -1587,12 +1611,29 @@
       "theme": "Tax on buildings",
       "themeId": "belasting-op-gebouwen",
       "title": "The property tax (onroerendezaakbelasting, OZB) should be reduced.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "onroerendezaakbelasting",
+          "glossary": "Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "ozb",
+          "glossary": "Property tax. Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": ") moet omlaag."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The property tax (onroerendezaakbelasting, OZB) should be reduced.",
-      "themeEn": "Tax on buildings"
+      "isShootout": false
     },
     {
       "id": 239928,
@@ -1600,12 +1641,22 @@
       "theme": "Youth care",
       "themeId": "jeugdzorg",
       "title": "The municipality must not cut spending on youth care.",
+      "titleParts": [
+        {
+          "text": " De gemeente mag niet "
+        },
+        {
+          "text": "bezuinigen",
+          "glossary": "Spending less money."
+        },
+        {
+          "text": " op jeugdhulp."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must not cut spending on youth care.",
-      "themeEn": "Youth care"
+      "isShootout": false
     },
     {
       "id": 239949,
@@ -1613,12 +1664,22 @@
       "theme": "Camera surveillance",
       "themeId": "cameratoezicht",
       "title": "There should be more CCTV surveillance in Zeewolde.",
+      "titleParts": [
+        {
+          "text": " In Zeewolde moet meer "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Monitoring of a building, area, or (groups of) people using security cameras."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be more CCTV surveillance in Zeewolde.",
-      "themeEn": "Camera surveillance"
+      "isShootout": false
     },
     {
       "id": 239965,
@@ -1629,9 +1690,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Park & Ride sites should be created on the outskirts of Zeewolde with shared bikes and charging stations.",
-      "themeEn": "Park-and-ride"
+      "isShootout": false
     },
     {
       "id": 239942,
@@ -1642,9 +1701,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "A new sports complex should be built on the edge of the village.",
-      "themeEn": "Sports complex"
+      "isShootout": false
     },
     {
       "id": 239951,
@@ -1652,12 +1709,22 @@
       "theme": "Social housing",
       "themeId": "sociale-huurwoningen",
       "title": "At least 45% of new-build housing should be social rental housing.",
+      "titleParts": [
+        {
+          "text": " Bij nieuwbouw moet minstens 45% bestaan uit "
+        },
+        {
+          "text": "sociale huurwoningen",
+          "glossary": "Rental homes with low rent for people with a low income. In 2026 that is at most €932.93 per month."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "At least 45% of new-build housing should be social rental housing.",
-      "themeEn": "Social housing"
+      "isShootout": false
     },
     {
       "id": 239925,
@@ -1668,9 +1735,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Cafés, restaurants and shops should be able to set their own opening hours.",
-      "themeEn": "Opening hours"
+      "isShootout": false
     },
     {
       "id": 239931,
@@ -1678,12 +1743,22 @@
       "theme": "Housing for foreign workers",
       "themeId": "huisvesting-buitenlandse-werknemers",
       "title": "The municipality should help migrant workers who lose their housing to find another place to live.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "arbeidsmigranten",
+          "glossary": "People from another country who work temporarily in the Netherlands."
+        },
+        {
+          "text": " die hun woning verliezen helpen om een andere woonplek te vinden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should help migrant workers who lose their housing to find another place to live.",
-      "themeEn": "Housing for foreign workers"
+      "isShootout": false
     },
     {
       "id": 239946,
@@ -1691,12 +1766,22 @@
       "theme": "Baton (police baton)",
       "themeId": "wapenstok",
       "title": "Municipal enforcement officers (BOAs) should be equipped with a baton.",
+      "titleParts": [
+        {
+          "text": " Gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "People who, for the municipality, check whether citizens and businesses comply with the rules."
+        },
+        {
+          "text": " (boa’s) moeten een wapenstok krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Municipal enforcement officers (BOAs) should be equipped with a baton.",
-      "themeEn": "Baton (police baton)"
+      "isShootout": false
     },
     {
       "id": 239937,
@@ -1704,12 +1789,22 @@
       "theme": "Intensive livestock farming",
       "themeId": "intensieve-veehouderij",
       "title": "No large livestock farms should be allowed in the rural area.",
+      "titleParts": [
+        {
+          "text": " Er mogen geen grote veestallen in het "
+        },
+        {
+          "text": "buitengebied",
+          "glossary": "Area within the municipality's borders but outside the towns or villages themselves; there are few houses and other buildings here."
+        },
+        {
+          "text": " bij komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "No large livestock farms should be allowed in the rural area.",
-      "themeEn": "Intensive livestock farming"
+      "isShootout": false
     },
     {
       "id": 239923,
@@ -1717,12 +1812,22 @@
       "theme": "City marketing",
       "themeId": "city-marketing",
       "title": "The municipality should invest money in a promotional campaign to attract more tourists and day-trippers to Zeewolde.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld steken in een "
+        },
+        {
+          "text": "promotiecampagne",
+          "glossary": "A series of advertisements on, for example, billboards, television, and social media."
+        },
+        {
+          "text": " om meer toeristen en dagjesmensen naar Zeewolde te trekken."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should invest money in a promotional campaign to attract more tourists and day-trippers to Zeewolde.",
-      "themeEn": "City marketing"
+      "isShootout": false
     },
     {
       "id": 239919,
@@ -1733,9 +1838,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should introduce a discount card that gives low-income people discounts on sports and cultural activities.",
-      "themeEn": "Discount card"
+      "isShootout": false
     },
     {
       "id": 239966,
@@ -1746,9 +1849,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should urge the provinces to build a tunnel or bridge connecting Zeewolde with Ermelo and Harderwijk.",
-      "themeEn": "Riverbank connection"
+      "isShootout": false
     },
     {
       "id": 239940,
@@ -1759,9 +1860,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should pay sports club membership fees for children from low-income families.",
-      "themeEn": "Sports membership fees"
+      "isShootout": false
     },
     {
       "id": 239962,
@@ -1769,12 +1868,29 @@
       "theme": "Work requirement for welfare recipients",
       "themeId": "tegenprestatie-voor-uitkering",
       "title": "People receiving social assistance should, in return, do socially useful work.",
+      "titleParts": [
+        {
+          "text": " Mensen die een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Money from the municipality for people who have no income or personal funds."
+        },
+        {
+          "text": " krijgen, moeten in ruil daarvoor "
+        },
+        {
+          "text": "maatschappelijk zinvol werk",
+          "glossary": "For example cleaning the streets or keeping company and supporting elderly residents."
+        },
+        {
+          "text": " doen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People receiving social assistance should, in return, do socially useful work.",
-      "themeEn": "Work requirement for welfare recipients"
+      "isShootout": false
     },
     {
       "id": 239917,
@@ -1785,9 +1901,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Zeewolde should have a citizens' assembly that advises the municipal council. A citizens' assembly consists of residents selected by lot.",
-      "themeEn": "Citizens' assembly"
+      "isShootout": false
     },
     {
       "id": 239936,
@@ -1798,9 +1912,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allow solar panels on pastureland.",
-      "themeEn": "Solar panels in meadows"
+      "isShootout": false
     },
     {
       "id": 239948,
@@ -1808,12 +1920,22 @@
       "theme": "Coffeeshop (cannabis shop)",
       "themeId": "coffeeshop",
       "title": "The municipality should allow a coffeeshop in Zeewolde.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet een "
+        },
+        {
+          "text": "coffeeshop",
+          "glossary": "Shop or café where you can buy and smoke soft drugs (hash, weed)."
+        },
+        {
+          "text": " in Zeewolde toestaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allow a coffeeshop in Zeewolde.",
-      "themeEn": "Coffeeshop (cannabis shop)"
+      "isShootout": false
     },
     {
       "id": 239960,
@@ -1824,9 +1946,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Apartments should be built on the municipal depot site. The municipal depot itself should be relocated to the Schepenveld.",
-      "themeEn": "Relocation of municipal depot"
+      "isShootout": false
     },
     {
       "id": 239973,
@@ -1837,9 +1957,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should distribute free tampons and sanitary pads at schools and community centers.",
-      "themeEn": "Free menstrual products"
+      "isShootout": false
     },
     {
       "id": 239932,
@@ -1850,9 +1968,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should press the national government to ensure the new barracks supply 80% of their own energy.",
-      "themeEn": "Energy hub"
+      "isShootout": false
     },
     {
       "id": 239929,
@@ -1860,12 +1976,29 @@
       "theme": "Priority for recognized refugees",
       "themeId": "voorrang-statushouders",
       "title": "The municipality should give status holders priority in the allocation of social housing.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "statushouders",
+          "glossary": "Refugees who have been granted a residence permit and are therefore allowed to stay in the Netherlands."
+        },
+        {
+          "text": " voorrang geven bij de toewijzing van een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent for people with a low income. In 2026 that is at most €932.93 per month."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should give status holders priority in the allocation of social housing.",
-      "themeEn": "Priority for recognized refugees"
+      "isShootout": false
     },
     {
       "id": 239959,
@@ -1876,9 +2009,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The Aanloophaven should be further developed into a recreational area with restaurants and cafés.",
-      "themeEn": "Port of call"
+      "isShootout": false
     },
     {
       "id": 239969,
@@ -1889,9 +2020,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should oppose holiday flights from Lelystad Airport.",
-      "themeEn": "Holiday flights"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

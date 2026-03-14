@@ -4100,6 +4100,18 @@
       "theme": "Subsidies erfgoed",
       "themeId": "subsidies-erfgoed",
       "title": "Van de subsidies voor cultuur moet het grootste deel naar erfgoed en lokale tradities gaan.",
+      "titleParts": [
+        {
+          "text": " Van de "
+        },
+        {
+          "text": "subsidies",
+          "glossary": "Geld dat de overheid aan burgers, bedrijven en organisaties geeft om ze te steunen."
+        },
+        {
+          "text": " voor cultuur moet het grootste deel naar erfgoed en lokale tradities gaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -4126,6 +4138,18 @@
       "theme": "Evenementen",
       "themeId": "evenementen",
       "title": "De gemeente moet toestaan dat evenementen 's avonds langer doorgaan.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet toestaan dat "
+        },
+        {
+          "text": "evenementen",
+          "glossary": "Een tijdelijke, georganiseerde bijeenkomst. Bijvoorbeeld een straatfeest, een rommelmarkt of een muziekfestival."
+        },
+        {
+          "text": " 's avonds langer doorgaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -4204,6 +4228,18 @@
       "theme": "Voorrang voor leraren, verplegers en politie",
       "themeId": "voorrang-voor-leraren-verplegers-en-politie",
       "title": "Leraren, verpleegkundigen en politieagenten moeten voorrang krijgen bij een sociale huurwoning.",
+      "titleParts": [
+        {
+          "text": " Leraren, verpleegkundigen en politieagenten moeten voorrang krijgen bij een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -4217,6 +4253,18 @@
       "theme": "Huisvesting buitenlandse werknemers",
       "themeId": "huisvesting-buitenlandse-werknemers",
       "title": "Werkgevers moeten ervoor zorgen dat arbeidsmigranten op of in de buurt van hun werkplek wonen.",
+      "titleParts": [
+        {
+          "text": " Werkgevers moeten ervoor zorgen dat "
+        },
+        {
+          "text": "arbeidsmigranten",
+          "glossary": "Mensen uit een ander land die tijdelijk in Nederland werken."
+        },
+        {
+          "text": " op of in de buurt van hun werkplek wonen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -4230,6 +4278,18 @@
       "theme": "Spreiding sociale huur",
       "themeId": "spreiding-sociale-huur",
       "title": "Groningen moet sociale huurwoningen over de hele gemeente spreiden.",
+      "titleParts": [
+        {
+          "text": " Groningen moet "
+        },
+        {
+          "text": "sociale huurwoningen",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": " over de hele gemeente spreiden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -4269,6 +4329,25 @@
       "theme": "Wapenstok",
       "themeId": "wapenstok",
       "title": "Gemeentelijke handhavers (boa's) mogen een wapenstok dragen.",
+      "titleParts": [
+        {
+          "text": " Gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "Mensen die voor de gemeente controleren of burgers en bedrijven zich aan de regels houden."
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "boa's",
+          "glossary": "Bijzondere Opsporings Ambtenaren. Ze kunnen boetes geven en hebben vaak de taak om toezicht te houden op straat."
+        },
+        {
+          "text": ") mogen een wapenstok dragen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -4282,6 +4361,18 @@
       "theme": "Snelheid auto's",
       "themeId": "snelheid-auto-s",
       "title": "De maximumsnelheid moet overal naar 30 km/u, behalve op de ringweg en enkele doorgaande wegen.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "maximumsnelheid",
+          "glossary": "De hoogste snelheid die autos en motoren mogen rijden op straat."
+        },
+        {
+          "text": " moet overal naar 30 km/u, behalve op de ringweg en enkele doorgaande wegen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -4386,6 +4477,18 @@
       "theme": "Bed-bad-brood",
       "themeId": "bed-bad-brood",
       "title": "De gemeente moet stoppen met de opvang van mensen die geen geldige verblijfsvergunning hebben.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet stoppen met de opvang van mensen die geen geldige "
+        },
+        {
+          "text": "verblijfsvergunning",
+          "glossary": "Het recht om in Nederland te blijven wonen. Met het woord kun je dat recht zelf bedoelen en ook het kaartje waarop staat dat iemand dat recht heeft."
+        },
+        {
+          "text": " hebben."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -4412,6 +4515,25 @@
       "theme": "Tegenprestatie voor uitkering",
       "themeId": "tegenprestatie-voor-uitkering",
       "title": "Mensen die een bijstandsuitkering krijgen, moeten in ruil daarvoor maatschappelijk zinvol werk doen.",
+      "titleParts": [
+        {
+          "text": " Mensen die een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Geld van de gemeente voor mensen die geen inkomen of eigen geld hebben."
+        },
+        {
+          "text": " krijgen, moeten in ruil daarvoor "
+        },
+        {
+          "text": "maatschappelijk zinvol werk",
+          "glossary": "Bijvoorbeeld schoonmaken van de straten of het gezelschap houden en ondersteunen van oudere inwoners."
+        },
+        {
+          "text": " doen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",

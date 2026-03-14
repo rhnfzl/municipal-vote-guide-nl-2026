@@ -1857,6 +1857,18 @@
       "theme": "Belasting op gebouwen",
       "themeId": "belasting-op-gebouwen",
       "title": "De onroerendezaakbelasting (ozb) moet omlaag.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "onroerendezaakbelasting",
+          "glossary": "Belasting die je betaalt als eigenaar van een gebouw of stuk grond, of gebruiker van een bedrijfspand."
+        },
+        {
+          "text": " (ozb) moet omlaag."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1896,6 +1908,18 @@
       "theme": "Reclame gokken en alcohol",
       "themeId": "reclame-gokken-en-alcohol",
       "title": "Reclames voor gokken en alcohol in de openbare ruimte moeten toegestaan blijven.",
+      "titleParts": [
+        {
+          "text": " Reclames voor gokken en alcohol in de "
+        },
+        {
+          "text": "openbare ruimte",
+          "glossary": "Gebieden in de buitenlucht die voor iedereen toegankelijk zijn, zoals straten, pleinen en parken."
+        },
+        {
+          "text": " moeten toegestaan blijven."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1909,6 +1933,18 @@
       "theme": "Jongerenraad",
       "themeId": "jongerenraad",
       "title": "Velsen moet een jongerenraad krijgen die de gemeente adviseert.",
+      "titleParts": [
+        {
+          "text": " Velsen moet een "
+        },
+        {
+          "text": "jongerenraad",
+          "glossary": "Een groep jongeren die meedenkt en meepraat met de gemeente over plannen en beleid."
+        },
+        {
+          "text": " krijgen die de gemeente adviseert."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1922,6 +1958,25 @@
       "theme": "Voorrang voor vluchtelingen",
       "themeId": "voorrang-voor-vluchtelingen",
       "title": "De gemeente moet vluchtelingen met een verblijfsvergunning voorrang blijven geven op een sociale huurwoning.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet vluchtelingen met een "
+        },
+        {
+          "text": "verblijfsvergunning",
+          "glossary": "Het recht om in Nederland te blijven wonen. Met het woord kun je dat recht zelf bedoelen en ook het kaartje waarop staat dat iemand dat recht heeft."
+        },
+        {
+          "text": " voorrang blijven geven op een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1961,6 +2016,18 @@
       "theme": "Cameratoezicht",
       "themeId": "cameratoezicht",
       "title": "In de gemeente Velsen moet meer cameratoezicht komen.",
+      "titleParts": [
+        {
+          "text": " In de gemeente Velsen moet meer "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Het houden van toezicht op of in een gebouw, gebied of (groepen) mensen met behulp van bewakingscamera's."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2013,6 +2080,18 @@
       "theme": "Vergunningen bedrijven",
       "themeId": "vergunningen-bedrijven",
       "title": "De gemeente moet vergunningen voor bedrijven goedkoper maken.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "vergunningen",
+          "glossary": "Toestemmingen van de gemeente om iets te mogen doen."
+        },
+        {
+          "text": " voor bedrijven goedkoper maken."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2026,6 +2105,18 @@
       "theme": "Parkeervergunningen",
       "themeId": "parkeervergunningen",
       "title": "De gemeente Velsen moet in sommige wijken een parkeervergunning invoeren.",
+      "titleParts": [
+        {
+          "text": " De gemeente Velsen moet in sommige wijken een "
+        },
+        {
+          "text": "parkeervergunning",
+          "glossary": "Een vergunning om op een bepaalde plek te parkeren. Voor dat recht moet je betalen."
+        },
+        {
+          "text": " invoeren."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2039,6 +2130,18 @@
       "theme": "Tata Steel",
       "themeId": "tata-steel",
       "title": "De gemeente moet bij het Rijk aandringen op versnelde sluiting van de meest verouderde installaties van Tata Steel.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet bij het Rijk aandringen op versnelde sluiting van de meest verouderde "
+        },
+        {
+          "text": "installaties",
+          "glossary": "Onderdelen van de fabriek."
+        },
+        {
+          "text": " van Tata Steel."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2052,6 +2155,18 @@
       "theme": "Armoedebestrijding",
       "themeId": "armoedebestrijding",
       "title": "De gemeente moet bezuinigen op armoedebestrijding.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet bezuinigen op "
+        },
+        {
+          "text": "armoedebestrijding",
+          "glossary": "Alle maatregelen die bedoeld zijn om armoede in de samenleving te verminderen."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2078,6 +2193,18 @@
       "theme": "Sociale huurwoningen",
       "themeId": "sociale-huurwoningen",
       "title": "Nieuwe sociale huurwoningen moeten vooral in Santpoort-Noord, Santpoort-Zuid, Velserbroek, Velsen-Zuid en Driehuis komen.",
+      "titleParts": [
+        {
+          "text": " Nieuwe "
+        },
+        {
+          "text": "sociale huurwoningen",
+          "glossary": "Huurwoningen die bij aanvang van de huur niet duurder zijn dan een bepaald bedrag. In 2026 is dat bedrag € 932,93 per maand."
+        },
+        {
+          "text": " moeten vooral in Santpoort-Noord, Santpoort-Zuid, Velserbroek, Velsen-Zuid en Driehuis komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2091,6 +2218,18 @@
       "theme": "Promotiecampagne",
       "themeId": "promotiecampagne",
       "title": "De gemeente moet meer geld steken in de promotiecampagne voor Velsen als aantrekkelijke vestigingsplaats voor bedrijven.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld steken in de "
+        },
+        {
+          "text": "promotiecampagne",
+          "glossary": "Een serie reclames op bijvoorbeeld borden, televisie en sociale media."
+        },
+        {
+          "text": " voor Velsen als aantrekkelijke vestigingsplaats voor bedrijven."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2104,6 +2243,18 @@
       "theme": "Relatietherapie",
       "themeId": "relatietherapie",
       "title": "De gemeente moet relatietherapie vergoeden voor inwoners die dat zelf niet kunnen betalen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "relatietherapie",
+          "glossary": "Als mensen hun liefdesrelatie proberen te verbeteren samen met een hulpverlener."
+        },
+        {
+          "text": " vergoeden voor inwoners die dat zelf niet kunnen betalen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2117,6 +2268,18 @@
       "theme": "Handhavers",
       "themeId": "handhavers",
       "title": "In de gemeente Velsen moeten meer gemeentelijke handhavers (boa’s) komen die zich met veiligheid bezighouden.",
+      "titleParts": [
+        {
+          "text": " In de gemeente Velsen moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "Mensen die voor de gemeente controleren of burgers en bedrijven zich aan de regels houden."
+        },
+        {
+          "text": " (boa’s) komen die zich met veiligheid bezighouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2130,6 +2293,18 @@
       "theme": "Asielzoekerscentrum",
       "themeId": "asielzoekerscentrum",
       "title": "In Santpoort-Zuid moet een asielzoekerscentrum (azc) komen.",
+      "titleParts": [
+        {
+          "text": " In Santpoort-Zuid moet een "
+        },
+        {
+          "text": "asielzoekerscentrum",
+          "glossary": "Opvangcentrum voor asielzoekers. Ze wonen daar tot besloten is of ze in Nederland mogen blijven. Een asielzoekerscentrum blijft langere tijd in een gemeente staan."
+        },
+        {
+          "text": " (azc) komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",

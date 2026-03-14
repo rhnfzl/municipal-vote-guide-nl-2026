@@ -1566,9 +1566,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should create more parking spaces in the city center of Wijk bij Duurstede.",
-      "themeEn": "More parking spaces"
+      "isShootout": false
     },
     {
       "id": 230818,
@@ -1579,9 +1577,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should prohibit the use of pesticides/toxic chemicals in new agreements with farmers.",
-      "themeEn": "Agricultural pesticides"
+      "isShootout": false
     },
     {
       "id": 230808,
@@ -1589,12 +1585,22 @@
       "theme": "Youth council",
       "themeId": "jongerenraad",
       "title": "A youth council should be established in Wijk bij Duurstede.",
+      "titleParts": [
+        {
+          "text": " In Wijk bij Duurstede moet een "
+        },
+        {
+          "text": "jongerenraad",
+          "glossary": "A group of young people who provide input and discuss plans and policy with the municipality."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "A youth council should be established in Wijk bij Duurstede.",
-      "themeEn": "Youth council"
+      "isShootout": false
     },
     {
       "id": 230788,
@@ -1602,12 +1608,22 @@
       "theme": "Integration",
       "themeId": "integratie",
       "title": "The municipality should spend more money on integrating newcomers into society.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld uitgeven aan "
+        },
+        {
+          "text": "integratie",
+          "glossary": "Newcomers learn the language and customs of the Netherlands."
+        },
+        {
+          "text": " van nieuwkomers in de maatschappij."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should spend more money on integrating newcomers into society.",
-      "themeEn": "Integration"
+      "isShootout": false
     },
     {
       "id": 230796,
@@ -1615,12 +1631,29 @@
       "theme": "Monuments",
       "themeId": "monumenten",
       "title": "The municipality should cut spending on heritage conservation.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "bezuinigen",
+          "glossary": "Spending less money."
+        },
+        {
+          "text": " op de "
+        },
+        {
+          "text": "monumentenzorg",
+          "glossary": "The care of historic or special old buildings."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should cut spending on heritage conservation.",
-      "themeEn": "Monuments"
+      "isShootout": false
     },
     {
       "id": 230790,
@@ -1628,12 +1661,29 @@
       "theme": "Priority for people with refugee status",
       "themeId": "voorrang-voor-statushouders",
       "title": "The municipality must continue to give refugees with a residence permit priority for social housing.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet vluchtelingen met een "
+        },
+        {
+          "text": "verblijfsvergunning",
+          "glossary": "The right to reside in the Netherlands. The term can refer to the right itself or to the card that shows someone has that right."
+        },
+        {
+          "text": " voorrang blijven geven op een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent for people with a low income. In 2026 that is at most €932.93 per month."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must continue to give refugees with a residence permit priority for social housing.",
-      "themeEn": "Priority for people with refugee status"
+      "isShootout": false
     },
     {
       "id": 230791,
@@ -1641,12 +1691,22 @@
       "theme": "Sustainable energy",
       "themeId": "duurzame-energie",
       "title": "Residents who want to generate sustainable energy together should receive financial support from the municipality.",
+      "titleParts": [
+        {
+          "text": " Inwoners die samen "
+        },
+        {
+          "text": "duurzame energie",
+          "glossary": "Energy based on resources that are effectively infinite, such as sunlight and wind."
+        },
+        {
+          "text": " op willen wekken, moeten financiële steun krijgen van de gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents who want to generate sustainable energy together should receive financial support from the municipality.",
-      "themeEn": "Sustainable energy"
+      "isShootout": false
     },
     {
       "id": 230801,
@@ -1654,12 +1714,22 @@
       "theme": "Design and appearance regulations",
       "themeId": "welstandsregels",
       "title": "The municipality should abolish the municipal aesthetic rules for building and renovating in more residential neighborhoods. In these neighborhoods, construction would be allowed without requirements on, for example, color or shape.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de gemeentelijke "
+        },
+        {
+          "text": "welstandsregels",
+          "glossary": "Municipal rules that determine how the houses and gardens in a neighbourhood should look."
+        },
+        {
+          "text": " voor bouwen en verbouwen in meer woonwijken afschaffen. In deze wijken mag zonder eisen aan bijvoorbeeld kleur en vorm worden gebouwd."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should abolish the municipal aesthetic rules for building and renovating in more residential neighborhoods. In these neighborhoods, construction would be allowed without requirements on, for example, color or shape.",
-      "themeEn": "Design and appearance regulations"
+      "isShootout": false
     },
     {
       "id": 230798,
@@ -1667,12 +1737,22 @@
       "theme": "Camera surveillance",
       "themeId": "cameratoezicht",
       "title": "Camera surveillance should be installed in the municipality at places with a lot of nuisance.",
+      "titleParts": [
+        {
+          "text": " In de gemeente moet "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Monitoring of a building, area, or (groups of) people using security cameras."
+        },
+        {
+          "text": " komen op plekken waar veel overlast is."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Camera surveillance should be installed in the municipality at places with a lot of nuisance.",
-      "themeEn": "Camera surveillance"
+      "isShootout": false
     },
     {
       "id": 230809,
@@ -1683,9 +1763,7 @@
       "moreInfo": "Wijk bij Duurstede has an advisory council for the social domain. It includes residents from Wijk bij Duurstede, Cothen and Langbroek who each bring their own knowledge and experience in care and welfare. The advisory council advises the mayor and aldermen, both when asked and unasked. The advice covers a wide area, namely the social domain — for example loneliness, access to mental health care, poverty and debt assistance, citizen initiatives and informal care. There is currently no broader advisory council that also includes, for example, entrepreneurs.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Wijk bij Duurstede should set up an advisory council with residents and entrepreneurs.",
-      "themeEn": "Advisory council"
+      "isShootout": false
     },
     {
       "id": 230792,
@@ -1696,9 +1774,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "For every tree cut down in the municipality, a new one must be planted.",
-      "themeEn": "Trees"
+      "isShootout": false
     },
     {
       "id": 230814,
@@ -1709,9 +1785,7 @@
       "moreInfo": "Farmers can cooperate to promote regional products. One way to do this is with a label, a kind of quality mark. That lets buyers know from which region the products come. There is currently no specific label for products from Wijk bij Duurstede.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Wijk bij Duurstede should, together with other municipalities in the Kromme Rijn region, work towards a \"Kromme Rijn\" label. With that label, local entrepreneurs can sell regional products.",
-      "themeEn": "Kromme Rijn label"
+      "isShootout": false
     },
     {
       "id": 230815,
@@ -1719,12 +1793,22 @@
       "theme": "Recreational beach",
       "themeId": "recreatiestrand",
       "title": "There should be a recreational beach in the Wijkse Waarden.",
+      "titleParts": [
+        {
+          "text": " Er moet een "
+        },
+        {
+          "text": "recreatiestrand",
+          "glossary": "A beach where you can walk, play football, swim, sunbathe, etc."
+        },
+        {
+          "text": " komen in de Wijkse Waarden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be a recreational beach in the Wijkse Waarden.",
-      "themeEn": "Recreational beach"
+      "isShootout": false
     },
     {
       "id": 230807,
@@ -1732,12 +1816,22 @@
       "theme": "Stop debt forgiveness",
       "themeId": "kwijtschelding-stoppen",
       "title": "The municipality should stop forgiving municipal taxes for low-income residents.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet stoppen met het "
+        },
+        {
+          "text": "kwijtschelden",
+          "glossary": "That people no longer have to pay for something."
+        },
+        {
+          "text": " van de gemeentelijke belastingen voor inwoners met een laag inkomen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should stop forgiving municipal taxes for low-income residents.",
-      "themeEn": "Stop debt forgiveness"
+      "isShootout": false
     },
     {
       "id": 230820,
@@ -1745,12 +1839,22 @@
       "theme": "Preschool education",
       "themeId": "voorschoolse-educatie",
       "title": "The municipality should make preschool education free for all children.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "voorschoolse educatie",
+          "glossary": "A program for children aged 2½ to 4 years that stimulates their development in various areas. It is offered at the playgroup or at childcare."
+        },
+        {
+          "text": " gratis maken voor alle kinderen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should make preschool education free for all children.",
-      "themeEn": "Preschool education"
+      "isShootout": false
     },
     {
       "id": 230810,
@@ -1758,12 +1862,22 @@
       "theme": "Dog tax",
       "themeId": "hondenbelasting",
       "title": "The municipality should abolish the dog tax.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de "
+        },
+        {
+          "text": "hondenbelasting",
+          "glossary": "Tax paid to the municipality for owning one or more dogs."
+        },
+        {
+          "text": " afschaffen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should abolish the dog tax.",
-      "themeEn": "Dog tax"
+      "isShootout": false
     },
     {
       "id": 230817,
@@ -1774,9 +1888,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents who produce a lot of residual (non-recyclable) waste should pay more.",
-      "themeEn": "Waste disposal charge"
+      "isShootout": false
     },
     {
       "id": 230823,
@@ -1784,12 +1896,22 @@
       "theme": "Sports offerings",
       "themeId": "sportaanbod",
       "title": "The municipality should invest money in expanding sports offerings for people with physical or mental disabilities.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld steken in het uitbreiden van het sportaanbod voor mensen met een lichamelijke of geestelijke "
+        },
+        {
+          "text": "beperking",
+          "glossary": "Something that hinders you in daily life. A disability can be physical or intellectual, related to hearing or sight, or combinations of these."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should invest money in expanding sports offerings for people with physical or mental disabilities.",
-      "themeEn": "Sports offerings"
+      "isShootout": false
     },
     {
       "id": 230831,
@@ -1800,9 +1922,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should invest in mixed housing complexes for young and old.",
-      "themeEn": "Residential care complexes"
+      "isShootout": false
     },
     {
       "id": 230824,
@@ -1813,9 +1933,7 @@
       "moreInfo": "At the town hall of Wijk bij Duurstede you can visit the police support point on Mondays and Thursdays. On other days residents can go to the police station in Doorn. The police are of course always reachable by phone. There are also neighborhood officers in the municipality. Until about ten years ago there was a police station in the municipality. The introduction of the National Police meant the end of several police teams across the country and also led to the closure of the police station in Wijk bij Duurstede.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should actively lobby for a police station in Wijk bij Duurstede.",
-      "themeEn": "Police station"
+      "isShootout": false
     },
     {
       "id": 230827,
@@ -1823,12 +1941,22 @@
       "theme": "Lighting in rural areas",
       "themeId": "verlichting-buitengebied",
       "title": "Public lighting in the rural area should be turned off more often.",
+      "titleParts": [
+        {
+          "text": " De openbare verlichting in het "
+        },
+        {
+          "text": "buitengebied",
+          "glossary": "Area within the municipality's borders but outside the towns or villages themselves; there are few houses and other buildings here."
+        },
+        {
+          "text": " moet vaker uit."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Public lighting in the rural area should be turned off more often.",
-      "themeEn": "Lighting in rural areas"
+      "isShootout": false
     },
     {
       "id": 230813,
@@ -1836,12 +1964,22 @@
       "theme": "Advertisements promoting adultery",
       "themeId": "reclame-overspel",
       "title": "The municipality should ban advertising that promotes adultery in public spaces.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet reclame die oproept tot "
+        },
+        {
+          "text": "overspel",
+          "glossary": "Having a (sexual) relationship with someone other than one's steady partner, without that partner's consent."
+        },
+        {
+          "text": " verbieden in de openbare ruimte."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should ban advertising that promotes adultery in public spaces.",
-      "themeEn": "Advertisements promoting adultery"
+      "isShootout": false
     },
     {
       "id": 230833,
@@ -1849,12 +1987,22 @@
       "theme": "Welfare fraud",
       "themeId": "bijstandsfraude",
       "title": "The municipality should not use algorithms to detect social assistance (welfare) fraud.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geen gebruik maken van "
+        },
+        {
+          "text": "algoritmen",
+          "glossary": "A step-by-step plan or a list of rules that a computer follows to carry out a task or solve a problem."
+        },
+        {
+          "text": " bij de opsporing van bijstandsfraude."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should not use algorithms to detect social assistance (welfare) fraud.",
-      "themeEn": "Welfare fraud"
+      "isShootout": false
     },
     {
       "id": 230830,
@@ -1862,12 +2010,22 @@
       "theme": "Building on private property",
       "themeId": "bouwen-op-eigen-terrein",
       "title": "The municipality should allow the construction of mantelzorg homes (family caregiver homes) on private property without a permit.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet het realiseren van "
+        },
+        {
+          "text": "mantelzorgwoning",
+          "glossary": "A self-contained dwelling on the grounds of another house, where, for example, grandparents can be cared for."
+        },
+        {
+          "text": "en op eigen terrein zonder vergunning toestaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allow the construction of mantelzorg homes (family caregiver homes) on private property without a permit.",
-      "themeEn": "Building on private property"
+      "isShootout": false
     },
     {
       "id": 230839,
@@ -1875,12 +2033,29 @@
       "theme": "Shared vehicles",
       "themeId": "deelvoertuigen",
       "title": "The municipality should ensure that a shared car or shared bicycle is available in every neighborhood.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet ervoor zorgen dat er in iedere wijk een "
+        },
+        {
+          "text": "deelauto",
+          "glossary": "Car that multiple people can use."
+        },
+        {
+          "text": " of "
+        },
+        {
+          "text": "deelfiets",
+          "glossary": "Bicycle that multiple people can use."
+        },
+        {
+          "text": " beschikbaar is."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should ensure that a shared car or shared bicycle is available in every neighborhood.",
-      "themeEn": "Shared vehicles"
+      "isShootout": false
     },
     {
       "id": 230842,
@@ -1888,12 +2063,22 @@
       "theme": "Memorial forest",
       "themeId": "herdenkingsbos",
       "title": "A memorial forest should be established in the municipality of Wijk bij Duurstede.",
+      "titleParts": [
+        {
+          "text": " Er moet een "
+        },
+        {
+          "text": "herdenkingsbos",
+          "glossary": "A forest where trees are planted in memory of deceased loved ones."
+        },
+        {
+          "text": " komen in de gemeente Wijk bij Duurstede."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "A memorial forest should be established in the municipality of Wijk bij Duurstede.",
-      "themeEn": "Memorial forest"
+      "isShootout": false
     },
     {
       "id": 230843,
@@ -1901,12 +2086,22 @@
       "theme": "Youth care",
       "themeId": "jeugdzorg",
       "title": "The municipality should allocate more money to youth care.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld uittrekken voor "
+        },
+        {
+          "text": "jeugdzorg",
+          "glossary": "Support for young people with problems, for example mental health care, foster care, day programmes, and help with dyslexia."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allocate more money to youth care.",
-      "themeEn": "Youth care"
+      "isShootout": false
     },
     {
       "id": 230840,
@@ -1917,9 +2112,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should invest in driving-skill training for seniors for cars, bicycles, and mobility scooters.",
-      "themeEn": "Driving skills training for seniors"
+      "isShootout": false
     },
     {
       "id": 230846,
@@ -1927,12 +2120,22 @@
       "theme": "Promotional campaign",
       "themeId": "promotiecampagne",
       "title": "The municipality should invest in a promotional campaign for Wijk bij Duurstede as an archaeological and historical center of Northwestern Europe.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld steken in een "
+        },
+        {
+          "text": "promotiecampagne",
+          "glossary": "A series of advertisements on, for example, billboards, television, and social media."
+        },
+        {
+          "text": " voor Wijk bij Duurstede als archeologisch en historisch centrum van Noordwest-Europa."
+        }
+      ],
       "moreInfo": "Wijk bij Duurstede is a \"small city with a big history.\" Wijk bij Duurstede experienced three notable historical periods: the Roman period, the Wijk Golden Age and the Burgundian period. There are many sites and buildings connected to that history, such as Duurstede Castle, the Dorestad Museum, the city harbor and the historic buildings. Many people are interested in history, which can be a reason for tourists to visit Wijk bij Duurstede.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should invest in a promotional campaign for Wijk bij Duurstede as an archaeological and historical center of Northwestern Europe.",
-      "themeEn": "Promotional campaign"
+      "isShootout": false
     },
     {
       "id": 230838,
@@ -1943,9 +2146,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should research the feasibility of a bridge over the Nederrijn.",
-      "themeEn": "Nederrijn Bridge"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

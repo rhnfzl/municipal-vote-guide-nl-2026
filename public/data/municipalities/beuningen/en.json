@@ -1537,12 +1537,22 @@
       "theme": "Car speeds",
       "themeId": "snelheid-auto-s",
       "title": "The maximum speed should be set to 30 km/h in all districts and neighborhoods.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "maximumsnelheid",
+          "glossary": "The maximum speed that cars and motorcycles are allowed to drive on the street."
+        },
+        {
+          "text": " moet in alle wijken en buurten naar 30 km/u."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The maximum speed should be set to 30 km/h in all districts and neighborhoods.",
-      "themeEn": "Car speeds"
+      "isShootout": false
     },
     {
       "id": 261618,
@@ -1553,9 +1563,7 @@
       "moreInfo": "There is national legislation concerning housing construction. Municipalities are free to set additional local requirements. The municipality of Beuningen imposes extra requirements on housing regarding sustainability, density, greenery and types of homes.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The special strict requirements that the municipality of Beuningen imposes on the construction of new homes should be abolished.",
-      "themeEn": "Building regulations"
+      "isShootout": false
     },
     {
       "id": 261613,
@@ -1563,12 +1571,22 @@
       "theme": "Municipal merger",
       "themeId": "gemeentefusie",
       "title": "The municipality of Beuningen should merge with one of the neighboring municipalities.",
+      "titleParts": [
+        {
+          "text": " De gemeente Beuningen moet "
+        },
+        {
+          "text": "fuseren",
+          "glossary": "The merging of two or more municipalities."
+        },
+        {
+          "text": " met een van de buurgemeenten."
+        }
+      ],
       "moreInfo": "In this case, merging means that the municipality of Beuningen joins with another municipality to form one new, larger municipality with a single administration, budget and policy.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality of Beuningen should merge with one of the neighboring municipalities.",
-      "themeEn": "Municipal merger"
+      "isShootout": false
     },
     {
       "id": 261617,
@@ -1579,9 +1597,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should appoint a contact person in each village who reports on what is happening there.",
-      "themeEn": "Contact person"
+      "isShootout": false
     },
     {
       "id": 261634,
@@ -1589,12 +1605,22 @@
       "theme": "District heating network",
       "themeId": "warmtenet",
       "title": "All villages in the municipality of Beuningen should, as much as possible, switch to the district heating network as an alternative to natural gas.",
+      "titleParts": [
+        {
+          "text": " Alle dorpen in de gemeente Beuningen moeten zoveel mogelijk overstappen op het "
+        },
+        {
+          "text": "warmtenet",
+          "glossary": "Network of underground pipes that brings hot water from a central source to homes and buildings, for both heating and tap water."
+        },
+        {
+          "text": " als alternatief voor aardgas."
+        }
+      ],
       "moreInfo": "A district heating network is an underground pipe system that transports hot water from a central source to homes and buildings. It provides heating and hot water and is an alternative to gas-fired boilers.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "All villages in the municipality of Beuningen should, as much as possible, switch to the district heating network as an alternative to natural gas.",
-      "themeEn": "District heating network"
+      "isShootout": false
     },
     {
       "id": 261622,
@@ -1605,9 +1631,7 @@
       "moreInfo": "The De Schoenaker business park is located in the village of Beuningen.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The business park between the A73, Schoenaker and the Elsenpas may be expanded to the south of the A73.",
-      "themeEn": "Business park"
+      "isShootout": false
     },
     {
       "id": 261660,
@@ -1615,12 +1639,22 @@
       "theme": "Energy saving",
       "themeId": "energiebesparing",
       "title": "Households with the lowest incomes should receive free insulation materials from the municipality to save on energy.",
+      "titleParts": [
+        {
+          "text": " De huishoudens met de laagste inkomens moeten van de gemeente gratis "
+        },
+        {
+          "text": "isolatiematerialen",
+          "glossary": "Material in roofs, walls and floors that keeps heat in or out. In winter it keeps heat inside and in summer outside."
+        },
+        {
+          "text": " krijgen om te besparen op energie."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Households with the lowest incomes should receive free insulation materials from the municipality to save on energy.",
-      "themeEn": "Energy saving"
+      "isShootout": false
     },
     {
       "id": 261630,
@@ -1631,9 +1665,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The money the municipality had left over from accommodating Ukrainians should be used for permanent housing for refugees.",
-      "themeEn": "Reception of Ukrainians (accommodation for Ukrainian refugees)"
+      "isShootout": false
     },
     {
       "id": 261616,
@@ -1644,9 +1676,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The town hall should be open more often so people can obtain a driver's license or ID without an appointment.",
-      "themeEn": "Opening of the town hall"
+      "isShootout": false
     },
     {
       "id": 261645,
@@ -1654,12 +1684,22 @@
       "theme": "Library at school",
       "themeId": "bibliotheek-op-school",
       "title": "The municipality should financially help each primary school to assemble its own library.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet elke basisschool "
+        },
+        {
+          "text": "financieel",
+          "glossary": "Something related to money."
+        },
+        {
+          "text": " helpen om een eigen bibliotheek samen te stellen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should financially help each primary school to assemble its own library.",
-      "themeEn": "Library at school"
+      "isShootout": false
     },
     {
       "id": 261619,
@@ -1667,12 +1707,29 @@
       "theme": "Start-up entrepreneurs",
       "themeId": "startende-ondernemers",
       "title": "Starting entrepreneurs should not have to pay property tax (onroerendezaakbelasting, OZB) for the first two years.",
+      "titleParts": [
+        {
+          "text": " Startende ondernemers hoeven de eerste 2 jaar geen "
+        },
+        {
+          "text": "onroerendezaakbelasting",
+          "glossary": "Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "ozb",
+          "glossary": "Property tax. Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": ") te betalen."
+        }
+      ],
       "moreInfo": "Property tax is a local tax in the Netherlands that you pay to the municipality if you own a house, a commercial building or a piece of land.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Starting entrepreneurs should not have to pay property tax (onroerendezaakbelasting, OZB) for the first two years.",
-      "themeEn": "Start-up entrepreneurs"
+      "isShootout": false
     },
     {
       "id": 261641,
@@ -1683,9 +1740,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should ensure that primary school children can at least obtain swimming certificates A and B.",
-      "themeEn": "School swimming"
+      "isShootout": false
     },
     {
       "id": 261637,
@@ -1693,12 +1748,22 @@
       "theme": "Grass",
       "themeId": "gras",
       "title": "In public places in the municipality of Beuningen, grass should be replaced with flowers and other plants to improve biodiversity.",
+      "titleParts": [
+        {
+          "text": " Op openbare plekken in de gemeente Beuningen moet het gras worden vervangen door bloemen en andere planten om de "
+        },
+        {
+          "text": "biodiversiteit",
+          "glossary": "There are many different species of plants, animals and fungi on Earth. Species depend on each other to keep nature healthy. More biodiversity means there are more species of plants and animals."
+        },
+        {
+          "text": " te verbeteren."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "In public places in the municipality of Beuningen, grass should be replaced with flowers and other plants to improve biodiversity.",
-      "themeEn": "Grass"
+      "isShootout": false
     },
     {
       "id": 261646,
@@ -1706,12 +1771,22 @@
       "theme": "Enforcement officers",
       "themeId": "handhavers",
       "title": "There should be more municipal enforcement officers (BOAs) in the municipality of Beuningen. There are currently three.",
+      "titleParts": [
+        {
+          "text": " In de gemeente Beuningen moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "People who, for the municipality, check whether citizens and businesses comply with the rules."
+        },
+        {
+          "text": " (boa’s) komen. Het zijn er nu 3."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be more municipal enforcement officers (BOAs) in the municipality of Beuningen. There are currently three.",
-      "themeEn": "Enforcement officers"
+      "isShootout": false
     },
     {
       "id": 261659,
@@ -1719,12 +1794,22 @@
       "theme": "Debt counseling",
       "themeId": "schuldhulpverlening",
       "title": "The municipality should buy up or forgive the debts of low-income people who have severe financial problems.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet schulden opkopen of "
+        },
+        {
+          "text": "kwijtschelden",
+          "glossary": "That people no longer have to pay for something."
+        },
+        {
+          "text": " van mensen met een laag inkomen die grote financiële problemen hebben."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should buy up or forgive the debts of low-income people who have severe financial problems.",
-      "themeEn": "Debt counseling"
+      "isShootout": false
     },
     {
       "id": 261651,
@@ -1735,9 +1820,7 @@
       "moreInfo": "The oeverwal (riverbank ridge) area is the landscape type found north of the Van Heemstraweg up to the dike. The area contains sandy soils.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "No homes may be built on the riverbanks of the Waal along the northern boundary of the municipality.",
-      "themeEn": "Basin area"
+      "isShootout": false
     },
     {
       "id": 261636,
@@ -1745,12 +1828,29 @@
       "theme": "Sustainable businesses",
       "themeId": "duurzame-bedrijven",
       "title": "Only companies that operate sustainably should be allowed to establish themselves in our municipality from now on.",
+      "titleParts": [
+        {
+          "text": " Alleen bedrijven die "
+        },
+        {
+          "text": "duurzaam",
+          "glossary": "Something you can (re)use for a long time."
+        },
+        {
+          "text": " werken mogen zich voortaan in onze gemeente "
+        },
+        {
+          "text": "vestigen",
+          "glossary": "To build; to establish or set up (a building, organization or household)."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Only companies that operate sustainably should be allowed to establish themselves in our municipality from now on.",
-      "themeEn": "Sustainable businesses"
+      "isShootout": false
     },
     {
       "id": 261647,
@@ -1758,12 +1858,22 @@
       "theme": "Camera surveillance",
       "themeId": "cameratoezicht",
       "title": "Camera surveillance should be installed in the center of Beuningen.",
+      "titleParts": [
+        {
+          "text": " In het centrum van Beuningen moet "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Monitoring of a building, area, or (groups of) people using security cameras."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Camera surveillance should be installed in the center of Beuningen.",
-      "themeEn": "Camera surveillance"
+      "isShootout": false
     },
     {
       "id": 261666,
@@ -1774,9 +1884,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should more strictly enforce compliance with the blue parking disc rules.",
-      "themeEn": "Parking disc"
+      "isShootout": false
     },
     {
       "id": 261653,
@@ -1784,12 +1892,22 @@
       "theme": "Priority for housing",
       "themeId": "voorrang-huisvesting",
       "title": "When allocating a social rental home, young applicants from the municipality itself should be given priority.",
+      "titleParts": [
+        {
+          "text": " Bij de toewijzing van een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " moeten jonge woningzoekenden uit de eigen gemeente voorrang krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "When allocating a social rental home, young applicants from the municipality itself should be given priority.",
-      "themeEn": "Priority for housing"
+      "isShootout": false
     },
     {
       "id": 261668,
@@ -1800,9 +1918,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should make the center of Beuningen more attractive for cyclists at the expense of cars.",
-      "themeEn": "Parking demand"
+      "isShootout": false
     },
     {
       "id": 261661,
@@ -1813,9 +1929,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People receiving social assistance who do volunteer work should additionally perform unpaid work on behalf of the municipality.",
-      "themeEn": "Work requirement for welfare recipients"
+      "isShootout": false
     },
     {
       "id": 261625,
@@ -1826,9 +1940,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should encourage agricultural land in the municipality to be used for housing.",
-      "themeEn": "Agricultural land"
+      "isShootout": false
     },
     {
       "id": 261675,
@@ -1836,12 +1948,22 @@
       "theme": "Perspective",
       "themeId": "perspectief",
       "title": "The municipality should give the welfare organization Perspectief a higher fixed, annually recurring subsidy.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet welzijnsorganisatie Perspectief een hogere vaste, jaarlijks terugkerende "
+        },
+        {
+          "text": "subsidie",
+          "glossary": "Money the government gives to citizens, businesses, and organizations to support them."
+        },
+        {
+          "text": " geven."
+        }
+      ],
       "moreInfo": "Perspectief is the organization within the municipality of Beuningen that works for the welfare of all residents. It does this, among other things, by organizing activities for young and old.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should give the welfare organization Perspectief a higher fixed, annually recurring subsidy.",
-      "themeEn": "Perspective"
+      "isShootout": false
     },
     {
       "id": 261626,
@@ -1852,9 +1974,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should prepare a plan for one new building for the town hall, the library, village hall De Lèghe Polder, and sports hall De Tinnegieter.",
-      "themeEn": "Multi-purpose building"
+      "isShootout": false
     },
     {
       "id": 261658,
@@ -1865,9 +1985,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The number of people who can use schemes for poverty assistance should remain the same.",
-      "themeEn": "Combating poverty"
+      "isShootout": false
     },
     {
       "id": 261674,
@@ -1875,12 +1993,22 @@
       "theme": "Meeting place",
       "themeId": "ontmoetingsplek",
       "title": "Young people should have their own meeting place in every village or town of the municipality of Beuningen.",
+      "titleParts": [
+        {
+          "text": " Jongeren moeten in elke "
+        },
+        {
+          "text": "kern",
+          "glossary": "A village or small town that is part of the municipality."
+        },
+        {
+          "text": " van de gemeente Beuningen een eigen ontmoetingsplek hebben."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Young people should have their own meeting place in every village or town of the municipality of Beuningen.",
-      "themeEn": "Meeting place"
+      "isShootout": false
     },
     {
       "id": 261648,
@@ -1891,9 +2019,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should urge the police to more frequently monitor fatbike riders' behavior and speed.",
-      "themeEn": "Fat bikes"
+      "isShootout": false
     },
     {
       "id": 261670,
@@ -1904,9 +2030,7 @@
       "moreInfo": "Sports park De Ooigraaf is located in the village of Beuningen.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be a bicycle tunnel to make sports park Ooigraaf more accessible.",
-      "themeEn": "Bicycle tunnel"
+      "isShootout": false
     },
     {
       "id": 261638,
@@ -1914,12 +2038,29 @@
       "theme": "Rural areas",
       "themeId": "buitengebieden",
       "title": "Visitors and organizers of events in the outlying areas should contribute to the conservation of nature in those areas.",
+      "titleParts": [
+        {
+          "text": " Bezoekers en organisatoren van "
+        },
+        {
+          "text": "evenementen",
+          "glossary": "A temporary, organized gathering. For example a street party, a flea market, or a music festival."
+        },
+        {
+          "text": " in de "
+        },
+        {
+          "text": "buitengebied",
+          "glossary": "Area within the municipality's borders but outside the towns or villages themselves; there are few houses and other buildings here."
+        },
+        {
+          "text": "en moeten gaan meebetalen aan het behoud van de natuur in die gebieden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Visitors and organizers of events in the outlying areas should contribute to the conservation of nature in those areas.",
-      "themeEn": "Rural areas"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

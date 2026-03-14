@@ -1462,6 +1462,18 @@
       "theme": "Taallessen",
       "themeId": "taallessen",
       "title": "De gemeente moet nieuwkomers meer taallessen geven.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "nieuwkomers",
+          "glossary": "Mensen die nog niet lang in Nederland wonen."
+        },
+        {
+          "text": " meer taallessen geven."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1475,6 +1487,18 @@
       "theme": "Starterslening",
       "themeId": "starterslening",
       "title": "Mensen die voor het eerst een huis willen kopen, moeten van de gemeente een starterslening kunnen krijgen.",
+      "titleParts": [
+        {
+          "text": " Mensen die voor het eerst een huis willen kopen, moeten van de gemeente een "
+        },
+        {
+          "text": "starterslening",
+          "glossary": "Extra lening naast je hypotheek, die je alleen kunt krijgen als je voor het eerst een huis koopt."
+        },
+        {
+          "text": " kunnen krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1488,6 +1512,18 @@
       "theme": "Schoolzwemmen",
       "themeId": "schoolzwemmen",
       "title": "De gemeente moet geld beschikbaar stellen voor schoolzwemmen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld beschikbaar stellen voor "
+        },
+        {
+          "text": "schoolzwemmen",
+          "glossary": "Zwemlessen die vanuit de school worden georganiseerd."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1501,6 +1537,25 @@
       "theme": "Meer of minder afval",
       "themeId": "meer-of-minder-afval",
       "title": "Huishoudens moeten betalen voor de hoeveelheid restafval die ze aanbieden. Meer restafval is dus hogere kosten.",
+      "titleParts": [
+        {
+          "text": " Huishoudens moeten betalen voor de hoeveelheid "
+        },
+        {
+          "text": "restafval",
+          "glossary": "Afval dat overblijft nadat papier, plastic en gft apart zijn ingezameld."
+        },
+        {
+          "text": " die ze aanbieden. Meer "
+        },
+        {
+          "text": "restafval",
+          "glossary": "Afval dat overblijft nadat papier, plastic en gft apart zijn ingezameld."
+        },
+        {
+          "text": " is dus hogere kosten."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1540,6 +1595,18 @@
       "theme": "Handhavers",
       "themeId": "handhavers",
       "title": "In Woerden moeten meer gemeentelijke handhavers (boa’s) komen die zich met veiligheid bezighouden. Nu zijn er 4.",
+      "titleParts": [
+        {
+          "text": " In Woerden moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "Mensen die voor de gemeente controleren of burgers en bedrijven zich aan de regels houden."
+        },
+        {
+          "text": " (boa’s) komen die zich met veiligheid bezighouden. Nu zijn er 4."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1566,6 +1633,18 @@
       "theme": "Warmtenetten",
       "themeId": "warmtenetten",
       "title": "De gemeente moet meebetalen aan de aanleg van warmtenetten.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meebetalen aan de aanleg van "
+        },
+        {
+          "text": "warmtenet",
+          "glossary": "Netwerk van ondergrondse leidingen dat warm water van een centrale bron naar woningen en gebouwen brengt, zowel voor verwarming als warm water uit de kraan."
+        },
+        {
+          "text": "ten."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1579,6 +1658,18 @@
       "theme": "Cameratoezicht",
       "themeId": "cameratoezicht",
       "title": "In Woerden moet meer cameratoezicht komen.",
+      "titleParts": [
+        {
+          "text": " In Woerden moet meer "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Het houden van toezicht op of in een gebouw, gebied of (groepen) mensen met behulp van bewakingscamera's."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1592,6 +1683,25 @@
       "theme": "Gesubsidieerde banen",
       "themeId": "gesubsidieerde-banen",
       "title": "Er moeten veel meer gesubsidieerde banen voor langdurig werklozen komen in onze gemeente.",
+      "titleParts": [
+        {
+          "text": " Er moeten veel meer "
+        },
+        {
+          "text": "gesubsidieerde",
+          "glossary": "Geld dat de overheid aan burgers, bedrijven en organisaties geeft om ze te steunen."
+        },
+        {
+          "text": " banen voor "
+        },
+        {
+          "text": "langdurig werklozen",
+          "glossary": "Mensen die al lange tijd (langer dan een jaar) geen betaald werk hebben."
+        },
+        {
+          "text": " komen in onze gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1605,6 +1715,18 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "De inwoners van Woerden moeten over belangrijke onderwerpen hun mening kunnen geven via een referendum.",
+      "titleParts": [
+        {
+          "text": " De inwoners van Woerden moeten over belangrijke onderwerpen hun mening kunnen geven via een "
+        },
+        {
+          "text": "referendum",
+          "glossary": "Volksraadpleging waarbij inwoners zich kunnen uitspreken over een politieke kwestie. De gemeenteraad is niet verplicht de uitslag te volgen, dat is wettelijk niet mogelijk."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1618,6 +1740,18 @@
       "theme": "Meer straatlantaarns",
       "themeId": "meer-straatlantaarns",
       "title": "Woerden moet in het buitengebied meer straatlantaarns plaatsen.",
+      "titleParts": [
+        {
+          "text": " Woerden moet in het "
+        },
+        {
+          "text": "buitengebied",
+          "glossary": "Gebied binnen de grenzen van de gemeente maar buiten de steden of dorpen zelf, hier staan weinig huizen en andere gebouwen."
+        },
+        {
+          "text": " meer straatlantaarns plaatsen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1631,6 +1765,25 @@
       "theme": "Snelheid auto's",
       "themeId": "snelheid-auto-s",
       "title": "De maximumsnelheid binnen de bebouwde kom moet naar 30 km/u.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "maximumsnelheid",
+          "glossary": "De hoogste snelheid die auto’s en motoren mogen rijden op straat."
+        },
+        {
+          "text": " binnen de "
+        },
+        {
+          "text": "bebouwde kom",
+          "glossary": "Gebied met bebouwing (huizen, gebouwen)."
+        },
+        {
+          "text": " moet naar 30 km/u."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1644,6 +1797,25 @@
       "theme": "Integratie",
       "themeId": "integratie",
       "title": "Woerden moet meer geld uitgeven aan integratie van nieuwkomers in de maatschappij.",
+      "titleParts": [
+        {
+          "text": " Woerden moet meer geld uitgeven aan "
+        },
+        {
+          "text": "integratie",
+          "glossary": "Nieuwkomers leren de taal en gewoonten van Nederland."
+        },
+        {
+          "text": " van "
+        },
+        {
+          "text": "nieuwkomers",
+          "glossary": "Mensen die nog niet lang in Nederland wonen."
+        },
+        {
+          "text": " in de maatschappij."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1657,6 +1829,25 @@
       "theme": "Kwijtschelding stoppen",
       "themeId": "kwijtschelding-stoppen",
       "title": "De gemeente moet stoppen met het volledig kwijtschelden van de gemeentelijke belastingen voor inwoners met een laag inkomen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet stoppen met het volledig "
+        },
+        {
+          "text": "kwijtschelden",
+          "glossary": "Dat mensen iets niet meer hoeven te betalen."
+        },
+        {
+          "text": " van de "
+        },
+        {
+          "text": "gemeentelijke belastingen",
+          "glossary": "Belastingen die je aan de gemeente moet betalen (bijv. rioolheffing, afvalstoffenheffing, hondenbelasting)."
+        },
+        {
+          "text": " voor inwoners met een laag inkomen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1774,6 +1965,18 @@
       "theme": "Leges",
       "themeId": "leges",
       "title": "Gemeentelijke bouwvergunningen moeten goedkoper worden.",
+      "titleParts": [
+        {
+          "text": " Gemeentelijke bouw"
+        },
+        {
+          "text": "vergunning",
+          "glossary": "Toestemming van de gemeente om iets te mogen doen."
+        },
+        {
+          "text": "en moeten goedkoper worden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",

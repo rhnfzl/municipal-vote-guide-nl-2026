@@ -1,13 +1,17 @@
 #!/usr/bin/env node
 /**
- * Scrape Municipality Logos (Coats of Arms / Gemeentewapens)
- * Fetches Dutch municipality coats of arms from Wikipedia/Wikimedia Commons.
+ * Scrape Municipality Coats of Arms (Gemeentewapens)
+ * Downloads proper heraldic coats of arms from Wikimedia Commons.
  *
- * Sources (in priority order):
- *   1. Dutch Wikipedia "Wapen van {name}" pages
- *   2. English Wikipedia "{name}" municipality pages
- *   3. Dutch Wikipedia "{name}" pages (direct)
- *   4. Google Favicon API from gemeente website
+ * Source: Wikimedia Commons SVG coats of arms → PNG thumbnails at 256px.
+ * All Dutch municipal coats of arms are public domain (PD-NL-gemeentewapen).
+ *
+ * Naming patterns tried (in order):
+ *   1. {Name} wapen.svg
+ *   2. Coat of arms of {Name}.svg
+ *   3. Gemeentewapen {Name}.svg
+ *   4. Wapen van {Name}.svg
+ *   5. Search API fallback
  */
 
 import fs from "fs";
@@ -22,15 +26,30 @@ const INDEX_PATH = path.join(ROOT, "public", "data", "index.json");
 const LOGOS_DIR = path.join(ROOT, "public", "images", "municipalities");
 const LOGOS_JSON = path.join(ROOT, "src", "lib", "municipality-logos.json");
 
+const COMMONS_API = "https://commons.wikimedia.org/w/api.php";
+const THUMB_WIDTH = 256;
+
+// Manual overrides for municipalities with non-standard Wikimedia filenames
+const FILE_OVERRIDES = {
+  "'s-Gravenhage": ["'s-Gravenhage wapen.svg", "Coat of arms of The Hague.svg", "Den Haag wapen.svg"],
+  "'s-Hertogenbosch": ["'s-Hertogenbosch wapen.svg", "Coat of arms of 's-Hertogenbosch.svg"],
+  "Hengelo (O.)": ["Hengelo wapen.svg", "Coat of arms of Hengelo.svg"],
+  "Rijswijk (ZH.)": ["Rijswijk wapen.svg", "Coat of arms of Rijswijk.svg"],
+  "Middelburg (Z.)": ["Middelburg wapen.svg", "Coat of arms of Middelburg.svg"],
+  "Beek (L.)": ["Beek (Limburg) wapen.svg", "Coat of arms of Beek.svg"],
+  "Stein (L.)": ["Stein wapen.svg", "Coat of arms of Stein (Limburg).svg"],
+  "Noardeast-Fryslân": ["Noardeast-Fryslan wapen.svg"],
+  "Súdwest-Fryslân": ["Sudwest-Fryslan wapen.svg"],
+};
+
 // ── Helpers ──────────────────────────────────────────────────────────
 
 function fetchUrl(url, maxRedirects = 5) {
   return new Promise((resolve, reject) => {
     if (maxRedirects <= 0) return reject(new Error("too many redirects"));
-    const client = https;
-    const req = client.get(url, {
-      headers: { "User-Agent": "Mozilla/5.0 (compatible; VoteGuideBot/1.0)" },
-      timeout: 15000,
+    https.get(url, {
+      headers: { "User-Agent": "VoteGuideBot/2.0 (municipal-vote-guide-nl-2026; contact: github.com/rhnfzl)" },
+      timeout: 20000,
     }, (res) => {
       if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
         let redirect = res.headers.location;
@@ -48,9 +67,7 @@ function fetchUrl(url, maxRedirects = 5) {
         data: Buffer.concat(chunks),
         contentType: res.headers["content-type"] || "",
       }));
-    });
-    req.on("error", reject);
-    req.on("timeout", () => { req.destroy(); reject(new Error("timeout")); });
+    }).on("error", reject).on("timeout", function () { this.destroy(); reject(new Error("timeout")); });
   });
 }
 
@@ -58,104 +75,167 @@ function sleep(ms) {
   return new Promise((r) => setTimeout(r, ms));
 }
 
-// ── Wikipedia API Fetcher ────────────────────────────────────────────
+// ── Rate-limited fetch with retry ────────────────────────────────────
 
-async function fetchWikiPageImage(lang, title, thumbSize = 256) {
-  const encodedTitle = encodeURIComponent(title);
-  const url = `https://${lang}.wikipedia.org/w/api.php?action=query&titles=${encodedTitle}&prop=pageimages&format=json&pithumbsize=${thumbSize}&redirects=1`;
-
-  try {
+async function fetchWithRetry(url, retries = 3) {
+  for (let attempt = 0; attempt < retries; attempt++) {
     const res = await fetchUrl(url);
-    if (res.status !== 200) return null;
-
-    const json = JSON.parse(res.data.toString("utf-8"));
-    const pages = json?.query?.pages;
-    if (!pages) return null;
-
-    for (const page of Object.values(pages)) {
-      if (page.thumbnail?.source) {
-        return page.thumbnail.source;
-      }
+    const text = res.data.toString("utf-8");
+    if (res.status === 429 || text.includes("too many requests")) {
+      const backoff = (attempt + 1) * 3000;
+      console.log(`    Rate limited, waiting ${backoff / 1000}s...`);
+      await sleep(backoff);
+      continue;
     }
-  } catch {
-    // ignore
+    return res;
+  }
+  throw new Error("rate limited after retries");
+}
+
+// ── Wikimedia Commons API ────────────────────────────────────────────
+
+/**
+ * Query Wikimedia Commons for image info of specific file titles.
+ * Queries one title at a time to avoid encoding issues with pipes.
+ */
+async function queryFileInfo(fileTitles) {
+  for (const title of fileTitles) {
+    const encodedTitle = encodeURIComponent(`File:${title}`);
+    const url = `${COMMONS_API}?action=query&titles=${encodedTitle}&prop=imageinfo&iiprop=url%7Csize&iiurlwidth=${THUMB_WIDTH}&format=json`;
+
+    try {
+      const res = await fetchWithRetry(url);
+      if (res.status !== 200) { await sleep(500); continue; }
+
+      const json = JSON.parse(res.data.toString("utf-8"));
+      const pages = json?.query?.pages;
+      if (!pages) { await sleep(500); continue; }
+
+      for (const page of Object.values(pages)) {
+        if (!page.missing && page.imageinfo?.[0]?.thumburl) {
+          return {
+            title: page.title,
+            thumburl: page.imageinfo[0].thumburl,
+            width: page.imageinfo[0].thumbwidth,
+            height: page.imageinfo[0].thumbheight,
+            size: page.imageinfo[0].size,
+          };
+        }
+      }
+    } catch {
+      // continue to next title
+    }
+    await sleep(500);
   }
   return null;
 }
 
-async function downloadImage(imageUrl, outPath) {
-  try {
-    const res = await fetchUrl(imageUrl);
-    if (res.status === 200 && res.data.length > 200) {
-      fs.writeFileSync(outPath, res.data);
-      return res.data.length;
+/**
+ * Search Wikimedia Commons for coat of arms files.
+ */
+async function searchForCoatOfArms(municipalityName) {
+  const cleanName = municipalityName
+    .replace(/\s*\([^)]*\)/g, "") // strip parenthetical suffixes
+    .trim();
+
+  const queries = [
+    `wapen ${cleanName}`,
+    `coat of arms ${cleanName}`,
+    `gemeentewapen ${cleanName}`,
+  ];
+
+  for (const query of queries) {
+    const url = `${COMMONS_API}?action=query&list=search&srnamespace=6&srsearch=${encodeURIComponent(query)}&srlimit=5&format=json`;
+
+    try {
+      const res = await fetchWithRetry(url);
+      if (res.status !== 200) continue;
+
+      const json = JSON.parse(res.data.toString("utf-8"));
+      const results = json?.query?.search || [];
+
+      // Find the first SVG result that looks like a coat of arms
+      for (const result of results) {
+        const title = result.title;
+        if (title.endsWith(".svg") &&
+            (title.toLowerCase().includes("wapen") ||
+             title.toLowerCase().includes("coat of arms") ||
+             title.toLowerCase().includes("gemeentewapen"))) {
+          // Get the thumbnail for this file
+          const fileTitle = title.replace("File:", "");
+          const info = await queryFileInfo([fileTitle]);
+          if (info) return info;
+        }
+      }
+    } catch {
+      // ignore search errors
     }
-  } catch {
-    // ignore
+    await sleep(100);
+  }
+
+  return null;
+}
+
+/**
+ * Download an image from a URL to a file path.
+ */
+async function downloadImage(imageUrl, outPath) {
+  const res = await fetchUrl(imageUrl);
+  if (res.status === 200 && res.data.length > 500) {
+    fs.writeFileSync(outPath, res.data);
+    return res.data.length;
   }
   return 0;
 }
 
-// ── Name Variants for Wikipedia Lookup ───────────────────────────────
+// ── Name Variant Generation ──────────────────────────────────────────
 
-function getWikiSearchVariants(name) {
-  const variants = [];
-
-  // "Wapen van X" on Dutch Wikipedia (coat of arms pages)
-  variants.push({ lang: "nl", title: `Wapen van ${name}` });
-
-  // Direct municipality page on Dutch Wikipedia
-  variants.push({ lang: "nl", title: `${name} (gemeente)` });
-  variants.push({ lang: "nl", title: name });
-
-  // English Wikipedia
-  variants.push({ lang: "en", title: `${name} (municipality)` });
-  variants.push({ lang: "en", title: name });
-
-  // Special cases for names with apostrophes or special chars
-  if (name.startsWith("'s-")) {
-    const cleanName = name.replace("'s-", "'s-");
-    variants.push({ lang: "nl", title: `Wapen van ${cleanName}` });
+function getFilenameCandidates(name) {
+  // Check manual overrides first
+  if (FILE_OVERRIDES[name]) {
+    return FILE_OVERRIDES[name];
   }
 
-  return variants;
-}
+  const candidates = [];
 
-// ── Google Favicon Fallback ──────────────────────────────────────────
+  // Clean name: strip parenthetical suffixes like "(O.)" or "(ZH.)"
+  const cleanName = name.replace(/\s*\([^)]*\)/g, "").trim();
 
-async function fetchGoogleFavicon(municipalityName, outPath) {
-  // Try common gemeente website patterns
-  const slugged = municipalityName.toLowerCase()
-    .replace(/['']/g, "")
-    .replace(/\s+/g, "")
-    .replace(/[^a-z0-9-]/g, "");
+  // Primary patterns
+  candidates.push(`${cleanName} wapen.svg`);
+  candidates.push(`Coat of arms of ${cleanName}.svg`);
+  candidates.push(`Gemeentewapen ${cleanName}.svg`);
+  candidates.push(`Wapen van ${cleanName}.svg`);
 
-  const domains = [
-    `gemeente${slugged}.nl`,
-    `${slugged}.nl`,
-    `www.${slugged}.nl`,
-  ];
+  // If name has special characters, also try ASCII-ified versions
+  const asciiName = cleanName
+    .replace(/â/g, "a")
+    .replace(/ú/g, "u")
+    .replace(/ë/g, "e")
+    .replace(/ï/g, "i")
+    .replace(/ö/g, "o")
+    .replace(/ü/g, "u");
 
-  for (const domain of domains) {
-    try {
-      const url = `https://www.google.com/s2/favicons?domain=${domain}&sz=128`;
-      const res = await fetchUrl(url);
-      if (res.status === 200 && res.data.length > 300) {
-        fs.writeFileSync(outPath, res.data);
-        return { ok: true, size: res.data.length, domain };
-      }
-    } catch {
-      // ignore
-    }
+  if (asciiName !== cleanName) {
+    candidates.push(`${asciiName} wapen.svg`);
+    candidates.push(`Coat of arms of ${asciiName}.svg`);
   }
-  return { ok: false };
+
+  // For names starting with "'s-", also try without the prefix
+  if (cleanName.startsWith("'s-")) {
+    const shortName = cleanName.substring(3);
+    candidates.push(`${shortName} wapen.svg`);
+  }
+
+  return candidates;
 }
 
 // ── Main ─────────────────────────────────────────────────────────────
 
 async function main() {
   console.log("=".repeat(60));
-  console.log("  SCRAPE MUNICIPALITY LOGOS (Coats of Arms)");
+  console.log("  SCRAPE MUNICIPALITY COATS OF ARMS (Gemeentewapens)");
+  console.log("  Source: Wikimedia Commons (public domain SVG → PNG)");
   console.log("=".repeat(60) + "\n");
 
   fs.mkdirSync(LOGOS_DIR, { recursive: true });
@@ -164,15 +244,15 @@ async function main() {
   console.log(`Processing ${index.length} municipalities...\n`);
 
   const logoMap = {};
-  let stats = { wiki: 0, google: 0, existing: 0, failed: 0 };
+  let stats = { direct: 0, search: 0, existing: 0, failed: 0 };
 
   for (let i = 0; i < index.length; i++) {
     const muni = index[i];
     const outPath = path.join(LOGOS_DIR, `${muni.slug}.png`);
     const logoPath = `/images/municipalities/${muni.slug}.png`;
 
-    // Skip if already exists
-    if (fs.existsSync(outPath) && fs.statSync(outPath).size > 200) {
+    // Skip if already exists and is a proper image (> 3KB, not a favicon)
+    if (fs.existsSync(outPath) && fs.statSync(outPath).size > 3000) {
       logoMap[muni.slug] = logoPath;
       stats.existing++;
       continue;
@@ -180,31 +260,40 @@ async function main() {
 
     let found = false;
 
-    // Try Wikipedia sources
-    const variants = getWikiSearchVariants(muni.name);
-    for (const { lang, title } of variants) {
-      const imageUrl = await fetchWikiPageImage(lang, title);
-      if (imageUrl) {
-        const size = await downloadImage(imageUrl, outPath);
-        if (size > 200) {
+    // Try direct file name patterns (one at a time with rate limiting)
+    const candidates = getFilenameCandidates(muni.name);
+
+    try {
+      const info = await queryFileInfo(candidates);
+      if (info) {
+        const size = await downloadImage(info.thumburl, outPath);
+        if (size > 500) {
           logoMap[muni.slug] = logoPath;
-          stats.wiki++;
+          stats.direct++;
           found = true;
-          console.log(`  [${i + 1}/${index.length}] OK (Wiki): ${muni.name} (${size}b, ${lang}:${title})`);
-          break;
+          console.log(`  [${i + 1}/${index.length}] OK: ${muni.name} → ${info.title.replace("File:", "")} (${size}b)`);
         }
       }
-      await sleep(100); // Be nice to Wikipedia API
+    } catch (err) {
+      // ignore individual errors
     }
 
-    // Fallback: Google Favicon from gemeente website
+    // Fallback: search API
     if (!found) {
-      const result = await fetchGoogleFavicon(muni.name, outPath);
-      if (result.ok) {
-        logoMap[muni.slug] = logoPath;
-        stats.google++;
-        found = true;
-        console.log(`  [${i + 1}/${index.length}] OK (Google): ${muni.name} (${result.size}b, ${result.domain})`);
+      await sleep(500);
+      try {
+        const info = await searchForCoatOfArms(muni.name);
+        if (info) {
+          const size = await downloadImage(info.thumburl, outPath);
+          if (size > 500) {
+            logoMap[muni.slug] = logoPath;
+            stats.search++;
+            found = true;
+            console.log(`  [${i + 1}/${index.length}] OK (search): ${muni.name} → ${info.title.replace("File:", "")} (${size}b)`);
+          }
+        }
+      } catch {
+        // ignore
       }
     }
 
@@ -212,8 +301,6 @@ async function main() {
       stats.failed++;
       console.log(`  [${i + 1}/${index.length}] FAIL: ${muni.name}`);
     }
-
-    await sleep(200); // Rate limit
   }
 
   // Write logo mapping
@@ -224,8 +311,8 @@ async function main() {
 
   console.log(`\n${"=".repeat(60)}`);
   console.log("  DONE");
-  console.log(`  Wiki: ${stats.wiki}, Google: ${stats.google}, Existing: ${stats.existing}, Failed: ${stats.failed}`);
-  console.log(`  ${Object.keys(sorted).length} logos saved to ${LOGOS_JSON}`);
+  console.log(`  Direct: ${stats.direct}, Search: ${stats.search}, Existing: ${stats.existing}, Failed: ${stats.failed}`);
+  console.log(`  ${Object.keys(sorted).length} coats of arms saved to ${LOGOS_JSON}`);
   console.log("=".repeat(60));
 }
 

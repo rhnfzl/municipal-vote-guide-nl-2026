@@ -5094,9 +5094,7 @@
       "moreInfo": "Since January 1, 2025 it has been forbidden in The Hague to advertise polluting services and products outdoors that are harmful to the climate. Permanently banning this means enforcing the ban on fossil-fuel outdoor advertising.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should permanently ban advertising posters for flight holidays and diesel cars.",
-      "themeEn": "Ban on fossil fuel advertising"
+      "isShootout": false
     },
     {
       "id": 128603,
@@ -5107,9 +5105,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents should be able to have a say about introducing paid parking in their neighborhood.",
-      "themeEn": "Paid parking"
+      "isShootout": false
     },
     {
       "id": 128586,
@@ -5117,12 +5113,22 @@
       "theme": "Coffeeshops (cannabis cafés)",
       "themeId": "coffeeshops",
       "title": "The number of coffeeshops in The Hague should be reduced.",
+      "titleParts": [
+        {
+          "text": " Het aantal "
+        },
+        {
+          "text": "coffeeshops",
+          "glossary": "Shops or cafés where you can buy and smoke soft drugs (hash, weed)."
+        },
+        {
+          "text": " in Den Haag moet omlaag."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The number of coffeeshops in The Hague should be reduced.",
-      "themeEn": "Coffeeshops (cannabis cafés)"
+      "isShootout": false
     },
     {
       "id": 128562,
@@ -5133,9 +5139,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should spend less money on promoting the city.",
-      "themeEn": "City promotion"
+      "isShootout": false
     },
     {
       "id": 128576,
@@ -5146,9 +5150,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allow the relocation of seagull nests to reduce nuisance.",
-      "themeEn": "Seagull nuisance"
+      "isShootout": false
     },
     {
       "id": 128557,
@@ -5156,12 +5158,22 @@
       "theme": "Citizens' assembly",
       "themeId": "burgerberaad",
       "title": "The municipality should establish a citizens' assembly.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet een "
+        },
+        {
+          "text": "burgerberaad",
+          "glossary": "A group of residents chosen by lot that advises politicians or helps decide on a specific issue."
+        },
+        {
+          "text": " instellen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should establish a citizens' assembly.",
-      "themeEn": "Citizens' assembly"
+      "isShootout": false
     },
     {
       "id": 128601,
@@ -5172,9 +5184,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Trams and buses in The Hague should remain free for children up to 12 years old.",
-      "themeEn": "Public transport for children"
+      "isShootout": false
     },
     {
       "id": 128561,
@@ -5185,9 +5195,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should work to ensure that a major top-level sporting event takes place in The Hague, such as a large sailing race or the Hockey World Cup.",
-      "themeEn": "Elite sports"
+      "isShootout": false
     },
     {
       "id": 128574,
@@ -5198,9 +5206,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should ensure that water flows again through previously filled-in canals.",
-      "themeEn": "Filled-in canals"
+      "isShootout": false
     },
     {
       "id": 128575,
@@ -5211,9 +5217,7 @@
       "moreInfo": "Traffic in The Hague worsens air quality. The municipality has therefore introduced environmental zones along the coast and in the city center. Diesel vehicles that cause extra air pollution are no longer allowed there.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Polluting delivery vans and trucks should be allowed to drive along the coast and in the city center again.",
-      "themeEn": "Environmental zone"
+      "isShootout": false
     },
     {
       "id": 128606,
@@ -5224,9 +5228,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should ban smoking and vaping around every school and playground.",
-      "themeEn": "Smoking and vaping"
+      "isShootout": false
     },
     {
       "id": 128583,
@@ -5234,12 +5236,22 @@
       "theme": "Sex work",
       "themeId": "sekswerk",
       "title": "The municipality should combat window prostitution.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "raamprostitutie",
+          "glossary": "The sex worker rents a room with a large window facing the street, where they can display themselves to potential clients."
+        },
+        {
+          "text": " tegengaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should combat window prostitution.",
-      "themeEn": "Sex work"
+      "isShootout": false
     },
     {
       "id": 128584,
@@ -5250,9 +5262,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allow traditional bonfires, for example on Scheveningen beach.",
-      "themeEn": "Bonfires"
+      "isShootout": false
     },
     {
       "id": 128612,
@@ -5263,9 +5273,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "If a tree in The Hague is cut down, the municipality should plant two new trees in its place.",
-      "themeEn": "Trees"
+      "isShootout": false
     },
     {
       "id": 128592,
@@ -5273,12 +5281,22 @@
       "theme": "Teachers, nurses, and police officers",
       "themeId": "leraren-verpleegkundigen-en-politieagenten",
       "title": "The municipality should give priority for social rental housing allocation to teachers, nurses, and police officers.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet leraren, verpleegkundigen en politieagenten voorrang geven bij de toewijzing van een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should give priority for social rental housing allocation to teachers, nurses, and police officers.",
-      "themeEn": "Teachers, nurses, and police officers"
+      "isShootout": false
     },
     {
       "id": 128599,
@@ -5289,9 +5307,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should replace more parking spaces with green areas and parks.",
-      "themeEn": "Parking spaces"
+      "isShootout": false
     },
     {
       "id": 128568,
@@ -5299,12 +5315,22 @@
       "theme": "Shelter for asylum seekers",
       "themeId": "opvang-asielzoekers",
       "title": "The municipality should try to accommodate fewer asylum seekers than the national government requires.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet proberen om minder "
+        },
+        {
+          "text": "asielzoekers ",
+          "glossary": "People who have applied for asylum and are still waiting for a decision."
+        },
+        {
+          "text": "op te vangen dan waartoe het Rijk haar verplicht."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should try to accommodate fewer asylum seekers than the national government requires.",
-      "themeEn": "Shelter for asylum seekers"
+      "isShootout": false
     },
     {
       "id": 128590,
@@ -5315,9 +5341,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should charge owners an extra tax if their house has been vacant for more than a year.",
-      "themeEn": "Vacant properties"
+      "isShootout": false
     },
     {
       "id": 128609,
@@ -5328,9 +5352,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Anyone who uses a medical taxi or school transport should be required to pay a personal contribution.",
-      "themeEn": "Personal contribution"
+      "isShootout": false
     },
     {
       "id": 128578,
@@ -5341,9 +5363,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allow new student housing in more locations in The Hague.",
-      "themeEn": "Student housing"
+      "isShootout": false
     },
     {
       "id": 128610,
@@ -5351,12 +5371,22 @@
       "theme": "Bronovo hospital",
       "themeId": "bronovo",
       "title": "The municipality should press for Bronovo to become a fully fledged hospital again, with an emergency department and outpatient clinics.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet erop aandringen dat het Bronovo weer een volwaardig ziekenhuis wordt, met een "
+        },
+        {
+          "text": "spoedeisende hulp",
+          "glossary": "Help that is available 24 hours a day for people who urgently need a doctor."
+        },
+        {
+          "text": " en poliklinieken."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should press for Bronovo to become a fully fledged hospital again, with an emergency department and outpatient clinics.",
-      "themeEn": "Bronovo hospital"
+      "isShootout": false
     },
     {
       "id": 128611,
@@ -5364,12 +5394,22 @@
       "theme": "Seasonal workers",
       "themeId": "seizoensarbeiders",
       "title": "Employers in agriculture and horticulture must provide housing for their seasonal workers on their own company premises.",
+      "titleParts": [
+        {
+          "text": " Werkgevers in de land- en tuinbouw moeten hun "
+        },
+        {
+          "text": "seizoensarbeiders",
+          "glossary": "People who do work that only takes place during certain seasons, often in agriculture and fruit picking."
+        },
+        {
+          "text": " zelf huisvesten op hun bedrijfsterrein."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Employers in agriculture and horticulture must provide housing for their seasonal workers on their own company premises.",
-      "themeEn": "Seasonal workers"
+      "isShootout": false
     },
     {
       "id": 128597,
@@ -5380,9 +5420,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should install additional bicycle racks in shopping streets and at bus stops and schools.",
-      "themeEn": "Bicycle parking"
+      "isShootout": false
     },
     {
       "id": 128616,
@@ -5390,12 +5428,29 @@
       "theme": "Youth services",
       "themeId": "jongerenwerk",
       "title": "The municipality should cut spending on youth work.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "bezuinigen",
+          "glossary": "Spending less money."
+        },
+        {
+          "text": " op het "
+        },
+        {
+          "text": "jongerenwerk",
+          "glossary": "People and organizations that help young people in the municipality with various things."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should cut spending on youth work.",
-      "themeEn": "Youth services"
+      "isShootout": false
     },
     {
       "id": 128613,
@@ -5403,12 +5458,22 @@
       "theme": "Social housing",
       "themeId": "sociale-huurwoningen",
       "title": "At least 50% of all new homes to be built in The Hague should be social rental housing. Nationwide, the average is currently 28%.",
+      "titleParts": [
+        {
+          "text": " Van alle nieuw te bouwen Haagse woningen moet minimaal 50% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " zijn. Van alle Nederlandse woningen is dat nu gemiddeld 28%."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "At least 50% of all new homes to be built in The Hague should be social rental housing. Nationwide, the average is currently 28%.",
-      "themeEn": "Social housing"
+      "isShootout": false
     },
     {
       "id": 128614,
@@ -5419,9 +5484,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should ban angling (recreational fishing).",
-      "themeEn": "Fishing ban"
+      "isShootout": false
     },
     {
       "id": 128596,
@@ -5429,12 +5492,22 @@
       "theme": "Welfare fraud",
       "themeId": "bijstandsfraude",
       "title": "The municipality should carry out stricter checks on welfare benefit fraud.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet strenger controleren op fraude met een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Money from the municipality for people who have no income or personal funds."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should carry out stricter checks on welfare benefit fraud.",
-      "themeEn": "Welfare fraud"
+      "isShootout": false
     },
     {
       "id": 128565,
@@ -5445,9 +5518,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should ensure that business owners receive permits more quickly.",
-      "themeEn": "Permits"
+      "isShootout": false
     },
     {
       "id": 128585,
@@ -5455,12 +5526,22 @@
       "theme": "Municipal enforcement officers (BOAs)",
       "themeId": "boa-s",
       "title": "The municipality should equip the municipal enforcement officers (BOAs) who patrol for safety in Scheveningen with a baton and pepper spray.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "boa's",
+          "glossary": "Special Enforcement Officers. They can issue fines and often supervise the streets."
+        },
+        {
+          "text": " die in Scheveningen controleren op veiligheid voorzien van een wapenstok en pepperspray."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should equip the municipal enforcement officers (BOAs) who patrol for safety in Scheveningen with a baton and pepper spray.",
-      "themeEn": "Municipal enforcement officers (BOAs)"
+      "isShootout": false
     },
     {
       "id": 128587,
@@ -5471,9 +5552,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "No new hotels should be allowed in The Hague.",
-      "themeEn": "Moratorium on new hotels"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

@@ -2435,12 +2435,22 @@
       "theme": "Cultural subsidies",
       "themeId": "cultuursubsidies",
       "title": "The municipality should spend more money on subsidies for culture.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld uitgeven aan "
+        },
+        {
+          "text": "subsidies",
+          "glossary": "Money the government gives to citizens, businesses, and organizations to support them."
+        },
+        {
+          "text": " voor cultuur."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should spend more money on subsidies for culture.",
-      "themeEn": "Cultural subsidies"
+      "isShootout": false
     },
     {
       "id": 229742,
@@ -2451,9 +2461,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should encourage residents to treat each other decently, for example through citizenship lessons at school.",
-      "themeEn": "Norms and values"
+      "isShootout": false
     },
     {
       "id": 229746,
@@ -2461,12 +2469,22 @@
       "theme": "Priority for housing",
       "themeId": "voorrang-huisvesting",
       "title": "When allocating a social rental home, housing applicants from Breda should be given priority.",
+      "titleParts": [
+        {
+          "text": " Bij de toewijzing van een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " moeten woningzoekenden uit Breda voorrang krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "When allocating a social rental home, housing applicants from Breda should be given priority.",
-      "themeEn": "Priority for housing"
+      "isShootout": false
     },
     {
       "id": 229748,
@@ -2474,12 +2492,22 @@
       "theme": "Bulky waste",
       "themeId": "grofvuil",
       "title": "Residents who have bulky waste collected should have to pay the municipality for it.",
+      "titleParts": [
+        {
+          "text": " Inwoners die "
+        },
+        {
+          "text": "grofvuil",
+          "glossary": "Waste that is larger than an ordinary trash bin, such as old furniture."
+        },
+        {
+          "text": " laten ophalen moeten daarvoor gaan betalen aan de gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents who have bulky waste collected should have to pay the municipality for it.",
-      "themeEn": "Bulky waste"
+      "isShootout": false
     },
     {
       "id": 229747,
@@ -2490,9 +2518,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allow cafés to expand their terraces.",
-      "themeEn": "Terraces"
+      "isShootout": false
     },
     {
       "id": 229782,
@@ -2500,12 +2526,36 @@
       "theme": "Priority for refugees",
       "themeId": "voorrang-voor-vluchtelingen",
       "title": "The municipality should continue to give refugees with residence permits (status holders) priority for social rental housing.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet vluchtelingen met een "
+        },
+        {
+          "text": "verblijfsvergunning",
+          "glossary": "The right to reside in the Netherlands. The term can refer to the right itself or to the card that shows someone has that right."
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "statushouders",
+          "glossary": "Refugees who have been granted a residence permit and are therefore allowed to stay in the Netherlands."
+        },
+        {
+          "text": " ) voorrang blijven geven op een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should continue to give refugees with residence permits (status holders) priority for social rental housing.",
-      "themeEn": "Priority for refugees"
+      "isShootout": false
     },
     {
       "id": 229751,
@@ -2513,12 +2563,22 @@
       "theme": "Baton (police baton)",
       "themeId": "wapenstok",
       "title": "The municipal enforcement officers who patrol for safety in Breda should be given pepper spray in addition to a baton.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "boa's",
+          "glossary": "Special Enforcement Officers. They can issue fines and often supervise the streets."
+        },
+        {
+          "text": " die in Breda controleren op veiligheid moeten naast een wapenstok ook pepperspray krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipal enforcement officers who patrol for safety in Breda should be given pepper spray in addition to a baton.",
-      "themeEn": "Baton (police baton)"
+      "isShootout": false
     },
     {
       "id": 229753,
@@ -2529,9 +2589,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Breda should be car-free within the ring canals.",
-      "themeEn": "Car-free"
+      "isShootout": false
     },
     {
       "id": 229752,
@@ -2539,12 +2597,29 @@
       "theme": "Social housing",
       "themeId": "sociale-huurwoningen",
       "title": "At least 40% of the new homes built in Breda should be social housing. Currently 28% of homes in the Netherlands are social housing.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in Breda moet minimaal 40% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " zijn. In Nederland is nu 28% van de woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "At least 40% of the new homes built in Breda should be social housing. Currently 28% of homes in the Netherlands are social housing.",
-      "themeEn": "Social housing"
+      "isShootout": false
     },
     {
       "id": 229763,
@@ -2552,12 +2627,22 @@
       "theme": "Defense",
       "themeId": "defensie",
       "title": "Defense should become a central part of Breda’s economic policy.",
+      "titleParts": [
+        {
+          "text": " Defensie moet een centraal onderdeel worden van het economische "
+        },
+        {
+          "text": "beleid",
+          "glossary": "A plan for how a problem will be addressed."
+        },
+        {
+          "text": " van Breda."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Defense should become a central part of Breda’s economic policy.",
-      "themeEn": "Defense"
+      "isShootout": false
     },
     {
       "id": 229772,
@@ -2565,12 +2650,22 @@
       "theme": "Reusable cups",
       "themeId": "herbruikbare-bekers",
       "title": "The municipality should require the use of reusable cups at events and festivals.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet het gebruik van herbruikbare bekers op "
+        },
+        {
+          "text": "evenementen",
+          "glossary": "A temporary, organized gathering. For example a street party, a flea market, or a music festival."
+        },
+        {
+          "text": " en festivals verplichten."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should require the use of reusable cups at events and festivals.",
-      "themeEn": "Reusable cups"
+      "isShootout": false
     },
     {
       "id": 229754,
@@ -2581,9 +2676,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents should be able to have a say about introducing paid parking in their neighborhood.",
-      "themeEn": "Paid parking"
+      "isShootout": false
     },
     {
       "id": 229765,
@@ -2591,12 +2684,22 @@
       "theme": "Parking permits",
       "themeId": "parkeervergunningen",
       "title": "Every household in Breda should be able to get free parking permits for two cars.",
+      "titleParts": [
+        {
+          "text": " Ieder huishouden in Breda moet gratis "
+        },
+        {
+          "text": "parkeervergunning",
+          "glossary": "A permit to park in a certain place. You have to pay for that right."
+        },
+        {
+          "text": "en voor twee auto's kunnen krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Every household in Breda should be able to get free parking permits for two cars.",
-      "themeEn": "Parking permits"
+      "isShootout": false
     },
     {
       "id": 229759,
@@ -2607,9 +2710,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should open a neighborhood service point in every district where residents can handle municipal matters.",
-      "themeEn": "Neighborhood hubs"
+      "isShootout": false
     },
     {
       "id": 229776,
@@ -2620,9 +2721,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should work against the arrival of new large-scale asylum seeker centers.",
-      "themeEn": "Asylum seekers' center"
+      "isShootout": false
     },
     {
       "id": 229783,
@@ -2630,12 +2729,22 @@
       "theme": "Events",
       "themeId": "evenementen",
       "title": "The municipality should ask hospitality businesses to provide financial support for events in the city center.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet horeca-ondernemers vragen om financiële steun aan "
+        },
+        {
+          "text": "evenementen",
+          "glossary": "A temporary, organized gathering. For example a street party, a flea market, or a music festival."
+        },
+        {
+          "text": " in de binnenstad."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should ask hospitality businesses to provide financial support for events in the city center.",
-      "themeEn": "Events"
+      "isShootout": false
     },
     {
       "id": 229760,
@@ -2646,9 +2755,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should open a single location for practical education for students of all school levels.",
-      "themeEn": "Practical education"
+      "isShootout": false
     },
     {
       "id": 229791,
@@ -2656,12 +2763,22 @@
       "theme": "Enforcement officers",
       "themeId": "handhavers",
       "title": "The municipal enforcement officers who patrol for safety in Breda should be given an electric bicycle.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "boa's",
+          "glossary": "Special Enforcement Officers. They can issue fines and often supervise the streets."
+        },
+        {
+          "text": " die in Breda controleren op veiligheid moeten een elektrische fiets krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipal enforcement officers who patrol for safety in Breda should be given an electric bicycle.",
-      "themeEn": "Enforcement officers"
+      "isShootout": false
     },
     {
       "id": 229789,
@@ -2672,9 +2789,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should once again offer low-income residents an inexpensive health insurance.",
-      "themeEn": "Health insurance"
+      "isShootout": false
     },
     {
       "id": 229764,
@@ -2685,9 +2800,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should advocate for a tram line or monorail from Oosterhout to Etten-Leur, via the 't Zoet district.",
-      "themeEn": "Tram or monorail"
+      "isShootout": false
     },
     {
       "id": 229792,
@@ -2695,12 +2808,29 @@
       "theme": "Work requirement for welfare recipients",
       "themeId": "tegenprestatie-voor-uitkering",
       "title": "People receiving social assistance should, in return, continue to perform socially useful work.",
+      "titleParts": [
+        {
+          "text": " Mensen die een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Money from the municipality for people who have no income or personal funds."
+        },
+        {
+          "text": " krijgen, moeten in ruil daarvoor "
+        },
+        {
+          "text": "maatschappelijk zinvol werk",
+          "glossary": "For example cleaning the streets or keeping company and supporting elderly residents."
+        },
+        {
+          "text": " blijven doen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People receiving social assistance should, in return, continue to perform socially useful work.",
-      "themeEn": "Work requirement for welfare recipients"
+      "isShootout": false
     },
     {
       "id": 229745,
@@ -2708,12 +2838,29 @@
       "theme": "Tax on buildings",
       "themeId": "belasting-op-gebouwen",
       "title": "The property tax (ozb) should be increased.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "onroerendezaakbelasting",
+          "glossary": "Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "ozb",
+          "glossary": "Property tax. Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": ") moet omhoog."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The property tax (ozb) should be increased.",
-      "themeEn": "Tax on buildings"
+      "isShootout": false
     },
     {
       "id": 229767,
@@ -2724,9 +2871,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Dogs should be allowed to run off-leash everywhere in the Ulvenhoutse Bos nature reserve.",
-      "themeEn": "Ulvenhout Forest"
+      "isShootout": false
     },
     {
       "id": 229766,
@@ -2737,9 +2882,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should give low-income people money to insulate and cool their homes.",
-      "themeEn": "Home insulation"
+      "isShootout": false
     },
     {
       "id": 229770,
@@ -2750,9 +2893,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "More small rental and owner-occupied apartments for elderly people should be built in Breda.",
-      "themeEn": "Senior housing"
+      "isShootout": false
     },
     {
       "id": 229774,
@@ -2760,12 +2901,22 @@
       "theme": "Purchasing social housing",
       "themeId": "sociale-huurwoningen-kopen",
       "title": "The municipality should work to enable tenants to buy their social rental homes.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet zich ervoor inzetten dat huurders hun "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " kunnen kopen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should work to enable tenants to buy their social rental homes.",
-      "themeEn": "Purchasing social housing"
+      "isShootout": false
     },
     {
       "id": 229779,
@@ -2776,9 +2927,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should invest in an information campaign to discourage drug use.",
-      "themeEn": "Drug use"
+      "isShootout": false
     },
     {
       "id": 229785,
@@ -2789,9 +2938,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should more often offer residents who have difficulty finding work a Verbeter Breda job.",
-      "themeEn": "Improve routes to Breda"
+      "isShootout": false
     },
     {
       "id": 229793,
@@ -2802,9 +2949,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Low-income residents of Breda should be able to travel by bus for free.",
-      "themeEn": "Free public transport"
+      "isShootout": false
     },
     {
       "id": 229784,
@@ -2812,12 +2957,22 @@
       "theme": "Budget cuts",
       "themeId": "bezuinigen",
       "title": "The municipality should always try to cut costs and postpone investments before raising taxes.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet altijd proberen te "
+        },
+        {
+          "text": "bezuinigen",
+          "glossary": "Spending less money."
+        },
+        {
+          "text": " en investeringen uit te stellen voordat zij de belastingen verhoogt."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should always try to cut costs and postpone investments before raising taxes.",
-      "themeEn": "Budget cuts"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

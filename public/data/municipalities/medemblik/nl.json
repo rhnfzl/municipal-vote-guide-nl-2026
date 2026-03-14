@@ -1257,6 +1257,18 @@
       "theme": "Cameratoezicht",
       "themeId": "cameratoezicht",
       "title": "In alle winkelcentra van de gemeente Medemblik moet meer cameratoezicht komen.",
+      "titleParts": [
+        {
+          "text": " In alle winkelcentra van de gemeente Medemblik moet meer "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Het houden van toezicht op of in een gebouw, gebied of (groepen) mensen met behulp van bewakingscamera's."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1322,6 +1334,25 @@
       "theme": "Voorrang voor vluchtelingen",
       "themeId": "voorrang-voor-vluchtelingen",
       "title": "De gemeente moet vluchtelingen met een verblijfsvergunning voorrang blijven geven op een sociale huurwoning.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet vluchtelingen met een "
+        },
+        {
+          "text": "verblijfsvergunning",
+          "glossary": "Het recht om in Nederland te blijven wonen. Met het woord kun je dat recht zelf bedoelen en ook het kaartje waarop staat dat iemand dat recht heeft."
+        },
+        {
+          "text": " voorrang blijven geven op een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1335,6 +1366,18 @@
       "theme": "Renovatie gemeentehuis",
       "themeId": "renovatie-gemeentehuis",
       "title": "De gemeente moet minder uitgeven aan de renovatie van het gemeentehuis.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet minder uitgeven aan de "
+        },
+        {
+          "text": "renovatie",
+          "glossary": "Het herstellen of gedeeltelijk venieuwen van een bestaand gebouw."
+        },
+        {
+          "text": " van het gemeentehuis."
+        }
+      ],
       "moreInfo": "Begin 2025 besloot de gemeenteraad om het gemeentehuis in Wognum te renoveren.  De gemeente schat dat de renovatie ongeveer € 18 miljoen gaat kosten. De renovatie begint in 2027.",
       "pro": "",
       "con": "",
@@ -1348,6 +1391,18 @@
       "theme": "Geweld tegen vrouwen",
       "themeId": "geweld-tegen-vrouwen",
       "title": "In de gemeente Medemblik moet een blijf-van-mijn-lijf-huis komen.",
+      "titleParts": [
+        {
+          "text": " In de gemeente Medemblik moet een "
+        },
+        {
+          "text": "blijf-van-mijn-lijf-huis",
+          "glossary": "Opvang voor vrouwen die te maken hebben met geweld van hun partner of familie. De opvang is beveiligd, soms is de locatie geheim."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1413,6 +1468,25 @@
       "theme": "Sociale huurwoningen",
       "themeId": "sociale-huurwoningen",
       "title": "Van de nieuw te bouwen woningen in de gemeente Medemblik moet minimaal 35% een sociale huurwoning zijn. In Medemblik is nu 17% van de nieuwe woningen een sociale huurwoning.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in de gemeente Medemblik moet minimaal 35% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": " zijn. In Medemblik is nu 17% van de nieuwe woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1426,6 +1500,18 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "De inwoners van de gemeente Medemblik moeten over belangrijke onderwerpen hun mening kunnen geven via een referendum.",
+      "titleParts": [
+        {
+          "text": " De inwoners van de gemeente Medemblik moeten over belangrijke onderwerpen hun mening kunnen geven via een "
+        },
+        {
+          "text": "referendum",
+          "glossary": "Volksraadpleging waarbij inwoners zich kunnen uitspreken over een politieke kwestie. De gemeenteraad is niet verplicht de uitslag te volgen, dat is wettelijk niet mogelijk."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1465,6 +1551,18 @@
       "theme": "Zonneveld op IJsselmeer",
       "themeId": "zonneveld-op-ijsselmeer",
       "title": "De gemeente moet zich bij het Rijk blijven inzetten voor een zonneveld op het IJsselmeer.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet zich bij het Rijk blijven inzetten voor een "
+        },
+        {
+          "text": "zonneveld",
+          "glossary": "Veld met zonnepanelen."
+        },
+        {
+          "text": " op het IJsselmeer."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1478,6 +1576,24 @@
       "theme": "Tegenprestatie voor uitkering",
       "themeId": "tegenprestatie-voor-uitkering",
       "title": "Mensen die een bijstandsuitkering krijgen, moeten in ruil daarvoor maatschappelijk zinvol werk doen.",
+      "titleParts": [
+        {
+          "text": " Mensen die een "
+        },
+        {
+          "text": "bijstandsuitkering"
+        },
+        {
+          "text": " krijgen, moeten in ruil daarvoor "
+        },
+        {
+          "text": "maatschappelijk zinvol werk",
+          "glossary": "Bijvoorbeeld schoonmaken van de straten of het gezelschap houden en ondersteunen van oudere inwoners."
+        },
+        {
+          "text": " doen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1556,6 +1672,18 @@
       "theme": "Flitspalen",
       "themeId": "flitspalen",
       "title": "De gemeente moet aan het Openbaar Ministerie vragen om meer flitspalen neer te zetten binnen de bebouwde kom.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet aan het Openbaar Ministerie vragen om meer "
+        },
+        {
+          "text": "flitspalen",
+          "glossary": "Apparaten langs de weg die verkeersovertredingen vastleggen."
+        },
+        {
+          "text": " neer te zetten binnen de bebouwde kom."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1569,6 +1697,18 @@
       "theme": "Gratis isolatiemateriaal",
       "themeId": "gratis-isolatiemateriaal",
       "title": "Inwoners met weinig geld moeten van de gemeente gratis isolatiemateriaal krijgen voor hun huis.",
+      "titleParts": [
+        {
+          "text": " Inwoners met weinig geld moeten van de gemeente gratis "
+        },
+        {
+          "text": "isolatiemateriaal",
+          "glossary": "Materiaal in daken, muren en vloeren dat warmte tegenhoudt of vasthoudt. In de winter houdt het warmte binnen en in de zomer buiten."
+        },
+        {
+          "text": " krijgen voor hun huis."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1608,6 +1748,18 @@
       "theme": "Asielzoekers",
       "themeId": "asielzoekers",
       "title": "De gemeente moet asielzoekers helpen met vinden van betaald werk.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "asielzoekers",
+          "glossary": "Mensen die asiel hebben aangevraagd en nog wachten op de beslissing daarover."
+        },
+        {
+          "text": " helpen met vinden van betaald werk."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1634,6 +1786,18 @@
       "theme": "Kermis",
       "themeId": "kermis",
       "title": "De gemeente moet meer gemeentelijke handhavers (boa’s) inzetten op kermissen om te controleren op drank- en drugsgebruik onder jongeren.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "Mensen die voor de gemeente controleren of burgers en bedrijven zich aan de regels houden."
+        },
+        {
+          "text": " (boa’s) inzetten op kermissen om te controleren op drank- en drugsgebruik onder jongeren."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",

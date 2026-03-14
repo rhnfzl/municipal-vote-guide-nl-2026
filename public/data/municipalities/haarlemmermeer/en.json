@@ -3694,9 +3694,7 @@
       "moreInfo": "At the moment there are no municipal cameras in these shopping areas.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should install cameras in shopping areas in Hoofddorp, Badhoevedorp, and Nieuw-Vennep.",
-      "themeEn": "Camera surveillance"
+      "isShootout": false
     },
     {
       "id": 133388,
@@ -3704,12 +3702,29 @@
       "theme": "Social housing",
       "themeId": "sociale-huurwoningen",
       "title": "Of the newly built homes in Haarlemmermeer, at least 40% should be social rental housing. Currently 28% of homes in the Netherlands are social rental housing.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in Haarlemmermeer moet minimaal 40% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " zijn. In Nederland is nu 28% van de woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "Social rental homes are homes with a rent of up to €932.93 per month. These homes are intended for residents with lower incomes. Single people who want to rent a house on their own qualify for social housing if they earn less than €51,537 gross per year. For households of two or more people this limit is €56,910. At the moment 22% of all homes in Haarlemmermeer are social rental housing.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Of the newly built homes in Haarlemmermeer, at least 40% should be social rental housing. Currently 28% of homes in the Netherlands are social rental housing.",
-      "themeEn": "Social housing"
+      "isShootout": false
     },
     {
       "id": 133369,
@@ -3717,12 +3732,22 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "For important decisions, the municipality should ask residents for their opinion via a referendum.",
+      "titleParts": [
+        {
+          "text": " Bij belangrijke besluiten moet de gemeente de inwoners om hun mening vragen via een "
+        },
+        {
+          "text": "referendum",
+          "glossary": "A public consultation where residents can express their opinion on a political issue. The municipal council is not obliged to follow the result; legally it cannot."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "In a referendum a government poses a single-issue question to voters. They can vote for or against. In a national referendum all Dutch citizens aged 18 or older may vote. In a municipal referendum all residents of that municipality aged 18 or older may vote. In the Netherlands the result of a referendum is not binding, which means that a government does not have to follow the result and can make a different decision. At the moment it is possible to organize an advisory referendum in the municipality of Haarlemmermeer.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "For important decisions, the municipality should ask residents for their opinion via a referendum.",
-      "themeEn": "Referendum"
+      "isShootout": false
     },
     {
       "id": 133371,
@@ -3730,12 +3755,29 @@
       "theme": "Tax on buildings",
       "themeId": "belasting-op-gebouwen",
       "title": "The property tax (onroerendezaakbelasting, OZB) should be reduced.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "onroerendezaakbelasting",
+          "glossary": "Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "ozb",
+          "glossary": "Property tax. Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": ") moet omlaag."
+        }
+      ],
       "moreInfo": "Everyone who owns a house or a commercial property pays tax to the municipality for it. That tax is called property tax (OZB). The amount of the OZB is a percentage of the estimated value of the property, the WOZ value. The municipality makes this estimate every year. At the moment the OZB for homeowners in Haarlemmermeer is 0.06487% of the WOZ value. People who own a home but do not live in it, or who live in a house that is not theirs, pay more.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The property tax (onroerendezaakbelasting, OZB) should be reduced.",
-      "themeEn": "Tax on buildings"
+      "isShootout": false
     },
     {
       "id": 133395,
@@ -3746,9 +3788,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should oppose any expansion in the number of flights at Schiphol.",
-      "themeEn": "Schiphol Airport"
+      "isShootout": false
     },
     {
       "id": 133393,
@@ -3759,9 +3799,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should not take a position on conflicts that occur abroad.",
-      "themeEn": "International conflicts"
+      "isShootout": false
     },
     {
       "id": 133419,
@@ -3769,12 +3807,22 @@
       "theme": "Greening parking spaces",
       "themeId": "groen-op-parkeerplaatsen",
       "title": "The municipality may not replace parking spaces within the built-up area with greenery.",
+      "titleParts": [
+        {
+          "text": " De gemeente mag geen parkeerplaatsen binnen de "
+        },
+        {
+          "text": "bebouwde kom",
+          "glossary": "An area with buildings (houses, other structures)."
+        },
+        {
+          "text": " vervangen door groen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality may not replace parking spaces within the built-up area with greenery.",
-      "themeEn": "Greening parking spaces"
+      "isShootout": false
     },
     {
       "id": 133399,
@@ -3785,9 +3833,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should invest money in campaigns that raise awareness about equality and discrimination.",
-      "themeEn": "Equality campaigns"
+      "isShootout": false
     },
     {
       "id": 133409,
@@ -3798,9 +3844,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "New housing construction should primarily take place on the edges of the villages in the municipality.",
-      "themeEn": "Building on village outskirts"
+      "isShootout": false
     },
     {
       "id": 133385,
@@ -3811,9 +3855,7 @@
       "moreInfo": "At the moment BOAs (special enforcement officers) in Haarlemmermeer are allowed to use a baton.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Municipal enforcement officers in Haarlemmermeer should be allowed to use a baton.",
-      "themeEn": "Enforcement officers"
+      "isShootout": false
     },
     {
       "id": 133402,
@@ -3824,9 +3866,7 @@
       "moreInfo": "Libraries are currently free for residents up to 18 years old, including in Haarlemmermeer.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Libraries in the municipality should be free for all residents of Haarlemmermeer.",
-      "themeEn": "Free library access"
+      "isShootout": false
     },
     {
       "id": 133421,
@@ -3837,9 +3877,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should invest in additional care facilities for people with severe mental health problems.",
-      "themeEn": "Mental health care"
+      "isShootout": false
     },
     {
       "id": 133404,
@@ -3847,12 +3885,22 @@
       "theme": "Large events",
       "themeId": "grote-evenementen",
       "title": "There should be more large events in Haarlemmermeer.",
+      "titleParts": [
+        {
+          "text": " Er moeten meer grote "
+        },
+        {
+          "text": "evenementen",
+          "glossary": "A temporary, organized gathering. For example a street party, a flea market, or a music festival."
+        },
+        {
+          "text": " komen in Haarlemmermeer."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be more large events in Haarlemmermeer.",
-      "themeEn": "Large events"
+      "isShootout": false
     },
     {
       "id": 133411,
@@ -3863,9 +3911,7 @@
       "moreInfo": "For young people a period of four weeks currently applies. A municipality can choose not to impose this period when it concerns youths who are in difficult circumstances.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Young people who apply for social assistance must receive their first benefit within two weeks.",
-      "themeEn": "Youth social assistance"
+      "isShootout": false
     },
     {
       "id": 133374,
@@ -3873,12 +3919,22 @@
       "theme": "Sustainable energy",
       "themeId": "duurzame-energie",
       "title": "Residents who want to generate sustainable energy together should receive financial support from the municipality.",
+      "titleParts": [
+        {
+          "text": " Inwoners die samen "
+        },
+        {
+          "text": "duurzame energie",
+          "glossary": "Energy based on resources that are effectively infinite, such as sunlight and wind."
+        },
+        {
+          "text": " op willen wekken, moeten financiële steun krijgen van de gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents who want to generate sustainable energy together should receive financial support from the municipality.",
-      "themeEn": "Sustainable energy"
+      "isShootout": false
     },
     {
       "id": 133412,
@@ -3886,12 +3942,22 @@
       "theme": "Haarlemmermeer pass",
       "themeId": "haarlemmermeerpas",
       "title": "The municipality must reintroduce the Haarlemmermeer pass.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de "
+        },
+        {
+          "text": "Haarlemmermeerpas",
+          "glossary": "The Haarlemmermeer pass is for households in Haarlemmermeer whose income is around the social minimum (welfare level). The card gives discounts on activities/purchases."
+        },
+        {
+          "text": " weer invoeren."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must reintroduce the Haarlemmermeer pass.",
-      "themeEn": "Haarlemmermeer pass"
+      "isShootout": false
     },
     {
       "id": 133408,
@@ -3902,9 +3968,7 @@
       "moreInfo": "It can happen that a municipality wants to impose rules that are not already set by the national government, for example in the area of sustainability.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must abolish all building regulations that are not required by the national government.",
-      "themeEn": "Abolish building regulations"
+      "isShootout": false
     },
     {
       "id": 133401,
@@ -3915,9 +3979,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must invest money in more internships for young people who follow practical/vocational education.",
-      "themeEn": "Internship placements for practical trades"
+      "isShootout": false
     },
     {
       "id": 133415,
@@ -3928,9 +3990,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Haarlemmermeer must build more bicycle lanes, even if that comes at the expense of space for cars.",
-      "themeEn": "Priority for cyclists"
+      "isShootout": false
     },
     {
       "id": 133423,
@@ -3941,9 +4001,7 @@
       "moreInfo": "PARK21 in Haarlemmermeer is a large new park under development between Hoofddorp and Nieuw-Vennep. The park will be about 1,000 hectares and is intended to provide space for both green areas and recreation in the municipality.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must stop further development of PARK21.",
-      "themeEn": "PARK21"
+      "isShootout": false
     },
     {
       "id": 133416,
@@ -3954,9 +4012,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "For every tree felled in Haarlemmermeer, the municipality must replant two.",
-      "themeEn": "Replant trees"
+      "isShootout": false
     },
     {
       "id": 133424,
@@ -3964,12 +4020,22 @@
       "theme": "Rainbow subsidies (LGBTQ+ grants)",
       "themeId": "regenboogsubsidies",
       "title": "The municipality must stop subsidies to the LGBTQIA+ community.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet stoppen met "
+        },
+        {
+          "text": "subsidies",
+          "glossary": "Money the government gives to citizens, businesses, and organizations to support them."
+        },
+        {
+          "text": " aan de lhbtqia+-gemeenschap."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must stop subsidies to the LGBTQIA+ community.",
-      "themeEn": "Rainbow subsidies (LGBTQ+ grants)"
+      "isShootout": false
     },
     {
       "id": 133373,
@@ -3980,9 +4046,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must prevent agricultural land in Haarlemmermeer from being converted into nature areas.",
-      "themeEn": "Agricultural land"
+      "isShootout": false
     },
     {
       "id": 133420,
@@ -3993,9 +4057,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People who care for a family member or acquaintance for a long period should receive money from the municipality for that.",
-      "themeEn": "Support informal caregivers"
+      "isShootout": false
     },
     {
       "id": 133376,
@@ -4003,12 +4065,29 @@
       "theme": "Priority for refugees",
       "themeId": "voorrang-voor-vluchtelingen",
       "title": "The municipality should give refugees with a residence permit priority for social rental housing.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet vluchtelingen met een "
+        },
+        {
+          "text": "verblijfsvergunning",
+          "glossary": "The right to reside in the Netherlands. The term can refer to the right itself or to the card that shows someone has that right."
+        },
+        {
+          "text": " voorrang geven op een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should give refugees with a residence permit priority for social rental housing.",
-      "themeEn": "Priority for refugees"
+      "isShootout": false
     },
     {
       "id": 133390,
@@ -4016,12 +4095,29 @@
       "theme": "Work requirement for welfare recipients",
       "themeId": "tegenprestatie-voor-uitkering",
       "title": "People receiving social assistance should, in return, do socially useful work.",
+      "titleParts": [
+        {
+          "text": " Mensen die een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Money from the municipality for people who have no income or personal funds."
+        },
+        {
+          "text": " krijgen, moeten in ruil daarvoor "
+        },
+        {
+          "text": "maatschappelijk zinvol werk",
+          "glossary": "For example cleaning the streets or keeping company and supporting elderly residents."
+        },
+        {
+          "text": " doen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People receiving social assistance should, in return, do socially useful work.",
-      "themeEn": "Work requirement for welfare recipients"
+      "isShootout": false
     },
     {
       "id": 133379,
@@ -4032,9 +4128,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allow solar panels on pastureland.",
-      "themeEn": "Solar panels on pastureland"
+      "isShootout": false
     },
     {
       "id": 133426,
@@ -4045,9 +4139,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must stop investing in art in public spaces.",
-      "themeEn": "Art expenditures"
+      "isShootout": false
     },
     {
       "id": 133410,
@@ -4058,9 +4150,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should spend less money supporting people with low incomes.",
-      "themeEn": "Low-income policy"
+      "isShootout": false
     },
     {
       "id": 133392,
@@ -4068,12 +4158,22 @@
       "theme": "Car speeds",
       "themeId": "snelheid-auto-s",
       "title": "The maximum speed in all town centers of Haarlemmermeer should be 30 km/h.",
+      "titleParts": [
+        {
+          "text": " De maximumsnelheid in alle "
+        },
+        {
+          "text": "kernen",
+          "glossary": "A village or small town that is part of the municipality."
+        },
+        {
+          "text": " van Haarlemmermeer moet naar 30 km/u."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The maximum speed in all town centers of Haarlemmermeer should be 30 km/h.",
-      "themeEn": "Car speeds"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

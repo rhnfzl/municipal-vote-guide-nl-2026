@@ -1403,6 +1403,18 @@
       "theme": "Toeristenbelasting",
       "themeId": "toeristenbelasting",
       "title": "De gemeente mag geld uit de toeristenbelasting alleen uitgeven aan toerisme en recreatie, zoals mooie fietsroutes.",
+      "titleParts": [
+        {
+          "text": " De gemeente mag geld uit de "
+        },
+        {
+          "text": "toeristenbelasting",
+          "glossary": "De belasting die je moet betalen als je in een hotel of op een camping bijft slapen."
+        },
+        {
+          "text": " alleen uitgeven aan toerisme en recreatie, zoals mooie fietsroutes."
+        }
+      ],
       "moreInfo": "De toeristenbelasting is de belasting die toeristen voor elke overnachting in een hotel of op een camping betalen. In Lochem betaalt een toerist in een hotel 2,80 per nacht. Op een camping betaalt een toerist 1,10 per nacht.",
       "pro": "Toeristen betalen de toeristenbelasting. Daarom is het eerlijk om dit geld alleen aan toerisme uit te geven.",
       "con": "De gemeente heeft het geld uit de toeristenbelasting ook nodig voor andere zaken, zoals het onderhoud van gemeentelijk groen.",
@@ -1429,6 +1441,18 @@
       "theme": "Houtstook",
       "themeId": "houtstook",
       "title": "De gemeente Lochem moet het gebruik van open haarden en houtkachels blijven toestaan.",
+      "titleParts": [
+        {
+          "text": " De gemeente Lochem moet het gebruik van open haarden en "
+        },
+        {
+          "text": "houtkachels",
+          "glossary": "Kachels die worden gestookt met hout om een woning te verwarmen."
+        },
+        {
+          "text": " blijven toestaan."
+        }
+      ],
       "moreInfo": "Gemeenten kunnen zelf regels maken voor het gebruik van houtkachels en open haarden.",
       "pro": "In de gemeente Lochem worden open haarden en houtkachels veel gebruikt. De gemeente kan inwoners voorlichten over verantwoord stoken. Daarom is het verbieden van open haarden en houtkachels niet nodig.",
       "con": "Open haarden en houtkachels zijn slecht voor het milieu. Open haarden en houtkachels zijn slecht voor de gezondheid.",
@@ -1442,6 +1466,25 @@
       "theme": "Sociale huurwoningen",
       "themeId": "sociale-huurwoningen",
       "title": "Van de nieuw te bouwen woningen in Lochem moet minimaal 35% een sociale huurwoning zijn. In Lochem is nu 17% van de woningen een sociale huurwoning.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in Lochem moet minimaal 35% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": " zijn. In Lochem is nu 17% van de woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "Voor een sociale huurwoning betaal je een lagere huur. Ze zijn meestal eigendom van een woningcorporatie. Alleen mensen met een lager inkomen kunnen zo’n woning krijgen. Veel mensen willen zo’n woning. De wachtlijst is lang.",
       "pro": "Sociale huurwoningen zijn belangrijk voor mensen met weinig geld.",
       "con": "Jonge starters in de gemeente Lochem hebben geen sociale huurwoningen nodig, maar vooral goedkope koopwoningen.",
@@ -1455,6 +1498,25 @@
       "theme": "City marketing",
       "themeId": "city-marketing",
       "title": "De gemeente moet geld steken in een promotiecampagne voor Lochem als aantrekkelijke vestigingsplaats voor bedrijven.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld steken in een "
+        },
+        {
+          "text": "promotiecampagne",
+          "glossary": "Een serie reclames op bijvoorbeeld borden, televisie en sociale media."
+        },
+        {
+          "text": " voor Lochem als aantrekkelijke "
+        },
+        {
+          "text": "vestigingsplaats",
+          "glossary": "De plek waar een bedrijf zich vestigt."
+        },
+        {
+          "text": " voor bedrijven."
+        }
+      ],
       "moreInfo": "Via een promotiecampagne kan de gemeente aan bedrijven laten zien waarom het aantrekkelijk is om zich in de gemeente Lochem te vestigen. Dit kan via advertenties, sociale media of een website.",
       "pro": "Er komen meer banen in de gemeente als er meer bedrijven komen.",
       "con": "Als er meer bedrijven komen, verdwijnt er meer groene ruimte en wordt de gemeente Lochem minder prettig om in te wonen.",
@@ -1507,6 +1569,25 @@
       "theme": "Huisvesting vluchtelingen",
       "themeId": "huisvesting-vluchtelingen",
       "title": "De gemeente moet meer geld steken in tijdelijke huisvesting voor vluchtelingen met een verblijfsvergunning , bijvoorbeeld in containerwoningen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld steken in tijdelijke huisvesting voor vluchtelingen met een "
+        },
+        {
+          "text": "verblijfsvergunning",
+          "glossary": "Het recht om in Nederland te blijven wonen. Met het woord kun je dat recht zelf bedoelen en ook het kaartje waarop staat dat iemand dat recht heeft."
+        },
+        {
+          "text": " , bijvoorbeeld in "
+        },
+        {
+          "text": "containerwoningen",
+          "glossary": "Verplaatsbare en tijdelijke woningen, meestal gemaakt van een zeecontainer."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "De gemeente Lochem moet van de landelijke overheid vluchtelingen met een verblijfsvergunning een woning aanbieden. In 2025 vonden 34 mensen een woning, 42 vluchtelingen met een verblijfsvergunning wachten nog op een woning in de gemeente Lochem.",
       "pro": "Tijdelijke woningen voor vluchtelingen kunnen later ook worden gebruikt door inwoners.Een paar jaar geleden bouwde de gemeente tijdelijke woningen voor vluchtelingen uit Oekraïne. Dat was een succes.",
       "con": "De gemeente moet geen woningen bouwen of betalen, maar dat overlaten aan bedrijven.Er zijn in de gemeente al opvangplekken genoeg voor vluchtelingen met een verblijfsvergunning.De gemeente Lochem moet geen geld uitgeven aan tijdelijke huisvesting voor vluchtelingen met een verblijfsvergunning. Dat moet de landelijke overheid doen.",
@@ -1559,6 +1640,18 @@
       "theme": "Burgerberaad",
       "themeId": "burgerberaad",
       "title": "Lochem moet met een loting een burgerberaad samenstellen dat de gemeente adviseert.",
+      "titleParts": [
+        {
+          "text": " Lochem moet met een loting een "
+        },
+        {
+          "text": "burgerberaad",
+          "glossary": "Gelote groep inwoners die de politiek adviseert of helpt te beslissen over een specifiek onderwerp."
+        },
+        {
+          "text": " samenstellen dat de gemeente adviseert."
+        }
+      ],
       "moreInfo": "Een burgerberaad is een groep inwoners die de gemeenteraad helpt bij belangrijke beslissingen. Inwoners kunnen zichzelf niet aanmelden, de gemeente loot en stuurt inwoners een brief als ze mee mogen doen. Zo komen er zoveel mogelijk verschillende soorten mensen in het burgerberaad. Het burgerberaad krijgt advies van onafhankelijke experts, maar kan ook zelf belangenorganisaties uitnodigen. De deelnemers gaan met elkaar in gesprek om uiteindelijk een advies te geven aan de gemeente. De gemeente is niet verplicht dit advies over te nemen.",
       "pro": "Een burgerberaad vergroot de betrokkenheid van inwoners bij belangrijke bestuurlijke besluiten. Uit een burgerberaad komen vaak mooie en onverwachte ideeën en oplossingen.",
       "con": "De gekozen gemeenteraad spreekt al voor de inwoners van Lochem. Een burgerberaad is daarom niet nodig. In de gemeente Lochem kunnen inwoners al voldoende meepraten als de gemeente belangrijke besluiten neemt.",
@@ -1585,6 +1678,18 @@
       "theme": "Jongerenraad",
       "themeId": "jongerenraad",
       "title": "Lochem moet een jongerenraad krijgen die de gemeente adviseert.",
+      "titleParts": [
+        {
+          "text": " Lochem moet een "
+        },
+        {
+          "text": "jongerenraad",
+          "glossary": "Een groep jongeren die meedenkt en meepraat met de gemeente over plannen en beleid."
+        },
+        {
+          "text": " krijgen die de gemeente adviseert."
+        }
+      ],
       "moreInfo": "Een jongerenraad is een groep jongeren die de gemeente adviseert. Jongeren tussen van 18 tot en met 25 jaar kunnen meedenken met de gemeente. De jongerenraad mag ook zelf met ideeën komen. De gemeente is niet verplicht het advies over te nemen.",
       "pro": "Jongeren hebben nieuwe ideeën en een frisse blik. Via een jongerenraad komen deze ideeën bij de gemeente. Een jongerenraad betrekt jongeren meer bij de gemeentepolitiek.",
       "con": "De gemeenteraad spreekt namens alle inwoners, ook jongeren. Daarom is een jongerenraad niet nodig. De gemeente Lochem had een paar jaar geleden een jongerenraad. Die werkte niet goed en is gestopt.",
@@ -1676,6 +1781,18 @@
       "theme": "Asielzoekers",
       "themeId": "asielzoekers",
       "title": "In het asielzoekerscentrum (azc) mogen nooit meer dan 250 mensen worden opgevangen.",
+      "titleParts": [
+        {
+          "text": " In het "
+        },
+        {
+          "text": "asielzoekerscentrum",
+          "glossary": "Opvangcentrum voor asielzoekers. Ze wonen daar tot besloten is of ze in Nederland mogen blijven. Een asielzoekerscentrum blijft langere tijd in een gemeente staan."
+        },
+        {
+          "text": " (azc) mogen nooit meer dan 250 mensen worden opgevangen."
+        }
+      ],
       "moreInfo": "In Lochem is in 2025 een asielzoekerscentrum (azc) geopend aan de Ampenseweg. De gemeenteraad besloot dat daar maximaal 250 asielzoekers worden opgevangen. In heel Nederland is een groot tekort aan opvangplekken.",
       "pro": "De Lochemse gemeenteraad heeft eind 2025 besloten dat er maximaal 250 mensen worden opgevangen in het asielzoekerscentrum. Aan die afspraak moet de gemeente zich houden. Grote asielzoekerscentra zorgen voor overlast",
       "con": "De gemeente moet mensen opvangen die vluchten voor oorlog en geweld. De Lochemse gemeenteraad heeft eind 2025 besloten dat er 250 mensen worden opgevangen in het asielzoekerscentrum. Maar extra opvang moet mogelijk zijn.",
@@ -1728,6 +1845,18 @@
       "theme": "Deelauto's",
       "themeId": "deelauto-s",
       "title": "De gemeente moet meer parkeerplaatsen aanwijzen voor deelauto's.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer parkeerplaatsen aanwijzen voor "
+        },
+        {
+          "text": "deelauto's",
+          "glossary": "Auto's waar meerdere mensen gebruik van kunnen maken."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "Een deelauto is een auto die door meerdere mensen wordt gebruikt. Vaak huren mensen ze via bedrijven en betalen ze per dag of gereden kilometer. Gebruikers kunnen de auto’s vinden via een app of een speciale parkeerplaats die is gereserveerd voor deelauto’s. In de gemeente Lochem staan nu acht deelauto’s op zo’n vaste parkeerplek. Andere auto’s mag je daar niet parkeren.",
       "pro": "Vaste parkeerplekken maken het gebruik van deelauto’s makkelijker.",
       "con": "Deelauto’s kunnen op normale, openbare parkeerplekken staan.",
@@ -1741,6 +1870,18 @@
       "theme": "Voorrang huisvesting",
       "themeId": "voorrang-huisvesting",
       "title": "Bij de toewijzing van een sociale huurwoning moeten leraren, verpleegkundigen en politieagenten voorrang krijgen.",
+      "titleParts": [
+        {
+          "text": " Bij de toewijzing van een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": " moeten leraren, verpleegkundigen en politieagenten voorrang krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1754,6 +1895,25 @@
       "theme": "Snelheid auto's",
       "themeId": "snelheid-auto-s",
       "title": "De maximumsnelheid binnen de bebouwde kom moet naar 30 km/u.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "maximumsnelheid",
+          "glossary": "De hoogste snelheid die autos en motoren mogen rijden op straat."
+        },
+        {
+          "text": " binnen de "
+        },
+        {
+          "text": "bebouwde kom",
+          "glossary": "Gebied met bebouwing (huizen, gebouwen)."
+        },
+        {
+          "text": " moet naar 30 km/u."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1780,6 +1940,18 @@
       "theme": "Innovatie",
       "themeId": "innovatie",
       "title": "De gemeente moet geld steken in een fonds voor vernieuwende ideeën van ondernemers.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld steken in een "
+        },
+        {
+          "text": "fonds",
+          "glossary": "Geld dat wordt vastgelegd voor een bepaald doel, in de volksmond ook wel 'pot(je)' genoemd."
+        },
+        {
+          "text": " voor vernieuwende ideeën van ondernemers."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",

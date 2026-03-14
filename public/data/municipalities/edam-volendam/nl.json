@@ -2730,6 +2730,25 @@
       "theme": "Integratie",
       "themeId": "integratie",
       "title": "De gemeente moet meer geld uitgeven aan integratie van nieuwkomers in de maatschappij.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld uitgeven aan "
+        },
+        {
+          "text": "integratie",
+          "glossary": "Nieuwkomers leren de taal en gewoonten van Nederland."
+        },
+        {
+          "text": " van "
+        },
+        {
+          "text": "nieuwkomers",
+          "glossary": "Mensen die nog niet lang in Nederland wonen."
+        },
+        {
+          "text": " in de maatschappij."
+        }
+      ],
       "moreInfo": "De gemeente is verantwoordelijk voor de inburgering van nieuwkomers. Nieuwkomers zijn mensen die nog niet zo lang in Nederland wonen, bijvoorbeeld vluchtelingen met een verblijfsvergunning. Zij moeten de Nederlandse taal leren en de Nederlandse samenleving leren kennen. Een gemeente mag zelf bepalen hoe dat gebeurt. In Edam-Volendam krijgt iedere nieuwkomer een persoonlijk advies over een passende school of cursus.",
       "pro": "Sommige partijen vinden datGoede integratie zorgt voor een sterke gemeenschap.Goed geïntegreerde nieuwkomers vinden sneller werk. Dat is goed voor de lokale economie.Nieuwkomers moeten volledig mee kunnen doen in de samenleving. Een goede integratie helpt daarbij.",
       "con": "Andere partijen vinden datDe gemeente geeft al geld aan verenigingen die taalles geven en nieuwkomers begeleiden naar werk.Nieuwkomers moeten zelf investeren in hun toekomst in Nederland. Zij zijn zelf verantwoordelijk voor hun integratie.De landelijke overheid moet meer geld geven voor de integratie van nieuwkomers. Dat is geen taak van de gemeente.",
@@ -2743,6 +2762,18 @@
       "theme": "Ombudsman",
       "themeId": "ombudsman",
       "title": "Edam-Volendam moet een eigen ombudsman krijgen voor klachten over de gemeente.",
+      "titleParts": [
+        {
+          "text": " Edam-Volendam moet een eigen "
+        },
+        {
+          "text": "ombudsman",
+          "glossary": "Een onafhankelijke persoon die inwoners helpt bij klachten over de overheid."
+        },
+        {
+          "text": " krijgen voor klachten over de gemeente."
+        }
+      ],
       "moreInfo": "Een ombudsman- of vrouw is onafhankelijk en helpt burgers die vastlopen bij de overheid. De gemeente Edam-Volendam heeft geen eigen ombudsman- of vrouw. Inwoners met klachten over de gemeente kunnen wel terecht bij de Nationale Ombudsman.",
       "pro": "Sommige partijen vinden datVeel inwoners hebben problemen met de gemeente. Een ombudsman kan goed naar hun klachten kijken.Veel inwoners voelen zich niet gehoord. Een ombudsman kan naar hen luisteren.Een eigen ombudsman kan de dienstverlening van de gemeente verbeteren.",
       "con": "Andere partijen vinden datEen eigen ombudsman is een te ingrijpende maatregel.De normale klachtenprocedure van de gemeente is goed genoeg. Een eigen ombudsman is onnodig.Het aanstellen van een eigen ombudsman kost te veel geld.",
@@ -2795,6 +2826,18 @@
       "theme": "Preventief fouilleren",
       "themeId": "preventief-fouilleren",
       "title": "De politie mag preventief fouilleren in het uitgaansgebied van Volendam.",
+      "titleParts": [
+        {
+          "text": " De politie mag preventief "
+        },
+        {
+          "text": "fouilleren",
+          "glossary": "iemands zakken en kleren doorzoeken om te controleren op wapens en drugs."
+        },
+        {
+          "text": " in het uitgaansgebied van Volendam."
+        }
+      ],
       "moreInfo": "Fouilleren is het doorzoeken van iemands kleren, zakken of tas. De politie doet dat om mensen te controleren op wapenbezit. Normaal mag de politie alleen fouilleren als er een vermoeden is dat iemand iets strafbaars heeft gedaan. Bij preventief fouilleren hoeft er geen verdenking te zijn, dan is het uit voorzorg. De gemeente kan tijdelijk bepaalde gebieden aanwijzen waar de politie preventief mensen mag fouilleren.",
       "pro": "Sommige partijen vinden datPreventief fouilleren zorgt voor meer veiligheid in het uitgaansgebied van Volendam.Er komen steeds meer mensen om uit te gaan in Volendam. Daarom is de kans op problemen groter en is controle belangrijk.",
       "con": "Andere partijen vinden datHet uitgaansgebied van Volendam is niet zo gevaarlijk. Preventief fouilleren is onnodig.De gemeente Edam-Volendam moet niet te ver gaan met maatregelen.",
@@ -2834,6 +2877,18 @@
       "theme": "Coffeeshops",
       "themeId": "coffeeshops",
       "title": "De gemeente moet de vestiging van coffeeshops blijven tegenhouden.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de vestiging van "
+        },
+        {
+          "text": "coffeeshops",
+          "glossary": "Winkel of café waar je softdrugs (hasj, wiet) kunt kopen en oproken."
+        },
+        {
+          "text": " blijven tegenhouden."
+        }
+      ],
       "moreInfo": "Een coffeeshop is een winkel of café waar je softdrugs (hasj, wiet) kunt kopen en oproken. De gemeente Edam-Volendam heeft momenteel geen coffeeshop.",
       "pro": "Sommige partijen vinden datInwoners moeten op een veilige plek softdrugs kunnen kopen.  Cannabis kan ook helpen bij medische klachten.Alcohol is veel gevaarlijker voor de gezondheid dan softdrugs.",
       "con": "Andere partijen vinden datHet gebruik van softdrugs is ongezond.Een coffeeshop kan bezoekers van buiten de gemeente trekken. Dit zorgt voor overlast.Edam-Volendam is een dorpse gemeente. Daar past geen coffeeshop in.",
@@ -2860,6 +2915,25 @@
       "theme": "Voorrang voor vluchtelingen",
       "themeId": "voorrang-voor-vluchtelingen",
       "title": "De gemeente moet vluchtelingen met een verblijfsvergunning geen voorrang meer geven op een sociale huurwoning.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet vluchtelingen met een "
+        },
+        {
+          "text": "verblijfsvergunning",
+          "glossary": "Het recht om in Nederland te blijven wonen. Met het woord kun je dat recht zelf bedoelen en ook het kaartje waarop staat dat iemand dat recht heeft."
+        },
+        {
+          "text": " geen voorrang meer geven op een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "Vluchtelingen met een verblijfsvergunning zijn mensen die asiel hebben aangevraagd en in Nederland mogen blijven. Dit zijn statushouders. Gemeenten zijn verplicht om statushouders aan een woning te helpen. De Rijksoverheid bepaalt elk half jaar hoeveel statushouders een gemeente moet huisvesten. Dit aantal is gebaseerd op het aantal inwoners van de gemeente. In 2026 moet Edam-Volendam 92 statushouders huisvesten. Gemeenten mogen zelf bepalen wie voorrang krijgt bij het toewijzen van sociale huurwoningen. Statushouders hebben niet automatisch voorrang. Dit hangt af van de regels van de gemeente. In Edam-Volendam krijgen vluchtelingen met een verblijfsvergunning voorrang op een sociale huurwoning.",
       "pro": "Sommige partijen vinden datVeel inwoners wachten al jaren op een sociale huurwoning in Edam-Volendam. Zij mogen niet worden benadeeld. Vluchtelingen met een verblijfsvergunning moeten daarom ook op een wachtlijst.",
       "con": "Andere partijen vinden datVluchtelingen met een verblijfsvergunning verdienen ook een woning en plek in de samenleving.",
@@ -2873,6 +2947,25 @@
       "theme": "Sociale huurwoningen",
       "themeId": "sociale-huurwoningen",
       "title": "Van de nieuw te bouwen woningen in Edam-Volendam moet minimaal 40% een sociale huurwoning zijn. In Edam-Volendam is nu 30% van de nieuwe woningen een sociale huurwoning.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in Edam-Volendam moet minimaal 40% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": " zijn. In Edam-Volendam is nu 30% van de nieuwe woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "Voor een sociale huurwoning betaal je een lagere huur. Ze zijn meestal eigendom van een woningcorporatie. Alleen mensen met een lager inkomen kunnen zo’n woning krijgen. Veel mensen willen zo’n woning. De wachtlijst is lang.",
       "pro": "Sommige partijen vinden datEr zijn te weinig sociale huurwoningen in de gemeente Edam-Volendam.In de gemeente zijn de laatste jaren vooral dure huur- en koopwoningen gebouwd. Daardoor is er een scheve verhouding tussen sociale huur en dure woningen.",
       "con": "Andere partijen vinden datHet bouwen van nieuwe woningen kost veel geld. Meer dan 30% sociale huurwoningen is financieel niet haalbaar.De gemeente moet meer betaalbare koopwoningen bouwen in plaats van sociale huurwoningen.",
@@ -2886,6 +2979,18 @@
       "theme": "Handhavers",
       "themeId": "handhavers",
       "title": "De gemeentelijke handhavers (boa's) die in Edam-Volendam controleren op veiligheid moeten een wapenstok krijgen.",
+      "titleParts": [
+        {
+          "text": " De gemeentelijke handhavers ("
+        },
+        {
+          "text": "boa's",
+          "glossary": "Bijzondere Opsporings Ambtenaren. Ze kunnen boetes geven en hebben vaak de taak om toezicht te houden op straat."
+        },
+        {
+          "text": ") die in Edam-Volendam controleren op veiligheid moeten een wapenstok krijgen."
+        }
+      ],
       "moreInfo": "Een boa is een buitengewoon opsporingsambtenaar. In veel gemeenten handhaven boa’s de orde en veiligheid. Ze kunnen bijvoorbeeld boetes geven voor fout parkeren of fietsen op plekken waar dat niet mag. Sinds kort mogen boa’s geweldsmiddelen krijgen, zoals een wapenstok of pepperspray. De gemeente beslist daarover.",
       "pro": "Sommige partijen vinden datGemeentelijke handhavers (boa’s) moeten zichzelf kunnen verdedigen.In andere gemeenten hebben gemeentelijke handhavers (boa’s) wapenstokken. Dit werkt goed.Gemeentelijke handhavers (boa’s) moeten duidelijk laten zien dat ze gezag hebben. Een wapenstok helpt daarbij.",
       "con": "Andere partijen vinden datWapens lokken geweld uit.Gemeentelijke handhavers (boa’s) zijn niet goed opgeleid om geweldsmiddelen te gebruiken.Het gebruiken van geweldsmiddelen is een taak van de politie. Gemeentelijke handhavers (boa’s) moeten geen taken van de politie overnemen.",
@@ -2899,6 +3004,25 @@
       "theme": "Duurzame bedrijven",
       "themeId": "duurzame-bedrijven",
       "title": "Bedrijven die duurzaam werken moeten voorrang krijgen om zich te vestigen op nieuwe bedrijventerreinen.",
+      "titleParts": [
+        {
+          "text": " Bedrijven die "
+        },
+        {
+          "text": "duurzaam",
+          "glossary": "Iets wat je lang kunt (her)gebruiken."
+        },
+        {
+          "text": " werken moeten voorrang krijgen om zich te "
+        },
+        {
+          "text": "vestigen",
+          "glossary": "Bouwen, ergens neerzetten (een gebouw, organisatie of huishouden)"
+        },
+        {
+          "text": " op nieuwe bedrijventerreinen."
+        }
+      ],
       "moreInfo": "In de Purmer komt een nieuw bedrijventerrein. De gemeente kan eisen stellen aan bedrijven die zich daar willen vestigen.",
       "pro": "Sommige partijen vinden datDit stimuleert duurzaam ondernemen en zorgt voor een groene economie in Edam-Volendam.",
       "con": "Andere partijen vinden datDe gemeente moet niemand voortrekken. Elke ondernemer moet dezelfde kansen krijgen.",
@@ -2951,6 +3075,18 @@
       "theme": "Belasting op gebouwen",
       "themeId": "belasting-op-gebouwen",
       "title": "De onroerendezaakbelasting moet omlaag.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "onroerendezaakbelasting",
+          "glossary": "Belasting die je betaalt als eigenaar van een gebouw of stuk grond, of gebruiker van een bedrijfspand."
+        },
+        {
+          "text": " moet omlaag."
+        }
+      ],
       "moreInfo": "De onroerendezaakbelasting (OZB) is de jaarlijkse belasting die je betaalt als eigenaar van een gebouw of stuk grond, of als gebruiker van een bedrijfspand. De hoogte hangt af van de WOZ-waarde: de geschatte marktwaarde van  het gebouw of de grond op 1 januari van het voorgaande jaar. De gemeente bepaalt hoe hoog de OZB is.",
       "pro": "Sommige partijen vinden datDe onroerendezaakbelasting moet zo laag mogelijk blijven.",
       "con": "Andere partijen vinden datDe gemeente moet ergens anders op bezuinigen als de onroerendezaakbelasting omlaag gaat.",
@@ -2977,6 +3113,18 @@
       "theme": "Woningbouw",
       "themeId": "woningbouw",
       "title": "De gemeente moet nieuwbouw buiten de bebouwde kom tegengaan.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet nieuwbouw buiten de "
+        },
+        {
+          "text": "bebouwde kom",
+          "glossary": "Gebied met bebouwing (huizen, gebouwen)."
+        },
+        {
+          "text": " tegengaan."
+        }
+      ],
       "moreInfo": "Nieuwbouw buiten de bebouwde kom betekent dat er woningen buiten de dorpen worden gebouwd. Dit gebeurt dan bijvoorbeeld in weilanden of landelijk gebied.",
       "pro": "Sommige partijen vinden datHet landschap moet behouden blijven in de gemeente Edam-Volendam.",
       "con": "Andere partijen vinden datDe woningnood is hoog. Daarom moet de gemeente woningbouw toestaan, ook in het buitengebied.",
@@ -3003,6 +3151,18 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "De inwoners van Edam-Volendam moeten over belangrijke onderwerpen hun mening kunnen geven via een referendum.",
+      "titleParts": [
+        {
+          "text": " De inwoners van Edam-Volendam moeten over belangrijke onderwerpen hun mening kunnen geven via een "
+        },
+        {
+          "text": "referendum",
+          "glossary": "Volksraadpleging waarbij inwoners zich kunnen uitspreken over een politieke kwestie. De gemeenteraad is niet verplicht de uitslag te volgen, dat is wettelijk niet mogelijk."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "Bij een referendum legt de gemeente een vraag over één onderwerp voor aan kiezers. Die kunnen voor of tegen stemmen. Bij een gemeentelijk referendum mogen alle inwoners van die gemeente stemmen die 18 jaar of ouder zijn. In Nederland is de uitslag van een referendum niet bindend. De gemeente kan een ander besluit nemen.",
       "pro": "Sommige partijen vinden datEen referendum is een goede manier om inwoners mee te laten beslissen bij belangrijke besluiten van de gemeente.Met een referendum raken inwoners meer betrokken bij de lokale politiek.",
       "con": "Andere partijen vinden datInwoners kunnen al op andere manieren hun mening geven. Bijvoorbeeld via het inspreekrecht.Een referendum organiseren is complex en kost veel geld.",
@@ -3029,6 +3189,18 @@
       "theme": "Gemengde wijken",
       "themeId": "gemengde-wijken",
       "title": "De gemeente moet zorgen voor wijken met sociale huurwoningen en koopwoningen door elkaar.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet zorgen voor wijken met "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": "en en koopwoningen door elkaar."
+        }
+      ],
       "moreInfo": "Een gemengde wijk is een buurt waar mensen met weinig geld en mensen met een goed inkomen door elkaar wonen. De gemeente kan bij nieuwbouw aansturen op zo’n mix.",
       "pro": "Sommige partijen vinden datEen gemengde wijk voorkomt dat mensen apart van elkaar leven.Gemengde wijken voorkomen dat problemen zich in één buurt ophopen. Zo ontstaat er geen achterstandswijk.",
       "con": "Andere partijen vinden datEen gemengde wijk mag geen verplichting zijn.De gemeente moet per wijk kijken aan welke woningen behoefte is.",
@@ -3055,6 +3227,18 @@
       "theme": "Mantelzorg",
       "themeId": "mantelzorg",
       "title": "De gemeente moet zorgen dat mantelzorgers elke maand drie dagen hulp of vervanging kunnen krijgen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet zorgen dat "
+        },
+        {
+          "text": "mantelzorgers",
+          "glossary": "Iemand die onbetaald en vaak langdurig zorgt voor zieke familieleden of vrienden."
+        },
+        {
+          "text": " elke maand drie dagen hulp of vervanging kunnen krijgen."
+        }
+      ],
       "moreInfo": "Mantelzorgers zijn mensen die zorgen voor een naaste die hulp nodig heeft. Dat kunnen partners, familieleden, vrienden of buren zijn. In Nederland zijn er ongeveer 5 miljoen mantelzorgers.",
       "pro": "Sommige partijen vinden datMantelzorgers zijn onmisbaar omdat ze helpen voorkomen dat de zorg overbelast raakt. Door een paar dagen rust per maand houden mantelzorgers het vol.Zorgen voor andere mensen is zwaar. De gemeente moet mantelzorgers ondersteunen.",
       "con": "Andere partijen vinden datDe gemeente is geen werkgever van de mantelzorger.Er zijn al voldoende maatregelen om mantelzorgers te ontlasten.",

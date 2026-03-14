@@ -2511,6 +2511,18 @@
       "theme": "Intensieve veehouderij",
       "themeId": "intensieve-veehouderij",
       "title": "De gemeente moet uitbreiding van de intensieve veehouderij tegengaan.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet uitbreiding van de "
+        },
+        {
+          "text": "intensieve veehouderij",
+          "glossary": "Bedrijven waarin onder meer varkens, kippen en kalveren op een relatief klein oppervlak worden gehouden."
+        },
+        {
+          "text": " tegengaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2550,6 +2562,18 @@
       "theme": "Duurzame energie",
       "themeId": "duurzame-energie",
       "title": "Inwoners die samen duurzame energie op willen wekken, moeten financiële steun krijgen van de gemeente.",
+      "titleParts": [
+        {
+          "text": " Inwoners die samen "
+        },
+        {
+          "text": "duurzame energie",
+          "glossary": "Energie op basis van grondstoffen waar een oneindige hoeveelheid van is, zoals zonlicht en wind."
+        },
+        {
+          "text": " op willen wekken, moeten financiële steun krijgen van de gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2576,6 +2600,18 @@
       "theme": "Asielopvang tegenhouden",
       "themeId": "asielopvang-tegenhouden",
       "title": "De gemeente moet zich zoveel mogelijk verzetten tegen het opvangen van asielzoekers.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet zich zoveel mogelijk verzetten tegen het opvangen van "
+        },
+        {
+          "text": "asielzoekers",
+          "glossary": "Mensen die asiel hebben aangevraagd en nog wachten op de beslissing daarover."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2602,6 +2638,18 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "De inwoners van Achtkarspelen moeten over belangrijke onderwerpen hun mening kunnen geven via een referendum.",
+      "titleParts": [
+        {
+          "text": " De inwoners van Achtkarspelen moeten over belangrijke onderwerpen hun mening kunnen geven via een "
+        },
+        {
+          "text": "referendum",
+          "glossary": "Volksraadpleging waarbij inwoners zich kunnen uitspreken over een politieke kwestie. De gemeenteraad is niet verplicht de uitslag te volgen, dat is wettelijk niet mogelijk."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2628,6 +2676,18 @@
       "theme": "Handhavers",
       "themeId": "handhavers",
       "title": "In Achtkarspelen moeten meer gemeentelijke handhavers (boa’s) komen die zich met veiligheid bezighouden.",
+      "titleParts": [
+        {
+          "text": " In Achtkarspelen moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "Mensen die voor de gemeente controleren of burgers en bedrijven zich aan de regels houden."
+        },
+        {
+          "text": " (boa’s) komen die zich met veiligheid bezighouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2667,6 +2727,18 @@
       "theme": "Bijverdienen in bijstand",
       "themeId": "bijverdienen-in-bijstand",
       "title": "Mensen met een bijstandsuitkering moeten meer ruimte krijgen om bij te verdienen.",
+      "titleParts": [
+        {
+          "text": " Mensen met een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Geld van de gemeente voor mensen die geen inkomen of eigen geld hebben."
+        },
+        {
+          "text": " moeten meer ruimte krijgen om bij te verdienen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2693,6 +2765,18 @@
       "theme": "Welstandsregels",
       "themeId": "welstandsregels",
       "title": "De gemeente moet de welstandsregels voor bouwen en verbouwen afschaffen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de "
+        },
+        {
+          "text": "welstandsregels",
+          "glossary": "Regels van de gemeente die bepalen hoe de huizen en tuinen in een buurt eruit moeten zien."
+        },
+        {
+          "text": " voor bouwen en verbouwen afschaffen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2823,6 +2907,18 @@
       "theme": "Gemeentelijk woningbedrijf",
       "themeId": "gemeentelijk-woningbedrijf",
       "title": "De gemeente moet zelf sociale huurwoningen gaan bouwen en verhuren.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet zelf "
+        },
+        {
+          "text": "sociale huurwoningen",
+          "glossary": "Huurwoningen die bij aanvang van de huur niet duurder zijn dan een bepaald bedrag. In 2025 was dat bedrag € 900,07 per maand."
+        },
+        {
+          "text": " gaan bouwen en verhuren."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2849,6 +2945,25 @@
       "theme": "Gesubsidieerde banen",
       "themeId": "gesubsidieerde-banen",
       "title": "Er moeten veel meer gesubsidieerde banen voor langdurig werklozen komen in onze gemeente.",
+      "titleParts": [
+        {
+          "text": " Er moeten veel meer "
+        },
+        {
+          "text": "gesubsidieerde banen",
+          "glossary": "Door de overheid betaalde banen voor mensen die weinig kans maken op een gewone baan."
+        },
+        {
+          "text": " voor "
+        },
+        {
+          "text": "langdurig werklozen",
+          "glossary": "Mensen die al lange tijd (langer dan een jaar) geen betaald werk hebben."
+        },
+        {
+          "text": " komen in onze gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",

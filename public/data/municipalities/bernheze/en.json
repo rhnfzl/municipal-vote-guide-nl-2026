@@ -1058,9 +1058,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should make it possible for residents to start a shop from home.",
-      "themeEn": "Home-based shop"
+      "isShootout": false
     },
     {
       "id": 239220,
@@ -1071,9 +1069,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The maximum speed limit in built-up areas should be set to 30 km/h.",
-      "themeEn": "Car speeds"
+      "isShootout": false
     },
     {
       "id": 239195,
@@ -1081,12 +1077,29 @@
       "theme": "Integration",
       "themeId": "integratie",
       "title": "The municipality should spend more money on integrating newcomers in Bernheze.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld uitgeven aan "
+        },
+        {
+          "text": "integratie",
+          "glossary": "Newcomers learn the language and customs of the Netherlands."
+        },
+        {
+          "text": " van "
+        },
+        {
+          "text": "nieuwkomers",
+          "glossary": "People who are new to the Netherlands."
+        },
+        {
+          "text": " in Bernheze."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should spend more money on integrating newcomers in Bernheze.",
-      "themeEn": "Integration"
+      "isShootout": false
     },
     {
       "id": 239190,
@@ -1097,9 +1110,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Cafés and restaurants must be able to determine their own opening hours.",
-      "themeEn": "Closing times for bars and restaurants"
+      "isShootout": false
     },
     {
       "id": 239213,
@@ -1110,9 +1121,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should support more people living in poverty.",
-      "themeEn": "Combating poverty"
+      "isShootout": false
     },
     {
       "id": 239186,
@@ -1120,12 +1129,22 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "Residents of Bernheze should be able to take part in decision-making on important issues via a referendum.",
+      "titleParts": [
+        {
+          "text": " De inwoners van Bernheze moeten over belangrijke onderwerpen mee kunnen beslissen via een "
+        },
+        {
+          "text": "referendum",
+          "glossary": "A public consultation where residents can express their opinion on a political issue. The municipal council is not obliged to follow the result; legally it cannot."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents of Bernheze should be able to take part in decision-making on important issues via a referendum.",
-      "themeEn": "Referendum"
+      "isShootout": false
     },
     {
       "id": 239218,
@@ -1136,9 +1155,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should create fewer parking spaces in new residential areas.",
-      "themeEn": "Parking spaces"
+      "isShootout": false
     },
     {
       "id": 239208,
@@ -1149,9 +1166,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "More residential apartment buildings of four stories or more may be allowed in Bernheze.",
-      "themeEn": "High-rise buildings"
+      "isShootout": false
     },
     {
       "id": 239198,
@@ -1162,9 +1177,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should ban solar panels on agricultural land.",
-      "themeEn": "Solar panels on farmland"
+      "isShootout": false
     },
     {
       "id": 239216,
@@ -1175,9 +1188,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People on social assistance who are taking additional training should temporarily not have to apply for jobs.",
-      "themeEn": "Exemption from the job application obligation"
+      "isShootout": false
     },
     {
       "id": 239210,
@@ -1188,9 +1199,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must allow holiday homes to be used as a permanent residence.",
-      "themeEn": "Holiday cottages"
+      "isShootout": false
     },
     {
       "id": 239204,
@@ -1198,12 +1207,22 @@
       "theme": "Enforcement officers",
       "themeId": "handhavers",
       "title": "Bernheze should have more municipal enforcement officers (BOAs) focused on safety.",
+      "titleParts": [
+        {
+          "text": " In Bernheze moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "People who, for the municipality, check whether citizens and businesses comply with the rules."
+        },
+        {
+          "text": " (boa’s) komen die zich met veiligheid bezighouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Bernheze should have more municipal enforcement officers (BOAs) focused on safety.",
-      "themeEn": "Enforcement officers"
+      "isShootout": false
     },
     {
       "id": 239237,
@@ -1214,9 +1233,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents with questions for the municipality should be able to visit a local municipal service desk in every village.",
-      "themeEn": "Information from the municipality"
+      "isShootout": false
     },
     {
       "id": 239244,
@@ -1227,9 +1244,7 @@
       "moreInfo": "The municipality plans to build ring roads near Heeswijk-Dinther and Nistelrode; the municipal council still has to decide. The normal maximum speed outside built-up areas is 80 km/h.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "A maximum speed of 50 km/h should apply on the future ring roads.",
-      "themeEn": "Speed on the ring road"
+      "isShootout": false
     },
     {
       "id": 239214,
@@ -1240,9 +1255,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People receiving social assistance should, in return, do socially useful work.",
-      "themeEn": "Work requirement for welfare recipients"
+      "isShootout": false
     },
     {
       "id": 239248,
@@ -1250,12 +1263,22 @@
       "theme": "Small-scale asylum reception",
       "themeId": "kleinschalige-asielopvang",
       "title": "Several small reception locations for asylum seekers should be established (maximum 75 people per location).",
+      "titleParts": [
+        {
+          "text": " Er moeten meerdere kleine opvanglocaties voor "
+        },
+        {
+          "text": "asielzoekers",
+          "glossary": "People who have applied for asylum and are still waiting for a decision."
+        },
+        {
+          "text": " komen (maximaal 75 personen per locatie)."
+        }
+      ],
       "moreInfo": "In July 2024 the municipal council decided that Bernheze will take in a maximum of 250 asylum seekers. The council still needs to decide on the location for housing these asylum seekers.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Several small reception locations for asylum seekers should be established (maximum 75 people per location).",
-      "themeEn": "Small-scale asylum reception"
+      "isShootout": false
     },
     {
       "id": 239197,
@@ -1266,9 +1289,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "In Bernheze the use of open fireplaces and wood stoves should remain permitted.",
-      "themeEn": "Wood burning"
+      "isShootout": false
     },
     {
       "id": 239239,
@@ -1276,12 +1297,22 @@
       "theme": "Housing construction",
       "themeId": "woningbouw",
       "title": "When building social rental homes, the municipality should ensure an equal distribution across all villages.",
+      "titleParts": [
+        {
+          "text": " Bij de bouw van "
+        },
+        {
+          "text": "sociale huurwoningen",
+          "glossary": "A rental home that at the start of the tenancy does not cost more than a certain amount. In 2025 that amount is €900.07 per month."
+        },
+        {
+          "text": " moet de gemeente zorgen voor een gelijke verdeling over alle dorpen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "When building social rental homes, the municipality should ensure an equal distribution across all villages.",
-      "themeEn": "Housing construction"
+      "isShootout": false
     },
     {
       "id": 239193,
@@ -1289,12 +1320,22 @@
       "theme": "Sustainable energy",
       "themeId": "duurzame-energie",
       "title": "Residents who want to generate sustainable energy together should receive financial support from the municipality.",
+      "titleParts": [
+        {
+          "text": " Inwoners die samen "
+        },
+        {
+          "text": "duurzame energie",
+          "glossary": "Energy based on resources that are effectively infinite, such as sunlight and wind."
+        },
+        {
+          "text": " op willen wekken, moeten financiële steun krijgen van de gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents who want to generate sustainable energy together should receive financial support from the municipality.",
-      "themeEn": "Sustainable energy"
+      "isShootout": false
     },
     {
       "id": 239242,
@@ -1302,12 +1343,22 @@
       "theme": "Learning Dutch",
       "themeId": "nederlands-leren",
       "title": "The municipality should reduce social assistance benefits for newcomers who do not attend language classes.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "nieuwkomers",
+          "glossary": "People who are new to the Netherlands."
+        },
+        {
+          "text": " die geen taalles volgen, korten op hun bijstandsuitkering."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should reduce social assistance benefits for newcomers who do not attend language classes.",
-      "themeEn": "Learning Dutch"
+      "isShootout": false
     },
     {
       "id": 239221,
@@ -1318,9 +1369,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People who need care should always be able to choose a caregiver who matches their religion, culture, or beliefs.",
-      "themeEn": "Choice of healthcare"
+      "isShootout": false
     },
     {
       "id": 239215,
@@ -1328,12 +1377,22 @@
       "theme": "Stop debt forgiveness",
       "themeId": "kwijtschelding-stoppen",
       "title": "The municipality should stop forgiving municipal taxes for low-income residents.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet stoppen met het "
+        },
+        {
+          "text": "kwijtschelden",
+          "glossary": "That people no longer have to pay for something."
+        },
+        {
+          "text": " van de gemeentelijke belastingen voor inwoners met een laag inkomen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should stop forgiving municipal taxes for low-income residents.",
-      "themeEn": "Stop debt forgiveness"
+      "isShootout": false
     },
     {
       "id": 239207,
@@ -1341,12 +1400,22 @@
       "theme": "Social housing",
       "themeId": "sociale-huurwoningen",
       "title": "At least 30% of newly built homes in Bernheze should be social rental housing. Currently about 19% of all homes in the municipality are social rental.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in Bernheze moet minimaal 30% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " zijn. Nu is ongeveer 19% van alle woningen in de gemeente sociale huur."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "At least 30% of newly built homes in Bernheze should be social rental housing. Currently about 19% of all homes in the municipality are social rental.",
-      "themeEn": "Social housing"
+      "isShootout": false
     },
     {
       "id": 239243,
@@ -1357,9 +1426,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should spend more money on safe bicycle routes between the villages.",
-      "themeEn": "Safe cycling"
+      "isShootout": false
     },
     {
       "id": 239202,
@@ -1367,12 +1434,22 @@
       "theme": "Sports clubs",
       "themeId": "sportverenigingen",
       "title": "If sports clubs are struggling, the municipality should contribute financially.",
+      "titleParts": [
+        {
+          "text": " Als sportverenigingen het moeilijk hebben, moet de gemeente "
+        },
+        {
+          "text": "financieel",
+          "glossary": "Something related to money."
+        },
+        {
+          "text": " bijdragen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "If sports clubs are struggling, the municipality should contribute financially.",
-      "themeEn": "Sports clubs"
+      "isShootout": false
     },
     {
       "id": 239205,
@@ -1383,9 +1460,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must ask the police to hold a weekly meeting with the community police officer in each village.",
-      "themeEn": "Neighborhood police officer"
+      "isShootout": false
     },
     {
       "id": 239201,
@@ -1393,12 +1468,22 @@
       "theme": "Music lessons",
       "themeId": "muziekles",
       "title": "Every primary school child should be able to receive music lessons subsidized by the municipality.",
+      "titleParts": [
+        {
+          "text": " Elk basisschoolkind moet met "
+        },
+        {
+          "text": "subsidie",
+          "glossary": "Money the government gives to citizens, businesses, and organizations to support them."
+        },
+        {
+          "text": " van de gemeente muziekles kunnen krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Every primary school child should be able to receive music lessons subsidized by the municipality.",
-      "themeEn": "Music lessons"
+      "isShootout": false
     },
     {
       "id": 239236,
@@ -1406,12 +1491,22 @@
       "theme": "Village community centers",
       "themeId": "dorpshuizen",
       "title": "The municipality should cut spending on village community centers.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "bezuinigen",
+          "glossary": "Spending less money."
+        },
+        {
+          "text": " op de dorpshuizen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should cut spending on village community centers.",
-      "themeEn": "Village community centers"
+      "isShootout": false
     },
     {
       "id": 239187,
@@ -1422,9 +1517,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents should be able to take over the management of, for example, a sports hall or a public green space from the municipality.",
-      "themeEn": "Management by citizens"
+      "isShootout": false
     },
     {
       "id": 239238,
@@ -1435,9 +1528,7 @@
       "moreInfo": "Research shows that people living close to a goat farm have a higher risk of pneumonia. The national government wants rules for a minimum distance between goat farms and new homes to protect residents' health. The Health Council advises a distance of 1 kilometer.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should not allow new homes within a 1 km radius of goat farms.",
-      "themeEn": "Goat farms"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

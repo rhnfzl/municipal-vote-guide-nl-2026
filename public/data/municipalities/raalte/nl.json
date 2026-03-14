@@ -1214,6 +1214,18 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "Inwoners moeten de mogelijkheid krijgen een raadgevend referendum te organiseren. Zij kunnen dan hun mening geven over een plan van de gemeente.",
+      "titleParts": [
+        {
+          "text": " Inwoners moeten de mogelijkheid krijgen een raadgevend "
+        },
+        {
+          "text": "referendum",
+          "glossary": "Volksraadpleging waarbij inwoners zich kunnen uitspreken over een politieke kwestie. De gemeenteraad is niet verplicht de uitslag te volgen, dat is wettelijk niet mogelijk."
+        },
+        {
+          "text": " te organiseren. Zij kunnen dan hun mening geven over een plan van de gemeente."
+        }
+      ],
       "moreInfo": "Bij een raadgevend referendum kunnen inwoners hun mening geven over een plan of besluit van de gemeente. Zij stemmen voor of tegen één onderwerp. De uitslag is een advies aan de gemeenteraad. Dat betekent dat de raad het besluit uiteindelijk zelf neemt en niet verplicht is om de uitslag te volgen.",
       "pro": "",
       "con": "",
@@ -1227,6 +1239,18 @@
       "theme": "Toeristenbelasting",
       "themeId": "toeristenbelasting",
       "title": "De toeristenbelasting moet omhoog. Het tarief is nu € 1,55 per overnachting per persoon.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "toeristenbelasting",
+          "glossary": "De belasting die je moet betalen als je in een hotel of op een camping bijft slapen."
+        },
+        {
+          "text": " moet omhoog. Het tarief is nu € 1,55 per overnachting per persoon."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1266,6 +1290,18 @@
       "theme": "Gemeentehuis",
       "themeId": "gemeentehuis",
       "title": "Raalte moet het bestaande gemeentehuis grondig renoveren.",
+      "titleParts": [
+        {
+          "text": " Raalte moet het bestaande gemeentehuis grondig "
+        },
+        {
+          "text": "renoveren",
+          "glossary": "Het herstellen of gedeeltelijk venieuwen van een bestaand gebouw."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1279,6 +1315,25 @@
       "theme": "Voorrang statushouders",
       "themeId": "voorrang-statushouders",
       "title": "Statushouders mogen geen voorrang krijgen op sociale huurwoningen.",
+      "titleParts": [
+        {
+          "text": ""
+        },
+        {
+          "text": "Statushouders",
+          "glossary": "Vluchtelingen die een verblijfsvergunning hebben gekregen en dus in Nederland mogen blijven."
+        },
+        {
+          "text": " mogen geen voorrang krijgen op "
+        },
+        {
+          "text": "sociale huurwoningen",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1292,6 +1347,25 @@
       "theme": "Grote veehouderijen",
       "themeId": "grote-veehouderijen",
       "title": "De gemeente moet maatregelen nemen tegen de groei van grote veehouderijen in het buitengebied.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet maatregelen nemen tegen de groei van grote "
+        },
+        {
+          "text": "veehouderijen",
+          "glossary": "Bedrijven waar dieren worden gehouden, zoals koeien of varkens."
+        },
+        {
+          "text": " in het "
+        },
+        {
+          "text": "buitengebied",
+          "glossary": "Gebied binnen de grenzen van de gemeente maar buiten de steden of dorpen zelf, hier staan weinig huizen en andere gebouwen."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1305,6 +1379,18 @@
       "theme": "Asielopvang verspreid",
       "themeId": "asielopvang-verspreid",
       "title": "Raalte moet de opvang van asielzoekers spreiden over meerdere plekken in de gemeente.",
+      "titleParts": [
+        {
+          "text": " Raalte moet de opvang van "
+        },
+        {
+          "text": "asielzoekers",
+          "glossary": "Mensen die asiel hebben aangevraagd en nog wachten op de beslissing daarover."
+        },
+        {
+          "text": " spreiden over meerdere plekken in de gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1331,6 +1417,18 @@
       "theme": "Lelieteelt",
       "themeId": "lelieteelt",
       "title": "De gemeente moet de regels voor de teelt van lelies in het buitengebied strenger maken.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de regels voor de teelt van lelies in het "
+        },
+        {
+          "text": "buitengebied",
+          "glossary": "Gebied binnen de grenzen van de gemeente maar buiten de steden of dorpen zelf, hier staan weinig huizen en andere gebouwen."
+        },
+        {
+          "text": " strenger maken."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1344,6 +1442,18 @@
       "theme": "Taalcursus nieuwkomers",
       "themeId": "taalcursus-nieuwkomers",
       "title": "De gemeente moet meer geld uitgeven aan Nederlandse taallessen voor nieuwkomers.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld uitgeven aan Nederlandse taallessen voor "
+        },
+        {
+          "text": "nieuwkomers",
+          "glossary": "Mensen die nog niet lang in Nederland wonen."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1357,6 +1467,18 @@
       "theme": "Duurzaamheidsregels",
       "themeId": "duurzaamheidsregels",
       "title": "De gemeente moet geen strengere regels voor duurzaamheid invoeren dan de landelijke regels.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geen strengere regels voor "
+        },
+        {
+          "text": "duurzaamheid",
+          "glossary": "Duurzaamheid is rekening houden met de gevolgen voor mens, milieu en toekomst."
+        },
+        {
+          "text": " invoeren dan de landelijke regels."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1383,6 +1505,18 @@
       "theme": "Spuitvrije zones",
       "themeId": "spuitvrije-zones",
       "title": "De zones rond woningen waarbinnen het spuiten van bestrijdingsmiddelen verboden is moeten ruimer worden dan wat landelijk verplicht is.",
+      "titleParts": [
+        {
+          "text": " De zones rond woningen waarbinnen het spuiten van "
+        },
+        {
+          "text": "bestrijdingsmiddelen",
+          "glossary": "Middelen die worden gebruikt om onkruid, insecten of ziekten te bestrijden."
+        },
+        {
+          "text": " verboden is moeten ruimer worden dan wat landelijk verplicht is."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1396,6 +1530,18 @@
       "theme": "Starters",
       "themeId": "starters",
       "title": "Het moet mogelijk blijven voor starters om een woning te kopen terwijl de grond eigendom blijft van de gemeente.",
+      "titleParts": [
+        {
+          "text": " Het moet mogelijk blijven voor "
+        },
+        {
+          "text": "starters",
+          "glossary": "Mensen die voor het eerst een huis kopen en nog nooit met een hypotheek te maken hebben gehad."
+        },
+        {
+          "text": " om een woning te kopen terwijl de grond eigendom blijft van de gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1422,6 +1568,18 @@
       "theme": "Raad voor Woningzoekenden",
       "themeId": "raad-voor-woningzoekenden",
       "title": "De gemeente moet een Raad voor Woningzoekenden instellen die meepraat over het woonbeleid.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet een Raad voor Woningzoekenden instellen die meepraat over het woon"
+        },
+        {
+          "text": "beleid",
+          "glossary": "Een plan voor hoe een probleem wordt aangepakt."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1435,6 +1593,18 @@
       "theme": "Infrastructuur voor woningbouw",
       "themeId": "infrastructuur-voor-woningbouw",
       "title": "De gemeente mag woningbouw pas toestaan als de benodigde wegen en andere voorzieningen zijn aangelegd.",
+      "titleParts": [
+        {
+          "text": " De gemeente mag woningbouw pas toestaan als de benodigde wegen en andere "
+        },
+        {
+          "text": "voorzieningen",
+          "glossary": "Gebouwen of diensten die nodig zijn voor het dagelijks leven, zoals wegen, sportplekken of zorg."
+        },
+        {
+          "text": " zijn aangelegd."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1448,6 +1618,18 @@
       "theme": "Handhavers",
       "themeId": "handhavers",
       "title": "In Raalte moeten meer gemeentelijke handhavers (boa’s) komen.",
+      "titleParts": [
+        {
+          "text": " In Raalte moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "Mensen die voor de gemeente controleren of burgers en bedrijven zich aan de regels houden."
+        },
+        {
+          "text": " (boa’s) komen."
+        }
+      ],
       "moreInfo": "Handhavers (boa’s) zorgen voor toezicht en handhaving in de openbare ruimte in Raalte. Zij spreken mensen aan bij overlast, controleren of regels worden nageleefd en werken samen met de politie. De gemeente Raalte heeft nu 2 boa’s. Samen werken zij 1,6 fte. Fte betekent fulltime-equivalent: 1,6 fte staat gelijk aan het aantal uren van 1,6 fulltime banen. Omdat boa’s altijd in tweetallen werken, is de inzet op straat in de praktijk 0,8 fte.",
       "pro": "",
       "con": "",
@@ -1461,6 +1643,25 @@
       "theme": "Sociale huurwoningen",
       "themeId": "sociale-huurwoningen",
       "title": "Van de nieuw te bouwen woningen in Raalte moet minimaal 35% een sociale huurwoning zijn. In Nederland is nu 28% van de woningen een sociale huurwoning.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in Raalte moet minimaal 35% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": " zijn. In Nederland is nu 28% van de woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "Sociale huurwoningen zijn woningen met een lage huur. Ze zijn bedoeld voor mensen met een lager inkomen. In 2026 mag de huur van een sociale huurwoning bij het begin van het huurcontract maximaal € 932,93 zijn. Van de woningen die er nu in Raalte staan, is ongeveer 24% een sociale huurwoning.  Bij nieuwbouw maakt de gemeente afspraken over het percentage sociale huurwoningen. Vaak wordt daarbij de 30-40-30-verdeling gebruikt: 30% sociale huur, 40% betaalbare koop en 30% duurdere koop. Dit is ook de regel in Raalte. De stelling gaat over het verhogen van het aandeel sociale huur naar minimaal 35%.",
       "pro": "",
       "con": "",
@@ -1474,6 +1675,25 @@
       "theme": "Mantelzorgers",
       "themeId": "mantelzorgers",
       "title": "De gemeente moet mantelzorgers jaarlijks een attentie geven als blijk van waardering.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "mantelzorgers",
+          "glossary": "Iemand die onbetaald en vaak langdurig zorgt voor zieke familieleden of vrienden."
+        },
+        {
+          "text": " jaarlijks een "
+        },
+        {
+          "text": "attentie",
+          "glossary": "Klein cadeautje of gebaar om waardering te laten zien."
+        },
+        {
+          "text": " geven als blijk van waardering."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1487,6 +1707,18 @@
       "theme": "Cameratoezicht",
       "themeId": "cameratoezicht",
       "title": "In de gemeente Raalte moet cameratoezicht komen op plekken met overlast.",
+      "titleParts": [
+        {
+          "text": " In de gemeente Raalte moet "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Het houden van toezicht op of in een gebouw, gebied of (groepen) mensen met behulp van bewakingscamera's."
+        },
+        {
+          "text": " komen op plekken met overlast."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1526,6 +1758,18 @@
       "theme": "Papieren gemeentegids",
       "themeId": "papieren-gemeentegids",
       "title": "De gemeente Raalte moet jaarlijks een papieren gemeentegids verspreiden met een overzicht van zorg- en welzijnsvoorzieningen.",
+      "titleParts": [
+        {
+          "text": " De gemeente Raalte moet jaarlijks een papieren gemeentegids verspreiden met een overzicht van zorg- en "
+        },
+        {
+          "text": "welzijnsvoorzieningen",
+          "glossary": "Activiteiten en diensten die mensen helpen om mee te doen in de samenleving."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1539,6 +1783,18 @@
       "theme": "Ondersteuning werkzoekenden",
       "themeId": "ondersteuning-werkzoekenden",
       "title": "De gemeente moet werkzoekenden praktisch ondersteunen, bijvoorbeeld met vervoer en sollicitatiebegeleiding.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet werkzoekenden praktisch ondersteunen, bijvoorbeeld met vervoer en "
+        },
+        {
+          "text": "sollicitatiebegeleiding",
+          "glossary": "Hulp bij het zoeken naar werk en het solliciteren."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",

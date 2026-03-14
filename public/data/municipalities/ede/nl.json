@@ -3281,6 +3281,18 @@
       "theme": "Spreidingswet uitvoeren",
       "themeId": "spreidingswet-uitvoeren",
       "title": "De gemeente Ede moet bereid zijn om meer asielzoekers op te vangen dan het wettelijk verplichte aantal.",
+      "titleParts": [
+        {
+          "text": " De gemeente Ede moet bereid zijn om meer "
+        },
+        {
+          "text": "asielzoekers ",
+          "glossary": "Mensen die asiel hebben aangevraagd en nog wachten op de beslissing daarover."
+        },
+        {
+          "text": "op te vangen dan het wettelijk verplichte aantal."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -3307,6 +3319,18 @@
       "theme": "Snelheid auto's",
       "themeId": "snelheid-auto-s",
       "title": "Op alle wegen waar auto's en fietsers samen gebruik maken van de weg moet de maximumsnelheid naar 30 km/u.",
+      "titleParts": [
+        {
+          "text": " Op alle wegen waar auto's en fietsers samen gebruik maken van de weg moet de "
+        },
+        {
+          "text": "maximumsnelheid",
+          "glossary": "De hoogste snelheid die autos en motoren mogen rijden op straat."
+        },
+        {
+          "text": " naar 30 km/u."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -3346,6 +3370,32 @@
       "theme": "Belasting op gebouwen",
       "themeId": "belasting-op-gebouwen",
       "title": "De gemeente moet opgespaarde reserves teruggeven aan de inwoners door de onroerendezaakbelasting (ozb) te verlagen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet opgespaarde "
+        },
+        {
+          "text": "reserves",
+          "glossary": "De spaarpot van de gemeente."
+        },
+        {
+          "text": " teruggeven aan de inwoners door de "
+        },
+        {
+          "text": "onroerendezaakbelasting",
+          "glossary": "Belasting die je betaalt als eigenaar van een gebouw of stuk grond, of gebruiker van een bedrijfspand."
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "ozb",
+          "glossary": "Onroerendezaakbelasting. Belasting die je betaalt als eigenaar van een gebouw of stuk grond, of gebruiker van een bedrijfspand."
+        },
+        {
+          "text": ") te verlagen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -3359,6 +3409,25 @@
       "theme": "Sociale huurwoningen",
       "themeId": "sociale-huurwoningen",
       "title": "Van de nieuw te bouwen woningen in Ede moet minimaal 40% een sociale huurwoning zijn. In Nederland is nu 28% van de woningen een sociale huurwoning.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in Ede moet minimaal 40% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": " zijn. In Nederland is nu 28% van de woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "Sociale huurwoningen zijn woningen met een huurprijs van maximaal €932,93 per maand. Deze woningen zijn bestemd voor inwoners met een lager inkomen. Inwoners die een huis in hun eentje willen huren komen in aanmerking voor een sociale huurwoning wanneer zij minder dan €51.537 per jaar verdienen. Voor gezinnen vanaf twee personen ligt deze grens op €56.910. Op dit moment is ongeveer 23% van alle woningen in Ede een sociale huurwoning.",
       "pro": "",
       "con": "",
@@ -3424,6 +3493,25 @@
       "theme": "City marketing",
       "themeId": "city-marketing",
       "title": "De gemeente moet geld steken in een promotiecampagne voor Ede als aantrekkelijke vestigingsplaats voor bedrijven.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld steken in een "
+        },
+        {
+          "text": "promotiecampagne",
+          "glossary": "Een serie reclames op bijvoorbeeld borden, televisie en sociale media."
+        },
+        {
+          "text": " voor Ede als aantrekkelijke "
+        },
+        {
+          "text": "vestigingsplaats",
+          "glossary": "De plek waar een bedrijf zich vestigt."
+        },
+        {
+          "text": " voor bedrijven."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -3463,6 +3551,18 @@
       "theme": "Winkels dicht op zondag",
       "themeId": "winkels-dicht-op-zondag",
       "title": "Op zondag moeten de winkels in alle kernen van de gemeente Ede open kunnen zijn.",
+      "titleParts": [
+        {
+          "text": " Op zondag moeten de winkels in alle "
+        },
+        {
+          "text": "kernen",
+          "glossary": "Een dorp of stadje dat onderdeel is van de gemeente."
+        },
+        {
+          "text": " van de gemeente Ede open kunnen zijn."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -3476,6 +3576,18 @@
       "theme": "Tijdelijke opvang",
       "themeId": "tijdelijke-opvang",
       "title": "Bij het aanwijzen van nieuwe opvanglocaties voor asielzoekers in de gemeente Ede moet er altijd een datum worden afgesproken waarop de locatie gaat sluiten.",
+      "titleParts": [
+        {
+          "text": " Bij het aanwijzen van nieuwe opvanglocaties voor "
+        },
+        {
+          "text": "asielzoekers ",
+          "glossary": "Mensen die asiel hebben aangevraagd en nog wachten op de beslissing daarover."
+        },
+        {
+          "text": "in de gemeente Ede moet er altijd een datum worden afgesproken waarop de locatie gaat sluiten."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -3515,6 +3627,18 @@
       "theme": "Sportkaart",
       "themeId": "sportkaart",
       "title": "Jongeren moeten gratis gebruik kunnen maken van de Edese Sportkaart.",
+      "titleParts": [
+        {
+          "text": " Jongeren moeten gratis gebruik kunnen maken van de "
+        },
+        {
+          "text": "Edese Sportkaart",
+          "glossary": "Met de Sportkaart Ede kunnen studenten en scholieren onbeperkt sporten bij meerdere sportaanbieders in de gemeente Ede, voor  15,95 per maand."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -3528,6 +3652,25 @@
       "theme": "Coffeeshops",
       "themeId": "coffeeshops",
       "title": "De vergunning voor de coffeeshops in Ede loopt tot 1 juli 2027. De gemeente moet deze niet verlengen.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "vergunning",
+          "glossary": "Toestemming van de gemeente om iets te mogen doen."
+        },
+        {
+          "text": " voor de "
+        },
+        {
+          "text": "coffeeshops",
+          "glossary": "Winkel of café waar je softdrugs (hasj, wiet) kunt kopen en oproken."
+        },
+        {
+          "text": " in Ede loopt tot 1 juli 2027. De gemeente moet deze niet verlengen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -3593,6 +3736,18 @@
       "theme": "Parkeren boven groen",
       "themeId": "parkeren-boven-groen",
       "title": "De gemeente mag geen parkeerplaatsen binnen de bebouwde kom vervangen door groen.",
+      "titleParts": [
+        {
+          "text": " De gemeente mag geen parkeerplaatsen binnen de "
+        },
+        {
+          "text": "bebouwde kom",
+          "glossary": "Gebied met bebouwing (huizen, gebouwen)."
+        },
+        {
+          "text": " vervangen door groen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -3619,6 +3774,25 @@
       "theme": "Kwijtschelding stoppen",
       "themeId": "kwijtschelding-stoppen",
       "title": "De gemeente moet stoppen met het kwijtschelden van de gemeentelijke belastingen voor inwoners met een laag inkomen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet stoppen met het "
+        },
+        {
+          "text": "kwijtschelden",
+          "glossary": "Dat mensen iets niet meer hoeven te betalen."
+        },
+        {
+          "text": " van de "
+        },
+        {
+          "text": "gemeentelijke belastingen",
+          "glossary": "Belastingen die je aan de gemeente moet betalen (bijv. rioolheffing, afvalstoffenheffing, hondenbelasting)."
+        },
+        {
+          "text": " voor inwoners met een laag inkomen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -3632,6 +3806,18 @@
       "theme": "Toeristenbelasting",
       "themeId": "toeristenbelasting",
       "title": "De gemeente moet alle ontvangen toeristenbelasting investeren in onderhoud van natuurgebieden waar veel toeristen komen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet alle ontvangen "
+        },
+        {
+          "text": "toeristenbelasting",
+          "glossary": "De belasting die je moet betalen als je in een hotel of op een camping bijft slapen."
+        },
+        {
+          "text": " investeren in onderhoud van natuurgebieden waar veel toeristen komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -3658,6 +3844,18 @@
       "theme": "Openluchttheater Ede",
       "themeId": "openluchttheater-ede",
       "title": "Het openluchttheater in Ede moet het aantal grote evenementen kunnen uitbreiden van 8 naar 12 per jaar.",
+      "titleParts": [
+        {
+          "text": " Het openluchttheater in Ede moet het aantal grote "
+        },
+        {
+          "text": "evenementen",
+          "glossary": "Een tijdelijke, georganiseerde bijeenkomst. Bijvoorbeeld een straatfeest, een rommelmarkt of een muziekfestival."
+        },
+        {
+          "text": " kunnen uitbreiden van 8 naar 12 per jaar."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",

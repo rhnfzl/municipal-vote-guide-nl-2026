@@ -2503,12 +2503,22 @@
       "theme": "Youth council",
       "themeId": "jongerenraad",
       "title": "A youth council should be established to give the municipal council advice, both on request and proactively.",
+      "titleParts": [
+        {
+          "text": " Er moet een "
+        },
+        {
+          "text": "jongerenraad",
+          "glossary": "A group of young people who provide input and discuss plans and policy with the municipality."
+        },
+        {
+          "text": " komen die de gemeenteraad gevraagd en ongevraagd advies geeft."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "A youth council should be established to give the municipal council advice, both on request and proactively.",
-      "themeEn": "Youth council"
+      "isShootout": false
     },
     {
       "id": 269262,
@@ -2516,12 +2526,22 @@
       "theme": "Waste disposal charge",
       "themeId": "afvalstoffenheffing",
       "title": "Residents who produce little residual waste should pay less municipal tax.",
+      "titleParts": [
+        {
+          "text": " Inwoners die weinig "
+        },
+        {
+          "text": "restafval",
+          "glossary": "Waste that remains after paper, plastic and organic waste have been collected separately."
+        },
+        {
+          "text": " inleveren, moeten minder gemeentelijke belasting betalen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents who produce little residual waste should pay less municipal tax.",
-      "themeEn": "Waste disposal charge"
+      "isShootout": false
     },
     {
       "id": 269265,
@@ -2532,9 +2552,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should pay for language lessons for people learning Dutch.",
-      "themeEn": "Integration"
+      "isShootout": false
     },
     {
       "id": 269275,
@@ -2545,9 +2563,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Most of the cultural subsidies should go to heritage and local traditions.",
-      "themeEn": "Cultural subsidies"
+      "isShootout": false
     },
     {
       "id": 269266,
@@ -2558,9 +2574,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents and business owners who want to make their home or business more sustainable should receive funding from the municipality.",
-      "themeEn": "Sustainability"
+      "isShootout": false
     },
     {
       "id": 269250,
@@ -2568,12 +2582,22 @@
       "theme": "Municipal merger",
       "themeId": "gemeentefusie",
       "title": "The municipality of Vlissingen should merge with the municipalities of Middelburg and Veere into a single municipality called Walcheren.",
+      "titleParts": [
+        {
+          "text": " De gemeente Vlissingen moet met de gemeenten Middelburg en Veere "
+        },
+        {
+          "text": "fuseren",
+          "glossary": "The merging of two or more municipalities."
+        },
+        {
+          "text": " tot één gemeente Walcheren."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality of Vlissingen should merge with the municipalities of Middelburg and Veere into a single municipality called Walcheren.",
-      "themeEn": "Municipal merger"
+      "isShootout": false
     },
     {
       "id": 269256,
@@ -2581,12 +2605,22 @@
       "theme": "Tourist tax",
       "themeId": "toeristenbelasting",
       "title": "The tourist tax should be increased.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "toeristenbelasting",
+          "glossary": "The tax you must pay when you stay overnight in a hotel or at a campsite."
+        },
+        {
+          "text": " moet omhoog."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The tourist tax should be increased.",
-      "themeEn": "Tourist tax"
+      "isShootout": false
     },
     {
       "id": 269282,
@@ -2594,12 +2628,22 @@
       "theme": "At least two enforcement officers",
       "themeId": "minimaal-2-handhavers",
       "title": "There should be at least two municipal enforcement officers (BOAs) in Souburg and Ritthem.",
+      "titleParts": [
+        {
+          "text": " In Souburg en Ritthem moeten minimaal 2 gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "People who, for the municipality, check whether citizens and businesses comply with the rules."
+        },
+        {
+          "text": " (boa's) komen."
+        }
+      ],
       "moreInfo": "The municipality of Vlissingen currently employs a total of 11 special enforcement officers (BOAs).",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be at least two municipal enforcement officers (BOAs) in Souburg and Ritthem.",
-      "themeEn": "At least two enforcement officers"
+      "isShootout": false
     },
     {
       "id": 269287,
@@ -2610,9 +2654,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "More new housing should primarily be built for families.",
-      "themeEn": "New construction"
+      "isShootout": false
     },
     {
       "id": 269257,
@@ -2620,12 +2662,22 @@
       "theme": "Dog tax",
       "themeId": "hondenbelasting",
       "title": "The municipality should abolish the dog tax.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de "
+        },
+        {
+          "text": "hondenbelasting",
+          "glossary": "Tax paid to the municipality for owning one or more dogs."
+        },
+        {
+          "text": " afschaffen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should abolish the dog tax.",
-      "themeEn": "Dog tax"
+      "isShootout": false
     },
     {
       "id": 269301,
@@ -2636,9 +2688,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People who are roofless or homeless should first be provided with housing and then receive support.",
-      "themeEn": "Homeless people"
+      "isShootout": false
     },
     {
       "id": 269268,
@@ -2649,9 +2699,7 @@
       "moreInfo": "At the moment 89 B&Bs at home are registered in the municipality of Vlissingen. Not all home B&Bs have been registered yet.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must ensure that no new B&Bs are permitted.",
-      "themeEn": "Bed & Breakfast"
+      "isShootout": false
     },
     {
       "id": 269264,
@@ -2659,12 +2707,22 @@
       "theme": "Emergency shelter for asylum seekers",
       "themeId": "noodopvang-asielzoekers",
       "title": "The municipality should no longer provide emergency accommodation for asylum seekers.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geen "
+        },
+        {
+          "text": "noodopvang",
+          "glossary": "A building for urgent and temporary shelter for people who need accommodation, for example asylum seekers."
+        },
+        {
+          "text": " meer bieden aan asielzoekers."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should no longer provide emergency accommodation for asylum seekers.",
-      "themeEn": "Emergency shelter for asylum seekers"
+      "isShootout": false
     },
     {
       "id": 269298,
@@ -2675,9 +2733,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The Boulevard in Vlissingen should be reopened to car traffic.",
-      "themeEn": "Boulevard"
+      "isShootout": false
     },
     {
       "id": 269293,
@@ -2688,9 +2744,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be more municipality-subsidized jobs for people who have been long-term unemployed.",
-      "themeEn": "Subsidized jobs"
+      "isShootout": false
     },
     {
       "id": 269292,
@@ -2701,9 +2755,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "No second nuclear power plant may be built on the territory of Vlissingen in Zeeland.",
-      "themeEn": "Nuclear power plant"
+      "isShootout": false
     },
     {
       "id": 269295,
@@ -2711,12 +2763,22 @@
       "theme": "Parking permits",
       "themeId": "parkeervergunningen",
       "title": "Parking permits for residents and businesses in the city centre of Vlissingen should be free.",
+      "titleParts": [
+        {
+          "text": " In de binnenstad van Vlissingen moeten "
+        },
+        {
+          "text": "parkeervergunning",
+          "glossary": "A permit to park in a certain place. You have to pay for that right."
+        },
+        {
+          "text": "en voor bewoners en ondernemers gratis zijn."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Parking permits for residents and businesses in the city centre of Vlissingen should be free.",
-      "themeEn": "Parking permits"
+      "isShootout": false
     },
     {
       "id": 269294,
@@ -2727,9 +2789,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Vlissingen should make agreements with businesses to hire people who face barriers to the labour market.",
-      "themeEn": "Employment"
+      "isShootout": false
     },
     {
       "id": 269283,
@@ -2737,12 +2797,22 @@
       "theme": "Camera surveillance",
       "themeId": "cameratoezicht",
       "title": "There should be more camera surveillance in the city of Vlissingen.",
+      "titleParts": [
+        {
+          "text": " In de stad Vlissingen moet meer "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Monitoring of a building, area, or (groups of) people using security cameras."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be more camera surveillance in the city of Vlissingen.",
-      "themeEn": "Camera surveillance"
+      "isShootout": false
     },
     {
       "id": 269297,
@@ -2750,12 +2820,22 @@
       "theme": "Low-traffic (car-restricted)",
       "themeId": "autoluw",
       "title": "More streets in the city of Vlissingen should become low-traffic, meaning fewer cars are allowed to drive.",
+      "titleParts": [
+        {
+          "text": " In de stad Vlissingen moeten meer straten "
+        },
+        {
+          "text": "autoluw",
+          "glossary": "That there is little car traffic."
+        },
+        {
+          "text": " worden. Dat betekent dat er minder auto's mogen rijden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "More streets in the city of Vlissingen should become low-traffic, meaning fewer cars are allowed to drive.",
-      "themeEn": "Low-traffic (car-restricted)"
+      "isShootout": false
     },
     {
       "id": 269291,
@@ -2766,9 +2846,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "A casino may be allowed in the Spuikom.",
-      "themeEn": "Casino"
+      "isShootout": false
     },
     {
       "id": 269270,
@@ -2779,9 +2857,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should ban solar panels on pastures/fields.",
-      "themeEn": "Solar panels on farmland"
+      "isShootout": false
     },
     {
       "id": 269276,
@@ -2789,12 +2865,29 @@
       "theme": "History of slavery",
       "themeId": "slavernijverleden",
       "title": "The municipality should, together with social organisations, organize an annual commemoration of the slavery past.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet samen met "
+        },
+        {
+          "text": "maatschappelijke organisaties",
+          "glossary": "For example: the general practitioner, youth care, home care, and mental health services."
+        },
+        {
+          "text": " een jaarlijkse herdenking van het "
+        },
+        {
+          "text": "slavernijverleden",
+          "glossary": "A period in which the Netherlands traded people from Africa and Asia on a large scale."
+        },
+        {
+          "text": " organiseren."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should, together with social organisations, organize an annual commemoration of the slavery past.",
-      "themeEn": "History of slavery"
+      "isShootout": false
     },
     {
       "id": 269286,
@@ -2802,12 +2895,22 @@
       "theme": "Social housing",
       "themeId": "sociale-huurwoningen",
       "title": "At least 35% of the new housing in Vlissingen should be social rental housing.",
+      "titleParts": [
+        {
+          "text": " Van de nieuwbouw in Vlissingen moet minimaal 35% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " zijn."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "At least 35% of the new housing in Vlissingen should be social rental housing.",
-      "themeEn": "Social housing"
+      "isShootout": false
     },
     {
       "id": 269296,
@@ -2818,9 +2921,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "More parking spaces should be created throughout the municipality at the expense of public green spaces.",
-      "themeEn": "Parking spaces"
+      "isShootout": false
     },
     {
       "id": 269300,
@@ -2831,9 +2932,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should ban sex work.",
-      "themeEn": "Sex work"
+      "isShootout": false
     },
     {
       "id": 269279,
@@ -2844,9 +2943,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should ensure that children in primary school receive a free school breakfast daily.",
-      "themeEn": "School breakfast"
+      "isShootout": false
     },
     {
       "id": 269254,
@@ -2854,12 +2951,36 @@
       "theme": "Tax on buildings",
       "themeId": "belasting-op-gebouwen",
       "title": "The property tax (ozb) may only be increased in line with inflation.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "onroerendezaakbelasting",
+          "glossary": "Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "ozb",
+          "glossary": "Property tax. Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": " ) mag alleen omhoog met de "
+        },
+        {
+          "text": "inflatie",
+          "glossary": "The average rise in prices (of food, goods, services, etc.)."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The property tax (ozb) may only be increased in line with inflation.",
-      "themeEn": "Tax on buildings"
+      "isShootout": false
     },
     {
       "id": 269289,
@@ -2870,9 +2991,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be more small, affordable homes for young people and single-person households.",
-      "themeEn": "Housing for young people"
+      "isShootout": false
     },
     {
       "id": 269271,
@@ -2883,9 +3002,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality may not force anyone to stop using natural gas.",
-      "themeEn": "Gas-free"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

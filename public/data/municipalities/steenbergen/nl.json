@@ -2272,6 +2272,18 @@
       "theme": "Jongerenraad",
       "themeId": "jongerenraad",
       "title": "In de gemeente Steenbergen moet een jongerenraad komen, die kan meepraten over plannen van de gemeente.",
+      "titleParts": [
+        {
+          "text": " In de gemeente Steenbergen moet een "
+        },
+        {
+          "text": "jongerenraad",
+          "glossary": "Een groep jongeren die meedenkt en meepraat met de gemeente over plannen en beleid."
+        },
+        {
+          "text": " komen, die kan meepraten over plannen van de gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2285,6 +2297,18 @@
       "theme": "Opvang asielzoekers",
       "themeId": "opvang-asielzoekers",
       "title": "In onze gemeente moet opvang voor asielzoekers komen.",
+      "titleParts": [
+        {
+          "text": " In onze gemeente moet opvang voor "
+        },
+        {
+          "text": "asielzoekers ",
+          "glossary": "Mensen die asiel hebben aangevraagd en nog wachten op de beslissing daarover."
+        },
+        {
+          "text": "komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2298,6 +2322,18 @@
       "theme": "Woningbouw",
       "themeId": "woningbouw",
       "title": "De gemeente moet nieuwbouw buiten de bebouwde kom tegengaan.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet nieuwbouw buiten de "
+        },
+        {
+          "text": "bebouwde kom",
+          "glossary": "Gebied met bebouwing (huizen, gebouwen)."
+        },
+        {
+          "text": " tegengaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2428,6 +2464,18 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "Inwoners van de gemeente moeten over belangrijke onderwerpen hun mening kunnen geven via een referendum.",
+      "titleParts": [
+        {
+          "text": " Inwoners van de gemeente moeten over belangrijke onderwerpen hun mening kunnen geven via een "
+        },
+        {
+          "text": "referendum",
+          "glossary": "Volksraadpleging waarbij inwoners zich kunnen uitspreken over een politieke kwestie. De gemeenteraad is niet verplicht de uitslag te volgen, dat is wettelijk niet mogelijk."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2454,6 +2502,18 @@
       "theme": "Autoluw",
       "themeId": "autoluw",
       "title": "Het centrum van de stad Steenbergen moet autoluw worden.",
+      "titleParts": [
+        {
+          "text": " Het centrum van de stad Steenbergen moet "
+        },
+        {
+          "text": "autoluw",
+          "glossary": "Dat er weinig autoverkeer is."
+        },
+        {
+          "text": " worden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2493,6 +2553,18 @@
       "theme": "Jeugdzorg",
       "themeId": "jeugdzorg",
       "title": "De gemeente moet meer geld uitgeven aan jeugdzorg en het Centrum voor Jeugd en Gezin.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld uitgeven aan "
+        },
+        {
+          "text": "jeugdzorg",
+          "glossary": "Hulp voor jongeren met problemen, bijvoorbeeld psychische hulp, pleegzorg, dagbesteding, maar ook begeleiding bij dyslexie."
+        },
+        {
+          "text": " en het Centrum voor Jeugd en Gezin."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2532,6 +2604,18 @@
       "theme": "Handhavers",
       "themeId": "handhavers",
       "title": "Er moeten meer gemeentelijke handhavers (boa's) komen.",
+      "titleParts": [
+        {
+          "text": " Er moeten meer gemeentelijke handhavers ("
+        },
+        {
+          "text": "boa's",
+          "glossary": "Bijzondere Opsporings Ambtenaren. Ze kunnen boetes geven en hebben vaak de taak om toezicht te houden op straat."
+        },
+        {
+          "text": ") komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2545,6 +2629,18 @@
       "theme": "Flitskasten",
       "themeId": "flitskasten",
       "title": "In de gemeente Steenbergen moeten flitskasten komen.",
+      "titleParts": [
+        {
+          "text": " In de gemeente Steenbergen moeten "
+        },
+        {
+          "text": "flitskasten",
+          "glossary": "Apparaten langs de weg die verkeersovertredingen vastleggen."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2558,6 +2654,18 @@
       "theme": "Iftar",
       "themeId": "iftar",
       "title": "De gemeente mag geen iftar in de eigen gebouwen toestaan.",
+      "titleParts": [
+        {
+          "text": " De gemeente mag geen "
+        },
+        {
+          "text": "iftar",
+          "glossary": "Iftar is de maaltijd waarmee moslims hun dagelijkse vasten verbreken na zonsondergang tijdens de ramadan."
+        },
+        {
+          "text": " in de eigen gebouwen toestaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2610,6 +2718,18 @@
       "theme": "Windmolens",
       "themeId": "windmolens",
       "title": "Steenbergen moet zich verzetten tegen nieuwe windmolens in de gemeente.",
+      "titleParts": [
+        {
+          "text": " Steenbergen moet zich verzetten tegen nieuwe "
+        },
+        {
+          "text": "windmolens",
+          "glossary": "Het gaat om moderne windturbines die windkracht omzetten in elektriciteit, en die tot 150 meter hoog kunnen zijn."
+        },
+        {
+          "text": " in de gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",

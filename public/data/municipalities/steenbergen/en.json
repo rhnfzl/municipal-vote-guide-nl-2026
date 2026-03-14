@@ -2236,9 +2236,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allow the establishment of new greenhouses.",
-      "themeEn": "Greenhouses"
+      "isShootout": false
     },
     {
       "id": 230681,
@@ -2249,9 +2247,7 @@
       "moreInfo": "In Steenbergen a bypass is needed to divert traffic from the industrial estate and relieve the edge of the center. In Dinteloord a ring road is needed to properly channel through traffic, especially trucks. A new residential area is also planned.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The construction of new ring roads for Steenbergen and Dinteloord should start within four years.",
-      "themeEn": "Ring roads"
+      "isShootout": false
     },
     {
       "id": 230650,
@@ -2262,9 +2258,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should make funds available to residents who want to maintain the greenery in their neighborhood themselves.",
-      "themeEn": "Citizen-led greening"
+      "isShootout": false
     },
     {
       "id": 230634,
@@ -2272,12 +2266,22 @@
       "theme": "Youth council",
       "themeId": "jongerenraad",
       "title": "The municipality of Steenbergen should establish a youth council that can have a say in the municipality's plans.",
+      "titleParts": [
+        {
+          "text": " In de gemeente Steenbergen moet een "
+        },
+        {
+          "text": "jongerenraad",
+          "glossary": "A group of young people who provide input and discuss plans and policy with the municipality."
+        },
+        {
+          "text": " komen, die kan meepraten over plannen van de gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality of Steenbergen should establish a youth council that can have a say in the municipality's plans.",
-      "themeEn": "Youth council"
+      "isShootout": false
     },
     {
       "id": 230643,
@@ -2285,12 +2289,22 @@
       "theme": "Shelter for asylum seekers",
       "themeId": "opvang-asielzoekers",
       "title": "Our municipality should provide accommodation for asylum seekers.",
+      "titleParts": [
+        {
+          "text": " In onze gemeente moet opvang voor "
+        },
+        {
+          "text": "asielzoekers ",
+          "glossary": "People who have applied for asylum and are still waiting for a decision."
+        },
+        {
+          "text": "komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Our municipality should provide accommodation for asylum seekers.",
-      "themeEn": "Shelter for asylum seekers"
+      "isShootout": false
     },
     {
       "id": 230666,
@@ -2298,12 +2312,22 @@
       "theme": "Housing construction",
       "themeId": "woningbouw",
       "title": "The municipality should oppose new development outside the built-up area.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet nieuwbouw buiten de "
+        },
+        {
+          "text": "bebouwde kom",
+          "glossary": "An area with buildings (houses, other structures)."
+        },
+        {
+          "text": " tegengaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should oppose new development outside the built-up area.",
-      "themeEn": "Housing construction"
+      "isShootout": false
     },
     {
       "id": 230657,
@@ -2314,9 +2338,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must pay for sports club memberships for children whose parents or guardians have little money.",
-      "themeEn": "Sports membership fees"
+      "isShootout": false
     },
     {
       "id": 230640,
@@ -2327,9 +2349,7 @@
       "moreInfo": "The municipality of Steenbergen is working with the other municipalities around the Brabantse Wal to create a new regional business park, with local and regional companies but also businesses from further afield. That is Reinierpolder III. The municipality also wants to look for a location where the Agro Food Cluster (AFC) business park can expand.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "After Reinierpolder III, no additional regional business park should be added.",
-      "themeEn": "Regional business park"
+      "isShootout": false
     },
     {
       "id": 230683,
@@ -2340,9 +2360,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "More speed bumps should be installed in the municipality of Steenbergen.",
-      "themeEn": "Speed bumps"
+      "isShootout": false
     },
     {
       "id": 230642,
@@ -2353,9 +2371,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should encourage agricultural land to be converted into nature reserves.",
-      "themeEn": "Agricultural land"
+      "isShootout": false
     },
     {
       "id": 230663,
@@ -2366,9 +2382,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should hold disaster drills with residents.",
-      "themeEn": "Disaster exercises"
+      "isShootout": false
     },
     {
       "id": 230668,
@@ -2379,9 +2393,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Steenbergen should build as many homes as possible and not only build what is currently needed.",
-      "themeEn": "Build as much as possible"
+      "isShootout": false
     },
     {
       "id": 230647,
@@ -2392,9 +2404,7 @@
       "moreInfo": "Kruisland lies in the middle of a polder landscape. The municipality wishes to create a village forest there. That wish is also included in the Kruisland village council's livability plan. However, implementing the plan costs a lot of money and not all landowners are cooperating.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "A green park—a \"village forest\"—should be created in Kruisland.",
-      "themeEn": "Kruisland Village Forest"
+      "isShootout": false
     },
     {
       "id": 230674,
@@ -2405,9 +2415,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People on social assistance who do not cooperate in finding work should have their benefits reduced.",
-      "themeEn": "Social assistance and employment"
+      "isShootout": false
     },
     {
       "id": 230645,
@@ -2418,9 +2426,7 @@
       "moreInfo": "The building on Oostdam is set up so that different groups of people can live there. The location has now been prepared to accommodate refugees from Ukraine. These refugees will eventually leave again.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "A property on the Oostdam is housing refugees from Ukraine until March 2028. The municipality should try to keep the property open for new groups of refugees.",
-      "themeEn": "Reception of Ukrainians (accommodation for Ukrainian refugees)"
+      "isShootout": false
     },
     {
       "id": 230632,
@@ -2428,12 +2434,22 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "Residents of the municipality should be able to give their opinion on important issues via a referendum.",
+      "titleParts": [
+        {
+          "text": " Inwoners van de gemeente moeten over belangrijke onderwerpen hun mening kunnen geven via een "
+        },
+        {
+          "text": "referendum",
+          "glossary": "A public consultation where residents can express their opinion on a political issue. The municipal council is not obliged to follow the result; legally it cannot."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents of the municipality should be able to give their opinion on important issues via a referendum.",
-      "themeEn": "Referendum"
+      "isShootout": false
     },
     {
       "id": 230675,
@@ -2444,9 +2460,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The number of people eligible to use poverty assistance programs should be reduced.",
-      "themeEn": "Poverty assistance"
+      "isShootout": false
     },
     {
       "id": 230680,
@@ -2454,12 +2468,22 @@
       "theme": "Low-traffic (car-restricted)",
       "themeId": "autoluw",
       "title": "the center of the city of Steenbergen should be made low-traffic.",
+      "titleParts": [
+        {
+          "text": " Het centrum van de stad Steenbergen moet "
+        },
+        {
+          "text": "autoluw",
+          "glossary": "That there is little car traffic."
+        },
+        {
+          "text": " worden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "the center of the city of Steenbergen should be made low-traffic.",
-      "themeEn": "Low-traffic (car-restricted)"
+      "isShootout": false
     },
     {
       "id": 230676,
@@ -2470,9 +2494,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Low-income residents should receive an emergency package from the municipality for free.",
-      "themeEn": "Emergency packages"
+      "isShootout": false
     },
     {
       "id": 230669,
@@ -2483,9 +2505,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "More varied types of housing should be built in Steenbergen so that new development does not all look the same.",
-      "themeEn": "Variety in new construction"
+      "isShootout": false
     },
     {
       "id": 230684,
@@ -2493,12 +2513,22 @@
       "theme": "Youth care",
       "themeId": "jeugdzorg",
       "title": "The municipality should spend more money on youth care and the Youth and Family Centre.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld uitgeven aan "
+        },
+        {
+          "text": "jeugdzorg",
+          "glossary": "Support for young people with problems, for example mental health care, foster care, day programmes, and help with dyslexia."
+        },
+        {
+          "text": " en het Centrum voor Jeugd en Gezin."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should spend more money on youth care and the Youth and Family Centre.",
-      "themeEn": "Youth care"
+      "isShootout": false
     },
     {
       "id": 230635,
@@ -2509,9 +2539,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should hold an annual budget evening for residents and business owners so they can have a say in the municipality's expenditures.",
-      "themeEn": "Public participation"
+      "isShootout": false
     },
     {
       "id": 230665,
@@ -2522,9 +2550,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Anyone who buys a home in our municipality must live in it themselves.",
-      "themeEn": "Owner-occupancy requirement"
+      "isShootout": false
     },
     {
       "id": 230662,
@@ -2532,12 +2558,22 @@
       "theme": "Enforcement officers",
       "themeId": "handhavers",
       "title": "There should be more municipal enforcement officers (BOAs).",
+      "titleParts": [
+        {
+          "text": " Er moeten meer gemeentelijke handhavers ("
+        },
+        {
+          "text": "boa's",
+          "glossary": "Special Enforcement Officers. They can issue fines and often supervise the streets."
+        },
+        {
+          "text": ") komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be more municipal enforcement officers (BOAs).",
-      "themeEn": "Enforcement officers"
+      "isShootout": false
     },
     {
       "id": 230682,
@@ -2545,12 +2581,22 @@
       "theme": "Speed cameras",
       "themeId": "flitskasten",
       "title": "Speed cameras should be installed in the municipality of Steenbergen.",
+      "titleParts": [
+        {
+          "text": " In de gemeente Steenbergen moeten "
+        },
+        {
+          "text": "flitskasten",
+          "glossary": "Devices along the road that record traffic violations."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Speed cameras should be installed in the municipality of Steenbergen.",
-      "themeEn": "Speed cameras"
+      "isShootout": false
     },
     {
       "id": 230688,
@@ -2558,12 +2604,22 @@
       "theme": "Iftar",
       "themeId": "iftar",
       "title": "The municipality should not allow iftar in its own buildings.",
+      "titleParts": [
+        {
+          "text": " De gemeente mag geen "
+        },
+        {
+          "text": "iftar",
+          "glossary": "Iftar is the meal with which Muslims break their daily fast after sunset during Ramadan."
+        },
+        {
+          "text": " in de eigen gebouwen toestaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should not allow iftar in its own buildings.",
-      "themeEn": "Iftar"
+      "isShootout": false
     },
     {
       "id": 230653,
@@ -2574,9 +2630,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be no parcel pickup points in residential neighborhoods.",
-      "themeEn": "Parcel pick-up points"
+      "isShootout": false
     },
     {
       "id": 230670,
@@ -2587,9 +2641,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "A new health center should be built next to the City Park and the planned school.",
-      "themeEn": "Health center"
+      "isShootout": false
     },
     {
       "id": 230661,
@@ -2600,9 +2652,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "All children in the municipality of Steenbergen should be able to attend preschool.",
-      "themeEn": "Toddler playgroup"
+      "isShootout": false
     },
     {
       "id": 230652,
@@ -2610,12 +2660,22 @@
       "theme": "Wind turbines",
       "themeId": "windmolens",
       "title": "Steenbergen should oppose new wind turbines in the municipality.",
+      "titleParts": [
+        {
+          "text": " Steenbergen moet zich verzetten tegen nieuwe "
+        },
+        {
+          "text": "windmolens",
+          "glossary": "These are modern wind turbines that convert wind power into electricity and can be up to 150 meters high."
+        },
+        {
+          "text": " in de gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Steenbergen should oppose new wind turbines in the municipality.",
-      "themeEn": "Wind turbines"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

@@ -1834,9 +1834,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Anyone who buys a home in our municipality must live in it themselves.",
-      "themeEn": "Owner-occupancy of a home"
+      "isShootout": false
     },
     {
       "id": 216017,
@@ -1847,9 +1845,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should pay the membership fees for a sports club for people receiving social assistance.",
-      "themeEn": "Sports membership fees"
+      "isShootout": false
     },
     {
       "id": 216007,
@@ -1857,12 +1853,22 @@
       "theme": "Tax on buildings",
       "themeId": "belasting-op-gebouwen",
       "title": "The property tax (onroerendezaakbelasting, OZB) should be reduced.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "onroerendezaakbelasting",
+          "glossary": "Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": " (ozb) moet omlaag."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The property tax (onroerendezaakbelasting, OZB) should be reduced.",
-      "themeEn": "Tax on buildings"
+      "isShootout": false
     },
     {
       "id": 216036,
@@ -1873,9 +1879,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Every village and neighborhood in the municipality of Velsen should get its own social and cultural community center.",
-      "themeEn": "Neighborhood center"
+      "isShootout": false
     },
     {
       "id": 216052,
@@ -1886,9 +1890,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should continue to give homeowners money to insulate their homes.",
-      "themeEn": "Insulation for owner-occupied houses"
+      "isShootout": false
     },
     {
       "id": 216054,
@@ -1896,12 +1898,22 @@
       "theme": "Advertising for gambling and alcohol",
       "themeId": "reclame-gokken-en-alcohol",
       "title": "Advertisements for gambling and alcohol in public spaces should remain allowed.",
+      "titleParts": [
+        {
+          "text": " Reclames voor gokken en alcohol in de "
+        },
+        {
+          "text": "openbare ruimte",
+          "glossary": "Outdoor areas that are accessible to everyone, such as streets, squares, and parks."
+        },
+        {
+          "text": " moeten toegestaan blijven."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Advertisements for gambling and alcohol in public spaces should remain allowed.",
-      "themeEn": "Advertising for gambling and alcohol"
+      "isShootout": false
     },
     {
       "id": 216038,
@@ -1909,12 +1921,22 @@
       "theme": "Youth council",
       "themeId": "jongerenraad",
       "title": "Velsen should create a youth council to advise the municipality.",
+      "titleParts": [
+        {
+          "text": " Velsen moet een "
+        },
+        {
+          "text": "jongerenraad",
+          "glossary": "A group of young people who provide input and discuss plans and policy with the municipality."
+        },
+        {
+          "text": " krijgen die de gemeente adviseert."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Velsen should create a youth council to advise the municipality.",
-      "themeEn": "Youth council"
+      "isShootout": false
     },
     {
       "id": 216011,
@@ -1922,12 +1944,29 @@
       "theme": "Priority for refugees",
       "themeId": "voorrang-voor-vluchtelingen",
       "title": "The municipality must continue to give refugees with a residence permit priority for social housing.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet vluchtelingen met een "
+        },
+        {
+          "text": "verblijfsvergunning",
+          "glossary": "The right to reside in the Netherlands. The term can refer to the right itself or to the card that shows someone has that right."
+        },
+        {
+          "text": " voorrang blijven geven op een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must continue to give refugees with a residence permit priority for social housing.",
-      "themeEn": "Priority for refugees"
+      "isShootout": false
     },
     {
       "id": 216062,
@@ -1938,9 +1977,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Companies that jointly want to improve their premises should receive more funding from the municipality.",
-      "themeEn": "Collaborations between companies"
+      "isShootout": false
     },
     {
       "id": 216039,
@@ -1951,9 +1988,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People with a low income should be able to travel by bus at the municipality's expense.",
-      "themeEn": "Free public transport"
+      "isShootout": false
     },
     {
       "id": 216021,
@@ -1961,12 +1996,22 @@
       "theme": "Camera surveillance",
       "themeId": "cameratoezicht",
       "title": "There should be more camera surveillance in the municipality of Velsen.",
+      "titleParts": [
+        {
+          "text": " In de gemeente Velsen moet meer "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Monitoring of a building, area, or (groups of) people using security cameras."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be more camera surveillance in the municipality of Velsen.",
-      "themeEn": "Camera surveillance"
+      "isShootout": false
     },
     {
       "id": 216056,
@@ -1977,9 +2022,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should introduce paid parking in more locations.",
-      "themeEn": "Paid parking"
+      "isShootout": false
     },
     {
       "id": 216057,
@@ -1990,9 +2033,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "All households should pay the same for their residual waste. Currently you pay more if you dispose of more residual waste.",
-      "themeEn": "Waste disposal charge"
+      "isShootout": false
     },
     {
       "id": 216059,
@@ -2003,9 +2044,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should abolish the four-week waiting period for benefit applications by young people under 27.",
-      "themeEn": "Waiting period for benefits"
+      "isShootout": false
     },
     {
       "id": 216061,
@@ -2013,12 +2052,22 @@
       "theme": "Business permits",
       "themeId": "vergunningen-bedrijven",
       "title": "The municipality should make business permits cheaper.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "vergunningen",
+          "glossary": "Permissions from the municipality to do something."
+        },
+        {
+          "text": " voor bedrijven goedkoper maken."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should make business permits cheaper.",
-      "themeEn": "Business permits"
+      "isShootout": false
     },
     {
       "id": 216034,
@@ -2026,12 +2075,22 @@
       "theme": "Parking permits",
       "themeId": "parkeervergunningen",
       "title": "The municipality of Velsen should introduce a parking permit in some neighborhoods.",
+      "titleParts": [
+        {
+          "text": " De gemeente Velsen moet in sommige wijken een "
+        },
+        {
+          "text": "parkeervergunning",
+          "glossary": "A permit to park in a certain place. You have to pay for that right."
+        },
+        {
+          "text": " invoeren."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality of Velsen should introduce a parking permit in some neighborhoods.",
-      "themeEn": "Parking permits"
+      "isShootout": false
     },
     {
       "id": 216040,
@@ -2039,12 +2098,22 @@
       "theme": "Tata Steel",
       "themeId": "tata-steel",
       "title": "The municipality should urge the national government to accelerate the closure of Tata Steel's most outdated facilities.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet bij het Rijk aandringen op versnelde sluiting van de meest verouderde "
+        },
+        {
+          "text": "installaties",
+          "glossary": "Parts of the factory."
+        },
+        {
+          "text": " van Tata Steel."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should urge the national government to accelerate the closure of Tata Steel's most outdated facilities.",
-      "themeEn": "Tata Steel"
+      "isShootout": false
     },
     {
       "id": 216030,
@@ -2052,12 +2121,22 @@
       "theme": "Combating poverty",
       "themeId": "armoedebestrijding",
       "title": "The municipality should cut spending on poverty alleviation.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet bezuinigen op "
+        },
+        {
+          "text": "armoedebestrijding",
+          "glossary": "All measures intended to reduce poverty in society."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should cut spending on poverty alleviation.",
-      "themeEn": "Combating poverty"
+      "isShootout": false
     },
     {
       "id": 216064,
@@ -2068,9 +2147,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should spend more on language classes for refugees who are allowed to stay in the Netherlands.",
-      "themeEn": "Language lessons for status holders"
+      "isShootout": false
     },
     {
       "id": 216025,
@@ -2078,12 +2155,22 @@
       "theme": "Social housing",
       "themeId": "sociale-huurwoningen",
       "title": "New social housing should primarily be built in Santpoort-Noord, Santpoort-Zuid, Velserbroek, Velsen-Zuid and Driehuis.",
+      "titleParts": [
+        {
+          "text": " Nieuwe "
+        },
+        {
+          "text": "sociale huurwoningen",
+          "glossary": "Rental homes that at the start of the tenancy are not more expensive than a certain amount. In 2026 that amount is €932.93 per month."
+        },
+        {
+          "text": " moeten vooral in Santpoort-Noord, Santpoort-Zuid, Velserbroek, Velsen-Zuid en Driehuis komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "New social housing should primarily be built in Santpoort-Noord, Santpoort-Zuid, Velserbroek, Velsen-Zuid and Driehuis.",
-      "themeEn": "Social housing"
+      "isShootout": false
     },
     {
       "id": 216009,
@@ -2091,12 +2178,22 @@
       "theme": "Promotional campaign",
       "themeId": "promotiecampagne",
       "title": "The municipality should spend more on a promotional campaign to present Velsen as an attractive location for businesses.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld steken in de "
+        },
+        {
+          "text": "promotiecampagne",
+          "glossary": "A series of advertisements on, for example, billboards, television, and social media."
+        },
+        {
+          "text": " voor Velsen als aantrekkelijke vestigingsplaats voor bedrijven."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should spend more on a promotional campaign to present Velsen as an attractive location for businesses.",
-      "themeEn": "Promotional campaign"
+      "isShootout": false
     },
     {
       "id": 216046,
@@ -2104,12 +2201,22 @@
       "theme": "Couples therapy",
       "themeId": "relatietherapie",
       "title": "The municipality should cover the cost of couples therapy for residents who cannot afford it themselves.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "relatietherapie",
+          "glossary": "When people try to improve their romantic relationship together with a counselor."
+        },
+        {
+          "text": " vergoeden voor inwoners die dat zelf niet kunnen betalen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should cover the cost of couples therapy for residents who cannot afford it themselves.",
-      "themeEn": "Couples therapy"
+      "isShootout": false
     },
     {
       "id": 216020,
@@ -2117,12 +2224,22 @@
       "theme": "Enforcement officers",
       "themeId": "handhavers",
       "title": "The municipality of Velsen should hire more municipal enforcement officers (BOAs) focused on safety.",
+      "titleParts": [
+        {
+          "text": " In de gemeente Velsen moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "People who, for the municipality, check whether citizens and businesses comply with the rules."
+        },
+        {
+          "text": " (boa’s) komen die zich met veiligheid bezighouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality of Velsen should hire more municipal enforcement officers (BOAs) focused on safety.",
-      "themeEn": "Enforcement officers"
+      "isShootout": false
     },
     {
       "id": 216013,
@@ -2130,12 +2247,22 @@
       "theme": "Asylum seekers' center",
       "themeId": "asielzoekerscentrum",
       "title": "An asylum seekers' center (azc) should be established in Santpoort-Zuid.",
+      "titleParts": [
+        {
+          "text": " In Santpoort-Zuid moet een "
+        },
+        {
+          "text": "asielzoekerscentrum",
+          "glossary": "Reception center for asylum seekers. They live there until it is decided whether they may stay in the Netherlands. An asylum seekers’ center remains in a municipality for a long time."
+        },
+        {
+          "text": " (azc) komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "An asylum seekers' center (azc) should be established in Santpoort-Zuid.",
-      "themeEn": "Asylum seekers' center"
+      "isShootout": false
     },
     {
       "id": 216055,
@@ -2146,9 +2273,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should invest more in rainwater capture.",
-      "themeEn": "Rainwater harvesting"
+      "isShootout": false
     },
     {
       "id": 216048,
@@ -2159,9 +2284,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "All residents of Velsen should receive a free library membership.",
-      "themeEn": "Free library membership"
+      "isShootout": false
     },
     {
       "id": 216044,
@@ -2172,9 +2295,7 @@
       "moreInfo": "In a knarrenhofje elderly people live together in a small community. They help and care for each other so they can live independently for longer.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should co-fund housing options for the elderly that allow them to live at home and have access to care.",
-      "themeEn": "Knarrenhof (senior cohousing courtyard)"
+      "isShootout": false
     },
     {
       "id": 216035,
@@ -2185,9 +2306,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The maximum speed limit in built-up areas should be set to 30 km/h.",
-      "themeEn": "Car speeds"
+      "isShootout": false
     },
     {
       "id": 216008,
@@ -2198,9 +2317,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should abolish the dog tax.",
-      "themeEn": "Dog tax"
+      "isShootout": false
     },
     {
       "id": 216058,
@@ -2211,9 +2328,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allow benefit recipients to live together on a six-month trial basis without this affecting their benefits.",
-      "themeEn": "Trial cohabitation"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

@@ -4064,9 +4064,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should reduce the number of parking spaces.",
-      "themeEn": "Parking spaces"
+      "isShootout": false
     },
     {
       "id": 206958,
@@ -4077,9 +4075,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should not do business with companies that use fossil fuels.",
-      "themeEn": "Climate policy"
+      "isShootout": false
     },
     {
       "id": 206950,
@@ -4090,9 +4086,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should urge the national government to create a single municipal team where people can handle everything related to earthquake damage.",
-      "themeEn": "Earthquake damage"
+      "isShootout": false
     },
     {
       "id": 206954,
@@ -4100,12 +4094,22 @@
       "theme": "Heritage subsidies",
       "themeId": "subsidies-erfgoed",
       "title": "Most of the cultural subsidies should go to heritage and local traditions.",
+      "titleParts": [
+        {
+          "text": " Van de "
+        },
+        {
+          "text": "subsidies",
+          "glossary": "Money the government gives to citizens, businesses, and organizations to support them."
+        },
+        {
+          "text": " voor cultuur moet het grootste deel naar erfgoed en lokale tradities gaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Most of the cultural subsidies should go to heritage and local traditions.",
-      "themeEn": "Heritage subsidies"
+      "isShootout": false
     },
     {
       "id": 206967,
@@ -4116,9 +4120,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "All refugees in the municipality should receive a Stadjerspas. That is a pass for people with low incomes.",
-      "themeEn": "Integration with a Stadjerspas"
+      "isShootout": false
     },
     {
       "id": 206976,
@@ -4126,12 +4128,22 @@
       "theme": "Events",
       "themeId": "evenementen",
       "title": "The municipality should allow events to continue later in the evening.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet toestaan dat "
+        },
+        {
+          "text": "evenementen",
+          "glossary": "A temporary, organized gathering. For example a street party, a flea market, or a music festival."
+        },
+        {
+          "text": " 's avonds langer doorgaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allow events to continue later in the evening.",
-      "themeEn": "Events"
+      "isShootout": false
     },
     {
       "id": 206957,
@@ -4142,9 +4154,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should spend the money for climate policy on healthcare plans.",
-      "themeEn": "Extra money for healthcare"
+      "isShootout": false
     },
     {
       "id": 206980,
@@ -4155,9 +4165,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "In entertainment districts there should be multiple places where people can have drugs tested for safety.",
-      "themeEn": "Testing drugs"
+      "isShootout": false
     },
     {
       "id": 206987,
@@ -4168,9 +4176,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should help supporters of FC Groningen become half owners of the football club instead of commercial investors.",
-      "themeEn": "Football club"
+      "isShootout": false
     },
     {
       "id": 206960,
@@ -4181,9 +4187,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should abolish the advertising tax. That is a tax on facade ads, signs, illuminated advertisements and the like.",
-      "themeEn": "Advertising tax"
+      "isShootout": false
     },
     {
       "id": 206981,
@@ -4194,9 +4198,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should pay the membership fees of a sports club for all children under 16.",
-      "themeEn": "Sports membership fees"
+      "isShootout": false
     },
     {
       "id": 206994,
@@ -4204,12 +4206,22 @@
       "theme": "Priority for teachers, nurses, and police",
       "themeId": "voorrang-voor-leraren-verplegers-en-politie",
       "title": "Teachers, nurses and police officers should be given priority for social housing.",
+      "titleParts": [
+        {
+          "text": " Leraren, verpleegkundigen en politieagenten moeten voorrang krijgen bij een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Teachers, nurses and police officers should be given priority for social housing.",
-      "themeEn": "Priority for teachers, nurses, and police"
+      "isShootout": false
     },
     {
       "id": 206966,
@@ -4217,12 +4229,22 @@
       "theme": "Housing for foreign workers",
       "themeId": "huisvesting-buitenlandse-werknemers",
       "title": "Employers must ensure that migrant workers live at or near their workplace.",
+      "titleParts": [
+        {
+          "text": " Werkgevers moeten ervoor zorgen dat "
+        },
+        {
+          "text": "arbeidsmigranten",
+          "glossary": "People from another country who work temporarily in the Netherlands."
+        },
+        {
+          "text": " op of in de buurt van hun werkplek wonen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Employers must ensure that migrant workers live at or near their workplace.",
-      "themeEn": "Housing for foreign workers"
+      "isShootout": false
     },
     {
       "id": 207002,
@@ -4230,12 +4252,22 @@
       "theme": "Distribution of social housing",
       "themeId": "spreiding-sociale-huur",
       "title": "Groningen should distribute social housing across the whole municipality.",
+      "titleParts": [
+        {
+          "text": " Groningen moet "
+        },
+        {
+          "text": "sociale huurwoningen",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " over de hele gemeente spreiden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Groningen should distribute social housing across the whole municipality.",
-      "themeEn": "Distribution of social housing"
+      "isShootout": false
     },
     {
       "id": 206952,
@@ -4246,9 +4278,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should set up a student affairs department that also employs students.",
-      "themeEn": "Student affairs"
+      "isShootout": false
     },
     {
       "id": 206973,
@@ -4259,9 +4289,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Groningen should sell the municipal heating company WarmteStad.",
-      "themeEn": "WarmteStad"
+      "isShootout": false
     },
     {
       "id": 206989,
@@ -4269,12 +4297,29 @@
       "theme": "Baton (police baton)",
       "themeId": "wapenstok",
       "title": "Municipal enforcement officers (BOAs) should be allowed to carry a baton.",
+      "titleParts": [
+        {
+          "text": " Gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "People who, for the municipality, check whether citizens and businesses comply with the rules."
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "boa's",
+          "glossary": "Special Enforcement Officers. They can issue fines and often supervise the streets."
+        },
+        {
+          "text": ") mogen een wapenstok dragen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Municipal enforcement officers (BOAs) should be allowed to carry a baton.",
-      "themeEn": "Baton (police baton)"
+      "isShootout": false
     },
     {
       "id": 207014,
@@ -4282,12 +4327,22 @@
       "theme": "Car speeds",
       "themeId": "snelheid-auto-s",
       "title": "The maximum speed should be 30 km/h everywhere, except on the ring road and a few main roads.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "maximumsnelheid",
+          "glossary": "The maximum speed that cars and motorcycles are allowed to drive on the road."
+        },
+        {
+          "text": " moet overal naar 30 km/u, behalve op de ringweg en enkele doorgaande wegen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The maximum speed should be 30 km/h everywhere, except on the ring road and a few main roads.",
-      "themeEn": "Car speeds"
+      "isShootout": false
     },
     {
       "id": 206993,
@@ -4298,9 +4353,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "In new construction, half of the rental homes should go to people who have ties to Groningen.",
-      "themeEn": "Priority for housing"
+      "isShootout": false
     },
     {
       "id": 206975,
@@ -4311,9 +4364,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should have at least 60 hectares of new forest planted.",
-      "themeEn": "Afforestation"
+      "isShootout": false
     },
     {
       "id": 206998,
@@ -4324,9 +4375,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should abolish the aesthetic rules for building and renovating homes.",
-      "themeEn": "Design and appearance regulations"
+      "isShootout": false
     },
     {
       "id": 206988,
@@ -4337,9 +4386,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should have a large concert venue built on the south side of the station.",
-      "themeEn": "Large pop venue"
+      "isShootout": false
     },
     {
       "id": 207008,
@@ -4350,9 +4397,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The option to report benefit fraud on the municipality's website should remain.",
-      "themeEn": "Fraud"
+      "isShootout": false
     },
     {
       "id": 206996,
@@ -4363,9 +4408,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Anyone who buys a home in our municipality must live in it themselves.",
-      "themeEn": "Owner-occupancy requirement"
+      "isShootout": false
     },
     {
       "id": 206959,
@@ -4376,9 +4419,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should lower the tax on terraces.",
-      "themeEn": "Terrace tax"
+      "isShootout": false
     },
     {
       "id": 206965,
@@ -4386,12 +4427,22 @@
       "theme": "Bed, bath and bread",
       "themeId": "bed-bad-brood",
       "title": "The municipality should stop providing shelter to people who do not have a valid residence permit.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet stoppen met de opvang van mensen die geen geldige "
+        },
+        {
+          "text": "verblijfsvergunning",
+          "glossary": "The right to reside in the Netherlands. The term can refer to the right itself or to the card that shows someone has that right."
+        },
+        {
+          "text": " hebben."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should stop providing shelter to people who do not have a valid residence permit.",
-      "themeEn": "Bed, bath and bread"
+      "isShootout": false
     },
     {
       "id": 207009,
@@ -4402,9 +4453,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be more streets where the car is \"a guest.\"",
-      "themeEn": "Cars as guests"
+      "isShootout": false
     },
     {
       "id": 207003,
@@ -4412,12 +4461,29 @@
       "theme": "Work requirement for welfare recipients",
       "themeId": "tegenprestatie-voor-uitkering",
       "title": "People receiving social assistance should, in return, do socially useful work.",
+      "titleParts": [
+        {
+          "text": " Mensen die een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Money from the municipality for people who have no income or personal funds."
+        },
+        {
+          "text": " krijgen, moeten in ruil daarvoor "
+        },
+        {
+          "text": "maatschappelijk zinvol werk",
+          "glossary": "For example cleaning the streets or keeping company and supporting elderly residents."
+        },
+        {
+          "text": " doen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People receiving social assistance should, in return, do socially useful work.",
-      "themeEn": "Work requirement for welfare recipients"
+      "isShootout": false
     },
     {
       "id": 206986,
@@ -4428,9 +4494,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should spend more money to introduce children to art and culture.",
-      "themeEn": "Children and culture"
+      "isShootout": false
     },
     {
       "id": 207016,
@@ -4441,9 +4505,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Every village and neighborhood should get its own community food garden.",
-      "themeEn": "Food garden"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

@@ -1345,6 +1345,18 @@
       "theme": "Boa's",
       "themeId": "boa-s",
       "title": "In Aalten moeten meer gemeentelijke handhavers (boa’s) komen die zich met veiligheid bezighouden.",
+      "titleParts": [
+        {
+          "text": " In Aalten moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "Mensen die voor de gemeente controleren of burgers en bedrijven zich aan de regels houden."
+        },
+        {
+          "text": " (boa’s) komen die zich met veiligheid bezighouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1384,6 +1396,25 @@
       "theme": "Integratie",
       "themeId": "integratie",
       "title": "De gemeente moet meer geld uitgeven aan integratie van nieuwkomers in de maatschappij.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld uitgeven aan "
+        },
+        {
+          "text": "integratie",
+          "glossary": "Nieuwkomers leren de taal en gewoonten van Nederland."
+        },
+        {
+          "text": " van "
+        },
+        {
+          "text": "nieuwkomers",
+          "glossary": "Mensen die nog niet lang in Nederland wonen."
+        },
+        {
+          "text": " in de maatschappij."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1423,6 +1454,25 @@
       "theme": "Windmolens",
       "themeId": "windmolens",
       "title": "De Hagenwind-windmolens moeten vervangen worden door hogere windmolens die meer energie opleveren. Daar moet de gemeente bij de eigenaren op aandringen.",
+      "titleParts": [
+        {
+          "text": " De Hagenwind-"
+        },
+        {
+          "text": "windmolens",
+          "glossary": "Het gaat om moderne windturbines die windkracht omzetten in elektriciteit, en die tot 150 meter hoog kunnen zijn."
+        },
+        {
+          "text": " moeten vervangen worden door hogere "
+        },
+        {
+          "text": "windmolens",
+          "glossary": "Het gaat om moderne windturbines die windkracht omzetten in elektriciteit, en die tot 150 meter hoog kunnen zijn."
+        },
+        {
+          "text": " die meer energie opleveren. Daar moet de gemeente bij de eigenaren op aandringen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1436,6 +1486,25 @@
       "theme": "Onroerendezaakbelasting (ozb)",
       "themeId": "onroerendezaakbelasting-ozb",
       "title": "De onroerendezaakbelasting (ozb) moet omlaag.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "onroerendezaakbelasting",
+          "glossary": "Belasting die je betaalt als eigenaar van een gebouw of stuk grond, of gebruiker van een bedrijfspand."
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "ozb",
+          "glossary": "Onroerendezaakbelasting. Belasting die je betaalt als eigenaar van een gebouw of stuk grond, of gebruiker van een bedrijfspand."
+        },
+        {
+          "text": ") moet omlaag."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1462,6 +1531,18 @@
       "theme": "Wijkagent",
       "themeId": "wijkagent",
       "title": "De gemeente moet de politie vragen om in elk dorp wekelijks een spreekuur te houden met de wijkagent.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de politie vragen om in elk dorp wekelijks een "
+        },
+        {
+          "text": "spreekuur",
+          "glossary": "Een vast moment waarop inwoners vragen kunnen stellen of langs kunnen komen."
+        },
+        {
+          "text": " te houden met de wijkagent."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1488,6 +1569,18 @@
       "theme": "Voorrang huisvesting",
       "themeId": "voorrang-huisvesting",
       "title": "Bij de toewijzing van een sociale huurwoning moeten woningzoekenden uit de eigen gemeente voorrang krijgen.",
+      "titleParts": [
+        {
+          "text": " Bij de toewijzing van een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": " moeten woningzoekenden uit de eigen gemeente voorrang krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1527,6 +1620,18 @@
       "theme": "Isoleren",
       "themeId": "isoleren",
       "title": "Inwoners met een laag inkomen moeten gratis isolatiemateriaal krijgen van de gemeente.",
+      "titleParts": [
+        {
+          "text": " Inwoners met een laag inkomen moeten gratis "
+        },
+        {
+          "text": "isolatiemateriaal",
+          "glossary": "Materiaal in daken, muren en vloeren dat warmte tegenhoudt of vasthoudt. In de winter houdt het warmte binnen en in de zomer buiten."
+        },
+        {
+          "text": " krijgen van de gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1540,6 +1645,18 @@
       "theme": "Sportvoorzieningen",
       "themeId": "sportvoorzieningen",
       "title": "Voetbalvelden, tennisbanen en andere voorzieningen om te sporten moeten zo veel mogelijk op één plaats bij elkaar worden gebracht.",
+      "titleParts": [
+        {
+          "text": " Voetbalvelden, tennisbanen en andere "
+        },
+        {
+          "text": "voorzieningen",
+          "glossary": "Gebouwen of diensten die nodig zijn voor het dagelijks leven, zoals wegen, sportplekken of zorg."
+        },
+        {
+          "text": " om te sporten moeten zo veel mogelijk op één plaats bij elkaar worden gebracht."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1579,6 +1696,18 @@
       "theme": "Sociale ondernemingen",
       "themeId": "sociale-ondernemingen",
       "title": "Aalten moet zoveel mogelijk inkopen bij sociale ondernemingen.",
+      "titleParts": [
+        {
+          "text": " Aalten moet zoveel mogelijk inkopen bij "
+        },
+        {
+          "text": "sociale ondernemingen",
+          "glossary": "Bedrijven die op de eerste plaats iets goeds wil doen voor de samenleving. Winst maken komt op de tweede plaats."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1592,6 +1721,18 @@
       "theme": "Lasten verenigingen",
       "themeId": "lasten-verenigingen",
       "title": "De gemeente moet sportverenigingen en culturele verenigingen geen onroerendezaakbelasting (ozb) laten betalen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet sportverenigingen en culturele verenigingen geen "
+        },
+        {
+          "text": "onroerendezaakbelasting",
+          "glossary": "Belasting die je betaalt als eigenaar van een gebouw of stuk grond, of gebruiker van een bedrijfspand."
+        },
+        {
+          "text": " (ozb) laten betalen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1605,6 +1746,18 @@
       "theme": "Relatietherapie",
       "themeId": "relatietherapie",
       "title": "De gemeente moet meebetalen aan relatietherapie.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meebetalen aan "
+        },
+        {
+          "text": "relatietherapie",
+          "glossary": "Als mensen hun liefdesrelatie proberen te verbeteren met de hulp van iemand anders."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1644,6 +1797,18 @@
       "theme": "Politiecellen",
       "themeId": "politiecellen",
       "title": "De gemeente moet de politie vragen om te zorgen voor cellen in de buurt waar arrestanten vastgehouden kunnen worden.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de politie vragen om te zorgen voor cellen in de buurt waar "
+        },
+        {
+          "text": "arrestanten",
+          "glossary": "Mensen die door de politie zijn meegenomen en vastgezet."
+        },
+        {
+          "text": " vastgehouden kunnen worden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1683,6 +1848,18 @@
       "theme": "Autoluw",
       "themeId": "autoluw",
       "title": "De winkelgebieden in de gemeente Aalten moeten autoluw worden. Auto's parkeer je dan aan de rand.",
+      "titleParts": [
+        {
+          "text": " De winkelgebieden in de gemeente Aalten moeten "
+        },
+        {
+          "text": "autoluw",
+          "glossary": "Dat er weinig autoverkeer is."
+        },
+        {
+          "text": " worden. Auto's parkeer je dan aan de rand."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1696,6 +1873,18 @@
       "theme": "Jongerenfeesten",
       "themeId": "jongerenfeesten",
       "title": "De gemeente moet jongeren tot 25 jaar makkelijker en goedkoper een vergunning geven voor evenementen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet jongeren tot 25 jaar makkelijker en goedkoper een "
+        },
+        {
+          "text": "vergunning",
+          "glossary": "Toestemming van de gemeente om iets te mogen doen."
+        },
+        {
+          "text": " geven voor evenementen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",

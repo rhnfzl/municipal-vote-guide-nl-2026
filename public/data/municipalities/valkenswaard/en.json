@@ -1278,9 +1278,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The first two hours of parking in the center of Valkenswaard should be free.",
-      "themeEn": "Free parking"
+      "isShootout": false
     },
     {
       "id": 240340,
@@ -1291,9 +1289,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should organize a fireworks show on New Year's Eve.",
-      "themeEn": "Fireworks"
+      "isShootout": false
     },
     {
       "id": 240348,
@@ -1301,12 +1297,29 @@
       "theme": "Social housing",
       "themeId": "sociale-huurwoningen",
       "title": "At least 40% of the new homes to be built in the municipality of Valkenswaard should be social rental housing. Currently, 29% of the homes in the municipality are social rental housing.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in gemeente Valkenswaard moet minimaal 40% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " zijn. In de gemeente is nu 29% van de woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "The municipality is now aiming for 35 percent social rental housing in new construction projects. The minimum share of social rental homes in new projects of 10 homes or more is 30 percent.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "At least 40% of the new homes to be built in the municipality of Valkenswaard should be social rental housing. Currently, 29% of the homes in the municipality are social rental housing.",
-      "themeEn": "Social housing"
+      "isShootout": false
     },
     {
       "id": 240360,
@@ -1317,9 +1330,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should ask the police to reopen the police station in Valkenswaard.",
-      "themeEn": "Police station"
+      "isShootout": false
     },
     {
       "id": 240330,
@@ -1330,9 +1341,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should handle more itself and participate less in partnerships with other municipalities.",
-      "themeEn": "Partnerships"
+      "isShootout": false
     },
     {
       "id": 240351,
@@ -1340,12 +1349,29 @@
       "theme": "Work requirement for welfare recipients",
       "themeId": "tegenprestatie-voor-uitkering",
       "title": "People receiving social assistance should, in return, do socially useful work.",
+      "titleParts": [
+        {
+          "text": " Mensen die een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Money from the municipality for people who have no income or personal funds."
+        },
+        {
+          "text": " krijgen, moeten in ruil daarvoor "
+        },
+        {
+          "text": "maatschappelijk zinvol werk",
+          "glossary": "For example cleaning the streets or keeping company and supporting elderly residents."
+        },
+        {
+          "text": " doen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People receiving social assistance should, in return, do socially useful work.",
-      "themeEn": "Work requirement for welfare recipients"
+      "isShootout": false
     },
     {
       "id": 240334,
@@ -1353,12 +1379,29 @@
       "theme": "Priority for refugees",
       "themeId": "voorrang-voor-vluchtelingen",
       "title": "The municipality should continue to give status holders priority for social rental housing.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "statushouders",
+          "glossary": "Refugees who have been granted a residence permit and are therefore allowed to stay in the Netherlands."
+        },
+        {
+          "text": " voorrang blijven geven op een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should continue to give status holders priority for social rental housing.",
-      "themeEn": "Priority for refugees"
+      "isShootout": false
     },
     {
       "id": 240372,
@@ -1369,9 +1412,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should urge the province of North Brabant to provide a direct bus line to major workplaces, such as ASML and the High Tech Campus.",
-      "themeEn": "Direct bus route"
+      "isShootout": false
     },
     {
       "id": 240347,
@@ -1379,12 +1420,22 @@
       "theme": "Camera surveillance",
       "themeId": "cameratoezicht",
       "title": "Camera surveillance should be installed in the center of Valkenswaard.",
+      "titleParts": [
+        {
+          "text": " In het centrum van Valkenswaard moet "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Monitoring of a building, area, or (groups of) people using security cameras."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Camera surveillance should be installed in the center of Valkenswaard.",
-      "themeEn": "Camera surveillance"
+      "isShootout": false
     },
     {
       "id": 240361,
@@ -1395,9 +1446,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allocate funds to bring a vocational (MBO) school to Valkenswaard.",
-      "themeEn": "MBO vocational school"
+      "isShootout": false
     },
     {
       "id": 240368,
@@ -1408,9 +1457,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must allow a nightclub in the center of Valkenswaard.",
-      "themeEn": "Valkenswaard nightclub"
+      "isShootout": false
     },
     {
       "id": 240336,
@@ -1418,12 +1465,22 @@
       "theme": "Asylum seekers' center",
       "themeId": "asielzoekerscentrum",
       "title": "There should be no asylum seekers' center (azc) in the municipality of Valkenswaard.",
+      "titleParts": [
+        {
+          "text": " In de gemeente Valkenswaard moet geen "
+        },
+        {
+          "text": "asielzoekerscentrum",
+          "glossary": "Reception center for asylum seekers. They live there until it is decided whether they may stay in the Netherlands. An asylum seekers’ center remains in a municipality for a long time."
+        },
+        {
+          "text": " (azc) komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be no asylum seekers' center (azc) in the municipality of Valkenswaard.",
-      "themeEn": "Asylum seekers' center"
+      "isShootout": false
     },
     {
       "id": 240341,
@@ -1431,12 +1488,29 @@
       "theme": "Accessibility of buildings",
       "themeId": "toegankelijkheid-gebouwen",
       "title": "The municipality should financially help business owners to make their buildings accessible to people with disabilities.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet ondernemers "
+        },
+        {
+          "text": "financieel",
+          "glossary": "Something related to money."
+        },
+        {
+          "text": " helpen om hun gebouw toegankelijker te maken voor mensen met een "
+        },
+        {
+          "text": "beperking",
+          "glossary": "Something that limits you in daily life. A disability can be physical or intellectual or relate to hearing or sight, or combinations of these."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should financially help business owners to make their buildings accessible to people with disabilities.",
-      "themeEn": "Accessibility of buildings"
+      "isShootout": false
     },
     {
       "id": 240349,
@@ -1447,9 +1521,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should allow new construction outside the existing village boundaries.",
-      "themeEn": "Housing construction"
+      "isShootout": false
     },
     {
       "id": 240350,
@@ -1460,9 +1532,7 @@
       "moreInfo": "The municipality currently supports people with an income up to 130 percent of the social minimum. The social minimum is set nationally based on what a person needs for food, housing, clothing and participation in society.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must support more people in poverty by raising the income threshold for assistance.",
-      "themeEn": "Combating poverty"
+      "isShootout": false
     },
     {
       "id": 240359,
@@ -1470,12 +1540,22 @@
       "theme": "Subsidy for sports",
       "themeId": "subsidie-voor-sport",
       "title": "Subsidies for sports clubs should be increased.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "subsidies",
+          "glossary": "Money the government gives to citizens, businesses, and organizations to support them."
+        },
+        {
+          "text": " voor sportverenigingen moeten omhoog."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Subsidies for sports clubs should be increased.",
-      "themeEn": "Subsidy for sports"
+      "isShootout": false
     },
     {
       "id": 240358,
@@ -1486,9 +1566,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality of Valkenswaard should buy agricultural land for the construction of housing.",
-      "themeEn": "Agricultural land"
+      "isShootout": false
     },
     {
       "id": 240369,
@@ -1499,9 +1577,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must abolish the tax on terraces at cafés and restaurants.",
-      "themeEn": "Precario tax (public-space occupancy tax)"
+      "isShootout": false
     },
     {
       "id": 240374,
@@ -1509,12 +1585,22 @@
       "theme": "Volunteer enforcement officers",
       "themeId": "vrijwillige-handhavers",
       "title": "The municipality of Valkenswaard should start a pilot with volunteer enforcement officers.",
+      "titleParts": [
+        {
+          "text": " De gemeente Valkenswaard moet een proef starten met vrijwillige "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "People who, for the municipality, check whether citizens and businesses comply with the rules."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality of Valkenswaard should start a pilot with volunteer enforcement officers.",
-      "themeEn": "Volunteer enforcement officers"
+      "isShootout": false
     },
     {
       "id": 240365,
@@ -1525,9 +1611,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should invest in a storage/parking facility for electric shared bicycles.",
-      "themeEn": "Shared bicycles"
+      "isShootout": false
     },
     {
       "id": 240362,
@@ -1535,12 +1619,22 @@
       "theme": "Civil servants",
       "themeId": "ambtenaren",
       "title": "The municipality should reduce the number of municipal employees.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "bezuinigen",
+          "glossary": "Spending less money."
+        },
+        {
+          "text": " op het aantal ambtenaren."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should reduce the number of municipal employees.",
-      "themeEn": "Civil servants"
+      "isShootout": false
     },
     {
       "id": 240335,
@@ -1548,12 +1642,29 @@
       "theme": "Integration",
       "themeId": "integratie",
       "title": "The municipality should spend more money on integrating newcomers into society.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld uitgeven aan "
+        },
+        {
+          "text": "integratie",
+          "glossary": "Newcomers learn the language and customs of the Netherlands."
+        },
+        {
+          "text": " van "
+        },
+        {
+          "text": "nieuwkomers",
+          "glossary": "People who are new to the Netherlands."
+        },
+        {
+          "text": " in de maatschappij."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should spend more money on integrating newcomers into society.",
-      "themeEn": "Integration"
+      "isShootout": false
     },
     {
       "id": 240376,
@@ -1564,9 +1675,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should place more speed bumps on Dorpsstraat in Borkel and Schaft.",
-      "themeEn": "Dorpsstraat, Borkel and Schaft"
+      "isShootout": false
     },
     {
       "id": 240370,
@@ -1577,9 +1686,7 @@
       "moreInfo": "De Wedert swimming pool is owned by the municipality of Valkenswaard. At the moment the municipality manages the canteen itself.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The canteen of swimming pool De Wedert should be taken over by an independent operator.",
-      "themeEn": "Catering at De Wedert swimming pool"
+      "isShootout": false
     },
     {
       "id": 240378,
@@ -1587,12 +1694,29 @@
       "theme": "LGBTI",
       "themeId": "lhbti",
       "title": "The municipality should subsidize activities for LGBT+ people.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "subsidie",
+          "glossary": "Money the government gives to citizens, businesses, and organizations to support them."
+        },
+        {
+          "text": " geven voor activiteiten voor "
+        },
+        {
+          "text": "LHBTI'ers",
+          "glossary": "LHBTI stands for lesbian women (L), gay men (H), bisexuals (B), transgender people (T) and intersex persons (I)."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should subsidize activities for LGBT+ people.",
-      "themeEn": "LGBTI"
+      "isShootout": false
     },
     {
       "id": 240331,
@@ -1600,12 +1724,29 @@
       "theme": "City marketing",
       "themeId": "city-marketing",
       "title": "The municipality should invest in a promotional campaign presenting Valkenswaard as an attractive location for businesses.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld steken in een "
+        },
+        {
+          "text": "promotiecampagne",
+          "glossary": "A series of advertisements on, for example, billboards, television, and social media."
+        },
+        {
+          "text": " voor Valkenswaard als aantrekkelijke "
+        },
+        {
+          "text": "vestigingsplaats",
+          "glossary": "The location where a company establishes itself."
+        },
+        {
+          "text": " voor bedrijven."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should invest in a promotional campaign presenting Valkenswaard as an attractive location for businesses.",
-      "themeEn": "City marketing"
+      "isShootout": false
     },
     {
       "id": 240343,
@@ -1613,12 +1754,22 @@
       "theme": "Sports clubs",
       "themeId": "sportverenigingen",
       "title": "If sports clubs are struggling, the municipality should contribute financially.",
+      "titleParts": [
+        {
+          "text": " Als sportverenigingen het moeilijk hebben, moet de gemeente "
+        },
+        {
+          "text": "financieel",
+          "glossary": "Something related to money."
+        },
+        {
+          "text": " bijdragen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "If sports clubs are struggling, the municipality should contribute financially.",
-      "themeEn": "Sports clubs"
+      "isShootout": false
     },
     {
       "id": 240377,
@@ -1626,12 +1777,22 @@
       "theme": "Cut-through traffic",
       "themeId": "sluipverkeer",
       "title": "The municipality should ask the Belgian villages Lommel and Hamont-Achel to take measures to stop through-traffic.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet aan de Belgische dorpen Lommel en Hamont-Achel vragen om maatregelen te nemen om "
+        },
+        {
+          "text": "sluipverkeer",
+          "glossary": "Traffic that drives through residential streets to avoid busy roads."
+        },
+        {
+          "text": " te stoppen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should ask the Belgian villages Lommel and Hamont-Achel to take measures to stop through-traffic.",
-      "themeEn": "Cut-through traffic"
+      "isShootout": false
     },
     {
       "id": 240339,
@@ -1642,9 +1803,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should mow public grass more often.",
-      "themeEn": "Grass"
+      "isShootout": false
     },
     {
       "id": 240375,
@@ -1652,12 +1811,22 @@
       "theme": "Reimbursement for couples therapy",
       "themeId": "vergoeding-relatietherapie",
       "title": "The municipality of Valkenswaard should reimburse couples therapy for couples with children.",
+      "titleParts": [
+        {
+          "text": " De gemeente Valkenswaard moet "
+        },
+        {
+          "text": "relatietherapie",
+          "glossary": "When people try to improve their romantic relationship together with a counselor."
+        },
+        {
+          "text": " vergoeden voor stellen met kinderen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality of Valkenswaard should reimburse couples therapy for couples with children.",
-      "themeEn": "Reimbursement for couples therapy"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

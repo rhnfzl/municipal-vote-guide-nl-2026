@@ -1322,9 +1322,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "In the municipality of Aalten residential buildings of five storeys and more may be permitted.",
-      "themeEn": "High-rise buildings"
+      "isShootout": false
     },
     {
       "id": 206575,
@@ -1335,9 +1333,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must allow solar panels on agricultural land.",
-      "themeEn": "Solar panels on farmland"
+      "isShootout": false
     },
     {
       "id": 206580,
@@ -1345,12 +1341,22 @@
       "theme": "Municipal enforcement officers (BOAs)",
       "themeId": "boa-s",
       "title": "Aalten must have more municipal enforcement officers (BOAs) who focus on safety.",
+      "titleParts": [
+        {
+          "text": " In Aalten moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "People who, for the municipality, check whether citizens and businesses comply with the rules."
+        },
+        {
+          "text": " (boa’s) komen die zich met veiligheid bezighouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Aalten must have more municipal enforcement officers (BOAs) who focus on safety.",
-      "themeEn": "Municipal enforcement officers (BOAs)"
+      "isShootout": false
     },
     {
       "id": 206595,
@@ -1361,9 +1367,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must attract shops to shopping centers by paying their rent for the first year.",
-      "themeEn": "Shops"
+      "isShootout": false
     },
     {
       "id": 206589,
@@ -1374,9 +1378,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must no longer designate parking spaces as charging points for electric cars.",
-      "themeEn": "Charging stations"
+      "isShootout": false
     },
     {
       "id": 206573,
@@ -1384,12 +1386,29 @@
       "theme": "Integration",
       "themeId": "integratie",
       "title": "The municipality should spend more money on integrating newcomers into society.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld uitgeven aan "
+        },
+        {
+          "text": "integratie",
+          "glossary": "Newcomers learn the language and customs of the Netherlands."
+        },
+        {
+          "text": " van "
+        },
+        {
+          "text": "nieuwkomers",
+          "glossary": "People who are new to the Netherlands."
+        },
+        {
+          "text": " in de maatschappij."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should spend more money on integrating newcomers into society.",
-      "themeEn": "Integration"
+      "isShootout": false
     },
     {
       "id": 206576,
@@ -1400,9 +1419,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "It should be possible for farmers to build houses themselves on their land.",
-      "themeEn": "Homes on farmyards"
+      "isShootout": false
     },
     {
       "id": 206593,
@@ -1413,9 +1430,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "A group of residents selected by lottery should advise the municipality on important issues.",
-      "themeEn": "Citizens' assembly"
+      "isShootout": false
     },
     {
       "id": 206609,
@@ -1423,12 +1438,29 @@
       "theme": "Wind turbines",
       "themeId": "windmolens",
       "title": "The Hagenwind wind turbines must be replaced by taller turbines that produce more energy. The municipality should urge the owners to do this.",
+      "titleParts": [
+        {
+          "text": " De Hagenwind-"
+        },
+        {
+          "text": "windmolens",
+          "glossary": "These are modern wind turbines that convert wind power into electricity and can be up to 150 meters high."
+        },
+        {
+          "text": " moeten vervangen worden door hogere "
+        },
+        {
+          "text": "windmolens",
+          "glossary": "These are modern wind turbines that convert wind power into electricity and can be up to 150 meters high."
+        },
+        {
+          "text": " die meer energie opleveren. Daar moet de gemeente bij de eigenaren op aandringen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The Hagenwind wind turbines must be replaced by taller turbines that produce more energy. The municipality should urge the owners to do this.",
-      "themeEn": "Wind turbines"
+      "isShootout": false
     },
     {
       "id": 206568,
@@ -1436,12 +1468,29 @@
       "theme": "Property tax (OZB)",
       "themeId": "onroerendezaakbelasting-ozb",
       "title": "The property tax (onroerendezaakbelasting, OZB) should be reduced.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "onroerendezaakbelasting",
+          "glossary": "Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "ozb",
+          "glossary": "Property tax. Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": ") moet omlaag."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The property tax (onroerendezaakbelasting, OZB) should be reduced.",
-      "themeEn": "Property tax (OZB)"
+      "isShootout": false
     },
     {
       "id": 206602,
@@ -1452,9 +1501,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality of Aalten must more strictly check whether companies comply with environmental regulations.",
-      "themeEn": "Environmental regulations"
+      "isShootout": false
     },
     {
       "id": 206581,
@@ -1462,12 +1509,22 @@
       "theme": "Neighborhood police officer",
       "themeId": "wijkagent",
       "title": "The municipality must ask the police to hold a weekly meeting with the community police officer in each village.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de politie vragen om in elk dorp wekelijks een "
+        },
+        {
+          "text": "spreekuur",
+          "glossary": "A fixed time when residents can ask questions or drop in."
+        },
+        {
+          "text": " te houden met de wijkagent."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must ask the police to hold a weekly meeting with the community police officer in each village.",
-      "themeEn": "Neighborhood police officer"
+      "isShootout": false
     },
     {
       "id": 206625,
@@ -1478,9 +1535,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality of Aalten must contribute to funding a bicycle tunnel or bridge on the N318 at Halteweg.",
-      "themeEn": "Bicycle tunnel"
+      "isShootout": false
     },
     {
       "id": 206582,
@@ -1488,12 +1543,22 @@
       "theme": "Priority for housing",
       "themeId": "voorrang-huisvesting",
       "title": "When allocating social housing, applicants from the municipality should be given priority.",
+      "titleParts": [
+        {
+          "text": " Bij de toewijzing van een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " moeten woningzoekenden uit de eigen gemeente voorrang krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "When allocating social housing, applicants from the municipality should be given priority.",
-      "themeEn": "Priority for housing"
+      "isShootout": false
     },
     {
       "id": 206629,
@@ -1504,9 +1569,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must do more to reduce loneliness among its residents.",
-      "themeEn": "Loneliness"
+      "isShootout": false
     },
     {
       "id": 206623,
@@ -1517,9 +1580,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must do more advertising to attract tourists to Aalten.",
-      "themeEn": "Tourists"
+      "isShootout": false
     },
     {
       "id": 206606,
@@ -1527,12 +1588,22 @@
       "theme": "Insulation",
       "themeId": "isoleren",
       "title": "Low-income residents must be given insulation materials for free by the municipality.",
+      "titleParts": [
+        {
+          "text": " Inwoners met een laag inkomen moeten gratis "
+        },
+        {
+          "text": "isolatiemateriaal",
+          "glossary": "Material in roofs, walls and floors that keeps heat in or out. In winter it keeps heat inside and in summer outside."
+        },
+        {
+          "text": " krijgen van de gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Low-income residents must be given insulation materials for free by the municipality.",
-      "themeEn": "Insulation"
+      "isShootout": false
     },
     {
       "id": 206611,
@@ -1540,12 +1611,22 @@
       "theme": "Sports facilities",
       "themeId": "sportvoorzieningen",
       "title": "Football pitches, tennis courts and other sports facilities should be brought together in one location as much as possible.",
+      "titleParts": [
+        {
+          "text": " Voetbalvelden, tennisbanen en andere "
+        },
+        {
+          "text": "voorzieningen",
+          "glossary": "Buildings or services needed for daily life, such as roads, sports facilities or healthcare."
+        },
+        {
+          "text": " om te sporten moeten zo veel mogelijk op één plaats bij elkaar worden gebracht."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Football pitches, tennis courts and other sports facilities should be brought together in one location as much as possible.",
-      "themeEn": "Sports facilities"
+      "isShootout": false
     },
     {
       "id": 206619,
@@ -1556,9 +1637,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There must be public toilets in Aalten and Dinxperlo.",
-      "themeEn": "Public toilets"
+      "isShootout": false
     },
     {
       "id": 206585,
@@ -1569,9 +1648,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must allow holiday homes to be used as a permanent residence.",
-      "themeEn": "Holiday cottages"
+      "isShootout": false
     },
     {
       "id": 206596,
@@ -1579,12 +1656,22 @@
       "theme": "Social enterprises",
       "themeId": "sociale-ondernemingen",
       "title": "Aalten must procure as much as possible from social enterprises.",
+      "titleParts": [
+        {
+          "text": " Aalten moet zoveel mogelijk inkopen bij "
+        },
+        {
+          "text": "sociale ondernemingen",
+          "glossary": "Companies that primarily aim to do something good for society. Making a profit comes second."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Aalten must procure as much as possible from social enterprises.",
-      "themeEn": "Social enterprises"
+      "isShootout": false
     },
     {
       "id": 206613,
@@ -1592,12 +1679,22 @@
       "theme": "Financial burdens on associations",
       "themeId": "lasten-verenigingen",
       "title": "The municipality must exempt sports clubs and cultural associations from property tax (OZB).",
+      "titleParts": [
+        {
+          "text": " De gemeente moet sportverenigingen en culturele verenigingen geen "
+        },
+        {
+          "text": "onroerendezaakbelasting",
+          "glossary": "Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": " (ozb) laten betalen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must exempt sports clubs and cultural associations from property tax (OZB).",
-      "themeEn": "Financial burdens on associations"
+      "isShootout": false
     },
     {
       "id": 206628,
@@ -1605,12 +1702,22 @@
       "theme": "Couples therapy",
       "themeId": "relatietherapie",
       "title": "The municipality must contribute to the cost of couples therapy.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meebetalen aan "
+        },
+        {
+          "text": "relatietherapie",
+          "glossary": "When people try to improve their romantic relationship with the help of someone else."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must contribute to the cost of couples therapy.",
-      "themeEn": "Couples therapy"
+      "isShootout": false
     },
     {
       "id": 206617,
@@ -1621,9 +1728,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "A parking space must be available for every new home.",
-      "themeEn": "Parking"
+      "isShootout": false
     },
     {
       "id": 206621,
@@ -1634,9 +1739,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must invest money in converting empty retail units into homes.",
-      "themeEn": "Vacant storefronts"
+      "isShootout": false
     },
     {
       "id": 206614,
@@ -1644,12 +1747,22 @@
       "theme": "Police cells",
       "themeId": "politiecellen",
       "title": "The municipality must ask the police to ensure there are nearby detention cells where arrestees can be held.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de politie vragen om te zorgen voor cellen in de buurt waar "
+        },
+        {
+          "text": "arrestanten",
+          "glossary": "People who have been taken by the police and detained."
+        },
+        {
+          "text": " vastgehouden kunnen worden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must ask the police to ensure there are nearby detention cells where arrestees can be held.",
-      "themeEn": "Police cells"
+      "isShootout": false
     },
     {
       "id": 206624,
@@ -1660,9 +1773,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should provide lessons on managing money in secondary schools.",
-      "themeEn": "Financial education"
+      "isShootout": false
     },
     {
       "id": 206626,
@@ -1673,9 +1784,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The Haartseweg should be widened.",
-      "themeEn": "Road widening"
+      "isShootout": false
     },
     {
       "id": 206630,
@@ -1683,12 +1792,22 @@
       "theme": "Low-traffic (car-restricted)",
       "themeId": "autoluw",
       "title": "The shopping areas in the municipality of Aalten should be made low-traffic; cars should be parked on the outskirts.",
+      "titleParts": [
+        {
+          "text": " De winkelgebieden in de gemeente Aalten moeten "
+        },
+        {
+          "text": "autoluw",
+          "glossary": "That there is little car traffic."
+        },
+        {
+          "text": " worden. Auto's parkeer je dan aan de rand."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The shopping areas in the municipality of Aalten should be made low-traffic; cars should be parked on the outskirts.",
-      "themeEn": "Low-traffic (car-restricted)"
+      "isShootout": false
     },
     {
       "id": 206604,
@@ -1696,12 +1815,22 @@
       "theme": "Youth parties",
       "themeId": "jongerenfeesten",
       "title": "The municipality should make it easier and cheaper for young people up to 25 to obtain permits for events.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet jongeren tot 25 jaar makkelijker en goedkoper een "
+        },
+        {
+          "text": "vergunning",
+          "glossary": "Permission from the municipality to do something."
+        },
+        {
+          "text": " geven voor evenementen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should make it easier and cheaper for young people up to 25 to obtain permits for events.",
-      "themeEn": "Youth parties"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

@@ -2511,12 +2511,22 @@
       "theme": "Intensive livestock farming",
       "themeId": "intensieve-veehouderij",
       "title": "The municipality should oppose the expansion of intensive livestock farming.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet uitbreiding van de "
+        },
+        {
+          "text": "intensieve veehouderij",
+          "glossary": "Intensive livestock farms where animals such as pigs, chickens and calves are kept on a relatively small area."
+        },
+        {
+          "text": " tegengaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should oppose the expansion of intensive livestock farming.",
-      "themeEn": "Intensive livestock farming"
+      "isShootout": false
     },
     {
       "id": 166898,
@@ -2527,9 +2537,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Shops should, as much as possible, be concentrated together in the largest villages.",
-      "themeEn": "Shopping centers"
+      "isShootout": false
     },
     {
       "id": 166896,
@@ -2540,9 +2548,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must oppose the installation of high-voltage pylons in Achtkarspelen.",
-      "themeEn": "High-voltage pylons"
+      "isShootout": false
     },
     {
       "id": 166895,
@@ -2550,12 +2556,22 @@
       "theme": "Sustainable energy",
       "themeId": "duurzame-energie",
       "title": "Residents who want to generate sustainable energy together should receive financial support from the municipality.",
+      "titleParts": [
+        {
+          "text": " Inwoners die samen "
+        },
+        {
+          "text": "duurzame energie",
+          "glossary": "Energy based on resources that are effectively infinite, such as sunlight and wind."
+        },
+        {
+          "text": " op willen wekken, moeten financiële steun krijgen van de gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents who want to generate sustainable energy together should receive financial support from the municipality.",
-      "themeEn": "Sustainable energy"
+      "isShootout": false
     },
     {
       "id": 166912,
@@ -2566,9 +2582,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must spend money to keep primary schools with few pupils open.",
-      "themeEn": "Distribution of schools"
+      "isShootout": false
     },
     {
       "id": 166908,
@@ -2576,12 +2590,22 @@
       "theme": "Stop asylum reception",
       "themeId": "asielopvang-tegenhouden",
       "title": "The municipality must, as much as possible, oppose accommodating asylum seekers.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet zich zoveel mogelijk verzetten tegen het opvangen van "
+        },
+        {
+          "text": "asielzoekers",
+          "glossary": "People who have applied for asylum and are still waiting for a decision."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must, as much as possible, oppose accommodating asylum seekers.",
-      "themeEn": "Stop asylum reception"
+      "isShootout": false
     },
     {
       "id": 166921,
@@ -2592,9 +2616,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Young people in Achtkarspelen may open their own youth shack without the municipality's permission.",
-      "themeEn": "Youth center"
+      "isShootout": false
     },
     {
       "id": 166884,
@@ -2602,12 +2624,22 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "The residents of Achtkarspelen must be able to give their opinion on important topics via a referendum.",
+      "titleParts": [
+        {
+          "text": " De inwoners van Achtkarspelen moeten over belangrijke onderwerpen hun mening kunnen geven via een "
+        },
+        {
+          "text": "referendum",
+          "glossary": "A public consultation where residents can express their opinion on a political issue. The municipal council is not obliged to follow the result; legally it cannot."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The residents of Achtkarspelen must be able to give their opinion on important topics via a referendum.",
-      "themeEn": "Referendum"
+      "isShootout": false
     },
     {
       "id": 166919,
@@ -2618,9 +2650,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must ensure that each village has a school, a village hall and a sports field.",
-      "themeEn": "Distribution of facilities"
+      "isShootout": false
     },
     {
       "id": 166922,
@@ -2628,12 +2658,22 @@
       "theme": "Enforcement officers",
       "themeId": "handhavers",
       "title": "There must be more municipal enforcement officers (BOAs) in Achtkarspelen who focus on safety.",
+      "titleParts": [
+        {
+          "text": " In Achtkarspelen moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "People who, for the municipality, check whether citizens and businesses comply with the rules."
+        },
+        {
+          "text": " (boa’s) komen die zich met veiligheid bezighouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There must be more municipal enforcement officers (BOAs) in Achtkarspelen who focus on safety.",
-      "themeEn": "Enforcement officers"
+      "isShootout": false
     },
     {
       "id": 166900,
@@ -2644,9 +2684,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Only people with a low income must receive money from the municipality to make their homes more energy-efficient.",
-      "themeEn": "Income threshold for sustainability"
+      "isShootout": false
     },
     {
       "id": 166927,
@@ -2657,9 +2695,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents of Achtkarspelen may build temporary homes on their own property without the municipality's permission.",
-      "themeEn": "Building on one's own property"
+      "isShootout": false
     },
     {
       "id": 166940,
@@ -2667,12 +2703,22 @@
       "theme": "Earning extra income while receiving social assistance",
       "themeId": "bijverdienen-in-bijstand",
       "title": "People on social assistance must be given more freedom to earn extra income.",
+      "titleParts": [
+        {
+          "text": " Mensen met een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Money from the municipality for people who have no income or personal funds."
+        },
+        {
+          "text": " moeten meer ruimte krijgen om bij te verdienen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People on social assistance must be given more freedom to earn extra income.",
-      "themeEn": "Earning extra income while receiving social assistance"
+      "isShootout": false
     },
     {
       "id": 166887,
@@ -2683,9 +2729,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must do less itself and cooperate more with other municipalities.",
-      "themeEn": "Partnerships"
+      "isShootout": false
     },
     {
       "id": 166934,
@@ -2693,12 +2737,22 @@
       "theme": "Design and appearance regulations",
       "themeId": "welstandsregels",
       "title": "The municipality must abolish the aesthetic standards for building and renovating.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de "
+        },
+        {
+          "text": "welstandsregels",
+          "glossary": "Municipal rules that determine how the houses and gardens in a neighbourhood should look."
+        },
+        {
+          "text": " voor bouwen en verbouwen afschaffen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must abolish the aesthetic standards for building and renovating.",
-      "themeEn": "Design and appearance regulations"
+      "isShootout": false
     },
     {
       "id": 166945,
@@ -2709,9 +2763,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should designate more parking spaces as charging points for electric cars.",
-      "themeEn": "Electric vehicle charging stations"
+      "isShootout": false
     },
     {
       "id": 166944,
@@ -2722,9 +2774,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "All bike paths in Achtkarspelen must be lit.",
-      "themeEn": "Cycle path lighting"
+      "isShootout": false
     },
     {
       "id": 166915,
@@ -2735,9 +2785,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must give primary schools funding to create and maintain a vegetable garden.",
-      "themeEn": "School vegetable garden"
+      "isShootout": false
     },
     {
       "id": 166903,
@@ -2748,9 +2796,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should ban solar panels on agricultural land.",
-      "themeEn": "Solar panels on farmland"
+      "isShootout": false
     },
     {
       "id": 166947,
@@ -2761,9 +2807,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Achtkarspelen must build fast cycling connections to Leeuwarden, Groningen, Drachten and Dokkum.",
-      "themeEn": "Fast cycling connections"
+      "isShootout": false
     },
     {
       "id": 166950,
@@ -2774,9 +2818,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People within village communities and churches take care of one another. The municipality must spend more money to encourage that care.",
-      "themeEn": "Informal care"
+      "isShootout": false
     },
     {
       "id": 166933,
@@ -2787,9 +2829,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Anyone who buys a home in our municipality must live in it themselves.",
-      "themeEn": "Owner-occupancy of a home"
+      "isShootout": false
     },
     {
       "id": 166911,
@@ -2800,9 +2840,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Every primary school child must be able to take free after-school lessons in music and other creative subjects.",
-      "themeEn": "Talent development"
+      "isShootout": false
     },
     {
       "id": 166954,
@@ -2813,9 +2851,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The co-payment for domestic help must be the same for everyone.",
-      "themeEn": "Household help"
+      "isShootout": false
     },
     {
       "id": 166932,
@@ -2823,12 +2859,22 @@
       "theme": "Municipal housing company",
       "themeId": "gemeentelijk-woningbedrijf",
       "title": "The municipality must start building and renting its own social housing.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet zelf "
+        },
+        {
+          "text": "sociale huurwoningen",
+          "glossary": "Rental homes that at the start of the tenancy are not more expensive than a certain amount. In 2025 that amount was €900.07 per month."
+        },
+        {
+          "text": " gaan bouwen en verhuren."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must start building and renting its own social housing.",
-      "themeEn": "Municipal housing company"
+      "isShootout": false
     },
     {
       "id": 166935,
@@ -2839,9 +2885,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must invest in converting vacant commercial buildings into housing.",
-      "themeEn": "Businesses converted into homes"
+      "isShootout": false
     },
     {
       "id": 166938,
@@ -2849,12 +2893,29 @@
       "theme": "Subsidized jobs",
       "themeId": "gesubsidieerde-banen",
       "title": "There must be many more subsidized jobs for the long-term unemployed in our municipality.",
+      "titleParts": [
+        {
+          "text": " Er moeten veel meer "
+        },
+        {
+          "text": "gesubsidieerde banen",
+          "glossary": "Government-funded jobs for people who have little chance of getting a regular job."
+        },
+        {
+          "text": " voor "
+        },
+        {
+          "text": "langdurig werklozen",
+          "glossary": "People who have been without paid work for a long time (longer than a year)."
+        },
+        {
+          "text": " komen in onze gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There must be many more subsidized jobs for the long-term unemployed in our municipality.",
-      "themeEn": "Subsidized jobs"
+      "isShootout": false
     },
     {
       "id": 166893,
@@ -2865,9 +2926,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must prevent agricultural land in Achtkarspelen from being converted into nature areas.",
-      "themeEn": "Agricultural land"
+      "isShootout": false
     },
     {
       "id": 166913,
@@ -2878,9 +2937,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Children must be able to access education, childcare and after-school activities on one site from birth through primary school.",
-      "themeEn": "Community school"
+      "isShootout": false
     },
     {
       "id": 166926,
@@ -2891,9 +2948,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The Frisian village names must become the official names in Achtkarspelen.",
-      "themeEn": "Frisian village names"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

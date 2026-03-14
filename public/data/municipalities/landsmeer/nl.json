@@ -1384,6 +1384,18 @@
       "theme": "Referendum",
       "themeId": "referendum",
       "title": "De inwoners van Landsmeer moeten over belangrijke onderwerpen hun mening kunnen blijven geven via een referendum.",
+      "titleParts": [
+        {
+          "text": " De inwoners van Landsmeer moeten over belangrijke onderwerpen hun mening kunnen blijven geven via een "
+        },
+        {
+          "text": "referendum",
+          "glossary": "Volksraadpleging waarbij inwoners zich kunnen uitspreken over een politieke kwestie. De gemeenteraad is niet verplicht de uitslag te volgen, dat is wettelijk niet mogelijk."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1410,6 +1422,25 @@
       "theme": "Voorrang voor vluchtelingen",
       "themeId": "voorrang-voor-vluchtelingen",
       "title": "De gemeente moet vluchtelingen met een verblijfsvergunning voorrang blijven geven op een sociale huurwoning.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet vluchtelingen met een "
+        },
+        {
+          "text": "verblijfsvergunning",
+          "glossary": "Het recht om in Nederland te blijven wonen."
+        },
+        {
+          "text": " voorrang blijven geven op een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1436,6 +1467,25 @@
       "theme": "Aantrekken bedrijven",
       "themeId": "aantrekken-bedrijven",
       "title": "De gemeente moet geld steken in een promotiecampagne voor Landsmeer als aantrekkelijke vestigingsplaats voor bedrijven.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld steken in een "
+        },
+        {
+          "text": "promotiecampagne",
+          "glossary": "Een serie reclames op bijvoorbeeld borden, televisie en sociale media."
+        },
+        {
+          "text": " voor Landsmeer als aantrekkelijke "
+        },
+        {
+          "text": "vestigingsplaats",
+          "glossary": "De plek waar een bedrijf zich vestigt."
+        },
+        {
+          "text": " voor bedrijven."
+        }
+      ],
       "moreInfo": "Gemeenten kunnen bedrijven aantrekken door te laten zien wat zij te bieden hebben. Dit kan bijvoorbeeld met een promotiecampagne. Het doel is om bedrijven te overtuigen zich in de gemeente te vestigen.",
       "pro": "",
       "con": "",
@@ -1449,6 +1499,18 @@
       "theme": "Schoolzwemmen",
       "themeId": "schoolzwemmen",
       "title": "De gemeente moet geld beschikbaar stellen voor schoolzwemmen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld beschikbaar stellen voor "
+        },
+        {
+          "text": "schoolzwemmen",
+          "glossary": "Zwemlessen die vanuit de school worden georganiseerd."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1462,6 +1524,25 @@
       "theme": "Integratie",
       "themeId": "integratie",
       "title": "De gemeente moet meer geld uitgeven aan integratie van nieuwkomers in de maatschappij.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld uitgeven aan "
+        },
+        {
+          "text": "integratie",
+          "glossary": "Nieuwkomers leren de taal en gewoonten van Nederland."
+        },
+        {
+          "text": " van "
+        },
+        {
+          "text": "nieuwkomers",
+          "glossary": "Mensen die nog niet lang in Nederland wonen."
+        },
+        {
+          "text": " in de maatschappij."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1488,6 +1569,25 @@
       "theme": "Sociale huurwoningen",
       "themeId": "sociale-huurwoningen",
       "title": "Van de nieuw te bouwen woningen in de gemeente Landsmeer moet minimaal 40% een sociale huurwoning zijn. In Nederland is nu 28% van de woningen een sociale huurwoning.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in de gemeente Landsmeer moet minimaal 40% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": " zijn. In Nederland is nu 28% van de woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1514,6 +1614,18 @@
       "theme": "Bedrijven worden woningen",
       "themeId": "bedrijven-worden-woningen",
       "title": "Oude bedrijfsgebouwen moeten met subsidie van de gemeente worden omgebouwd tot woningen.",
+      "titleParts": [
+        {
+          "text": " Oude bedrijfsgebouwen moeten met "
+        },
+        {
+          "text": "subsidie",
+          "glossary": "Geld dat de overheid aan burgers, bedrijven en organisaties geeft om ze te steunen."
+        },
+        {
+          "text": " van de gemeente worden omgebouwd tot woningen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1540,6 +1652,18 @@
       "theme": "Handhavers",
       "themeId": "handhavers",
       "title": "In Landsmeer moeten gemeentelijke handhavers (boa’s) komen die 24 uur per dag inzetbaar zijn.",
+      "titleParts": [
+        {
+          "text": " In Landsmeer moeten gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "Mensen die voor de gemeente controleren of burgers en bedrijven zich aan de regels houden."
+        },
+        {
+          "text": " (boa’s) komen die 24 uur per dag inzetbaar zijn."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1553,6 +1677,18 @@
       "theme": "Jongerenwerk",
       "themeId": "jongerenwerk",
       "title": "Er moeten meer uren jongerenwerk beschikbaar zijn in de gemeente. Nu is dat 20 uur per week.",
+      "titleParts": [
+        {
+          "text": " Er moeten meer uren "
+        },
+        {
+          "text": "jongerenwerk",
+          "glossary": "Mensen en organisaties die jongeren in de gemeente helpen met allerlei dingen."
+        },
+        {
+          "text": " beschikbaar zijn in de gemeente. Nu is dat 20 uur per week."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1605,6 +1741,18 @@
       "theme": "Meldingen van inwoners",
       "themeId": "meldingen-van-inwoners",
       "title": "Met de Fixi-app kunnen inwoners meldingen doorgeven aan de gemeente, bijvoorbeeld over zwerfvuil, overlast en vernielingen. De gemeente moet geld steken in extra medewerkers zodat meldingen sneller worden opgepakt.",
+      "titleParts": [
+        {
+          "text": " Met de Fixi-"
+        },
+        {
+          "text": "app",
+          "glossary": "Afkorting voor applicatie, meestal wordt een programma op de smartphone bedoeld"
+        },
+        {
+          "text": " kunnen inwoners meldingen doorgeven aan de gemeente, bijvoorbeeld over zwerfvuil, overlast en vernielingen. De gemeente moet geld steken in extra medewerkers zodat meldingen sneller worden opgepakt."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1618,6 +1766,18 @@
       "theme": "Cameratoezicht",
       "themeId": "cameratoezicht",
       "title": "In Landsmeer moet meer cameratoezicht komen.",
+      "titleParts": [
+        {
+          "text": " In Landsmeer moet meer "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Het houden van toezicht op of in een gebouw, gebied of (groepen) mensen met behulp van bewakingscamera's."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1644,6 +1804,18 @@
       "theme": "Woningbouw",
       "themeId": "woningbouw",
       "title": "De gemeente moet nieuwbouw buiten de bebouwde kom tegengaan.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet nieuwbouw buiten de "
+        },
+        {
+          "text": "bebouwde kom",
+          "glossary": "Gebied met bebouwing (huizen, gebouwen)."
+        },
+        {
+          "text": " tegengaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1696,6 +1868,18 @@
       "theme": "Belasting op gebouwen",
       "themeId": "belasting-op-gebouwen",
       "title": "De onroerendezaakbelasting (ozb) moet omlaag.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "onroerendezaakbelasting",
+          "glossary": "Belasting die je betaalt als eigenaar van een gebouw of stuk grond, of gebruiker van een bedrijfspand."
+        },
+        {
+          "text": " (ozb) moet omlaag."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1709,6 +1893,18 @@
       "theme": "Parkeervergunningen",
       "themeId": "parkeervergunningen",
       "title": "Landsmeer moet in de woonwijken rondom het centrum parkeervergunningen invoeren.",
+      "titleParts": [
+        {
+          "text": " Landsmeer moet in de woonwijken rondom het centrum "
+        },
+        {
+          "text": "parkeervergunningen",
+          "glossary": "Een vergunning om op een bepaalde plek te parkeren. Voor dat recht moet je betalen."
+        },
+        {
+          "text": " invoeren."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",

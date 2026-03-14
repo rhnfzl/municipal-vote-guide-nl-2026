@@ -2339,6 +2339,18 @@
       "theme": "Houtstook",
       "themeId": "houtstook",
       "title": "In de gemeente Soest moet het gebruik van open haarden en houtkachels toegestaan blijven.",
+      "titleParts": [
+        {
+          "text": " In de gemeente Soest moet het gebruik van open haarden en "
+        },
+        {
+          "text": "houtkachels",
+          "glossary": "Kachels die worden gestookt met hout om een woning te verwarmen."
+        },
+        {
+          "text": " toegestaan blijven."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2352,6 +2364,18 @@
       "theme": "Sociale huurwoningen",
       "themeId": "sociale-huurwoningen",
       "title": "Van de nieuw te bouwen woningen in de gemeente Soest moet 40% een sociale huurwoning zijn. Nu is ongeveer 23% van alle woningen sociale huur.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in de gemeente Soest moet 40% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": " zijn. Nu is ongeveer 23% van alle woningen sociale huur."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2378,6 +2402,25 @@
       "theme": "Voorrang voor statushouders",
       "themeId": "voorrang-voor-statushouders",
       "title": "De gemeente moet vluchtelingen met een verblijfsvergunning (statushouders) geen voorrang geven op een sociale huurwoning.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet vluchtelingen met een "
+        },
+        {
+          "text": "verblijfsvergunning",
+          "glossary": "Het recht om in Nederland te blijven wonen. Met het woord kun je dat recht zelf bedoelen en ook het kaartje waarop staat dat iemand dat recht heeft."
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "statushouders",
+          "glossary": "Vluchtelingen die een verblijfsvergunning hebben gekregen en dus in Nederland mogen blijven."
+        },
+        {
+          "text": ") geen voorrang geven op een sociale huurwoning."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2430,6 +2473,18 @@
       "theme": "Handhavers",
       "themeId": "handhavers",
       "title": "In de gemeente Soest moeten meer gemeentelijke handhavers (boa’s) komen die zich met veiligheid bezighouden.",
+      "titleParts": [
+        {
+          "text": " In de gemeente Soest moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "Iemand die werkt bij de gemeente en zorgt dat iedereen zich aan de regels houdt."
+        },
+        {
+          "text": " (boa’s) komen die zich met veiligheid bezighouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2443,6 +2498,25 @@
       "theme": "Afval",
       "themeId": "afval",
       "title": "Huishoudens moeten betalen voor de hoeveelheid restafval die ze aanbieden. Meer restafval betekent dus hogere kosten.",
+      "titleParts": [
+        {
+          "text": " Huishoudens moeten betalen voor de hoeveelheid "
+        },
+        {
+          "text": "restafval",
+          "glossary": "Afval dat overblijft nadat papier, plastic en gft apart zijn ingezameld."
+        },
+        {
+          "text": " die ze aanbieden. Meer "
+        },
+        {
+          "text": "restafval",
+          "glossary": "Afval dat overblijft nadat papier, plastic en gft apart zijn ingezameld."
+        },
+        {
+          "text": " betekent dus hogere kosten."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2469,6 +2543,18 @@
       "theme": "Coffeeshops",
       "themeId": "coffeeshops",
       "title": "De gemeente moet de vestiging van nieuwe coffeeshops tegenhouden.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de vestiging van nieuwe "
+        },
+        {
+          "text": "coffeeshops",
+          "glossary": "Winkel of café waar je softdrugs (hasj, wiet) kunt kopen en oproken."
+        },
+        {
+          "text": " tegenhouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2482,6 +2568,18 @@
       "theme": "Vrijliggende fietspaden",
       "themeId": "vrijliggende-fietspaden",
       "title": "De gemeente moet geld steken in fietspaden in het buitengebied waar auto's en fietsers gescheiden van elkaar rijden.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld steken in fietspaden in het "
+        },
+        {
+          "text": "buitengebied",
+          "glossary": "Gebied binnen de grenzen van de gemeente maar buiten de steden of dorpen zelf, hier staan weinig huizen en andere gebouwen."
+        },
+        {
+          "text": " waar auto's en fietsers gescheiden van elkaar rijden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2638,6 +2736,18 @@
       "theme": "Sollicitatieplicht",
       "themeId": "sollicitatieplicht",
       "title": "Mensen met een bijstandsuitkering die geen werk zoeken, moeten minder geld krijgen van de gemeente.",
+      "titleParts": [
+        {
+          "text": " Mensen met een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Geld van de gemeente voor mensen die geen inkomen of eigen geld hebben."
+        },
+        {
+          "text": " die geen werk zoeken, moeten minder geld krijgen van de gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2651,6 +2761,18 @@
       "theme": "Windmolens",
       "themeId": "windmolens",
       "title": "De windmolens in de gemeente Soest moeten komen naast het bedrijventerrein Isselt (bij Amersfoort).",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "windmolens",
+          "glossary": "Het gaat om moderne windturbines die windkracht omzetten in elektriciteit, en die tot 150 meter hoog kunnen zijn."
+        },
+        {
+          "text": " in de gemeente Soest moeten komen naast het bedrijventerrein Isselt (bij Amersfoort)."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2677,6 +2799,18 @@
       "theme": "Starterslening",
       "themeId": "starterslening",
       "title": "Mensen die voor het eerst een huis willen kopen, kunnen van de gemeente een starterslening van maximaal € 30.000 krijgen. Dit bedrag moet omhoog.",
+      "titleParts": [
+        {
+          "text": " Mensen die voor het eerst een huis willen kopen, kunnen van de gemeente een "
+        },
+        {
+          "text": "starterslening",
+          "glossary": "Extra lening naast je hypotheek, die je alleen kunt krijgen als je voor het eerst een huis koopt."
+        },
+        {
+          "text": " van maximaal € 30.000 krijgen. Dit bedrag moet omhoog."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",

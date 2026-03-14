@@ -1760,9 +1760,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The dike between Heteren and Driel should remain open to cars and motorcycles on weekends.",
-      "themeEn": "Dike"
+      "isShootout": false
     },
     {
       "id": 239639,
@@ -1773,9 +1771,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should remove parking spaces in residential neighbourhoods to create more green space.",
-      "themeEn": "Green space"
+      "isShootout": false
     },
     {
       "id": 239592,
@@ -1783,12 +1779,22 @@
       "theme": "Sustainable energy",
       "themeId": "duurzame-energie",
       "title": "Residents who want to generate sustainable energy together should receive financial support from the municipality.",
+      "titleParts": [
+        {
+          "text": " Inwoners die samen "
+        },
+        {
+          "text": "duurzame energie",
+          "glossary": "Energy based on resources that are effectively infinite, such as sunlight and wind."
+        },
+        {
+          "text": " op willen wekken, moeten financiële steun krijgen van de gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents who want to generate sustainable energy together should receive financial support from the municipality.",
-      "themeEn": "Sustainable energy"
+      "isShootout": false
     },
     {
       "id": 239625,
@@ -1796,12 +1802,29 @@
       "theme": "Asylum seekers' center",
       "themeId": "azc",
       "title": "Elst should get an asylum seekers centre (AZC) for 300 asylum seekers.",
+      "titleParts": [
+        {
+          "text": " Elst moet een "
+        },
+        {
+          "text": "asielzoekers",
+          "glossary": "People who have applied for asylum and are still waiting for a decision."
+        },
+        {
+          "text": " centrum (azc) voor 300 "
+        },
+        {
+          "text": "asielzoekers",
+          "glossary": "People who have applied for asylum and are still waiting for a decision."
+        },
+        {
+          "text": " krijgen."
+        }
+      ],
       "moreInfo": "Under the Distribution Act (Spreidingswet) Overbetuwe must accommodate 297 asylum seekers. The law requires all municipalities to take in asylum seekers so that reception is spread across the country. At the moment Overbetuwe is not hosting asylum seekers in an asylum reception center.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Elst should get an asylum seekers centre (AZC) for 300 asylum seekers.",
-      "themeEn": "Asylum seekers' center"
+      "isShootout": false
     },
     {
       "id": 239593,
@@ -1809,12 +1832,22 @@
       "theme": "Distribution centers",
       "themeId": "distributiecentra",
       "title": "The municipality must oppose the establishment of new distribution centers.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de vestiging van nieuwe "
+        },
+        {
+          "text": "distributiecentra",
+          "glossary": "Large warehouse where goods are received, distributed and transported to other locations."
+        },
+        {
+          "text": " tegengaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must oppose the establishment of new distribution centers.",
-      "themeEn": "Distribution centers"
+      "isShootout": false
     },
     {
       "id": 239614,
@@ -1822,12 +1855,29 @@
       "theme": "Subsidized jobs",
       "themeId": "gesubsidieerde-banen",
       "title": "There should be subsidized jobs for the long-term unemployed in our municipality.",
+      "titleParts": [
+        {
+          "text": " Er moeten "
+        },
+        {
+          "text": "gesubsidieerde",
+          "glossary": "Money the government gives to citizens, businesses, and organizations to support them."
+        },
+        {
+          "text": " banen voor "
+        },
+        {
+          "text": "langdurig werklozen",
+          "glossary": "People who have been without paid work for a long time (longer than a year)."
+        },
+        {
+          "text": " komen in onze gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be subsidized jobs for the long-term unemployed in our municipality.",
-      "themeEn": "Subsidized jobs"
+      "isShootout": false
     },
     {
       "id": 239609,
@@ -1838,9 +1888,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Housing should also be built on business parks.",
-      "themeEn": "Living on an industrial estate"
+      "isShootout": false
     },
     {
       "id": 239605,
@@ -1851,9 +1899,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should urge the police to check fatbikes more often for antisocial behaviour.",
-      "themeEn": "Fat bikes"
+      "isShootout": false
     },
     {
       "id": 239629,
@@ -1864,9 +1910,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should contribute to dental care for low-income people.",
-      "themeEn": "Dental fund"
+      "isShootout": false
     },
     {
       "id": 239589,
@@ -1874,12 +1918,22 @@
       "theme": "Tax on buildings",
       "themeId": "belasting-op-gebouwen",
       "title": "The property tax (onroerendezaakbelasting, OZB) should be reduced.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "onroerendezaakbelasting",
+          "glossary": "Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": " (ozb) moet omlaag."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The property tax (onroerendezaakbelasting, OZB) should be reduced.",
-      "themeEn": "Tax on buildings"
+      "isShootout": false
     },
     {
       "id": 239630,
@@ -1890,9 +1944,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should stop the expansion of farms with large numbers of animals.",
-      "themeEn": "Farms"
+      "isShootout": false
     },
     {
       "id": 239604,
@@ -1900,12 +1952,22 @@
       "theme": "Neighborhood police officer",
       "themeId": "wijkagent",
       "title": "The municipality must ask the police to hold a weekly meeting with the community police officer in each village.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de politie vragen om in elk dorp wekelijks een "
+        },
+        {
+          "text": "spreekuur",
+          "glossary": "A fixed time when residents can ask questions or drop in."
+        },
+        {
+          "text": " te houden met de wijkagent."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must ask the police to hold a weekly meeting with the community police officer in each village.",
-      "themeEn": "Neighborhood police officer"
+      "isShootout": false
     },
     {
       "id": 239640,
@@ -1916,9 +1978,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "In new construction projects at least 20 percent should consist of owner-occupied homes priced under €250,000.",
-      "themeEn": "Owner-occupied homes"
+      "isShootout": false
     },
     {
       "id": 239638,
@@ -1926,12 +1986,22 @@
       "theme": "Wind turbines",
       "themeId": "windmolens",
       "title": "The municipality should block plans for new wind turbines.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet plannen voor nieuwe "
+        },
+        {
+          "text": "windmolens",
+          "glossary": "These are modern wind turbines that convert wind power into electricity and can be up to 150 meters high."
+        },
+        {
+          "text": " tegenhouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should block plans for new wind turbines.",
-      "themeEn": "Wind turbines"
+      "isShootout": false
     },
     {
       "id": 239631,
@@ -1942,9 +2012,7 @@
       "moreInfo": "There are currently 9 caravan/mobile-home pitches in Overbetuwe: 4 in Heteren, 3 in Zetten and 2 in Herveld. This year or next year 6 more will be added: 4 in Elst and 2 in Randwijk. There are now 40 households on the waiting list.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "More mobile home pitches should be provided in the municipality of Overbetuwe.",
-      "themeEn": "Mobile home pitches"
+      "isShootout": false
     },
     {
       "id": 239635,
@@ -1955,9 +2023,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "A blue zone should be introduced in the shopping centres of Driel and Heteren where you may park your car for a maximum of two hours.",
-      "themeEn": "Parking in Driel and Heteren"
+      "isShootout": false
     },
     {
       "id": 239634,
@@ -1965,12 +2031,29 @@
       "theme": "Dog tax",
       "themeId": "hondenbelasting",
       "title": "The municipality should spend dog tax revenue entirely on dog facilities, such as dog exercise areas.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "hondenbelasting",
+          "glossary": "Tax paid to the municipality for owning one or more dogs."
+        },
+        {
+          "text": " volledig uitgeven aan "
+        },
+        {
+          "text": "voorzieningen",
+          "glossary": "Buildings or services needed for daily life, such as roads, sports facilities or healthcare."
+        },
+        {
+          "text": " voor honden, zoals uitlaatplaatsen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should spend dog tax revenue entirely on dog facilities, such as dog exercise areas.",
-      "themeEn": "Dog tax"
+      "isShootout": false
     },
     {
       "id": 239615,
@@ -1978,12 +2061,29 @@
       "theme": "Informal care",
       "themeId": "mantelzorg",
       "title": "People receiving social assistance who care for a family member or acquaintance as informal caregivers should still be required to keep applying for jobs.",
+      "titleParts": [
+        {
+          "text": " Mensen met een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Money from the municipality for people who have no income or personal funds."
+        },
+        {
+          "text": " die een familielid of bekende verzorgen als "
+        },
+        {
+          "text": "mantelzorger",
+          "glossary": "Someone who provides unpaid and often long-term care for sick family members or friends."
+        },
+        {
+          "text": ", moeten toch blijven solliciteren."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People receiving social assistance who care for a family member or acquaintance as informal caregivers should still be required to keep applying for jobs.",
-      "themeEn": "Informal care"
+      "isShootout": false
     },
     {
       "id": 239628,
@@ -1991,12 +2091,22 @@
       "theme": "Couples therapy",
       "themeId": "relatietherapie",
       "title": "The municipality should cover the cost of couples therapy for couples with children.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "relatietherapie",
+          "glossary": "When people try to improve their romantic relationship together with a counselor."
+        },
+        {
+          "text": " vergoeden voor stellen met kinderen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should cover the cost of couples therapy for couples with children.",
-      "themeEn": "Couples therapy"
+      "isShootout": false
     },
     {
       "id": 239601,
@@ -2007,9 +2117,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Children must be able to access education, childcare and after-school activities on one site from birth through primary school.",
-      "themeEn": "Community school"
+      "isShootout": false
     },
     {
       "id": 239594,
@@ -2017,12 +2125,29 @@
       "theme": "Priority for refugees",
       "themeId": "voorrang-voor-vluchtelingen",
       "title": "The municipality should no longer give status holders priority for social housing.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "statushouders",
+          "glossary": "Refugees who have been granted a residence permit and are therefore allowed to stay in the Netherlands."
+        },
+        {
+          "text": " geen voorrang meer geven op een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should no longer give status holders priority for social housing.",
-      "themeEn": "Priority for refugees"
+      "isShootout": false
     },
     {
       "id": 239597,
@@ -2030,12 +2155,29 @@
       "theme": "Sustainable businesses",
       "themeId": "duurzame-bedrijven",
       "title": "Only companies that operate sustainably should be allowed to establish themselves in our municipality from now on.",
+      "titleParts": [
+        {
+          "text": " Alleen bedrijven die "
+        },
+        {
+          "text": "duurzaam",
+          "glossary": "Something you can (re)use for a long time."
+        },
+        {
+          "text": " werken mogen zich voortaan in onze gemeente "
+        },
+        {
+          "text": "vestigen",
+          "glossary": "To build, to place somewhere (a building, organization or household)."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Only companies that operate sustainably should be allowed to establish themselves in our municipality from now on.",
-      "themeEn": "Sustainable businesses"
+      "isShootout": false
     },
     {
       "id": 239610,
@@ -2046,9 +2188,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should prevent new construction outside existing village boundaries.",
-      "themeEn": "Housing construction"
+      "isShootout": false
     },
     {
       "id": 239641,
@@ -2059,9 +2199,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must work with fewer different care providers for assistance and support.",
-      "themeEn": "Care providers"
+      "isShootout": false
     },
     {
       "id": 239603,
@@ -2069,12 +2207,22 @@
       "theme": "Enforcement officers",
       "themeId": "handhavers",
       "title": "The municipality of Overbetuwe should employ more municipal enforcement officers (BOAs) who deal with safety.",
+      "titleParts": [
+        {
+          "text": " In de gemeente Overbetuwe moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "People who, for the municipality, check whether citizens and businesses comply with the rules."
+        },
+        {
+          "text": " (boa’s) komen die zich met veiligheid bezighouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality of Overbetuwe should employ more municipal enforcement officers (BOAs) who deal with safety.",
-      "themeEn": "Enforcement officers"
+      "isShootout": false
     },
     {
       "id": 239608,
@@ -2085,9 +2233,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "In Elst, residential apartment blocks of six storeys or higher may be built.",
-      "themeEn": "Apartment buildings"
+      "isShootout": false
     },
     {
       "id": 239633,
@@ -2098,9 +2244,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should convince the national government that a station should be reinstated on Stationsstraat in Valburg.",
-      "themeEn": "Valburg train station"
+      "isShootout": false
     },
     {
       "id": 239613,
@@ -2108,12 +2252,29 @@
       "theme": "Work requirement for welfare recipients",
       "themeId": "tegenprestatie-voor-uitkering",
       "title": "People receiving social assistance should, in return, do socially useful work.",
+      "titleParts": [
+        {
+          "text": " Mensen die een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Money from the municipality for people who have no income or personal funds."
+        },
+        {
+          "text": " krijgen, moeten in ruil daarvoor "
+        },
+        {
+          "text": "maatschappelijk zinvol werk",
+          "glossary": "For example cleaning the streets or keeping company and supporting elderly residents."
+        },
+        {
+          "text": " doen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "People receiving social assistance should, in return, do socially useful work.",
-      "themeEn": "Work requirement for welfare recipients"
+      "isShootout": false
     },
     {
       "id": 239602,
@@ -2121,12 +2282,22 @@
       "theme": "Sports clubs",
       "themeId": "sportverenigingen",
       "title": "If sports clubs are struggling, the municipality should contribute financially.",
+      "titleParts": [
+        {
+          "text": " Als sportverenigingen het moeilijk hebben, moet de gemeente "
+        },
+        {
+          "text": "financieel",
+          "glossary": "Financially contributing or helping means giving money to something or someone."
+        },
+        {
+          "text": " bijdragen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "If sports clubs are struggling, the municipality should contribute financially.",
-      "themeEn": "Sports clubs"
+      "isShootout": false
     },
     {
       "id": 239626,
@@ -2134,12 +2305,22 @@
       "theme": "Village street",
       "themeId": "dorpsstraat",
       "title": "Dorpsstraat in Elst should be turned into a bicycle street.",
+      "titleParts": [
+        {
+          "text": " De Dorpsstraat in Elst moet een "
+        },
+        {
+          "text": "fietsstraat",
+          "glossary": "A street where cars must drive slowly and carefully."
+        },
+        {
+          "text": " worden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Dorpsstraat in Elst should be turned into a bicycle street.",
-      "themeEn": "Village street"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

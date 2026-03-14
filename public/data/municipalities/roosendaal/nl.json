@@ -2439,6 +2439,25 @@
       "theme": "Integratie",
       "themeId": "integratie",
       "title": "De gemeente moet meer geld uitgeven aan integratie van nieuwkomers in de maatschappij.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld uitgeven aan "
+        },
+        {
+          "text": "integratie",
+          "glossary": "Nieuwkomers leren de taal en gewoonten van Nederland."
+        },
+        {
+          "text": " van "
+        },
+        {
+          "text": "nieuwkomers",
+          "glossary": "Mensen die nog niet lang in Nederland wonen."
+        },
+        {
+          "text": " in de maatschappij."
+        }
+      ],
       "moreInfo": "Nieuwkomers zijn mensen die in Nederland komen wonen, bijvoorbeeld vluchtelingen of arbeidsmigranten. Zij moeten vaak een nieuw leven opbouwen in een andere omgeving. De gemeente helpt nieuwkomers bijvoorbeeld bij het leren van de Nederlandse taal, het vinden van werk, het volgen van onderwijs en het meedoen in de samenleving.",
       "pro": "Goede integratie helpt nieuwkomers om sneller mee te doen in de samenleving.Integratie helpt nieuwkomers om werk te vinden en zelfstandig te worden.Goede integratie zorgt voor meer onderling begrip in de samenleving.",
       "con": "Integratie is vooral een eigen verantwoordelijkheid van nieuwkomers. De gemeente geeft al voldoende geld uit aan integratie. Extra geld lost de problemen niet vanzelf op.",
@@ -2452,6 +2471,25 @@
       "theme": "Milieustraat",
       "themeId": "milieustraat",
       "title": "Het inleveren van restafval bij de milieustraat moet gratis worden.",
+      "titleParts": [
+        {
+          "text": " Het inleveren van "
+        },
+        {
+          "text": "restafval",
+          "glossary": "Afval dat overblijft nadat papier, plastic en gft apart zijn ingezameld."
+        },
+        {
+          "text": " bij de "
+        },
+        {
+          "text": "milieustraat",
+          "glossary": "Plek waar burgers en bedrijven verschillende soorten afval naartoe kunnen brengen. "
+        },
+        {
+          "text": " moet gratis worden."
+        }
+      ],
       "moreInfo": "Restafval is afval dat overblijft na het scheiden van bijvoorbeeld papier, plastic en GFT (groente-, fruit- en tuinafval). In de gemeente Roosendaal kunnen inwoners restafval inleveren bij de milieustraat. Voor het inleveren van restafval betaal je nu € 0,24 per kilogram.",
       "pro": "Gratis inleveren kan afvaldumping en zwerfafval voorkomen.Het opruimen van zwerfvuil kost de gemeente veel geld.Gratis inleveren zorgt voor een schonere leefomgeving.",
       "con": "Gratis inleveren zorgt voor hogere kosten voor de gemeente. Betalen stimuleert mensen om afval beter te scheiden. Met een betaald systeem blijft de afvalstoffenheffing laag.",
@@ -2465,6 +2503,25 @@
       "theme": "Belasting op gebouwen",
       "themeId": "belasting-op-gebouwen",
       "title": "De onroerendezaakbelasting (ozb) moet omlaag.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "onroerendezaakbelasting",
+          "glossary": "Belasting die je betaalt als eigenaar van een gebouw of stuk grond, of gebruiker van een bedrijfspand."
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "ozb",
+          "glossary": "Onroerendezaakbelasting. Belasting die je betaalt als eigenaar van een gebouw of stuk grond, of gebruiker van een bedrijfspand."
+        },
+        {
+          "text": ") moet omlaag."
+        }
+      ],
       "moreInfo": "De onroerendezaakbelasting (ozb) is een belasting die mensen betalen als zij een woning of ander pand hebben. Hoeveel je betaalt, hangt af van de waarde van je huis of pand en de percentages die de gemeente vaststelt. De opbrengst van de ozb gebruikt de gemeente voor zaken zoals wegen, groen en ondersteuning van inwoners.",
       "pro": "Een lagere ozb verlaagt de woonlasten voor huiseigenaren.Dit dwingt de gemeente om efficiënter te werken.De gemeente moet zuinig omgaan met belastinggeld.",
       "con": "De ozb is nodig om gemeentelijke taken uit te voeren. Verlaging betekent minder geld voor bijvoorbeeld zorg.De gemeente moet dan andere belastingen verhogen of bezuinigen.",
@@ -2478,6 +2535,18 @@
       "theme": "Asielzoekerscentrum",
       "themeId": "asielzoekerscentrum",
       "title": "In onze gemeente moet een asielzoekerscentrum (azc) komen.",
+      "titleParts": [
+        {
+          "text": " In onze gemeente moet een "
+        },
+        {
+          "text": "asielzoekerscentrum",
+          "glossary": "Opvangcentrum voor asielzoekers. Ze wonen daar tot besloten is of ze in Nederland mogen blijven. Een asielzoekerscentrum blijft langere tijd in een gemeente staan."
+        },
+        {
+          "text": " (azc) komen."
+        }
+      ],
       "moreInfo": "Mensen kunnen in Nederland asiel aanvragen als ze op de vlucht zijn voor oorlog of gevaar lopen in hun eigen land. De Immigratie- en Naturalisatiedienst (IND) beoordeelt hun aanvraag en besluit of zij in Nederland mogen blijven. Tijdens die procedure moeten deze asielzoekers worden opgevangen. In Nederland is er een tekort aan opvangplekken voor asielzoekers.Volgens de Spreidingswet moet de gemeente Roosendaal opvang regelen voor 300 asielzoekers voor een periode van 4 jaar. De gemeenteraad besloot in april 2025 geen opvang in Heerle toe te staan. Daardoor voldoet de gemeente niet aan de afspraak en kan het Rijk opvang opleggen.",
       "pro": "De gemeente is verplicht om asielzoekers op te vangen.Een azc is nodig omdat er te weinig opvangplekken zijn.Met een azc kan de gemeente zelf bepalen hoe ze de opvang regelt.",
       "con": "Een azc heeft grote gevolgen voor de buurt.Niet alle inwoners steunen de komst van een azc.De gemeente moet zelf keuzes kunnen maken, zonder dwang van het Rijk.",
@@ -2517,6 +2586,25 @@
       "theme": "Maximumsnelheid",
       "themeId": "maximumsnelheid",
       "title": "Binnen de bebouwde kom moet de maximumsnelheid omlaag naar 30 km/u.",
+      "titleParts": [
+        {
+          "text": " Binnen de "
+        },
+        {
+          "text": "bebouwde kom",
+          "glossary": "Gebied met bebouwing (huizen, gebouwen)."
+        },
+        {
+          "text": " moet de "
+        },
+        {
+          "text": "maximumsnelheid",
+          "glossary": "De hoogste snelheid die auto’s en motoren mogen rijden op straat."
+        },
+        {
+          "text": " omlaag naar 30 km/u."
+        }
+      ],
       "moreInfo": "De bebouwde kom is het gebied binnen de stad of het dorp waar mensen wonen, werken en winkelen. Daar geldt nu vaak een maximumsnelheid van 50 km/u. Op sommige straten is dit al 30 km/u.In de Mobiliteitsvisie Roosendaal 2040 staat dat 30 km/u de norm moet worden voor bijna alle wegen binnen de bebouwde kom. Alleen op grote, drukke wegen die bedoeld zijn voor doorgaand verkeer blijft 50 km/u gelden. Dit zijn wegen waar fietsers en auto’s van elkaar gescheiden zijn.",
       "pro": "30 km/u maakt het verkeer veiliger.Een lagere snelheid zorgt voor minder geluid.Woonwijken worden rustiger.",
       "con": "30 km/u zorgt voor langzamer verkeer en minder doorstroming. Het verslechtert de bereikbaarheid. Op doorgaande wegen moet 50 km/u blijven gelden.",
@@ -2530,6 +2618,25 @@
       "theme": "Aantrekken bedrijven",
       "themeId": "aantrekken-bedrijven",
       "title": "De gemeente moet geld steken in een promotiecampagne voor de gemeente Roosendaal als aantrekkelijke vestigingsplaats voor bedrijven.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld steken in een "
+        },
+        {
+          "text": "promotiecampagne",
+          "glossary": "Een serie reclames op bijvoorbeeld borden, televisie en sociale media."
+        },
+        {
+          "text": " voor de gemeente Roosendaal als aantrekkelijke "
+        },
+        {
+          "text": "vestigingsplaats",
+          "glossary": "De plek waar een bedrijf zich vestigt."
+        },
+        {
+          "text": " voor bedrijven."
+        }
+      ],
       "moreInfo": "Gemeenten kunnen bedrijven aantrekken door te laten zien wat zij te bieden hebben. Dit kan bijvoorbeeld met een promotiecampagne. Het doel is om bedrijven te overtuigen zich in de gemeente te vestigen.",
       "pro": "Een promotiecampagne kan meer bedrijven aantrekken.Meer bedrijven zorgen voor meer banen in de gemeente.Het versterkt de lokale economie.",
       "con": "Een promotiecampagne kost veel geld. Bedrijven vestigen zich vooral door goede voorzieningen, niet door reclame. Er zijn al voldoende bedrijven in de gemeente.",
@@ -2543,6 +2650,18 @@
       "theme": "Kunst openbare ruimte",
       "themeId": "kunst-openbare-ruimte",
       "title": "Er moet meer kunst komen in de openbare ruimte.",
+      "titleParts": [
+        {
+          "text": " Er moet meer kunst komen in de "
+        },
+        {
+          "text": "openbare ruimte",
+          "glossary": "Gebieden in de buitenlucht die voor iedereen toegankelijk zijn, zoals straten, pleinen en parken."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "Kunst in de openbare ruimte is kunst die voor iedereen zichtbaar en toegankelijk is. Deze kunst vind je in parken, op pleinen, op straat en ook op, aan of in gebouwen. Bijvoorbeeld standbeelden, gevelstenen, schilderkunst en graffitischilderingen. Maar ook de muziek die de stadsbeiaardier speelt en de gedichten van lokale dichters zijn vormen van kunst.",
       "pro": "Kunst maakt buurten aantrekkelijker en levendiger.Kunst kan zorgen voor trots en herkenning in de gemeente.",
       "con": "Kunst is geen prioriteit voor de gemeente. We kunnen geld van de gemeente beter besteden aan andere taken.",
@@ -2569,6 +2688,18 @@
       "theme": "Schoolzwemmen",
       "themeId": "schoolzwemmen",
       "title": "De gemeente moet geld beschikbaar stellen voor schoolzwemmen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld beschikbaar stellen voor "
+        },
+        {
+          "text": "schoolzwemmen",
+          "glossary": "Zwemlessen die vanuit de school worden georganiseerd."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "Schoolzwemmen is zwemles die leerlingen krijgen via school. Het doel is dat kinderen leren zwemmen en zich veilig kunnen redden in het water. Vroeger werd schoolzwemmen in veel gemeenten aangeboden. Tegenwoordig regelen ouders dit vaak zelf. Niet alle kinderen halen daardoor een zwemdiploma.",
       "pro": "Schoolzwemmen helpt kinderen om veilig te leren zwemmen.Zwemles via school helpt om ongelijkheid tussen kinderen te verkleinen.Met schoolzwemmen benutten we zwembaden beter.",
       "con": "Zwemles is vooral een verantwoordelijkheid van ouders. Schoolzwemmen kost de gemeente veel geld. Scholen moeten zich vooral richten op vakken als rekenen en lezen, niet op zwemlessen.",
@@ -2582,6 +2713,18 @@
       "theme": "Coffeeshops",
       "themeId": "coffeeshops",
       "title": "De gemeente Roosendaal moet coffeeshops weer toestaan.",
+      "titleParts": [
+        {
+          "text": " De gemeente Roosendaal moet "
+        },
+        {
+          "text": "coffeeshops",
+          "glossary": "Winkel of café waar je softdrugs (hasj, wiet) kunt kopen en oproken."
+        },
+        {
+          "text": " weer toestaan."
+        }
+      ],
       "moreInfo": "In Nederland is het gebruik en de verkoop van softdrugs onder voorwaarden toegestaan. Gemeenten bepalen zelf of zij coffeeshops toestaan. De gemeente Roosendaal voerde in 2009 een nieuw coffeeshopbeleid in. Daarbij is gekozen voor een nulbeleid. Dit betekent dat coffeeshops niet zijn toegestaan in de gemeente. Dit beleid geldt nog steeds.",
       "pro": "Coffeeshops zorgen voor toezicht op de verkoop.Het kan helpen om straathandel en overlast te verminderen.Inwoners kunnen op een gecontroleerde manier softdrugs kopen.",
       "con": "Coffeeshops hebben in het verleden gezorgd voor overlast en criminaliteit.Coffeeshops kunnen leiden tot drugstoerisme.De gemeente moet gezond gedrag stimuleren.",
@@ -2608,6 +2751,18 @@
       "theme": "Snelfietsroutes",
       "themeId": "snelfietsroutes",
       "title": "De gemeente moet snelfietsroutes uitbreiden, bijvoorbeeld naar Etten-Leur en Essen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "snelfietsroutes",
+          "glossary": "Fietspaden met weinig kruisingen en zijpaden, waarop fietsers vlot en veilig grote afstanden kunnen afleggen. "
+        },
+        {
+          "text": " uitbreiden, bijvoorbeeld naar Etten-Leur en Essen."
+        }
+      ],
       "moreInfo": "Snelfietsroutes zijn brede en veilige fietspaden voor langere afstanden. Ze zijn vooral bedoeld voor dagelijks fietsen, bijvoorbeeld naar werk of school. In Roosendaal is er al een snelfietsroute van Roosendaal naar Bergen op Zoom. Voor een uitbreiding richting Etten-Leur zijn nu nog geen concrete plannen. Wel is er bij de provincie de wens om snelfietsroutes verder uit te breiden.",
       "pro": "Snelfietsroutes maken fietsen veiliger en aantrekkelijker.Meer mensen kunnen de fiets gebruiken in plaats van de auto.Snelfietsroutes zorgen voor een betere bereikbaarheid tussen gemeenten.",
       "con": "Het aanleggen van snelfietsroutes kost veel geld. Niet iedereen maakt gebruik van deze routes. Verbetering van het openbaar vervoer levert meer op.",
@@ -2621,6 +2776,25 @@
       "theme": "Voorrang statushouders",
       "themeId": "voorrang-statushouders",
       "title": "Vluchtelingen met een verblijfsvergunning mogen geen voorrang krijgen op sociale huurwoningen.",
+      "titleParts": [
+        {
+          "text": " Vluchtelingen met een "
+        },
+        {
+          "text": "verblijfsvergunning",
+          "glossary": "Het recht om in Nederland te blijven wonen. Met het woord kun je dat recht zelf bedoelen en ook het kaartje waarop staat dat iemand dat recht heeft."
+        },
+        {
+          "text": " mogen geen voorrang krijgen op "
+        },
+        {
+          "text": "sociale huurwoningen",
+          "glossary": "Huurwoningen met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "Vluchtelingen met een verblijfsvergunning zijn mensen die asiel hebben aangevraagd en in Nederland mogen blijven. Dit zijn statushouders. De Rijksoverheid bepaalt elk half jaar hoeveel statushouders een gemeente moet huisvesten. Dit aantal is gebaseerd op het aantal inwoners van de gemeente. Gemeenten mogen zelf bepalen wie voorrang krijgt bij een sociale huurwoning. Statushouders hebben niet automatisch voorrang. Dit hangt af van de regels van de gemeente.",
       "pro": "Voorrang voor statushouders is niet eerlijk voor andere woningzoekenden.De wachttijd moet voor iedereen hetzelfde zijn.Door voorrangsregels kunnen jongeren en starters moeilijker een woning vinden.",
       "con": "Voorrang moet mogelijk blijven voor kwetsbare groepen, zoals statushouders.We kunnen beter meer sociale huurwoningen bouwen om de wachtlijsten korter te maken dan door voorrang te schrappen.Goede opvang en integratie van vluchtelingen helpt om overzicht en regie in de gemeente te houden.",
@@ -2634,6 +2808,18 @@
       "theme": "Energieneutraal bouwen",
       "themeId": "energieneutraal-bouwen",
       "title": "De gemeente moet verplichten dat nieuwe woningen energieneutraal worden gebouwd.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet verplichten dat nieuwe woningen "
+        },
+        {
+          "text": "energieneutraal",
+          "glossary": "Een energieneutrale gemeente wekt net zoveel schone energie op als alle inwoners en bedrijven samen verbruiken. Een gebouw of gebied kan ook energieneutraal zijn."
+        },
+        {
+          "text": " worden gebouwd."
+        }
+      ],
       "moreInfo": "Een energieneutrale woning wekt net zoveel energie op als zij gebruikt. Dit gebeurt bijvoorbeeld met goede isolatie, zonnepanelen en zuinige installaties. Nieuwe woningen moeten nu al voldoen aan landelijke regels voor energiezuinig bouwen. Gemeenten kunnen daarnaast extra eisen stellen aan nieuwbouw, bijvoorbeeld om woningen helemaal energieneutraal te maken.",
       "pro": "Energieneutrale woningen zorgen voor lagere energiekosten voor bewoners.Het helpt om duurzame energie te gebruiken en uitstoot van CO₂ te verminderen.Nieuwe woningen zijn zo klaar voor de toekomst.",
       "con": "Energieneutraal bouwen maakt woningen duurder. Strenge eisen kunnen zorgen voor minder en langzamere woningbouw. De gemeente moet bouwen eenvoudiger maken, niet extra regels opleggen.",
@@ -2647,6 +2833,18 @@
       "theme": "Cameratoezicht",
       "themeId": "cameratoezicht",
       "title": "In de gemeente Roosendaal moet meer cameratoezicht komen.",
+      "titleParts": [
+        {
+          "text": " In de gemeente Roosendaal moet meer "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Het houden van toezicht op of in een gebouw, gebied of (groepen) mensen met behulp van bewakingscamera's."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "Gemeenten mogen met camera’s toezicht houden om de openbare orde te handhaven. Vervolgens mag de politie de beelden bekijken en gebruiken. In Roosendaal heeft de burgemeester besloten om camera’s in de binnenstad te plaatsen. Dit is vooral bij uitgaansgebieden en op plekken met drugsoverlast.",
       "pro": "Cameratoezicht helpt bij het aanpakken van overlast en criminaliteit.Camera’s vergroten het gevoel van veiligheid.Beelden kunnen helpen bij het onderzoek van misdrijven.",
       "con": "Cameratoezicht raakt de privacy van inwoners.Camera’s lossen de oorzaken van overlast niet op. We moeten toezicht tijdelijk en zorgvuldig inzetten.",
@@ -2660,6 +2858,18 @@
       "theme": "Gesubsidieerde banen",
       "themeId": "gesubsidieerde-banen",
       "title": "Er moeten meer gesubsidieerde banen voor langdurig werklozen komen in onze gemeente.",
+      "titleParts": [
+        {
+          "text": " Er moeten meer gesubsidieerde banen voor "
+        },
+        {
+          "text": "langdurig werklozen",
+          "glossary": "Mensen die al lange tijd (langer dan een jaar) geen betaald werk hebben."
+        },
+        {
+          "text": " komen in onze gemeente."
+        }
+      ],
       "moreInfo": "Langdurig werklozen zijn mensen die al lange tijd geen betaald werk hebben. Gesubsidieerde banen zijn banen waarbij de gemeente een deel van het loon betaalt.",
       "pro": "Gesubsidieerde banen helpen mensen om weer aan het werk te komen.Het voorkomt dat mensen lang een uitkering nodig hebben.Werk zorgt voor meer structuur en zelfvertrouwen.",
       "con": "Gesubsidieerde banen kosten de gemeente veel geld. Mensen kunnen afhankelijk blijven van de overheid. Werk moet vooral komen via gewone banen bij werkgevers.",
@@ -2686,6 +2896,25 @@
       "theme": "Openbaar vervoer",
       "themeId": "openbaar-vervoer",
       "title": "De gemeente moet meer geld steken in openbaar vervoer op maat , bijvoorbeeld een belbus.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld steken in openbaar "
+        },
+        {
+          "text": "vervoer op maat",
+          "glossary": "Een vorm van openbaar vervoer die niet volgens een rooster rijdt, maar die je bijvoorbeeld kunt bellen om te komen."
+        },
+        {
+          "text": " , bijvoorbeeld een "
+        },
+        {
+          "text": "belbus",
+          "glossary": "Een bus die alleen rijdt als je hem van tevoren reserveert. De bus brengt je dan van deur tot deur."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "Openbaar vervoer op maat is vervoer dat alleen rijdt als iemand het nodig heeft. Een voorbeeld is een belbus of deeltaxi. De gemeente Roosendaal maakt deel uit van Deeltaxi West-Brabant. Dit vervoer is voor mensen die door een ziekte, beperking of ouderdom niet zelfstandig kunnen reizen of met het openbaar vervoer kunnen gaan.  De deeltaxi rijdt alleen op reservering en is bedoeld als aanvulling op bus en trein. En er is openbaar vervoer op maat voor iedereen via BravoFlex waarmee reizigers van een halte naar een grotere OV-overstaphalte worden vervoerd.",
       "pro": "Openbaar vervoer op maat zorgt ervoor dat iedereen mee kan doen in de samenleving.Het maakt dorpen beter bereikbaar.Het is een goede aanvulling op de bus en trein.",
       "con": "Openbaar vervoer op maat kost veel geld. Dit is meer een taak van de provincie. We kunnen het geld beter gebruiken voor beter bus- en treinvervoer.",
@@ -2712,6 +2941,25 @@
       "theme": "Locatie voor boa's",
       "themeId": "locatie-voor-boa-s",
       "title": "De gemeente moet een vaste locatie voor handhavers (boa's) openen in het centrum en bij het station.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet een vaste locatie voor "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "Mensen die voor de gemeente controleren of burgers en bedrijven zich aan de regels houden."
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "boa's",
+          "glossary": "Bijzondere Opsporings Ambtenaren. Ze kunnen boetes geven en hebben vaak de taak om toezicht te houden op straat."
+        },
+        {
+          "text": ") openen in het centrum en bij het station."
+        }
+      ],
       "moreInfo": "Handhavers (boa’s) houden toezicht en handhaven regels in de openbare ruimte. Ze spreken mensen aan bij overlast, controleren of ze de regels naleven en werken samen met de politie. De gemeenteraad van Roosendaal heeft op 16 mei 2024 besloten om handhaving tijdelijk te huisvesten aan de Laan van Brabant 60-64.",
       "pro": "Een vaste locatie maakt handhavers beter bereikbaar voor inwoners.Boa’s kunnen sneller en effectiever toezicht houden op drukke plaatsen.Zichtbare aanwezigheid van handhavers vergroot het veiligheidsgevoel.",
       "con": "Handhavers moeten vooral op straat aanwezig zijn.Een vaste locatie kost de gemeente extra geld. De inzet moet vooral gericht zijn op handhaving waar dat nodig is, niet op een vaste plek.",
@@ -2738,6 +2986,18 @@
       "theme": "Minder armoederegelingen",
       "themeId": "minder-armoederegelingen",
       "title": "Er moet één budget komen voor mensen met een laag inkomen die hulp nodig hebben.",
+      "titleParts": [
+        {
+          "text": " Er moet één "
+        },
+        {
+          "text": "budget",
+          "glossary": "Een hoeveelheid geld voor een bepaalde taak of opdracht."
+        },
+        {
+          "text": " komen voor mensen met een laag inkomen die hulp nodig hebben."
+        }
+      ],
       "moreInfo": "Mensen met een laag inkomen hebben soms moeite om hun rekeningen te betalen of om rond te komen. De gemeente Roosendaal heeft verschillende regelingen om deze mensen te helpen, zoals bijzondere bijstand of ondersteuning bij schulden. De gemeente kan ervoor kiezen om deze hulp samen te voegen in één budget.",
       "pro": "Eén budget is overzichtelijk en duidelijk.Met één budget komt de hulp sneller bij de juiste mensen.Vroege hulp kan schulden en grotere problemen voorkomen.",
       "con": "Maatwerk via meerdere regelingen werkt beter dan één budget.Er zijn al meerdere regelingen voor mensen met een laag inkomen. Extra hulp kan ervoor zorgen dat mensen afhankelijk blijven van steun.",

@@ -10584,9 +10584,7 @@
       "moreInfo": "During Keti Koti people commemorate that the Netherlands abolished slavery in Suriname and the Dutch Antilles on July 1, 1863. Keti Koti means \"broken chains.\" This refers to the shackles with which enslaved people were bound.",
       "pro": "Some parties believe celebrating Keti Koti is a recognition of the slavery past and is important for awareness. They also think Keti Koti should become a national holiday. By giving employees the day off on Keti Koti, Amsterdam sets a good example. A third reason is that giving the day off on Keti Koti shows that the municipality, as an employer, respects different cultures and backgrounds.",
       "con": "Other parties believe Keti Koti does not have to be a mandatory day off because people can always take a vacation day if they want to celebrate it. They also think a day off for all civil servants is too expensive for the municipality. A third argument is that Keti Koti is not an official national holiday in the Netherlands and therefore does not need to be a mandatory day off.",
-      "isShootout": false,
-      "titleEn": "The municipality should commemorate the abolition of slavery (Keti Koti) with a day off for its employees.",
-      "themeEn": "Keti Koti (Emancipation Day)"
+      "isShootout": false
     },
     {
       "id": 229574,
@@ -10594,12 +10592,29 @@
       "theme": "Tax on buildings",
       "themeId": "belasting-op-gebouwen",
       "title": "The property tax (onroerendezaakbelasting, OZB) should be reduced.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "onroerendezaakbelasting",
+          "glossary": "Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "ozb",
+          "glossary": "Property tax. Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": ") moet omlaag."
+        }
+      ],
       "moreInfo": "The property tax (ozb) is a municipal tax. This tax applies to buildings such as homes, commercial properties and shops. Homeowners pay this tax. For commercial properties the owners and sometimes the users pay. The level of the ozb is not the same in every municipality. The municipal council determines how much ozb people must pay. The council also decides what the municipality spends the ozb money on.",
       "pro": "Some parties believe living and doing business in Amsterdam will become too expensive if the property tax (OZB) is not lowered. They also think the municipality can spend less by working smarter and more efficiently without reducing services. Furthermore, they say the property tax has already risen significantly in recent years. Residents should not have to pay more.",
       "con": "Other parties believe the money from the property tax (OZB) is needed to carry out municipal tasks properly, such as building roads and amenities. They also say that mainly wealthier people benefit from a reduction in the OZB, while people with low incomes gain little. Finally, parties argue the OZB ensures people pay taxes fairly because those with more wealth also pay more.",
-      "isShootout": false,
-      "titleEn": "The property tax (onroerendezaakbelasting, OZB) should be reduced.",
-      "themeEn": "Tax on buildings"
+      "isShootout": false
     },
     {
       "id": 229607,
@@ -10607,12 +10622,22 @@
       "theme": "Sale of soft drugs",
       "themeId": "verkoop-softdrugs",
       "title": "Amsterdam should continue to allow coffeeshops to sell soft drugs to foreigners.",
+      "titleParts": [
+        {
+          "text": " Amsterdam moet "
+        },
+        {
+          "text": "coffeeshops",
+          "glossary": "Shop or café where you can buy and smoke soft drugs (hash, weed)."
+        },
+        {
+          "text": " blijven toestaan softdrugs te verkopen aan buitenlanders."
+        }
+      ],
       "moreInfo": "Coffeeshops may only sell soft drugs to people aged 18 and over. Customers must be able to show ID. A municipality can set rules so that coffeeshops sell only to people with a Dutch passport or ID card. Some municipalities have such a resident criterion: coffeeshops may sell only to people with a Dutch identity document. Amsterdam does not have that rule. Tourists and other foreigners may buy soft drugs in Amsterdam coffeeshops.",
       "pro": "A number of parties argue that a ban on coffeeshops selling soft drugs to foreigners leads to more street dealing and illegal sales. They also think such a ban increases crime and insecurity in the city. Finally, some parties believe excluding foreigners is discrimination based on nationality.",
       "con": "Other parties argue that a ban on coffeeshops selling soft drugs to foreigners reduces nuisance and improves livability for residents. They also think such a ban limits undesirable drug tourism. Finally, parties believe a ban helps shed Amsterdam's \"anything-goes\" image.",
-      "isShootout": false,
-      "titleEn": "Amsterdam should continue to allow coffeeshops to sell soft drugs to foreigners.",
-      "themeEn": "Sale of soft drugs"
+      "isShootout": false
     },
     {
       "id": 229601,
@@ -10623,9 +10648,7 @@
       "moreInfo": "Preschool is a place where children aged 2 to 4 attend a few half-days per week. Preschool gives extra attention to language, counting and interacting with other children. By playing and learning together, preschool prepares children for primary school. Parents or carers currently pay a contribution that depends on their income.",
       "pro": "Some parties state that preschool provides equal opportunities for children, regardless of their parents' income or background. They also consider preschool important for children’s language development and social skills. Parties call preschool an investment in the future of children and society.",
       "con": "A preschool for all children is unaffordable and would lead to high costs for the municipality, other parties say. They also say parents can contribute something, for example an amount depending on their income. Finally, parties find that targeted support for vulnerable families is sufficient.",
-      "isShootout": false,
-      "titleEn": "Preschool for children aged 2 to 4 should be free for all children.",
-      "themeEn": "Preschool"
+      "isShootout": false
     },
     {
       "id": 229589,
@@ -10633,12 +10656,22 @@
       "theme": "Events in parks",
       "themeId": "evenementen-in-parken",
       "title": "The municipality should allow fewer events in parks.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet minder "
+        },
+        {
+          "text": "evenementen",
+          "glossary": "A temporary, organized gathering. For example a street party, a flea market, or a music festival."
+        },
+        {
+          "text": " toestaan in parken."
+        }
+      ],
       "moreInfo": "Parks are popular places for events. In Amsterdam there are many large and small events in parks every year. These can be large festivals with fenced-off areas, or smaller neighborhood events open to everyone.",
       "pro": "Some parties believe parks should always remain accessible to residents and therefore should not be closed for events. They also think events in parks cause damage to grass and plants and affect animals. A third argument is that fewer events mean less nuisance and more peace for local residents.",
       "con": "Other parties believe events make Amsterdam vibrant and attractive for residents and visitors. They also state that events contribute to culture and encounters between people. Parties think nothing needs to change because there is currently a good balance between events and livability.",
-      "isShootout": false,
-      "titleEn": "The municipality should allow fewer events in parks.",
-      "themeEn": "Events in parks"
+      "isShootout": false
     },
     {
       "id": 229584,
@@ -10646,12 +10679,29 @@
       "theme": "Priority for refugees",
       "themeId": "voorrang-voor-vluchtelingen",
       "title": "The municipality must not give refugees with residence permits priority for social housing.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet vluchtelingen met een "
+        },
+        {
+          "text": "verblijfsvergunning",
+          "glossary": "The right to reside in the Netherlands. The term can refer to the right itself or to the card that shows someone has that right."
+        },
+        {
+          "text": " geen voorrang geven op een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "To get a social rental home you must be registered with the municipality. The longer you are registered, the greater your chance of getting a home. Some people need housing quickly, for example for health reasons; they are given priority. Municipalities make their own rules for this. Municipalities must help refugees with a residence permit find housing. In Amsterdam they do not automatically get priority for every house, but they are offered a home once. This can be a social rental home or temporary housing. If refugees with a residence permit refuse that offer, they go on the regular waiting list.",
       "pro": "A number of parties argue that Amsterdammers who have been waiting for housing for years deserve priority. They also think a priority scheme for refugees is unfair because there is already a housing shortage. A third argument from the parties is that residence permit holders should be responsible for finding housing themselves.",
       "con": "Other parties believe that status holders are vulnerable and have a right to protection and help finding housing. They also believe the real problem is not the refugees but the severe shortage of housing in the city. A third argument is that the municipality is obliged to offer status holders a home so space is freed up in asylum seekers' centers.",
-      "isShootout": false,
-      "titleEn": "The municipality must not give refugees with residence permits priority for social housing.",
-      "themeEn": "Priority for refugees"
+      "isShootout": false
     },
     {
       "id": 229612,
@@ -10659,12 +10709,22 @@
       "theme": "Allocation of social rental housing",
       "themeId": "toewijzen-sociale-huurwoningen",
       "title": "Half of the social housing units that become available should go to people who have lived continuously in Amsterdam for the past four years.",
+      "titleParts": [
+        {
+          "text": " De helft van de vrijkomende "
+        },
+        {
+          "text": "sociale huurwoningen",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " moet gaan naar mensen die de afgelopen 4 jaar onafgebroken in Amsterdam hebben gewoond."
+        }
+      ],
       "moreInfo": "To get a social rental home from a housing corporation you must be registered with WoningNet Amsterdam. The number of points in WoningNet and priority schemes determine how quickly you get a social rental home in Amsterdam. By law a municipality may give priority to people who have a local link to the municipality because they work or live there. That may apply to a maximum of 50% of the homes. There are already schemes for Amsterdammers with a local link, such as district priority and priority for young people from Amsterdam. Housing seekers only get emergency priority (urgency) if they have a link to the city of Amsterdam or the region.",
       "pro": "A number of parties find it important to reward people who have lived in the city for a long time. They also think this measure fosters stable communities in neighbourhoods. A third reason they mention is that it counters the displacement of long-term residents by newcomers.",
       "con": "Other parties argue that such a measure negatively affects newcomers, young people and vulnerable groups. They also believe housing is a basic right that should not depend on how long someone has lived somewhere. Finally, parties say this measure disadvantages key professions, such as healthcare workers, teachers and police officers.",
-      "isShootout": false,
-      "titleEn": "Half of the social housing units that become available should go to people who have lived continuously in Amsterdam for the past four years.",
-      "themeEn": "Allocation of social rental housing"
+      "isShootout": false
     },
     {
       "id": 229596,
@@ -10675,9 +10735,7 @@
       "moreInfo": "Membership of a football club in Amsterdam costs adults between €300 and €400. Members also have to buy sports clothing and shoes. There is currently no scheme in Amsterdam for low‑income adults with little savings where the municipality pays the membership in full. Such a scheme does exist for children aged 2–17 and at some sports clubs for Amsterdammers aged 55 and over with a City Pass. They can get reimbursement of the membership up to €350 per year.",
       "pro": "Some parties argue that sport promotes health and that healthcare costs will decrease if more people take up sports. They also say that a low income should not be a barrier to participating in sports or joining a sports club. A third reason is that sport creates social bonds and thus reduces loneliness.",
       "con": "Other parties consider such a scheme too expensive and argue the municipality would be better off lowering taxes. They also think the municipality could better invest in public sports facilities for everyone. A third reason mentioned is that there are already sufficient schemes for people on minimum incomes.",
-      "isShootout": false,
-      "titleEn": "The municipality should pay for sports club memberships for adults with low incomes.",
-      "themeEn": "Sports membership fees"
+      "isShootout": false
     },
     {
       "id": 229593,
@@ -10688,9 +10746,7 @@
       "moreInfo": "Amsterdam has about 265,000 on‑street parking spaces. These parking spaces together take up 11 percent of the city's area. On municipal land there are about 300,000 trees. The municipality can choose to plant more trees and plants in the city, for example in place of parking spaces. That would mean fewer cars could park on the streets.",
       "pro": "Some parties feel that accessibility for residents and businesses is very important and that there must be enough parking spaces for them. They also say the municipality should arrange sufficient parking elsewhere before existing parking spaces can be removed. A third reason they give is that greening neighborhoods requires bespoke solutions; they see removing parking as symbolic politics that does not offer a real solution.",
       "con": "Other parties find a green city and adapting to climate change more important than preserving parking spaces. They also say the city can manage with fewer cars, creating more space for greenery. Finally, some parties think the number of parking spaces can be reduced if people use public transport and shared mobility more often.",
-      "isShootout": false,
-      "titleEn": "Amsterdam should not remove parking spaces to make room for trees or plants.",
-      "themeEn": "Parking spaces"
+      "isShootout": false
     },
     {
       "id": 229628,
@@ -10701,9 +10757,7 @@
       "moreInfo": "The Transport Region Amsterdam sets fares for public transport tickets and subscriptions in the region. The Transport Region includes the municipality of Amsterdam together with 13 other municipalities. The municipality of Amsterdam has a lot of influence over public transport. If public transport were made free for Amsterdammers, the municipal transport company GVB would no longer receive money from a large share of the city's passengers. That would cost a lot. In 2024 GVB earned €351.6 million from sales of travel tickets to tourists, Amsterdammers and others.",
       "pro": "Some parties argue that free public transport for everyone ensures that people with little money can also use it. They also expect that free public transport will reduce the number of cars, which is good for the environment. In addition, they think free public transport improves the livability and safety of the city.",
       "con": "Other parties say free public transport for everyone is unaffordable for the municipality. They also point out that nothing is truly free because the taxpayer ultimately pays. Finally, parties believe targeted support for the poorest and low-income people works better.",
-      "isShootout": false,
-      "titleEn": "Bus, tram and metro transport should be free for all Amsterdam residents.",
-      "themeEn": "Free public transport"
+      "isShootout": false
     },
     {
       "id": 229585,
@@ -10711,12 +10765,22 @@
       "theme": "Language education for migrant workers",
       "themeId": "taalonderwijs-voor-arbeidsmigranten",
       "title": "The municipality should invest more money in Dutch lessons for migrant workers.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld steken in Nederlandse les voor "
+        },
+        {
+          "text": "arbeidsmigranten",
+          "glossary": "People from another country who work temporarily in the Netherlands."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "People from outside the European Union who come to live or work in the Netherlands must integrate. Dutch lessons are part of integration. Labor migrants from EU countries such as Poland, Romania and Bulgaria do not have to integrate; they are not required to learn Dutch. The municipality can promote or organize learning Dutch. Sometimes the municipality pays for it, sometimes the employer. Sometimes they do it together.",
       "pro": "Several parties argue that mastering the Dutch language enables labor migrants to participate better in society. Another argument is that learning Dutch protects people from exploitation because they better understand their rights. They also believe that knowing Dutch gives people better chances on the labor market.",
       "con": "Other parties argue that learning Dutch is the employer’s responsibility, not the municipality’s. They also think migrant workers themselves are responsible for learning Dutch. A third reason is that free options exist, such as apps, so the municipality does not need to contribute.",
-      "isShootout": false,
-      "titleEn": "The municipality should invest more money in Dutch lessons for migrant workers.",
-      "themeEn": "Language education for migrant workers"
+      "isShootout": false
     },
     {
       "id": 229625,
@@ -10724,12 +10788,29 @@
       "theme": "Work requirement for welfare recipients",
       "themeId": "tegenprestatie-voor-uitkering",
       "title": "People receiving social assistance should, in return, do socially useful work.",
+      "titleParts": [
+        {
+          "text": " Mensen die een "
+        },
+        {
+          "text": "bijstandsuitkering",
+          "glossary": "Money from the municipality for people who have no income or personal funds."
+        },
+        {
+          "text": " krijgen, moeten in ruil daarvoor "
+        },
+        {
+          "text": "maatschappelijk zinvol werk",
+          "glossary": "For example cleaning the streets or keeping company and supporting elderly residents."
+        },
+        {
+          "text": " doen."
+        }
+      ],
       "moreInfo": "People who have no work and no other benefit can apply to the municipality for social assistance. In some municipalities they are required to perform a counter-performance. They then do socially useful work for which they are not paid.",
       "pro": "Some parties say that mandatory socially useful work helps people participate in society. They also think it increases the chance of getting regular employment. A third argument is that the reciprocal obligation boosts self-worth and provides structure to life.",
       "con": "Other parties view a mandatory counter-performance as a form of forced labor. They also believe trust and support work better than coercion. A third argument is that the obligation to work causes stress and harms job-seeking efforts.",
-      "isShootout": false,
-      "titleEn": "People receiving social assistance should, in return, do socially useful work.",
-      "themeEn": "Work requirement for welfare recipients"
+      "isShootout": false
     },
     {
       "id": 229577,
@@ -10740,9 +10821,7 @@
       "moreInfo": "The municipality currently spends no money on attracting tourists. It does contribute to Amsterdam & Partners, which via IAmsterdam informs visitors about sights, museums, events and festivals.",
       "pro": "Some parties do not want the municipality to spend money on city marketing because too many tourists make Amsterdam a less pleasant place to live and work. Another argument is that municipal money should go to residents. They also think Amsterdam does not need promotion; tourists will come anyway.",
       "con": "Other parties think it benefits the economy if the municipality attracts the right groups of tourists and may spend money to do so. Parties believe attracting the right tourists can reduce nuisance. They also say Amsterdam should remain visible as a cultural city.",
-      "isShootout": false,
-      "titleEn": "The municipality should not spend money on attracting tourists.",
-      "themeEn": "City marketing"
+      "isShootout": false
     },
     {
       "id": 229633,
@@ -10753,9 +10832,7 @@
       "moreInfo": "The North/South Line is a metro connection running from Amsterdam‑Noord station through the centre to Zuid station. From there you can continue by train to Schiphol. If the North/South Line is extended to Schiphol, you could travel by metro from Zuid‑WTC to Schiphol without changing. Because the metro system is municipal, the municipality would also have to help pay for it.",
       "pro": "Several parties believe that extending the North–South line will improve accessibility to Schiphol, Amsterdam-Noord and the region. They also state this will reduce car traffic and thus is good for the environment. A third argument is that it will strengthen the regional economy.",
       "con": "Other parties think Schiphol should shrink and therefore no metro line should be built aimed at further growth of Schiphol. They also find extending the North–South line too expensive. A third reason given is that the metro is meant for Amsterdammers, not for tourists.",
-      "isShootout": false,
-      "titleEn": "The metro line from Amsterdam North to Zuid-WTC station should be extended to Schiphol.",
-      "themeEn": "North–South Line"
+      "isShootout": false
     },
     {
       "id": 229637,
@@ -10763,12 +10840,22 @@
       "theme": "Sex work",
       "themeId": "sekswerk",
       "title": "The municipality should ban window prostitution.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "raamprostitutie",
+          "glossary": "The sex worker rents a room with a large window facing the street, where they can display themselves to potential clients."
+        },
+        {
+          "text": " verbieden."
+        }
+      ],
       "moreInfo": "Window prostitution is a form of sex work in Amsterdam. Sex workers stand or sit behind a window in a building where people on the street can see them. Window prostitution is allowed in Amsterdam. It is only permitted in special areas, such as the Red Light District (De Wallen). The municipality may make rules to protect sex workers or reduce nuisance. It may also ban window prostitution.",
       "pro": "Several parties think that a ban on window prostitution provides better protection against exploitation and human trafficking. They also believe a ban helps increase public order and reduce crime. A third argument is that window prostitution leads to inhumane and degrading conditions.",
       "con": "Other parties believe a ban on window prostitution will push sex workers into illegal work, which is less safe. They also regard sex work as legal work entitled to rights and protection. A third reason is that such a ban violates sex workers’ freedom of choice.",
-      "isShootout": false,
-      "titleEn": "The municipality should ban window prostitution.",
-      "themeEn": "Sex work"
+      "isShootout": false
     },
     {
       "id": 229591,
@@ -10779,9 +10866,7 @@
       "moreInfo": "ARTIS is Amsterdam's zoo. It is an independent non‑profit organisation that earns money from ticket sales and events. People and companies also donate to ARTIS. The money goes among other things to maintenance of buildings, the greenery, the park and the animal enclosures. The municipality gives ARTIS an annual subsidy of €4.5 million, for example for school visits.",
       "pro": "Some parties feel it is not the municipality’s task to give money to a zoo. That money could be better spent on other things, such as healthcare and education. They also think Artis is responsible for its own income through ticket and catering sales. A third reason is that parties believe keeping animals locked up is outdated.",
       "con": "Other parties say Artis is important because children can learn there about animals, nature and the environment. Moreover, Artis contributes to protecting endangered species, parties say. They also think that without subsidies admission prices would likely rise, making the zoo less accessible to low-income people.",
-      "isShootout": false,
-      "titleEn": "The municipality should stop funding Artis.",
-      "themeEn": "Artis"
+      "isShootout": false
     },
     {
       "id": 229608,
@@ -10789,12 +10874,36 @@
       "theme": "Camera surveillance",
       "themeId": "cameratoezicht",
       "title": "Amsterdam should install more camera surveillance at underground waste containers where bulky waste is often dumped.",
+      "titleParts": [
+        {
+          "text": " In Amsterdam moet meer "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Monitoring of a building, area, or (groups of) people using security cameras."
+        },
+        {
+          "text": " komen bij ondergrondse "
+        },
+        {
+          "text": "afvalcontainers",
+          "glossary": "A municipal collection bin where nearby residents can dispose of their waste. A card is often needed to open it."
+        },
+        {
+          "text": " waar vaak "
+        },
+        {
+          "text": "grofvuil",
+          "glossary": "Waste that is larger than an ordinary trash bin, such as old furniture."
+        },
+        {
+          "text": " wordt gedumpt."
+        }
+      ],
       "moreInfo": "In Amsterdam it is forbidden to leave bulky waste on the street or by a waste container. Businesses are required to bring their bulky waste to a recycling centre and must pay for that. Residents can bring bulky waste to a disposal point themselves; that is free. In a number of neighbourhoods residents can arrange for collection of bulky waste by appointment. In the coming years this will apply to all of Amsterdam.",
       "pro": "Several parties argue that deploying cameras ensures that people who dump waste are tracked down more quickly, making enforcement more effective. They also think cameras lead to a cleaner city by their deterrent effect. Finally, they believe cameras will reduce nuisance for residents and thereby improve neighborhood livability.",
       "con": "Other parties find camera surveillance an intrusion on privacy and freedom of movement. Some parties also think it does not solve the root cause of fly-tipping. Several parties believe better enforcement and an effective collection service are smarter solutions.",
-      "isShootout": false,
-      "titleEn": "Amsterdam should install more camera surveillance at underground waste containers where bulky waste is often dumped.",
-      "themeEn": "Camera surveillance"
+      "isShootout": false
     },
     {
       "id": 229572,
@@ -10805,9 +10914,7 @@
       "moreInfo": "Amsterdam consists of seven districts and the Weesp city area. These districts have a district committee made up of people elected by local residents. They advise the district board and the city council. Districts may help decide on funding for the neighbourhood and on local activities, such as events. They may not decide policy for the whole city.",
       "pro": "Some parties find that the current system as it is costs too much money and wastes funds. They also argue that policy is fragmented and therefore not executed well. A third reason they give is that the boroughs now have almost no influence.",
       "con": "Other parties argue that city districts are close to residents and know local problems well. They also believe the district system strengthens local democracy because residents have more influence over their own neighborhood. A third argument is that abolishing the districts increases the distance between government and citizens, making residents feel less heard.",
-      "isShootout": false,
-      "titleEn": "The city districts have their own governance. The municipality should abolish that.",
-      "themeEn": "City districts"
+      "isShootout": false
     },
     {
       "id": 229595,
@@ -10815,12 +10922,22 @@
       "theme": "Wind turbines",
       "themeId": "windmolens",
       "title": "New wind turbines should only be allowed in the Western Harbour Area.",
+      "titleParts": [
+        {
+          "text": " Alleen in het Westelijk Havengebied mogen nieuwe "
+        },
+        {
+          "text": "windmolens",
+          "glossary": "These are modern wind turbines that convert wind power into electricity and can be up to 150 meters high."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "Amsterdam's port area has been designated as a search area for the installation of wind turbines. It concerns up to 25 large wind turbines of 150 to 200 metres in height. The province is responsible for the decision. Amsterdam and the province are researching other locations for wind turbines, such as Diemerscheg, Knooppunt Holendrecht or Weesperkarspel.",
       "pro": "Some parties say that nuisance and inconvenience for residents in residential areas are limited if wind turbines are placed only in the port area. They also think the port area has the most space for wind turbines. A third argument is that building in an industrial area protects nature and vulnerable birds.",
       "con": "Other parties think the municipality should also be open to other locations for wind turbines. Some parties believe there should be no onshore wind turbines at all because they harm people and animals. Finally, some argue wind turbines are inefficient and costly because they deliver little constant energy.",
-      "isShootout": false,
-      "titleEn": "New wind turbines should only be allowed in the Western Harbour Area.",
-      "themeEn": "Wind turbines"
+      "isShootout": false
     },
     {
       "id": 229602,
@@ -10831,9 +10948,7 @@
       "moreInfo": "Theatre De Meervaart is a large theatre and cultural centre in Amsterdam Nieuw‑West. The building is outdated. In 2024 the city council decided a new, larger theatre should be built. The site is close to the current theatre, on the shore of the Sloterplas and largely in the Sloterplas.",
       "pro": "Several parties find new construction for the Meervaart too expensive. They also think the existing theater can be renovated. A third argument is that new construction would come at the expense of the Sloterplas and the surrounding green area.",
       "con": "Other parties believe Nieuw-West deserves a proper cultural facility. They also think culture should be accessible in all neighborhoods. A third argument is that the current theater is too small for the great need for culture and meeting places in the area.",
-      "isShootout": false,
-      "titleEn": "The municipality should not spend money on new construction for Theater de Meervaart.",
-      "themeEn": "Meervaart"
+      "isShootout": false
     },
     {
       "id": 229623,
@@ -10841,12 +10956,22 @@
       "theme": "Healthcare costs",
       "themeId": "zorgkosten",
       "title": "The municipality should pay the health insurance deductible for people on minimum incomes.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet voor mensen met een "
+        },
+        {
+          "text": "minimuminkomen",
+          "glossary": "Maximum €1645 (gross) per month, for one person (single, aged 21 or older)."
+        },
+        {
+          "text": " het eigen risico bij de zorgverzekering betalen."
+        }
+      ],
       "moreInfo": "Having health insurance is mandatory. Every adult must take out a basic policy and pay the premium. People with low incomes can receive a healthcare allowance from the national government. For care covered by the basic insurance someone first pays a compulsory deductible, up to €385 per year. People who cannot afford these care costs can apply to the municipality for special assistance. In Amsterdam people with low incomes can take out a collective health insurance through the municipality, with the municipality co‑paying for the supplementary insurance.",
       "pro": "Several parties argue that the deductible is a reason not to use healthcare, even when it is needed. They also state that postponing care leads to larger problems and higher costs. A third reason is that health should not depend on someone’s wallet.",
       "con": "Other parties see this as a matter for the national government, not the municipality. They also think the municipality paying the deductible is not a structural solution. A third reason is that people are also personally responsible and the municipality does not have to pay for everything.",
-      "isShootout": false,
-      "titleEn": "The municipality should pay the health insurance deductible for people on minimum incomes.",
-      "themeEn": "Healthcare costs"
+      "isShootout": false
     },
     {
       "id": 229634,
@@ -10857,9 +10982,7 @@
       "moreInfo": "Amsterdam's inner city is a busy area with many residents, visitors, shops and businesses. In recent years measures have been taken to reduce nuisance from car traffic. Because of the zero‑emission zone, trucks and company vans that emit the most pollutants may no longer enter the inner city. In addition the speed limit has been lowered and there are fewer parking spaces.",
       "pro": "Some parties believe it is necessary that people with disabilities, the elderly and informal caregivers can continue to reach the city center by car. Another reason is that car accessibility is important for residents and businesses in the center. A third argument is that emergency services and suppliers must be able to continue doing their jobs properly and should not face too many restrictions.",
       "con": "Other parties believe cars and freight traffic cause pollution and unhealthy air in the city. They also argue there are sufficient alternatives to cars, such as public transport and bicycles. Finally, they say cars take up a lot of space.",
-      "isShootout": false,
-      "titleEn": "The city centre must remain easily accessible by car.",
-      "themeEn": "City center accessibility"
+      "isShootout": false
     },
     {
       "id": 229615,
@@ -10870,9 +10993,7 @@
       "moreInfo": "In Amsterdam thousands of rooms and homes are rented out for short holidays. The municipality has rules for this. Amsterdammers may currently rent out their home for a maximum of 30 nights per year. From April 2026 Amsterdammers in certain central neighbourhoods may rent out their home for a maximum of 15 days.",
       "pro": "Several parties state that homes are meant for residents, not for tourists. They also find that holiday rentals cause nuisance and make Amsterdam a less pleasant place to live. A third reason they give is that rental to tourists makes housing even more expensive.",
       "con": "Other parties think it is better to set rules for rentals than to ban them entirely. They also believe people should be free to decide what to do with their homes and that property rights should be protected. Another reason mentioned is that holiday rentals are good for the economy and local hospitality sector.",
-      "isShootout": false,
-      "titleEn": "The municipality should completely ban vacation rentals of homes in the city center.",
-      "themeEn": "Vacation rentals"
+      "isShootout": false
     },
     {
       "id": 229576,
@@ -10883,9 +11004,7 @@
       "moreInfo": "In Amsterdam most snack bars and restaurants may now stay open until 3:00 a.m. In 2025 a new plan was made for the opening hours of cafés, restaurants and clubs. This plan states that snack bars and restaurants must in future close at 2:00 a.m. Existing snack bars and restaurants have until 2029 to adapt to this new closing time.",
       "pro": "Some parties believe Amsterdam is a world city that deserves a vibrant nightlife and that this requires generous opening hours. They also think longer opening hours will increase turnover for hospitality businesses and create more jobs. Several parties feel the government should give entrepreneurs more freedom and that rules on closing times do not fit with that.",
       "con": "Other parties believe earlier closing times reduce nuisance and improve livability. They also state residents have a right to sleep and the municipality should protect that. Finally, some argue a good nightlife is possible with snack bars closing at 2 a.m.",
-      "isShootout": false,
-      "titleEn": "The municipality should allow snack bars and restaurants to stay open until 3 a.m. on weekends.",
-      "themeEn": "Extended opening hours"
+      "isShootout": false
     },
     {
       "id": 229622,
@@ -10896,9 +11015,7 @@
       "moreInfo": "In 2025 nearly 14,000 people in Amsterdam‑Amstelland were homeless or insecurely housed. They did not all sleep outside, but also on family or friends' couches, in cars or on campsites. Depending on what you count, the number of shelter places is between 600 and 2,000.",
       "pro": "Some parties believe everyone has the right to safe shelter. They also think too few shelter places lead to distressing situations. A third reason is that good shelter reduces street nuisance and crime.",
       "con": "One party believes extra sleeping places do not solve the structural problems of homeless people. Another party argues more shelters attract nuisance and make neighborhoods less pleasant to live in. A further argument is that shelter is not the government’s task but should be arranged by private parties.",
-      "isShootout": false,
-      "titleEn": "Many more places should be provided where homeless people can sleep indoors.",
-      "themeEn": "Shelter for homeless people"
+      "isShootout": false
     },
     {
       "id": 229605,
@@ -10909,9 +11026,7 @@
       "moreInfo": "Shouting, hissing and insulting people on the street is punishable if it is threatening. The municipality itself cannot issue fines for this behaviour; the police do. Plainclothes officers attract less attention than officers in uniform.",
       "pro": "Several parties argue that deploying plainclothes officers increases the chance of catching offenders and helps enforce laws against street intimidation, because perpetrators are caught more quickly. They also believe it improves safety for women and vulnerable groups. A third argument is that street intimidation must be tackled because it makes people feel less free in the city.",
       "con": "Other parties think police priority should be tackling serious crime. They also believe it’s better to focus on prevention, education and cultural change to prevent street intimidation. A third reason is that deploying plainclothes officers can increase distrust of the police and government.",
-      "isShootout": false,
-      "titleEn": "The municipality should ask the police to deploy more plainclothes officers to fine people who shout at, hiss at, or insult others.",
-      "themeEn": "Street harassment"
+      "isShootout": false
     },
     {
       "id": 229611,
@@ -10919,12 +11034,29 @@
       "theme": "Sale of social housing",
       "themeId": "verkoop-sociale-huurwoning",
       "title": "The municipality should ask housing corporations not to sell social housing.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "woningcorporaties",
+          "glossary": "Non-profit organizations focused on building, managing and renting affordable housing."
+        },
+        {
+          "text": " vragen geen "
+        },
+        {
+          "text": "sociale huurwoningen",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " te verkopen."
+        }
+      ],
       "moreInfo": "Housing corporations own about 179,000 social rental homes in Amsterdam. Sometimes they sell homes to raise money to maintain other homes, make them more sustainable and build new homes. The municipality itself does not own social rental homes but makes agreements with corporations about building and offering affordable rental housing. Sales of homes by housing corporations can lead to fewer social rental homes if the corporation does not build replacements.",
       "pro": "Several parties state there is a large shortage of social rental homes and that selling them does not fit. They also argue that sold homes permanently disappear from the social housing stock. Finally, they say sales increase inequality and harm vulnerable groups.",
       "con": "Other parties state that housing corporations fund new-build homes with proceeds from the sale of social rental homes. They also argue that sales enable the sustainability upgrades of existing homes. A third argument is that selling homes creates mixed neighborhoods.",
-      "isShootout": false,
-      "titleEn": "The municipality should ask housing corporations not to sell social housing.",
-      "themeEn": "Sale of social housing"
+      "isShootout": false
     },
     {
       "id": 229636,
@@ -10932,12 +11064,22 @@
       "theme": "Car speeds",
       "themeId": "snelheid-auto-s",
       "title": "On all roads with separate bicycle lanes the speed limit should be 50 km/h.",
+      "titleParts": [
+        {
+          "text": " Op alle wegen met aparte fietspaden moet de "
+        },
+        {
+          "text": "maximumsnelheid",
+          "glossary": "The maximum speed that cars and motorcycles are allowed to drive on the road."
+        },
+        {
+          "text": " 50 km/u zijn."
+        }
+      ],
       "moreInfo": "On most roads in Amsterdam a 30 km/h speed limit has applied since 2024. Safety is the main reason. Not all 30 km roads are the same: on some the cycle path is separated from the carriageway. Different rules might be possible there.",
       "pro": "Several parties argue that 50 km/h on roads suitable for it is good for traffic flow. They also think it provides logical traffic rules. They believe that separate bicycle paths, in particular, increase safety.",
       "con": "Other parties argue 30 km/h is safer for cyclists and pedestrians. They also believe road safety and livability are more important than speed and accessibility. A final reason is that a 30 km/h limit is better for the environment.",
-      "isShootout": false,
-      "titleEn": "On all roads with separate bicycle lanes the speed limit should be 50 km/h.",
-      "themeEn": "Car speeds"
+      "isShootout": false
     },
     {
       "id": 229643,
@@ -10948,9 +11090,7 @@
       "moreInfo": "Providing breakfast at primary schools is a national scheme. Schools with at least 30 percent of pupils from low‑income families can receive funding for meals. That money comes from the national government. 175 schools in Amsterdam make use of it. The municipality can ensure the school breakfast is also introduced at schools with fewer children from low‑income families, but the municipality would have to pay for that.",
       "pro": "Several parties state that children concentrate better and learn better with a full stomach. A second argument is that a school breakfast makes a child’s performance less dependent on parents’ income or the home situation. They also hold that no child should go hungry because of poverty and that a meal at school is therefore important.",
       "con": "Other parties think breakfast is primarily the responsibility of parents, not the government. They also find a universal school breakfast unaffordable. Finally, they argue it is better to provide targeted help than to offer something to everyone that not everyone needs.",
-      "isShootout": false,
-      "titleEn": "The municipality should provide a school breakfast at all primary schools.",
-      "themeEn": "School breakfast"
+      "isShootout": false
     },
     {
       "id": 229598,
@@ -10961,9 +11101,7 @@
       "moreInfo": "Top‑level sporting events are large, professional competitions or tournaments where the world's best athletes compete. To host such an event a city or country usually has to pay money to a sports federation. There are also costs for security, organisation and possibly sports venues.",
       "pro": "Several parties believe top sports events are good for the city’s economy. They also think elite sport inspires people to exercise more. A third argument is that these events increase Amsterdam’s visibility abroad.",
       "con": "Other parties think the municipality should spend its money on sport for everyone, such as neighborhood sports and street and park facilities. They also find such events expensive and low-yield. A third argument is that the events cause crowding in the city and on the roads.",
-      "isShootout": false,
-      "titleEn": "The municipality should invest more money in attracting top sports events.",
-      "themeEn": "Top-level sports events"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

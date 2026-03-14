@@ -1537,6 +1537,18 @@
       "theme": "Snelheid auto's",
       "themeId": "snelheid-auto-s",
       "title": "De maximumsnelheid moet in alle wijken en buurten naar 30 km/u.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "maximumsnelheid",
+          "glossary": "De hoogste snelheid die auto's en motoren mogen rijden op straat."
+        },
+        {
+          "text": " moet in alle wijken en buurten naar 30 km/u."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1563,6 +1575,18 @@
       "theme": "Gemeentefusie",
       "themeId": "gemeentefusie",
       "title": "De gemeente Beuningen moet fuseren met een van de buurgemeenten.",
+      "titleParts": [
+        {
+          "text": " De gemeente Beuningen moet "
+        },
+        {
+          "text": "fuseren",
+          "glossary": "Het samengaan van twee of meer gemeenten."
+        },
+        {
+          "text": " met een van de buurgemeenten."
+        }
+      ],
       "moreInfo": "Fuseren betekent in dit geval dat de gemeente Beuningen samengaat met een andere gemeente tot één nieuwe, grotere gemeente met één bestuur, begroting en beleid.",
       "pro": "",
       "con": "",
@@ -1589,6 +1613,18 @@
       "theme": "Warmtenet",
       "themeId": "warmtenet",
       "title": "Alle dorpen in de gemeente Beuningen moeten zoveel mogelijk overstappen op het warmtenet als alternatief voor aardgas.",
+      "titleParts": [
+        {
+          "text": " Alle dorpen in de gemeente Beuningen moeten zoveel mogelijk overstappen op het "
+        },
+        {
+          "text": "warmtenet",
+          "glossary": "Netwerk van ondergrondse leidingen dat warm water van een centrale bron naar woningen en gebouwen brengt, zowel voor verwarming als warm water uit de kraan."
+        },
+        {
+          "text": " als alternatief voor aardgas."
+        }
+      ],
       "moreInfo": "Een warmtenet is een ondergronds buizennetwerk dat warm water transporteert van een centrale bron naar woningen en gebouwen. Het levert verwarming en warm water. Dit is een alternatief voor cv-ketels op gas.",
       "pro": "",
       "con": "",
@@ -1615,6 +1651,18 @@
       "theme": "Energiebesparing",
       "themeId": "energiebesparing",
       "title": "De huishoudens met de laagste inkomens moeten van de gemeente gratis isolatiematerialen krijgen om te besparen op energie.",
+      "titleParts": [
+        {
+          "text": " De huishoudens met de laagste inkomens moeten van de gemeente gratis "
+        },
+        {
+          "text": "isolatiematerialen",
+          "glossary": "Materiaal in daken, muren en vloeren dat warmte tegenhoudt of vasthoudt. In de winter houdt het warmte binnen en in de zomer buiten."
+        },
+        {
+          "text": " krijgen om te besparen op energie."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1654,6 +1702,18 @@
       "theme": "Bibliotheek op school",
       "themeId": "bibliotheek-op-school",
       "title": "De gemeente moet elke basisschool financieel helpen om een eigen bibliotheek samen te stellen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet elke basisschool "
+        },
+        {
+          "text": "financieel",
+          "glossary": "Iets dat met geld te maken heeft."
+        },
+        {
+          "text": " helpen om een eigen bibliotheek samen te stellen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1667,6 +1727,25 @@
       "theme": "Startende ondernemers",
       "themeId": "startende-ondernemers",
       "title": "Startende ondernemers hoeven de eerste 2 jaar geen onroerendezaakbelasting (ozb) te betalen.",
+      "titleParts": [
+        {
+          "text": " Startende ondernemers hoeven de eerste 2 jaar geen "
+        },
+        {
+          "text": "onroerendezaakbelasting",
+          "glossary": "Belasting die je betaalt als eigenaar van een gebouw of stuk grond, of gebruiker van een bedrijfspand."
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "ozb",
+          "glossary": "Onroerendezaakbelasting. Belasting die je betaalt als eigenaar van een gebouw of stuk grond, of gebruiker van een bedrijfspand."
+        },
+        {
+          "text": ") te betalen."
+        }
+      ],
       "moreInfo": "Onroerende zaakbelasting is een lokale belasting in Nederland die je betaalt aan de gemeente als je eigenaar bent van een huis, een bedrijfspand of een stuk grond.",
       "pro": "",
       "con": "",
@@ -1693,6 +1772,18 @@
       "theme": "Gras",
       "themeId": "gras",
       "title": "Op openbare plekken in de gemeente Beuningen moet het gras worden vervangen door bloemen en andere planten om de biodiversiteit te verbeteren.",
+      "titleParts": [
+        {
+          "text": " Op openbare plekken in de gemeente Beuningen moet het gras worden vervangen door bloemen en andere planten om de "
+        },
+        {
+          "text": "biodiversiteit",
+          "glossary": "Er leven veel verschillende soorten planten, dieren en schimmels op aarde. Soorten hebben elkaar nodig om de natuur gezond te houden. Meer biodiversiteit betekent dat er meer soorten planten en dieren zijn."
+        },
+        {
+          "text": " te verbeteren."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1706,6 +1797,18 @@
       "theme": "Handhavers",
       "themeId": "handhavers",
       "title": "In de gemeente Beuningen moeten meer gemeentelijke handhavers (boa’s) komen. Het zijn er nu 3.",
+      "titleParts": [
+        {
+          "text": " In de gemeente Beuningen moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "Mensen die voor de gemeente controleren of burgers en bedrijven zich aan de regels houden."
+        },
+        {
+          "text": " (boa’s) komen. Het zijn er nu 3."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1719,6 +1822,18 @@
       "theme": "Schuldhulpverlening",
       "themeId": "schuldhulpverlening",
       "title": "De gemeente moet schulden opkopen of kwijtschelden van mensen met een laag inkomen die grote financiële problemen hebben.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet schulden opkopen of "
+        },
+        {
+          "text": "kwijtschelden",
+          "glossary": "Dat mensen iets niet meer hoeven te betalen."
+        },
+        {
+          "text": " van mensen met een laag inkomen die grote financiële problemen hebben."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1745,6 +1860,25 @@
       "theme": "Duurzame bedrijven",
       "themeId": "duurzame-bedrijven",
       "title": "Alleen bedrijven die duurzaam werken mogen zich voortaan in onze gemeente vestigen.",
+      "titleParts": [
+        {
+          "text": " Alleen bedrijven die "
+        },
+        {
+          "text": "duurzaam",
+          "glossary": "Iets wat je lang kunt (her)gebruiken."
+        },
+        {
+          "text": " werken mogen zich voortaan in onze gemeente "
+        },
+        {
+          "text": "vestigen",
+          "glossary": "Bouwen, ergens neerzetten (een gebouw, organisatie of huishouden)."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1758,6 +1892,18 @@
       "theme": "Cameratoezicht",
       "themeId": "cameratoezicht",
       "title": "In het centrum van Beuningen moet cameratoezicht komen.",
+      "titleParts": [
+        {
+          "text": " In het centrum van Beuningen moet "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Het houden van toezicht op of in een gebouw, gebied of (groepen) mensen met behulp van bewakingscamera's."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1784,6 +1930,18 @@
       "theme": "Voorrang huisvesting",
       "themeId": "voorrang-huisvesting",
       "title": "Bij de toewijzing van een sociale huurwoning moeten jonge woningzoekenden uit de eigen gemeente voorrang krijgen.",
+      "titleParts": [
+        {
+          "text": " Bij de toewijzing van een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur (in 2026 is dat een bedrag van ten hoogste € 932,93 per maand) voor mensen met een laag inkomen."
+        },
+        {
+          "text": " moeten jonge woningzoekenden uit de eigen gemeente voorrang krijgen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1836,6 +1994,18 @@
       "theme": "Perspectief",
       "themeId": "perspectief",
       "title": "De gemeente moet welzijnsorganisatie Perspectief een hogere vaste, jaarlijks terugkerende subsidie geven.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet welzijnsorganisatie Perspectief een hogere vaste, jaarlijks terugkerende "
+        },
+        {
+          "text": "subsidie",
+          "glossary": "Geld dat de overheid aan burgers, bedrijven en organisaties geeft om ze te steunen."
+        },
+        {
+          "text": " geven."
+        }
+      ],
       "moreInfo": "Perspectief is binnen de gemeente Beuningen de organisatie die zich inzet voor het welzijn van alle inwoners van Beuningen. Dit doen zij onder andere door het organiseren van activiteiten voor jong en oud.",
       "pro": "",
       "con": "",
@@ -1875,6 +2045,18 @@
       "theme": "Ontmoetingsplek",
       "themeId": "ontmoetingsplek",
       "title": "Jongeren moeten in elke kern van de gemeente Beuningen een eigen ontmoetingsplek hebben.",
+      "titleParts": [
+        {
+          "text": " Jongeren moeten in elke "
+        },
+        {
+          "text": "kern",
+          "glossary": "Een dorp of stadje dat onderdeel is van de gemeente."
+        },
+        {
+          "text": " van de gemeente Beuningen een eigen ontmoetingsplek hebben."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1914,6 +2096,25 @@
       "theme": "Buitengebieden",
       "themeId": "buitengebieden",
       "title": "Bezoekers en organisatoren van evenementen in de buitengebieden moeten gaan meebetalen aan het behoud van de natuur in die gebieden.",
+      "titleParts": [
+        {
+          "text": " Bezoekers en organisatoren van "
+        },
+        {
+          "text": "evenementen",
+          "glossary": "Een tijdelijke, georganiseerde bijeenkomst. Bijvoorbeeld een straatfeest, een rommelmarkt of een muziekfestival."
+        },
+        {
+          "text": " in de "
+        },
+        {
+          "text": "buitengebied",
+          "glossary": "Gebied binnen de grenzen van de gemeente maar buiten de steden of dorpen zelf, hier staan weinig huizen en andere gebouwen."
+        },
+        {
+          "text": "en moeten gaan meebetalen aan het behoud van de natuur in die gebieden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",

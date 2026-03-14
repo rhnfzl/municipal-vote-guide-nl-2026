@@ -47,6 +47,39 @@ function getPlainText(title: unknown): string {
   return String(title || "");
 }
 
+/**
+ * Extract title parts with glossary tooltips from structured title arrays.
+ * Returns null if no glossary terms exist (plain string title).
+ */
+function getTitleParts(
+  title: unknown
+): Array<{ text: string; glossary?: string }> | null {
+  if (!Array.isArray(title)) return null;
+
+  const parts: Array<{ text: string; glossary?: string }> = [];
+  let hasGlossary = false;
+
+  for (const part of title) {
+    if (typeof part === "string") {
+      parts.push({ text: part });
+    } else if (
+      typeof part === "object" &&
+      part !== null &&
+      "text" in part
+    ) {
+      const obj = part as { text: string; information?: string };
+      if (obj.information) {
+        hasGlossary = true;
+        parts.push({ text: obj.text, glossary: obj.information });
+      } else {
+        parts.push({ text: obj.text });
+      }
+    }
+  }
+
+  return hasGlossary ? parts : null;
+}
+
 function slugify(name: string): string {
   return name
     .toLowerCase()
@@ -74,12 +107,14 @@ function processMunicipality(
     .filter((s) => !(s.isShootout as boolean))
     .map((s) => {
       const moreInfo = (s.moreInfo as Record<string, string>) || {};
+      const titleParts = getTitleParts(s.title);
       return {
         id: s.id as number,
         index: s.index as number,
         theme: (s.theme as string) || "",
         themeId: (s.themeId as string) || "",
         title: getPlainText(s.title),
+        ...(titleParts ? { titleParts } : {}),
         moreInfo: stripHtml(moreInfo.text),
         pro: stripHtml(moreInfo.pro),
         con: stripHtml(moreInfo.con),

@@ -944,9 +944,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The tax for people with a second home in Coevorden should be increased.",
-      "themeEn": "Commuter tax"
+      "isShootout": false
     },
     {
       "id": 229869,
@@ -954,12 +952,22 @@
       "theme": "Asylum seekers",
       "themeId": "asielzoekers",
       "title": "No more than 450 people should ever be accommodated in the asylum seekers' center (AZC).",
+      "titleParts": [
+        {
+          "text": " In het "
+        },
+        {
+          "text": "asielzoekerscentrum",
+          "glossary": "Reception center for asylum seekers. They live there until it is decided whether they may stay in the Netherlands. An asylum seekers’ center remains in a municipality for a long time."
+        },
+        {
+          "text": " (azc) mogen nooit meer dan 450 mensen worden opgevangen."
+        }
+      ],
       "moreInfo": "Until June last year, the asylum seekers’ centre (azc) in Aalden housed 500 people. The municipality had temporarily given permission for this. This number was lowered to 450 by a decision of the municipal council. There is a large shortage of accommodation places for asylum seekers throughout the Netherlands.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "No more than 450 people should ever be accommodated in the asylum seekers' center (AZC).",
-      "themeEn": "Asylum seekers"
+      "isShootout": false
     },
     {
       "id": 229854,
@@ -967,12 +975,22 @@
       "theme": "Respite care",
       "themeId": "respijtzorg",
       "title": "The municipality should invest more in places where people who are cared for at home by informal carers can stay temporarily.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld steken in plekken waar mensen die thuis worden verzorgd door "
+        },
+        {
+          "text": "mantelzorgers",
+          "glossary": "Someone who provides unpaid and often long-term care for sick family members or friends."
+        },
+        {
+          "text": " tijdelijk kunnen logeren."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should invest more in places where people who are cared for at home by informal carers can stay temporarily.",
-      "themeEn": "Respite care"
+      "isShootout": false
     },
     {
       "id": 229842,
@@ -980,12 +998,22 @@
       "theme": "Agricultural pesticides",
       "themeId": "landbouwgif",
       "title": "The municipality should ban the use of agricultural pesticides in lily cultivation around schools, homes and sports fields.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet het gebruik van landbouwgif in de "
+        },
+        {
+          "text": "lelieteelt",
+          "glossary": "Growing lilies on agricultural land."
+        },
+        {
+          "text": " verbieden rond scholen, woningen en sportvelden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should ban the use of agricultural pesticides in lily cultivation around schools, homes and sports fields.",
-      "themeEn": "Agricultural pesticides"
+      "isShootout": false
     },
     {
       "id": 229813,
@@ -993,12 +1021,29 @@
       "theme": "Tax on buildings",
       "themeId": "belasting-op-gebouwen",
       "title": "Property tax (ozb) must not be increased.",
+      "titleParts": [
+        {
+          "text": " De "
+        },
+        {
+          "text": "onroerendezaakbelasting",
+          "glossary": "Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "ozb",
+          "glossary": "Property tax. Tax you pay as the owner of a building or piece of land, or as the user of a commercial property."
+        },
+        {
+          "text": ") mag niet omhoog."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Property tax (ozb) must not be increased.",
-      "themeEn": "Tax on buildings"
+      "isShootout": false
     },
     {
       "id": 229837,
@@ -1009,9 +1054,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should limit the number of days people are allowed to rent out their homes.",
-      "themeEn": "Holiday homes"
+      "isShootout": false
     },
     {
       "id": 229820,
@@ -1022,9 +1065,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should ban solar panels on agricultural land.",
-      "themeEn": "Solar panels on farmland"
+      "isShootout": false
     },
     {
       "id": 229870,
@@ -1035,9 +1076,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should give more money to Theater Hofpoort in Coevorden.",
-      "themeEn": "Hofpoort Theatre"
+      "isShootout": false
     },
     {
       "id": 229850,
@@ -1048,9 +1087,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality does not need to provide extra parking spaces for new housing.",
-      "themeEn": "Parking spots"
+      "isShootout": false
     },
     {
       "id": 229865,
@@ -1061,9 +1098,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Coevorden should get a digital citizens' panel where residents can give their opinions on important issues.",
-      "themeEn": "Citizen panel"
+      "isShootout": false
     },
     {
       "id": 229824,
@@ -1071,12 +1106,22 @@
       "theme": "Enforcement officers",
       "themeId": "handhavers",
       "title": "Coevorden should have more municipal enforcement officers (BOAs) who focus on safety.",
+      "titleParts": [
+        {
+          "text": " In Coevorden moeten meer gemeentelijke "
+        },
+        {
+          "text": "handhavers",
+          "glossary": "People who, for the municipality, check whether citizens and businesses comply with the rules."
+        },
+        {
+          "text": " (boa’s) komen die zich met veiligheid bezighouden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Coevorden should have more municipal enforcement officers (BOAs) who focus on safety.",
-      "themeEn": "Enforcement officers"
+      "isShootout": false
     },
     {
       "id": 229839,
@@ -1087,9 +1132,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Each village may decide for itself whether it wants to grow with new homes. The municipality will discuss this with residents.",
-      "themeEn": "Village growth"
+      "isShootout": false
     },
     {
       "id": 229856,
@@ -1100,9 +1143,7 @@
       "moreInfo": "A youth counselor helps children, young people and families with problems. Youth counselors are employed by the municipality. They help with, for example, parenting problems or psychological complaints. They can also help with high-conflict divorces or domestic violence. In addition, they assist with learning problems at school or truancy.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Every school should have youth counselors who help children and parents with problems.",
-      "themeEn": "Youth care"
+      "isShootout": false
     },
     {
       "id": 229848,
@@ -1113,9 +1154,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Low-income people should be able to ride the bus for free. The municipality should pay for that.",
-      "themeEn": "Free public transport"
+      "isShootout": false
     },
     {
       "id": 229871,
@@ -1126,9 +1165,7 @@
       "moreInfo": "In 2023 the municipal council decided that the secondary school De Nieuwe Veste will get a new school building. The new building is to be located behind the train station in Coevorden, on the Holwert-Midden business park. For that the municipality must buy parcels of land, but one entrepreneur does not want to sell his land. That is why there is still a lawsuit.",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality should look for another location for the new school building of De Nieuwe Veste.",
-      "themeEn": "Nieuwe Veste Secondary School"
+      "isShootout": false
     },
     {
       "id": 229829,
@@ -1139,9 +1176,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "There should be more parking spaces in the city center of Coevorden.",
-      "themeEn": "Parking spaces"
+      "isShootout": false
     },
     {
       "id": 229826,
@@ -1149,12 +1184,29 @@
       "theme": "Social housing",
       "themeId": "sociale-huurwoningen",
       "title": "At least 30% of the newly built homes in Coevorden must be social housing. In Coevorden, 23% of all homes are currently social housing.",
+      "titleParts": [
+        {
+          "text": " Van de nieuw te bouwen woningen in Coevorden moet minimaal 30% een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": " zijn. In Coevorden is nu 23% van alle woningen een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "At least 30% of the newly built homes in Coevorden must be social housing. In Coevorden, 23% of all homes are currently social housing.",
-      "themeEn": "Social housing"
+      "isShootout": false
     },
     {
       "id": 229845,
@@ -1165,9 +1217,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "If a wolf causes problems, the municipality must urge the province to have it shot.",
-      "themeEn": "Wolves"
+      "isShootout": false
     },
     {
       "id": 229853,
@@ -1178,9 +1228,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must give businesses money to make their shop entrances wheelchair accessible.",
-      "themeEn": "Wheelchair accessible"
+      "isShootout": false
     },
     {
       "id": 229821,
@@ -1191,9 +1239,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "It should be possible for farmers to build houses themselves on their land.",
-      "themeEn": "Building on agricultural land"
+      "isShootout": false
     },
     {
       "id": 229859,
@@ -1204,9 +1250,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must pay veterinary costs for people with low incomes who have a pet.",
-      "themeEn": "Veterinary costs"
+      "isShootout": false
     },
     {
       "id": 229873,
@@ -1217,9 +1261,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "If a sports field disappears, the municipality must designate another location for a new sports field.",
-      "themeEn": "Sports fields"
+      "isShootout": false
     },
     {
       "id": 229832,
@@ -1227,12 +1269,29 @@
       "theme": "Public transport",
       "themeId": "openbaar-vervoer",
       "title": "The municipality must invest in tailored transport between villages, for example a community bus.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld steken in "
+        },
+        {
+          "text": "vervoer op maat",
+          "glossary": "A type of public transport that doesn't run on a fixed schedule but can be called to pick you up."
+        },
+        {
+          "text": " tussen de dorpen, bijvoorbeeld een "
+        },
+        {
+          "text": "buurtbus",
+          "glossary": "A small bus that runs in villages or neighbourhoods with little public transport."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must invest in tailored transport between villages, for example a community bus.",
-      "themeEn": "Public transport"
+      "isShootout": false
     },
     {
       "id": 229855,
@@ -1243,9 +1302,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must use technology to help elderly people with care needs live at home, such as remote care via a screen.",
-      "themeEn": "Technology in healthcare"
+      "isShootout": false
     },
     {
       "id": 229861,
@@ -1253,12 +1310,22 @@
       "theme": "People with disabilities",
       "themeId": "mensen-met-een-beperking",
       "title": "The municipality must employ more people with disabilities.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer mensen met een "
+        },
+        {
+          "text": "beperking",
+          "glossary": "Something that limits you in daily life. A disability can be physical or intellectual or relate to hearing or sight, or combinations of these."
+        },
+        {
+          "text": " in dienst nemen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must employ more people with disabilities.",
-      "themeEn": "People with disabilities"
+      "isShootout": false
     },
     {
       "id": 229868,
@@ -1266,12 +1333,29 @@
       "theme": "Refugees with residence status",
       "themeId": "vluchtelingen-met-verbijfsstatus",
       "title": "The municipality must not give refugees with residence permits priority for social housing.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet vluchtelingen met een "
+        },
+        {
+          "text": "verblijfsvergunning",
+          "glossary": "The right to reside in the Netherlands. The term can refer to the right itself or to the card that shows someone has that right."
+        },
+        {
+          "text": " geen voorrang geven op een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "A rental home with a low rent (in 2026 at most €932.93 per month) for people with a low income."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must not give refugees with residence permits priority for social housing.",
-      "themeEn": "Refugees with residence status"
+      "isShootout": false
     },
     {
       "id": 229862,
@@ -1279,12 +1363,22 @@
       "theme": "Energy poverty",
       "themeId": "energiearmoede",
       "title": "Residents with low incomes must receive free insulation materials for their homes from the municipality.",
+      "titleParts": [
+        {
+          "text": " Inwoners met weinig geld moeten van de gemeente gratis "
+        },
+        {
+          "text": "isolatiemateriaal",
+          "glossary": "Material in roofs, walls and floors that keeps heat in or out. In winter it keeps heat inside and in summer outside."
+        },
+        {
+          "text": " krijgen voor hun huis."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "Residents with low incomes must receive free insulation materials for their homes from the municipality.",
-      "themeEn": "Energy poverty"
+      "isShootout": false
     },
     {
       "id": 229841,
@@ -1295,9 +1389,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "More large owner-occupied and rental homes must be built in Coevorden.",
-      "themeEn": "Large owner-occupied homes"
+      "isShootout": false
     },
     {
       "id": 229816,
@@ -1305,12 +1397,22 @@
       "theme": "Distribution centers",
       "themeId": "distributiecentra",
       "title": "The municipality must oppose the establishment of new distribution centers.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de vestiging van nieuwe "
+        },
+        {
+          "text": "distributiecentra",
+          "glossary": "See distribution center."
+        },
+        {
+          "text": " tegengaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must oppose the establishment of new distribution centers.",
-      "themeEn": "Distribution centers"
+      "isShootout": false
     },
     {
       "id": 229849,
@@ -1321,9 +1423,7 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false,
-      "titleEn": "The municipality must ask the province to widen the N34 between Hardenberg and Coevorden from one to two lanes.",
-      "themeEn": "Highway lanes"
+      "isShootout": false
     }
   ],
   "shootoutStatements": [

@@ -48,19 +48,66 @@ for entry in index:
 
 print(f"  Loaded {len(docs)} unique statement titles")
 
-# Step 2: Run BERTopic
+# Step 2: Run BERTopic with OpenAI text-embedding-3-large
 print("\nStep 2: Running BERTopic...")
-print("  Loading embedding model (paraphrase-multilingual-MiniLM-L12-v2)...")
+print("  Using OpenAI text-embedding-3-large embeddings...")
 
 from bertopic import BERTopic
-from sentence_transformers import SentenceTransformer
 from umap import UMAP
 from hdbscan import HDBSCAN
 from sklearn.feature_extraction.text import CountVectorizer
+import openai
 
-# Configure components
-embedding_model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
+# Load OpenAI API key
+env_path = ROOT / ".env_openai"
+env_content = env_path.read_text()
+api_key = None
+for line in env_content.strip().split("\n"):
+    if line.startswith("OPENAI_API_KEY"):
+        api_key = line.split("=", 1)[1].strip().strip("'\"")
+        break
 
+if not api_key:
+    print("  ERROR: OPENAI_API_KEY not found in .env_openai")
+    sys.exit(1)
+
+client = openai.OpenAI(api_key=api_key)
+
+# Cache embeddings to avoid re-computing
+EMBEDDINGS_CACHE = ROOT / "data" / "embeddings-cache.npy"
+
+if EMBEDDINGS_CACHE.exists():
+    print("  Loading cached embeddings...")
+    embeddings = np.load(str(EMBEDDINGS_CACHE))
+    if len(embeddings) != len(docs):
+        print(f"  Cache size mismatch ({len(embeddings)} != {len(docs)}), recomputing...")
+        EMBEDDINGS_CACHE.unlink()
+        embeddings = None
+    else:
+        print(f"  Loaded {len(embeddings)} cached embeddings (dim={embeddings.shape[1]})")
+else:
+    embeddings = None
+
+if embeddings is None:
+    print(f"  Computing embeddings for {len(docs)} documents via OpenAI API...")
+    all_embeddings = []
+    batch_size = 100
+    for i in range(0, len(docs), batch_size):
+        batch = docs[i:i + batch_size]
+        response = client.embeddings.create(
+            model="text-embedding-3-large",
+            input=batch,
+        )
+        batch_embeddings = [e.embedding for e in response.data]
+        all_embeddings.extend(batch_embeddings)
+        print(f"    Batch {i // batch_size + 1}/{(len(docs) + batch_size - 1) // batch_size}: {len(batch)} texts embedded")
+
+    embeddings = np.array(all_embeddings)
+    # Cache for reuse
+    np.save(str(EMBEDDINGS_CACHE), embeddings)
+    print(f"  Embeddings cached to {EMBEDDINGS_CACHE} ({embeddings.shape})")
+
+# Configure BERTopic components
 umap_model = UMAP(
     n_neighbors=15,
     n_components=2,  # 2D for scatter plot
@@ -76,15 +123,13 @@ hdbscan_model = HDBSCAN(
     prediction_data=True,
 )
 
-# Dutch stop words + political terms that are too generic
 vectorizer = CountVectorizer(
     ngram_range=(1, 3),
-    stop_words=None,  # Let BERTopic handle it
+    stop_words=None,
     min_df=2,
 )
 
 topic_model = BERTopic(
-    embedding_model=embedding_model,
     umap_model=umap_model,
     hdbscan_model=hdbscan_model,
     vectorizer_model=vectorizer,
@@ -92,9 +137,6 @@ topic_model = BERTopic(
     nr_topics="auto",
     verbose=True,
 )
-
-print("  Computing embeddings...")
-embeddings = embedding_model.encode(docs, show_progress_bar=True)
 
 print("  Fitting BERTopic model...")
 topics, probs = topic_model.fit_transform(docs, embeddings)

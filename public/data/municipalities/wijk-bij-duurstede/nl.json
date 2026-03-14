@@ -1589,6 +1589,18 @@
       "theme": "Jongerenraad",
       "themeId": "jongerenraad",
       "title": "In Wijk bij Duurstede moet een jongerenraad komen.",
+      "titleParts": [
+        {
+          "text": " In Wijk bij Duurstede moet een "
+        },
+        {
+          "text": "jongerenraad",
+          "glossary": "Een groep jongeren die meedenkt en meepraat met de gemeente over plannen en beleid."
+        },
+        {
+          "text": " komen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1602,6 +1614,18 @@
       "theme": "Integratie",
       "themeId": "integratie",
       "title": "De gemeente moet meer geld uitgeven aan integratie van nieuwkomers in de maatschappij.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld uitgeven aan "
+        },
+        {
+          "text": "integratie",
+          "glossary": "Nieuwkomers leren de taal en gewoonten van Nederland."
+        },
+        {
+          "text": " van nieuwkomers in de maatschappij."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1615,6 +1639,25 @@
       "theme": "Monumenten",
       "themeId": "monumenten",
       "title": "De gemeente moet bezuinigen op de monumentenzorg.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "bezuinigen",
+          "glossary": "Minder geld uitgeven."
+        },
+        {
+          "text": " op de "
+        },
+        {
+          "text": "monumentenzorg",
+          "glossary": "Het zorgen voor oude bijzondere gebouwen."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1628,6 +1671,25 @@
       "theme": "Voorrang voor statushouders",
       "themeId": "voorrang-voor-statushouders",
       "title": "De gemeente moet vluchtelingen met een verblijfsvergunning voorrang blijven geven op een sociale huurwoning.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet vluchtelingen met een "
+        },
+        {
+          "text": "verblijfsvergunning",
+          "glossary": "Het recht om in Nederland te blijven wonen. Met het woord kun je dat recht zelf bedoelen en ook het kaartje waarop staat dat iemand dat recht heeft."
+        },
+        {
+          "text": " voorrang blijven geven op een "
+        },
+        {
+          "text": "sociale huurwoning",
+          "glossary": "Een huurwoning met een lage huur voor mensen met een laag inkomen. In 2026 is dat een bedrag van ten hoogste € 932,93 per maand."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1641,6 +1703,18 @@
       "theme": "Duurzame energie",
       "themeId": "duurzame-energie",
       "title": "Inwoners die samen duurzame energie op willen wekken, moeten financiële steun krijgen van de gemeente.",
+      "titleParts": [
+        {
+          "text": " Inwoners die samen "
+        },
+        {
+          "text": "duurzame energie",
+          "glossary": "Energie op basis van grondstoffen waar een oneindige hoeveelheid van is, zoals zonlicht en wind."
+        },
+        {
+          "text": " op willen wekken, moeten financiële steun krijgen van de gemeente."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1654,6 +1728,18 @@
       "theme": "Welstandsregels",
       "themeId": "welstandsregels",
       "title": "De gemeente moet de gemeentelijke welstandsregels voor bouwen en verbouwen in meer woonwijken afschaffen. In deze wijken mag zonder eisen aan bijvoorbeeld kleur en vorm worden gebouwd.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de gemeentelijke "
+        },
+        {
+          "text": "welstandsregels",
+          "glossary": "Regels van de gemeente die bepalen hoe de huizen en tuinen in een buurt eruit moeten zien."
+        },
+        {
+          "text": " voor bouwen en verbouwen in meer woonwijken afschaffen. In deze wijken mag zonder eisen aan bijvoorbeeld kleur en vorm worden gebouwd."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1667,6 +1753,18 @@
       "theme": "Cameratoezicht",
       "themeId": "cameratoezicht",
       "title": "In de gemeente moet cameratoezicht komen op plekken waar veel overlast is.",
+      "titleParts": [
+        {
+          "text": " In de gemeente moet "
+        },
+        {
+          "text": "cameratoezicht",
+          "glossary": "Het houden van toezicht op of in een gebouw, gebied of (groepen) mensen met behulp van bewakingscamera's."
+        },
+        {
+          "text": " komen op plekken waar veel overlast is."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1719,6 +1817,18 @@
       "theme": "Recreatiestrand",
       "themeId": "recreatiestrand",
       "title": "Er moet een recreatiestrand komen in de Wijkse Waarden.",
+      "titleParts": [
+        {
+          "text": " Er moet een "
+        },
+        {
+          "text": "recreatiestrand",
+          "glossary": "Een strand waar je kunt wandelen, voetballen, zwemmen, in de zon liggen, etc."
+        },
+        {
+          "text": " komen in de Wijkse Waarden."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1732,6 +1842,18 @@
       "theme": "Kwijtschelding stoppen",
       "themeId": "kwijtschelding-stoppen",
       "title": "De gemeente moet stoppen met het kwijtschelden van de gemeentelijke belastingen voor inwoners met een laag inkomen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet stoppen met het "
+        },
+        {
+          "text": "kwijtschelden",
+          "glossary": "Dat mensen iets niet meer hoeven te betalen."
+        },
+        {
+          "text": " van de gemeentelijke belastingen voor inwoners met een laag inkomen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1745,6 +1867,18 @@
       "theme": "Voorschoolse educatie",
       "themeId": "voorschoolse-educatie",
       "title": "De gemeente moet voorschoolse educatie gratis maken voor alle kinderen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet "
+        },
+        {
+          "text": "voorschoolse educatie",
+          "glossary": "Een programma voor kinderen van 2,5 tot 4 jaar dat hun ontwikkeling stimuleert op verschillende gebieden. Het wordt aangeboden op de peuterspeelzaal of bij de kinderopvang."
+        },
+        {
+          "text": " gratis maken voor alle kinderen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1758,6 +1892,18 @@
       "theme": "Hondenbelasting",
       "themeId": "hondenbelasting",
       "title": "De gemeente moet de hondenbelasting afschaffen.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet de "
+        },
+        {
+          "text": "hondenbelasting",
+          "glossary": "Belasting die je aan de gemeente moet betalen voor het hebben van een hond of meerdere honden."
+        },
+        {
+          "text": " afschaffen."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1784,6 +1930,18 @@
       "theme": "Sportaanbod",
       "themeId": "sportaanbod",
       "title": "De gemeente moet geld steken in het uitbreiden van het sportaanbod voor mensen met een lichamelijke of geestelijke beperking.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld steken in het uitbreiden van het sportaanbod voor mensen met een lichamelijke of geestelijke "
+        },
+        {
+          "text": "beperking",
+          "glossary": "Iets dat je belemmert in het dagelijks leven. Een beperking kan lichamelijk of verstandelijk zijn, te maken hebben met horen of zien. Of combinaties daarvan."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1823,6 +1981,18 @@
       "theme": "Verlichting buitengebied",
       "themeId": "verlichting-buitengebied",
       "title": "De openbare verlichting in het buitengebied moet vaker uit.",
+      "titleParts": [
+        {
+          "text": " De openbare verlichting in het "
+        },
+        {
+          "text": "buitengebied",
+          "glossary": "Gebied binnen de grenzen van de gemeente maar buiten de steden of dorpen zelf, hier staan weinig huizen en andere gebouwen."
+        },
+        {
+          "text": " moet vaker uit."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1836,6 +2006,18 @@
       "theme": "Reclame overspel",
       "themeId": "reclame-overspel",
       "title": "De gemeente moet reclame die oproept tot overspel verbieden in de openbare ruimte.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet reclame die oproept tot "
+        },
+        {
+          "text": "overspel",
+          "glossary": "Het hebben van een (seksuele) relatie met een ander dan de eigen vaste partner, zonder diens toestemming."
+        },
+        {
+          "text": " verbieden in de openbare ruimte."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1849,6 +2031,18 @@
       "theme": "Bijstandsfraude",
       "themeId": "bijstandsfraude",
       "title": "De gemeente moet geen gebruik maken van algoritmen bij de opsporing van bijstandsfraude.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geen gebruik maken van "
+        },
+        {
+          "text": "algoritmen",
+          "glossary": "Een stappenplan of een lijst met regels die een computer volgt om een taak uit te voeren of een probleem op te lossen."
+        },
+        {
+          "text": " bij de opsporing van bijstandsfraude."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1862,6 +2056,18 @@
       "theme": "Bouwen op eigen terrein",
       "themeId": "bouwen-op-eigen-terrein",
       "title": "De gemeente moet het realiseren van mantelzorgwoningen op eigen terrein zonder vergunning toestaan.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet het realiseren van "
+        },
+        {
+          "text": "mantelzorgwoning",
+          "glossary": "Zelfstandige woning op het erf van een ander huis, waar bijvoorbeeld grootouders verzorgd kunnen worden."
+        },
+        {
+          "text": "en op eigen terrein zonder vergunning toestaan."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1875,6 +2081,25 @@
       "theme": "Deelvoertuigen",
       "themeId": "deelvoertuigen",
       "title": "De gemeente moet ervoor zorgen dat er in iedere wijk een deelauto of deelfiets beschikbaar is.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet ervoor zorgen dat er in iedere wijk een "
+        },
+        {
+          "text": "deelauto",
+          "glossary": "Auto waar meerdere mensen gebruik van kunnen maken."
+        },
+        {
+          "text": " of "
+        },
+        {
+          "text": "deelfiets",
+          "glossary": "Fiets waar meerdere mensen gebruik van kunnen maken."
+        },
+        {
+          "text": " beschikbaar is."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1888,6 +2113,18 @@
       "theme": "Herdenkingsbos",
       "themeId": "herdenkingsbos",
       "title": "Er moet een herdenkingsbos komen in de gemeente Wijk bij Duurstede.",
+      "titleParts": [
+        {
+          "text": " Er moet een "
+        },
+        {
+          "text": "herdenkingsbos",
+          "glossary": "Een bos waar bomen worden geplant ter herinnering aan overleden dierbaren."
+        },
+        {
+          "text": " komen in de gemeente Wijk bij Duurstede."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1901,6 +2138,18 @@
       "theme": "Jeugdzorg",
       "themeId": "jeugdzorg",
       "title": "De gemeente moet meer geld uittrekken voor jeugdzorg.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet meer geld uittrekken voor "
+        },
+        {
+          "text": "jeugdzorg",
+          "glossary": "Hulp voor jongeren met problemen, bijvoorbeeld psychische hulp, pleegzorg, dagbesteding, maar ook begeleiding bij dyslexie."
+        },
+        {
+          "text": "."
+        }
+      ],
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -1927,6 +2176,18 @@
       "theme": "Promotiecampagne",
       "themeId": "promotiecampagne",
       "title": "De gemeente moet geld steken in een promotiecampagne voor Wijk bij Duurstede als archeologisch en historisch centrum van Noordwest-Europa.",
+      "titleParts": [
+        {
+          "text": " De gemeente moet geld steken in een "
+        },
+        {
+          "text": "promotiecampagne",
+          "glossary": "Een serie reclames op bijvoorbeeld borden, televisie en sociale media."
+        },
+        {
+          "text": " voor Wijk bij Duurstede als archeologisch en historisch centrum van Noordwest-Europa."
+        }
+      ],
       "moreInfo": "Wijk bij Duurstede is een “kleine stad met een grote geschiedenis”. Wijk bij Duurstede kende drie bijzondere historische periodes: De Romeinse tijd, de Wijkse Gouden eeuw en de Bourgondische tijd. Er zijn veel plekken en gebouwen die te maken hebben met de geschiedenis, zoals kasteel Duurstede, museum Dorestad, de stadshaven en de historische panden. Veel mensen zijn geïnteresseerd in geschiedenis. Dit kan een reden zijn voor toeristen om naar Wijk bij Duurstede te komen.",
       "pro": "",
       "con": "",
