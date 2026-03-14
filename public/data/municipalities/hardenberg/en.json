@@ -2114,7 +2114,9 @@
       "moreInfo": "A ring road is a road around a city that directs through-traffic away from the center and residential areas.",
       "pro": "A ring road makes Hardenberg more accessible. You can more easily get from one side of town to the other. Heavy traffic will use the ring road more often and less often go through the center and residential areas. That makes traffic safer.",
       "con": "Building a bypass costs a lot of money. The municipality could spend the money better on other things. Constructing a bypass comes at the expense of nature and the living environment.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "The municipality should invest in a bypass (ring road) around the town of Hardenberg.",
+      "themeEn": "Ring road"
     },
     {
       "id": 169454,
@@ -2125,7 +2127,9 @@
       "moreInfo": "Municipalities decide for themselves whether shops are open or closed on Sundays. In the municipality of Hardenberg there are currently 10 shopping Sundays per year. Supermarkets may be open every Sunday.",
       "pro": "Entrepreneurs should be able to decide for themselves whether to open their shops on Sundays. Residents should be able to choose which day they want to shop.",
       "con": "Sunday rest is important for many residents with a Christian background. There must remain a good balance between work and private life, also for entrepreneurs.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "Shops should always be allowed to open on Sundays.",
+      "themeEn": "Shop opening hours"
     },
     {
       "id": 169461,
@@ -2136,7 +2140,9 @@
       "moreInfo": "Building on land designated for agriculture and horticulture is not automatically allowed. If a farmer wants to build a house on his land, he can ask the municipality to give that land a residential zoning.",
       "pro": "There are too few houses. All types of housing are needed. Caregiver homes are needed for people who provide or receive care. These can be built on released agricultural land.",
       "con": "There are already regulations for this. The municipality should steer the construction of new homes to prevent uncontrolled growth.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "It should be possible for farmers to build houses themselves on their land.",
+      "themeEn": "Building on agricultural land"
     },
     {
       "id": 169476,
@@ -2147,7 +2153,9 @@
       "moreInfo": "Municipalities can give residents the right to challenge the municipality: the challenge right. A resident who thinks they can do municipal tasks better or more cheaply may take over those tasks. For example, maintaining public green spaces or organizing activities in the community center.",
       "pro": "It is always good for the municipality if things are done better and cheaper. Then there is money left for other matters. By doing it themselves, residents have more influence on their neighborhood.",
       "con": "The municipality must remain responsible for tasks such as maintaining public green spaces. Residents can help voluntarily. They should not receive payment for that.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "Residents and local entrepreneurs should be able to take over municipal tasks if they can do them better and cheaper, for example maintaining a green strip.",
+      "themeEn": "Municipal responsibilities"
     },
     {
       "id": 169465,
@@ -2158,7 +2166,9 @@
       "moreInfo": "In Hardenberg the Sallands dialect is spoken, a regional language that belongs to the Low Saxon language group. The municipality cannot oblige schools to pay attention to the dialect. The municipality can, however, ask schools to give more attention to the dialect.",
       "pro": "It is important that we pass the regional language on to children and young people. Attention to the dialect is a good addition to the curriculum. The municipality should promote the use of the regional language.",
       "con": "The municipality should not interfere with primary school curricula. Dutch is our language of instruction. Schools should primarily focus on basic subjects such as Dutch and math.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "The municipality should encourage attention to the local dialect in all primary schools.",
+      "themeEn": "Regional language"
     },
     {
       "id": 169499,
@@ -2169,7 +2179,9 @@
       "moreInfo": "Each year 2.3 million Dutch people fall victim to digital crime. That is crime via computer, phone or tablet, for example digital threats and intimidation or online scams and fraud.",
       "pro": "It is important that residents protect themselves better against digital scammers. With an information campaign the municipality can explain how they can do that.",
       "con": "An information campaign to help residents against online risks is not a task for the municipality. That should be done by the national government.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "The municipality should run an information campaign to help residents protect themselves against online dangers, such as digital scams.",
+      "themeEn": "Cybersecurity"
     },
     {
       "id": 169505,
@@ -2180,7 +2192,9 @@
       "moreInfo": "A visit to the veterinarian has become increasingly expensive in recent years. Not all pet owners can afford these costs.",
       "pro": "Having a pet is good for health and, for example, also helps against loneliness.",
       "con": "Anyone who takes a pet must pay for it themselves. The municipality is not responsible for that.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "The municipality should pay veterinary costs for low-income people.",
+      "themeEn": "Veterinary costs"
     },
     {
       "id": 169502,
@@ -2191,7 +2205,9 @@
       "moreInfo": "For a social rental home you pay lower rent. They are usually owned by a housing corporation. Only people with a lower income can get such a home. Many people want such a home. The waiting list is long.",
       "pro": "By selling social rental homes the housing corporation gets more money. With that money they can build more homes.",
       "con": "There are already too few social rental homes in Hardenberg. The existing social housing should be preserved.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "Social rental homes may be sold after the tenants move out.",
+      "themeEn": "Sale of social housing"
     },
     {
       "id": 169459,
@@ -2202,7 +2218,9 @@
       "moreInfo": "Since 2016 the municipality of Hardenberg has housed 700 asylum seekers in the asylum seekers’ centre (azc) on Jachthuisweg. This is the largest asylum accommodation in Overijssel. In March 2026 this centre will close. There is a large shortage of accommodation places for asylum seekers throughout the Netherlands.",
       "pro": "The municipality of Hardenberg must help people who have fled from war and violence.",
       "con": "In the past 10 years the municipality of Hardenberg hosted the largest asylum seeker center in Overijssel. It is now up to other municipalities to accommodate asylum seekers.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "An asylum seekers' centre (azc) should remain in the municipality of Hardenberg.",
+      "themeEn": "Asylum seekers' center"
     },
     {
       "id": 169486,
@@ -2213,7 +2231,9 @@
       "moreInfo": "Cafés and restaurants must apply for a permit if they want to open a terrace. The municipality of Hardenberg then checks whether they meet all the rules, for example whether there is enough space on the pavement for pedestrians.",
       "pro": "Small terraces involve few chairs and tables. That causes hardly any nuisance. Entrepreneurs should be given space to do business.",
       "con": "We must prevent the streets from becoming chaotic. A terrace must never block passage for emergency services. Therefore the municipality must always check whether a terrace is safe at a given location.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "Hospitality businesses should be allowed to open small outdoor terraces without asking the municipality for permission.",
+      "themeEn": "Terraces"
     },
     {
       "id": 169509,
@@ -2224,7 +2244,9 @@
       "moreInfo": "Since the beginning of last year there has been the Green Bike Route in the center of Hardenberg. This route is meant to guide cyclists along the shopping area to improve safety. Nevertheless, cyclists continue to ride through the shopping area.",
       "pro": "Accidents and near-accidents often happen in the shopping center. A bicycle ban makes the shopping area safer for shoppers. In recent years the shopping area has become busier. There is no longer room for cyclists.",
       "con": "The municipality must provide good bicycle parking at the edges of the center. Only after that can a bike ban be introduced. Customers should be able to easily reach shops and hospitality venues. A bike ban in the shopping area reduces accessibility.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "There should be a bicycle ban in the shopping center of the town of Hardenberg.",
+      "themeEn": "Bicycle ban"
     },
     {
       "id": 169471,
@@ -2235,7 +2257,9 @@
       "moreInfo": "Holiday homes are intended for tourists. They are often located in a holiday park or on a campsite. In principle it is forbidden in the Netherlands to use holiday homes as a permanent address. Due to the housing shortage this still happens: about 60,000 people live in a holiday home. The government wants to allow permanent living in holiday homes. The minister is asking municipalities to already permit permanent living in holiday homes.",
       "pro": "In times of housing shortage it is a solution for many people to live permanently in a holiday home.",
       "con": "Holiday homes are built for tourism. They are not suitable as a permanent address.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "The municipality must allow holiday homes to be used as a permanent residence.",
+      "themeEn": "Holiday cottages"
     },
     {
       "id": 169480,
@@ -2246,7 +2270,9 @@
       "moreInfo": "Artificial intelligence means that machines can imitate human abilities, such as reasoning and planning. A chatbot is a computer program that can answer questions, for example questions from residents to the municipality.",
       "pro": "The municipality must use new technologies. A chatbot is cheaper than having an employee answer questions.",
       "con": "People need personal contact. They do not want a computer to answer their questions. Artificial intelligence is still too unreliable. The chance that residents will receive incorrect answers from a chatbot is too great.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "The municipality should have simple questions answered by artificial intelligence, for example via a chatbot.",
+      "themeEn": "Artificial intelligence"
     },
     {
       "id": 169467,
@@ -2257,7 +2283,9 @@
       "moreInfo": "A coffeeshop is a shop or café where you can buy and smoke soft drugs (hash, weed). The municipality of Hardenberg currently has 1 coffeeshop in Dedemsvaart.",
       "pro": "Residents should be able to buy soft drugs in a safe place. If an entrepreneur follows the rules, there is no reason for the municipality to block a coffeeshop.",
       "con": "The coffeeshop in Dedemsvaart attracts many visitors from outside the municipality. This causes nuisance. The use of soft drugs is unhealthy.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "The municipality should prevent the opening of new coffeeshops.",
+      "themeEn": "Coffeeshops (cannabis cafés)"
     },
     {
       "id": 169492,
@@ -2268,7 +2296,9 @@
       "moreInfo": "Residents must deliver large waste that does not fit in the containers to the recycling center. They often have to pay for this. For example, construction and demolition waste costs €26 per 100 kilos and bulky household waste €29 per 100 kilos.",
       "pro": "If we make dropping off waste at the recycling center free, residents will dump less waste illegally.",
       "con": "Processing waste costs money. If we make dropping off waste at the recycling center free, the waste disposal levy must go up. That is the amount residents pay annually to have waste processed in the municipality.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "Dropping off waste at the recycling center should be free of charge.",
+      "themeEn": "Residual waste"
     },
     {
       "id": 169506,
@@ -2279,7 +2309,9 @@
       "moreInfo": "Some people find it difficult to get a job—for example because they are long-term unemployed, do not speak the language well, or have a disability. The municipality of Hardenberg employs about 875 people, of whom around 105 have a disability.",
       "pro": "The municipality should set a good example as an employer.",
       "con": "The municipality should hire people because they can do the work well, not because they have a disability.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "The municipality should hire at least 25 new employees each year who have difficulty finding work, such as people with disabilities.",
+      "themeEn": "Workplaces"
     },
     {
       "id": 169478,
@@ -2290,7 +2322,9 @@
       "moreInfo": "A citizens' assembly is a group of residents that advises the municipal council on important decisions. Residents cannot volunteer; they are selected by lot to make the group as diverse as possible. The assembly receives advice from independent experts but can also invite interest groups. Participants discuss the issues and ultimately give advice to the municipality. The municipality is not obliged to adopt that advice.",
       "pro": "A citizens' assembly involves citizens better in important municipal decisions. A citizens' assembly delivers ideas and solutions from the residents themselves.",
       "con": "The elected municipal council already speaks for the residents of Hardenberg. A citizens’ assembly is therefore not necessary. The municipal government is better advised by experts than by a citizens’ assembly.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "A group of residents selected by lottery should advise the municipality on important issues.",
+      "themeEn": "Citizens' assembly"
     },
     {
       "id": 169466,
@@ -2301,7 +2335,9 @@
       "moreInfo": "A BOA is a special enforcement officer. In many municipalities BOAs maintain order and safety. They can, for example, issue fines for illegal parking or cycling in prohibited places. BOAs in the municipality of Hardenberg have had more powers since 2024: they may detain someone and, in some cases, use force. They also carry handcuffs. Hardenberg currently employs 8 BOAs.",
       "pro": "Safety is important. More municipal enforcement officers increase safety on the streets.",
       "con": "More enforcement officers have just been added. There are now enough in the municipality of Hardenberg.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "The municipality of Hardenberg should have more municipal enforcement officers (BOAs) who focus on safety.",
+      "themeEn": "Enforcement officers"
     },
     {
       "id": 169490,
@@ -2312,7 +2348,9 @@
       "moreInfo": "Labour migrants are people from abroad who work here temporarily, for example in agriculture or distribution centers. When labour migrants are exploited, they may have to do heavy or dangerous work and work long hours. They often live in crowded, poorly maintained housing and are dependent on their employer.",
       "pro": "The municipality of Hardenberg must actively combat the exploitation of people.",
       "con": "Detecting and combating exploitation in the workplace is a task for the labor inspectorate. This is not the municipality’s responsibility.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "The municipality should invest in detecting and combating the exploitation of migrant workers.",
+      "themeEn": "Migrant workers"
     },
     {
       "id": 169477,
@@ -2323,7 +2361,9 @@
       "moreInfo": "Aldermen (wethouders) are in principle required to live in the municipality where they serve. The municipal council may decide that an alderman does not have to move immediately after appointment.",
       "pro": "Aldermen must know the municipality of Hardenberg and its residents well. That only succeeds if aldermen have lived in the municipality for a long time.",
       "con": "Aldermen should above all be good at their work. That is more important than where they live.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "A new alderman must have lived in the municipality of Hardenberg for the past ten years.",
+      "themeEn": "Mandatory residence for aldermen"
     },
     {
       "id": 169482,
@@ -2334,7 +2374,9 @@
       "moreInfo": "Of young people in Hardenberg aged 12 to 18, 75% attend a gym or club weekly. Not all parents can afford to pay for sports or cultural activities for their children. With a card, young people can, for example, take trial lessons and get discounts on cultural and sports activities.",
       "pro": "It is important that all young people can do sports and cultural activities. A sports and culture card makes it easier for young people to participate.",
       "con": "Parents with sufficient means can pay themselves for their child’s sports and cultural activities. A free pass for all young people is not necessary. There are already sufficient programs for low-income parents to enable their children to do sports.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "Residents aged 12 to 18 should receive a card from the municipality to participate in sports and cultural activities for free.",
+      "themeEn": "Sports and culture card"
     },
     {
       "id": 169468,
@@ -2345,7 +2387,9 @@
       "moreInfo": "Municipalities may temporarily install cameras in public streets to maintain public order. The police are allowed to view and use the footage.",
       "pro": "Camera surveillance makes the shopping streets in the municipality safer. Camera surveillance enables the police to catch offenders more quickly.",
       "con": "The municipality would do better to deploy more enforcement officers in the shopping streets. Camera surveillance comes at the expense of residents’ privacy.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "There should be more CCTV surveillance in the shopping streets of the municipality of Hardenberg.",
+      "themeEn": "Camera surveillance"
     },
     {
       "id": 169511,
@@ -2356,7 +2400,9 @@
       "moreInfo": "Paid parking has applied in Hardenberg city center since 2008. Parking costs €1.15 per hour. A day of parking in the city center garages costs €5.",
       "pro": "If we make parking in the center more expensive, more people will come by bike or bus. That is better for the environment. If we make parking more expensive, fewer cars will come into the city center. Maintenance of parking spaces costs money. It is right that motorists who use these spots also pay for them.",
       "con": "Customers should be able to easily reach shops and hospitality venues. Higher parking costs make the city center less accessible. Not everyone can use a bicycle or public transport. The city center must be accessible to everyone. Higher parking rates are bad for shopkeepers because fewer visitors come to the center.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "Parking should become more expensive in the city center of Hardenberg. It currently costs €1.15 per hour.",
+      "themeEn": "Parking fees"
     },
     {
       "id": 169484,
@@ -2367,7 +2413,9 @@
       "moreInfo": "The municipality of Hardenberg has 38 schools spread across its villages and centers. In the Netherlands there is freedom of education, which means there are public schools and special schools. Special schools teach from a particular worldview or religion, such as Christian schools or Montessori schools. A public school is not based on a religion or belief. In Hardenberg 24% of the schools are public.",
       "pro": "Children in all villages must be able to attend a public school.",
       "con": "If there are too few pupils, a school should close.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "The municipality should give more money to the preservation of public schools.",
+      "themeEn": "Public schools"
     },
     {
       "id": 169493,
@@ -2378,7 +2426,9 @@
       "moreInfo": "The municipality of Hardenberg has 33,000 tourist sleeping places. Tourists mainly stay at campsites and bungalow parks, which are often owned by large companies that together own about two-thirds of all sleeping places. Tourism accounts for 6.3% of the jobs in the municipality.",
       "pro": "Entrepreneurs should be given space to do business. A large holiday park provides extra jobs for the municipality's residents. A large holiday park brings more money to local businesses, such as restaurants and shops.",
       "con": "Large holiday parks cause more nuisance for residents. Building large holiday parks comes at the expense of nature and the landscape. The municipality would do better to opt for family-run businesses rather than large holiday parks.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "The municipality should not allow the construction of new large holiday parks.",
+      "themeEn": "Holiday parks"
     },
     {
       "id": 169516,
@@ -2389,7 +2439,9 @@
       "moreInfo": "Youth care includes all help for children up to 18 years, from light support like homework guidance to more intensive care such as treatment for psychological problems. Since 2015 municipalities are responsible for youth care. They have insufficient funding; Hardenberg is no exception. In 2024 youth care in Hardenberg cost €26.2 million, while only €19.4 million had been budgeted.",
       "pro": "Schools often already provide help with dyslexia or homework coaching. Many parents can pay for this kind of light support themselves. If parents cannot afford this light support, the municipality can help them through other arrangements.",
       "con": "All children must be able to receive youth care. Therefore there must be no costs for parents. Not all parents have enough money for help with dyslexia or homework supervision. The municipality is responsible for all forms of youth care, including light support.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "Parents should pay themselves for light youth care, such as homework support and help with dyslexia.",
+      "themeEn": "Youth care"
     },
     {
       "id": 169494,
@@ -2400,16 +2452,18 @@
       "moreInfo": "A city beach is an artificial beach in the city. Earlier there were plans for a city beach on the Vecht in Hardenberg.",
       "pro": "A city beach makes Hardenberg's city center more attractive to tourists. A city beach makes the city center more livable. Families who cannot afford a holiday abroad can visit the city beach for free.",
       "con": "There are already beaches in the municipality at the Oldemeijer and Kotermeerstal recreation areas. Creating a city beach costs a lot of money. The municipality could spend that money better on other things. Building a city beach would have major consequences for nature in and around the Vecht.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "The municipality should invest in a city beach in the center of Hardenberg.",
+      "themeEn": "City beach"
     }
   ],
   "shootoutStatements": [
     {
       "id": 169491,
       "index": 28,
-      "theme": "Groene tuinen",
+      "theme": "Green gardens",
       "themeId": "groene-tuinen",
-      "title": "De gemeente moet geld geven aan mensen die tegels in hun tuin vervangen door groen.",
+      "title": "The municipality must give money to people who replace paving in their garden with greenery.",
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2418,9 +2472,9 @@
     {
       "id": 169483,
       "index": 29,
-      "theme": "Fitnesstoestellen",
+      "theme": "Fitness equipment",
       "themeId": "fitnesstoestellen",
-      "title": "De gemeente moet geld steken in gratis buiten fitnesstoestellen, bijvoorbeeld in parken en op pleinen.",
+      "title": "The municipality must invest in free outdoor fitness equipment, for example in parks and on squares.",
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2429,9 +2483,9 @@
     {
       "id": 169495,
       "index": 30,
-      "theme": "Restafval",
+      "theme": "Residual waste",
       "themeId": "restafval",
-      "title": "De gemeente moet restafval elke vier weken ophalen in plaats van elke zes weken.",
+      "title": "The municipality must collect residual waste every four weeks instead of every six weeks.",
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2440,9 +2494,9 @@
     {
       "id": 169497,
       "index": 31,
-      "theme": "Handhaven",
+      "theme": "Enforcement",
       "themeId": "handhaven",
-      "title": "In Hardenberg moeten gemeentelijke handhavers (boa’s) vaker rond scholen controleren op drugsdealen.",
+      "title": "In Hardenberg, municipal enforcement officers (BOAs) should monitor drug dealing near schools more often.",
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2451,9 +2505,9 @@
     {
       "id": 169456,
       "index": 32,
-      "theme": "Distributiecentra",
+      "theme": "Distribution centers",
       "themeId": "distributiecentra",
-      "title": "De gemeente moet de vestiging van nieuwe distributiecentra tegengaan.",
+      "title": "The municipality must oppose the establishment of new distribution centers.",
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2462,9 +2516,9 @@
     {
       "id": 169464,
       "index": 33,
-      "theme": "Verbeteren schoolgebouwen",
+      "theme": "Improving school buildings",
       "themeId": "verbeteren-schoolgebouwen",
-      "title": "De gemeente moet in de komende vier jaar geld steken in het verbeteren van alle schoolgebouwen.",
+      "title": "The municipality must invest in improving all school buildings over the next four years.",
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2473,9 +2527,9 @@
     {
       "id": 169463,
       "index": 34,
-      "theme": "Schoolzwemmen",
+      "theme": "School swimming",
       "themeId": "schoolzwemmen",
-      "title": "De gemeente moet geld beschikbaar stellen voor schoolzwemmen.",
+      "title": "The municipality should allocate money for school swimming.",
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2484,9 +2538,9 @@
     {
       "id": 169514,
       "index": 35,
-      "theme": "Kinderburgemeester",
+      "theme": "Child mayor",
       "themeId": "kinderburgemeester",
-      "title": "De gemeente Hardenberg moet een kinderburgemeester krijgen.",
+      "title": "The municipality of Hardenberg must get a child mayor.",
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2495,9 +2549,9 @@
     {
       "id": 169472,
       "index": 36,
-      "theme": "Woningbouw",
+      "theme": "Housing construction",
       "themeId": "woningbouw",
-      "title": "De gemeente moet nieuwbouw buiten de bestaande dorpsgrenzen tegengaan.",
+      "title": "The municipality should prevent new construction outside existing village boundaries.",
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2506,9 +2560,9 @@
     {
       "id": 169485,
       "index": 37,
-      "theme": "Extra taalonderwijs",
+      "theme": "Additional language education",
       "themeId": "extra-taalonderwijs",
-      "title": "Ouders van kinderen met een taalachterstand moeten extra taalhulp zelf betalen.",
+      "title": "Parents of children with a language delay must pay for additional language support themselves.",
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2519,7 +2573,7 @@
       "index": 38,
       "theme": "Theater De Voorveghter",
       "themeId": "theater-de-voorveghter",
-      "title": "Theater De Voorveghter moet een nieuw gebouw krijgen.",
+      "title": "Theatre De Voorveghter must get a new building.",
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2528,9 +2582,9 @@
     {
       "id": 169452,
       "index": 39,
-      "theme": "Samenwerkingsverbanden",
+      "theme": "Partnerships",
       "themeId": "samenwerkingsverbanden",
-      "title": "De gemeente moet meer zelf regelen en minder in samenwerkingsverbanden met andere gemeenten.",
+      "title": "The municipality should handle more itself and participate less in partnerships with other municipalities.",
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2539,9 +2593,9 @@
     {
       "id": 169513,
       "index": 40,
-      "theme": "Jeugdhonk",
+      "theme": "Youth center",
       "themeId": "jeugdhonk",
-      "title": "In elke kern moet een jeugdhonk komen, waar jongeren elkaar kunnen ontmoeten.",
+      "title": "Every village/town center must have a youth center where young people can meet.",
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2550,9 +2604,9 @@
     {
       "id": 169474,
       "index": 41,
-      "theme": "Binnenstad bereikbaar",
+      "theme": "City center accessibility",
       "themeId": "binnenstad-bereikbaar",
-      "title": "De binnenstad van Hardenberg moet ook met de auto goed bereikbaar blijven.",
+      "title": "Hardenberg city centre must remain easily accessible by car.",
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2561,9 +2615,9 @@
     {
       "id": 169470,
       "index": 42,
-      "theme": "Sociale huurwoningen",
+      "theme": "Social housing",
       "themeId": "sociale-huurwoningen",
-      "title": "Van de nieuw te bouwen woningen in de gemeente Hardenberg moet minimaal 30% een sociale huurwoning zijn. In de gemeente is nu ongeveer 20% van de nieuwe woningen een sociale huurwoning.",
+      "title": "At least 30% of the newly built homes in the municipality of Hardenberg must be social rental housing. Currently about 20% of new homes in the municipality are social rentals.",
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2572,9 +2626,9 @@
     {
       "id": 169457,
       "index": 43,
-      "theme": "Opvang afgewezen asielzoekers",
+      "theme": "Accommodation for rejected asylum seekers",
       "themeId": "opvang-afgewezen-asielzoekers",
-      "title": "Hardenberg moet geen opvang bieden aan asielzoekers die niet in Nederland mogen blijven.",
+      "title": "Hardenberg must not provide shelter to asylum seekers who are not allowed to stay in the Netherlands.",
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2583,9 +2637,9 @@
     {
       "id": 169488,
       "index": 44,
-      "theme": "Toeristenbelasting",
+      "theme": "Tourist tax",
       "themeId": "toeristenbelasting",
-      "title": "De gemeente moet geld uit de toeristenbelasting uitgeven aan natuurherstel.",
+      "title": "The municipality must spend the tourist tax revenue on nature restoration.",
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2594,9 +2648,9 @@
     {
       "id": 169512,
       "index": 45,
-      "theme": "Oversteekplaatsen bij scholen",
+      "theme": "Pedestrian crossings at schools",
       "themeId": "oversteekplaatsen-bij-scholen",
-      "title": "De gemeente moet geld steken in veilige oversteekplaatsen bij scholen.",
+      "title": "The municipality must invest in safe pedestrian crossings at schools.",
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2605,9 +2659,9 @@
     {
       "id": 169473,
       "index": 46,
-      "theme": "Tegenprestatie voor uitkering",
+      "theme": "Work requirement for welfare recipients",
       "themeId": "tegenprestatie-voor-uitkering",
-      "title": "Mensen die een bijstandsuitkering krijgen, moeten in ruil daarvoor maatschappelijk zinvol werk doen.",
+      "title": "People receiving social assistance should, in return, do socially useful work.",
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2616,9 +2670,9 @@
     {
       "id": 169510,
       "index": 47,
-      "theme": "Fietsenstalling",
+      "theme": "Bicycle parking",
       "themeId": "fietsenstalling",
-      "title": "De gemeente moet geld steken in een gratis overdekte fietsenstalling bij de binnenstad van Hardenberg.",
+      "title": "The municipality must invest in a free covered bicycle parking facility near Hardenberg city centre.",
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2627,9 +2681,9 @@
     {
       "id": 169458,
       "index": 48,
-      "theme": "Voorrang voor vluchtelingen",
+      "theme": "Priority for refugees",
       "themeId": "voorrang-voor-vluchtelingen",
-      "title": "De gemeente moet vluchtelingen met een verblijfsvergunning voorrang geven op een sociale huurwoning.",
+      "title": "The municipality should give refugees with a residence permit priority for social rental housing.",
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2638,9 +2692,9 @@
     {
       "id": 169503,
       "index": 49,
-      "theme": "Stagevergoeding",
+      "theme": "Internship allowance",
       "themeId": "stagevergoeding",
-      "title": "Stagiairs bij de gemeente moeten een hogere stagevergoeding krijgen. Dat is nu € 458 per maand.",
+      "title": "Interns working for the municipality must receive a higher internship allowance. It is currently €458 per month.",
       "moreInfo": "",
       "pro": "",
       "con": "",
@@ -2649,9 +2703,9 @@
     {
       "id": 169462,
       "index": 50,
-      "theme": "Contributie sport",
+      "theme": "Sports membership fees",
       "themeId": "contributie-sport",
-      "title": "De gemeente moet het lidmaatschap van een sportclub betalen voor kinderen van wie de ouders of verzorgers weinig geld hebben.",
+      "title": "The municipality must pay for sports club memberships for children whose parents or guardians have little money.",
       "moreInfo": "",
       "pro": "",
       "con": "",
