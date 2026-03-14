@@ -34,7 +34,7 @@ export default async function LocaleLayout({
 
   return (
     <html lang={locale} className={geist.variable} suppressHydrationWarning>
-      <body className="min-h-screen bg-gray-50 text-gray-900 antialiased dark:bg-gray-950 dark:text-gray-100">
+      <body className="min-h-screen bg-background text-foreground antialiased">
         <ThemeProvider>
           <NextIntlClientProvider locale={locale} messages={messages}>
             {/* Header */}
