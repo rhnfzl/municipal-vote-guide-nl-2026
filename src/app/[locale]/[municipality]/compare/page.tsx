@@ -9,6 +9,7 @@ import { Badge } from "@/components/ui/badge";
 import { Skeleton } from "@/components/ui/skeleton";
 import type { MunicipalityData } from "@/lib/types";
 import { PartyAvatar } from "@/components/party-avatar";
+import { MunicipalityAvatar } from "@/components/municipality-avatar";
 import { MdWarning } from "@/components/icons";
 
 export default function ComparePage() {
@@ -53,7 +54,10 @@ export default function ComparePage() {
   return (
     <div className="mx-auto max-w-3xl space-y-6">
       <div className="text-center space-y-2">
-        <h1 className="text-2xl font-extrabold tracking-tight sm:text-3xl">{t("title")}</h1>
+        <div className="flex items-center justify-center gap-2">
+          <MunicipalityAvatar slug={slug} name={data.name} size="lg" />
+          <h1 className="text-2xl font-extrabold tracking-tight sm:text-3xl">{t("title")}</h1>
+        </div>
         <p className="text-gray-500">{data.name}</p>
       </div>
 

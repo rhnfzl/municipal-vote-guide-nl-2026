@@ -8,6 +8,7 @@ import { Skeleton } from "@/components/ui/skeleton";
 import { useRouter } from "next/navigation";
 import { searchWithAliases } from "@/lib/municipality-aliases";
 import { MdLightbulb, MdChevronRight } from "@/components/icons";
+import { MunicipalityAvatar } from "@/components/municipality-avatar";
 import { translateTheme } from "@/lib/theme-translations";
 import {
   BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, Cell,
@@ -171,12 +172,15 @@ export default function ExplorePage() {
               onClick={() => router.push(`/${locale}/${m.slug}/questionnaire`)}
               className="flex items-center justify-between rounded-lg border border-gray-200 bg-white p-3 text-left transition-all hover:border-blue-300 hover:shadow-sm dark:border-gray-800 dark:bg-gray-900 dark:hover:border-blue-700"
             >
-              <div>
+              <div className="flex items-center gap-2">
+                <MunicipalityAvatar slug={m.slug} name={m.name} size="sm" />
+                <div>
                 <span className="font-medium text-sm">{m.name}</span>
                 <div className="flex gap-2 mt-0.5">
                   <span className="text-xs text-gray-400">{m.numParties} {thome("parties")}</span>
                   <span className="text-xs text-gray-400">·</span>
                   <span className="text-xs text-gray-400">{m.numStatements} {thome("questions")}</span>
+                </div>
                 </div>
               </div>
               <MdChevronRight className="h-5 w-5 text-gray-300" />

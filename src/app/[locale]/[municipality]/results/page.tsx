@@ -10,6 +10,7 @@ import { Skeleton } from "@/components/ui/skeleton";
 import { calculateMatches, generateMatchSummary, generatePoliticalProfile } from "@/lib/scoring";
 import { ShareResults } from "@/components/share-results";
 import { PartyAvatar } from "@/components/party-avatar";
+import { MunicipalityAvatar } from "@/components/municipality-avatar";
 import { MdCheckCircle, MdCancel, MdExpandMore, MdShare } from "@/components/icons";
 import { PoliticalCompass } from "@/components/political-compass";
 import { ConsensusMeter } from "@/components/consensus-meter";
@@ -99,11 +100,14 @@ export default function ResultsPage() {
     <div className="mx-auto max-w-2xl space-y-6">
       {/* Header */}
       <div className="text-center space-y-2">
-        <h1 className="text-2xl font-extrabold tracking-tight sm:text-3xl">
-          {tf("resultTitle")}
-        </h1>
+        <div className="flex items-center justify-center gap-2">
+          <MunicipalityAvatar slug={slug} name={data.name} size="lg" />
+          <h1 className="text-2xl font-extrabold tracking-tight sm:text-3xl">
+            {tf("resultTitle")}
+          </h1>
+        </div>
         <p className="text-gray-500">
-          {tf("resultSubtitle")}
+          {data.name} &mdash; {tf("resultSubtitle")}
         </p>
       </div>
 

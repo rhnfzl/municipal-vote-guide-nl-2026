@@ -9,6 +9,7 @@ import { useRouter } from "next/navigation";
 import { useLocale } from "next-intl";
 import { searchWithAliases } from "@/lib/municipality-aliases";
 import { MdSearch, MdChevronRight } from "@/components/icons";
+import { MunicipalityAvatar } from "@/components/municipality-avatar";
 
 interface Municipality {
   id: string;
@@ -148,7 +149,9 @@ export default function HomePage() {
               }}
             >
               <CardContent className="flex items-center justify-between p-5">
-                <div>
+                <div className="flex items-center gap-3">
+                  <MunicipalityAvatar slug={m.slug} name={m.name} size="lg" />
+                  <div>
                   <h3 className="font-semibold text-gray-900 group-hover:text-blue-600 transition-colors dark:text-gray-100 dark:group-hover:text-blue-400">
                     {m.name}
                   </h3>
@@ -159,6 +162,7 @@ export default function HomePage() {
                     <Badge variant="outline" className="text-xs font-normal">
                       {m.numStatements} {t("home.questions")}
                     </Badge>
+                  </div>
                   </div>
                 </div>
                 <MdChevronRight className="h-5 w-5 text-gray-300 transition-transform group-hover:translate-x-1 group-hover:text-blue-500 dark:text-gray-600" aria-hidden="true" />

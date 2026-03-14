@@ -17,13 +17,13 @@ const sizes = {
 };
 
 function getLogoPath(name: string): string | null {
+  const logos = partyLogos as Record<string, string>;
   // Exact match
-  if ((partyLogos as Record<string, string>)[name]) {
-    return (partyLogos as Record<string, string>)[name];
-  }
-  // Partial match (e.g., "SP (Socialistische Partij)" matches "SP")
-  for (const [key, path] of Object.entries(partyLogos as Record<string, string>)) {
-    if (name.includes(key) || key.includes(name)) return path;
+  if (logos[name]) return logos[name];
+  // Match if name starts with a known key (e.g., "CDA Montferland" matches "CDA")
+  // Only for keys >= 3 chars to avoid false positives
+  for (const [key, logoPath] of Object.entries(logos)) {
+    if (key.length >= 3 && name.startsWith(key + " ")) return logoPath;
   }
   return null;
 }
