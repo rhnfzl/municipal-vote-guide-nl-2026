@@ -55,37 +55,56 @@ async function translateTexts(texts) {
     const batch = toTranslate.slice(i, i + BATCH_SIZE);
     const numbered = batch.map((t, j) => `[${j + 1}] ${t}`).join("\n\n");
 
-    try {
-      const response = await openai.responses.create({
-        model: MODEL,
-        input: [
-          {
-            role: "system",
-            content: "Translate each numbered Dutch text to clear English. Output ONLY the translations with [number] prefix. No extra text.",
-          },
-          { role: "user", content: numbered },
-        ],
-      });
+    let retries = 0;
+    while (retries < 3) {
+      try {
+        const response = await openai.responses.create({
+          model: MODEL,
+          input: [
+            {
+              role: "system",
+              content: "Translate each numbered Dutch text to clear English. Output ONLY the translations with [number] prefix. No extra text.",
+            },
+            { role: "user", content: numbered },
+          ],
+        });
 
-      apiCalls++;
-      const output = response.output_text || "";
+        apiCalls++;
+        const output = response.output_text || "";
+        let parsed = 0;
 
-      for (const line of output.split("\n")) {
-        const match = line.match(/^\[(\d+)\]\s*(.+)$/);
-        if (match) {
-          const idx = parseInt(match[1]) - 1;
-          if (idx >= 0 && idx < batch.length) {
-            cache[batch[idx]] = match[2].trim();
+        for (const line of output.split("\n")) {
+          const match = line.match(/^\[(\d+)\]\s*(.+)$/);
+          if (match) {
+            const idx = parseInt(match[1]) - 1;
+            if (idx >= 0 && idx < batch.length) {
+              cache[batch[idx]] = match[2].trim();
+              parsed++;
+            }
           }
         }
+
+        const batchNum = Math.floor(i / BATCH_SIZE) + 1;
+        const totalBatches = Math.ceil(toTranslate.length / BATCH_SIZE);
+        process.stdout.write(`      Batch ${batchNum}/${totalBatches}: ${parsed}/${batch.length} translated (cache: ${Object.keys(cache).length})\n`);
+
+        // Save cache after every batch
+        saveCache();
+        break; // success, exit retry loop
+      } catch (err) {
+        retries++;
+        console.error(`    API error at batch ${i} (attempt ${retries}): ${err.message}`);
+        if (retries < 3) {
+          const delay = retries * 2000;
+          console.log(`    Retrying in ${delay}ms...`);
+          await new Promise((r) => setTimeout(r, delay));
+        }
       }
-    } catch (err) {
-      console.error(`    API error at batch ${i}: ${err.message}`);
     }
 
-    // Minimal delay
+    // Delay between batches
     if (i + BATCH_SIZE < toTranslate.length) {
-      await new Promise((r) => setTimeout(r, 100));
+      await new Promise((r) => setTimeout(r, 200));
     }
   }
 }
