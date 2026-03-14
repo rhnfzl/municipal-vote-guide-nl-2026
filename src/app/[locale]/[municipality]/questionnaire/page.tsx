@@ -36,8 +36,20 @@ export default function QuestionnairePage() {
   const [animating, setAnimating] = useState(false);
 
   useEffect(() => {
-    // Use sessionStorage only — fresh start on each visit
-    // (localStorage was persisting old answers across hard refreshes)
+    // Check if user is coming from a completed questionnaire (has results)
+    // If so, clear everything for a fresh start
+    const hasCompletedBefore = sessionStorage.getItem(`vg-${slug}-completed`);
+    if (hasCompletedBefore) {
+      // User completed before and is starting over — reset everything
+      sessionStorage.removeItem(`vg-${slug}-answers`);
+      sessionStorage.removeItem(`vg-${slug}-index`);
+      sessionStorage.removeItem(`vg-${slug}-completed`);
+      sessionStorage.removeItem(`vg-${slug}-startTime`);
+      sessionStorage.removeItem(`vg-${slug}-priorities`);
+      sessionStorage.removeItem(`vg-${slug}-selectedParties`);
+      sessionStorage.removeItem(`vg-${slug}-numStatements`);
+    }
+
     const saved = sessionStorage.getItem(`vg-${slug}-answers`);
     const savedIdx = sessionStorage.getItem(`vg-${slug}-index`);
 
@@ -82,7 +94,8 @@ export default function QuestionnairePage() {
   const statements = data?.statements || [];
   const current: Statement | undefined = statements[currentIdx];
   const answeredCount = Object.keys(answers).length;
-  const progress = statements.length ? Math.round((answeredCount / statements.length) * 100) : 0;
+  // Progress based on current question index (not answered count — that includes skipped revisits)
+  const progress = statements.length ? Math.round(((currentIdx) / statements.length) * 100) : 0;
 
   // Party positions for current statement
   const partyPositions = useMemo(() => {
@@ -103,8 +116,9 @@ export default function QuestionnairePage() {
   }, [data, current]);
 
   const goToNextStep = useCallback(() => {
-    // Save answers to sessionStorage for the post-questionnaire flow
+    // Save answers and mark as completed
     sessionStorage.setItem(`vg-${slug}-answers`, JSON.stringify(answers));
+    sessionStorage.setItem(`vg-${slug}-completed`, "true");
     router.push(`/${locale}/${slug}/important-topics`);
   }, [answers, slug, locale, router]);
 
