@@ -6,6 +6,7 @@ import { Geist } from "next/font/google";
 import type { Metadata } from "next";
 import { ThemeProvider } from "@/components/theme-provider";
 import { DarkModeToggle } from "@/components/dark-mode-toggle";
+import { Analytics } from "@vercel/analytics/next";
 import "../globals.css";
 
 const geist = Geist({ subsets: ["latin"], variable: "--font-geist" });
@@ -137,6 +138,7 @@ export default async function LocaleLayout({
             </footer>
           </NextIntlClientProvider>
         </ThemeProvider>
+        <Analytics />
       </body>
     </html>
   );
