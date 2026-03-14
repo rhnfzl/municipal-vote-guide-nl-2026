@@ -292,11 +292,7 @@ export default function QuestionnairePage() {
               {/* Parties Tab */}
               {activeTab === "parties" && (
                 <div className="space-y-4">
-                  {locale === "en" && (
-                    <p className="text-[10px] text-gray-400 italic">
-                      Party explanations are shown in Dutch (original). Use your browser&apos;s built-in translation to translate.
-                    </p>
-                  )}
+                  {/* Party explanations now fully translated — loaded from en.json in EN mode */}
                   {partyPositions.agree.length > 0 && (
                     <div>
                       <h4 className="flex items-center gap-2 text-sm font-bold text-green-700 dark:text-green-400 mb-2">
@@ -313,7 +309,7 @@ export default function QuestionnairePage() {
                               {p.name}
                             </summary>
                             {p.explanation && (
-                              <p className="mt-2 text-xs text-gray-500 leading-relaxed" lang="nl">{p.explanation}</p>
+                              <p className="mt-2 text-xs text-gray-500 leading-relaxed">{p.explanation}</p>
                             )}
                           </details>
                         ))}
@@ -335,7 +331,7 @@ export default function QuestionnairePage() {
                               {p.name}
                             </summary>
                             {p.explanation && (
-                              <p className="mt-2 text-xs text-gray-500 leading-relaxed" lang="nl">{p.explanation}</p>
+                              <p className="mt-2 text-xs text-gray-500 leading-relaxed">{p.explanation}</p>
                             )}
                           </details>
                         ))}
@@ -359,7 +355,7 @@ export default function QuestionnairePage() {
                               {p.name}
                             </summary>
                             {p.explanation && (
-                              <p className="mt-2 text-xs text-gray-500 leading-relaxed" lang="nl">{p.explanation}</p>
+                              <p className="mt-2 text-xs text-gray-500 leading-relaxed">{p.explanation}</p>
                             )}
                           </details>
                         ))}
