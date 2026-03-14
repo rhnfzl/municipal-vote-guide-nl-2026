@@ -362,22 +362,19 @@ export default function ResultsPage() {
       {/* Actions */}
       <div className="flex flex-wrap gap-3 justify-center pt-4">
         <Button
-          variant="outline"
-          className="rounded-xl"
+          className="rounded-xl bg-gray-800 text-white hover:bg-gray-900 dark:bg-gray-200 dark:text-gray-900 dark:hover:bg-gray-300"
           onClick={() => window.print()}
         >
           {locale === "en" ? "Print / Save PDF" : "Afdrukken / PDF opslaan"}
         </Button>
         <Button
-          variant="outline"
-          className="rounded-xl"
+          className="rounded-xl bg-gray-800 text-white hover:bg-gray-900 dark:bg-gray-200 dark:text-gray-900 dark:hover:bg-gray-300"
           onClick={() => router.push(`/${locale}/${slug}/compare`)}
         >
           {t("compareParties")}
         </Button>
         <Button
-          variant="outline"
-          className="rounded-xl"
+          className="rounded-xl bg-gray-800 text-white hover:bg-gray-900 dark:bg-gray-200 dark:text-gray-900 dark:hover:bg-gray-300"
           onClick={() => {
             localStorage.removeItem(`vg-${slug}-answers`);
             localStorage.removeItem(`vg-${slug}-index`);
