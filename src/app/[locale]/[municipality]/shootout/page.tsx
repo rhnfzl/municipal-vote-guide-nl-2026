@@ -138,6 +138,15 @@ export default function ShootoutPage() {
 
   return (
     <div className="mx-auto max-w-2xl space-y-5">
+      {/* Back button */}
+      <Button
+        variant="ghost"
+        onClick={() => router.push(`/${locale}/${slug}/results`)}
+        className="gap-2"
+      >
+        <MdArrowBack className="h-4 w-4" /> {t("backToResults")}
+      </Button>
+
       {/* Header with party logos */}
       <div className="flex items-center justify-center gap-4">
         <PartyAvatar name={party1.name} size="md" />
