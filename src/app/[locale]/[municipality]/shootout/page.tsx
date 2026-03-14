@@ -209,18 +209,29 @@ export default function ShootoutPage() {
         </CardContent>
       </Card>
 
-      {/* Answer buttons */}
-      <div className="grid grid-cols-3 gap-3">
-        <Button onClick={() => answer("agree")} className="h-14 rounded-xl bg-green-600 text-white hover:bg-green-700">
-          <MdThumbUp className="h-5 w-5 mr-1" /> {tq("agree")}
-        </Button>
-        <Button onClick={() => answer("neither")} variant="outline" className="h-14 rounded-xl">
-          <MdRemove className="h-5 w-5 mr-1" /> {tq("neither")}
-        </Button>
-        <Button onClick={() => answer("disagree")} className="h-14 rounded-xl bg-red-600 text-white hover:bg-red-700">
-          <MdThumbDown className="h-5 w-5 mr-1" /> {tq("disagree")}
-        </Button>
-      </div>
+      {/* Answer buttons - highlight previously selected */}
+      {(() => {
+        const prev = current ? shootoutAnswers[current.id] : undefined;
+        return (
+          <div className="grid grid-cols-3 gap-3">
+            <Button onClick={() => answer("agree")} className={`h-14 rounded-xl text-white ${
+              prev === "agree" ? "bg-green-700 ring-2 ring-green-400 ring-offset-2" : "bg-green-600 hover:bg-green-700"
+            }`}>
+              <MdThumbUp className="h-5 w-5 mr-1" /> {tq("agree")}
+            </Button>
+            <Button onClick={() => answer("neither")} variant="outline" className={`h-14 rounded-xl ${
+              prev === "neither" ? "ring-2 ring-gray-400 ring-offset-2 bg-gray-100 dark:bg-gray-800" : ""
+            }`}>
+              <MdRemove className="h-5 w-5 mr-1" /> {tq("neither")}
+            </Button>
+            <Button onClick={() => answer("disagree")} className={`h-14 rounded-xl text-white ${
+              prev === "disagree" ? "bg-red-700 ring-2 ring-red-400 ring-offset-2" : "bg-red-600 hover:bg-red-700"
+            }`}>
+              <MdThumbDown className="h-5 w-5 mr-1" /> {tq("disagree")}
+            </Button>
+          </div>
+        );
+      })()}
 
       <p className="text-center text-xs text-gray-400">
         {currentIdx + 1} / {shootoutStmts.length}

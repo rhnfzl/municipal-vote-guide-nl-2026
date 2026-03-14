@@ -440,31 +440,48 @@ export default function QuestionnairePage() {
         </CardContent>
       </Card>
 
-      {/* Answer Buttons */}
-      <div className="grid grid-cols-3 gap-3 sm:gap-4">
-        <Button
-          onClick={() => answer("agree")}
-          className="h-14 text-sm font-bold rounded-xl bg-green-600 text-white shadow-sm transition-all hover:bg-green-700 hover:shadow-md active:scale-[0.97] sm:text-base"
-          size="lg"
-        >
-          <MdThumbUp className="h-5 w-5" /> {t("agree")}
-        </Button>
-        <Button
-          onClick={() => answer("neither")}
-          variant="outline"
-          className="h-14 text-sm font-bold rounded-xl shadow-sm transition-all hover:shadow-md active:scale-[0.97] sm:text-base"
-          size="lg"
-        >
-          <MdRemove className="h-5 w-5" /> {t("neither")}
-        </Button>
-        <Button
-          onClick={() => answer("disagree")}
-          className="h-14 text-sm font-bold rounded-xl bg-red-600 text-white shadow-sm transition-all hover:bg-red-700 hover:shadow-md active:scale-[0.97] sm:text-base"
-          size="lg"
-        >
-          <MdThumbDown className="h-5 w-5" /> {t("disagree")}
-        </Button>
-      </div>
+      {/* Answer Buttons — highlight previously selected answer */}
+      {(() => {
+        const prev = current ? answers[current.id] : undefined;
+        return (
+          <div className="grid grid-cols-3 gap-3 sm:gap-4">
+            <Button
+              onClick={() => answer("agree")}
+              className={`h-14 text-sm font-bold rounded-xl shadow-sm transition-all hover:shadow-md active:scale-[0.97] sm:text-base ${
+                prev === "agree"
+                  ? "bg-green-700 text-white ring-2 ring-green-400 ring-offset-2"
+                  : "bg-green-600 text-white hover:bg-green-700"
+              }`}
+              size="lg"
+            >
+              <MdThumbUp className="h-5 w-5" /> {t("agree")}
+            </Button>
+            <Button
+              onClick={() => answer("neither")}
+              variant="outline"
+              className={`h-14 text-sm font-bold rounded-xl shadow-sm transition-all hover:shadow-md active:scale-[0.97] sm:text-base ${
+                prev === "neither"
+                  ? "ring-2 ring-gray-400 ring-offset-2 bg-gray-100 dark:bg-gray-800"
+                  : ""
+              }`}
+              size="lg"
+            >
+              <MdRemove className="h-5 w-5" /> {t("neither")}
+            </Button>
+            <Button
+              onClick={() => answer("disagree")}
+              className={`h-14 text-sm font-bold rounded-xl shadow-sm transition-all hover:shadow-md active:scale-[0.97] sm:text-base ${
+                prev === "disagree"
+                  ? "bg-red-700 text-white ring-2 ring-red-400 ring-offset-2"
+                  : "bg-red-600 text-white hover:bg-red-700"
+              }`}
+              size="lg"
+            >
+              <MdThumbDown className="h-5 w-5" /> {t("disagree")}
+            </Button>
+          </div>
+        );
+      })()}
 
       {/* Skip */}
       <div className="text-center">
