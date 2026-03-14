@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import type { TitlePart } from "@/lib/types";
-import { MdInfo } from "@/components/icons";
+import { MdInfo, MdClose } from "@/components/icons";
 
 interface GlossaryTitleProps {
   titleParts: TitlePart[];
@@ -12,49 +12,62 @@ interface GlossaryTitleProps {
 export function GlossaryTitle({ titleParts, className = "" }: GlossaryTitleProps) {
   const [activeGlossary, setActiveGlossary] = useState<string | null>(null);
 
+  const activeDefinition = activeGlossary
+    ? titleParts.find((p) => p.text === activeGlossary)?.glossary
+    : null;
+
   return (
     <span className={className}>
-      {titleParts.map((part, i) => {
-        if (!part.glossary) {
-          return <span key={i}>{part.text}</span>;
-        }
+      {/* Render title with clickable glossary terms */}
+      <span>
+        {titleParts.map((part, i) => {
+          if (!part.glossary) {
+            return <span key={i}>{part.text}</span>;
+          }
 
-        return (
-          <span key={i} className="relative inline">
+          const isActive = activeGlossary === part.text;
+
+          return (
             <button
+              key={i}
               onClick={() =>
-                setActiveGlossary(activeGlossary === part.text ? null : part.text)
+                setActiveGlossary(isActive ? null : part.text)
               }
-              className="border-b-2 border-dotted border-blue-400 text-inherit font-inherit cursor-help hover:border-blue-600 hover:text-blue-700 dark:border-blue-500 dark:hover:text-blue-400 transition-colors"
+              className={`inline border-b-2 border-dotted cursor-help transition-colors ${
+                isActive
+                  ? "border-blue-600 text-blue-700 dark:border-blue-400 dark:text-blue-400"
+                  : "border-blue-300 hover:border-blue-500 hover:text-blue-600 dark:border-blue-600 dark:hover:text-blue-400"
+              }`}
               aria-label={`${part.text}: ${part.glossary}`}
+              aria-expanded={isActive}
             >
               {part.text}
               <sup className="text-blue-400 text-[8px] ml-0.5">
-                <MdInfo className="inline h-3 w-3" />
+                <MdInfo className="inline h-2.5 w-2.5" />
               </sup>
             </button>
+          );
+        })}
+      </span>
 
-            {/* Tooltip popup */}
-            {activeGlossary === part.text && (
-              <span className="absolute left-0 bottom-full mb-2 z-50 w-64 rounded-lg border border-gray-200 bg-white p-3 text-sm shadow-lg dark:border-gray-700 dark:bg-gray-900">
-                <span className="flex items-start justify-between gap-2">
-                  <span className="text-gray-600 dark:text-gray-300 leading-relaxed">
-                    {part.glossary}
-                  </span>
-                  <button
-                    onClick={() => setActiveGlossary(null)}
-                    className="text-gray-400 hover:text-gray-600 shrink-0"
-                  >
-                    ✕
-                  </button>
-                </span>
-                {/* Arrow */}
-                <span className="absolute left-4 top-full h-0 w-0 border-x-[6px] border-t-[6px] border-x-transparent border-t-gray-200 dark:border-t-gray-700" />
-              </span>
-            )}
+      {/* Definition shown BELOW the title as a clean card - no overlap */}
+      {activeDefinition && (
+        <span className="block mt-3 rounded-lg bg-blue-50 border border-blue-200 p-3 text-sm font-normal dark:bg-blue-950/30 dark:border-blue-800">
+          <span className="flex items-start justify-between gap-2">
+            <span className="text-blue-800 dark:text-blue-300 leading-relaxed">
+              <span className="font-semibold">{activeGlossary}:</span>{" "}
+              {activeDefinition}
+            </span>
+            <button
+              onClick={() => setActiveGlossary(null)}
+              className="text-blue-400 hover:text-blue-600 shrink-0 mt-0.5"
+              aria-label="Close"
+            >
+              <MdClose className="h-4 w-4" />
+            </button>
           </span>
-        );
-      })}
+        </span>
+      )}
     </span>
   );
 }
