@@ -107,9 +107,6 @@ export default function ExplorePage() {
     if (stats.withOfficialEnglish > 0) {
       facts.push(t("funFactEnglish", { count: stats.withOfficialEnglish }));
     }
-    if (stats.topParties[0]) {
-      facts.push(t("funFactTopParty", { party: stats.topParties[0][0], count: stats.topParties[0][1], total: stats.totalMunicipalities }));
-    }
     if (maxStmtCount > 0) {
       facts.push(t("funFactMaxStatements", { count: maxStmtCount }));
     }
@@ -138,23 +135,8 @@ export default function ExplorePage() {
         disagreePct: stats.mostDivisiveTopic.disagreePct,
       }));
     }
-    if (stats.biggestFenceSitter?.party) {
-      facts.push(t("funFactFenceSitter", {
-        party: stats.biggestFenceSitter.party,
-        municipality: stats.biggestFenceSitter.municipality,
-        pct: stats.biggestFenceSitter.neitherPct,
-      }));
-    }
     if (stats.neverNeutralCount > 0) {
       facts.push(t("funFactNeverNeutral", { count: stats.neverNeutralCount }));
-    }
-    if (stats.politicalTwins?.municipality) {
-      facts.push(t("funFactTwins", {
-        municipality: stats.politicalTwins.municipality,
-        partyA: stats.politicalTwins.partyA,
-        partyB: stats.politicalTwins.partyB,
-        pct: stats.politicalTwins.agreePct,
-      }));
     }
     if (stats.mostHarmonious?.name) {
       facts.push(t("funFactHarmonious", { name: stats.mostHarmonious.name, pct: stats.mostHarmonious.avgAgreePct }));
@@ -168,22 +150,8 @@ export default function ExplorePage() {
         municipality: stats.uniqueThemes[0].municipality,
       }));
     }
-    if (stats.topPartyMissing?.party) {
-      facts.push(t("funFactTopPartyMissing", {
-        party: stats.topPartyMissing.party,
-        count: stats.topPartyMissing.presentIn,
-        missingCount: stats.topPartyMissing.missingIn.length,
-      }));
-    }
     if (stats.localPartyCount > 0) {
       facts.push(t("funFactLocalParties", { count: stats.localPartyCount, total: stats.totalUniqueParties }));
-    }
-    if (stats.wordiestParty?.party) {
-      facts.push(t("funFactWordiest", {
-        party: stats.wordiestParty.party,
-        municipality: stats.wordiestParty.municipality,
-        count: stats.wordiestParty.avgWords,
-      }));
     }
     if (stats.mostThemesCovered?.name) {
       facts.push(t("funFactMostThemes", { name: stats.mostThemesCovered.name, count: stats.mostThemesCovered.themeCount }));
