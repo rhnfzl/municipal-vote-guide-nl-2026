@@ -1,0 +1,2549 @@
+{
+  "id": "GM0935",
+  "name": "Maastricht",
+  "slug": "maastricht",
+  "parties": [
+    {
+      "id": 230287,
+      "name": "Senioren StadsPartij Maastricht",
+      "fullName": "Senioren StadsPartij Maastricht",
+      "website": "https://seniorenpartijmaastricht.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "230320": {
+          "position": "disagree",
+          "explanation": "Our party supports greater transparency in advocacy, but a public lobbying register is going too far. SMP would prefer a proportional lobbying register that is limited to professional lobbyists and formal contact with administrators and high-placed officials."
+        },
+        "230322": {
+          "position": "disagree",
+          "explanation": "At €750,000, Maastricht already invests significantly in the citizen budget. Rather than an increase, the budget should be distributed across city districts, so that all residents benefit and not only people with a robust network, plenty of time, or useful skills. This way, smaller initiatives will also have a fair chance."
+        },
+        "230324": {
+          "position": "disagree",
+          "explanation": "SPM favours joint decision-making and broad resident input. In our view, a referendum does not do sufficient justice to the diversity of opinion. We would prefer an experimental lab with co-creation and forms of participation that allow more voices to be heard."
+        },
+        "230325": {
+          "position": "agree",
+          "explanation": "Investments in the Brightlands Health Campus will increase employment opportunities for all Maastricht residents, make the city appealing to talent, help retain students, and attract young families. This will generate economic growth and improve quality of life, benefiting not only the campus, but the whole city."
+        },
+        "230326": {
+          "position": "disagree",
+          "explanation": "SPM does not support raising the OZB. It is a fair instrument that asks more of those who have more to contribute, but increasing the burden should not be an end in itself. To us, it is only open for discussion if absolutely necessary to protect services and opportunities for those on lower incomes. "
+        },
+        "230329": {
+          "position": "agree",
+          "explanation": "The dog tax is outdated and unfair, since only dog owners pay for general amenities."
+        },
+        "230330": {
+          "position": "agree",
+          "explanation": "SPM supports targeted promotion of Maastricht as an attractive business location, which will strengthen both the Health Campus and other sectors. Promotion should, however, focus on the city’s strengths, and go hand in hand with investment in accessibility, talent, and liveability, so that all of Maastricht benefits."
+        },
+        "230331": {
+          "position": "agree",
+          "explanation": "SPM is in favour of supermarkets being open until 10 p.m. on Sundays. Not as an obligation, but an option that is appropriate for an increasingly urban Maastricht and a diverse population. Businesses should retain freedom of choice, with due regard for staff and local liveability."
+        },
+        "230333": {
+          "position": "disagree",
+          "explanation": "Recognised refugees are one of several vulnerable groups, and do not automatically receive priority. Around 6% of rental social housing goes to recognised refugeed. Fair distribution demands a tailored approach for all home seekers in need."
+        },
+        "230335": {
+          "position": "neither",
+          "explanation": "Language classes are a good idea. They do not need to be free, but should be for those who cannot afford them."
+        },
+        "230336": {
+          "position": "disagree",
+          "explanation": "A just distribution means that Maastricht should not have to take on more than other municipalities. That is only fair."
+        },
+        "230337": {
+          "position": "disagree",
+          "explanation": "A reduction to €15 could reduce the deterrent effect, increasing illegal parking. The current fee encourages adherence to the rules, and covers enforcement and storage costs. Lower fees can lead to more problems, and higher costs for the municipality."
+        },
+        "230338": {
+          "position": "disagree",
+          "explanation": "SPM sees no need for stricter enforcement among clubs and associations. Awareness campaigns are more effective: clear communication, support, and information sessions help these groups to comply with regulations. This way we can promote responsible use of alcohol without putting unnecessary pressure on volunteers."
+        },
+        "230339": {
+          "position": "agree",
+          "explanation": "SPM supports space for cultural free zones, such as Landbouwbelang. While these initiatives are fluid and need no permanent location, they do need space in the city. This can come at a cost, as long as it remains flexible and does not get bogged down in regulations, so that creativity and innovation can continue to flourish."
+        },
+        "230340": {
+          "position": "agree",
+          "explanation": "Appropriate to the possibilities offered by the plans in question."
+        },
+        "230347": {
+          "position": "agree",
+          "explanation": "All young people should have the opportunity to engage with culture. It is a foundation for life."
+        },
+        "230348": {
+          "position": "disagree",
+          "explanation": "Events already unduly impact liveability in the city."
+        },
+        "230354": {
+          "position": "disagree",
+          "explanation": "Increasing bicycle parking and raising problem awareness will be more effective."
+        },
+        "230355": {
+          "position": "disagree",
+          "explanation": "Security cameras are important in the public’s perception of safety."
+        },
+        "230356": {
+          "position": "agree",
+          "explanation": "SPM is in favour of more large-scale student housing complexes."
+        },
+        "230359": {
+          "position": "disagree",
+          "explanation": "We need more affordable homes, including those priced around €300,000. This cannot be imposed on every development, and certain conditions are required to make it possible (lower land prices, smaller dwellings, housing built by social housing associations)."
+        },
+        "230360": {
+          "position": "agree",
+          "explanation": "This aspect is important in terms of cohesion and a sense of belonging in the city, as well as for social-network retention."
+        },
+        "230361": {
+          "position": "disagree",
+          "explanation": "Expansion is not necessary, there are enough development sites available."
+        },
+        "230365": {
+          "position": "disagree",
+          "explanation": "This is worthy of encouragement, through a volunteer allowance for example."
+        },
+        "230366": {
+          "position": "disagree",
+          "explanation": "These opportunities already exist in Maastricht. A pass was trialled in the past, which proved not to be a magic fix."
+        },
+        "230368": {
+          "position": "disagree",
+          "explanation": "This will reduce the supply of rental social housing, and experience has shown that buyers often have difficulty maintaining their homes afterwards."
+        },
+        "230369": {
+          "position": "disagree",
+          "explanation": "We are working towards a low-traffic Maastricht, where visitors park at a distance from the city, and residents too where possible."
+        },
+        "230370": {
+          "position": "agree",
+          "explanation": "Agreed, but not on through roads."
+        },
+        "230373": {
+          "position": "disagree",
+          "explanation": "Express buses are easier to organise. The tram was, unfortunately, a failure."
+        },
+        "230380": {
+          "position": "agree",
+          "explanation": "It is a major problem for people who cannot afford it."
+        }
+      }
+    },
+    {
+      "id": 230292,
+      "name": "GroenLinks",
+      "fullName": "GroenLinks",
+      "website": "https://maastricht.groenlinks.nl/home",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "230320": {
+          "position": "agree",
+          "explanation": "GroenLinks believes that transparency is a great public good."
+        },
+        "230322": {
+          "position": "agree",
+          "explanation": "Citizens know best what their city or neighbourhood needs."
+        },
+        "230324": {
+          "position": "disagree",
+          "explanation": "The formulation of the question is extremely important. A referendum is too undernuanced."
+        },
+        "230325": {
+          "position": "agree",
+          "explanation": "An economic driver for Maastricht and the region."
+        },
+        "230326": {
+          "position": "agree",
+          "explanation": "The OZB should be raised: the strongest shoulders bear the heaviest weight. "
+        },
+        "230329": {
+          "position": "disagree",
+          "explanation": "The polluter pays. The dog tax should not be a cash cow, but only used to cover dog-related expenses. "
+        },
+        "230330": {
+          "position": "agree",
+          "explanation": "Businesses drive the economy, but sustainability must also be factored into these decisions."
+        },
+        "230331": {
+          "position": "disagree",
+          "explanation": "We understand people who want to do their shopping late at night. But we also understand small business owners, and the need for peace and quiet in the evenings. On balance, opening hours should not be extended. "
+        },
+        "230333": {
+          "position": "disagree",
+          "explanation": "Recognised refugees are also Dutch citizens. We are very sympathetic to what they have been through, and fast housing helps to accelerate integration."
+        },
+        "230335": {
+          "position": "agree",
+          "explanation": "This will promote integration."
+        },
+        "230336": {
+          "position": "agree",
+          "explanation": "We must generously do our part. A large city can absorb more than a small village."
+        },
+        "230337": {
+          "position": "disagree",
+          "explanation": "This will help with parking problems in the city."
+        },
+        "230338": {
+          "position": "agree",
+          "explanation": "The law is the law. Protect youth from alcoholism."
+        },
+        "230339": {
+          "position": "agree",
+          "explanation": "There needs to be space for everyone, marginalised groups especially.  "
+        },
+        "230340": {
+          "position": "agree",
+          "explanation": "Sustainability is important for the future, and nature-inclusive construction helps contribute. "
+        },
+        "230347": {
+          "position": "agree",
+          "explanation": "Young people are the future, and we want to keep them in the city."
+        },
+        "230348": {
+          "position": "agree",
+          "explanation": "On the condition that no events take place at Vrijthof, e.g. Geusselt, Radiumgebied and De Griend. "
+        },
+        "230354": {
+          "position": "agree",
+          "explanation": "Sidewalks should be kept free of clutter for people with limited mobility."
+        },
+        "230355": {
+          "position": "disagree",
+          "explanation": "There is a constant trade-off between security and privacy. The balance tends to tip toward security. More cameras are needed, however, to achieve optimal safety. "
+        },
+        "230356": {
+          "position": "disagree",
+          "explanation": "A good blend is necessary. Students are also city residents,"
+        },
+        "230359": {
+          "position": "agree",
+          "explanation": "Houses must be affordable for both renters and owner-occupiers. This is a municipal responsibility, as property developers generally aim for upper market segments. "
+        },
+        "230360": {
+          "position": "agree",
+          "explanation": "There should also be a way to prioritise essential workers from elsewhere, as well as recognised refugees. "
+        },
+        "230361": {
+          "position": "disagree",
+          "explanation": "No expansion, but infill."
+        },
+        "230365": {
+          "position": "disagree",
+          "explanation": "This should be encouraged, not mandated."
+        },
+        "230366": {
+          "position": "agree",
+          "explanation": "Access to sport, culture and courses should not depend on financial means."
+        },
+        "230368": {
+          "position": "disagree",
+          "explanation": "There is already a major social housing shortage."
+        },
+        "230369": {
+          "position": "disagree",
+          "explanation": "Maastricht should be low-traffic. We prioritise transport as follows: walking, cycling, public transport, share cars, then personal cars (STOMP in Dutch)."
+        },
+        "230370": {
+          "position": "agree",
+          "explanation": "Exceptions for public transport bus lanes."
+        },
+        "230373": {
+          "position": "agree",
+          "explanation": "Good public transport in the Euregion is crucial."
+        },
+        "230380": {
+          "position": "agree",
+          "explanation": "This is a part of our election platform: money should never be a barrier to period care. "
+        }
+      }
+    },
+    {
+      "id": 230293,
+      "name": "D66",
+      "fullName": "D66",
+      "website": "https://d66.nl/maastricht/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "230320": {
+          "position": "agree",
+          "explanation": "D66 believes that openness builds trust in our city. We therefore support a public lobbying register, so that everybody can see who meets with administrators, and why."
+        },
+        "230322": {
+          "position": "agree",
+          "explanation": "The citizen budget gives Maastricht residents a genuine say: we determine local priorities together, building on trust and joint responsibility."
+        },
+        "230324": {
+          "position": "agree",
+          "explanation": "D66 wants greater influence for residents. An (advisory) referendum can help, with clear ground rules and useful information, in combination with citizen councils and participation."
+        },
+        "230325": {
+          "position": "agree",
+          "explanation": "D66 wants to invest more in Brightlands, as a source of jobs, expertise, and economic benefits for our region. Preferably through a revolving fund, so that every single Euro ultimately flows back into our city."
+        },
+        "230326": {
+          "position": "disagree",
+          "explanation": "D66 does not want this tax to increase any faster than inflation. New plans require clear coverage; we refuse to push today’s costs into the future."
+        },
+        "230329": {
+          "position": "agree",
+          "explanation": "D66 Maastricht believes the dog tax is outdated, and the administration and monitoring is very resource-heavy. Dog facilities remain important, however we would rather pay for these transparently from general funds or via specific agreements."
+        },
+        "230330": {
+          "position": "agree",
+          "explanation": "D66 aims to make Maastricht more well-known and popular as a liveable city of expertise. Targeted promotion can help attract businesses and talent. We therefore focus on the economy of the future: green, healthy, and based on knowledge and innovation (e.g. the campus)."
+        },
+        "230331": {
+          "position": "agree",
+          "explanation": "D66 does not want to limit businesses with pointless regulation, but give them a say in setting their own opening hours. More options could contribute to a more lively city, as long as staff and quality of life are adequately protected."
+        },
+        "230333": {
+          "position": "disagree",
+          "explanation": "The shortage of rental social housing in Maastricht will not be solved by pitting groups against one another, but by building more houses. That is our focus. Priority for vulnerable groups with urgent status should remain, which includes recognised refugees."
+        },
+        "230335": {
+          "position": "agree",
+          "explanation": "Free, accessible language classes help internationals participate in city life and find work. We want this as an ongoing provision, not a temporary project."
+        },
+        "230336": {
+          "position": "disagree",
+          "explanation": "D66 supports humane accommodation, but still according to legal requirements and the available capacity. We should not extend ourselves beyond the national standard. Accommodation should be safe and well organised, with due regard to education, care, and integration, in collaboration with the city."
+        },
+        "230337": {
+          "position": "agree",
+          "explanation": "Measures are designed to guide behaviour, but should not be excessive. We therefore want to drastically lower bike-collection fees, in combination with proper parking facilities and clear regulations."
+        },
+        "230338": {
+          "position": "agree",
+          "explanation": "In D66's view, general safety – including at clubs and societies – is of paramount importance. We do not want to burden associations or volunteers unnecessarily, but instead work together on clear and practicable rules that have wide support and are enforced in cases of excess or unsafe conduct."
+        },
+        "230339": {
+          "position": "agree",
+          "explanation": "Cultural free zones provide space for creatives, experimentation, and social contact. We want these kinds of spaces to continue to exist in Maastricht, with clear agreements on safety and the surroundings."
+        },
+        "230340": {
+          "position": "agree",
+          "explanation": "D66 wants new builds in Maastricht to contribute to nature and health. Nature-inclusive construction should become the norm, involving greenery, water, and biodiversity from the outset. Only where it is demonstrably not possible should exceptions be made."
+        },
+        "230347": {
+          "position": "agree",
+          "explanation": "Young people deserve vibrant and affordable cultural activities. We will invest in venues and programmes where they can create, discover, and perform, both within and outside the city."
+        },
+        "230348": {
+          "position": "agree",
+          "explanation": "Major events could be beneficial to Maastricht, provide they are appropriate to the city. Our focus lies on spread, accessibility, and liveability, so that residents also benefit."
+        },
+        "230354": {
+          "position": "agree",
+          "explanation": "Incorrectly parked bicycles cause inconvenience and reduce safety. We want both targeted enforcement and to ensure enough proper parking spaces, to make enforcement fair and effective."
+        },
+        "230355": {
+          "position": "disagree",
+          "explanation": "Safety in Maastricht sometimes requires video surveillance at hotspots. D66 aims for targeted and temporary use, subject to strict privacy criteria and regular evaluation. Not a reduction for its own sake, but effective use where it can be shown to work."
+        },
+        "230356": {
+          "position": "disagree",
+          "explanation": "We refuse to pit students and the city against each other. Problems can be solved with better distribution, clear agreements, and additional student housing (preferably in suitable locations), not by a blanket ban in neighbourhoods."
+        },
+        "230359": {
+          "position": "disagree",
+          "explanation": "D66 wants more affordable homes, but a strict €280,000 requirement for every development could block construction. In each location, we would prefer a blend of affordable rentals and owner-occupation, with clear agreements to facilitate rapid construction and housing mobility."
+        },
+        "230360": {
+          "position": "disagree",
+          "explanation": "Maastricht residents deserve opportunities, but in D66’s view, urgency and vulnerability remain key considerations. We do not believe in strict postcode-based priority. Housing shortages are solved by building homes and increasing mobility, not by setting groups against one another."
+        },
+        "230361": {
+          "position": "agree",
+          "explanation": "We support inner-city construction as much as possible, but if that is not enough, expansion into suitable locations is necessary – provided there is due regard for quality, greenery, facilities, public transport, and affordability from the outset."
+        },
+        "230365": {
+          "position": "agree",
+          "explanation": "D66 wants people who can participate, to do so. Welfare is a safety net, but we want to help people move forward through useful activities, study, or volunteer work. Always tailored to the specific situation, with exemptions for illness, care responsibilities, or personal limitations."
+        },
+        "230366": {
+          "position": "agree",
+          "explanation": "Everybody should have access to sports, culture, and courses. A social pass can help with ease and transparency, by integrating schemes and lowering barriers for people on low incomes."
+        },
+        "230368": {
+          "position": "disagree",
+          "explanation": "D66 wants to build more social housing, which demands a focused approach – that includes from housing associations. Rental social housing is scarce, and intended for those for whom buying is often not an option. Until supply increases, sale should not be a goal, as it can also erode the available social housing supply."
+        },
+        "230369": {
+          "position": "disagree",
+          "explanation": "More inner-city parking will attract more car traffic. D66 wants to work towards a low-traffic inner city, improved public transport and bicycle routes, and smarter parking options on the edges of town."
+        },
+        "230370": {
+          "position": "agree",
+          "explanation": "D66 Maastricht supports 30km/h where residential streets demand it, to make our neighbourhoods safer and quieter in combination with street design that supports the desired behaviour."
+        },
+        "230373": {
+          "position": "agree",
+          "explanation": "D66 Maastricht wants a train to Hasselt: it will be good for the Euregion and accessibility. The infrastructure does need to be flood-safe, however. We therefore support a solution that enables connectivity while also improving flood safety, together with our partners."
+        },
+        "230380": {
+          "position": "agree",
+          "explanation": "Menstruation poverty must not form a barrier in Maastricht. In collaboration with partners, D66 wants the municipality to address this problem. Our goal is to provide free pads and tampons in more locations, such as schools and community centres."
+        }
+      }
+    },
+    {
+      "id": 230294,
+      "name": "CDA",
+      "fullName": "CDA",
+      "website": "https://www.cdamaastricht.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "230320": {
+          "position": "agree",
+          "explanation": "A mandatory lobbying register can help to improve transparency in government, but only where it is user-friendly, enforceable, and evaluated. The CDA therefore supports a trial, to measure the effects and ensure ease of contact between residents, businesses, and public administration."
+        },
+        "230322": {
+          "position": "disagree",
+          "explanation": "The citizen budget has generally not led to any substantial political engagement. The pattern of submitted proposals indicates that municipal grants and conditions are often not in line with local needs. Accessibility to subsidy schemes must therefore be improved."
+        },
+        "230324": {
+          "position": "disagree",
+          "explanation": "Local referendums are non-binding – the decision ultimately rests with the elected council. The CDA does not see any benefits: they cost a lot of time and money, and do not improve the political engagement of residents in the long term."
+        },
+        "230325": {
+          "position": "agree",
+          "explanation": "Maintaining adequate employment in Maastricht and the surrounding region is a major challenge. Brightlands creates over 1000 jobs, and is essential for strengthening our economy and finding health, sustainability and safety solutions."
+        },
+        "230326": {
+          "position": "disagree",
+          "explanation": "Raising the OZB as the initial measure is too easy. The tax burden has been rising for years and not only affects the wealthy, but also families with tight mortgages and small-business owners. The municipality should first clearly establish which duties are its own, before raising taxes."
+        },
+        "230329": {
+          "position": "disagree",
+          "explanation": "The cost-neutral dog tax is justified, as the city pays for cleaning up dog waste, providing and emptying bins, and creating and maintaining off-leash areas. Residents in financial difficulty can apply for an exemption."
+        },
+        "230330": {
+          "position": "agree",
+          "explanation": "Only with an active acquisition strategy and strong promotion of the city can we keep enough jobs in Maastricht and surrounds – jobs that offer economic security for all. Other cities are already doing this – let's not fall behind."
+        },
+        "230331": {
+          "position": "disagree",
+          "explanation": "The CDA is hesitant about further encouraging a 24-hour economy."
+        },
+        "230333": {
+          "position": "agree",
+          "explanation": "The priority rule was a temporary regulation when the asylum-seeker centre became overcrowded. The influx of asylum seekers must be reduced. The priority rule slows down starters and young people on the social housing market considerably. We cannot continue to ask this of them."
+        },
+        "230335": {
+          "position": "agree",
+          "explanation": "We believe that the municipality should actively promote the use of Dutch. Internationals, education institutions, and businesses can contribute financially so that the costs do not fall solely on the municipality. The courses should be free for residents."
+        },
+        "230336": {
+          "position": "disagree",
+          "explanation": "Maastricht already does much in this regard. We want all municipalities to step up and do their part. The CDA supports fair allocation and firm agreements: everybody needs to contribute."
+        },
+        "230337": {
+          "position": "disagree",
+          "explanation": "Although a €50 fine feels like a lot, without an incentive bicycles stay on the streets for days and block wheelchair and pedestrian access. For the accessibility and safety of people with limited mobility, interventions cannot be avoided."
+        },
+        "230338": {
+          "position": "disagree",
+          "explanation": "Stricter enforcement at clubs and associations is not necessary, and can impact volunteer work and social cohesion. Treat associations the same as hospitality establishments, and support their role in society."
+        },
+        "230339": {
+          "position": "agree",
+          "explanation": "The CDA values all forms of cultural expression, and wants all city residents to be able to engage in culture. However, we do believe that the rules for free spaces should be the same as those for associations. No preferential treatment."
+        },
+        "230340": {
+          "position": "agree",
+          "explanation": "We want to maintain greenery and biodiversity without needless bureaucracy. Reducing research requirements and implementing a species management plan will make nature-friendly construction accessible to all."
+        },
+        "230347": {
+          "position": "agree",
+          "explanation": "In addition to employment, cultural activities are also an important consideration for young people who choose to live or stay in Maastricht. Retention of young people in the city will mean enhancing the range of cultural activities relevant to them."
+        },
+        "230348": {
+          "position": "disagree",
+          "explanation": "Maastricht already hosts many major events. The CDA does wish to reinstate a number of large sporting events. They clearly bolster SMEs and promote health – economic and social benefits in one."
+        },
+        "230354": {
+          "position": "agree",
+          "explanation": "Incorrectly parked bicycles currently make many streets inaccessible, especially for those with limited mobility. The CDA wants to amend the municipal regulations so that bicycles can be removed more quickly, and also install more bike racks."
+        },
+        "230355": {
+          "position": "disagree",
+          "explanation": "Limiting video surveillance should not be an end in itself. Security cameras often increase the perception of safety, but cannot replace other measures, such as preventive searches. The CDA supports security cameras where necessary and appropriate."
+        },
+        "230356": {
+          "position": "agree",
+          "explanation": "The CDA favours balance: student housing on campus and in small-scale developments across the city, without creating lopsided neighbourhoods or displacing residents."
+        },
+        "230359": {
+          "position": "disagree",
+          "explanation": "The CDA wishes to explore social home ownership, with municipality land-price subsidies, to enable more affordable homes. This requirement is unrealistic as a blanket measure, however: it will hamper development, or result in small homes that are still unaffordable."
+        },
+        "230360": {
+          "position": "agree",
+          "explanation": "The CDA believes priority should be based on ties to the region. Being born in Maastricht, working or studying in the city – those with a strong connection should receive priority."
+        },
+        "230361": {
+          "position": "disagree",
+          "explanation": "The CDA views expansion with caution. We do not want to sacrifice nature areas to urban creep, and fear that expanding will later lead to vacancy. We therefore favour infill within the city limits, to retain space and promote a liveable city."
+        },
+        "230365": {
+          "position": "agree",
+          "explanation": "People who are able to should be guided into regular work as quickly as possible. To do so, the CDA supports offering accessible, local work: supporting local residents, or helping out at local clubs and associations. Welfare is and should remain a right, that anybody can call on."
+        },
+        "230366": {
+          "position": "disagree",
+          "explanation": "For people on low incomes, various schemes already exist to enable participation in sport and culture, such as the Adult Sport & Culture Fund, which reimburses part of the membership fee. The CDA wishes to avoid adding to the collection of partial schemes. We favour an approach that is simple, understandable, and clear."
+        },
+        "230368": {
+          "position": "agree",
+          "explanation": "Tenants should be able to purchase their social dwelling subject to reasonable conditions, and with the revenue going to new development, sustainability, and restructuring."
+        },
+        "230369": {
+          "position": "disagree",
+          "explanation": "To ease peak-time congestion in the city centre, we want to encourage parking outside the centre. Sufficient parking spaces for permit holders remain essential, however – for inner-city residents and business owners requiring daily access, for example."
+        },
+        "230370": {
+          "position": "agree",
+          "explanation": "To improve traffic safety in our neighbourhoods, speed limits must be reduced in many places, such as residential streets and high-traffic pedestrian and cyclist areas. Access roads should remain at 50km/h, however. A clear and logical distinction."
+        },
+        "230373": {
+          "position": "agree",
+          "explanation": "Ultimately, a faster, direct train connection between Aachen, Maastricht and Hasselt will be necessary if we wish to bolster employment and the economy in the EU region. This is not easily achieved, however. The national government has other priorities, and collaboration with Belgium is complex."
+        },
+        "230380": {
+          "position": "disagree",
+          "explanation": "Providing personal hygiene products is not a core municipal task. The inability to afford tampons or pads is a sign of underlying poverty. In such cases, the municipality should concentrate on existing poverty policy, debt assistance, or income support."
+        }
+      }
+    },
+    {
+      "id": 230295,
+      "name": "PvdA",
+      "fullName": "Partij van de Arbeid",
+      "website": "https://maastricht.pvda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "230320": {
+          "position": "agree",
+          "explanation": "In the interests of openness and transparency, it is important for citizens to know who officials meet with and how a proposal is developed in the municipality of Maastricht."
+        },
+        "230322": {
+          "position": "agree",
+          "explanation": "The citizen budget is an effective means of giving Maastricht residents more influence over their own neighbourhood. To improve even further, the budget should be raised –  a budget for each city district could be a good option."
+        },
+        "230324": {
+          "position": "disagree",
+          "explanation": "A referendum is limited to a simple yes or no, and therefore does not provide any substantive input on the problem at hand. Municipalities can also involve citizens in decision-making simply via consultation processes, which we believe is a far better idea."
+        },
+        "230325": {
+          "position": "agree",
+          "explanation": "Maastricht should remain a pleasant city to live, work, and enjoy life in. To ensure this for the future, jobs in the city and region are an absolute necessity. Brightlands Campus can easily serve as a driver of employment for people with diverse skills and experience."
+        },
+        "230326": {
+          "position": "disagree",
+          "explanation": "Maastricht currently has its finances very much in order; increasing the burden on citizens is not under consideration right now."
+        },
+        "230329": {
+          "position": "agree",
+          "explanation": "Truthfully, the dog tax is outdated and is being abolished in more and more municipalities. In our view, Maastricht should follow their example."
+        },
+        "230330": {
+          "position": "disagree",
+          "explanation": "The municipality should not worry about a promotional campaign, which will not bring much benefit. Rather, the South Limburg region should come together to lobby jointly to get businesses to move here."
+        },
+        "230331": {
+          "position": "disagree",
+          "explanation": "The question is: what is the benefit for businesses? The PvdA does not believe that retail employees should have to work 12 hours a day, 7 days a week."
+        },
+        "230333": {
+          "position": "disagree",
+          "explanation": "Municipalities have a statutory obligation to find accommodation for asylum seekers who receive a residency permit. The COA (Central Agency for the Reception of Asylum Seekers) allocates people with residence permits to municipalities, after which the municipality must find them accommodation."
+        },
+        "230335": {
+          "position": "disagree",
+          "explanation": "There is no need for the municipality to intervene here: the expertise centre already runs these types of programmes: Humanitas has ‘Taalmaatjes,’ and the university already provides student grants, for example. So there are already plenty of social initiatives; the municipality can support these where possible."
+        },
+        "230336": {
+          "position": "neither",
+          "explanation": "The city of Maastricht should do what it can. If the national government requests additional capacity and we have suitable places where even families can stay for longer periods, the PvdA supports a city that acts in solidarity. We are here for one another."
+        },
+        "230337": {
+          "position": "disagree",
+          "explanation": "Bicycles parked all over the city are a major annoyance and frustrating for senior citizens with walking frames, prams, and many others. Our message is: put your bike where it belongs, or pay the price."
+        },
+        "230338": {
+          "position": "neither",
+          "explanation": "The municipality is right to set regulations and enforce them, but the PvdA also believes that clubs and societies have a responsibility to ensure that underage youth do not drink alcohol. It seems completely backwards that the government should provide stricter enforcement. Where is individual responsibility?"
+        },
+        "230339": {
+          "position": "agree",
+          "explanation": "Cultural free spaces must absolutely continue to exist in Maastricht, which is why the municipality should start working hard on alternatives for the Landbouwbelang."
+        },
+        "230340": {
+          "position": "neither",
+          "explanation": "If we want to keep housing appealing and affordable, then obviously this cannot apply across the board. It is, of course, wonderful where it can."
+        },
+        "230347": {
+          "position": "agree",
+          "explanation": "The debate surrounding the Landbouwbelang and the lack of a vision for nightlife shows that in general, young people believe that cultural activities in a broad sense leave a lot to be desired. More municipal investments are therefore needed."
+        },
+        "230348": {
+          "position": "disagree",
+          "explanation": "In the PvdA’s view, Maastricht is reaching a tipping point, and we really need to think about what kind of city we want to be. Do we really want more tourists? Don't we already host enough events, and shouldn't we perhaps dial back a little?"
+        },
+        "230354": {
+          "position": "agree",
+          "explanation": "Incorrectly parked bicycles are an eyesore and cause inconvenience, to people with limited mobility especially. The PvdA believes stricter enforcement is therefore appropriate, alongside the creation of more bicycle parking spaces so people can actually park their bicycles properly."
+        },
+        "230355": {
+          "position": "disagree",
+          "explanation": "Cameras can be useful, but they also give a false sense of security, so the PvdA prefers to invest in more municipal enforcement officers (BOAs). That said, we do not understand why anyone would want less camera surveillance, as problems in areas like Malberg show its effectiveness around the shopping centre."
+        },
+        "230356": {
+          "position": "agree",
+          "explanation": "We see that large-scale campuses such as Randwijck work very well, and can ease the strain on some neighbourhoods in Maastricht. The PvdA would like to see the municipality continue to focus on housing balance in the city, to ensure it remains a pleasant place for all."
+        },
+        "230359": {
+          "position": "agree",
+          "explanation": "We must ensure that Maastricht remains affordable for everybody; we therefore also need to build owner-occupied homes up to €280,000."
+        },
+        "230360": {
+          "position": "disagree",
+          "explanation": "Maastricht is an open and tolerant city. Together we have agreed on housing allocation criteria, and the PvdA believes it would be prudent to stick to them."
+        },
+        "230361": {
+          "position": "disagree",
+          "explanation": "We cannot simply expand our city. We therefore need to think carefully about how we wish to build, and where."
+        },
+        "230365": {
+          "position": "disagree",
+          "explanation": "The PvdA believes that people should only do so if they are genuinely willing and able. It should not be an obligation."
+        },
+        "230366": {
+          "position": "agree",
+          "explanation": "Years ago we had the Maastricht Pass, which offered good, practical discounts. The PvdA fully supports re-introducing the Maastricht Pass, to reduce costs and show that everybody can be a part of Maastricht."
+        },
+        "230368": {
+          "position": "agree",
+          "explanation": "Encouraging tenants of social housing to purchase their homes is a good initiative, which gives people more stability and a sense of community. We also need to ensure that enough rental homes remain, however."
+        },
+        "230369": {
+          "position": "disagree",
+          "explanation": "The centre of Maastricht is literally grinding to a halt. We do not need more parking spaces – we need fewer. We need to get busy creating Park & Ride zones at the edges of town, so that we can reduce the amount of inner-city parking."
+        },
+        "230370": {
+          "position": "agree",
+          "explanation": "The PvdA believes that 30km/h should be the norm in residential areas. To ensure that drivers actually keep to 30 km/h, we will redesign streets so that higher speeds are no longer possible. Additionally, we will add greenery to the streets so they genuinely take on a different appearance – that also helps to combat speeding."
+        },
+        "230373": {
+          "position": "agree",
+          "explanation": "Maastricht is the heart of Europe, which means that we must foster international connectivity."
+        },
+        "230380": {
+          "position": "disagree",
+          "explanation": "In Maastricht, menstrual product distribution points (MUPs) have been set up in various locations with support from the Armoedefonds. The university also provides free period products, and there are other city initiatives where people can obtain free food and hygiene products. So there would seem to be no problem."
+        }
+      }
+    },
+    {
+      "id": 230288,
+      "name": "Partij Veilig Maastricht",
+      "fullName": "Partij Veilig Maastricht",
+      "website": "https://www.partijveiligmaastricht.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "230320": {
+          "position": "disagree",
+          "explanation": "In some cases, this even puts up more obstacles."
+        },
+        "230322": {
+          "position": "disagree",
+          "explanation": "The current budget is sufficient."
+        },
+        "230324": {
+          "position": "agree",
+          "explanation": "This is a good way to find out what citizens think."
+        },
+        "230325": {
+          "position": "disagree",
+          "explanation": "The investments already made by the municipality are enough for the time being."
+        },
+        "230326": {
+          "position": "disagree",
+          "explanation": "The current OZB is high enough."
+        },
+        "230329": {
+          "position": "agree",
+          "explanation": "It is an outdated tax."
+        },
+        "230330": {
+          "position": "agree",
+          "explanation": "This will foster employment opportunities."
+        },
+        "230331": {
+          "position": "disagree",
+          "explanation": "As a party, we also have workers in mind."
+        },
+        "230333": {
+          "position": "agree",
+          "explanation": "The same criteria as everybody else, just get in line."
+        },
+        "230335": {
+          "position": "disagree",
+          "explanation": "This should be organised nationally."
+        },
+        "230336": {
+          "position": "disagree",
+          "explanation": "We already host more than enough asylum seekers."
+        },
+        "230337": {
+          "position": "disagree",
+          "explanation": "Wrongly parked bicycles should not cost the municipality anything."
+        },
+        "230338": {
+          "position": "disagree",
+          "explanation": "The regulations currently in place should be enforced."
+        },
+        "230339": {
+          "position": "agree",
+          "explanation": "Yes, but with effective regulation."
+        },
+        "230340": {
+          "position": "agree",
+          "explanation": "To promote biodiversity."
+        },
+        "230347": {
+          "position": "agree",
+          "explanation": "There is currently far too little."
+        },
+        "230348": {
+          "position": "agree",
+          "explanation": "Provided they remain accessible to all citizens."
+        },
+        "230354": {
+          "position": "agree",
+          "explanation": "This is a major source of irritation for many citizens."
+        },
+        "230355": {
+          "position": "disagree",
+          "explanation": "Video surveillance increases citizens’ sense of safety."
+        },
+        "230356": {
+          "position": "agree",
+          "explanation": "This will rein in a lot of disturbance."
+        },
+        "230359": {
+          "position": "agree",
+          "explanation": "This will make homes accessible to a broader group of buyers."
+        },
+        "230360": {
+          "position": "agree",
+          "explanation": "Because all Maastricht residents should have the right to continue living in their own city. Young people, too, should have the opportunity to live in the city where they grew up. "
+        },
+        "230361": {
+          "position": "agree",
+          "explanation": "Where this is possible."
+        },
+        "230365": {
+          "position": "agree",
+          "explanation": "This will give people a purpose."
+        },
+        "230366": {
+          "position": "disagree",
+          "explanation": "There are modified schemes for this."
+        },
+        "230368": {
+          "position": "disagree",
+          "explanation": "Rental social housing is already too scarce."
+        },
+        "230369": {
+          "position": "disagree",
+          "explanation": "There are already plenty of spaces."
+        },
+        "230370": {
+          "position": "agree",
+          "explanation": "This will promote safety in residential areas."
+        },
+        "230373": {
+          "position": "disagree",
+          "explanation": "There is already a good bus connection."
+        },
+        "230380": {
+          "position": "disagree",
+          "explanation": "These are already available through various organisations."
+        }
+      }
+    },
+    {
+      "id": 230296,
+      "name": "VVD",
+      "fullName": "VVD",
+      "website": "https://www.vvd.nl/gemeente-maastricht/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "230320": {
+          "position": "disagree",
+          "explanation": "The VVD opposes the introduction of a lobbying register. A register raises the barrier to meeting with administrators, and is also very costly and time-consuming to maintain."
+        },
+        "230322": {
+          "position": "disagree",
+          "explanation": "The VVD wants funding to go directly to associations and neighbourhoods. Neighbourhood initiatives are extremely valuable, and good ideas should be assessed on their merit. We want a government that listens to its residents, not one that makes neighbourhoods compete against one another for money."
+        },
+        "230324": {
+          "position": "disagree",
+          "explanation": "The VVD opposes the introduction of referendums. They reduce complex social issues to a simple yes-or-no question, losing all nuance. Citizens elect their own democratic representatives in the municipal council, who advocate for their interests."
+        },
+        "230325": {
+          "position": "agree",
+          "explanation": "The VVD believes that where additional investment is needed, the knowledge economy surrounding the Brightlands campus should be given full scope to grow further. Thanks to the VVD, the Green Carpet (Groene Loper) will be extended, and funding has been set aside for the construction of parking garages in Randwyck. There are also plans for an excellerator, and space for startups and scale-ups."
+        },
+        "230326": {
+          "position": "disagree",
+          "explanation": "The VVD wants no increase beyond inflation to local taxes such as the OZB. That is why we aim to keep these charges as low as possible for residents and businesses alike, and will only consider increasing property taxes after exploring all available options within existing policy."
+        },
+        "230329": {
+          "position": "agree",
+          "explanation": "The VVD wants the dog tax to be lowered or abolished. We must continue to invest in dog parks and rubbish bins from the municipal budget. The notion of a dog tax is also odd, as we do not have a specific cultural tax for our museums, or a sports tax for sports halls."
+        },
+        "230330": {
+          "position": "agree",
+          "explanation": "The VVD believes it is important to attract more businesses to Maastricht, to further develop the knowledge economy. The VVD is working to make Maastricht a more attractive place for businesses. Many successful students graduate here but struggle to find work, and end up moving to Amsterdam and surrounds."
+        },
+        "230331": {
+          "position": "agree",
+          "explanation": "The VVD Maastricht wants to extend supermarket opening hours on Sundays to 10 p.m. There are more and more dual-income households and people working full-time. We want to make things easier for them, while giving business owners the freedom to decide when to open their supermarkets."
+        },
+        "230333": {
+          "position": "agree",
+          "explanation": "The VVD believes that priority for recognised refugees should have been scrapped years ago. This group can make use of flex housing as temporary accommodation when they first leave the reception centre. For vulnerable groups, such as single mothers with children, priority allocation should remain in place."
+        },
+        "230335": {
+          "position": "agree",
+          "explanation": "The VVD wants to financially support Dutch lessons for international students. It will contribute to the retention of international students after their studies, and promote the knowledge economy. Where possible, we believe this should also be accessible to all international residents."
+        },
+        "230336": {
+          "position": "disagree",
+          "explanation": "The influx of asylum seekers must be reduced nationally. The VVD believes that the municipality does not need to do more than our national obligation."
+        },
+        "230337": {
+          "position": "disagree",
+          "explanation": "The VVD believes that individuals are responsible for parking their bicycle correctly. The current €50 fee is to cover the costs incurred by the municipality, and to discourage unwanted parking behaviour."
+        },
+        "230338": {
+          "position": "disagree",
+          "explanation": "The VVD believes that everybody should adhere to regulations, and that associations and businesses should therefore not serve alcohol to minors. It is also important not to impose needless regulations on our associations and their volunteers."
+        },
+        "230339": {
+          "position": "disagree",
+          "explanation": "Squatters, such as at the Landbouwbelang, create unfair competition for businesses. Why should one group that occupies empty buildings be given everything for free, while businesses pay through the nose for permits and facilities?"
+        },
+        "230340": {
+          "position": "disagree",
+          "explanation": "Building new homes is already a very costly enterprise. The VVD therefore wants to build as much as possible without unnecessary regulations that cause delays and increase costs."
+        },
+        "230347": {
+          "position": "disagree",
+          "explanation": "The VVD wants to involve more young people in folk culture to help preserve the Maastricht dialect. Funding for these types of initiatives should come from the existing buget."
+        },
+        "230348": {
+          "position": "disagree",
+          "explanation": "The VVD is proud of the major events currently hosted by the city, but also believes that liveability for residents should be taken into account. The VVD is open to supporting unique events that strengthen the city’s sense of community."
+        },
+        "230354": {
+          "position": "agree",
+          "explanation": "Incorrectly parked bicycles are a public risk, especially for people with poor vision or limited mobility."
+        },
+        "230355": {
+          "position": "disagree",
+          "explanation": "The VVD is in favour of more video surveillance in Maastricht. Security cameras increase the likelihood of apprehending offenders, and monitor high-risk areas. We also believe that security cameras would increase safety in several problem neighbourhoods."
+        },
+        "230356": {
+          "position": "agree",
+          "explanation": "The VVD believes that limited numbers of students can live effectively in residential neighbourhoods, but that the majority are better off on large campuses, such as Brightlands. This will reduce social disturbance, and promote cohesion among students."
+        },
+        "230359": {
+          "position": "disagree",
+          "explanation": "The VVD advocates for as many affordable homes as possible. However, research has shown that these kinds of obligations actually result in fewer affordable homes, as they impede mobility. This proposal will give fewer people affordable homes. Though it sounds impressive, the reality is different."
+        },
+        "230360": {
+          "position": "agree",
+          "explanation": "When many of our homes are going to people from outside the area, the VVD believes municipal intervention is justified, to give our own people a chance. It is important to protect the identity of our city."
+        },
+        "230361": {
+          "position": "agree",
+          "explanation": "The VVD is in favour of new neighbourhoods with quality facilities. We want liveable and green neighbourhoods, where people can park their car or van on their doorstep."
+        },
+        "230365": {
+          "position": "agree",
+          "explanation": "In the VVD’s view, it is reasonable to ask people who receive help from society to offer some help in return."
+        },
+        "230366": {
+          "position": "disagree",
+          "explanation": "The VVD wants to break the poverty cycle. Benefits such as a social pass are not comprehensive solutions, and expire once people start earning more. The VVD would rather put the money towards helping people get back to work."
+        },
+        "230368": {
+          "position": "agree",
+          "explanation": "The VVD wants tenants of social housing to be able to buy their homes. It encourages mobility, and enables housing associations to build more housing using the revenue."
+        },
+        "230369": {
+          "position": "agree",
+          "explanation": "The VVD is in favour of more parking, to enable residents with limited mobility or without other travel options to travel into the city. The VVD also wants Park & Walk options to be available to more people, such as underground parking garages close to the city centre."
+        },
+        "230370": {
+          "position": "disagree",
+          "explanation": "The VVD wants to retain 50 km/h on through roads, except in uniquely dangerous situations. Traffic needs to be able to flow safely and efficiently. Many through roads are designed for 50 km/h and therefore encourage speeding even where a 30 km/h limit applies, while other road users no longer anticipate traffic at such speeds."
+        },
+        "230373": {
+          "position": "disagree",
+          "explanation": "Our partners in Belgium pulled the plug on the tram project. The VVD will only resume collaboration once Maastricht residents have their money back, and there is a geniune need for this connectivity."
+        },
+        "230380": {
+          "position": "disagree",
+          "explanation": "Making period products free for everybody is an extremely costly measure and not necessary in the VVD’s view, as most people can cater for themselves. People on low incomes, such as unemployment benefits, can head to the menstrual product distribution points (MUPs) for free period-care products."
+        }
+      }
+    },
+    {
+      "id": 230297,
+      "name": "Partij voor de Dieren",
+      "fullName": "Partij voor de Dieren",
+      "website": "https://maastricht.partijvoordedieren.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "230320": {
+          "position": "agree",
+          "explanation": "Open governance is a great public good. A transparent lobbying register makes the administrative system in Maastricht easier to understand, more transparent, and more accountable. The Party for the Animals (PvdD) believes that proactive disclosure creates trust in politics."
+        },
+        "230322": {
+          "position": "agree",
+          "explanation": "Direct forms of democracy are important for bridging the gap between politics and residents. The PvdD wants it to be easier for citizens to take initiatives, and participate in public decision-making. Positive, concrete solutions created by residents for their own neighbourhoods should be taken seriously and actively supported."
+        },
+        "230324": {
+          "position": "agree",
+          "explanation": "Public participation needs an overhaul. Instead of making plans for residents, the PvdD wants to make plans with residents. An advisory referendum should be a part of all important decisions, such as large-scale building projects or municipal reorganisations. We also want to enable neighbourhood referendums."
+        },
+        "230325": {
+          "position": "disagree",
+          "explanation": "The PvdD believes that unchecked economic growth is the problem, not the solution. Growth does not produce a fairer economy, as wealth inequalities remain. Nor can the PvdD support projects that involve animal testing, which is still the case at Brightlands."
+        },
+        "230326": {
+          "position": "disagree",
+          "explanation": "A fair taxation system is the backbone of a fair society. Raising the OZB would not be appropriate. The PvdD believes that residents who take sustainability measures themselves should be able to deduct the cost of them from the OZB."
+        },
+        "230329": {
+          "position": "agree",
+          "explanation": "The PvdD wants to abolish the dog tax. While it remains, the revenue from it should be used exclusively for dog facilities. A dog tax is unfair, as it draws a distinction between the owners of dogs and other pets – a distinction without any logical basis."
+        },
+        "230330": {
+          "position": "disagree",
+          "explanation": "City marketing and regional promotion cost a lot of money, which could be better spent on sustainable objectives. In the PvdD’s view, Maastricht should cease these investments."
+        },
+        "230331": {
+          "position": "agree",
+          "explanation": "Although the PvdD is not keen on the 24-hour economy, we believe that shop owners should be able to decide for themselves when to open, within national frameworks."
+        },
+        "230333": {
+          "position": "disagree",
+          "explanation": "The shortage in the Maastricht housing market was not caused by refugees, but by years of failed policy, such as the social housing budget cuts. The PvdD supports fulfilling housing targets for recognised refugees, and ensuring they receive proper support so they can quickly participate in society."
+        },
+        "230335": {
+          "position": "disagree",
+          "explanation": "Language education helps refugees, international students, and expats to become a part of Maastricht. However, the PvdD also believes that these residents should bear the cost themselves, where possible. We would therefore only offer language classes to newcomers who cannot afford it."
+        },
+        "230336": {
+          "position": "disagree",
+          "explanation": "The Party for the Animals wants Maastricht to do its fair share in accommodating asylum seekers. This does not necessarily mean accepting higher numbers: accommodation needs to be properly organised, and newcomers need adequate support to live full lives in society as soon as possible."
+        },
+        "230337": {
+          "position": "agree",
+          "explanation": "For many Maastricht residents, the current cost of collecting their bicycle from the depot is too high, and many bicycles are abandoned. The PvdD wants to invest in more parking and shared bicycles, to combat the inconvenience caused by incorrectly parked bicycles."
+        },
+        "230338": {
+          "position": "agree",
+          "explanation": "Research has shown that only 14.5% of Maastricht sports associations comply with alcohol-provision laws when it comes to minors. The Party for the Animals wants to educate young people sooner and more effectively on the harmful effects of alcohol, and to strictly enforce the legal drinking age."
+        },
+        "230339": {
+          "position": "agree",
+          "explanation": "Cultural free spaces such as the Landbouwbelang are essential to our city. These fringe spaces are incubators for talent, offering a place where international students and Maastricht residents, young and old, can meet and relax. The PvdD therefore supports long-term maintenance of the LBB."
+        },
+        "230340": {
+          "position": "agree",
+          "explanation": "The housing shortage impacts not only the people, but also the animals living in our city. Protected species, such as bats and the common swift, are in trouble. We can help these animals by integrating nature-inclusive features such as nesting boxes into new builds and large-scale renovations."
+        },
+        "230347": {
+          "position": "agree",
+          "explanation": "High-quality, inclusive, and accessible education, art and culture provide the foundation for a free, democratic society. The PvdD therefore wishes to invest in art, culture and music lessons at school. More funding must also go to accessible cultural activities for young people in local neighbourhoods."
+        },
+        "230348": {
+          "position": "disagree",
+          "explanation": "On the contrary: the Party for the Animals wants to discourage large-scale ‘prestige’ events, especially if they are only intended to put Maastricht on the map. Our vision for the cultural budget is to support accessible cultural activities, at local level especially."
+        },
+        "230354": {
+          "position": "agree",
+          "explanation": "Streets are for everyone, which is why we want strict enforcement of freely accessible footpaths and guidance strips. We also want to ensure enough free bicycle parking."
+        },
+        "230355": {
+          "position": "agree",
+          "explanation": "Cameras provide the illusion of safety, and only displace the problem. The PvdD therefore advocates a more conservative use of video surveillance in public spaces: as a temporary measure, and subject to strict conditions. We prefer to tackle the problem at the source."
+        },
+        "230356": {
+          "position": "disagree",
+          "explanation": "Though not entirely in favour of more student housing in neighbourhoods, the Party for the Animals would like a better distribution of housing types across the city. Every street should offer something for everyone, to prevent segregation and to encourage a sense of community among different Maastricht population groups."
+        },
+        "230359": {
+          "position": "agree",
+          "explanation": "Houses are for living in, not making a profit. The PvdD wants a fair blend of housing categories in every construction project, as well as plans for genuinely affordable homes for first-time buyers or people on a limited budget."
+        },
+        "230360": {
+          "position": "disagree",
+          "explanation": "Proper housing is a basic right. To help enable young people to continue living in their own city, the Party for the Animals advocates for increased mobility and access to suitable housing, more social housing (40%), and a halt to the demolition and privatisation of social rental homes. "
+        },
+        "230361": {
+          "position": "disagree",
+          "explanation": "Before ramping up construction in Maastricht, the PvdD wants to see more efficient use of existing buildings. Only after that will we look at densification, coupled with additional greenery. Building at the city’s edges will be a last resort, only where the environment permits, and where there is no detriment to nature or liveability."
+        },
+        "230365": {
+          "position": "disagree",
+          "explanation": "The PvdD is against mutual participation requirements for people entitled to welfare benefits. Not only is it undesirable for people to work without pay, it also displaces regular paid employment. Welfare recipients need the chance to focus on talent development, and working for pay."
+        },
+        "230366": {
+          "position": "agree",
+          "explanation": "In Maastricht, everybody should be able to take part in society, regardless of their financial situation. The PvdD wants to support people on incomes up to 130% of the social minimum, including help with sports, culture, and veterinary care costs. To combat stigmatisation, all residents should receive a pass."
+        },
+        "230368": {
+          "position": "disagree",
+          "explanation": "The sale of rental social housing impedes mobility. The PvdD is therefore against the sale of these homes, unless they are replaced in equal numbers – there is a shortage of social housing, after all. We will also focus on the effective distribution of social rentals within each neighbourhood."
+        },
+        "230369": {
+          "position": "disagree",
+          "explanation": "On the contrary, the PvdD wants less parking in the city centre. Visitors should be encouraged to cycle or take public transport. We do support the creation of P+R facilities at the edge of town, however, where visitors can park their car and continue into town on public transport."
+        },
+        "230370": {
+          "position": "agree",
+          "explanation": "To improve liveability and safety, the PvdD wants a speed limit of 30 km/h on streets without a dedicated bicycle path. Streets without sidewalks should be converted into shared residential areas, with a speed limit of 15 km/h. The same should apply to schools and childcare facilities."
+        },
+        "230373": {
+          "position": "agree",
+          "explanation": "The train is an effective and environmentally friendly alternative to car transport. The PvdD therefore wants Maastricht to invest in a train to Hasselt, and join forces with the province to encourage international train connectivity."
+        },
+        "230380": {
+          "position": "agree",
+          "explanation": "Not everybody has access to reusable or other menstruation products, which can be a major impediment to living life. The PvdD believes that these products should be available at public locations for people who cannot afford them, who have forgotten them, or who have irregular or unexpected periods."
+        }
+      }
+    },
+    {
+      "id": 230298,
+      "name": "Volt",
+      "fullName": "Volt",
+      "website": "https://www.voltmaastricht.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "230320": {
+          "position": "agree",
+          "explanation": "A lobby register makes politics more transparent and fairer. Citizens should be able to see which actors meet with local executives, so it is clear who exercises influence on the municipal administration."
+        },
+        "230322": {
+          "position": "agree",
+          "explanation": "At present, we do not yet see the participatory budget as an effective form of citizen participation. It would need to be far more representative, similar to a citizens’ assembly. If that were the case, we would support allocating more funding to the participatory budget."
+        },
+        "230324": {
+          "position": "agree",
+          "explanation": "Volt supports (p)referendums only under strict conditions, but prefers deliberative democracy. Citizens, guided by experts, issue binding recommendations in a citizens' assembly. With a permanent citizens' assembly, referendums become unnecessary, as issues would then be handled within the assembly."
+        },
+        "230325": {
+          "position": "agree",
+          "explanation": "In an uncertain world, Europe must invest in its industries. The EU isn'tt an abstract office in Brussels. Europe is Maastricht, too. Investing in Brightlands strengthens education, innovation and our regional position. As a hub between countries, Maastricht can attract more talent and activity."
+        },
+        "230326": {
+          "position": "agree",
+          "explanation": "Volt wants to slightly increase the property tax (OZB) to the level of similar municipalities, but only if this capital tax is used to build new homes. A home-for-home tax, in other words. This yields 7 million euros annually to build affordable housing and to purchase necessary land."
+        },
+        "230329": {
+          "position": "disagree",
+          "explanation": "To keep our city safe and clean, the municipality must spend money: on cleaning staff, enforcement and other facilities. One way to cover these costs is through the dog taxation."
+        },
+        "230330": {
+          "position": "agree",
+          "explanation": "Maastricht should no longer spend money on tourism promotion. Instead, this money should be used to attract and retain talent and economic activity. Maastricht is ageing rapidly and this will soon become a problem for our local society."
+        },
+        "230331": {
+          "position": "agree",
+          "explanation": "Volt supports longer opening hours for supermarkets, bakeries and similar essential shops. At present we already attract many day tourists from neighbouring countries. Clothing shops and other non-essential shops, therefore, do not need to be open that late on Sundays."
+        },
+        "230333": {
+          "position": "disagree",
+          "explanation": "This is a fictional debate: the rights of status holders is legally anchored in the Netherlands. Maastricht can't change this. Research also shows that the housing shortage is caused by years of political inaction in housing. Ending this priority locally is impossible and has little effect."
+        },
+        "230335": {
+          "position": "agree",
+          "explanation": "Language skills help residents participate in our cross-border region. This benefits social cohesion and the labour market. Volt wants to offer free Dutch courses to international residents, as well as French and German for cross-border workers, and Limburgish for other newcomers."
+        },
+        "230336": {
+          "position": "agree",
+          "explanation": "Maastricht must contribute in European solidarity and guarantee a humane reception of refugees. Where possible, we want more refugees to be hosted in wealthy neighbourhoods. Europe must remain a home for people fleeing war."
+        },
+        "230337": {
+          "position": "agree",
+          "explanation": "It is currently more appealing for people to buy a second-hand bicycle than to collect their bicycle from the depot. As a result, many bicycles remain at the depot. The fine must cover municipal costs and not be disproportionally high."
+        },
+        "230338": {
+          "position": "disagree",
+          "explanation": "Alcohol policy enforcement must act proportionally, professionally and respectfully. Stricter enforcement is only possible when there are concrete violations and risks. The municipality must also engage more actively with associations to emphasise prevention of alcohol abuse."
+        },
+        "230339": {
+          "position": "agree",
+          "explanation": "Cultural free spaces strengthen creativity, social interaction, a vibrant young city, housing and cultural experimentation. This belongs to a lively and diverse cultural city with a young community."
+        },
+        "230340": {
+          "position": "agree",
+          "explanation": "Nature-inclusive construction helps prevent heat, flooding and loss of biodiversity. It makes neighbourhoods more liveable without using additional scarce space. Volt wants Maastricht to develop an ambitious green vision with its Belgian border municipalities (Lanaken, Visé) for the border region."
+        },
+        "230347": {
+          "position": "agree",
+          "explanation": "Volt wants the sport and culture budget to grow substantially short-term and later be doubled. Sport and culture support youth, sometimes more effectively than traditional youth care. A strong cultural policy also attracts young talent. This makes Maastricht a lively, young and accessible cultural."
+        },
+        "230348": {
+          "position": "neither",
+          "explanation": "It depends on the type of event. We oppose additional Vrijthof events that bring even more tourism. We want more support for neighbourhood events and more conferences that connect knowledge and talent in the cross-border region, such as an annual Smart Meuse-Rhine conference with Liège and Aachen."
+        },
+        "230354": {
+          "position": "agree",
+          "explanation": "Incorrectly parked bicycles hinder pedestrians and especially people who are physically challenged. Bicycle enforcement is need for an accessible cycling city, but must go hand in hand with more bicycle parking facilities and the reduction of on-street parking spaces for tourists in the city centre."
+        },
+        "230355": {
+          "position": "disagree",
+          "explanation": "Camera surveillance must be proportionate and targeted. Safety in the city, for example for women during the night-time, is very important. Although cameras are not always the solution, reducing surveillance is not the solution to a safer city for women and other residents."
+        },
+        "230356": {
+          "position": "disagree",
+          "explanation": "Student rooms fall under rental, splitting and liveability regulations. Municipalities may not exclude people based on identity (e.g., “student”). Volt wants more housing campuses, for example in Randwyck, but doesn't see exclusion of student housing in neighbourhoods as part of a solution."
+        },
+        "230359": {
+          "position": "agree",
+          "explanation": "The housing market must remain affordable for starters and lower and middle incomes. Volt therefore wants the majority of new developments to consist of affordable rental, affordable owner-occupied housing and state-regulated social housing."
+        },
+        "230360": {
+          "position": "disagree",
+          "explanation": "Social housing's waiting lists already prioritise according to registration duration: these people are mostly people with ties to Maastricht. The housing shortage stems from years of insufficient social housing construction; changing the priority-system has little effect and is legally problematic."
+        },
+        "230361": {
+          "position": "disagree",
+          "explanation": "Volt mainly wants inner-city development, such as mid and high rise in modern districts like Randwyck, tunnelling the railway, and densifying existing areas. Expansion to the north is possible, but Volt strongly opposes construction behind the Molenweg and other areas where nature would be harmed."
+        },
+        "230365": {
+          "position": "disagree",
+          "explanation": "Participation must be stimulated through training and guidance, not through coercion/punishment. Volt wants people to participate, not perform mandatory unpaid work. Evaluations from municipalities that have forced people to perform unpaid work show limited effectiveness and negative side effects."
+        },
+        "230366": {
+          "position": "agree",
+          "explanation": "Everyone must be able to participate in sport and culture, including those with low incomes. A social card or social pass lowers barriers and strengthens cohesion. Based on successful social cards in The Hague and Brussels, Volt proposes a Maastricht social pass."
+        },
+        "230368": {
+          "position": "disagree",
+          "explanation": "The Vienna model shows how important municipal control is in addressing the housing crisis. Selling social housing reduces the affordable stock. Volt wants to expand the number of social housing and, instead, wants to support starters through other routes, rather than shrinking social housing."
+        },
+        "230369": {
+          "position": "disagree",
+          "explanation": "Volt chooses a low-car city centre with more space for green zones, for pedestrians and for cyclists. Tourists should park at Park and Ride zones on the edges of the city, which creates more parking space in the centre for residents, workers and health care, without adding new parking spaces."
+        },
+        "230370": {
+          "position": "agree",
+          "explanation": "A lower maximum speed makes streets safer for pedestrians and cyclists. This improves liveability in neighbourhoods. It also makes rules more coherent if almost the whole city is 30 km/h, except where this would be unsafe, such as the city ring roads (i.e., the \"Singels\")"
+        },
+        "230373": {
+          "position": "agree",
+          "explanation": "A better train connection with Hasselt and Belgium strengthens the region. This benefits accessibility, the economy and education. It is important to renew the current railway bridge and restore a Maastricht connection with Flanders, while investing in more connections with Liège and Aachen."
+        },
+        "230380": {
+          "position": "agree",
+          "explanation": "Access to menstrual products is a basic necessity."
+        }
+      }
+    },
+    {
+      "id": 230299,
+      "name": "SP",
+      "fullName": "SP",
+      "website": "https://maastricht.sp.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "230320": {
+          "position": "agree",
+          "explanation": "In Maastricht, property developers, lobbying groups and major businesses have no trouble finding their way to municipal executive members, often behind closed doors. The result is back-door politics, which undermines trust in fair decisions. The SP wants maximum transparency."
+        },
+        "230322": {
+          "position": "disagree",
+          "explanation": "The citizen budget is a sham: it is the outspoken and well-organised residents who benefit most, and the application process is needlessly complicated. The SP therefore favours neighbourhood budgets, that allow residents to decide where their own money goes. They know best what their neighbourhoods need."
+        },
+        "230324": {
+          "position": "agree",
+          "explanation": "On genuinely serious issues, Maastricht residents themselves must have the final say. The SP therefore supports an accessible referendum as a democratic handbrake. And if the results are clear, the council cannot simply brush it aside, but must take their plans back to the drawing board."
+        },
+        "230325": {
+          "position": "disagree",
+          "explanation": "Brightlands needs to stand on its own two feet: innovation is a positive thing, but not at the expense of liveability and opportunities for all Maastricht residents. Quickly make the campus financially independent, listen to ordinary residents, and let their voices guide the creation of a greener, more liveable neighbourhood."
+        },
+        "230326": {
+          "position": "disagree",
+          "explanation": "The OZB does not necessarily need to be higher. In the SP’s view, it need only be indexed once a year. Only when Maastricht faces tough decisions – such as the closure of community centres or cutting service budgets – should a temporary increase be considered."
+        },
+        "230329": {
+          "position": "agree",
+          "explanation": "The SP believes the dog tax is unfair, and no longer belongs in this day and age. To many people, dogs are a friend and a source of essential support in the fight against loneliness – not a luxury item to be taxed."
+        },
+        "230330": {
+          "position": "disagree",
+          "explanation": "The SP does not see the value in promotional speeches for businesses. All too often, money just disappears into marketing slogans, providing little benefit for the average resident. A better investment would be in affordable homes, good jobs, resilient neighbourhoods, and public services – then businesses will follow automatically."
+        },
+        "230331": {
+          "position": "disagree",
+          "explanation": "The SP wants to preserve Sunday peace and quiet as much as possible. Sundays are for ourselves, our family and friends, but also things like football clubs and other associations that keep Maastricht life going. Not every hour in the week has to be dedicated to shopping and turning a profit."
+        },
+        "230333": {
+          "position": "disagree",
+          "explanation": "Denying recognised refugees priority will not solve the housing shortage, and anybody who says otherwise is lying. They are not the problem, and by pursuing this policy, families are ending up on the street. The real problem is that for decades, too little social housing has been built for all of us."
+        },
+        "230335": {
+          "position": "disagree",
+          "explanation": "Free language classes for international residents are not a municipal responsibility. Universities and employers already offer these to their students and employees. This funding could be better spent on housing, healthcare, and services that will directly benefit all Maastricht residents."
+        },
+        "230336": {
+          "position": "disagree",
+          "explanation": "Maastricht already hosts more asylum seekers than required, and generally there have been few problems. But to accommodate even more is not fair, when other municipalities are not stepping up. We want both fair distribution and high-quality, human-centred accommodation that is sustainable for everybody."
+        },
+        "230337": {
+          "position": "agree",
+          "explanation": "Fifty euro is simply exorbitant for parking a bike incorrectly. For many in Maastricht, a bicycle is no luxury, but a necessity for getting to work, school, or healthcare. 15 euro remains a deterrent and is enforceable, without hurting those on limited budgets."
+        },
+        "230338": {
+          "position": "disagree",
+          "explanation": "Associations run on volunteers and engaged parents, not on BOAs and extra regulations. The SP wants to support sports clubs and community centres, not saddle them with more supervision and administration. Raising children is first and foremost the responsibility of parents, not of volunteers behind the bar."
+        },
+        "230339": {
+          "position": "agree",
+          "explanation": "Cultural free spaces such as the Landbouwbelang are essential for a lively city. They provide space for experimentation, social contact, and alternative culture. The SP has been committed to their protection for years: no eviction without a real alternative and guaranteed space for free cultural expression."
+        },
+        "230340": {
+          "position": "agree",
+          "explanation": "Nature-inclusive construction is no luxury, but a real necessity. It helps combat heat stress, creates cooler neighbourhoods, and improves health and well-being. Protecting quality homes against heat makes neighbourhoods more liveable, especially for those without a garden or air conditioning."
+        },
+        "230347": {
+          "position": "agree",
+          "explanation": "Youth culture is no by-product, but an essential part of the city. Those with money can always find somewhere to go, but people on a budget are now often left out. The SP wants affordable and accessible opportunities for all young people in Maastricht to create, rehearse, and perform  in their own neighbourhood."
+        },
+        "230348": {
+          "position": "disagree",
+          "explanation": "Major events are often unaffordable to the average Maastricht resident, and create crowding and nuisance in the city. The SP prefers small-scale, accessible events and folk culture, at neighbourhood level for everybody. This promotes liveability and genuine connections in the city."
+        },
+        "230354": {
+          "position": "agree",
+          "explanation": "Incorrectly parked bicycles block sidewalks, streets, and entrances, often literally preventing senior citizens, wheelchair users, and those with prams or walking frames from getting past. The SP therefore wants stricter monitoring and enforcement, to ensure accessibility of public spaces for everybody."
+        },
+        "230355": {
+          "position": "agree",
+          "explanation": "The SP wants a safe city, but not one with non-stop surveillance. Security cameras are a harsh measure, as they intrude on our privacy and have not always been proven effective. The SP prefers street presence: more BOAs and a targeted neighbourhood approach, rather than more video surveillance."
+        },
+        "230356": {
+          "position": "agree",
+          "explanation": "Students are a part of Maastricht, but neighbourhoods must remain liveable. Excessive subdivision erodes family homes and disrupts neighbourhood balance. We want space for both students and residents: stop the spread in streets feeling the pressure, and create a place meant for students."
+        },
+        "230359": {
+          "position": "agree",
+          "explanation": "Housing is a right, not a luxury. Every new development should include affordable homes up to €280,000, so that people on average incomes can continue to live here. No expensive developments for investors, but real homes for first-time buyers, young families, and residents who want to build a life in Maastricht."
+        },
+        "230360": {
+          "position": "disagree",
+          "explanation": "The SP believes that rental social housing is for everybody living, working and enjoying life in the city, not just for those who happened to be born within the municipal borders. Ties to the city can mean work, family, love, informal caregiving, or community life. Housing is a right, not a matter of background."
+        },
+        "230361": {
+          "position": "agree",
+          "explanation": "Maastricht needs to expand its pool of affordable housing, which may mean expanding the city. But not at the cost of nature or landscape – on that the SP stands firm. We want expansion only where necessary and where it can occur responsibly, without impacting on nature, liveability, or health."
+        },
+        "230365": {
+          "position": "disagree",
+          "explanation": "The SP believes in participation, not coercion. Not everybody on welfare is able to perform community service, due to health, stress, or their domestic situation. In these cases, obligations have the opposite effect. Those who are both willing and able should have the opportunity, with support where necessary, and from a spirit of trust, not punishment."
+        },
+        "230366": {
+          "position": "agree",
+          "explanation": "The SP wants to introduce a Maastricht city pass, similar to those already in use in other cities, to promote free or discounted participation for people on low incomes. Being able to go to the cinema or to watch Maastricht play football are part of a happy life, and nobody should be left out because they are on a budget."
+        },
+        "230368": {
+          "position": "disagree",
+          "explanation": "Rental social housing stock is already in short supply. Recent years have seen social housing sold off in swathes, with incredibly long waiting lists as a result. The SP wants more high-quality, geniunely affordable social rentals, offering everybody an affordable home – not fewer by selling them off."
+        },
+        "230369": {
+          "position": "disagree",
+          "explanation": "The SP wants a genuine low-traffic city centre. More parking spaces will have the opposite effect, making the city busier and less healthy. We instead want more space for greenery, pedestrians, and cyclists, with parking spaces reserved principally for those who have no choice but to travel by car."
+        },
+        "230370": {
+          "position": "agree",
+          "explanation": "30 km/h zones increase safety and liveability in residential areas. Slower speeds mean fewer accidents, less noise pollution, and more space for children to play outdoors and for seniors to get around safely. Neighbourhoods are for living in, not for tearing through at high speeds."
+        },
+        "230373": {
+          "position": "agree",
+          "explanation": "Maastricht is at the centre of the Euregion. A train to Hasselt will make it easier for Maastricht locals to work, visit family, and go shopping in Belgium. Efficient, affordable public transport across the border is essential, especially for people without a car."
+        },
+        "230380": {
+          "position": "agree",
+          "explanation": "Menstruation poverty is becoming a real problem for more and more girls and women: pads and tampons cost money, and not everybody has that much to spare every month. Nobody should have to feel ashamed or resort to makeshift solutions. Tampons and pads should be free, just like toilet paper."
+        }
+      }
+    },
+    {
+      "id": 230302,
+      "name": "PVV",
+      "fullName": "PVV",
+      "website": "https://www.maastricht.pvv.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "230320": {
+          "position": "agree",
+          "explanation": "The PVV believes that public administrators should be open and honest about who they meet with, and why. Residents should be aware of who is calling the shots in our municipality."
+        },
+        "230322": {
+          "position": "agree",
+          "explanation": "Citizens deserve more opportunities to provide input."
+        },
+        "230324": {
+          "position": "agree",
+          "explanation": "The city belongs to its residents, not to administrators, public officials, or action groups. Too often, far-reaching decisions are taken without consulting the citizens of Maastricht. A referendum ensures that the municipal administration has to listen to what the majority of residents genuinely want."
+        },
+        "230325": {
+          "position": "disagree",
+          "explanation": "We believe that no additional tax funding should go to large, costly projects such as Brightlands. Basic needs for residents should be in order first: affordable homes, safe neighbourhoods, good healthcare for seniors, and less bureaucracy and wastage."
+        },
+        "230326": {
+          "position": "disagree",
+          "explanation": "On the contrary, the OZB should be lowered. Maastricht residents are already facing rising costs for housing, energy, food, and healthcare. A higher OZB means even more costs for hardworking citizens, families, and seniors."
+        },
+        "230329": {
+          "position": "agree",
+          "explanation": "More and more municipalities are getting rid of the dog tax. As the capital, let us set the right example."
+        },
+        "230330": {
+          "position": "disagree",
+          "explanation": "First we should focus on the businesses in Maastricht itself."
+        },
+        "230331": {
+          "position": "agree",
+          "explanation": "People’s schedules are becoming more and more hectic. Being able to do shopping on Sunday nights gives residents more flexibility in how to organise their time."
+        },
+        "230333": {
+          "position": "agree",
+          "explanation": "Our city is FULL. Citizens of Maastricht have been on waiting lists for years, which is why Maastricht residents should receive priority, NOT recognised refugees."
+        },
+        "230335": {
+          "position": "disagree",
+          "explanation": "Offering free language classes means Maastricht taxpayers will bear the cost for a responsibility that lies with the individual. It is reasonable to expect people who come to live in Maastricht to also make the effort to learn the Dutch language."
+        },
+        "230336": {
+          "position": "disagree",
+          "explanation": "Our city is full. We need to draw the line. Houses are scarce, services are under strain, the streets are becoming less and less safe. There is no more room."
+        },
+        "230337": {
+          "position": "agree",
+          "explanation": "We support a fee reduction, so that residents are not burdened unnecessarily and the barrier to collection is lower."
+        },
+        "230338": {
+          "position": "disagree",
+          "explanation": "Community associations are the backbone of Maastricht. They depend mostly on volunteers, and are already overburdened with regulations and checks. Associations ought to be trusted, as long as they use alcohol responsibly and protect our youth. The municipality needs to support, not punish. "
+        },
+        "230339": {
+          "position": "disagree",
+          "explanation": "The municipality should opt for safety and liveability, not subsidies or protections for cultural free spaces. Culture is a good thing, but no exceptions: the same laws should apply equally everywhere, and everybody should keep to the same rules. "
+        },
+        "230340": {
+          "position": "disagree",
+          "explanation": "Dit verhoogt kosten en bemoeilijkt bouwen. Wij willen sneller en betaalbaar bouwen zonder extra regels zodat Maastrichtenaren sneller een woning krijgen."
+        },
+        "230347": {
+          "position": "disagree",
+          "explanation": "The municipality already spends a lot on culture, additional investments are not necessary. The priority should lie with basic provisions for youth, such as meeting spaces and sport."
+        },
+        "230348": {
+          "position": "disagree",
+          "explanation": "Wij willen ons meer focussen op bestaande Maastrichtse feesten, lokale tradities en initiatieven van bestaande ondernemers in Maastricht."
+        },
+        "230354": {
+          "position": "agree",
+          "explanation": "De gemeente moet inderdaad strenger optreden tegen fout geparkeerde fietsen. Ze zorgen voor veel overlast. Strakkere handhaving houdt Maastricht netjes en toegankelijke. "
+        },
+        "230355": {
+          "position": "disagree",
+          "explanation": "Just the opposite: we need more video surveillance."
+        },
+        "230356": {
+          "position": "agree",
+          "explanation": "Crowding and nuisance have risen dramatically in residential areas. Residents – seniors and families especially – have seen their safety and quality of life decrease due to the rise in student homes. Students are welcome, but not at the expense of our own residents, who should take precedence when it comes to safe and liveable neighbourhoods. "
+        },
+        "230359": {
+          "position": "agree",
+          "explanation": "Including affordable homes of up to €280,000 in every new development gives first-time buyers and families more opportunities, making the housing market more accessible."
+        },
+        "230360": {
+          "position": "agree",
+          "explanation": "Maastricht residents who have been on waiting lists for years should always take precedence."
+        },
+        "230361": {
+          "position": "agree",
+          "explanation": "Yes, but only where it is strictly necessary and can be done responsibly – Maastricht residents should always come first."
+        },
+        "230365": {
+          "position": "agree",
+          "explanation": "PVV Maastricht believes that welfare recipients should give something back to society where possible. It provides structure, contributes to the community, and keeps benefits fair for everybody who really needs them."
+        },
+        "230366": {
+          "position": "agree",
+          "explanation": "PVV supports a pass for residents on low incomes, to allow concessions or free access to activities in society. This will support health and a sense of community in Maastricht, without high costs to residents."
+        },
+        "230368": {
+          "position": "agree",
+          "explanation": "PVV Maastricht believes that social housing tenants should have the opportunity to purchase their home where possible, to increase home ownership and mobility. The municipality can encourage housing associations to offer this option for as long as it remains affordable for Maastricht residents."
+        },
+        "230369": {
+          "position": "agree",
+          "explanation": "The city centre does not have enough (affordable!) parking, which limits accessibility for residents and visitors."
+        },
+        "230370": {
+          "position": "disagree",
+          "explanation": "Many streets are already safe enough, and extra zones will create even more frustration and unnecessary delays. We give preference to targeted enforcement in genuine problem streets."
+        },
+        "230373": {
+          "position": "disagree",
+          "explanation": "We oppose this if Maastricht has to foot the bill. First invest in security, liveability, and accessibility within our own city."
+        },
+        "230380": {
+          "position": "disagree",
+          "explanation": "PVV Maastricht believes that the municipality should not take on any additional duties or costs that are not part of essential services. Free menstruation products create ongoing costs and additional regulations; these resources could be better spend on existing, targeted schemes for people on low incomes. "
+        }
+      }
+    },
+    {
+      "id": 230300,
+      "name": "50PLUS",
+      "fullName": "50PLUS",
+      "website": "https://maastricht50plus.nl/nl",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "230320": {
+          "position": "agree",
+          "explanation": "In light of recent experiences, we can see this is necessary. Transparency is an absolute necessity! "
+        },
+        "230322": {
+          "position": "disagree",
+          "explanation": "More funding for residents to manage their own priorities is reasonable, however the current citizen-budget processes do not seem to be working optimally."
+        },
+        "230324": {
+          "position": "agree",
+          "explanation": "The referendum must be binding in accordance with the Swiss model, and the options must be clearly defined."
+        },
+        "230325": {
+          "position": "disagree",
+          "explanation": "Decisions have been made regarding Brightlands’ development, and no additional resources are necessary."
+        },
+        "230326": {
+          "position": "disagree",
+          "explanation": "Any increase to the OZB will eventually be passed on to residents who are already having trouble making ends meet. The first response to financial challenges should be to control spending."
+        },
+        "230329": {
+          "position": "disagree",
+          "explanation": "50PLUS believes it is right for the municipal costs of dog ownership to be financed by the dog tax."
+        },
+        "230330": {
+          "position": "disagree",
+          "explanation": "Spending should focus on improving facilities to make Maastricht an attractive place to live and work, instead of pouring more money into marketing."
+        },
+        "230331": {
+          "position": "disagree",
+          "explanation": "50PLUS has always been against longer opening hours, as it will certainly impact community life and small business owners who have no choice but to follow suit."
+        },
+        "230333": {
+          "position": "agree",
+          "explanation": "50PLUS believes that this is discrimination against our own population. We need to solve the housing problem, but we will not do so by disadvantaging the local residents."
+        },
+        "230335": {
+          "position": "disagree",
+          "explanation": "There is no such thing as free lessons. Responsibility lies primarily with the asylum-seeker centres, education institutions, or other organisations."
+        },
+        "230336": {
+          "position": "disagree",
+          "explanation": "50PLUS believes the statutory requirements are adequate. The asylum-seeker centre in Eijsden-Margraten was set up just outside Maastricht’s city limits, and is also impacting Maastricht residents."
+        },
+        "230337": {
+          "position": "disagree",
+          "explanation": "50PLUS sees that incorrectly parked bicycles impact the safety of seniors and residents with limited mobility. Parking one’s bike correctly is basic decency. It is a major problem that needs to be addressed."
+        },
+        "230338": {
+          "position": "disagree",
+          "explanation": "Regulations should be enforced equally for both hospitality and clubs/associations – no stricter action is necessary."
+        },
+        "230339": {
+          "position": "disagree",
+          "explanation": "50PLUS does not see the added value of these spaces."
+        },
+        "230340": {
+          "position": "agree",
+          "explanation": "It will be cheaper, easier, and more effective to incorporate this immediately into all new developments. We want to preserve nature in the long term, and pass it on to future generations."
+        },
+        "230347": {
+          "position": "disagree",
+          "explanation": "There are more than enough activities for young people."
+        },
+        "230348": {
+          "position": "disagree",
+          "explanation": "Maastricht hosts enough major events. The MECC is responsible for organising and acquiring its own events."
+        },
+        "230354": {
+          "position": "agree",
+          "explanation": "We need monitoring and effective measures by removing bicycles. These poorly-parked bicycles compromise the safety of seniors and residents with limited mobility."
+        },
+        "230355": {
+          "position": "disagree",
+          "explanation": "In this day and age, technology should be used to improve the city. The use of smart cameras, which can serve multiple purposes, should be recommended."
+        },
+        "230356": {
+          "position": "agree",
+          "explanation": "Students generally live on different schedules to other residents, making further blending of these groups undesirable."
+        },
+        "230359": {
+          "position": "agree",
+          "explanation": "50PLUS favours homes that can be lived in for a lifetime, promoting mobility and easing the housing shortage."
+        },
+        "230360": {
+          "position": "agree",
+          "explanation": "50PLUS understands very well that current residents want to keep living in the city, and wants to help make it possible."
+        },
+        "230361": {
+          "position": "disagree",
+          "explanation": "This is unnecessary, and also seems impracticable. There are still plenty of opportunities to expand upward. We need a proper assessment of which homes are needed in the future."
+        },
+        "230365": {
+          "position": "agree",
+          "explanation": "50PLUS does believe that this depends on the individual. There are enough social initiatives that need help, however this should not displace actual employment."
+        },
+        "230366": {
+          "position": "agree",
+          "explanation": "50PLUS does not want residents to be left out of society for financial reasons. Care must be taken to ensure that people do not stop looking for work because they risk losing these benefits."
+        },
+        "230368": {
+          "position": "agree",
+          "explanation": "However, care must be taken to prevent speculation and short-term resale of these homes."
+        },
+        "230369": {
+          "position": "disagree",
+          "explanation": "50PLUS is in favour of a low-traffic inner city, with park-and-ride facilities and good connectivity on the edges of town."
+        },
+        "230370": {
+          "position": "agree",
+          "explanation": "The time saved for drivers or other road users is minimal, but lowering the speed limit greatly increases neighbourhood safety. also making it easier and safer for children to play outdoors."
+        },
+        "230373": {
+          "position": "agree",
+          "explanation": "The current train route is Maastricht-Visé-Luik-Tongeren-Hasselt. Ridiculous. Rather than getting bogged down in legal disputes, we should focus on better connecting Limburg’s two capitals and universities, including connectivity to Flanders. Keeping the railway bridge is essential in this regard."
+        },
+        "230380": {
+          "position": "disagree",
+          "explanation": "50PLUS wants residents to be well informed about where they can access these products. There are already enough locations, and educational institutions also have an important role to play."
+        }
+      }
+    },
+    {
+      "id": 230290,
+      "name": "Sociaal Actieve Burgerpartij",
+      "fullName": "Sociaal Actieve Burgerpartij",
+      "website": "https://www.sab-maastricht.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "230320": {
+          "position": "agree",
+          "explanation": "The Socially Active Citizens’ Party (SAB) supports transparency in administration, but not needless bureaucracy. A lobbying register could prove valuable, provided it is practical and genuinely provides information to residents."
+        },
+        "230322": {
+          "position": "disagree",
+          "explanation": "The Socially Active Citizens’ Party (SAB) is in favour of citizen participation, but does not see the citizen budget as an end in itself. We must first establish whether the current budget effectively reaches all areas and produces results. More funding only makes sense if it can be shown to work."
+        },
+        "230324": {
+          "position": "disagree",
+          "explanation": "SAB recognises the importance of consultation, but does not see referendums as a standard instrument. For complex issues, SAB prefers effective participation, neighbourhood consultation, and clear decision-making by the council so that interests"
+        },
+        "230325": {
+          "position": "disagree",
+          "explanation": "SAB recognises the importance of Brightlands Maastricht health Campus, but believes that additional municipal funding is only justified where employment, care, and residents will demonstrably benefit. Results and transparency first, then extra funding."
+        },
+        "230326": {
+          "position": "disagree",
+          "explanation": "SAB believes that the OZB has already significantly increased in recent years. In a time when many residents are under financial strain, further hikes are not a good idea. SAB prefers to focus on effective cost management and spending reviews, rather than raising taxes. In the event of a budget surplus, the BSGW should be lowered."
+        },
+        "230329": {
+          "position": "agree",
+          "explanation": "In SAB's view, the dog tax is unfair and outdated. Dog owners already pay for care and amenities, while the revenue does not even benefit dog policy. Acrapping the tax is fairer, and more in line with lower local taxes."
+        },
+        "230330": {
+          "position": "disagree",
+          "explanation": "SAB believes that good accessibility, affordable space and clear regulations are what make Maastricht attractive, not costly promotion campaigns. First work on creating the preconditions for business; promotion will follow in due course once the foundation is in order."
+        },
+        "230331": {
+          "position": "agree",
+          "explanation": "SAB believes that Sundays and holidays should be available for rest and family. Mandating longer opening hours puts pressure on staff and small businesses. If businesses have freedom of choice, fine, but there should be no further obligation."
+        },
+        "230333": {
+          "position": "agree",
+          "explanation": "SAB believes that rental social housing should be more fairly distributed, based on waiting time and urgency. Prioritising recognised refugees is not fair to other home seekers. Human-centred, temporary shelter remains essential, however."
+        },
+        "230335": {
+          "position": "agree",
+          "explanation": "In SAB's view, language is the key to participation in society. Free language classes help international residents to integrate more quickly, find work, and establish social contacts in Maastricht, strengthening social cohesion and resilience."
+        },
+        "230336": {
+          "position": "disagree",
+          "explanation": "SAB believes Maastricht should meet its national obligations, but not more than that. Higher numbers will put strain on housing and facilities. SAB is, however, in favour of humane, temporary accommodation within clear and attainable limits."
+        },
+        "230337": {
+          "position": "agree",
+          "explanation": "SAB believes €50 is extravagant and disproportionate. A lower rate of €15 is fairer, prevents bikes from being abandoned, and keeps enforcement proportional. The measure is intended to be correctional, not punitive."
+        },
+        "230338": {
+          "position": "disagree",
+          "explanation": "SAB believes that alcohol regulations should be enforced carefully and consistently, especially for the protection of young people. There is no need for extra-strict enforcement or additional monitoring; the focus should be on clear rules, prevention, and collaboration with clubs and societies."
+        },
+        "230339": {
+          "position": "agree",
+          "explanation": "SAB has no explicit position on cultural free spaces, but supports local initiatives, grassroots culture, and community contact. Cultural free spaces are a part of this picture, provided they are safe, practical, and in balance with the city."
+        },
+        "230340": {
+          "position": "agree",
+          "explanation": "SAB believes that new housing developments must be future-proof. Nature-inclusive elements, such as nesting boxes and greenery, strengthen biodiversity and quality of living, and have a place in practical and responsible construction provided they remain affordable and practicable."
+        },
+        "230347": {
+          "position": "agree",
+          "explanation": "SAB believes culture is important for young people’s development and social contact. A bigger focus on affordable and accessible cultural activities strengthens talent, social cohesion, and opportunities. A targeted approach is necessary, close to young people and with visible results."
+        },
+        "230348": {
+          "position": "disagree",
+          "explanation": "SAB believes that events should not exceed the city’s capacity. We do not need a higher number, but the right events that maintain a balance between liveability, safety and costs. Quality and distribution take precedence over growth for growth’s sake."
+        },
+        "230354": {
+          "position": "agree",
+          "explanation": "SAB believes that incorrect parking should be dealt with where it causes inconvenience or a lack of safety. Stricter enforcement must not become an end in itself. Enforcement should be combined with clearer parking locations and fair rules."
+        },
+        "230355": {
+          "position": "disagree",
+          "explanation": "SAB wants increased and faster deployment of surveillance cameras in high-disturbance areas, as well as additional mobile cameras, including in neighbourhoods."
+        },
+        "230356": {
+          "position": "agree",
+          "explanation": "SAB believes that residential areas should first and foremost be liveable for residents. Unchecked growth of student homes leads to neighbourhood disruption and displacement. We need a balance: student housing should be concentrated in suitable locations, not in every residential neighbourhood."
+        },
+        "230359": {
+          "position": "disagree",
+          "explanation": "SAP wants to encourage affordable homes, but is against fixed standards for every development. The housing market differs from place to place. Work with discretion, a mixture of housing types and affordability through efficient agreements, not rigid rules."
+        },
+        "230360": {
+          "position": "agree",
+          "explanation": "SAB believes it is reasonable for current Maastricht residents on waiting lists should receive as much priority for social housing wherever possible. This will support fairness and community support, within national frameworks and with due regard for urgency."
+        },
+        "230361": {
+          "position": "neither",
+          "explanation": "SAB believes that we need to build more houses, but that should not automatically mean expanding the city borders. We should first look at infill, re-use, and densification where possible. Expansion should only be considered where it is carefully planned, feasible, and environmentally sound."
+        },
+        "230365": {
+          "position": "disagree",
+          "explanation": "SAB is against mandatory mutual participation for benefits. Recipients not yet in a reintegration program could be encouraged to participate in voluntary, meaningful activities. Tailored plans, support, and creating opportunities are the priority – not compulsory requirements."
+        },
+        "230366": {
+          "position": "agree",
+          "explanation": "SAB believes that social participation should not depend on income. A social pass makes sport, culture, and courses accessible to people on low incomes, supporting health, development, and social cohesion. The pass must not be stigmatised, however; a discount pass is therefore preferable, up to 100%."
+        },
+        "230368": {
+          "position": "agree",
+          "explanation": "SAB believes that social housing tenants who are willing and able should have the opportunity to purchase their home, strengthening housing security and personal ownership. Social housing stock must be maintained, however, and sales carried out responsibly."
+        },
+        "230369": {
+          "position": "disagree",
+          "explanation": "SAB believes that parking in the centre of Maastricht must be balanced against liveability and accessibility. The goal should not be more or less, but the right amount for each area, with workable alternatives and clear choices."
+        },
+        "230370": {
+          "position": "agree",
+          "explanation": "SAB prioritises road safety, and supports more 30 km/h zones in residential areas. Needs differ between neighbourhoods, so a discretionary approach is needed: 30km/h where it will genuinely improve safety."
+        },
+        "230373": {
+          "position": "agree",
+          "explanation": "SAB values accessibility, but has reservations when it comes to large-scale rail projects. Affordable and flexible options first deserve investigation, such as buses and high-quality public transport. A train should only be considered where the project is demonstrably feasible, costs are manageable, and there is added value."
+        },
+        "230380": {
+          "position": "agree",
+          "explanation": "SAB believes that period products are basic needs. Free distribution combats poverty and exclusion, especially among young people and those on low incomes, and contributes to health, dignity, and equal opportunities."
+        }
+      }
+    },
+    {
+      "id": 230291,
+      "name": "M:OED",
+      "fullName": "M:OED",
+      "website": "https://stemvoormoed.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "230320": {
+          "position": "agree",
+          "explanation": "Openness is essential to good governance."
+        },
+        "230322": {
+          "position": "disagree",
+          "explanation": "M:OED wants more direct democracy for resident involvement. A citizens’ budget does not contribute directly, since it is often only accessed by a small group, and does not benefit disadvantaged groups. Extra funding would be better spent on democratic innovations, such as a students’ council."
+        },
+        "230324": {
+          "position": "disagree",
+          "explanation": "Asking opinions is a good thing – referendums are not the answer."
+        },
+        "230325": {
+          "position": "agree",
+          "explanation": "This funding could be used to help young people start a business, or for social/student housing in a vibrant area."
+        },
+        "230326": {
+          "position": "disagree",
+          "explanation": "Among other things, this will lead to higher rental living costs, which are already high enough."
+        },
+        "230329": {
+          "position": "disagree",
+          "explanation": "The dog tax is a significant source of income for the municipality."
+        },
+        "230330": {
+          "position": "agree",
+          "explanation": "A large variety of employment options is needed to keep young people in Maastricht."
+        },
+        "230331": {
+          "position": "agree",
+          "explanation": "It is simply baffling that the supermarkets close at 6 p.m. Longer opening times can promote a more healthy and sustainable lifestyle, something that M:OED has always advocated for."
+        },
+        "230333": {
+          "position": "disagree",
+          "explanation": "Everybody should still have a fair opportunity to find a home. But where need is acute, some asylum seekers should be eligible for priority."
+        },
+        "230335": {
+          "position": "agree",
+          "explanation": "We believe that everyone who wants to learn Dutch should have that opportunity, especially if it improves employment prospects."
+        },
+        "230336": {
+          "position": "disagree",
+          "explanation": "All cities need to do their part. Maastricht should not have to make extra effort."
+        },
+        "230337": {
+          "position": "agree",
+          "explanation": "Maastricht is outrageously expensive compared to other cities, and now they want to make bicycle collection needlessly difficult, when bicycles are an essential means of transport. M:OED wants a bicycle-friendly Maastricht."
+        },
+        "230338": {
+          "position": "disagree",
+          "explanation": "Clubs and associations are important centres of social contact. We should support them, not make things more difficult for them."
+        },
+        "230339": {
+          "position": "agree",
+          "explanation": "M:OED believes there should be more alternative cultural activities for young people. The Landbouwbelang is one good example."
+        },
+        "230340": {
+          "position": "agree",
+          "explanation": "Nature-inclusive construction need not be more costly. It has positive health effects, and demonstrably increases the enjoyment of one’s home. Greening is the future, and also helps combat heat stress."
+        },
+        "230347": {
+          "position": "agree",
+          "explanation": "M:OED believes there are too few cultural activities for the younger demographic. Young people should receive support to organise their own activities and events."
+        },
+        "230348": {
+          "position": "agree",
+          "explanation": "Yes, M:OED believes these should be events for young people, such as festivals."
+        },
+        "230354": {
+          "position": "disagree",
+          "explanation": "The municipality should create more bike parking. M:OED does not want to punish cyclists because there is not enough."
+        },
+        "230355": {
+          "position": "disagree",
+          "explanation": "Provided the balance between privacy and safety is maintained, there is no need to reduce the amount of camera surveillance."
+        },
+        "230356": {
+          "position": "disagree",
+          "explanation": "There needs to be more student housing in the inner city. The municipality should not only build dull studio complexes. There is too much bureaucracy blocking solutions to the accommodation problem."
+        },
+        "230359": {
+          "position": "agree",
+          "explanation": "It is important for young people to have access to affordable housing."
+        },
+        "230360": {
+          "position": "disagree",
+          "explanation": "Bringing the knowledge economy to the city means giving people outside Maastricht equal access to housing."
+        },
+        "230361": {
+          "position": "agree",
+          "explanation": "Adequate affordable housing for young people is important."
+        },
+        "230365": {
+          "position": "agree",
+          "explanation": "We believe that everyone who is able should contribute to society in some way, through volunteer work for example."
+        },
+        "230366": {
+          "position": "agree",
+          "explanation": "M:OED believes this should be accessible to everyone – it is also important for students and others on low incomes. It is an opportunity to integrate students into Maastricht life."
+        },
+        "230368": {
+          "position": "disagree",
+          "explanation": "This will reduce the availability of social housing. Instead, housing developers should be building more for students and young people."
+        },
+        "230369": {
+          "position": "disagree",
+          "explanation": "Maastricht should work towards a low-traffic city centre, with fewer parking spaces and more room for cyclists, pedestrians and greenery."
+        },
+        "230370": {
+          "position": "agree",
+          "explanation": "This will make for safer and more pleasant streets."
+        },
+        "230373": {
+          "position": "agree",
+          "explanation": "It is important for Maastricht to have good train connectivity in order to function effectively as the gateway to Europe. A train to Hasselt will improve access to cities such as Brussels and Antwerp."
+        },
+        "230380": {
+          "position": "agree",
+          "explanation": "Menstruation poverty is a serious problem. Nobody should have to stay home because of their period. Free access to these products is essential to create equal opportunities."
+        }
+      }
+    },
+    {
+      "id": 257716,
+      "name": "Liberale Partij Maastricht",
+      "fullName": "Liberale Partij Maastricht",
+      "website": "https://liberalepartijmaastricht.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "230320": {
+          "position": "agree",
+          "explanation": "The municipality must be transparent."
+        },
+        "230322": {
+          "position": "disagree",
+          "explanation": "Because citizen budgets never concern major issues, their impact is never great. It is more about giving groups the impression that they are exerting influence. They are only small neighbourhood matters, like a park bench, or a water fountain."
+        },
+        "230324": {
+          "position": "agree",
+          "explanation": "Give citizens a voice, in important matters especially."
+        },
+        "230325": {
+          "position": "disagree",
+          "explanation": "Citizens are likely unaware that millions have already been invested in Brightlands. Wherever there is money to spare, Brightlands usually comes out on top."
+        },
+        "230326": {
+          "position": "disagree",
+          "explanation": "No, the OZB is already very high in Maastricht."
+        },
+        "230329": {
+          "position": "agree",
+          "explanation": "Most municipalities have already done away with the dog tax. Maastricht should follow suit."
+        },
+        "230330": {
+          "position": "disagree",
+          "explanation": "Instead of spending money on advertisements and promotion, the economics department needs to actively attract companies that provide well-paid, stable jobs suited to people who are currently unemployed. In other words: we need decisive action."
+        },
+        "230331": {
+          "position": "disagree",
+          "explanation": "Workers also need days off. There are enough times for shopping."
+        },
+        "230333": {
+          "position": "agree",
+          "explanation": "Mass immigration needs to stop, and all the Distribution Act does is enable it. We already have a shortage of housing, space, and natural surroundings for our own population – taking on more asylum seekers and recognised refugees is a bad idea. We are against preferential treatment of this group."
+        },
+        "230335": {
+          "position": "disagree",
+          "explanation": "This is the university’s responsibility."
+        },
+        "230336": {
+          "position": "disagree",
+          "explanation": "We must not further enable mass immigration."
+        },
+        "230337": {
+          "position": "disagree",
+          "explanation": "Millions were spent on a bicycle garage at the station, yet bicycles are still left on sidewalks and town squares. It’s just selfish. That is why the €50 fee should remain, including for students. Sometimes people need a financial incentive to change their behaviour."
+        },
+        "230338": {
+          "position": "agree",
+          "explanation": "When alcohol abuse leads to serious incidents, such as alcohol poisoning and vandalism at student clubs, for instance."
+        },
+        "230339": {
+          "position": "agree",
+          "explanation": "Good to have an alternative available."
+        },
+        "230340": {
+          "position": "agree",
+          "explanation": "We also need grassy areas and parks."
+        },
+        "230347": {
+          "position": "agree",
+          "explanation": "There should once again be a music school for young people, who can later progress to the conservatory. The lessons in painting, acting, etc. at Kumulus could potentially be made more affordable."
+        },
+        "230348": {
+          "position": "disagree",
+          "explanation": "The event calendar is chock-full, and we must not destroy liveability in the city altogether. There is plenty to do every weekend."
+        },
+        "230354": {
+          "position": "agree",
+          "explanation": "The municipality knows where the bicycle problems are, but enforcement has no instructions to take action. Soft measures, such as charm offensives, do not work. Only direct cleanups help. The problem is solvable, but enforcement is being eroded and priority is low."
+        },
+        "230355": {
+          "position": "disagree",
+          "explanation": "More cameras are needed for greater security and to apprehend perpetrators."
+        },
+        "230356": {
+          "position": "agree",
+          "explanation": "Student campuses need to be built, to free up family homes. Overmaze is one good potential location for a student campus."
+        },
+        "230359": {
+          "position": "agree",
+          "explanation": "In 2020, the Liberal Party Maastricht successfully submitted the ‘more affordable housing’ motion, for Maastricht residents not on generous salaries, but on ordinary salaries. They, too, need to be able to afford housing here. We support the interests of the people, not investors’ bank accounts."
+        },
+        "230360": {
+          "position": "agree",
+          "explanation": "Our own population should always take precedence over recognised refugees."
+        },
+        "230361": {
+          "position": "disagree",
+          "explanation": "A needs assessment is required, taking into account declining ageing trends and low population growth among local residents. Mass immigration must stop, it is putting enormous pressure on our country. There is a shortage of space, housing, and accommodation. Over 1000 new homes have already been built."
+        },
+        "230365": {
+          "position": "agree",
+          "explanation": "If there is a labour shortage, we support paid employment over volunteer work. If that is not feasible, then volunteer work."
+        },
+        "230366": {
+          "position": "disagree",
+          "explanation": "What this pass aims to achieve is already available. For years, schemes have been available that provide for exactly these things."
+        },
+        "230368": {
+          "position": "disagree",
+          "explanation": "Housing stock needs to be kept up."
+        },
+        "230369": {
+          "position": "agree",
+          "explanation": "Because there is a lot of new development going on in the city centre."
+        },
+        "230370": {
+          "position": "agree",
+          "explanation": "People are driving far too fast."
+        },
+        "230373": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "230380": {
+          "position": "disagree",
+          "explanation": ""
+        }
+      }
+    },
+    {
+      "id": 230301,
+      "name": "Forum voor Democratie",
+      "fullName": "Forum voor Democratie",
+      "website": "https://fvd.nl/gemeentes/maastricht",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "230320": {
+          "position": "agree",
+          "explanation": "A public lobbying register promotes openness and transparency, something that FVD Maastricht strongly supports."
+        },
+        "230322": {
+          "position": "disagree",
+          "explanation": "FVD Maastricht would rather see direct input on important topics in the form of local referendums. Experience shows that the citizen budget often goes to people and organisations with good connections and a substantial network – far from ideal, in our view."
+        },
+        "230324": {
+          "position": "agree",
+          "explanation": "Democracy means more than just voting every four years. For important local issues – such as the placement of asylum-seeker centres, waste policy, or the introduction of car-free zones – Maastricht residents should be consulted."
+        },
+        "230325": {
+          "position": "disagree",
+          "explanation": "Right now, the municipality is pouring unbelievable amounts into Brightlands. It has already cost Maastricht taxpayers €150,000 to change the station name from Maastricht Randwyck to Maastricht Brightlands – symbolic of how money is being squandered in the area."
+        },
+        "230326": {
+          "position": "disagree",
+          "explanation": "The OZB is one of the most unfair forms of tax. It should be drastically lowered, and absolutely not raised."
+        },
+        "230329": {
+          "position": "agree",
+          "explanation": "Pet ownership should not be a cash cow for the municipality. FVD Maastricht strongly supports getting rid of the dog tax."
+        },
+        "230330": {
+          "position": "disagree",
+          "explanation": "These funds could be better spent on genuinely making Maastricht more attractive to businesses, instead of on an empty promotional campaign."
+        },
+        "230331": {
+          "position": "agree",
+          "explanation": "Businesses should be free to decide on their own opening hours."
+        },
+        "230333": {
+          "position": "agree",
+          "explanation": "It is absolutely ludicrous that people who have only been here a short time should take precedence over born-and-bred Maastricht residents, who have been on waiting lists for years."
+        },
+        "230335": {
+          "position": "disagree",
+          "explanation": "Nothing is free. Essentially, ‘free language lessons’ means they are paid for by Maastricht taxpayers. There are currently enough accessible ways to learn a new language, such as DuoLingo."
+        },
+        "230336": {
+          "position": "disagree",
+          "explanation": "The municipality should not accept any more asylum seekers, for the simple reasons that we have a housing shortage, and it creates friction with the local population."
+        },
+        "230337": {
+          "position": "disagree",
+          "explanation": "Enough warnings are given before a bicycle even ends up anywhere near the depot."
+        },
+        "230338": {
+          "position": "disagree",
+          "explanation": "The municipality does not need to unfairly obstruct clubs and associations."
+        },
+        "230339": {
+          "position": "disagree",
+          "explanation": "The Landbouwbelang has been squatting in free accommodation for decades. In this respect, the authorities have already been extremely generous. If Landbouwbelang can find and pay for their own accommodation, fine, but it is not the municipality’s responsibility."
+        },
+        "230340": {
+          "position": "disagree",
+          "explanation": "First and foremost, new developments need to be realistic, and match the existing Maastricht architecture."
+        },
+        "230347": {
+          "position": "agree",
+          "explanation": "FVD Maastricht supports a greater focus on Maastricht culture among all age groups. Young people are no exception."
+        },
+        "230348": {
+          "position": "agree",
+          "explanation": "Large events give the city extra allure, and also benefit the Maastricht economy."
+        },
+        "230354": {
+          "position": "agree",
+          "explanation": "FVD Maastricht is of the opinion that we should combat the growing problem of badly-parked bicycles."
+        },
+        "230355": {
+          "position": "agree",
+          "explanation": "Not only is it unnecessary to have so many cameras everywhere, it is also an invasion of privacy."
+        },
+        "230356": {
+          "position": "disagree",
+          "explanation": "Halting all student housing growth is too harsh and infringes on property rights. Problems should be addressed where they occur, not by prohibiting student housing in advance."
+        },
+        "230359": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "230360": {
+          "position": "agree",
+          "explanation": "It is particularly sad that nowadays, more and more people cannot find a place to live in the area where they come from. The municipality should help them as much as possible."
+        },
+        "230361": {
+          "position": "agree",
+          "explanation": "Maastricht is facing a housing shortage. Building more homes is one solution to the problem."
+        },
+        "230365": {
+          "position": "agree",
+          "explanation": "People on benefits are perfectly able to contribute to society."
+        },
+        "230366": {
+          "position": "disagree",
+          "explanation": "FVD Maastricht is in favour of equal treatment for all residents."
+        },
+        "230368": {
+          "position": "neither",
+          "explanation": "Although FVD Maastricht finds this idea appealing, the decision should ultimately rest with the housing association."
+        },
+        "230369": {
+          "position": "agree",
+          "explanation": "FVD Maastricht is in favour of adequate parking throughout Maastricht, which also means the city centre."
+        },
+        "230370": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "230373": {
+          "position": "agree",
+          "explanation": "Effective connectivity to nearby cities is essential."
+        },
+        "230380": {
+          "position": "disagree",
+          "explanation": "Nothing is free. In this case, Maastricht taxpayers will foot the bill. Besides, where do we draw the line? Why tampons and menstrual pads, but not toothpaste or toilet paper?"
+        }
+      }
+    },
+    {
+      "id": 230289,
+      "name": "MAASTRICHT van NU",
+      "fullName": "MAASTRICHT van NU ",
+      "website": "https://www.maastrichtvannu.nl/",
+      "hasSeats": false,
+      "participates": true,
+      "positions": {
+        "230320": {
+          "position": "agree",
+          "explanation": "The government should lay its cards on the table. If high-placed officials and members of the executive meet with lobbyists, then Maastricht should know who was at the table and what was discussed. No back-room politics, but honest government. That is the least residents deserve."
+        },
+        "230322": {
+          "position": "disagree",
+          "explanation": "Residents have a right to provide input, but the municipality must take responsibility itself and not delegate everything to residents. We believe it is our duty to invest actively in neighbourhoods, without people needing to lobby first for every park bench or zebra crossing."
+        },
+        "230324": {
+          "position": "agree",
+          "explanation": "Referendums can be valuable, but are not enough. Taking residents seriously means an ongoing process of listening, clarification, and changing course. The municipality needs dialogue with neighbourhoods – not simply asking a question, but genuinely working together on solutions."
+        },
+        "230325": {
+          "position": "agree",
+          "explanation": "An investment in Brightlands is an investment in the future of Maastricht. It both draws talent and creates jobs at every level, from researchers to support staff, giving all residents more opportunities. Smart growth starts with prosperity that benefits everyone."
+        },
+        "230326": {
+          "position": "disagree",
+          "explanation": "Taxing homeowners more is not fair policy. MAASTRICHT van NU does not want to punish residents for owning their home. We want to focus on other solutions: higher tourist taxes, building vacancy, and more efficient use of public funds. More revenue without impacting residents."
+        },
+        "230329": {
+          "position": "agree",
+          "explanation": "The dog tax is outdated and unfair, punishing dog owners while other pets can be kept for free. MAASTRICHT van NU wants both equal treatment and fewer nonsense fees. This token tax needs to go. It’s time for fairer policy!"
+        },
+        "230330": {
+          "position": "disagree",
+          "explanation": "Maastricht sells itself just fine. MAASTRICHT van NU would rather invest in what genuinely attracts businesses: accessibility, affordable accommodations, and a healthy city. No costly campaigns, just investment in what works – for both businesses and residents."
+        },
+        "230331": {
+          "position": "agree",
+          "explanation": "Supermarkets should be able to stay open longer, as long as it makes sense to do so. The additional hours are no problem, provided the business and employees are both in favour. MAASTRICHT van NU wants tailored solutions: freedom where it works, no pressure where it is not needed."
+        },
+        "230333": {
+          "position": "agree",
+          "explanation": "The housing shortage affects all residents. MAASTRICHT van NU believes that everyone should have equal access to rental social housing. No automatic priority, but a fair assessment of the situation, family makeup, and urgency. Housing is a right, not a privilege."
+        },
+        "230335": {
+          "position": "agree",
+          "explanation": "Everyone in the city should be able to take part. Language is the key to work, social contact, and community engagement. MAASTRICHT van NU wants everybody to have the chance to learn Dutch – without barriers or cost. This is not an empty expense, but an investment in a cohesive society."
+        },
+        "230336": {
+          "position": "disagree",
+          "explanation": "Maastricht already has enough on its plate. MAASTRICHT van NU believes we should keep to the national agreements. Accepting more asylum seekers than required will place additional strain on housing, services, and community support. Let us take care of our own residents first."
+        },
+        "230337": {
+          "position": "neither",
+          "explanation": "€15 is too low, €50 is too high. Low fees do nothing to solve the problem; high fees mean people will leave their bicycles in the depot. MAASTRICHT van NU prefers a fair middle ground: €25 is reasonable, encourages collection, and keeps the city in order. Common-sense enforcement."
+        },
+        "230338": {
+          "position": "disagree",
+          "explanation": "Clubs and associations deserve trust, not excessive supervision. MAASTRICHT van NU wants enforcement to focus on genuine problems, not everyday nannying. Encourage responsibility, and provide freedom to do so. Regulations are already there, but we need common-sense enforcement."
+        },
+        "230339": {
+          "position": "agree",
+          "explanation": "Cultural free spaces have a place in a lively city. MAASTRICHT van NU supports room for creativity and grassroots initiatives – provided the rules are clear. No unchecked growth, no subsidised competition for businesses. Freedom, yes, but fair and responsible."
+        },
+        "230340": {
+          "position": "disagree",
+          "explanation": "Nature is important, but affordable housing is priority no. 1. Mandatory nesting boxes and green roofs drive up costs, while starters and families have trouble even finding a home. Encourage it where possible, but it should not be mandatory. You can't afford a nesting box without a roof over your head."
+        },
+        "230347": {
+          "position": "agree",
+          "explanation": "Culture is not an afterthought – it gives young people a voice, an outlet, and opportunities. MAASTRICHT van NU wants to invest more in culture that genuinely appeals to the younger generation: music, dance, street art, film. Less funding for elitist concert halls, and more for young talent on the streets."
+        },
+        "230348": {
+          "position": "disagree",
+          "explanation": "MAASTRICHT van NU is satisfied with the current policy. We should not be pushing for even more major events at any cost. Quality over quantity, with due regard for liveability and community support. The city is for the residents, not just the day-trippers."
+        },
+        "230354": {
+          "position": "agree",
+          "explanation": "Incorrectly parked bicycles create chaos and disrupt pedestrians, especially the elderly and people with decreased mobility. MAASTRICHT van NU want more visible, fair, and targeted enforcement. Not a bicycle dump on the pavement. The city belongs to us all."
+        },
+        "230355": {
+          "position": "disagree",
+          "explanation": "Cameras are not a magic solution, but they do help with security and investigations. MAASTRICHT van NU does not want big brother, but surveillance where it is needed: at high-risk locations, dumping sites, and in nightlife areas. Fewer cameras does not make for a better city."
+        },
+        "230356": {
+          "position": "agree",
+          "explanation": "Homes are for living in, not slicing up for a profit. MAASTRICHT van NU wants to re-establish the balance: no unchecked growth of student housing to the detriment of families and community. Students are welcome, but distribution and clear boundaries are needed for liveable neighbourhoods."
+        },
+        "230359": {
+          "position": "disagree",
+          "explanation": "Not all development plans are the same. MAASTRICHT van NU believes in examining the needs of each location. Sometimes affordable owner-occupied homes make more sense, other times it's social housing, or even care residences. A blanket standard will not work – tailored solutions do. We should build what we really need."
+        },
+        "230360": {
+          "position": "agree",
+          "explanation": "People who grow up in the region should be able to continue living here. MAASTRICHT van NU wants to prioritise our own home seekers, to keep neighbourhoods lively, promote clubs and associations, and keep families close together."
+        },
+        "230361": {
+          "position": "agree",
+          "explanation": "MAASTRICHT van NU wants space for new homes, including at the fringes of the city if necessary. The housing shortage is too serious for inaction. City expansion should be an option, provided it is well-considered, affordable, and with due regard for nature and liveability. We should build for the future, not for show."
+        },
+        "230365": {
+          "position": "agree",
+          "explanation": "People who are able to work should give something back to the community. MAASTRICHT van NU believes that welfare should not be a final destination. Useful work provides rhythm, pride, and future prospects. Participation according to ability, with proper support and understanding for a person’s capabilities. "
+        },
+        "230366": {
+          "position": "agree",
+          "explanation": "Participation in society should not be an optional extra. MAASTRICHT van NU wants a social pass for people on low incomes, so that they too can enjoy sports, education, and culture. Equal opportunities start with access, not a price tag. This is investing in inclusion."
+        },
+        "230368": {
+          "position": "agree",
+          "explanation": "Those who are willing and able should have the option to purchase their rental home. MAASTRICHT van NU wants housing associations to actively make this possible. It strengthens ownership, mobility, and neighbourhood connection, as well as additional revenue for the associations to re-invest in more social housing."
+        },
+        "230369": {
+          "position": "disagree",
+          "explanation": "More parking spaces in the city centre solve nothing, but instead create additional crowding, pollution, and reduce space for pedestrians and cyclists. MAASTRICHT van NU wants smart mobility: good access, but with due regard for liveability and space in the city."
+        },
+        "230370": {
+          "position": "agree",
+          "explanation": "Road safety begins with speed. MAASTRICHT van NU wants to introduce 30km/h on more residential neighbourhood roads, especially in places with lots of children, seniors, and cyclists. Liveability and safety take precedence over speed."
+        },
+        "230373": {
+          "position": "agree",
+          "explanation": "A train to Hasselt would strengthen the region, connect people, and offer sustainable transport. MAASTRICHT van NU sees it as an intelligent investment in accessibility, the economy, and cross-border collaboration. More connection, less congestion – that's progress."
+        },
+        "230380": {
+          "position": "neither",
+          "explanation": "MAASTRICHT van NU acknowledges the problem of period poverty, but wants targeted support where it is really needed. Not handing out free products everywhere, but ensuring that those who need them have easy access through schools, support services, or community centres. Practical and goal-oriented."
+        }
+      }
+    }
+  ],
+  "statements": [
+    {
+      "id": 230329,
+      "index": 1,
+      "theme": "Dog tax",
+      "themeId": "dog-tax",
+      "title": "The municipality should abolish the dog tax.",
+      "moreInfo": "In Maastricht, dog owners must pay a dog tax. The municipality can use the revenue from this tax to pay for dog facilities, such as dog parks and cleaning up dog droppings. It can also use the funds for other purposes, however. In 2026, the Maastricht dog tax is set at €77.52 for the first dog.",
+      "pro": "The dog tax is unfair. There is no tax for other pets.Lots is spent on administration and enforcement.The dog tax is outdated. Many municipalities no longer have a dog tax.",
+      "con": "The dog tax generates revenue for the municipality.The money can be used to pay for dog-related expenses.The ‘polluter pays’ principle should apply.",
+      "isShootout": false
+    },
+    {
+      "id": 230337,
+      "index": 2,
+      "theme": "Bicycle collection",
+      "themeId": "bicycle-collection",
+      "title": "The fee for collecting a bicycle from the impound should be lowered to €15. The current fee is €50.",
+      "moreInfo": "The municipality of Maastricht removes bicycles that are broken, have not been used for a long time, or are parked incorrectly, in order to free up space in bike racks and parking garages. In the centre of town, bicycles are also removed that are on the sidewalk or not in designated parking areas. Removed bicycles are taken to the bicycle depot at Gerardusweg 39, where owners can collect them. To do so, they currently pay a fee of €50.",
+      "pro": "€50 is too much to collect your bike.If the amount were lower, people would collect their bikes sooner.If the city wants to encourage cycling, they should lower the fee.",
+      "con": "Higher fees encourage people to follow the rules.Lower prices can lead to more problems due to incorrectly parked bicycles.The €50 fee covers municipal expenses.",
+      "isShootout": false
+    },
+    {
+      "id": 230335,
+      "index": 3,
+      "theme": "Free language classes",
+      "themeId": "free-language-classes",
+      "title": "The municipality should offer free language courses to international residents.",
+      "moreInfo": "Maastricht has many international residents, such as students, expats, and people with residence permits. The municipality could decide to offer free language classes to international residents. Language classes are already compulsory for some groups. 2 The law already requires people with residence permits to take language classes. While not compulsory for asylum seekers in asylum-seeker centres, classes are still offered there. Students can take language classes through their school or university. They decide for themselves whether to do so. Expats can take part voluntarily in language courses or initiatives in the city.",
+      "pro": "Language helps international residents to participate in society. Language classes allow people to find work sooner. Learning a language promotes social contact.",
+      "con": "Language classes should be organised nationally, not by the municipality. Lessons do not need to be free for everybody. People who can afford it can take a course themselves.",
+      "isShootout": false
+    },
+    {
+      "id": 230320,
+      "index": 4,
+      "theme": "Lobbying register",
+      "themeId": "lobbying-register",
+      "title": "Maastricht should introduce a public lobbying register, creating a record of who meets with administrators and why.",
+      "moreInfo": "Municipal office-holders, such as councillors and the Mayor, regularly meet with organisations, businesses and interest groups. This is also referred to as lobbying. A public lobby register records who has spoken with office-holders and what the meeting was about. Residents can consult this register.",
+      "pro": "A lobbying register provides more transparency in government.Residents can see who is trying to exert influence.Transparency increases trust in the municipality.",
+      "con": "It can be a barrier for people and organisations to contact the municipality.Maintaining a lobbying register takes a lot of time and money.A public lobbying register goes too far.",
+      "isShootout": false
+    },
+    {
+      "id": 230330,
+      "index": 5,
+      "theme": "Business climate",
+      "themeId": "business-climate",
+      "title": "The municipality should invest more in a campaign to promote Maastricht as an attractive business location.",
+      "moreInfo": "Municipalities can attract businesses by showing what they have to offer. One way to do this is via a promotional campaign, which aims to persuade businesses to come to the municipality.",
+      "pro": "A promotional campaign will help bring businesses and talent to Maastricht. A promotional campaign could help generate more employment. More companies will contribute to the city’s economic growth.",
+      "con": "Maastricht is already very attractive to companies. This money could be better spent on accessibility and affordable business space. Creating a good business climate is more important than advertising.",
+      "isShootout": false
+    },
+    {
+      "id": 230348,
+      "index": 6,
+      "theme": "Major events",
+      "themeId": "major-events",
+      "title": "The municipality should try to attract more major events.",
+      "moreInfo": "Each year, Maastricht hosts many large events, such as trade fairs, concerts, and sports and cultural events. These events often attract large numbers of visitors, both from within and outside the city. The municipality plays an active role, in cooperation with external partners, in updating and strengthening the programme of larger events.",
+      "pro": "Major events attract many visitors to the city.Events generate more income for businesses.Events make the city more attractive and vibrant.",
+      "con": "Large events can be disruptive to residents.They impact liveability, with crowding and noise.The city should also consider the quality of events and the level of community support, not just their number.",
+      "isShootout": false
+    },
+    {
+      "id": 230355,
+      "index": 7,
+      "theme": "Security cameras",
+      "themeId": "security-cameras",
+      "title": "Maastricht needs less video surveillance (security cameras).",
+      "moreInfo": "The municipality uses security cameras to monitor disturbances and crime. They are installed in public spaces, and take footage of what happens there. This footage is monitored by a control room to increase safety. Most cameras in Maastricht are located in the city centre, Wyck, the nightlife area, and around De Geusselt football stadium. The municipality is expanding video surveillance to include the entire city centre and neighbouring areas. In total, there will be around 110 permanent security cameras. There are also cameras on the access roads to the inner city, to monitor for any cars that should not be there because they emit too many harmful emissions. The municipality can also add temporary cameras at hotspots or when there are major events.",
+      "pro": "Security cameras are an invasion of privacy. Cameras do not solve the problem, they only move it somewhere else. It is not necessary to put cameras everywhere.",
+      "con": "Cameras create a greater feeling of safety. Cameras are necessary at hotspots for crime or disturbance. Video surveillance helps investigate incidents.",
+      "isShootout": false
+    },
+    {
+      "id": 230333,
+      "index": 8,
+      "theme": "Priority for refugees",
+      "themeId": "priority-for-refugees",
+      "title": "Recognised refugees should not receive priority for rental social housing.",
+      "moreInfo": "Recognised refugees are people who have applied for asylum and received a residence permit. They are allowed to stay in the Netherlands. Every six months, the national government determines how many recognised refugees each municipality must accommodate. These numbers are based on the population in each municipality. Municipalities can decide for themselves who receives priority for rental social housing. Recognised refugees are not automatically prioritised – that depends on municipal regulations. In Maastricht, roughly 1,100 social rentals become available each year. Around 5-6% of these are prioritised for recognised refugees.",
+      "pro": "Everybody deserves the same opportunity for rental social housing.Giving priority to refugees means starters and young people need to wait longer for housing.Recognised refugees can live in temporary modular housing, and do not need priority social housing.",
+      "con": "A permanent home helps refugees participate in society.The municipality is required by law to provide recognised refugees with housing.The housing shortage was not caused by refugees, but by housing policy in recent years.",
+      "isShootout": false
+    },
+    {
+      "id": 230373,
+      "index": 9,
+      "theme": "Train connection",
+      "themeId": "train-connection",
+      "title": "Maastricht should invest in a train line to Hasselt in Belgium.",
+      "moreInfo": "Maastricht and Hasselt are close to each other, but there is no train that travels between them. The only current options are a bus, or a lengthy train route. A direct line could improve public transport across the border. The municipality could work with other authorities to create one.In the past, there were plans for a light rail between Maastricht and Hasselt. The project was cancelled, and there are still legal proceedings underway between authorities in the Netherlands and Belgium.",
+      "pro": "A train line would strengthen cooperation in the region.A train to Hasselt would make it easier to travel on to cities such as Brussels and Antwerp.Travelling by train is sustainable, and good for the public transport system.",
+      "con": "There is already a good bus connection between Maastricht and Hasselt.Train lines are extremely expensive.The Belgian partners cancelled the light rail project – without certainty on the costs, starting a new project would be unwise.",
+      "isShootout": false
+    },
+    {
+      "id": 230331,
+      "index": 10,
+      "theme": "Longer opening hours",
+      "themeId": "longer-opening-hours",
+      "title": "The municipality should allow supermarkets to remain open until 10:00 p.m. on Sundays.",
+      "moreInfo": "The municipality of Maastricht sets regulations for store opening hours. They act as a framework: retailers are not required to be open for late-night shopping or Sunday trading. Supermarkets are subject to different times than other retailers. On Sundays, Maastricht supermarkets are currently allowed to be open from 8 a.m. until 6 p.m.",
+      "pro": "Residents will have more freedom to decide when to do their shopping.Grocery shopping will become easier for people who work full-time.Businesspeople should be able to decide for themselves when to open their supermarkets.",
+      "con": "Sundays should be for peace and quiet, family, and free time.Many small businesses will not be able to keep up with these extended hours.Longer opening hours put more pressure on employees.",
+      "isShootout": false
+    },
+    {
+      "id": 230340,
+      "index": 11,
+      "theme": "Nature-inclusive construction",
+      "themeId": "nature-inclusive-construction",
+      "title": "All new builds should be nature-inclusive. This means that homes should contribute to natural development, through additions such as inbuilt nesting boxes.",
+      "moreInfo": "Municipalities can set criteria for new housing developments. Nature-inclusive construction takes nature and biodiversity into consideration, with additions such as nesting boxes for birds and bats, green roofs, or space for plants and insects.Nature-inclusive building is currently not mandatory in Maastricht, however the municipality does issue recommendations on nature-inclusive elements. Future plans state that Maastricht wishes to work toward a standard for new developments that takes nature into consideration.",
+      "pro": "Nature-inclusive construction is good for the plants and animals in the city.Green neighbourhoods make for a healthier living environment.Neighbourhoods will be more heat-proof and flood-resistant.",
+      "con": "Nature-inclusive construction can raise the cost of homes.Additional regulations can delay housing developments.The main concern is for new builds to match the existing buildings in Maastricht.",
+      "isShootout": false
+    },
+    {
+      "id": 230369,
+      "index": 12,
+      "theme": "Parking spaces",
+      "themeId": "parking-spaces",
+      "title": "The inner city of Maastricht needs more parking spaces.",
+      "moreInfo": "The municipality of Maastricht sets parking policy in the city. Space in the city centre is limited, and is shared by cars, cyclists, pedestrians, trees, and outdoor eating and drinking areas.",
+      "pro": "More spaces will keep the inner city accessible to both visitors and businesses.People dependent on their car for travel will have more parking options.New construction projects demand more parking spaces.",
+      "con": "More parking spaces will lead to more traffic and congestion in the city.The centre should have more space for pedestrians and cyclists, and less for cars.The edge of the city is a better place for parking spaces.",
+      "isShootout": false
+    },
+    {
+      "id": 230347,
+      "index": 13,
+      "theme": "Culture for youth",
+      "themeId": "culture-for-youth",
+      "title": "The municipality should invest more in cultural activities for young people.",
+      "moreInfo": "The municipality can decide to fund cultural activities for young people, such as music, dance, film, and other creative projects. These activities can be organised by the young people themselves, or by cultural organisations.In recent years, Maastricht has had special schemes for young people, such as subsidies for youth culture and school music projects. Municipally-funded cultural institutions also run activities for young people.",
+      "pro": "Culture helps young people to develop their talents.Cultural activities give young people opportunities to meet one another.The range of cultural activities for young people is currently too limited.",
+      "con": "The municipality already spends a lot on culture, they do not need to spend more.There are already enough cultural activities for young people.The money could be better spent on sports and other places where young people meet.",
+      "isShootout": false
+    },
+    {
+      "id": 230361,
+      "index": 14,
+      "theme": "City expansion",
+      "themeId": "city-expansion",
+      "title": "The municipality should expand the city borders to increase housing construction.",
+      "moreInfo": "The municipality can build new homes on sites within the city, such as empty lots or old business premises. Building can also take place outside the city – this is called ‘expansion.’The plans in Maastricht currently prioritise building new homes within city limits. One option is to do so in larger urban development areas or existing neighbourhoods, close to services. If building inside the city is not enough, the municipality can consider extending the city limits. The municipality can decide where and how to do so.",
+      "pro": "This will create more housing. It could help address the housing shortage. It will allow affordable homes for young people to be built.",
+      "con": "There is enough room to build inside the city. Building outside the city will encroach on nature areas. City expansion could lead to building vacancy later.",
+      "isShootout": false
+    },
+    {
+      "id": 230370,
+      "index": 15,
+      "theme": "Speed limit",
+      "themeId": "speed-limit",
+      "title": "A speed limit of 30 km/h should apply to more locations in residential areas.",
+      "moreInfo": "The ‘built-up area’ is the area within a city or town where people live, work, and shop. Currently, many of these areas have a maximum speed limit of 50 km/h, though some have already been reduced to 30 km/h.",
+      "pro": "30 km/u is safer for residential areas. Slower traffic is better for children and seniors. 30 km/u makes streets calmer and more pleasant to live in.",
+      "con": "More 30km zones will lead to more delays and frustration. Through-roads were made for 50 km/u, and are often already safe enough. It is better to focus on streets where there are real problems.",
+      "isShootout": false
+    },
+    {
+      "id": 230325,
+      "index": 16,
+      "theme": "Brightlands",
+      "themeId": "brightlands",
+      "title": "The municipality should invest more in Brightlands Maastricht Health Campus.",
+      "moreInfo": "Brightlands Maastricht Health Campus is a place in Randwyck where research is conducted on health, care, and innovation. It is home to companies, researchers, and education institutions.",
+      "pro": "More funding for Brightlands will create more jobs in Maastricht. The campus brings talent and businesses to the city. Investments can generate economic growth for the entire city.",
+      "con": "The municipality has already spent a lot on Brightlands. Extra funding only makes sense if there is a clear benefit. Municipal funding could be better spent on other city plans.",
+      "isShootout": false
+    },
+    {
+      "id": 230336,
+      "index": 17,
+      "theme": "Asylum-seeker centre",
+      "themeId": "asylum-seeker-centre",
+      "title": "The municipality should accept more asylum seekers than is nationally required.",
+      "moreInfo": "People fleeing their country can apply for asylum. The Immigration and Naturalisation Service (IND) decides whether they can stay in the Netherlands. During this procedure, asylum seekers need accommodation.Under national agreements, Maastricht must host at least 493 asylum seekers. The municipality currently accommodates more than the required number. In total there are over 800 available places, including a permanent asylum-seeker centre (AZC) and a temporary emergency shelter.",
+      "pro": "A large city can absorb more asylum seekers than a small village. Accommodating more eases the shortage of places elsewhere in the Netherlands. We should offer a safe haven for people fleeing war.",
+      "con": "Maastricht should keep to the agreed national numbers. More refugees puts additional strain on the housing market. The city already has a large asylum-seeker centre, and already takes in a lot of people.",
+      "isShootout": false
+    },
+    {
+      "id": 230354,
+      "index": 18,
+      "theme": "Bicycle enforcement",
+      "themeId": "bicycle-enforcement",
+      "title": "There should be stricter enforcement on incorrectly parked bicycles.",
+      "moreInfo": "Bicycles are sometimes parked where they do not belong, such as on sidewalks or at building entrances, creating blockages or unsafe situations. The municipality can monitor for this, removing bicycles or issuing fines. The municipality removes bicycles that are broken, or that have not been used in a long time. In the Netherlands, a broken bicycle is called a ‘bicycle wreck.’ A bicycle that has been abandoned for some time is called an ‘orphaned bicycle.’ Bicycles parked incorrectly (outside designated areas or on sidewalks) can also be removed.Additional monitoring takes place in the city centre and around the station. Removed bicycles are stored at the bicycle depot on Gerardusweg. Bicycle wrecks are not stored. The municipality decides on how strictly to monitor bicycle parking.",
+      "pro": "Incorrectly parked bicycles cause problems for pedestrians. Seniors and people with disabilities are especially impacted. Stronger enforcement is essential to a safe and accessible cycling city.",
+      "con": "There is not enough bicycle parking in the city. Stricter enforcement only punishes cyclists for a lack of parking. Awareness campaigns and better parking facilities work better than fines.",
+      "isShootout": false
+    },
+    {
+      "id": 230326,
+      "index": 19,
+      "theme": "Property tax",
+      "themeId": "property-tax",
+      "title": "The municipal property tax (OZB) should be raised.",
+      "moreInfo": "The municipal property tax (OZB) is a tax that people pay if they own a home or other property. The amount payable depends on the value of the home or building, and the percentages set by the municipality. The municipality uses OZB revenue for things like roads, green spaces, and resident services.",
+      "pro": "People who own an expensive home can afford to pay more tax than those with less-valuable homes. The OZB in Maastricht is lower than in comparable municipalities, and could therefore be raised a little. A higher OZB could generate revenue to build new, affordable housing.",
+      "con": "Increasing the OZB will raise living costs for residents. The OZB has already been raised in recent years.The municipality should look to reduce spending first.",
+      "isShootout": false
+    },
+    {
+      "id": 230324,
+      "index": 20,
+      "theme": "Referendum",
+      "themeId": "referendum",
+      "title": "The municipality should ask Maastricht residents their opinion on important matters via a referendum.",
+      "moreInfo": "The municipality of Maastricht has introduced a referendum by-law, allowing the municipal council to decide to hold a referendum. A referendum enables residents to give their opinion on an important topic. A referendum can only be held on a certain subject if a majority of the council votes in favour of it. In the Netherlands, the results of referendums are not ‘binding,’ which means that the council can ignore the result and do something else.",
+      "pro": "A referendum is a good way to find out what citizens think. On genuinely serious issues, residents themselves should have the final say. Referendums ensure that the municipal administration listens to residents more closely.",
+      "con": "Referendums only allow a yes/no answer, which leaves little room for nuance. For complex issues, consultation and citizen participation are more effective than a referendum. Referendums cost a lot of time and money, with little benefit in return.",
+      "isShootout": false
+    },
+    {
+      "id": 230360,
+      "index": 21,
+      "theme": "Priority housing allocation",
+      "themeId": "priority-housing-allocation",
+      "title": "Maastricht should prioritise local home seekers in the allocation of rental social housing wherever possible.",
+      "moreInfo": "Municipalities can decide on their own rules for allocating social housing. These rules are set out in a ‘housing ordinance,’ which can be used to determine what kind of home seekers get priority. Some groups can be allocated priority, such as informal carers or people living in temporary shelters. Since 2017, people with a residency permit do not automatically qualify for priority. Municipalities can decide for themselves whether they do.Municipalities can also specify other groups, such as those with strong ties to the local area. Currently in Maastricht, at least 45 per cent of the rental social housing that becomes available is allocated to home seekers from Maastricht.",
+      "pro": "Residents who have been on waiting lists for a long time should receive priority. People who grew up in Maastricht should be able to continue living here. Local priority fosters strong neighbourhoods and social networks.",
+      "con": "People from outside Maastricht also deserve a fair opportunity to find housing. Housing shortages are solved by building more housing, not by changing the housing ordinance. Rental social housing is for everybody who lives in and is a part of the city, not just people who grew up here.",
+      "isShootout": false
+    },
+    {
+      "id": 230366,
+      "index": 22,
+      "theme": "Social pass",
+      "themeId": "social-pass",
+      "title": "The municipality should introduce a ‘social pass,’ granting people on low incomes free or discounted access to sports, culture, or education.",
+      "moreInfo": "The municipality can help people on low incomes to participate in sports, cultural activities, or community classes. A social pass is one way to do so, by giving people free or discounted access to activities such as sports organisations, the theatre, or community education. Maastricht already has schemes that foster low-cost resident participation, such as the Youth Sports and Culture Fund and the Adult Sports and Culture Fund. The municipality could decide to supplement these schemes via a social pass.",
+      "pro": "A social pass will allow people on low incomes to take part in sports, cultural activities, and community courses. Participation in society should not depend on income. Everyone should have the same opportunities. A social pass lowers barriers, and makes it easier to take part in society.",
+      "con": "Schemes already exist that allow people on low incomes to participate in society. Yet another special scheme will just make the system more confusing. This has already been tried in the past, and it did not work well.",
+      "isShootout": false
+    },
+    {
+      "id": 230359,
+      "index": 23,
+      "theme": "Affordable homes",
+      "themeId": "affordable-homes",
+      "title": "Each new housing development should include homes for sale up to €280,000.",
+      "moreInfo": "When building new housing, the municipality makes agreements with project developers on what kinds of homes should be built. These can include rentals, owner-occupied housing, or a mixture of both. The municipality can set requirements for the price of homes for sale; one way to do so is to set a maximum price. A purchase price of up to €280,000 means homes that are relatively affordable.In Maastricht, the requirements say that when building 10 or more homes, at least 60% must be affordable, i.e. social rentals with a maximum monthly rent of € 932.93, or owner-occupied homes up to €280,000.",
+      "pro": "Affordable owner-occupied homes will mean that more people can buy a house.  First-time home buyers and young families will have more opportunities in the housing market. Housing needs to remain affordable for people on an average income.",
+      "con": "Fixed requirements in every development plan can lead to fewer homes being built. Not every location is suitable for all types of housing; they need to be tailored to the site. Rigid regulations can serve to slow mobility on the housing market.",
+      "isShootout": false
+    },
+    {
+      "id": 230338,
+      "index": 24,
+      "theme": "Alcohol enforcement",
+      "themeId": "alcohol-enforcement",
+      "title": "The municipality should enforce alcohol regulations at clubs and associations more strictly.",
+      "moreInfo": "Serving alcohol is subject to strict regulations, which are set out in both national and municipal laws. These laws also apply to clubs and associations, such as sports clubs, which therefore cannot serve alcohol to people aged under 18. The municipality monitors whether clubs follow the regulations.In Maastricht, it is municipal enforcement officers (BOAs) that do this. They perform checks, especially on busy days and during events, when they pay extra attention to alcohol consumption by minors. Large events are always monitored, however on regular club evenings, monitoring usually only occurs if there are reports (from surrounding residents, for example).",
+      "pro": "The regulations exist to protect young people, and should be enforced. Strict monitoring helps prevent alcohol consumption among under-18s. Enforcement is necessary in cases of dangerous behaviour, such as alcohol poisoning.",
+      "con": "Clubs are run by volunteers, and they should not be burdened with more monitoring. The municipality should give clubs support and trust, not punish them. Enforcement should only take place if there are serious problems or infringements.",
+      "isShootout": false
+    },
+    {
+      "id": 230365,
+      "index": 25,
+      "theme": "Mutual participation for benefits",
+      "themeId": "mutual-participation-for-benefits",
+      "title": "People should perform community service in return for their benefit payments.",
+      "moreInfo": "People on welfare benefits receive money from the municipality because they have little or no income of their own. They often also have obligations, such as looking for work or attending support sessions. Some municipalities ask welfare recipients to do community service. This is work that is beneficial to society, such as helping in a community centre, plant maintenance, or helping to support community activities. This work is usually not paid. The municipality could decide to make this kind of work mandatory for welfare recipients.",
+      "pro": "People who are able to work should give something back to the community. Community service provides structure and rhythm. Useful work helps people move into paid work.",
+      "con": "Not everybody on welfare is in a position to do community service. Mandatory work without pay is not a good idea. Voluntary participation with support works better than imposing obligations.",
+      "isShootout": false
+    },
+    {
+      "id": 230322,
+      "index": 26,
+      "theme": "Citizen budget",
+      "themeId": "citizen-budget",
+      "title": "The municipality should increase the citizen budget. The citizen budget gives Maastricht residents a joint say in how some municipal funds are spent.",
+      "moreInfo": "Every year, the municipality of Maastricht draws up a budget, setting out how much money the municipality receives and what it will be spent on. In a citizen budget, residents themselves decide how some of the municipal funds are spent. The municipality sets the amount, and residents decide together on what it should be spent on.Maastricht already has a citizen budget. Residents can submit proposals, and decide together on which ideas should be implemented. In 2025, the citizen budget totalled €750,000.",
+      "pro": "Residents know best what they need in their city or neighbourhood. A citizen budget gives residents real control over municipal funds. Joint decisions on public spending create more confidence in government.",
+      "con": "The current citizen budget is already high enough. The citizen budget mainly goes toward people with lots of time and a large network. Additional funds could be better spent directly on neighbourhoods and clubs/associations.",
+      "isShootout": false
+    },
+    {
+      "id": 230356,
+      "index": 27,
+      "theme": "Student houses",
+      "themeId": "student-houses",
+      "title": "The municipality should stop the growth of student housing in residential areas.",
+      "moreInfo": "Maastricht is home to many students. Some live in ordinary residential areas, in ‘student houses.’ Maastricht’s housing policy contains regulations for student accommodation, some of which apply to splitting up houses into separate rooms for rent.",
+      "pro": "Too many student houses create disruption in residential areas. Residential neighbourhoods need to remain liveable for local residents. Campuses are a better place for students than residential neighbourhoods.",
+      "con": "A complete ban is too strict, and not necessary. Students are also residents, and deserve to be part of the city. An effective mix of housing in the city is a better solution than strict separation.",
+      "isShootout": false
+    },
+    {
+      "id": 230339,
+      "index": 28,
+      "theme": "Cultural free spaces",
+      "themeId": "cultural-free-spaces",
+      "title": "The municipality should ensure that cultural free spaces, such as the Landbouwbelang, can continue to exist in the city.",
+      "moreInfo": "Cultural free spaces are places where people practice culture together, such as music and art. They often do so voluntarily and without making a profit. These locations provide opportunities for the growth of new ideas, and for people who cannot find a place anywhere else. The municipality can help by providing locations, or modifying legislation. The municipality decides whether, and how, it wishes to support these spaces.",
+      "pro": "Cultural free spaces create a lively city. They provide space for creativity and new ideas. They are important to facilitate interaction between different types of people.",
+      "con": "The municipality is not responsible for funding cultural free spaces. Free spaces should not provide unfair competition for businesses. The same rules should apply everywhere, including cultural free spaces.",
+      "isShootout": false
+    },
+    {
+      "id": 230368,
+      "index": 29,
+      "theme": "Purchasing rental homes",
+      "themeId": "purchasing-rental-homes",
+      "title": "The municipality should encourage housing associations to allow social housing tenants to buy their homes.",
+      "moreInfo": "Rental social housing is a type of housing for people on low incomes. Some social rental tenants want to purchase their homes, which is often possible under the Dutch Home Ownership (Promotion) Act. This means that tenants can purchase their homes if permitted by the lessor (e.g. a housing association).",
+      "pro": "Buying a home gives tenants greater security.It increases their engagement with the neighbourhood.The revenue can be used to build more social rentals.",
+      "con": "Social housing stock is already too limited.Selling social housing will make waiting lists even longer.Social rentals are meant for people who cannot afford to buy their own home.",
+      "isShootout": false
+    },
+    {
+      "id": 230380,
+      "index": 30,
+      "theme": "Free period care",
+      "themeId": "free-period-care",
+      "title": "The municipality should make free tampons and pads available at more locations.",
+      "moreInfo": "Menstrual products are essentials for women and girls during their period. Not everybody can easily afford or obtain these products. The municipality of Maastricht already has distribution points for menstrual products, such as pads and tampons. These points are currently managed by the Poverty Fund (Armoedefonds), an organisation that helps people with limited means. The municipality could decide to distribute tampons and pads in more locations, such as public buildings, sports locations, or schools.",
+      "pro": "Menstrual products are essentials, and should be available to everyone. Not everybody can easily afford tampons or pads. This way, girls and women will not need to stay at home during their period.",
+      "con": "Free menstrual products are already available from many locations. It is not the municipality’s job to provide these products. Free products will create additional expenses for the municipality.",
+      "isShootout": false
+    }
+  ]
+}

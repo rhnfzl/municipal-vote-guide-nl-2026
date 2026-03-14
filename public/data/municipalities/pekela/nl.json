@@ -1,0 +1,989 @@
+{
+  "id": "GM0765",
+  "name": "Pekela",
+  "slug": "pekela",
+  "parties": [
+    {
+      "id": 167338,
+      "name": "CDA",
+      "fullName": "Christen-Democratisch Appel",
+      "website": "https://www.cda.nl/groningen/pekela/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "167349": {
+          "position": "agree",
+          "explanation": "Geen toelichting beschikbaar"
+        },
+        "167350": {
+          "position": "disagree",
+          "explanation": "Geen toelichting beschikbaar"
+        },
+        "167351": {
+          "position": "agree",
+          "explanation": "Maar eerst bezuinigen! Het is de enige inkomstenbron van de gemeente."
+        },
+        "167359": {
+          "position": "agree",
+          "explanation": "Geen toelichting beschikbaar"
+        },
+        "167360": {
+          "position": "disagree",
+          "explanation": "Gemeente voert geen inkomensbeleid."
+        },
+        "167361": {
+          "position": "neither",
+          "explanation": "Via Pekela Duurzaam is al veel mogelijk."
+        },
+        "167366": {
+          "position": "agree",
+          "explanation": "Geen toelichting beschikbaar"
+        },
+        "167368": {
+          "position": "agree",
+          "explanation": "Geen toelichting beschikbaar"
+        },
+        "167371": {
+          "position": "neither",
+          "explanation": "In samenspraak met agrariër regelen, en landelijke regels volgen."
+        },
+        "167372": {
+          "position": "agree",
+          "explanation": "Geen toelichting beschikbaar"
+        },
+        "167373": {
+          "position": "disagree",
+          "explanation": "Goede insteek, maar geen tijdsdruk opleggen."
+        },
+        "167376": {
+          "position": "agree",
+          "explanation": "'Vluchteling' als statushouder: ja."
+        },
+        "167378": {
+          "position": "disagree",
+          "explanation": "Geen toelichting beschikbaar"
+        },
+        "167379": {
+          "position": "agree",
+          "explanation": "Geen toelichting beschikbaar"
+        },
+        "167381": {
+          "position": "disagree",
+          "explanation": "Niet in schoolverband, wel faciliteren."
+        },
+        "167385": {
+          "position": "disagree",
+          "explanation": "Hier zijn scholen verantwoordelijk voor, niet de gemeente."
+        },
+        "167386": {
+          "position": "disagree",
+          "explanation": "Geen toelichting beschikbaar"
+        },
+        "167388": {
+          "position": "disagree",
+          "explanation": "De vier van nu zijn voldoende."
+        },
+        "167391": {
+          "position": "disagree",
+          "explanation": "Geen toelichting beschikbaar"
+        },
+        "167394": {
+          "position": "agree",
+          "explanation": "Is al een CDA voorstel, maar nog niet ingevoerd."
+        },
+        "167395": {
+          "position": "disagree",
+          "explanation": "Geen toelichting beschikbaar"
+        },
+        "167397": {
+          "position": "disagree",
+          "explanation": "De gemeente is geen bouwbedrijf."
+        },
+        "167398": {
+          "position": "agree",
+          "explanation": "Geen toelichting beschikbaar"
+        },
+        "167401": {
+          "position": "agree",
+          "explanation": "Geen toelichting beschikbaar"
+        },
+        "167406": {
+          "position": "agree",
+          "explanation": "Maar elders is oké."
+        },
+        "167408": {
+          "position": "disagree",
+          "explanation": "Niet noodzakelijk , als het kan oké."
+        },
+        "167409": {
+          "position": "agree",
+          "explanation": "Geen toelichting beschikbaar"
+        },
+        "167414": {
+          "position": "disagree",
+          "explanation": "Onderhoud niveau C is acceptabel."
+        },
+        "167418": {
+          "position": "disagree",
+          "explanation": "Bestaande speeltuinen kunnen hierop ingericht worden, kinderen niet scheiden hierin."
+        },
+        "167419": {
+          "position": "agree",
+          "explanation": "Is een goed gebaar naar de vele vrijwilligers."
+        }
+      }
+    },
+    {
+      "id": 167340,
+      "name": "Samen voor Pekela",
+      "fullName": "Samen voor Pekela",
+      "website": "https://www.samenvoorpekela.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "167349": {
+          "position": "disagree",
+          "explanation": "Samenwerken is beter."
+        },
+        "167350": {
+          "position": "agree",
+          "explanation": "Het aanbieden van jaarlijkse referenda voor inwoners van Pekela kan een waardevolle manier zijn om de betrokkenheid bij en de legitimiteit van lokale besluitvorming te vergroten. Het vraagt wel om zorgvuldige planning en uitvoering om effectief en betekenisvol te zijn."
+        },
+        "167351": {
+          "position": "disagree",
+          "explanation": "Zorgen dat de financiën op orde zijn."
+        },
+        "167359": {
+          "position": "agree",
+          "explanation": "Ja daar hoeft de gemeente niet op te reageren. Te veel regelzucht."
+        },
+        "167360": {
+          "position": "disagree",
+          "explanation": "Werkgevers kunnen in sommige gevallen gebruik maken van loonkostensubsidie."
+        },
+        "167361": {
+          "position": "disagree",
+          "explanation": "Samen voor Pekela verwijst naar bestaande subsidieregelingen."
+        },
+        "167366": {
+          "position": "agree",
+          "explanation": "Zo nodig verbeteren riolering, vasthouden, bergen en afvoeren."
+        },
+        "167368": {
+          "position": "agree",
+          "explanation": "Samen voor Pekela vindt een gestructureerde aanpak om de transitie naar duurzame energie te bevorderen. De volgorde van stappen is als volgt: Daken van Woningen, Voormalige Industriële Terreinen, Grond Aansluitend bij Stedelijk Gebied, Onrendabele Landbouwgrond."
+        },
+        "167371": {
+          "position": "disagree",
+          "explanation": "Gaan we niet over, is landelijk beleid."
+        },
+        "167372": {
+          "position": "agree",
+          "explanation": "Overlastgevende wolven afschieten."
+        },
+        "167373": {
+          "position": "agree",
+          "explanation": "Het streven moet erop gericht zijn."
+        },
+        "167376": {
+          "position": "disagree",
+          "explanation": "Voor de wet is ieder gelijk, gelijkheidsbeginsel."
+        },
+        "167378": {
+          "position": "agree",
+          "explanation": "Iedere plek waar mensen zich onveilig voelen moeten we proberen te verbeteren."
+        },
+        "167379": {
+          "position": "disagree",
+          "explanation": "Helaas kun je er weinig aan doen."
+        },
+        "167381": {
+          "position": "agree",
+          "explanation": "Samen voor Pekela vindt dat schoolzwemmen terug moet keren in het onderwijs."
+        },
+        "167385": {
+          "position": "agree",
+          "explanation": "Van ouders met een hoger inkomen wordt een inkomensafhankelijke bijdrage gevraagd."
+        },
+        "167386": {
+          "position": "disagree",
+          "explanation": "Sommige jongeren zijn meer praktijkgericht en kunnen dan via de werkgever een cursus volgen, of op latere leeftijd nog bijscholing krijgen."
+        },
+        "167388": {
+          "position": "disagree",
+          "explanation": "Vier boa's zijn genoeg."
+        },
+        "167391": {
+          "position": "agree",
+          "explanation": "Prima om meer controles op maximumsnelheid, inwoners ervaren onveiligheid door het te te hard rijden van motorvoertuigen."
+        },
+        "167394": {
+          "position": "disagree",
+          "explanation": "Startersleningen moeten niet via de gemeente lopen maar via de officiële wegen zoals de banken en andere financiële instellingen."
+        },
+        "167395": {
+          "position": "disagree",
+          "explanation": "Er moet altijd ruimte blijven voor recreatief wandelen rondom het Heeresmeer."
+        },
+        "167397": {
+          "position": "disagree",
+          "explanation": "Nee, bouwen laten we over aan woningbouwcoöperaties"
+        },
+        "167398": {
+          "position": "agree",
+          "explanation": "Belangrijke verbinding naar het achterland en eventuele toekomstige woningbouw aan de zuidzijde van het dorp."
+        },
+        "167401": {
+          "position": "disagree",
+          "explanation": "Niet verplichten, wel stimuleren."
+        },
+        "167406": {
+          "position": "agree",
+          "explanation": "Renoveren is een optie!"
+        },
+        "167408": {
+          "position": "disagree",
+          "explanation": "Nee daar zijn professionele krachten voor."
+        },
+        "167409": {
+          "position": "agree",
+          "explanation": "Om duurzaam rijden te bevorderen is dit nodig."
+        },
+        "167414": {
+          "position": "agree",
+          "explanation": "Er is al te lang gewacht met achterstallig onderhoud. Dit vraagt om prioriteit."
+        },
+        "167418": {
+          "position": "agree",
+          "explanation": "Ook kinderen met een beperking moeten veilig in hun speeltuin kunnen spelen."
+        },
+        "167419": {
+          "position": "agree",
+          "explanation": "De vrijwilligers in Pekela zijn zeer belangrijk, op deze manier willen we de mensen een blijk van waardering geven."
+        }
+      }
+    },
+    {
+      "id": 167341,
+      "name": "GL/PvdA",
+      "fullName": "GroenLinks/Partij van de Arbeid",
+      "website": "https://pekela.groenlinkspvda.nl",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "167349": {
+          "position": "disagree",
+          "explanation": "Het doel van o.a. Nij Begun is om de regio sterker, veiliger en toekomstbestendig te maken. Gemeenschappelijke regelingen zijn efficiënt en kostenbesparend."
+        },
+        "167350": {
+          "position": "disagree",
+          "explanation": "De raadsleden zijn verkozen tot vertegenwoordigers van de bevolking. Informeren en inspraak is een goede zaak. Wij hebben een breed en intensief participatiebeleid, daar bovenop nog referenda past niet binnen dit systeem. Dat wordt besturen op sentiment/waan van de dag. Kost ook nog eens veel geld."
+        },
+        "167351": {
+          "position": "agree",
+          "explanation": "Indexatie is altijd nodig. Vanuit de landelijke politiek moet er voor het uitvoeren van overheidstaken voldoende geld beschikbaar gesteld worden. Dan is ozb-verhoging anders dan indexatie niet nodig."
+        },
+        "167359": {
+          "position": "disagree",
+          "explanation": "Dit is vastgelegd in redelijke voorwaarden."
+        },
+        "167360": {
+          "position": "disagree",
+          "explanation": "Hier is een ondernemer helemaal vrij in."
+        },
+        "167361": {
+          "position": "agree",
+          "explanation": "Duurzame energie is een must. Dit moet zoveel mogelijk gestimuleerd worden."
+        },
+        "167366": {
+          "position": "disagree",
+          "explanation": "Er wordt al veel gedaan in bestaande situaties, met bijvoorbeeld wadi's om de wateroverlast te voorkomen. In nieuwe plannen wordt er rekening gehouden met wateroverlast."
+        },
+        "167368": {
+          "position": "disagree",
+          "explanation": "Onrendabele landbouwgrond krijgt zo een goede bestemming. We hebben een taak om de energievoorziening te verduurzamen."
+        },
+        "167371": {
+          "position": "agree",
+          "explanation": "Wij zijn voor ondersteuning van natuur-inclusieve landbouw en ontmoediging van gebruik van bestrijdingsmiddelen, voor een gezonde sector én leefomgeving."
+        },
+        "167372": {
+          "position": "agree",
+          "explanation": "Als een wolf mensen aanvalt, is dit een noodzaak."
+        },
+        "167373": {
+          "position": "agree",
+          "explanation": "2050 geldt als landelijke norm. Pekela voorop in de vaart der volkeren!"
+        },
+        "167376": {
+          "position": "agree",
+          "explanation": "Het vluchtelingenprobleem is vooral een huisvestingsprobleem. Het effect op de beschikbare huurwoningen is minimaal, het verlengt de wachttijd met 3 maanden."
+        },
+        "167378": {
+          "position": "agree",
+          "explanation": "Verlichting kan een groot verschil uitmaken. Bij de nieuwe abri's verhoogt verlichting de veiligheid."
+        },
+        "167379": {
+          "position": "agree",
+          "explanation": "Een dementievriendelijke omgeving is voor onze vergrijzende samenleving noodzakelijk."
+        },
+        "167381": {
+          "position": "disagree",
+          "explanation": "Schoolzwemmen vraagt een te grote tijdsinvestering. Alle kinderen een zwemdiploma is wel een vereiste in Pekela, maar dit kan buiten schooltijd georganiseerd worden."
+        },
+        "167385": {
+          "position": "disagree",
+          "explanation": "Het beleid moet erop gericht zijn om ouders in staat te stellen om hun kind(eren) goede voeding te geven. School moet zich voornamelijk richten op onderwijs."
+        },
+        "167386": {
+          "position": "agree",
+          "explanation": "Het bedrijfsleven heeft een morele plicht om werknemers te stimuleren om certificaten of diploma's te behalen."
+        },
+        "167388": {
+          "position": "disagree",
+          "explanation": "Er is al extra inzet van boa's."
+        },
+        "167391": {
+          "position": "agree",
+          "explanation": "Geregelde controle heeft effect."
+        },
+        "167394": {
+          "position": "agree",
+          "explanation": "Wij willen graag jonge mensen die zich vestigen in Pekela."
+        },
+        "167395": {
+          "position": "agree",
+          "explanation": "Het zou gaan om een paar woningen. Dit is geen belemmering voor een rondje Heeresmeer."
+        },
+        "167397": {
+          "position": "disagree",
+          "explanation": "Wij zijn verbonden aan Acantus en onderhouden met hen nauwe contacten."
+        },
+        "167398": {
+          "position": "disagree",
+          "explanation": "Het huidige bruggenplan is vastgelegd."
+        },
+        "167401": {
+          "position": "disagree",
+          "explanation": "Mensen met een bijstandsuitkering moeten gestimuleerd worden. De menselijke maat is hier van toepassing."
+        },
+        "167406": {
+          "position": "disagree",
+          "explanation": "De Kiepe voldoet niet meer aan de (energie)eisen van deze tijd. De visie voor het nieuwe centrum van Nieuwe Pekela voorziet in uitstekende vervanging."
+        },
+        "167408": {
+          "position": "agree",
+          "explanation": "De combinatie van ervaring en deskundigheid maakt laagdrempelig en werkt!"
+        },
+        "167409": {
+          "position": "agree",
+          "explanation": "We zijn nu de gemeente met de laagste dekking in de provincie."
+        },
+        "167414": {
+          "position": "agree",
+          "explanation": "Wegonderhoud staat in de planning in combinatie met andere werkzaamheden."
+        },
+        "167418": {
+          "position": "agree",
+          "explanation": "Zoveel mogelijk denken in laagdrempelige mogelijkheden bevordert een inclusieve samenleving."
+        },
+        "167419": {
+          "position": "agree",
+          "explanation": "Pekela heeft heel veel vrijwilligers. Hen een keer per jaar in het zonnetje zetten laat waardering zien."
+        }
+      }
+    },
+    {
+      "id": 167342,
+      "name": "SP",
+      "fullName": "Socialistische Partij",
+      "website": "https://pekela.sp.nl",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "167349": {
+          "position": "agree",
+          "explanation": "Geen toelichting beschikbaar"
+        },
+        "167350": {
+          "position": "disagree",
+          "explanation": "Er is al een referendumverordening in onze gemeente."
+        },
+        "167351": {
+          "position": "disagree",
+          "explanation": "Geen toelichting beschikbaar"
+        },
+        "167359": {
+          "position": "disagree",
+          "explanation": "Deze verordening is onlangs aangenomen in de raad."
+        },
+        "167360": {
+          "position": "agree",
+          "explanation": "Dit gebeurt in onze gemeente d.m.v. loonkostensubsidie."
+        },
+        "167361": {
+          "position": "agree",
+          "explanation": "Gebeurt gasloos Boven Pekela."
+        },
+        "167366": {
+          "position": "agree",
+          "explanation": "In een aangenomen verordening is dit opgenomen, dus eens."
+        },
+        "167368": {
+          "position": "agree",
+          "explanation": "Geen toelichting beschikbaar"
+        },
+        "167371": {
+          "position": "agree",
+          "explanation": "Beter om te zeggen gewasbestrijdingsmiddelen, o.a. veroorzaker van ALS en Parkinson."
+        },
+        "167372": {
+          "position": "agree",
+          "explanation": "Geen toelichting beschikbaar"
+        },
+        "167373": {
+          "position": "agree",
+          "explanation": "Geen toelichting beschikbaar"
+        },
+        "167376": {
+          "position": "agree",
+          "explanation": "Is landelijk beleid, doen gemeentes dit niet, dan wordt er door de provincie een in de plaatsstelling opgelegd. Dit betekent dat de statushouders dan door de provincie op kosten van de gemeente in een HAR (hotel arrangement) worden ondergebracht, dit is vele malen duurder."
+        },
+        "167378": {
+          "position": "agree",
+          "explanation": "Bijvoorbeeld meer verlichting om omgevingen veiliger te maken."
+        },
+        "167379": {
+          "position": "agree",
+          "explanation": "Geen toelichting beschikbaar"
+        },
+        "167381": {
+          "position": "agree",
+          "explanation": "Dit is in het verleden al onderzocht en geprobeerd uit te voeren, echter de scholen wilden niet meewerken omdat dit te veel reistijd in beslag nam."
+        },
+        "167385": {
+          "position": "agree",
+          "explanation": "Geen toelichting beschikbaar"
+        },
+        "167386": {
+          "position": "disagree",
+          "explanation": "Als gemeente gaan wij in gesprek met deze ondernemers om de jongeren certicaten te laten behalen of om er een bbl-constructie van te maken zodat ze een diploma halen."
+        },
+        "167388": {
+          "position": "agree",
+          "explanation": "Geen toelichting beschikbaar"
+        },
+        "167391": {
+          "position": "agree",
+          "explanation": "Geen toelichting beschikbaar"
+        },
+        "167394": {
+          "position": "agree",
+          "explanation": "Geen toelichting beschikbaar"
+        },
+        "167395": {
+          "position": "agree",
+          "explanation": "Dit beleid is reeds vastgesteld"
+        },
+        "167397": {
+          "position": "agree",
+          "explanation": "Een eigen woningbouwvereniging is onze wens."
+        },
+        "167398": {
+          "position": "disagree",
+          "explanation": "Is reeds door de raad vastgesteld beleid."
+        },
+        "167401": {
+          "position": "agree",
+          "explanation": "Geen toelichting beschikbaar"
+        },
+        "167406": {
+          "position": "disagree",
+          "explanation": "Het gebouw is af, het gebouw kan niet meer gerenoveerd worden, dit is onderzocht. Er is geparticipeerd met de inwoners en die kiezen voor woningbouw op die plek"
+        },
+        "167408": {
+          "position": "agree",
+          "explanation": "Geen toelichting beschikbaar"
+        },
+        "167409": {
+          "position": "agree",
+          "explanation": "Geen toelichting beschikbaar"
+        },
+        "167414": {
+          "position": "disagree",
+          "explanation": "Vastgesteld beleid op C-niveau."
+        },
+        "167418": {
+          "position": "agree",
+          "explanation": "Geen toelichting beschikbaar"
+        },
+        "167419": {
+          "position": "disagree",
+          "explanation": "Al heel vaak geprobeerd, nooit een succes geweest."
+        }
+      }
+    },
+    {
+      "id": 167343,
+      "name": "PVV",
+      "fullName": "Partij voor de Vrijheid",
+      "website": "",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "167349": {
+          "position": "disagree",
+          "explanation": "Samenwerking zoeken om kosten te drukken en het betaalbaar te houden voor de Pekelders."
+        },
+        "167350": {
+          "position": "agree",
+          "explanation": "Op belangrijke onderwerpen inwoners betrekken zoals bij de bruggen, verkeersveiligheid en zaken die een maatschappelijke grote impact hebben."
+        },
+        "167351": {
+          "position": "disagree",
+          "explanation": "Niet altijd ten koste van de inwoners; als de portemonnee van de inwoners leeg is, zullen zij het daar ook mee moeten doen, en dit geldt ook voor de gemeente."
+        },
+        "167359": {
+          "position": "agree",
+          "explanation": "Wij zijn tegen ondernemers pesten."
+        },
+        "167360": {
+          "position": "agree",
+          "explanation": "Een stimulans bonus."
+        },
+        "167361": {
+          "position": "disagree",
+          "explanation": "Duurzaamheid begint bij jezelf. De subsidie komt uit eigen zak door belastingen."
+        },
+        "167366": {
+          "position": "agree",
+          "explanation": "De Pekelder PVV vindt deze stelling voor zich spreken."
+        },
+        "167368": {
+          "position": "agree",
+          "explanation": "Niet op het land, maar op daken."
+        },
+        "167371": {
+          "position": "agree",
+          "explanation": "De Pekelder PVV vindt deze stelling voor zich spreken."
+        },
+        "167372": {
+          "position": "disagree",
+          "explanation": "De wolf laten wij in leven, alleen bij extreem gevaar verjagen."
+        },
+        "167373": {
+          "position": "disagree",
+          "explanation": "Klimaatrealisme is het doel, maar geen klimaatdwang!"
+        },
+        "167376": {
+          "position": "disagree",
+          "explanation": "Gelijk speelveld voor iedereen, er moet geïnvesteerd worden in woningen voor de jeugd en ouderen in Pekela."
+        },
+        "167378": {
+          "position": "neither",
+          "explanation": "Het moet veilig zijn voor iedereen!"
+        },
+        "167379": {
+          "position": "agree",
+          "explanation": "De Pekelder PVV vindt deze stelling voor zich spreken."
+        },
+        "167381": {
+          "position": "agree",
+          "explanation": "In een dorp met veel water is het van levensbelang dat kinderen kunnen zwemmen."
+        },
+        "167385": {
+          "position": "disagree",
+          "explanation": "Een gezonde maaltijd is geen taak voor gemeenten."
+        },
+        "167386": {
+          "position": "agree",
+          "explanation": "Met een opleiding en diploma kun je meer bereiken in de toekomst."
+        },
+        "167388": {
+          "position": "agree",
+          "explanation": "Maar wel met ervaring."
+        },
+        "167391": {
+          "position": "agree",
+          "explanation": "Maar de gemeente moet ervoor zorgen dat de 30 en 60 zones ook worden ingericht voor deze snelheden zodat er ook op gehandhaafd kan worden."
+        },
+        "167394": {
+          "position": "agree",
+          "explanation": "De Pekelder PVV vindt deze stelling voor zich spreken."
+        },
+        "167395": {
+          "position": "agree",
+          "explanation": "De Pekelder PVV vindt deze stelling voor zich spreken."
+        },
+        "167397": {
+          "position": "agree",
+          "explanation": "Acantus is hierin geen betrouwbare partner. Gemeente moet hierin het heft in eigen handen nemen."
+        },
+        "167398": {
+          "position": "agree",
+          "explanation": "Wij willen alle bruggen behouden."
+        },
+        "167401": {
+          "position": "agree",
+          "explanation": "De Pekelder PVV vindt deze stelling voor zich spreken."
+        },
+        "167406": {
+          "position": "disagree",
+          "explanation": "Maar nieuwbouw op een andere plek."
+        },
+        "167408": {
+          "position": "agree",
+          "explanation": "De Pekelder PVV vindt deze stelling voor zich spreken."
+        },
+        "167409": {
+          "position": "disagree",
+          "explanation": "De Pekelder PVV vindt deze stelling voor zich spreken."
+        },
+        "167414": {
+          "position": "agree",
+          "explanation": "De Pekelder PVV vindt deze stelling voor zich spreken."
+        },
+        "167418": {
+          "position": "agree",
+          "explanation": "De Pekelder PVV vindt deze stelling voor zich spreken."
+        },
+        "167419": {
+          "position": "agree",
+          "explanation": "Inwoners die zich belangeloos inzetten, moet je belonen."
+        }
+      }
+    }
+  ],
+  "statements": [
+    {
+      "id": 167419,
+      "index": 1,
+      "theme": "Ondersteunen vrijwilligers",
+      "themeId": "ondersteunen-vrijwilligers",
+      "title": "Pekela moet weer een Dag van de Vrijwilliger organiseren.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167351,
+      "index": 2,
+      "theme": "Belasting op gebouwen omhoog",
+      "themeId": "belasting-op-gebouwen-omhoog",
+      "title": "De onroerendezaakbelasting (ozb) moet omhoog als de gemeente geld tekort komt.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167360,
+      "index": 3,
+      "theme": "Werkgelegenheid",
+      "themeId": "werkgelegenheid",
+      "title": "De gemeente moet bedrijven geld geven als ze een Pekelder in dienst nemen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167366,
+      "index": 4,
+      "theme": "Wateroverlast voorkomen",
+      "themeId": "wateroverlast-voorkomen",
+      "title": "Pekela moet meer doen om wateroverlast door extreme buien te voorkomen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167350,
+      "index": 5,
+      "theme": "Referendum",
+      "themeId": "referendum",
+      "title": "De inwoners van Pekela moeten minstens één keer per jaar hun mening kunnen geven over een belangrijk onderwerp in een referendum.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167371,
+      "index": 6,
+      "theme": "Bestrijdingsmiddelen",
+      "themeId": "bestrijdingsmiddelen",
+      "title": "De gemeente moet het gebruik van bestrijdingsmiddelen in de landbouw tegengaan.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167378,
+      "index": 7,
+      "theme": "Vrouwvriendelijke ruimte",
+      "themeId": "vrouwvriendelijke-ruimte",
+      "title": "De gemeente moet de openbare ruimte vrouwvriendelijker inrichten.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167359,
+      "index": 8,
+      "theme": "Reclameuitingen",
+      "themeId": "reclameuitingen",
+      "title": "Ondernemers moeten meer vrijheid krijgen bij het maken van reclame op of bij hun bedrijf.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167373,
+      "index": 9,
+      "theme": "Energieneutrale gemeente",
+      "themeId": "energieneutrale-gemeente",
+      "title": "De gemeente Pekela moet uiterlijk in 2040 energieneutraal zijn.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167379,
+      "index": 10,
+      "theme": "Dementievriendelijke ruimte",
+      "themeId": "dementievriendelijke-ruimte",
+      "title": "De gemeente moet het gemakkelijker maken voor mensen met dementie om hun weg op straat te vinden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167349,
+      "index": 11,
+      "theme": "Samenwerkingsverbanden",
+      "themeId": "samenwerkingsverbanden",
+      "title": "De gemeente moet meer zelf regelen en minder in samenwerkingsverbanden met andere gemeenten.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167368,
+      "index": 12,
+      "theme": "Zonnepanelen op landbouwgrond",
+      "themeId": "zonnepanelen-op-landbouwgrond",
+      "title": "De gemeente moet nieuwe zonnepanelen op landbouwgrond verbieden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167376,
+      "index": 13,
+      "theme": "Voorrang voor vluchtelingen",
+      "themeId": "voorrang-voor-vluchtelingen",
+      "title": "De gemeente moet vluchtelingen met een verblijfsvergunning voorrang blijven geven op een sociale huurwoning.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167386,
+      "index": 14,
+      "theme": "Schoolverlaters",
+      "themeId": "schoolverlaters",
+      "title": "De gemeente moet geen zaken meer doen met werkgevers die jongeren zonder diploma met hun opleiding laten stoppen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167388,
+      "index": 15,
+      "theme": "Handhavers voor veiligheid",
+      "themeId": "handhavers-voor-veiligheid",
+      "title": "In Pekela moeten meer gemeentelijke handhavers (boa’s) komen die zich met veiligheid bezighouden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167385,
+      "index": 16,
+      "theme": "Schoolmaaltijden",
+      "themeId": "schoolmaaltijden",
+      "title": "De gemeente moet ervoor zorgen dat ieder kind op school gezonde maaltijden krijgt.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167401,
+      "index": 17,
+      "theme": "Tegenprestatie voor uitkering",
+      "themeId": "tegenprestatie-voor-uitkering",
+      "title": "Mensen die een bijstandsuitkering krijgen, moeten in ruil daarvoor maatschappelijk zinvol werk doen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167397,
+      "index": 18,
+      "theme": "Eigen corporatie",
+      "themeId": "eigen-corporatie",
+      "title": "De gemeente moet de bouw van sociale huurwoningen en alternatieve woonvormen zelf gaan uitvoeren.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167394,
+      "index": 19,
+      "theme": "Starterslening",
+      "themeId": "starterslening",
+      "title": "Mensen die voor het eerst een huis willen kopen, moeten van de gemeente een starterslening kunnen krijgen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167391,
+      "index": 20,
+      "theme": "Snelheidscontrole",
+      "themeId": "snelheidscontrole",
+      "title": "De gemeente moet de politie vragen om vaker te controleren op de maximumsnelheid.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167414,
+      "index": 21,
+      "theme": "Wegonderhoud",
+      "themeId": "wegonderhoud",
+      "title": "De gemeente moet meer geld uitgeven aan het onderhoud van wegen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167409,
+      "index": 22,
+      "theme": "Elektrische laadpalen",
+      "themeId": "elektrische-laadpalen",
+      "title": "De gemeente moet meer parkeerplaatsen aanwijzen als oplaadplekken voor elektrische auto's.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167395,
+      "index": 23,
+      "theme": "Wandelrondje Heeresmeer",
+      "themeId": "wandelrondje-heeresmeer",
+      "title": "Nieuwe huizen aan het Heeresmeer mogen direct aan het water komen te liggen, ook als dat een wandelpad onderbreekt.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167372,
+      "index": 24,
+      "theme": "Wolf",
+      "themeId": "wolf",
+      "title": "Als een wolf problemen geeft, mag de gemeente hem laten afschieten.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167418,
+      "index": 25,
+      "theme": "Toegankelijkheid speeltuinen",
+      "themeId": "toegankelijkheid-speeltuinen",
+      "title": "De gemeente moet zorgen dat er een speeltuin is voor kinderen met een beperking.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167398,
+      "index": 26,
+      "theme": "Zuidkantklap behouden",
+      "themeId": "zuidkantklap-behouden",
+      "title": "De gemeente moet zorgen dat de Zuidkantklap behouden blijft.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167361,
+      "index": 27,
+      "theme": "Duurzame energie",
+      "themeId": "duurzame-energie",
+      "title": "Inwoners die samen duurzame energie op willen wekken, moeten financiële steun krijgen van de gemeente.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167406,
+      "index": 28,
+      "theme": "De Kiepe",
+      "themeId": "de-kiepe",
+      "title": "Dorpshuis De Kiepe moet behouden blijven.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167381,
+      "index": 29,
+      "theme": "Schoolzwemmen",
+      "themeId": "schoolzwemmen",
+      "title": "De gemeente moet onderzoeken of schoolzwemmen terug kan komen in Pekela.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167408,
+      "index": 30,
+      "theme": "Ervaringsdeskundige jeugdzorg",
+      "themeId": "ervaringsdeskundige-jeugdzorg",
+      "title": "Er moeten zoveel mogelijk ervaringsdeskundigen werken in de jeugdzorg.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    }
+  ]
+}

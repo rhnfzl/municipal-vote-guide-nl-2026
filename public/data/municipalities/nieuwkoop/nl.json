@@ -1,0 +1,944 @@
+{
+  "id": "GM0569",
+  "name": "Nieuwkoop",
+  "slug": "nieuwkoop",
+  "parties": [
+    {
+      "id": 119901,
+      "name": "Samen Beter Nieuwkoop",
+      "fullName": "Samen Beter Nieuwkoop",
+      "website": "https://samenbeternieuwkoop.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "119914": {
+          "position": "agree",
+          "explanation": "Bij belangrijke beslissingen moet de stem van inwoners rechtstreeks gehoord worden. Bij Samen Beter vinden wij dat inwoners de echte aandeelhouders van de gemeente zijn. Zij wonen, werken en leven hier en voelen de gevolgen van gemeentelijke besluiten elke dag."
+        },
+        "119918": {
+          "position": "disagree",
+          "explanation": "Inwoners die samen duurzame energie willen opwekken, kunnen al gebruikmaken van verschillende landelijke en provinciale subsidies. Extra gemeentelijke financiële steun is daarom niet altijd nodig."
+        },
+        "119919": {
+          "position": "disagree",
+          "explanation": "Distributiecentra zorgen voor werkgelegenheid en bieden kansen voor inwoners om dichtbij huis te werken, wat goed is voor de lokale economie. Natuurlijk is niet iedere locatie hiervoor geschikt. Samen Beter vindt dat distributiecentra alleen thuishoren op grotere industrieterreinen."
+        },
+        "119920": {
+          "position": "disagree",
+          "explanation": "Een azc zorgt voor een plotselinge en sterke groei van één kern, wat druk legt op leefbaarheid, de beschikbare onderwijs- en gezondheidsvoorzieningen, het gevoel van veiligheid en kan leiden tot veel onrust onder inwoners. Samen Beter vindt dat de landelijke politiek verantwoordelijkheid moet nemen!"
+        },
+        "119921": {
+          "position": "agree",
+          "explanation": "Werkgevers profiteren van de inzet van seizoenarbeiders en moeten daarom ook zelf verantwoordelijkheid nemen voor hun huisvesting op het bedrijfsterrein. Zo wordt voorkomen dat woonruimte in dorpen en kernen wordt ingenomen, terwijl onze eigen inwoners al moeite hebben om aan een woning te komen."
+        },
+        "119922": {
+          "position": "disagree",
+          "explanation": "Een groene omgeving is belangrijk en draagt bij aan een prettige en gezonde leefomgeving. Dat betekent echter niet dat er voor elke gekapte boom automatisch één nieuwe boom geplant moet worden. Zo’n rigide regel kan in complexe of uitzonderlijke situaties juist beperkend werken."
+        },
+        "119929": {
+          "position": "disagree",
+          "explanation": "Eerst moeten de gemeentelijke gronden benut worden. Kangoeroe- en mantelzorgwoningen moeten wel mogelijk zijn op boerenerven."
+        },
+        "119930": {
+          "position": "disagree",
+          "explanation": "Er zijn voldoende bestaande regelingen, zoals het Sportfonds waar de gemeente in investeert. Zo kan iedereen, ongeacht inkomen, deelnemen aan sport en bewegen zonder dat de gemeente extra kosten maakt. Samen Beter vindt dat sport toegankelijk moet zijn voor iedereen."
+        },
+        "119933": {
+          "position": "agree",
+          "explanation": "Muziekonderwijs is belangrijk voor de culturele en persoonlijke ontwikkeling van ieder kind. Niet alle ouders hebben de financiële mogelijkheden om hun kind op muziekles te doen. Daarom is het goed dat de gemeente basisscholen ondersteunt bij het organiseren van muziekles."
+        },
+        "119934": {
+          "position": "agree",
+          "explanation": "Alle verenigingen kunnen subsidies aanvragen en dat willen we in stand houden. Verenigingen zijn het hart van de samenleving. Elke vereniging, sport of niet, verdient steun van de gemeente!"
+        },
+        "119936": {
+          "position": "disagree",
+          "explanation": "Het gaat erom dat de huidige handhavers efficiënt en doelgericht worden ingezet. Boa’s moeten zich richten op wat de veiligheid écht vergroot, zoals het voorkomen van overlast en het preventief in gesprek gaan met hangjongeren, in plaats van het handhaven op kleine en onbelangrijke zaken."
+        },
+        "119937": {
+          "position": "disagree",
+          "explanation": "Wij willen geen samenleving waarin inwoners zich voortdurend bekeken voelen. Privacy is een groot goed en moet worden beschermd. Er zouden uitzonderingen gemaakt kunnen worden indien de veiligheid bij bijvoorbeeld een winkelgebied hierom vraagt."
+        },
+        "119942": {
+          "position": "agree",
+          "explanation": "Er is een groot tekort aan woningen in Nieuwkoop. Door het gebruik van vakantiewoningen als vast woonadres toe te staan, kunnen we extra woonruimte creëren zonder nieuwe bouwlocaties. Zo maken we slim gebruik van bestaande gebouwen en bieden we sneller oplossingen voor woningzoekenden."
+        },
+        "119944": {
+          "position": "agree",
+          "explanation": "Wie een bijstandsuitkering ontvangt, kan een tegenprestatie leveren in de vorm van maatschappelijk zinvol werk. Het vergroot eigenwaarde, houdt mensen actief en voorkomt dat zij in een sociaal isolement raken. Er zijn altijd uitzonderingen op de regel vanwege bijvoorbeeld ziekte."
+        },
+        "119945": {
+          "position": "disagree",
+          "explanation": "De gemeente moet niet automatisch gemeentelijke belastingen kwijtschelden voor inwoners met een laag inkomen. Er zijn voldoende andere hulpmiddelen waar inwoners een beroep op kunnen doen. Pas wanneer dit niet genoeg is, kan de gemeente samen met de inwoner kijken naar financiële hulp en oplossingen."
+        },
+        "119957": {
+          "position": "disagree",
+          "explanation": "Wij vinden dat sociale huurwoningen in de eerste plaats beschikbaar moeten zijn voor onze eigen inwoners. Ook zij hebben recht op een woning in de gemeente waar ze wonen. Bij woningtoewijzing geven wij prioriteit aan de mensen die hier al wonen en hun leven en toekomst in Nieuwkoop opbouwen."
+        },
+        "119959": {
+          "position": "agree",
+          "explanation": "Door de school te verplaatsen naar de sportvelden ontstaat meer multifunctionele ruimte die flexibel gebruikt kan worden voor onderwijs en sport. De huidige locatie van de school kan dan worden herontwikkeld tot appartementen. Zo combineren we goed onderwijs met extra woningbouw in de kern Noorden."
+        },
+        "119962": {
+          "position": "disagree",
+          "explanation": "Wie gebruik wil maken van een coffeeshop, kan dit ook in naburige gemeenten doen. Een coffeeshop kan bovendien leiden tot overlast en heeft vaak weinig draagvlak bij omwonenden. Veiligheid, leefbaarheid en rust in de wijken gaan voor."
+        },
+        "119963": {
+          "position": "disagree",
+          "explanation": "In Nieuwkoop is het belangrijk om een goede mix van woningen te hebben, inclusief sociale koopwoningen. De huidige verdeling van woningen, is voldoende en hoeft niet te worden verhoogd tot 35 procent. Zo behouden we een evenwichtige woningmarkt die geschikt is voor verschillende doelgroepen."
+        },
+        "119965": {
+          "position": "agree",
+          "explanation": "Het toestaan van verhuur van losse kamers kan helpen het woningtekort te verminderen. Wel moeten we hier de juiste voorwaarde stellen om bijvoorbeeld geluids- en parkeeroverlast te voorkomen."
+        },
+        "119966": {
+          "position": "disagree",
+          "explanation": "Voor Samen Beter maakt het niet uit of een kern groot of klein is; leefbaarheid is belangrijk in álle kernen. Door aandacht te besteden aan voorzieningen in alle dorpen, zorgen we voor een evenwichtige ontwikkeling en een sterke sociale samenhang in de hele gemeente."
+        },
+        "119967": {
+          "position": "agree",
+          "explanation": "Inwoners moeten makkelijk kunnen parkeren bij hun woning en bij lokale voorzieningen. Door voldoende parkeerplaatsen te creëren in de kernen, vergroten we de bereikbaarheid, comfort en leefbaarheid voor iedereen in de gemeente. Extra parkeergelegenheid moet alleen op plekken waar dat nodig is!"
+        },
+        "119968": {
+          "position": "agree",
+          "explanation": "De oversteek onder de N231 bij de rotonde bij het tankstation in Nieuwkoop is gevaarlijk. Met de komst van Buytewech Noord, het nieuw te bouwen zwembad en de bestaande sportvoorzieningen neemt de drukte alleen maar toe. Het is daarom belangrijk dat dit verkeersonveilige punt wordt aangepakt!"
+        },
+        "119970": {
+          "position": "agree",
+          "explanation": "Leegstaande kerken moeten een nieuwe bestemming krijgen voor maatschappelijke doeleinden of woningbouw. Daarbij is het belangrijk dat de dorpsaanzichten behouden blijven: de binnenkant van de kerk kan worden aangepast, maar de buitenkant en de karakteristieke uitstraling moeten behouden blijven."
+        },
+        "119971": {
+          "position": "disagree",
+          "explanation": "Het vrijmaken van extra geld om alle buslijnen ’s avonds en in het weekend te laten rijden is geen taak van de gemeente. Wel vinden we het belangrijk om in te zetten op openbaar vervoer, zodat onze kernen bereikbaar blijven voor jongeren en ouderen die geen rijbewijs hebben."
+        }
+      }
+    },
+    {
+      "id": 119902,
+      "name": "VVD",
+      "fullName": "Volkspartij voor Vrijheid en Democratie",
+      "website": "https://www.vvd.nl/gemeente-nieuwkoop/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "119914": {
+          "position": "disagree",
+          "explanation": "De VVD gelooft in de representatieve democratie en is daarom geen voorstander van referenda. Raadsleden zijn door inwoners gekozen om belangrijke besluiten te nemen, zich te verdiepen in alle argumenten en belangen, en dit alles zorgvuldig af te wegen."
+        },
+        "119918": {
+          "position": "agree",
+          "explanation": "De betrokkenheid van inwoners bij het opwekken van energie is belangrijk en noodzakelijk. De energietransitie slaagt alleen met draagvlak. We stimuleren daarom lokale initiatieven van inwoners, zoals de gebiedscoöperatie. De gemeente ondersteunt op verschillende manieren, zoals met subsidies."
+        },
+        "119919": {
+          "position": "agree",
+          "explanation": "We zijn tegen de vestiging van grootschalige distributiecentra in onze gemeente. Dit soort bedrijven passen niet bij het open en groene karakter van Nieuwkoop."
+        },
+        "119920": {
+          "position": "disagree",
+          "explanation": "We zoeken momenteel met Kaag & Braassem naar een locatie in het grensgebied. Dit zal waarschijnlijk op het grondgebied van Kaag & Braassem zijn. Nieuwkoop houdt zich aan de wet. Dat is geen keuze, want anders kiest de provincie een locatie, en dat zal een locatie zijn die voor woningbouw is bedoeld."
+        },
+        "119921": {
+          "position": "disagree",
+          "explanation": "Het is niet realistisch dat overal op eigen grond arbeidsmigranten worden gehuisvest. Waar mogelijk stimuleren we dit. Het als voorwaarde vastleggen, zorgt ervoor dat Nieuwkoopse ondernemers mogelijk in de problemen komen, omdat zij afhankelijk zijn van arbeidsmigranten."
+        },
+        "119922": {
+          "position": "agree",
+          "explanation": "We willen het huidige aantal bomen minimaal op peil houden, en er liefst meer terug planten. Een gezonde leefomgeving vraagt om behoud van groen."
+        },
+        "119929": {
+          "position": "disagree",
+          "explanation": "Op alle landbouwgrond woningbouw toestaan is niet realistisch, en hier werkt de Provincie ook niet aan mee. Waar mogelijk bieden we ruimte voor kleinschalige initiatieven van particulieren en kijken we als gemeente naar locaties die aansluiten op dorpsgrenzen voor nieuwe woningbouw."
+        },
+        "119930": {
+          "position": "disagree",
+          "explanation": "Het is niet aan de gemeente om zich bezig te houden met inkomenspolitiek. Dat is aan het Rijk. Wel hebben we het Jeugd- en het Volwassenenfonds Sport & Cultuur dat als doel heeft mensen met een laag inkomen te ondersteunen zodat zij mee kunnen doen aan de samenleving."
+        },
+        "119933": {
+          "position": "agree",
+          "explanation": "Muziekonderwijs draagt in grote mate bij aan de ontwikkeling van kinderen. We willen doorgaan met de pilot muziekonderwijs op de basisscholen en kijken voor de lange termijn naar vormen van cofinanciering. Financiering is niet aan de gemeente alleen."
+        },
+        "119934": {
+          "position": "disagree",
+          "explanation": "Ook verenigingen dienen hun financiën op orde te hebben. De gemeente draagt vaak al bij in de vorm van subsidies. (Te) gemakkelijk financieel bijspringen leidt tot een precedent en kost de gemeente mogelijk veel geld. De gemeente is immers geen vangnet voor structurele tekorten."
+        },
+        "119936": {
+          "position": "agree",
+          "explanation": "Om de veiligheid te verhogen en te handhaven op illegale situaties is een stevig aantal boa’s noodzakelijk, zeker nu er mogelijk in de toekomst nog meer taken op boa’s afkomen. Veiligheid is immers een kerntaak van de overheid."
+        },
+        "119937": {
+          "position": "agree",
+          "explanation": "Als cameratoezicht bewezen kan bijdragen aan het verhogen van de veiligheid, is dit een goed en gerechtvaardigd middel."
+        },
+        "119942": {
+          "position": "agree",
+          "explanation": "De VVD Nieuwkoop is al jaren voorstander van het legaliseren van permanente bewoning. We vinden dat verevening eenvoudig en sober moet worden ingericht. De bijdrage moet vooral realistisch zijn. Bewoners op de parken krijgen namelijk al te maken met veel kosten, bijvoorbeeld voor wegenonderhoud."
+        },
+        "119944": {
+          "position": "agree",
+          "explanation": "Van mensen die een bijstandsuitkering krijgen, mag zeker verwacht worden dat zij een bijdrage aan de samenleving leveren, bijvoorbeeld in de vorm van vrijwilligerswerk. Meedoen aan de samenleving is geen vrijblijvende keuze."
+        },
+        "119945": {
+          "position": "agree",
+          "explanation": "We vinden het niet verdedigbaar om belastingen automatisch kwijt te schelden. Dit kan alleen in dermate problematische situaties, bijvoorbeeld wanneer problemen anders verergeren. We zetten flexibele betalingsregelingen in en zorgen voor ondersteuning, bijvoorbeeld met Schuldhulpmaatje."
+        },
+        "119957": {
+          "position": "disagree",
+          "explanation": "We zijn voorstander van het zoeken naar alternatieve vormen van huisvesting voor statushouders, zoals de inzet van flex-units. Voorrang voor statushouders terwijl inwoners jaren op de wachtlijst staan vinden we slecht verdedigbaar."
+        },
+        "119959": {
+          "position": "agree",
+          "explanation": "Op de lange termijn willen we een nieuw IKC realiseren, waarschijnlijk bij de sportvelden. Op korte termijn gaan we al aan de slag met het vernieuwen van de gymzaal. Door de gymzaal nu al te verplaatsen, ontstaat het begin van een multifunctionele sport- en onderwijs accommodatie in de toekomst."
+        },
+        "119962": {
+          "position": "disagree",
+          "explanation": "Coffeeshops horen wat de VVD betreft niet in onze dorpen, maar eerder in stedelijke omgevingen."
+        },
+        "119963": {
+          "position": "disagree",
+          "explanation": "We vinden 30 procent sociale huur in nieuwbouw (provinciale verplichting) meer dan voldoende. We willen de focus daarnaast vooral leggen op betaalbare koop- en (midden)huurwoningen, voor alle leeftijden. Meer sociale huur is niet nodig en niet wenselijk."
+        },
+        "119965": {
+          "position": "agree",
+          "explanation": "Alle oplossingen die kunnen bijdragen aan het bestrijden van het woningtekort willen we benutten. Bovendien zijn er steeds meer eenpersoonshuishoudens en wonen veel alleenstaanden in grote eengezinswoningen, waar dit mogelijk een oplossing voor zou kunnen zijn."
+        },
+        "119966": {
+          "position": "agree",
+          "explanation": "We zijn voorstander van het stimuleren van ontmoeting en verbinding tussen inwoners. In ieder dorp moet een locatie zijn waar dit mogelijk is, zoals een multifunctioneel verenigingsgebouw."
+        },
+        "119967": {
+          "position": "agree",
+          "explanation": "Niet kunnen parkeren in je buurt of wijk is een grote frustratie. Waar de parkeerdruk te hoog is, leggen we daarom indien mogelijk extra parkeerplaatsen aan."
+        },
+        "119968": {
+          "position": "agree",
+          "explanation": "Een derde fietstunnel is nodig om de veiligheid van fietsers en voetgangers te verhogen, bijvoorbeeld wanneer zij richting de basisscholen of richting de verenigingen gaan. Met de komst van het nieuwe zwembad en de bouw van Buytewech-Noord wordt de urgentie alleen maar groter."
+        },
+        "119970": {
+          "position": "agree",
+          "explanation": "Kerkgebouwen bepalen vaak het aanzicht van onze dorpen. We willen dit koesteren. Tegelijkertijd biedt transformatie kansen, bijvoorbeeld voor woningbouw, horeca of andere recreatieve functies. Om dit voor elkaar te krijgen moet de gemeente veel pro-actiever met kerken in overleg."
+        },
+        "119971": {
+          "position": "disagree",
+          "explanation": "De Provincie, niet de gemeente, subsidieert het ov. We maken ons hard voor beter ov middels een lobby in de regio en in de provincie en in gesprek met Qbuzz, bijvoorbeeld voor het ophogen van de frequentie van buslijnen. Zodat bussen vaker rijden."
+        }
+      }
+    },
+    {
+      "id": 119903,
+      "name": "CDA",
+      "fullName": "Christen-Democratisch Appèl",
+      "website": "https://www.cda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "119914": {
+          "position": "disagree",
+          "explanation": "Het CDA Nieuwkoop vindt dat complexe besluiten niet passen in een ja/nee-referendum. De gemeenteraad is gekozen om belangen zorgvuldig af te wegen, met ruimte voor inspraak via participatie."
+        },
+        "119918": {
+          "position": "agree",
+          "explanation": "Lokale energie-initiatieven versnellen de energietransitie, vergroten draagvlak en houden opbrengsten in de gemeenschap. Gemeentelijke steun maakt dit haalbaar."
+        },
+        "119919": {
+          "position": "agree",
+          "explanation": "Economische activiteit is belangrijk. Maar moet passen bij de gemeente. Een groot distributiecentrum pas niet bij de leefbaarheid in onze dorpen en zorgt voor problemen met de verkeersveiligheid en druk op de toegangswegen."
+        },
+        "119920": {
+          "position": "disagree",
+          "explanation": "Het CDA vindt het belangrijk dat wij ons steentje bijdragen. Dat kan op veel manieren. Door slim samen te werken met andere gemeenten voor opvanglocaties en kleinschalig bij te dragen."
+        },
+        "119921": {
+          "position": "agree",
+          "explanation": "Huisvesting op het eigen terrein voorkomt overlast, vergroot verantwoordelijkheid bij werkgevers en zorgt voor betere leefomstandigheden voor seizoenarbeiders."
+        },
+        "119922": {
+          "position": "agree",
+          "explanation": "Herplanten van gekapte bomen is belangrijk voor een gemeente in het Groene Hart. Dat hoeft niet op dezelfde plek, zolang het totale groen behouden blijft en waar mogelijk wordt versterkt."
+        },
+        "119929": {
+          "position": "agree",
+          "explanation": "Er is een tekort aan woningen en bouwlocaties. Dit biedt een toekomstperspectief voor woningzoekende en boeren. Het helpt de leefbaarheid van het platteland te versterken, zolang het zorgvuldig wordt ingepast in het landschap en past binnen duidelijke afspraken."
+        },
+        "119930": {
+          "position": "agree",
+          "explanation": "Sport bevordert gezondheid, ontmoeting en meedoen in de samenleving. Financiële steun voorkomt uitsluiting en helpt mensen met een bijstandsuitkering actief en betrokken te blijven."
+        },
+        "119933": {
+          "position": "disagree",
+          "explanation": "Muziekonderwijs is waardevol, maar het gaat om keuze en breed aanbod. Gemeentelijke steun moet niet alleen naar muziek gaan en vooral bedoeld zijn voor kinderen die het anders niet kunnen betalen."
+        },
+        "119934": {
+          "position": "agree",
+          "explanation": "De gemeente kan bijspringen als een sportvereniging toekomstbestendig is, met voldoende vrijwilligers, een realistisch plan en gezonde begroting. Steun mag geen bodemloze put worden zonder perspectief."
+        },
+        "119936": {
+          "position": "agree",
+          "explanation": "Meer boa’s zorgen voor zichtbaarheid, aanspreekbaarheid en sneller optreden bij overlast. Dit vergroot het gevoel van veiligheid in dorpen en wijken."
+        },
+        "119937": {
+          "position": "agree",
+          "explanation": "Cameratoezicht kan helpen bij het voorkomen en oplossen van incidenten. Dit moet gericht gebeuren, met duidelijke regels en respect voor privacy."
+        },
+        "119942": {
+          "position": "disagree",
+          "explanation": "Vakantiewoningen zijn bedoeld voor recreatie. Permanente bewoning zorgt voor druk op voorzieningen en maakt handhaving lastig."
+        },
+        "119944": {
+          "position": "agree",
+          "explanation": "Werk naar vermogen helpt mensen structuur, eigenwaarde en sociale contacten te behouden. Zo draagt iedereen een steentje bij."
+        },
+        "119945": {
+          "position": "disagree",
+          "explanation": "Kwijtschelding voorkomt dat mensen met lage inkomens verder in financiële problemen komen."
+        },
+        "119957": {
+          "position": "disagree",
+          "explanation": "De druk op de woningmarkt is al groot. Voorrang vergroot de spanning en het gevoel van ongelijkheid. Woonruimte moet eerlijk worden verdeeld op basis van urgentie, wachttijd en binding met de gemeente. De gemeente moet zich aan haar wettelijke plicht blijven houden."
+        },
+        "119959": {
+          "position": "agree",
+          "explanation": "Investeren in schoolgebouwen is investeren in de toekomst. Goede scholen maken dorpen aantrekkelijk voor gezinnen en versterken de leefbaarheid en lokale economie."
+        },
+        "119962": {
+          "position": "disagree",
+          "explanation": "Een coffeeshop levert beperkte economische voordelen op en kan leiden tot overlast en extra handhavingskosten. Het past niet bij het karakter van de gemeente."
+        },
+        "119963": {
+          "position": "agree",
+          "explanation": "Dit is nodig om wonen betaalbaar te houden voor starters, gezinnen en mensen met een lager inkomen. Een gezonde woningmix zorgt voor sociale én economische balans."
+        },
+        "119965": {
+          "position": "agree",
+          "explanation": "Kamerverhuur kan helpen bij woningtekort voor starters en jongeren. Wel zijn duidelijke regels nodig om overlast en uitbuiting te voorkomen."
+        },
+        "119966": {
+          "position": "neither",
+          "explanation": "Niet elk dorp heeft dezelfde behoefte of schaal. Investeren moet passen bij draagvlak, gebruik en financiële haalbaarheid."
+        },
+        "119967": {
+          "position": "agree",
+          "explanation": "Goede bereikbaarheid is belangrijk voor winkels, zorg en verenigingen. Te weinig parkeerplaatsen schaadt de lokale economie."
+        },
+        "119968": {
+          "position": "neither",
+          "explanation": "Een derde fietstunnel draagt bij aan de verkeersveiligheid, maar kost ook veel geld om aan te leggen. De kosten hiervoor zijn dusdanig hoog dat het CDA ervoor kiest om eerst andere verkeersknelpunten aan te pakken."
+        },
+        "119970": {
+          "position": "agree",
+          "explanation": "Herbestemming voorkomt verloedering en behoudt waardevolle gebouwen. Dit kan ook economisch en maatschappelijk nieuwe kansen bieden."
+        },
+        "119971": {
+          "position": "agree",
+          "explanation": "Goed openbaar vervoer vergroot bereikbaarheid voor werk, zorg en sociaal leven. Dat versterkt participatie en lokale economie."
+        }
+      }
+    },
+    {
+      "id": 119904,
+      "name": "Natuurlijk Nieuwkoop",
+      "fullName": "Natuurlijk Nieuwkoop",
+      "website": "https://www.natuurlijknieuwkoop.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "119914": {
+          "position": "disagree",
+          "explanation": "Inwoners moeten actief betrokken worden bij het ontwikkelen van plannen in hun omgeving en beleid, zodat we hun inbreng kunnen betrekken bij besluitvorming. Risico van een referendum is het wekken van verkeerde verwachtingen."
+        },
+        "119918": {
+          "position": "agree",
+          "explanation": "Dit soort initiatieven moeten zo goed mogelijk ondersteund worden, ook om subsidies van het Rijk te verkrijgen. Lokaal eigendom van grotere opwek is essentieel. Diegenen die geen geld hebben om te investeren kunnen zeker ook hulp gebruiken."
+        },
+        "119919": {
+          "position": "agree",
+          "explanation": "Nieuwkoop is als locatie voor distributiecentra niet geschikt en dit is ook ongewenst, vanwege de impact op het landschap en druk op de wegen."
+        },
+        "119920": {
+          "position": "agree",
+          "explanation": "De huidige spreidingswet moeten we volgen. Uit humanitair oogpunt zien we liever kleinschalige opvang verspreid over de kernen. Inwoners moeten nauw betrokken worden bij de besluitvorming hierover. Samenwerking met bijvoorbeeld. Kaag en Braassem is belangrijk."
+        },
+        "119921": {
+          "position": "disagree",
+          "explanation": "Arbeidsmigranten huisvesten bij werkgevers is een optie mits de rechten en positie van de werknemers goed beschermd worden, bijvoorbeeld bij ontslag. Dit is belangrijk om misstanden te voorkomen."
+        },
+        "119922": {
+          "position": "agree",
+          "explanation": "Elke kans om nieuwe bomen te plaatsen moet worden benut, zeker wanneer er bomen verwijderd worden."
+        },
+        "119929": {
+          "position": "neither",
+          "explanation": "Transformeren van ongebruikte opstallen ook voor wonen moet verder uitgewerkt worden. Het bouwen van woningen is al mogelijk mits dit binnen de ruimtelijke mogelijkheden (Ruimte voor Ruimte) en de regels van de Omgevingsplannen gebeurt."
+        },
+        "119930": {
+          "position": "agree",
+          "explanation": "Wij ondersteunen gezinnen met een minimum inkomen met de Sportpas. Dit is reeds beleid, maar dat mag uitgebreid wat ons betreft naar 130 procent inkomensgrens. Een eigen bijdrage van bijvoorbeeld 30 procent is gewenst."
+        },
+        "119933": {
+          "position": "agree",
+          "explanation": "Muziek is een verbreding van cultuur, maar voor veel kinderen onbereikbaar. Door dit georganiseerd aan te bieden, is het voor iedereen toegankelijk."
+        },
+        "119934": {
+          "position": "neither",
+          "explanation": "De sportverenigingen worden heel goed ondersteund. Waar knelpunten zijn, zijn er instrumenten om hen bij te staan. Accommodaties zijn heel belangrijk en hier ondersteunen we als gemeente veel in, en dat moet zo blijven."
+        },
+        "119936": {
+          "position": "agree",
+          "explanation": "Voor inwoners is het belangrijk dat boa's ook zichtbaar zijn, dat vergroot het veiligheidsgevoel."
+        },
+        "119937": {
+          "position": "disagree",
+          "explanation": "Het inzetten van cameratoezicht op specifieke locaties in de gemeente Nieuwkoop kán een goed middel zijn, als noodmaatregel tegen verregaande overlast en primair moet dit van tijdelijke aard zijn."
+        },
+        "119942": {
+          "position": "neither",
+          "explanation": "Alleen voor de zeven parken in Zevenhoven is een strategie om definitieve bewoning mogelijk te maken. Verder wordt het niet toegestaan."
+        },
+        "119944": {
+          "position": "disagree",
+          "explanation": "Gemeente Nieuwkoop heeft een beperkt aantal bijstandsgerechtigden (in Nieuwkoop circa 300 mensen). Natuurlijk Nieuwkoop vindt het stimuleren om mee te doen en kansen bieden vele malen effectiever dan het opleggen van een verplichting."
+        },
+        "119945": {
+          "position": "disagree",
+          "explanation": "Inwoners die het moeilijk hebben, blijven we ondersteunen. Kwijtschelden in schrijnende armoede situaties, is dan een daad van fatsoen en medemenselijkheid."
+        },
+        "119957": {
+          "position": "agree",
+          "explanation": "Het gaat hier om statushouders, mensen met een verblijfsstatus. Zij moeten kunnen doorstromen uit de azc's en alle gemeentes dienen hun deel daaraan bij te dragen. Van alle vrijkomende sociale huurwoningen wordt nu minder dan 10 procent toegewezen aan statushouders."
+        },
+        "119959": {
+          "position": "neither",
+          "explanation": "In nieuwe ontwikkelingen kan verplaatsing van de school op lange termijn een onderdeel zijn. Echter, hier moeten de financiële belangen ook goed afgewogen worden."
+        },
+        "119962": {
+          "position": "neither",
+          "explanation": "Een cannabiswinkel geeft ook een bepaalde overlast en verlaagt de drempel tot gebruik. Het is wel lastig, want als je het niet doet wentel je het feitelijk af op buurgemeentes"
+        },
+        "119963": {
+          "position": "agree",
+          "explanation": "De komende jaren moeten er wel meer sociale huurwoningen gebouwd worden om woningzoekenden te kunnen huisvesten. Het precieze percentage is niet zo van belang. Mensen moeten een passende en betaalbare woning kunnen vinden."
+        },
+        "119965": {
+          "position": "neither",
+          "explanation": "Onder de vlag van de woningcorporaties kan dit bijdragen aan het huisvesten van inwoners. In particuliere verhuur kan dit leiden tot ongewenste situaties."
+        },
+        "119966": {
+          "position": "agree",
+          "explanation": "Alle grote dorpen moeten een levensvatbaar dorpscentrum hebben. Daarvoor is de aanwezigheid van een supermarkt essentieel. Daar gaat Natuurlijk Nieuwkoop zich voor inzetten."
+        },
+        "119967": {
+          "position": "neither",
+          "explanation": "Bij het (her)inrichten van wijken in onze kernen moet goed gekeken worden naar de mogelijkheden, maar ook de noodzaak hiervoor. Niet alle wijken zijn daarvoor geschikt. Bij nieuwe ontwikkelingen in wijken moet goed gekeken worden of een toenemende parkeerdruk te realiseren is."
+        },
+        "119968": {
+          "position": "agree",
+          "explanation": "Dit is een steeds belangrijker wordende wens gezien de ontwikkelingen aan de Buytewech kant van de kern. Zwembad, woningbouw en ook een eventuele verplaatsing van sporthal De Steupel maken dit noodzakelijk."
+        },
+        "119970": {
+          "position": "neither",
+          "explanation": "Die kerken moeten een nieuwe bestemming krijgen. Belanghebbenden en ontwikkelaars zullen nieuwe plannen moeten ontwikkelen. De gemeente werkt daar, binnen zekere grenzen, aan mee. Het behoud van de beeldbepalende panden in onze kernen is wenselijk."
+        },
+        "119971": {
+          "position": "neither",
+          "explanation": "Met name de lijn naar Woerden en de lijnen binnen de gemeente moeten wat betreft aanbod verbeterd worden. Bekeken moet worden of Nieuwkoop daar voldoende geld voor kan vrijmaken."
+        }
+      }
+    },
+    {
+      "id": 119905,
+      "name": "D66",
+      "fullName": "D66",
+      "website": "https://d66.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "119914": {
+          "position": "disagree",
+          "explanation": "D66 wil graag blijvend met inwoners in gesprek, niet incidenteel. Daarbij past dat we voortdurend avonden in de dorpen organiseren. Een referendum is een duur middel en betrekt inwoners slechts heel kort."
+        },
+        "119918": {
+          "position": "agree",
+          "explanation": "Goed dat inwoners samen willen verduurzamen. D66 Nieuwkoop steunt energiecoöperaties met financiële hulp, zodat ook mensen zonder groot budget mee kunnen doen. Zo versnellen we de energietransitie, houden we opbrengsten lokaal en bouwen we samen aan een schoon Nieuwkoop."
+        },
+        "119919": {
+          "position": "agree",
+          "explanation": "Banen zijn welkom, maar megadozen langs onze wegen kosten ruimte, landschap en zorgen voor extra vrachtverkeer. D66 Nieuwkoop wil bedrijvigheid die past: lokaal, duurzaam en op bestaande terreinen."
+        },
+        "119920": {
+          "position": "agree",
+          "explanation": "Door de Spreidingswet is Nieuwkoop verplicht opvang te regelen; doen we dat niet, dan neemt de provincie de regie over. D66 kiest daarom voor een azc met heldere afspraken over veiligheid, begeleiding en draagvlak."
+        },
+        "119921": {
+          "position": "agree",
+          "explanation": "Seizoenarbeiders zijn nodig, maar hun huisvesting moet goed worden geregeld. D66 vindt dat werkgevers verantwoordelijkheid moeten nemen en op eigen terrein fatsoenlijke, veilige huisvesting regelen, met duidelijke regels. Dat voorkomt overlast én beschermt werknemers."
+        },
+        "119922": {
+          "position": "agree",
+          "explanation": "Bomen maken Nieuwkoop groener, koeler en gezonder. Kap moet herplant betekenen, zodat we niet stukje bij beetje groen verliezen. Waar nodig kan dat met meerdere jonge bomen of betere plekken, zodat het groen echt terugkomt en sterker wordt."
+        },
+        "119929": {
+          "position": "disagree",
+          "explanation": "Wonen is urgent, ook voor (boeren)gezinnen. Maar nieuwe huizen in het buitengebied betekenen verstening en druk op landschap en natuur. D66 kiest wél voor erfbewoning, splitsen en woningdelen op bestaande erven, en bouwen vooral in de kernen."
+        },
+        "119930": {
+          "position": "agree",
+          "explanation": "Meedoen mag geen luxe zijn. D66 Nieuwkoop wil dat mensen in de bijstand kunnen sporten, omdat dat gezondheid, netwerk en kansen op werk vergroot. Via een eenvoudige regeling (zoals het Jeugdfonds/volwassenenfonds) helpen we gericht, zodat geld geen drempel is."
+        },
+        "119933": {
+          "position": "agree",
+          "explanation": "Muziekles is meer dan een hobby: het geeft zelfvertrouwen en kansen. D66 Nieuwkoop wil dat ieder basisschoolkind kan meedoen met muziekles op scholen, samen met lokale verenigingen. Zo houden we het betaalbaar en toegankelijk."
+        },
+        "119934": {
+          "position": "disagree",
+          "explanation": "We willen sterke sportclubs, maar structureel bijspringen met gemeentegeld is niet altijd eerlijk of houdbaar. D66 Nieuwkoop kiest voor hulp die helpt: advies, verduurzaming, gebruik van accommodaties en steun bij tijdelijke nood. Zo blijven clubs gezond én blijven lasten eerlijk."
+        },
+        "119936": {
+          "position": "agree",
+          "explanation": "Veiligheid begint met zichtbaarheid op straat. D66 Nieuwkoop wil meer boa’s, zodat sneller wordt opgetreden tegen overlast en onveilig verkeer en er meer preventief contact is met jongeren. Zo ontlasten we de politie en blijft het prettig wonen."
+        },
+        "119937": {
+          "position": "disagree",
+          "explanation": "Veiligheid is belangrijk, maar camera’s zijn een zwaar middel en raken privacy. D66 Nieuwkoop kiest eerst voor wat echt werkt: goede verlichting, wijkboa’s en aanpak van hotspots. Cameratoezicht alleen tijdelijk en gericht, als andere maatregelen tekortschieten."
+        },
+        "119942": {
+          "position": "agree",
+          "explanation": "Woonnood is groot; soms is een vakantiewoning iemands enige thuis. D66 Nieuwkoop wil inschrijving mogelijk maken waar het kan: veilig, passend in het omgevingsplan en met afspraken met park en buren. Zo geven we zekerheid zonder recreatie te verliezen."
+        },
+        "119944": {
+          "position": "agree",
+          "explanation": "Veel mensen willen graag meedoen, maar hebben soms een zetje of ritme nodig. D66 Nieuwkoop is voor maatschappelijk zinvol werk als tegenprestatie, mits het past bij iemands situatie, niet verdringt en mét goede begeleiding richting betaald werk of opleiding."
+        },
+        "119945": {
+          "position": "disagree",
+          "explanation": "Rondkomen is al lastig genoeg als je een laag inkomen hebt. D66 Nieuwkoop wil kwijtschelding juist behouden: zo voorkomen we schulden en stress, en blijft hulp beschikbaar voor wie het echt nodig heeft. Eerlijk en menselijk beleid."
+        },
+        "119957": {
+          "position": "agree",
+          "explanation": "Wachten op een sociale huurwoning is frustrerend; voorrang voelt oneerlijk. Toch heeft Nieuwkoop de wettelijke taak om statushouders te huisvesten, zodat mensen uit de opvang doorstromen. D66 Nieuwkoop steunt daarom gerichte voorrang én extra bouwen."
+        },
+        "119959": {
+          "position": "agree",
+          "explanation": "Elke ouder wil een veilige, gezonde school. Vernieuwen van Antonius in Noorden kost geld, maar is op termijn nodig. D66 Nieuwkoop kiest voor een toekomstbestendig gebouw: goed binnenklimaat, energiezuinig en ruimte voor het beste onderwijs."
+        },
+        "119962": {
+          "position": "agree",
+          "explanation": "Bezorgd over overlast? D66 Nieuwkoop kiest juist voor een gereguleerde coffeeshop: duidelijke regels, locatie met afstand tot scholen, toezicht en handhaving. Dat haalt handel van straat, maakt gebruik beter beheersbaar en vergroot veiligheid."
+        },
+        "119963": {
+          "position": "agree",
+          "explanation": "Woningnood raakt iedereen; 35 procent sociaal klinkt veel. Maar Nieuwkoop heeft nu circa 21 procent sociale huur en moet naar 30. Dan is een inhaalslag in nieuwbouw nodig. D66 kiest voor gemengde wijken, zodat starters en mensen met een lager inkomen hier kunnen wonen."
+        },
+        "119965": {
+          "position": "agree",
+          "explanation": "Woningdelen kan lucht geven op de krappe markt; tegelijk zijn er zorgen over overlast. D66 Nieuwkoop is voor kamerverhuur met duidelijke regels: kwaliteitseisen, een maximum per woning, goede registratie en handhaving. Zo helpen we starters en studenten zonder buurten te belasten."
+        },
+        "119966": {
+          "position": "agree",
+          "explanation": "Ontmoeten in het eigen dorp houdt verenigingen en gemeenschappen sterk. D66 Nieuwkoop wil per groot dorp een toegankelijk, multifunctioneel centrum- liefst via slim gebruik/uitbreiding van bestaande gebouwen."
+        },
+        "119967": {
+          "position": "agree",
+          "explanation": "Niet per se overal extra parkeerplaatsen, wél waar het tekort structureel is. In dorpen met chronische parkeerdruk voegen we plekken toe, liefst met groene, waterdoorlatende bestrating. Voor bereikbaarheid én groen."
+        },
+        "119968": {
+          "position": "agree",
+          "explanation": "Oversteken over de N231 voelt nu voor veel mensen onveilig. Een derde fietstunnel bij de rotonde (tankstation) maakt routes directer en veiliger, zéker voor scholieren. D66 Nieuwkoop steunt dit en wil samen met provincie werk maken van realisatie."
+        },
+        "119970": {
+          "position": "agree",
+          "explanation": "Leegstaande kerken roepen vaak gemengde gevoelens op: erfgoed én leegstand. D66 Nieuwkoop wil actief herbestemmen, samen met eigenaren en omwonenden. Zo blijven gebouwen behouden en krijgen ze een functie die het dorp versterkt, zoals cultuur, wonen of ontmoeting."
+        },
+        "119971": {
+          "position": "agree",
+          "explanation": "Ov in de avond en het weekend lijkt duur bij lage bezetting. Toch houdt het dorpen bereikbaar voor jongeren, ouderen en medewerkers zonder auto. D66 Nieuwkoop wil extra middelen om een basisdienst te borgen, met slim vraag gestuurd vervoer waar nodig."
+        }
+      }
+    },
+    {
+      "id": 119906,
+      "name": "SGP-ChristenUnie",
+      "fullName": "SGP-ChristenUnie",
+      "website": "https://nieuwkoop.christenunie.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "119914": {
+          "position": "disagree",
+          "explanation": "De gemeenteraad is al een vertegenwoordiging en daarnaast zijn er ook mogelijkheden om je als inwoners uit te spreken over bepaald beleid. Ook zijn er dorpsraden."
+        },
+        "119918": {
+          "position": "agree",
+          "explanation": "Dit helpt de gemeente ook weer om aan de gestelde eisen te voldoen."
+        },
+        "119919": {
+          "position": "agree",
+          "explanation": "Buiten het gegeven dat daar in Nieuwkoop nauwelijks ruimte voor is, moet je dit dan ook niet willen."
+        },
+        "119920": {
+          "position": "neither",
+          "explanation": "Er moet hier niets, maar we moeten volgen wat de overheid ons oplegt."
+        },
+        "119921": {
+          "position": "agree",
+          "explanation": "Met elkaar als branche de koppen bij elkaar om deze voorziening op poten te krijgen en te houden."
+        },
+        "119922": {
+          "position": "neither",
+          "explanation": "Hier moet niets, maar daar waar het kan moeten wel de mogelijkheid benutten."
+        },
+        "119929": {
+          "position": "agree",
+          "explanation": "Daar waar dit planologisch kan is dat prima."
+        },
+        "119930": {
+          "position": "agree",
+          "explanation": "Als daar behoefte aan is, maar wel controle of er ook gebruik van wordt gemaakt."
+        },
+        "119933": {
+          "position": "neither",
+          "explanation": "Muziekles prima, maar niet per definitie door de gemeente bekostigd"
+        },
+        "119934": {
+          "position": "disagree",
+          "explanation": "Er is een goed beleid hieromtrent en zelfredzaamheid is hier van groot belang om de vereniging in de lucht te houden"
+        },
+        "119936": {
+          "position": "disagree",
+          "explanation": "Er is geen reden tot verontrusting en er zijn weinig onveilige situaties."
+        },
+        "119937": {
+          "position": "disagree",
+          "explanation": "We willen geen bemoeizucht. Er zijn ook geen vaste plekken aan te wijzen waar camera's nuttig zouden kunnen zijn."
+        },
+        "119942": {
+          "position": "agree",
+          "explanation": "Daar is de gemeente ook al volop aan bezig"
+        },
+        "119944": {
+          "position": "agree",
+          "explanation": "Logisch dat er een tegenprestatie moet zijn. Moet wel enigszins passen bij de personen die het krijgen."
+        },
+        "119945": {
+          "position": "disagree",
+          "explanation": "Daar heeft de gemeente al een goed beleid voor."
+        },
+        "119957": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "119959": {
+          "position": "disagree",
+          "explanation": "Alleen als er ook een nieuw plan komt voor de sporthal."
+        },
+        "119962": {
+          "position": "disagree",
+          "explanation": "Waarom zouden we die binnen de gemeente willen halen?"
+        },
+        "119963": {
+          "position": "disagree",
+          "explanation": "Met onze huidige doelstelling van 30 procent lopen we toch al voorop"
+        },
+        "119965": {
+          "position": "disagree",
+          "explanation": "Daar is de hele entourage niet op ingericht"
+        },
+        "119966": {
+          "position": "neither",
+          "explanation": "Dat is een uitdaging en wie bepaalt wat een 'grotere' kern is?"
+        },
+        "119967": {
+          "position": "agree",
+          "explanation": "Als er de mogelijkheid voor is."
+        },
+        "119968": {
+          "position": "neither",
+          "explanation": "Alleen als er geld voor is"
+        },
+        "119970": {
+          "position": "agree",
+          "explanation": "De gemeente moet meedenken over een passende oplossing die recht doet aan het pand."
+        },
+        "119971": {
+          "position": "neither",
+          "explanation": "Alleen als er behoefte is."
+        }
+      }
+    }
+  ],
+  "statements": [
+    {
+      "id": 119968,
+      "index": 1,
+      "theme": "Fietstunnel",
+      "themeId": "fietstunnel",
+      "title": "Er moet een derde fietstunnel komen onder de N231 bij de rotonde bij het tankstation in Nieuwkoop.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119921,
+      "index": 2,
+      "theme": "Huisvesting buitenlandse werknemers",
+      "themeId": "huisvesting-buitenlandse-werknemers",
+      "title": "Werkgevers in de land- en tuinbouw moeten zelf zorgen voor de huisvesting van seizoenarbeiders op hun eigen bedrijfsterrein.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119918,
+      "index": 3,
+      "theme": "Duurzame energie",
+      "themeId": "duurzame-energie",
+      "title": "Inwoners die samen duurzame energie op willen wekken, moeten financiële steun krijgen van de gemeente.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119936,
+      "index": 4,
+      "theme": "Handhavers",
+      "themeId": "handhavers",
+      "title": "In Nieuwkoop moeten meer gemeentelijke handhavers (boa’s) komen die zich met veiligheid bezighouden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119920,
+      "index": 5,
+      "theme": "Asielzoekerscentrum",
+      "themeId": "asielzoekerscentrum",
+      "title": "In onze gemeente moet een asielzoekerscentrum (azc) komen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119942,
+      "index": 6,
+      "theme": "Vakantiewoningen",
+      "themeId": "vakantiewoningen",
+      "title": "De gemeente moet toestaan dat vakantiewoningen gebruikt worden als vast woonadres.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119971,
+      "index": 7,
+      "theme": "Openbaar vervoer",
+      "themeId": "openbaar-vervoer",
+      "title": "Nieuwkoop moet geld vrijmaken om alle buslijnen ook 's avonds en in het weekend te laten rijden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119914,
+      "index": 8,
+      "theme": "Referendum",
+      "themeId": "referendum",
+      "title": "De inwoners van Nieuwkoop moeten over belangrijke onderwerpen hun mening kunnen geven via een referendum.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119959,
+      "index": 9,
+      "theme": "Basisschool Antonius",
+      "themeId": "basisschool-antonius",
+      "title": "Nieuwkoop moet Basisschool Antonius in de kern Noorden vernieuwen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119922,
+      "index": 10,
+      "theme": "Bomen",
+      "themeId": "bomen",
+      "title": "Voor elke gekapte boom in de gemeente moet een nieuwe worden geplant.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119919,
+      "index": 11,
+      "theme": "Distributiecentra",
+      "themeId": "distributiecentra",
+      "title": "De gemeente moet de vestiging van nieuwe distributiecentra tegengaan.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119937,
+      "index": 12,
+      "theme": "Cameratoezicht",
+      "themeId": "cameratoezicht",
+      "title": "In Nieuwkoop moet meer cameratoezicht komen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119933,
+      "index": 13,
+      "theme": "Muziekles",
+      "themeId": "muziekles",
+      "title": "Elk basisschoolkind moet met subsidie van de gemeente muziekles kunnen krijgen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119966,
+      "index": 14,
+      "theme": "Dorpscentrum",
+      "themeId": "dorpscentrum",
+      "title": "Alle grotere dorpen in de gemeente moeten een eigen dorpscentrum krijgen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119945,
+      "index": 15,
+      "theme": "Kwijtschelding stoppen",
+      "themeId": "kwijtschelding-stoppen",
+      "title": "De gemeente moet stoppen met het kwijtschelden van de gemeentelijke belastingen voor inwoners met een laag inkomen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119957,
+      "index": 16,
+      "theme": "Voorrang voor vluchtelingen",
+      "themeId": "voorrang-voor-vluchtelingen",
+      "title": "De gemeente moet vluchtelingen met een verblijfsvergunning voorrang geven op een sociale huurwoning.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119962,
+      "index": 17,
+      "theme": "Coffeeshop",
+      "themeId": "coffeeshop",
+      "title": "De gemeente moet de vestiging van een coffeeshop toestaan.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119963,
+      "index": 18,
+      "theme": "Sociale huurwoningen",
+      "themeId": "sociale-huurwoningen",
+      "title": "Van de nieuw te bouwen woningen in Nieuwkoop moet minimaal 35% een sociale huurwoning zijn. In Nederland is nu 28% van de woningen een sociale huurwoning.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119929,
+      "index": 19,
+      "theme": "Bouwen op landbouwgrond",
+      "themeId": "bouwen-op-landbouwgrond",
+      "title": "Het moet mogelijk worden voor boeren om zelf huizen te bouwen op hun land.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119944,
+      "index": 20,
+      "theme": "Tegenprestatie voor uitkering",
+      "themeId": "tegenprestatie-voor-uitkering",
+      "title": "Mensen die een bijstandsuitkering krijgen, moeten in ruil daarvoor maatschappelijk zinvol werk doen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119934,
+      "index": 21,
+      "theme": "Sportverenigingen",
+      "themeId": "sportverenigingen",
+      "title": "Als sportverenigingen het moeilijk hebben, moet de gemeente financieel bijdragen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119965,
+      "index": 22,
+      "theme": "Verkamering",
+      "themeId": "verkamering",
+      "title": "De gemeente moet toestaan dat verhuurders losse kamers verhuren in plaats van hele huizen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119930,
+      "index": 23,
+      "theme": "Contributie sport",
+      "themeId": "contributie-sport",
+      "title": "De gemeente moet het lidmaatschap van een sportclub betalen voor mensen met een bijstandsuitkering.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119967,
+      "index": 24,
+      "theme": "Meer parkeerplaatsen",
+      "themeId": "meer-parkeerplaatsen",
+      "title": "Er moeten meer parkeerplaatsen komen in de kernen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119970,
+      "index": 25,
+      "theme": "Leegstaande kerken",
+      "themeId": "leegstaande-kerken",
+      "title": "De gemeente moet ervoor zorgen dat leegstaande kerken een nieuwe bestemming krijgen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    }
+  ]
+}

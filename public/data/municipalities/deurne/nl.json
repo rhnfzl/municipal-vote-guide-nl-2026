@@ -1,0 +1,1379 @@
+{
+  "id": "GM0762",
+  "name": "Deurne",
+  "slug": "deurne",
+  "parties": [
+    {
+      "id": 239255,
+      "name": "DOE!",
+      "fullName": "Democratisch Open Eerlijk",
+      "website": "https://www.deurnedoe.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "282848": {
+          "position": "disagree",
+          "explanation": "De opgaven voor Deurne, zoals zorg en wonen, zijn groot. DOE! wil snellere vergunningen en betere service voor inwoners. Daar zijn bekwame mensen voor nodig. Dat betekent dat het nu niet verstandig is om ambtenaren te ontslaan."
+        },
+        "282849": {
+          "position": "agree",
+          "explanation": "DOE! vindt het goed als inwoners kunnen participeren bij plannen in hun eigen leefomgeving; zij weten het beste wat speelt en nodig is. Als dit goed is voor draagvlak dan zijn langere procedures en hogere kosten acceptabel."
+        },
+        "282850": {
+          "position": "agree",
+          "explanation": "DOE! vindt het een goed idee als inwoners over alle onderwerpen kunnen inspreken. Tegelijkertijd vraagt dit dat we goed afspreken hoe we die inbreng serieus meewegen, wat de spelregels zijn voor het proces en hoe we als gemeente eerlijk en tijdig terugkoppelen wat er met de input gebeurt."
+        },
+        "282852": {
+          "position": "agree",
+          "explanation": "Deurne is niet alleen een plek om prettig te wonen, maar ook om te werken. DOE! wil dat het aantal banen in onze gemeente meegroeit met het aantal inwoners. Om dit te realiseren, is uitbreiding van bedrijventerreinen simpelweg noodzakelijk. Dit voorkomt dat Deurne een 'slaapgemeente' wordt."
+        },
+        "282853": {
+          "position": "disagree",
+          "explanation": "DOE! wil gezonde agrarische bedrijvigheid die goed is voor mens, dier en milieu. Maar stimulering van een mestverwerker past niet bij onze visie op een duurzaam en veilig buitengebied. Op het moment dat de gemeente gevraagd wordt om mee te werken, willen we dat overwegen onder strenge voorwaarden."
+        },
+        "282855": {
+          "position": "disagree",
+          "explanation": "DOE! vindt een zorgvuldige en menselijke aanpak belangrijker dan haast; we gaan voor de beste oplossing voor Deurne. Een 'zo snel mogelijk' beleid leidt in de praktijk vaak tot grootschalige noodoplossingen die op weinig steun kunnen rekenen."
+        },
+        "282857": {
+          "position": "agree",
+          "explanation": "Het CCD moet een plek zijn waar inwoners en verenigingen zich thuis voelen en samen genieten van kunst en cultuur, of dat nu als bezoeker of maker is. Cultuur is essentieel voor een levendig Deurne. Daarom zijn wij bereid te investeren in een stabiele basis voor de lange termijn als dat nodig is."
+        },
+        "282858": {
+          "position": "agree",
+          "explanation": "DOE! vindt dat De Wieger onlosmakelijk bij Deurne hoort. Het is een van de belangrijkste plekken die onze geschiedenis vertelt en onze gemeente een eigen karakter geeft. Wij willen daarom gericht investeren in het behoud van dit pand, zodat ook latere generaties van dit erfgoed kunnen genieten."
+        },
+        "282860": {
+          "position": "disagree",
+          "explanation": "DOE! staat voor sterk en toegankelijk onderwijs in onze eigen gemeente. Wij vinden het essentieel dat jongeren in Deurne een breed en gevarieerd aanbod in het voortgezet onderwijs behouden. Een gymnasiumopleiding hoort daarbij, maar dat hoeft niet per se nu in een nieuw gebouw op de huidige locatie."
+        },
+        "282861": {
+          "position": "agree",
+          "explanation": "Het centrum is nu niet altijd de aantrekkelijke plek die het zou kunnen zijn. DOE! wil het centrum een kwaliteitsboost geven, en een veiliger en schoner gebied is daar een essentieel onderdeel van. Wij zijn dan ook bereid om cameratoezicht permanent toe te staan als dit de veiligheid verbetert."
+        },
+        "282864": {
+          "position": "agree",
+          "explanation": "DOE! wil niet alleen beperkingen opleggen, maar positieve alternatieven bieden die mensen samenbrengen. Daarom pleiten wij voor een centrale show georganiseerd door de gemeente."
+        },
+        "282865": {
+          "position": "agree",
+          "explanation": "DOE! wil inzetten op de fiets als goed alternatief vervoersmiddel met het actieplan FIETS. Voor werkenden, scholieren en recreanten is het daarom belangrijk om veilig over fietspaden te kunnen rijden. Dat betekent dat vrijliggende fietspaden 's avonds slim verlicht moeten worden."
+        },
+        "282866": {
+          "position": "agree",
+          "explanation": "DOE! kiest voor een gemeente die stap voor stap groeit. Niemand kan immers in de toekomst kijken; daarom willen we plannen kunnen bijstellen. Een 'schaalsprong' mag nooit ten koste gaan van onze unieke identiteit en Deurnese kwaliteiten. Cruciaal is dat voorzieningen meegroeien met woningbouw."
+        },
+        "282868": {
+          "position": "agree",
+          "explanation": "In het centrum staan momenteel al gebouwen met een hoogte van 1 tot en met 6 bouwlagen. We zijn op voorhand niet tegen meer van dit soort gebouwen omdat de woningnood hoog is, maar de locatie en inpassing zijn daarbij doorslaggevend."
+        },
+        "282869": {
+          "position": "agree",
+          "explanation": "Voor DOE! gaat kwaliteit altijd boven kwantiteit. Hoewel we versneld woningen nodig hebben, weigeren we de groene en karakteristieke plekken in onze wijken op te offeren. Inwoners hebben recht op een aantrekkelijke leefomgeving. We zien wel ruimte door bestaande bebouwing beter te benutten."
+        },
+        "282872": {
+          "position": "agree",
+          "explanation": "DOE! ziet startersleningen als tijdelijk steuntje in de rug, maar we zijn ons bewust van de risico's op prijsopdrijving. Daarom mag dit nooit de enige oplossing zijn. Onze prioriteit ligt bij het vergroten van het aanbod. Alleen door krapte op de markt aan te pakken, blijven woningen écht betaalbaar."
+        },
+        "282873": {
+          "position": "agree",
+          "explanation": "DOE! kiest voor grote stappen om de woningcrisis aan te pakken. Elk klein initiatief draagt bij, maar we moeten nu zoveel mogelijk Deurnenaren snel aan een passende woning helpen. We zijn duidelijk over deze tijdelijke focus. Wanneer er ruimte ontstaat pakken we ook kleinschaligere initiatieven op."
+        },
+        "282878": {
+          "position": "agree",
+          "explanation": "Windmolens plaatsen we niet zomaar overal, maar uitsluitend op aangewezen plekken bij elkaar, waarbij de snelweg A67 een goede locatie is."
+        },
+        "282879": {
+          "position": "disagree",
+          "explanation": "2050 Is geen doel op zich. DOE! kiest wél voor een toekomst met genoeg én schone energie. In plaats van enkel in te zetten op zon en wind, maken we liever werk van nieuwe innovatieve technieken. Ook geven we voorrang aan bouwers die woningen realiseren die hun eigen energie opwekken."
+        },
+        "282880": {
+          "position": "disagree",
+          "explanation": "DOE! vindt: om de natuur echt te kunnen waarderen, moet je haar kunnen beleven. De Peel is een uniek kenmerk van Deurne waar we trots op zijn. Nadat er langdurig is ingezet op natuurherstel, is het nu tijd om de balans weer te herstellen door te investeren in beleving van de natuur."
+        },
+        "282883": {
+          "position": "agree",
+          "explanation": "DOE! kiest voor verantwoorde recreatie en toerisme. Helenaveen en De Peel zijn parels in onze gemeente; we willen dat mensen hiervan kunnen genieten, maar we waken ervoor dat de leefbaarheid hier onder druk komt te staan."
+        },
+        "282884": {
+          "position": "disagree",
+          "explanation": "Veel inwoners in onze dorpen zijn voor woon-werk verkeer of zorg nog echt afhankelijk van de auto. Daarom geeft DOE! geen absolute voorrang, maar kiezen we wél voor een gezonde balans waarin we fors investeren in alternatieven om de auto vaker te kunnen laten staan, zoals met het actieplan FIETS."
+        },
+        "282886": {
+          "position": "neither",
+          "explanation": "Voor DOE! zijn verkeersveiligheid en een goede bereikbaarheid noodzakelijk. Daarom moeten we tempo maken met de Binderendreef-tunnel en een tweede veilige, voetgangers- en fietstunnel bij het station. Bij groei van de gemeente kan een extra tunnel noodzakelijk zijn om het centrum te ontlasten."
+        },
+        "282887": {
+          "position": "disagree",
+          "explanation": "DOE! wil de regels voor hulp bij armoede niet veranderen. Wie nu recht heeft op extra steun, moet die hulp ook in de toekomst kunnen krijgen."
+        },
+        "282888": {
+          "position": "agree",
+          "explanation": "DOE! vindt het belangrijk dat jongeren een fijne en veilige plek hebben om samen te komen en te ontspannen. Wij starten het Jongerenberaad Deurne om hun stem over een jongerencentrum te horen. De eerste focus: een fijne, veilige plek om te ontspannen voor jongeren."
+        },
+        "282889": {
+          "position": "disagree",
+          "explanation": "DOE! kiest voor eerlijke verdeling van de gelden die beschikbaar zijn voor de bijstandsuitkering. We vinden het solidair als je bijdraagt wanneer je meer verdient dan anderen in de bijstand. Zo voorkomen we een ongelijk speelveld."
+        },
+        "282893": {
+          "position": "agree",
+          "explanation": "DOE! vindt dat het aantal banen moet meegroeien met onze inwoners. Daarom ondersteunen we lokale ondernemers en maken we ruimte voor de uitbreiding van bedrijventerreinen. Ondernemers van buiten Deurne, moeten de lokale economie ondersteunen wanneer zij zich willen vestigen in Deurne."
+        },
+        "282894": {
+          "position": "agree",
+          "explanation": "We willen dat Deurne betaalbaar blijft voor haar inwoners. Daarom moet de ozb omlaag wanneer dat kan."
+        },
+        "282898": {
+          "position": "disagree",
+          "explanation": "DOE! vindt een milieuzone een te zware maatregel. Op enkele plekken in de gemeente bestaan op dit moment al vrachtwagenverboden. Deze moeten wat ons betreft beter worden gehandhaafd."
+        },
+        "282901": {
+          "position": "disagree",
+          "explanation": "DOE! vindt dat iedereen mee moet kunnen doen. Hoewel we de noodzaak van toegankelijkheid van deze basisproducten volledig begrijpen, vinden we dat we hiervoor geen apart nieuw beleid hoeven op te tuigen. Er zijn immers al uitgiftepunten en andere armoederegelingen."
+        }
+      }
+    },
+    {
+      "id": 239254,
+      "name": "DeurneNU!",
+      "fullName": "DeurneNU!",
+      "website": "https://deurnenu.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "282848": {
+          "position": "disagree",
+          "explanation": "DeurneNU! kiest niet voor botte bezuinigingen door ambtenaren te ontslaan. Een sterke gemeente betekent goede, bereikbare dienstverlening. We sturen op efficiënt werken, duidelijke keuzes en uitvoering."
+        },
+        "282849": {
+          "position": "disagree",
+          "explanation": "Inwoners moeten vroeg en serieus worden betrokken bij besluiten. Tegelijk vraagt goed bestuur ook om duidelijkheid: geen onnodig lange procedures, vertraging of extra kosten."
+        },
+        "282850": {
+          "position": "agree",
+          "explanation": "Inwoners hebben in Deurne het recht om bij elke vergadering in te spreken, ook over niet-geagendeerde onderwerpen. Dat vinden wij belangrijk. Tegelijk zorgen duidelijke regels voor een ordelijk en zorgvuldig besluitvormingsproces."
+        },
+        "282852": {
+          "position": "agree",
+          "explanation": "Werkgelegenheid moet meegroeien met wonen. Daarom is een nieuw bedrijventerrein, zoals bijvoorbeeld bij de A67, nodig en moeten bestaande terreinen kunnen uitbreiden. Wel kiezen we bewust voor passende bedrijvigheid die Deurne economisch versterkt en leefbaar houdt."
+        },
+        "282853": {
+          "position": "agree",
+          "explanation": "Wij zetten al langere tijd in op een bredere kijk op energieopwekking. Een mestverwerker past daarbij: het combineert innovatie, hergebruik van reststromen en lokale energieproductie. Mits goed ingepast kan dit een waardevolle aanvulling zijn voor Deurne en de regio."
+        },
+        "282855": {
+          "position": "disagree",
+          "explanation": "Deurne neemt verantwoordelijkheid voor asielopvang, maar snelheid mag nooit het uitgangspunt zijn. Wij kiezen voor het Deurnes model: kleinschalige opvang, evenredig gespreid over dorpen en wijken, met oog voor leefbaarheid, draagvlak en lokale regie."
+        },
+        "282857": {
+          "position": "disagree",
+          "explanation": "Cultuur is belangrijk, maar een cultuurcentrum hoeft niet koste wat kost open te blijven. We maken keuzes op basis van gebruik, kwaliteit en betaalbaarheid. Gemeenschapsgeld moet effectief worden ingezet en vraagt om een gezonde en realistische exploitatie."
+        },
+        "282858": {
+          "position": "disagree",
+          "explanation": "Museum De Wieger is belangrijk voor Deurne, maar meer geld is geen vanzelfsprekendheid. We maken keuzes op basis van kwaliteit, bereik en effect. Publiek geld moet doelmatig worden ingezet en vraagt om een gezonde exploitatie, niet om automatisch extra middelen."
+        },
+        "282860": {
+          "position": "agree",
+          "explanation": "Het gymnasium is een belangrijke aanvulling op het middelbare schoolaanbod in Deurne en moet behouden blijven. Wij willen daarom meedenken over toekomstbestendige oplossingen, zoals nieuwbouw, met oog voor kwaliteit en efficiënt gebruik van middelen."
+        },
+        "282861": {
+          "position": "disagree",
+          "explanation": "Cameratoezicht lost problemen niet op, het werkt hooguit deëscalerend en verplaatst overlast. DeurneNU! kiest voor gericht en tijdelijk cameratoezicht waar veiligheid onder druk staat. Rond uitgaansgebieden kan permanent toezicht wél passend zijn."
+        },
+        "282864": {
+          "position": "agree",
+          "explanation": "Een gemeentelijke vuurwerkshow is een leuk idee, zeker met een landelijk vuurwerkverbod. Het brengt mensen samen en zorgt voor een feestelijke jaarwisseling, met oog voor kosten, veiligheid en een passende invulling voor Deurne én de dorpen."
+        },
+        "282865": {
+          "position": "disagree",
+          "explanation": "Verlichting is belangrijk voor veiligheid, maar niet op alle fietspaden in het buitengebied. Wij kiezen voor maatwerk: goede verlichting op drukke routes, schoolfietsroutes en plekken waar het echt nodig is. Zo verbeteren we veiligheid zonder onnodige kosten."
+        },
+        "282866": {
+          "position": "disagree",
+          "explanation": "Woningbouw is nodig om Deurne leefbaar te houden, maar het exacte aantal is geen doel op zich. Groei moet passen bij dorpen en wijken, met oog voor voorzieningen, ruimte en haalbaarheid. Wij kiezen voor bouwen waar het nodig is, in het juiste tempo maar wel met ambitie."
+        },
+        "282868": {
+          "position": "disagree",
+          "explanation": "Hoogbouw kan een efficiënte oplossing zijn voor het woningtekort in Deurne-Centrum. Wel stellen we duidelijke kaders: hoogbouw alleen waar het past bij de omgeving en bijdraagt aan leefbaarheid en meer groen in de wijk."
+        },
+        "282869": {
+          "position": "disagree",
+          "explanation": "Binnen de bebouwde kom zijn nog steeds mogelijkheden voor woningbouw. Tegelijk vinden wij groen en leefkwaliteit belangrijk. Daarom geven we de voorkeur aan bouwen aan de randen van dorpen en wijken, met inbreiding waar dat past en kwaliteit toevoegt."
+        },
+        "282872": {
+          "position": "agree",
+          "explanation": "Een starterslening kan jongeren en starters helpen bij het kopen van hun eerste woning en vergroot de kans dat zij in Deurne blijven wonen. Het is een instrument dat in andere gemeenten wordt toegepast en bijdraagt aan een toegankelijke woningmarkt en in Deurne kunnen we hier niet in achterblijven."
+        },
+        "282873": {
+          "position": "disagree",
+          "explanation": "Kleine woningbouwprojecten zijn juist belangrijk voor tempo en maatwerk, zeker in dorpen en wijken. DeurneNU! wil ruimte geven aan zowel grote als kleine projecten. Niet de omvang, maar de bijdrage aan leefbaarheid en woningbehoefte moet doorslaggevend zijn."
+        },
+        "282878": {
+          "position": "disagree",
+          "explanation": "Wij kijken per locatie of windenergie past bij de omgeving. Niet alleen langs snelwegen, maar waar het ruimtelijk verantwoord is en omwonenden kunnen meeprofiteren. Draagvlak, veiligheid en landschappelijke inpassing zijn daarbij doorslaggevend."
+        },
+        "282879": {
+          "position": "disagree",
+          "explanation": "Wij willen stappen zetten richting verduurzaming, maar ‘alles aan doen’ gaat te ver. Energieopwek moet haalbaar zijn en passen bij Deurne. We kiezen voor realistische doelen, innovatie en regionale samenwerking, zonder landschap en leefbaarheid onder druk te zetten."
+        },
+        "282880": {
+          "position": "disagree",
+          "explanation": "In en rond de Deurnese Peel en Mariapeel is de afgelopen jaren al genoeg veranderd. Wij vinden het belangrijk dat natuur ook toegankelijk blijft voor inwoners en toeristen. Nog meer ingrijpen is niet vanzelfsprekend en vraagt om kritische afweging."
+        },
+        "282883": {
+          "position": "disagree",
+          "explanation": "Inwoners en ondernemers in Helenaveen verdienen dezelfde kansen als in de rest van Deurne. Toerisme moet passen bij het gebied, maar niet vooraf worden beperkt tot ‘alleen kleinschalig’. Wij kiezen voor maatwerk, met ruimte voor initiatief en ontwikkeling waar dat kan."
+        },
+        "282884": {
+          "position": "disagree",
+          "explanation": "Lopen, fietsen en openbaar vervoer stimuleren is goed, maar in een plattelandsgemeente als Deurne is de auto vaak noodzakelijk. Wij kiezen voor bereikbaarheid voor iedereen: veilige fietsroutes en goed OV waar het kan, zonder de auto structureel achter te stellen."
+        },
+        "282886": {
+          "position": "disagree",
+          "explanation": "De situatie op de Liesselseweg is een probleem, maar een extra spoortunnel voor auto’s is niet automatisch de oplossing. Wij willen onnodig verkeer uit het centrum houden en zetten in op een bredere aanpak van bereikbaarheid, waaronder een rondweg om Deurne en slimme routes voor betere doorstroming."
+        },
+        "282887": {
+          "position": "disagree",
+          "explanation": "Hulp moet terechtkomen bij mensen die het echt nodig hebben. Het structureel verhogen van inkomensgrenzen is geen oplossing op zich. Wij kiezen voor maatwerk en gerichte ondersteuning, zodat gemeenschapsgeld effectief wordt ingezet en mensen waar mogelijk zelfstandig blijven."
+        },
+        "282888": {
+          "position": "agree",
+          "explanation": "Een jongerencentrum kan bijdragen aan goede voorzieningen voor jeugd, vooral voor jongeren in de middelbare-schoolleeftijd. Dat hoeft niet per se nieuwbouw te zijn: ook hergebruik van een bestaand gebouw is een slimme en betaalbare optie."
+        },
+        "282889": {
+          "position": "agree",
+          "explanation": "Werken moet lonen. Door mensen in de bijstand meer ruimte te geven om bij te verdienen, stimuleren we hen om werkervaring op te doen en de stap naar regulier werk te maken. Dat vergroot zelfstandigheid en verkleint de afstand tot de arbeidsmarkt."
+        },
+        "282893": {
+          "position": "agree",
+          "explanation": "Lokale ondernemers, klein én groot, zijn belangrijk voor de Deurnese economie. Door hen op bedrijventerreinen voorrang te geven, behouden we werkgelegenheid in Deurne en zorgen we dat groei ten goede komt aan de lokale gemeenschap."
+        },
+        "282894": {
+          "position": "agree",
+          "explanation": "De lasten voor inwoners en ondernemers zijn al hoog genoeg. Als gemeente moeten we scherp blijven op onze uitgaven en waar mogelijk de onroerendezaakbelasting verlagen. Lagere lasten houden wonen en ondernemen in Deurne betaalbaar."
+        },
+        "282898": {
+          "position": "disagree",
+          "explanation": "Een milieuzone past nu niet bij Deurne en zou het centrum minder bereikbaar maken. Schone mobiliteit stimuleren we liever zonder extra verboden. Alleen als bereikbaarheid en ontsluiting aantoonbaar goed zijn geregeld, kan hierover in de toekomst worden nagedacht."
+        },
+        "282901": {
+          "position": "agree",
+          "explanation": "Niemand mag door geldgebrek worden uitgesloten van basisproducten. Voor mensen die het niet kunnen betalen moet menstruatieproducten toegankelijk zijn. Dit kan gericht en discreet worden geregeld, zodat hulp terechtkomt waar die nodig is."
+        }
+      }
+    },
+    {
+      "id": 239253,
+      "name": "PGP Deurne",
+      "fullName": "PGP Deurne",
+      "website": "https://pgpdeurne.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "282848": {
+          "position": "disagree",
+          "explanation": "Deurne staat aan de vooravond van een schaalsprong. Om deze groei in goede banen te leiden en juist ook te bouwen aan onze samenleving, zullen eerder meer dan minder ambtenaren nodig zijn."
+        },
+        "282849": {
+          "position": "agree",
+          "explanation": "De betrokkenheid van onze inwoners bij gemeentelijke taken zorgt voor meer draagvlak en herkenbaarheid van de besluiten die worden genomen. Ons uitgangspunt is dat dit voor iedere inwoner laagdrempelig mogelijk moet zijn."
+        },
+        "282850": {
+          "position": "agree",
+          "explanation": "Iedereen moet snel en laagdrempelig de gemeenteraad kunnen bereiken. Behalve inspreken in de raad bestaan hiervoor ook andere en soms zelfs betere opties. Zoals bijvoorbeeld een wekelijks spreekuur of inloopavonden. Met meer tijd om ook het goede gesprek met elkaar aan te gaan."
+        },
+        "282852": {
+          "position": "agree",
+          "explanation": "Met de groei van het aantal inwoners is het van belang dat de balans tussen wonen en werken blijft. Zodat Deurne geen gemeente wordt waar het overdag uitgestorven is. Daarvoor is het van belang om ook te investeren in bedrijventerreinen. Grotere terreinen worden in regionaal verband ontwikkeld."
+        },
+        "282853": {
+          "position": "disagree",
+          "explanation": "De noodzaak voor mestverwerking komt voort uit een overschot aan dierlijke mest die niet op het land kan worden gebruikt. Terugbrengen van de aantallen dieren  vinden wij daarom een betere oplossing. Dit zorgt bovendien voor een gezonder buitengebied voor mens en natuur."
+        },
+        "282855": {
+          "position": "agree",
+          "explanation": "Ook de gemeente Deurne heeft te voldoen aan de verplichtingen uit de Spreidingswet. We hebben zowel een wettelijke als een morele verplichting om voor opvang te zorgen voor mensen die dit nodig hebben. Ook getuigt het van solidariteit om de opvangopgave niet af te wentelen op andere gemeenten."
+        },
+        "282857": {
+          "position": "agree",
+          "explanation": "Het Cultuurcentrum is een belangrijke voorziening voor een bruisende en levendige gemeente. Zowel voor liefhebbers van muziek, theater en dans als voor het rijke verenigingsleven. Het biedt een plek voor ontmoeting, inspiratie en verwondering."
+        },
+        "282858": {
+          "position": "agree",
+          "explanation": "Museum de Wieger is belangrijk cultuurhistorisch erfgoed van onze gemeente. Het is een uniek museum met landelijke uitstraling waar kunst, geschiedenis en onze lokale identiteit samenkomen. En bovendien een toeristische trekpleister, wat goed is voor onze lokale economie."
+        },
+        "282860": {
+          "position": "agree",
+          "explanation": "Het Willibrordgymnasium heeft een bovenregionale functie. Dit past bij een gemeente Deurne die groeit binnen de slimste regio van het land: Brainport."
+        },
+        "282861": {
+          "position": "disagree",
+          "explanation": "Onze veiligheid is gebaat bij een combinatie van toezicht én preventie. Investeren in preventie, bijvoorbeeld in het jongerenwerk, is voor ons belangrijker. Camera's registreren alleen wat er gebeurt, maar voorkomen dit niet. Door goed in te zetten op preventie is/wordt cameratoezicht overbodig."
+        },
+        "282864": {
+          "position": "agree",
+          "explanation": "Nu een landelijk vuurwerkverbod is ingevoerd, is het goed om vanuit de gemeente een alternatief te organiseren. Dit kan verbindend werken en voorzien in een zachte overgang naar een jaarwisseling zonder afsteken van particulier vuurwerk."
+        },
+        "282865": {
+          "position": "disagree",
+          "explanation": "Niet alle fietspaden in het buitengebied behoeven verlichting. Wel op die plekken waar de veiligheid van fietsers in het geding is, en die van fietsende schoolgaande jeugd in het bijzonder."
+        },
+        "282866": {
+          "position": "agree",
+          "explanation": "Deurne ligt in een regio die de komende jaren flink gaat groeien. Dat is een kans om belangrijke maatschappelijke voorzieningen in stand te houden en een bloeiend verenigingsleven te behouden in onze kerkdorpen en wijken. Wel is het van belang dat we ons dorpse en groene karakter behouden."
+        },
+        "282868": {
+          "position": "agree",
+          "explanation": "De maximale bouwhoogte staat altijd in relatie tot de omgeving en is onderdeel van een totaalplan voor een gebied. De maximale bouwhoogte kan in delen van het centrum dus ook lager zijn dan 6 woonlagen."
+        },
+        "282869": {
+          "position": "disagree",
+          "explanation": "Binnen de bebouwde kom is nog ruimte voor woningbouw. Die ruimte is inmiddels wel beperkt. Vandaar dat er ook gebouwd zal moeten worden aan de randen van de bebouwde kom en in het buitengebied. Wel met behoud van het dorpse en groene karakter en versterking van onze mooie landschappen."
+        },
+        "282872": {
+          "position": "agree",
+          "explanation": "De betaalbaarheid van woningen staat zwaar onder druk. Startersleningen kunnen eraan bijdragen dat een woning toch betaalbaar wordt. En kan jongeren ertoe bewegen om toch in hun dorp of wijk te blijven wonen, in plaats van te verhuizen naar buiten de gemeente."
+        },
+        "282873": {
+          "position": "agree",
+          "explanation": "Gezien de enorme behoefte aan betaalbare woningen kunnen grotere projecten ook tot een groter woningaanbod leiden. Grotere projecten zijn doorgaans ook financieel robuuster, zodat deze kunnen bijdragen aan de kwaliteit van de leefomgeving."
+        },
+        "282878": {
+          "position": "disagree",
+          "explanation": "Gezien de noodzaak om snel stappen te zetten om de klimaatdoelstellingen te halen, kunnen locaties voor windmolens op voorhand niet worden uitgesloten."
+        },
+        "282879": {
+          "position": "agree",
+          "explanation": "Het is voor het klimaat noodzakelijk om energie te besparen en zo snel mogelijk duurzaam op te wekken. En te investeren in de opslag van opgewekte energie. Van ons zou de doelstelling om energieneutraal te zijn zelfs versneld mogen worden naar 2040."
+        },
+        "282880": {
+          "position": "agree",
+          "explanation": "De Deurnese Peel en Mariapeel vormen een uniek maar kwetsbaar natuurgebied, dat we als gemeente moeten koesteren. De natuur kan zichzelf niet beschermen en heeft een helpende hand nodig."
+        },
+        "282883": {
+          "position": "agree",
+          "explanation": "Bij het benutten van de toeristische potentie van Helenaveen en de Peel is het nodig dat de draagkracht van deze gebieden goed in acht wordt genomen. Te grootschalig toerisme past daar niet bij."
+        },
+        "282884": {
+          "position": "agree",
+          "explanation": "Voorrang van andere vormen van vervoer dan de auto is niet alleen goed voor het milieu en de luchtkwaliteit, maar ook bevorderlijk voor de gezondheid. Uiteraard betekent voorrang voor lopen, fiets en openbaar vervoer niet dat de auto niet meer van betekenis is in Deurne."
+        },
+        "282886": {
+          "position": "disagree",
+          "explanation": "Een tweede spoortunnel is op termijn wellicht wenselijk, maar voor ons staat de tijdige en correcte realisatie van de eerste spoortunnel nu voorop. Op welke locaties een eventuele tweede spoortunnel nodig is, is een vraag voor later."
+        },
+        "282887": {
+          "position": "agree",
+          "explanation": "De inkomensgrenzen sluiten niet meer aan bij de huidige economische werkelijkheid. Daardoor zitten steeds meer mensen net boven de officiële armoedegrens, maar hebben ze wel grote moeite om maandelijks met het inkomen rond te komen. Bestaanszekerheid voor alle inwoners is voor ons van groot belang."
+        },
+        "282888": {
+          "position": "agree",
+          "explanation": "Jongeren hebben behoefte aan een eigen veilige en toegankelijke plek, die ondersteunt in hun ontwikkeling. Zowel creatief, muzikaal als sociaal. Een jongerencentrum geeft jongerenwerkers de kans om preventieve en ondersteunende begeleiding op maat te bieden."
+        },
+        "282889": {
+          "position": "agree",
+          "explanation": "De inkomensruimte naast de bijstandsuitkering verruimen zorgt voor meer menselijke waardigheid, prikkels richting betaald werk, minder armoede, meer stabiliteit in inkomen en hogere kansen om uit de bijstand te komen."
+        },
+        "282893": {
+          "position": "disagree",
+          "explanation": "Het type en de toegevoegde economische en maatschappelijke waarde van een bedrijf is bepalend voor vestiging op bedrijfsterreinen, en niet de afkomst. Innovatieve bedrijven en startups van nieuwe economische dragers verdienen voorrang."
+        },
+        "282894": {
+          "position": "disagree",
+          "explanation": "Verlagen van de ozb is geen doel op zichzelf. We hebben in onze gemeente grote ambities, die ook moeten worden betaald. De hoogte van de ozb is een middel om daarin te kunnen voorzien. Het is voor ons belangrijk dat we in lijn blijven met de ons omliggende gemeenten."
+        },
+        "282898": {
+          "position": "agree",
+          "explanation": "Een goede luchtkwaliteit is omwille van de gezondheid van mens en natuur van belang. Hierop heeft Deurne nog een hele uitdaging. Een milieuzone kan helpen om snel genoeg te voldoen aan de normen voor schone en gezonde lucht."
+        },
+        "282901": {
+          "position": "agree",
+          "explanation": "Toegang tot basisproducten voor het dagelijkse leven is niet voor iedereen vanzelfsprekend. We ondersteunen onze inwoners die dit nodig hebben met gratis verstrekking van deze verzorgingsproducten."
+        }
+      }
+    },
+    {
+      "id": 239258,
+      "name": "CDA",
+      "fullName": "Christen-Democratisch Appèl",
+      "website": "https://www.cda.nl/noord-brabant/deurne/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "282848": {
+          "position": "disagree",
+          "explanation": "CDA Deurne kiest voor betere dienstverlening, minder externe inhuur en efficiënter werken; ontslag is geen doel op zich."
+        },
+        "282849": {
+          "position": "neither",
+          "explanation": "Sterke positie voor dorps- en wijkraden met inspraak via inwoners en aandacht voor toegankelijkheid ambtenaren, maar ook focus op minder bureaucratie en snelle uitvoering."
+        },
+        "282850": {
+          "position": "disagree",
+          "explanation": "Op dit moment kan er ingesproken worden op punten die op de agenda staan. Dit mag best verbeteren. Voor niet geagendeerde onderwerpen denken wij aan een keer per kwartaal een agendapunt op de raadsvergadering zetten om vrij in te spreken over diverse onderwerpen."
+        },
+        "282852": {
+          "position": "agree",
+          "explanation": "Gerichte uitbreiding aanpalend aan de Kranenmortel en herordening. Dat betekent dat overlastgevende bedrijven met hoge categorie worden verplaatst naar een nieuw recycle- en energieplein. Geen nieuwe XL-distributie."
+        },
+        "282853": {
+          "position": "agree",
+          "explanation": "Verplaatsing zware categorie (o.a. mestverwerking) naar een nieuw recycle- en energieplein bij N270; positief over groen gas/mestvergisting."
+        },
+        "282855": {
+          "position": "neither",
+          "explanation": "In ons programma geven we aan de 1%-norm per wijk/dorp als uitgangspunt te houden. Dat biedt waarschijnlijk voldoende ruimte voor de landelijke taak die de gemeente Deurne heeft. Daarnaast werken met flexwoningen voor dit vraagstuk in plaats van sociale huurwoningen."
+        },
+        "282857": {
+          "position": "disagree",
+          "explanation": "Herziening van het subsidiestelsel en professionalisering van het beheer van maatschappelijk vastgoed via Deurnese Beheerstichting; niet automatisch ‘meer subsidie’."
+        },
+        "282858": {
+          "position": "disagree",
+          "explanation": "Professionalisering van het beheer van vastgoed via Beheerstichting en ondersteuning; geen expliciete toezegging van ‘meer geld’."
+        },
+        "282860": {
+          "position": "agree",
+          "explanation": "Investeren in voorzieningen en (basis)scholen per kern vinden we belangrijk. Kijken naar meer samenwerking tussen Gymnasium enerzijds en Peelland College anderzijds om het juiste onderwijs op de juiste plaats (grootschalig versus kleinschalig) aan te bieden."
+        },
+        "282861": {
+          "position": "agree",
+          "explanation": "Nadruk op wijkpreventie en verkeers-/sociale veiligheid. Camera's vormen een mogelijkheid, maar tegelijk moeten we er ook voor zorgen dat er voldoende toezicht van politie en handhavers is."
+        },
+        "282864": {
+          "position": "disagree",
+          "explanation": "Wij zien ruimte voor initiatieven in de verschillende lokale gemeenschappen om hieraan invulling te geven."
+        },
+        "282865": {
+          "position": "agree",
+          "explanation": "Wel veilige fietsroutes en verbetering verlichting waar nodig; geen generiek ‘alle paden verlichten’."
+        },
+        "282866": {
+          "position": "disagree",
+          "explanation": "8500 woningen is een regionale opgave; Deurne levert een forse bijdrage maar het cijfer is niet één-op-één voor Deurne vastgelegd. Door een forse bijdrage hierin te leveren zorgen we ervoor dat voorzieningen in onze gemeente op langere termijn houdbaar blijven. Dit kan helpen om overlast Milhezerweg op te lossen."
+        },
+        "282868": {
+          "position": "agree",
+          "explanation": "CDA kiest voor passende schaal en integrale herontwikkeling."
+        },
+        "282869": {
+          "position": "disagree",
+          "explanation": "Combinatie van beperkte binnenstedelijke projecten en grote uitbreidingslocaties. Met name de hoek Molenstraat/Kerkstraat geeft mogelijkheden voor bouw van woningen met voldoende aandacht voor groen."
+        },
+        "282872": {
+          "position": "disagree",
+          "explanation": "Het is belangrijk dat er betaalbaar gebouwd wordt. Daarom kiezen we ook voor 30% starterswoningen en 30% betaalbare huizen in plannen te realiseren."
+        },
+        "282873": {
+          "position": "disagree",
+          "explanation": "Mix van grote uitbreidingen én kleine initiatieven is van groot belang (CPO, tiny houses, woningsplitsing). Kleine projecten kunnen in verhouding snel gerealiseerd worden en dragen op korte termijn bij. Grotere projecten juist op langere termijn."
+        },
+        "282878": {
+          "position": "agree",
+          "explanation": "Geen expliciet windlocatie-standpunt in ons programma. Voor Deurne zien we weinig kansen. Mochten er langs de A67 mogelijkheden zijn dan kunnen we ons daarin vinden."
+        },
+        "282879": {
+          "position": "agree",
+          "explanation": "Wel realistisch, belonend klimaatbeleid en ondersteuning van verduurzaming."
+        },
+        "282880": {
+          "position": "disagree",
+          "explanation": "Wel inzet op groen/water, integraal faunabeheer en recreatieve toegankelijkheid; geen specifieke extra Peel-herstelagenda maar inzetten op extensivering van de landbouw rondom de Peel."
+        },
+        "282883": {
+          "position": "agree",
+          "explanation": "Ruimte voor kleinschalige (verblijfs-)recreatie passend bij natuur en dorpskarakter."
+        },
+        "282884": {
+          "position": "agree",
+          "explanation": "Sterke inzet op fiets/voetganger, maar ook gratis parkeren en investeringen in wegen; balans i.p.v. absolute voorrang. In centrum kijken naar 'auto te gast' constructies."
+        },
+        "282886": {
+          "position": "disagree",
+          "explanation": "Een tunnel op de Liesselseweg zal onherroepelijk leiden tot een grote doorstroom dwars door het centrum. Hierdoor zal het centrum zwaar overlast gaan krijgen van doorgaand verkeer dat niet in het centrum hoeft te zijn."
+        },
+        "282887": {
+          "position": "disagree",
+          "explanation": "Ons programma bevat maatregelen voor minima-gezinnen (sport/cultuur). De grens die momenteel wordt gehanteerd is voor ons passend."
+        },
+        "282888": {
+          "position": "disagree",
+          "explanation": "Het CDA wil meer ontmoetingsplekken voor jongeren, maar geen specifiek plan voor een nieuw jongerencentrum."
+        },
+        "282889": {
+          "position": "disagree",
+          "explanation": "Wel taalondersteuning en nadruk op maatschappelijke bijdrage, zonder harde straf,  tenzij onwil."
+        },
+        "282893": {
+          "position": "agree",
+          "explanation": "Ondersteuning van bestaande ondernemers en clustering, om zo betere samenhang en structuur op bedrijventerreinen te realiseren."
+        },
+        "282894": {
+          "position": "disagree",
+          "explanation": "Onze lijn is terughoudend en geen automatische verhogingen behalve inflatie; er is geen actieve verlaging voorzien."
+        },
+        "282898": {
+          "position": "disagree",
+          "explanation": "Dit lijkt ons onhaalbaar voor een landelijke gemeente."
+        },
+        "282901": {
+          "position": "disagree",
+          "explanation": "Er bestaan gesubsidieerde initiatieven die hierin voorzien zoals Pompidom en Voedselbank."
+        }
+      }
+    },
+    {
+      "id": 239257,
+      "name": "VVD",
+      "fullName": "Volkspartij voor Vrijheid Democratie",
+      "website": "https://www.vvd-deurne.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "282848": {
+          "position": "agree",
+          "explanation": "De gemeente moet zich focussen op waarvoor zij bestaat zoals veiligheid, wonen en bereikbaarheid. Minder ambtenaren en minder regels betekent lagere lasten, snellere besluiten en meer ruimte voor inwoners en ondernemers."
+        },
+        "282849": {
+          "position": "disagree",
+          "explanation": "Inwoners moeten gehoord worden, maar besluitvorming mag niet vastlopen. Extra procedures maken beleid duurder en trager. Deurne heeft tempo nodig bij woningbouw en economie."
+        },
+        "282850": {
+          "position": "disagree",
+          "explanation": "Inspraak moet serieus en gestructureerd zijn. Vrij inspreken over alles ondermijnt effectief bestuur. De raad moet besluiten kunnen nemen in plaats van vergaderen zonder resultaat."
+        },
+        "282852": {
+          "position": "agree",
+          "explanation": "Zonder ruimte voor bedrijven geen banen en geen voorzieningen. Nieuwe bedrijventerreinen zorgen voor werkgelegenheid, houden jongeren in Deurne en versterken de lokale economie."
+        },
+        "282853": {
+          "position": "agree",
+          "explanation": "Een moderne mestverwerker is geen probleem, maar een oplossing. Minder transport, meer duurzaamheid en steun voor onze agrarische sector. Dat is realistisch milieubeleid."
+        },
+        "282855": {
+          "position": "disagree",
+          "explanation": "Deurne moet zijn wettelijke verantwoordelijkheid nemen, maar niet door overhaast te handelen. Zorgvuldigheid, draagvlak en leefbaarheid zijn leidend. Door eerst locaties goed af te wegen en afspraken te maken, houden we regie en voorkomen we noodopvang die de samenleving onder druk zet."
+        },
+        "282857": {
+          "position": "disagree",
+          "explanation": "Cultuur is belangrijk, maar structurele subsidies zonder hervorming zijn geen oplossing. Instellingen moeten de bedrijfsvoering op orde hebben, zelf inkomsten genereren en efficiënter werken."
+        },
+        "282858": {
+          "position": "disagree",
+          "explanation": "Deurne zet je op de kaart met goede bereikbaarheid, woningbouw en bedrijvigheid. Extra subsidie aan één instelling voor een heel selecte doelgroep, levert te weinig rendement op voor de hele gemeente."
+        },
+        "282860": {
+          "position": "disagree",
+          "explanation": "Met het gymnasium is een overeenkomst gesloten waarin staat dat zij (met een jaarlijkse financiële bijdrage van de gemeente) verantwoordelijk is voor nieuwbouw. Afspraken zijn afspraken. Net als bij inwoners en ondernemers geldt ook hier: verantwoordelijkheid nemen voor wat je hebt afgesproken."
+        },
+        "282861": {
+          "position": "disagree",
+          "explanation": "Cameratoezicht is een zwaar middel dat alleen tijdelijk en gericht hoort te worden ingezet. Structurele veiligheid bereik je met handhaving en preventie, niet met permanente Big Brother in het centrum."
+        },
+        "282864": {
+          "position": "disagree",
+          "explanation": "Een vuurwerkshow is leuk, maar geen kerntaak. De gemeente is geen evenementenbureau. Dat geld is beter besteed aan veiligheid en voorzieningen. Wel kunnen lokale initiatieven ondersteund worden met bijvoorbeeld vergunningen of een financiële bijdrage."
+        },
+        "282865": {
+          "position": "disagree",
+          "explanation": "Verlichting waar nodig is verstandig, maar overal verlichting is duur en slecht voor natuur en landschap. Maatwerk is beter dan een algemeen gebod."
+        },
+        "282866": {
+          "position": "agree",
+          "explanation": "Groei is geen bedreiging, maar een voorwaarde om voorzieningen te behouden en nieuwe voorzieningen toe te kunnen voegen. Zonder woningbouw vergrijst Deurne en verliezen we ons aantrekkelijke karakter."
+        },
+        "282868": {
+          "position": "disagree",
+          "explanation": "Starre regels werken remmend. Hoogte moet passen bij de locatie en omgeving, niet bij een vast politiek maximum."
+        },
+        "282869": {
+          "position": "agree",
+          "explanation": "Behoud van leefbaarheid vraagt om bouwen aan de randen, niet elk groen plekje volzetten. Dat is keuzes maken."
+        },
+        "282872": {
+          "position": "disagree",
+          "explanation": "Startersleningen klinken sympathiek, maar drijven prijzen op en helpen vooral verkopers. De oplossing ligt in meer bouwen, niet in extra subsidies."
+        },
+        "282873": {
+          "position": "agree",
+          "explanation": "Grote projecten leveren sneller veel woningen op. Dat is nodig om de woningnood echt aan te pakken."
+        },
+        "282878": {
+          "position": "agree",
+          "explanation": "Zo beperken we overlast voor inwoners en schade aan landschap en natuur."
+        },
+        "282879": {
+          "position": "disagree",
+          "explanation": "Ambitie is goed, maar betaalbaarheid en uitvoerbaarheid moeten vooropstaan. Doelen mogen inwoners niet opzadelen met hoge lasten."
+        },
+        "282880": {
+          "position": "disagree",
+          "explanation": "Natuurherstel is primair de taak van provincie en terreinbeheerders. De gemeente moet voorkomen dat ondernemers en inwoners extra beperkingen krijgen."
+        },
+        "282883": {
+          "position": "agree",
+          "explanation": "Kleinschalig toerisme past bij het karakter van het gebied en voorkomt massale verstoring."
+        },
+        "282884": {
+          "position": "disagree",
+          "explanation": "In een landelijke gemeente blijft de auto essentieel voor werk en gezin. Ideologie mag bereikbaarheid niet in de weg staan."
+        },
+        "282886": {
+          "position": "agree",
+          "explanation": "Hoe meer ongelijkvloerse overgangen bij het spoor hoe beter. Ze verbeteren de bereikbaarheid en verkeersveiligheid. Als we echter moeten kiezen waar, zouden we eerder pleiten voor een oostelijke randweg rond Deurne, met spoortunnel."
+        },
+        "282887": {
+          "position": "disagree",
+          "explanation": "Hulp moet gericht blijven op wie het echt nodig heeft. Generiek verhogen maakt het systeem onbetaalbaar."
+        },
+        "282888": {
+          "position": "agree",
+          "explanation": "Jongeren hebben een eigen plek nodig, dat heeft de gemeenteraad ook besloten in de visie jongerenwerk. Dat voorkomt overlast en versterkt sociale binding."
+        },
+        "282889": {
+          "position": "agree",
+          "explanation": "Werken moet lonen. Dit vergroot zelfstandigheid en vermindert afhankelijkheid van de overheid."
+        },
+        "282893": {
+          "position": "disagree",
+          "explanation": "Een gelijk speelveld is eerlijker en beter voor economische groei."
+        },
+        "282894": {
+          "position": "agree",
+          "explanation": "Inwoners en ondernemers moeten hun geld zelf kunnen besteden in plaats van het aan de gemeente afdragen."
+        },
+        "282898": {
+          "position": "disagree",
+          "explanation": "Dit schaadt bereikbaarheid en ondernemers zonder aantoonbaar lokaal effect."
+        },
+        "282901": {
+          "position": "disagree",
+          "explanation": "Hulp hoort via bestaande armoederegelingen te lopen, niet via losse gratis producten."
+        }
+      }
+    },
+    {
+      "id": 239251,
+      "name": "Transparant Deurne",
+      "fullName": "Transparant Deurne",
+      "website": "https://www.transparantdeurne.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "282848": {
+          "position": "agree",
+          "explanation": "De gemeentelijke organisatie is de afgelopen jaren sterk gegroeid. We willen een slanke, efficiënte gemeente, maar niet blind mensen ontslaan. Eerst kritisch op taken, inhuur en processen, zodat Deurne goede dienstverlening houdt."
+        },
+        "282849": {
+          "position": "agree",
+          "explanation": "Niet alleen horen, maar echt luisteren. Vroeg in het proces, met duidelijke spelregels en één helder besluitmoment. Dat voorkomt gedoe en bespaart uiteindelijk tijd en geld."
+        },
+        "282850": {
+          "position": "agree",
+          "explanation": "Inspreken hoort bij een open raad. Maak het laagdrempelig, met duidelijke spreektijd en orde, zodat iedereen gehoord kan worden, ook als iets nog niet op de agenda staat."
+        },
+        "282852": {
+          "position": "disagree",
+          "explanation": "Bedrijventerreinen zijn nodig, maar niet overal verspreid. Groei is mogelijk. Maar liever bundelen en goed ontsluiten op een paar logische plekken, dan steeds nieuwe ‘mozaïekstukjes’ in het landschap."
+        },
+        "282853": {
+          "position": "agree",
+          "explanation": "De gemeente kan dit mogelijk maken; of dit specifiek gestimuleerd moet worden is minder belangrijk."
+        },
+        "282855": {
+          "position": "disagree",
+          "explanation": "In het belang van zowel omwonenden als de asielzoekers zelf is het beter om dit zorgvuldig te doen. Transparant Deurne staat dan ook aan de basis van het 'Deurnese Model'. Het kan wanneer het past binnen de afgesproken kleinschaligheid. Dit is belangrijker dan het aantal bedden."
+        },
+        "282857": {
+          "position": "disagree",
+          "explanation": "Elke dag begint het CCD met 1000 euro subsidie. Aan het einde van de dag is het geld weer op. Geld is niet de oplossing. De gemeente moet vooral zorgen dan het CCD open blijft door er voor te zorgen dat er een goed management zit."
+        },
+        "282858": {
+          "position": "disagree",
+          "explanation": "Er is voldoende geld voor Museum De Wieger beschikbaar gesteld. Nog meer geld staat niet in verhouding tot nodige investeringen in bijvoorbeeld sportverenigingen en andere maatschappelijke voorzieningen."
+        },
+        "282860": {
+          "position": "agree",
+          "explanation": "Het gymnasium behouden is goed voor Deurne en de regio. De gemeente is verantwoordelijk voor onderwijshuisvesting: we moeten meewerken aan nieuwbouw/modernisering als dat nodig is."
+        },
+        "282861": {
+          "position": "agree",
+          "explanation": "In het centrum kan cameratoezicht helpen. Het is een zwaar middel. Daarbuiten zijn we geen voorstander van uitgebreid cameratoezicht. Daar geldt: tijdelijk waar nodig, met bewezen effect en duidelijke evaluatie; veiligheid vraagt vooral om zichtbare handhaving (politie) en gerichte maatregelen."
+        },
+        "282864": {
+          "position": "disagree",
+          "explanation": "Een gemeente moet zich houden bij haar kerntaken. Als ondernemers of een dorp dit zelf organiseren, moet de gemeente dit faciliteren en subsidiëren via de evenementensubsidie. Dan gebeurt de organisatie vele malen efficiënter."
+        },
+        "282865": {
+          "position": "disagree",
+          "explanation": "Doorgaande fietsroutes in het buitengebied moeten beter verlicht worden. Maar Deurne kent ook een groot netwerk aan recreatieve routes. Rond de Peel en door de bossen. In deze gebieden mag het donker gekoesterd worden. \"Alle\" is daarmee te ruim."
+        },
+        "282866": {
+          "position": "disagree",
+          "explanation": "Dit is onrealistisch, zeker tot 2040. We moeten zeker bouwen, maar dit gaat gepaard met voorzieningen en een goede infrastructuur. De Heiakker telt 2000 woningen, de Koolhof 1800. En deze 8500 zijn er dus nog meer dan 2x zoveel."
+        },
+        "282868": {
+          "position": "agree",
+          "explanation": "Maximaal 6 woonlagen past bij de schaal van het centrum en voorkomt “stadse” hoogbouw. Het geeft ruimte om te verdichten, maar wel met grenzen."
+        },
+        "282869": {
+          "position": "agree",
+          "explanation": "Veel jongeren staan te springen om starterswoningen. Bouwprojecten binnen de dorpskern gaan vaak traag. Buiten de bebouwde kom kan de wooncrisis veel sneller worden opgelost."
+        },
+        "282872": {
+          "position": "disagree",
+          "explanation": "Een starterslening klinkt sympathiek, maar helpt beperkt als er te weinig betaalbare woningen zijn en kan de prijzen opdrijven. Liever: sneller bouwen, betaalbare plannen en minder drempels in procedures."
+        },
+        "282873": {
+          "position": "disagree",
+          "explanation": "Gelijke rechten. Kleine projecten en initiatieven moeten juist kans krijgen: ze zijn sneller, diverser en passen vaak beter in de omgeving. Alleen grote projecten bevoordelen, maakt bouwen afhankelijk van een paar grote spelers."
+        },
+        "282878": {
+          "position": "agree",
+          "explanation": "Als er windmolens komen, dan bij voorkeur geclusterd langs de snelweg: daar is de hinder relatief kleiner. Geen losse molens “in het landschap”, dicht bij dorpen of dicht bij de natuur. We zien echter liever helemaal geen windturbines."
+        },
+        "282879": {
+          "position": "disagree",
+          "explanation": "“Alles eraan doen” en volledig energieneutraal binnen de gemeentegrenzen is te absoluut en niet realistisch stuurbaar. We sturen op besparen en zoveel mogelijk schone opwek, maar zonder symbooldoelen die niet haalbaar zijn."
+        },
+        "282880": {
+          "position": "disagree",
+          "explanation": "Er zijn de afgelopen jaren honderden miljoenen geïnvesteerd in natuurherstel en het maken van een wensnatuur. Misschien kan men de natuur af en toe gewoon met rust laten en zijn eigen gang laten gaan."
+        },
+        "282883": {
+          "position": "disagree",
+          "explanation": "Het Peelgebied vraagt om bescherming, maar “alleen op kleine schaal” is te beperkend en legt het op slot. We willen toerisme sturen op kwaliteit en draagkracht: waar het kan kleinschalig, waar het kan beter ontsloten en georganiseerd, met heldere grenzen voor natuur en leefbaarheid."
+        },
+        "282884": {
+          "position": "disagree",
+          "explanation": "Niet overal kan lopen/fiets/OV “voorrang” krijgen: veel inwoners zijn afhankelijk van de auto. We kiezen voor balans: veilig fietsnet en beter OV waar het kan, zonder de auto weg te drukken."
+        },
+        "282886": {
+          "position": "agree",
+          "explanation": "Ook bij de Liesselseweg is een spoortunnel wenselijk voor veiligheid en bereikbaarheid. Dit moet gekoppeld worden aan externe financiering en een realistische planning. Veel sneller en met betere financiers dan bij de Binderendreef, waar we nu 5x zoveel zelf betalen."
+        },
+        "282887": {
+          "position": "disagree",
+          "explanation": "De inkomensgrens generiek verhogen is duur en niet altijd gericht. Liever: maatwerk, schuldpreventie en snelle hulp voor mensen die echt tussen wal en schip vallen."
+        },
+        "282888": {
+          "position": "agree",
+          "explanation": "Na sluiting van OJC De Roos moet er weer een veilige, laagdrempelige plek voor jongeren komen. Dat kan ook in samenwerking met onderwijs, sport en vrijwilligers, maar er moet iets terugkomen."
+        },
+        "282889": {
+          "position": "agree",
+          "explanation": "Bijverdienen moet lonen. Het helpt mensen uit de bijstand en voorkomt de armoedeval. Geef ruimte met heldere regels, zodat werken altijd voordeel oplevert."
+        },
+        "282893": {
+          "position": "agree",
+          "explanation": "We bouwen mee aan een groot regionaal bedrijventerrein. Lokaal kun je daarmee kiezen voor lokale ondernemers. Dat is goed voor werkgelegenheid en binding. Dat kan door lokaal ondernemerschap binnen de regels slim te faciliteren (kavelbeleid, criteria, fasering), zonder willekeur."
+        },
+        "282894": {
+          "position": "agree",
+          "explanation": "De ozb moet omlaag: lasten moeten betaalbaar blijven. Dat kan alleen als de gemeente tegelijk keuzes maakt in uitgaven en efficiënter werkt."
+        },
+        "282898": {
+          "position": "disagree",
+          "explanation": "Een milieuzone zien wij als opmaat naar meer beleid om de auto uit het centrum te weren. Liever slimme maatregelen: scheid doorgaand verkeer van bestemmingsverkeer en stuur/leid vrachtverkeer om. Zo verminderen we overlast en uitstoot zonder inwoners en ondernemers te beperken."
+        },
+        "282901": {
+          "position": "disagree",
+          "explanation": "Wij kiezen voor doelmatigheid. Gratis producten uitdelen door de gemeente is weer een nieuwe regeling met organisatiekosten. Help liever via bestaande armoederegelingen en partners, zodat niemand misgrijpt maar het wel doelgericht en efficiënt blijft."
+        }
+      }
+    },
+    {
+      "id": 239256,
+      "name": "50PLUS",
+      "fullName": "50PLUS",
+      "website": "https://www.50pluspartij.nl/deurne/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "282848": {
+          "position": "disagree",
+          "explanation": "50Plus is als sociale middenpartij sowieso principieel tegen (massa)ontslag van ambtenaren, maar verder moet de gemeente zich niet beperken tot haar kerntaken. Dat riekt naar het klassieke liberalisme van \"laissez faire laissez aller\". De gemeente is bezig met een substantiële schaalvergroting en dan moeten juist alle hens aan dek.\r\n"
+        },
+        "282849": {
+          "position": "agree",
+          "explanation": "Wij kennen een vertegenwoordigende democratie en geen constitutioneel of correctief referendum. Maar we zijn niettemin naast bestuursrechtelijk bezwaar, beroep en hoger beroep wel voorstander van een zekere mate van directe democratie en inspraak."
+        },
+        "282850": {
+          "position": "agree",
+          "explanation": "Daar is 50Plus te allen tijde voorstander van ter bevordering van het democratisch proces.\r\n"
+        },
+        "282852": {
+          "position": "agree",
+          "explanation": "Goed voor de werkgelegenheid."
+        },
+        "282853": {
+          "position": "agree",
+          "explanation": "Mits deze geen overlast bezorgt (Stop de stank)."
+        },
+        "282855": {
+          "position": "agree",
+          "explanation": "Maar wel met inachtneming van het Deurnese model (maximaal 1% van de lokale bevolking per wijk of dorp)."
+        },
+        "282857": {
+          "position": "agree",
+          "explanation": "Het Cultuurcentrum is een onmisbaar ontmoetingscentrum voor allerlei activiteiten en ook vanwege haar functie als concertzaal en andere evenementen.\r\n"
+        },
+        "282858": {
+          "position": "agree",
+          "explanation": "De Wieger is, samen met de Willibrorduskerk alsmede de Twaalf Apostelen en de vier Evangelisten in Zeilberg, het meest aansprekende culturele erfgoed."
+        },
+        "282860": {
+          "position": "agree",
+          "explanation": "Het gymnasium MOET behouden blijven voor Deurne."
+        },
+        "282861": {
+          "position": "agree",
+          "explanation": "Zo lang daar in redelijkheid aanleiding voor is."
+        },
+        "282864": {
+          "position": "agree",
+          "explanation": "Alleen al om ongeoorloofd vuurwerk tegen te gaan, zijn wij voor een vuurwerkshow."
+        },
+        "282865": {
+          "position": "agree",
+          "explanation": "Veiligheid boven alles."
+        },
+        "282866": {
+          "position": "disagree",
+          "explanation": "Woningbouw is zeer essentieel maar het feit dat we 19 miljoen aan subsidies mislopen is nu een financiële aderlating. Daarom moet de gemeente haar ambitieniveau ter zake bijstellen (matigen)."
+        },
+        "282868": {
+          "position": "disagree",
+          "explanation": "Dat hangt van de locatie af. De dependance van Elkerliek is volstrekt niet storend en dus kan hoogbouw op zulke locaties zeker wel."
+        },
+        "282869": {
+          "position": "disagree",
+          "explanation": "Inderdaad niet meer te veel verdichten, maar via sanering kan nieuwbouw wel, zoals bijvoorbeeld op de locatie waar nu nog zwembad De Wiemel is gevestigd."
+        },
+        "282872": {
+          "position": "agree",
+          "explanation": "Mits verantwoord qua gemeentefinanciën (solvabiliteit en liquiditeit)."
+        },
+        "282873": {
+          "position": "disagree",
+          "explanation": "Allebei moet kunnen en zit elkaar niet in de weg."
+        },
+        "282878": {
+          "position": "agree",
+          "explanation": "Mits ver verwijderd van woningen."
+        },
+        "282879": {
+          "position": "agree",
+          "explanation": "Er alleen al naar streven is uitstekend beleid."
+        },
+        "282880": {
+          "position": "agree",
+          "explanation": "Dat zijn schitterende natuurgebieden en die moeten we koesteren.\r\n"
+        },
+        "282883": {
+          "position": "neither",
+          "explanation": "In redelijkheid toestaan. Geen massatoerisme maar ook niet perse op klein schaal. De ontwikkelingen proactief blijven volgen in samenspraak met de lokale bevolking."
+        },
+        "282884": {
+          "position": "agree",
+          "explanation": "Dit moet consequent worden doorgevoerd, dus ook consequent bij alle rotondes wat de fietsers betreft."
+        },
+        "282886": {
+          "position": "agree",
+          "explanation": "Het dubbele kruispunt met stoplichten en de spoorwegovergang zijn tezamen veruit de grootste verkeersbarrière van Deurne."
+        },
+        "282887": {
+          "position": "agree",
+          "explanation": "Mits financieel in redelijkheid verantwoord. Wel een sociaal vangnet maar geen sociale hangmat."
+        },
+        "282888": {
+          "position": "agree",
+          "explanation": "Mits daar onomstotelijk behoefte aan is."
+        },
+        "282889": {
+          "position": "disagree",
+          "explanation": "Hier geld de Participatiewet en daarmee samenhangende algemene maatregelen van bestuur."
+        },
+        "282893": {
+          "position": "disagree",
+          "explanation": "In beginsel wel maar niet te absoluut stellen. De economische belangen inclusief de werkgelegenheid moeten voorop staan."
+        },
+        "282894": {
+          "position": "agree",
+          "explanation": "In ieder geval in reële zin niet meer omhoog. De gemeentebelastingen zijn best pittig in Deurne."
+        },
+        "282898": {
+          "position": "agree",
+          "explanation": "Wel met inachtneming van eventueel noodzakelijke ontheffingen."
+        },
+        "282901": {
+          "position": "agree",
+          "explanation": "Mits dat onweerlegbaar kan worden aangetoond."
+        }
+      }
+    },
+    {
+      "id": 239252,
+      "name": "Onafhankelijke Groep Deurne",
+      "fullName": "Onafhankelijke Groep Deurne",
+      "website": "https://www.facebook.com/p/Onafhankelijke-Groep-Deurne-100092650070668/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "282848": {
+          "position": "disagree",
+          "explanation": "De gemeente moet de dienstverlening verbeteren, en meer daadkracht tonen."
+        },
+        "282849": {
+          "position": "agree",
+          "explanation": "Procedures worden korter en goedkoper wanneer inwoners serieus kunnen meedoen."
+        },
+        "282850": {
+          "position": "agree",
+          "explanation": "Nieuwe politiek doe je samen met alle inwoners van Deurne."
+        },
+        "282852": {
+          "position": "disagree",
+          "explanation": "Wij willen ruimte geven aan woningbouw, en het verbeteren van bestaande bedrijventerreinen."
+        },
+        "282853": {
+          "position": "disagree",
+          "explanation": "Wanneer het lukt om met ondernemers en inwoners tot een geschikte locatie te komen, welke geen overlast geeft, kunnen we dit ondersteunen."
+        },
+        "282855": {
+          "position": "disagree",
+          "explanation": "Als het om snelheid gaat:  oneens, wij zijn voor een zorgvuldige opvang afgestemd op lokale mogelijkheden."
+        },
+        "282857": {
+          "position": "disagree",
+          "explanation": "Gemeente heeft ons inziens de verantwoordelijkheid om te voorzien in een dergelijke ontmoetingsvoorziening."
+        },
+        "282858": {
+          "position": "disagree",
+          "explanation": "Belangrijk dat ook andere maatschappelijke voorzieningen in Deurne centrum, wijken en kerkdorpen voldoende geld krijgen."
+        },
+        "282860": {
+          "position": "agree",
+          "explanation": "Belangrijk om deze school te behouden voor Deurne."
+        },
+        "282861": {
+          "position": "disagree",
+          "explanation": "Probleem verplaatst zich hierdoor naar andere plekken, het moet bij de kern worden aangepakt."
+        },
+        "282864": {
+          "position": "disagree",
+          "explanation": "Geldverspilling. Inwoners moeten op een verantwoorde manier vuurwerk kunnen afsteken."
+        },
+        "282865": {
+          "position": "agree",
+          "explanation": "Om veiligheid te vergroten."
+        },
+        "282866": {
+          "position": "disagree",
+          "explanation": "Dit aantal van 8500 woningen betekent een toename van ca. 17500 duizend inwoners voor 2040. Totaal onhaalbaar. Belangrijk om geleidelijk te bouwen, met draagvlak en de juiste voorzieningen."
+        },
+        "282868": {
+          "position": "agree",
+          "explanation": "We blijven een dorp, wij willen het karakter van een dorp behouden."
+        },
+        "282869": {
+          "position": "agree",
+          "explanation": "Beter aan de randen van Deurne. Er moet voldoende ruimte overblijven in de bebouwde kom voor voorzieningen als groen, speelveldjes en ontmoeting."
+        },
+        "282872": {
+          "position": "agree",
+          "explanation": "Goed om de starters op weg te helpen."
+        },
+        "282873": {
+          "position": "disagree",
+          "explanation": "Kleine projecten zijn belangrijk voor leefbare wijken en gevarieerd woningaanbod."
+        },
+        "282878": {
+          "position": "agree",
+          "explanation": "Niet wenselijk om grote windmolens te plaatsen dicht bij woningen (kernen)."
+        },
+        "282879": {
+          "position": "disagree",
+          "explanation": "Voor ons geen doel."
+        },
+        "282880": {
+          "position": "disagree",
+          "explanation": "Belangrijk om de bestaande natuur in en rondom de Peel behouden. Dit is meer een provinciale en landelijke verantwoordelijkheid."
+        },
+        "282883": {
+          "position": "agree",
+          "explanation": "Toerisme moet aansluiten bij de draagkracht van een gebied."
+        },
+        "282884": {
+          "position": "agree",
+          "explanation": "In het centrum van Deurne, en dorpskernen om o.a. veiligheid te vergroten."
+        },
+        "282886": {
+          "position": "agree",
+          "explanation": "Om de doorstroom van verkeer te verbeteren."
+        },
+        "282887": {
+          "position": "agree",
+          "explanation": "We moeten mensen beter ondersteunen voor een zelfstandig bestaan."
+        },
+        "282888": {
+          "position": "agree",
+          "explanation": "Een jongerenvoorziening behouden voor jongeren tussen de 12 en 16 jaar."
+        },
+        "282889": {
+          "position": "agree",
+          "explanation": "Stimuleer om weer aan het werk te gaan en vergroot de financiële zelfstandigheid."
+        },
+        "282893": {
+          "position": "agree",
+          "explanation": "Lokale ondernemers hebben vaak meer sociale binding met Deurne."
+        },
+        "282894": {
+          "position": "agree",
+          "explanation": "Wij zijn voor lagere woonlasten."
+        },
+        "282898": {
+          "position": "agree",
+          "explanation": "Ter bevordering van de woon- en leefomgeving."
+        },
+        "282901": {
+          "position": "agree",
+          "explanation": "Iedere vrouw moet hiertoe toegang hebben."
+        }
+      }
+    }
+  ],
+  "statements": [
+    {
+      "id": 282865,
+      "index": 1,
+      "theme": "Verlichting fietspaden",
+      "themeId": "verlichting-fietspaden",
+      "title": "Alle fietspaden in het buitengebied moeten verlichting krijgen.",
+      "moreInfo": "",
+      "pro": "Verlichting maakt het veiliger voor fietsers.Om fietsen te stimuleren moeten de fietspaden zo prettig mogelijk gemaakt worden.",
+      "con": "Niet op alle fietspaden is verlichting nodig, alleen op drukke routes.Het is beter voor de natuur als sommige plekken niet worden verlicht.",
+      "isShootout": false
+    },
+    {
+      "id": 282857,
+      "index": 2,
+      "theme": "Cultuurcentrum",
+      "themeId": "cultuurcentrum",
+      "title": "De gemeente moet er met meer subsidie voor zorgen dat het Cultuurcentrum Deurne open blijft.",
+      "moreInfo": "",
+      "pro": "Het centrum is onmisbaar voor kunst, cultuur en evenementen in Deurne.De gemeente kan met subsidie zorgen voor een stabiele financiële basis van het centrum.",
+      "con": "Meer geld is niet de oplossing, de bedrijfsvoering van het centrum moet worden verbeterd.Het centrum moet zelf voor meer inkomsten zorgen.",
+      "isShootout": false
+    },
+    {
+      "id": 282852,
+      "index": 3,
+      "theme": "Meer bedrijventerreinen",
+      "themeId": "meer-bedrijventerreinen",
+      "title": "In Deurne moeten meer en grotere bedrijventerreinen komen.",
+      "moreInfo": "",
+      "pro": "Uitbreiding van bedrijventerreinen zorgt voor meer werkgelegenheid voor de inwoners van Deurne.",
+      "con": "De ruimte moet worden gebruikt voor woningbouw.",
+      "isShootout": false
+    },
+    {
+      "id": 282880,
+      "index": 4,
+      "theme": "Natuurherstel",
+      "themeId": "natuurherstel",
+      "title": "De gemeente moet meer doen om de natuur rondom de Deurnese Peel en Mariapeel te herstellen.",
+      "moreInfo": "De Deurnese Peel en de Mariapeel zijn hoogveen-gebieden. De natuur staat hier onder druk, onder andere door verdroging en door stikstof. Ook recreatie is een probleem voor herstellend hoogveen, zowel voor kwetsbare planten als voor diersoorten zoals kraanvogels en dassen. De gemeente kan natuurherstel bijvoorbeeld bevorderen door recreatie af te sturen van kwetsbare gebieden, door gebieden af te sluiten of door overleg met het Waterschap over het reguleren van grondwaterstanden.",
+      "pro": "Dit zijn kwetsbare natuurgebieden die bescherming nodig hebben.Deze natuur is een uniek kenmerk van Deurne en dat moet behouden blijven.",
+      "con": "Het natuurherstel is een taak voor de landelijke overheid, de provincie en terreinbeheerders.De nadruk moet liggen op het toegankelijk maken van dit gebied voor recreatie, voor inwoners van Deurne en toeristen.",
+      "isShootout": false
+    },
+    {
+      "id": 282861,
+      "index": 5,
+      "theme": "Cameratoezicht",
+      "themeId": "cameratoezicht",
+      "title": "Het tijdelijke extra cameratoezicht in het centrum van Deurne moet blijvend worden.",
+      "moreInfo": "",
+      "pro": "Cameratoezicht maakt het centrum veiliger.Cameratoezicht maakt het centrum schoner.In het uitgaansgebied is het goed om permanent camera’s te hebben die registreren wat er gebeurt.",
+      "con": "Het is beter om geld te steken in preventie van overlast, dan is cameratoezicht niet nodig.Zichtbare handhaving werkt beter, zoals meer politieagenten of boa’s.De overlast in het centrum zal zich hierdoor verplaatsen naar andere plekken.",
+      "isShootout": false
+    },
+    {
+      "id": 282872,
+      "index": 6,
+      "theme": "Starterslening",
+      "themeId": "starterslening",
+      "title": "Mensen die voor het eerst een huis willen kopen, moeten van de gemeente een starterslening kunnen krijgen.",
+      "moreInfo": "",
+      "pro": "Door een starterslening kan een woning toch betaalbaar worden voor jonge mensen.Een starterslening vergroot de kans dat jongeren in Deurne kunnen blijven wonen.",
+      "con": "Deze mogelijkheid zal de huizenprijzen doen stijgen.Zo’n lening heeft geen effect als er te weinig huizen zijn. Meer bouwen is de beste oplossing om woningen betaalbaar te maken.",
+      "isShootout": false
+    },
+    {
+      "id": 282848,
+      "index": 7,
+      "theme": "Bezuinigen",
+      "themeId": "bezuinigen",
+      "title": "Om kosten te besparen moet de gemeente ambtenaren ontslaan en zich vooral richten op haar kerntaken.",
+      "moreInfo": "Kerntaken van de gemeente zijn sociale zaken zoals de Wmo, bijstandsuitkeringen, Jeugdwet en participatie; het beoordelen van ruimtelijke plannen en woningbouw; vergunningverlening; openbare orde en veiligheid; beheer van de openbare ruimte; en burgerzaken, zoals paspoorten en inschrijving in de gemeente. Taken die niet tot de kerntaken behoren zijn bijvoorbeeld het aanleggen van sport- en spelvoorzieningen (speeltuinen, zwembad, sportverenigingen), cultuur (bibliotheek, musea, cultuurcentrum, muziekverenigingen), gemeenschapsaccomodaties (buurthuizen), en economisch beleid.",
+      "pro": "Naast lagere kosten betekent dit ook dat er sneller besluiten worden genomen.De gemeente moet zich focussen op veiligheid, wonen en bereikbaarheid.",
+      "con": "Ontslaan van ambtenaren gaat ten koste van de service en dienstverlening.Vanwege de groei van de gemeente Deurne zijn er juist meer ambtenaren nodig dan minder.",
+      "isShootout": false
+    },
+    {
+      "id": 282860,
+      "index": 8,
+      "theme": "Gymnasium",
+      "themeId": "gymnasium",
+      "title": "De gemeente moet geld steken in nieuwbouw om het gymnasium te behouden voor Deurne.",
+      "moreInfo": "",
+      "pro": "Het is belangrijk om een gymnasium te houden in het aanbod van middelbare scholen in Deurne.De gemeente is verantwoordelijk voor de huisvesting van scholen.",
+      "con": "De gemeente geeft jaarlijks al geld aan het gymnasium, dat kan worden gebruikt voor de nieuwbouw.Op dit moment is een nieuw gebouw niet per se nodig.",
+      "isShootout": false
+    },
+    {
+      "id": 282849,
+      "index": 9,
+      "theme": "Burgerparticipatie",
+      "themeId": "burgerparticipatie",
+      "title": "De gemeente moet inwoners meer laten meedoen aan het nemen van besluiten. Ook als dat betekent dat procedures langer en duurder worden.",
+      "moreInfo": "",
+      "pro": "Inwoners weten zelf het beste wat er speelt in hun leefomgeving en wat nodig is. Op die manier vergroten we het draagvlak voor besluiten van de gemeente.Meer betrokkenheid en inspraak van inwoners kan uiteindelijk tijd en geld besparen.",
+      "con": "De besluitvorming is al democratisch genoeg, want in de gemeenteraad zitten vertegenwoordigers van de inwoners en er zijn dorps- en wijkraden. Goed bestuur betekent juist geen onnodige vertraging of kosten.Er is tempo nodig bij sommige besluiten, bijvoorbeeld over woningbouw.",
+      "isShootout": false
+    },
+    {
+      "id": 282855,
+      "index": 10,
+      "theme": "Asielzoekers",
+      "themeId": "asielzoekers",
+      "title": "De gemeente moet zo snel mogelijk het wettelijk verplichte aantal asielzoekers opvangen. Dat zijn er 191.",
+      "moreInfo": "Het aantal van 191 komt voort uit de Spreidingswet en is daarmee een landelijk opgelegde verplichting. In Deurne is aanvullend beleid gemaakt over de verspreiding van deze plekken in de gemeente: de zogenaamde '1%-regel'. Het beleid is dat per kern maximaal 1% van het inwoneraantal mag worden opgevangen. Bijvoorbeeld: in Neerkant wonen zo'n 1900 inwoners, dat betekent dat er maximaal 19 asielzoekers kunnen worden opgevangen.",
+      "pro": "We hebben naast een wettelijke ook een morele verplichting om vluchtelingen op te vangen. De gemeente moet de opvang van vluchtelingen niet afschuiven op andere gemeenten.",
+      "con": "Bij het zoeken naar een geschikte opvanglocatie zijn zorgvuldigheid en draagvlak belangrijker dan snelheid. Kleinschalige opvang past beter in de gemeente Deurne.",
+      "isShootout": false
+    },
+    {
+      "id": 282866,
+      "index": 11,
+      "theme": "Groei gemeente",
+      "themeId": "groei-gemeente",
+      "title": "Deurne moet tot 2040 in totaal ongeveer 8500 extra woningen bouwen (schaalsprong).",
+      "moreInfo": "Met de 'Schaalsprong' wordt de groei van de regio Eindhoven bedoeld. De kennisintensieve maakindustrie en de populariteit van de regio om te wonen en werken maakt dat de regio hard groeit. Er is daarom een grote vraag naar meer woningen, met de bijbehorende groei van bedrijventerreinen, mobiliteit en andere voorzieningen.",
+      "pro": "Dit aantal woningen is nodig om de gemeente Deurne niet te laten vergrijzen.Deze groei is nodig om de voorzieningen in Deurne te behouden.",
+      "con": "Het exacte aantal is geen doel op zich, plannen kunnen bijgesteld worden.Deurne moet het dorpse en groene karakter behouden, 8500 extra woningen is een bedreiging voor die identiteit.",
+      "isShootout": false
+    },
+    {
+      "id": 282858,
+      "index": 12,
+      "theme": "Museum De Wieger",
+      "themeId": "museum-de-wieger",
+      "title": "Museum De Wieger moet meer geld krijgen om Deurne op de kaart te zetten.",
+      "moreInfo": "",
+      "pro": "Het museum is belangrijk cultuur-historisch erfgoed van de gemeente Deurne, dat moeten we behouden.Museum De Wieger trekt toeristen, dat is goed voor de lokale economie.",
+      "con": "Deurne op de kaart te zetten kan beter op andere manieren: geld steken in goede bereikbaarheid en bedrijvigheid bijvoorbeeld.Er is al voldoende geld in Museum De Wieger gestoken.",
+      "isShootout": false
+    },
+    {
+      "id": 282850,
+      "index": 13,
+      "theme": "Inspreken",
+      "themeId": "inspreken",
+      "title": "Inwoners moeten bij elke raadsvergadering kunnen inspreken, ook over onderwerpen die niet op de agenda staan.",
+      "moreInfo": "Op dit moment is spreekrecht in de gemeenteraad en in de raadscommissies alleen toegestaan als het gaat over onderwerpen die op de agenda staan.",
+      "pro": "Inwoners kunnen de gemeenteraad op deze manier snel bereiken.Dit maakt het laagdrempelig voor inwoners om van zich te laten horen.",
+      "con": "Het risico is dat de vergaderingen te ongestructureerd worden.Het is voldoende om eens per kwartaal een raadsvergadering te hebben met deze mogelijkheid.",
+      "isShootout": false
+    },
+    {
+      "id": 282853,
+      "index": 14,
+      "theme": "Mestverwerker",
+      "themeId": "mestverwerker",
+      "title": "De gemeente moet stimuleren dat er een mestverwerker komt tussen Deurne en Venray.",
+      "moreInfo": "Een mestverwerker is een installatie waarin dierlijke mest wordt verwerkt tot andere producten, zoals biogas. Zo wordt de mest niet gebruikt voor het bemesten van landbouwgrond en wordt het mestoverschot verminderd. Boeren uit de omgeving brengen hun mest naar de verwerker toe. Er bestaan verschillende varianten van mestverwerkers, bijvoorbeeld voor monovergisting van koeienmest, of co-vergisting waarbij een mix van varkensmest en groenafval wordt gebruikt. Ook de omvang van een installatie kan verschillen.",
+      "pro": "Een mestverwerker kan energie opwekken als mest wordt omgezet in biogas.Een mestverwerker vermindert vervuiling van de bodem of het water en is dus beter voor het milieu.",
+      "con": "Een mestverwerker is een oplossing voor het overschot aan mest. Minder dieren op het land is een betere oplossing.Een mestverwerker geeft overlast voor inwoners, zoals stank.",
+      "isShootout": false
+    },
+    {
+      "id": 282868,
+      "index": 15,
+      "theme": "Hoogbouw",
+      "themeId": "hoogbouw",
+      "title": "In Deurne-Centrum mogen wooncomplexen maximaal 6 woonlagen hebben.",
+      "moreInfo": "",
+      "pro": "Met dit maximum aantal verdiepingen behouden we het dorpse karakter van Deurne-Centrum.",
+      "con": "Op sommige locaties kan ook hoger worden gebouwd, dat hoeft niet storend te zijn.",
+      "isShootout": false
+    },
+    {
+      "id": 282894,
+      "index": 16,
+      "theme": "Belasting op gebouwen",
+      "themeId": "belasting-op-gebouwen",
+      "title": "De onroerendezaakbelasting (ozb) in Deurne moet omlaag.",
+      "moreInfo": "",
+      "pro": "Lagere belasting maakt Deurne aantrekkelijker om te wonen of te ondernemen. De gemeente zou uitgaven kritisch moeten bekijken en zuiniger moeten zijn.",
+      "con": "Deze belasting is nodig om de voorzieningen op peil te houden.Deurne moet qua belastingen op hetzelfde niveau blijven als omliggende gemeenten.",
+      "isShootout": false
+    },
+    {
+      "id": 282883,
+      "index": 17,
+      "theme": "Toerisme",
+      "themeId": "toerisme",
+      "title": "In Helenaveen en het Peelgebied moet de gemeente alleen op kleine schaal toerisme stimuleren.",
+      "moreInfo": "",
+      "pro": "Grootschalig toerisme zou de natuur verstoren en aantasten.Grootschalig toerisme past niet bij het dorpse karakter en zou de leefbaarheid aantasten.",
+      "con": "Dit is een te beperkende maatregel die te weinig ruimte laat voor initiatieven.Ondernemers in deze gebieden moeten dezelfde kansen hebben als ondernemers op andere plekken in de gemeente.",
+      "isShootout": false
+    },
+    {
+      "id": 282869,
+      "index": 18,
+      "theme": "Nieuwbouw",
+      "themeId": "nieuwbouw",
+      "title": "Binnen de bebouwde kom van Deurne is geen ruimte meer voor woningbouw.",
+      "moreInfo": "",
+      "pro": "We willen het groen in de wijken behouden (parken, plantsoenen, speelveldjes).",
+      "con": "Op sommige plekken kunnen oude gebouwen plaatsmaken voor woningen.",
+      "isShootout": false
+    },
+    {
+      "id": 282884,
+      "index": 19,
+      "theme": "Langzaam verkeer",
+      "themeId": "langzaam-verkeer",
+      "title": "De gemeente moet lopen, fietsen en het openbaar vervoer voorrang geven op autogebruik.",
+      "moreInfo": "",
+      "pro": "Minder autogebruik is goed voor het milieu en de luchtkwaliteit.Meer lopen en fietsen is goed voor de gezondheid van onze inwoners.",
+      "con": "In een plattelandsgemeente als Deurne is de auto voor veel inwoners onmisbaar om naar hun werk te gaan.De auto is voor veel inwoners onmisbaar als ze naar de huisarts of het ziekenhuis moeten.",
+      "isShootout": false
+    },
+    {
+      "id": 282873,
+      "index": 20,
+      "theme": "Bouwprojecten",
+      "themeId": "bouwprojecten",
+      "title": "De gemeente moet grote woningbouwprojecten voorrang blijven geven op kleinere projecten van minder dan 6 woningen.",
+      "moreInfo": "",
+      "pro": "Grote projecten leveren in een keer meer woningen op en dragen dus relatief veel bij aan het oplossen van het woningtekort.",
+      "con": "Kleine projecten kunnen sneller gerealiseerd worden en dragen dus relatief sneller bij aan het oplossen van het woningtekort.",
+      "isShootout": false
+    },
+    {
+      "id": 282878,
+      "index": 21,
+      "theme": "Windmolens",
+      "themeId": "windmolens",
+      "title": "De gemeente moet alleen meewerken aan windmolens als ze langs de snelweg komen te staan.",
+      "moreInfo": "",
+      "pro": "Op die manier beperken we de overlast voor inwoners.Op die manier voorkomen we schade aan het landschap en de natuur zoveel mogelijk.",
+      "con": "Om de klimaatdoelstellingen te halen zullen we op meer plekken windmolens moeten neerzetten.De gemeente kan ook op zoek naar andere locaties, waar omwonenden kunnen meeprofiteren.",
+      "isShootout": false
+    },
+    {
+      "id": 282887,
+      "index": 22,
+      "theme": "Armoedebestrijding",
+      "themeId": "armoedebestrijding",
+      "title": "De inkomensgrens voor armoedehulp (zoals bijzondere bijstand) moeten omhoog, zodat meer mensen financiële hulp krijgen.",
+      "moreInfo": "",
+      "pro": "Te veel inwoners hebben op dit moment grote moeite om rond te komen, terwijl ze boven de officiële inkomensgrens zitten.",
+      "con": "Hulp bij armoede is alleen bedoeld voor mensen die de hulp het hardst nodig hebben.",
+      "isShootout": false
+    },
+    {
+      "id": 282901,
+      "index": 23,
+      "theme": "Gratis menstruatieproducten",
+      "themeId": "gratis-menstruatieproducten",
+      "title": "De gemeente Deurne moet gratis tampons en maandverband verspreiden voor mensen die dat niet kunnen betalen.",
+      "moreInfo": "",
+      "pro": "Dit zijn basisproducten die iedereen moet kunnen krijgen, geldgebrek mag geen probleem zijn.",
+      "con": "Dit hoeft de gemeente niet apart te organiseren. Andere organisaties kunnen dat doen, bijvoorbeeld de Voedselbank.",
+      "isShootout": false
+    },
+    {
+      "id": 282886,
+      "index": 24,
+      "theme": "Tunnels onder het spoor",
+      "themeId": "tunnels-onder-het-spoor",
+      "title": "Niet alleen bij de Binderendreef maar ook bij de Liesselseweg moet een spoortunnel voor auto’s komen.",
+      "moreInfo": "",
+      "pro": "Een tunnel vergroot de verkeersveiligheid op deze plek.Een tunnel zorgt voor betere doorstroming. Het dubbele kruispunt met stoplichten en de spoorwegovergang zorgen nu voor verkeersopstopping.",
+      "con": "Een tunnel op die plek zal leiden tot meer doorgaand verkeer door het centrum.Op termijn zou een tweede spoortunnel misschien een goed plan zijn, maar dat moet de gemeente pas later bekijken.",
+      "isShootout": false
+    },
+    {
+      "id": 282889,
+      "index": 25,
+      "theme": "Bijverdienen",
+      "themeId": "bijverdienen",
+      "title": "Mensen met een bijstandsuitkering moeten meer ruimte krijgen om bij te verdienen.",
+      "moreInfo": "",
+      "pro": "Op die manier kunnen mensen weer werkervaring opdoen, dat verkleint de afstand tot de arbeidsmarkt en vergroot hun kans om uit de bijstand te komen.Werken moet altijd lonen, zelf geld verdienen moet daarom niet worden ontmoedigd of bestraft.",
+      "con": "Dit kan leiden tot oneerlijke situaties. Mensen die bijverdienen krijgen dezelfde uitkering als mensen die niet kunnen bijverdienen.In plaats van bijverdienen zouden deze mensen als tegenprestatie onbetaald werk kunnen doen dat maatschappelijk zinvol is.",
+      "isShootout": false
+    },
+    {
+      "id": 282888,
+      "index": 26,
+      "theme": "Jongerencentrum",
+      "themeId": "jongerencentrum",
+      "title": "Na de sluiting van OJC de Roos moet de gemeente een nieuw jongerencentrum in Deurne neerzetten.",
+      "moreInfo": "Vanwege huurschulden door onder andere stijgende energiekosten en doorlopende kosten tijdens de corona-jaren moet Open Jongerencentrum De Roos stoppen aan het Haageind. In het centrum werden muziekavonden en andere evenementen voor jongeren georganiseerd.",
+      "pro": "Jongeren in de gemeente Deurne moeten een fijne en veilige plek hebben om samen te komen, te ontspannen en om zich te ontwikkelen.",
+      "con": "Er hoeft niet per se een nieuw centrum neergezet te worden, de gemeente kan ook op zoek naar een bestaand gebouw dat geschikt is.",
+      "isShootout": false
+    },
+    {
+      "id": 282898,
+      "index": 27,
+      "theme": "Milieuzone",
+      "themeId": "milieuzone",
+      "title": "De gemeente moet een milieuzone invoeren om vervuilende voertuigen uit het centrum van Deurne te weren.",
+      "moreInfo": "",
+      "pro": "Een milieuzone kan helpen om snel de normen voor schone en gezonde lucht te halen. Het is prettiger wonen in het centrum zonder overlast van deze voertuigen.Een milieuzone kan een eerste stap zijn richting een autovrij centrum.",
+      "con": "Een milieuzone is niet nodig. Op enkele plekken in de gemeente zijn vrachtwagens al verboden. Dat verbod moet beter worden gehandhaafd.Een milieuzone is slecht voor de bereikbaarheid van ondernemers in het centrum.Schoon vervoer stimuleren is beter dan bepaalde voertuigen verbieden.",
+      "isShootout": false
+    },
+    {
+      "id": 282893,
+      "index": 28,
+      "theme": "Voorrang lokale ondernemers",
+      "themeId": "voorrang-lokale-ondernemers",
+      "title": "De gemeente moet op bedrijventerreinen de vestiging van lokale ondernemers voorrang geven.",
+      "moreInfo": "",
+      "pro": "Lokale ondernemers hebben vaak meer sociale binding met Deurne.Economische groei moet vooral ten goede komen aan lokale ondernemers.",
+      "con": "Het maakt niet uit waar ondernemers vandaan komen, als ze maar van toegevoegde waarde zijn voor Deurne.Gelijke regels voor alle ondernemers is beter voor economische groei.",
+      "isShootout": false
+    },
+    {
+      "id": 282879,
+      "index": 29,
+      "theme": "Energieneutraal Deurne",
+      "themeId": "energieneutraal-deurne",
+      "title": "De gemeente moet er alles aan doen om in 2050 net zoveel energie op te wekken als er in Deurne wordt verbruikt.",
+      "moreInfo": "",
+      "pro": "Dit is noodzakelijk om klimaatverandering tegen te gaan.Innovatieve oplossingen maken dit doel haalbaar. Bijvoorbeeld investeren in opslag van energie uit zonnepanelen of windmolens.",
+      "con": "De gemeente moet realistisch blijven. Klimaatneutraal in 2050 is niet haalbaar. Zo snel verduurzamen zorgt voor te hoge kosten voor inwoners.",
+      "isShootout": false
+    },
+    {
+      "id": 282864,
+      "index": 30,
+      "theme": "Vuurwerkshow",
+      "themeId": "vuurwerkshow",
+      "title": "De gemeente moet op oudejaarsavond een vuurwerkshow organiseren.",
+      "moreInfo": "",
+      "pro": "Zo’n vuurwerkshow brengt inwoners samen, dat is goed voor de gemeenschapszin.Een georganiseerde vuurwerkshow is veiliger dan inwoners die toch zelf (illegaal) vuurwerk gaan afsteken.",
+      "con": "Lokale gemeenschappen of verenigingen kunnen dit organiseren, de gemeente is geen evenementenbureau.Een vuurwerkshow is geldverspilling.",
+      "isShootout": false
+    }
+  ]
+}

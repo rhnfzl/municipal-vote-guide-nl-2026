@@ -1,0 +1,2159 @@
+{
+  "id": "GM0479",
+  "name": "Zaanstad",
+  "slug": "zaanstad",
+  "parties": [
+    {
+      "id": 133725,
+      "name": "GROENLINKS / Partij van de Arbeid (PvdA)",
+      "fullName": "GROENLINKS / Partij van de Arbeid (PvdA)",
+      "website": "https://zaanstad.groenlinkspvda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "133741": {
+          "position": "agree",
+          "explanation": "Residents should be seriously involved in decisions that affect the place where they live. We believe in participation through neighbourhood dialogues, citizen panels, and other forms of consultation. Referendums could be used as an additional instrument, subject to careful preparation and clear safeguards."
+        },
+        "133742": {
+          "position": "disagree",
+          "explanation": "Property tax (OZB) needs to be distributed more fairly. Residents on low incomes should be partly or fully exempted, to keep living costs affordable. At the same time, the municipality needs to retain sufficient funds to invest in quality amenities and liveable neighbourhoods that benefit all residents."
+        },
+        "133746": {
+          "position": "agree",
+          "explanation": "Ground lease must not be a source of uncertainty or financial stress. Giving residents an affordable option to buy out their ground lease, with due consideration for affordability and fair treatment, will create housing security and cost predictability. "
+        },
+        "133748": {
+          "position": "agree",
+          "explanation": "A healthy living environment is a fundamental right. Companies that pollute must be called to account, and enforcement action taken where necessary. Stricter enforcement protects residents, the environment, and employees, and ensures fair competition for businesses who do have sustainable and people-centred operations."
+        },
+        "133749": {
+          "position": "disagree",
+          "explanation": "The environment in and around Zaanstad is under threat, and must be protected. Industrial growth must not be to the detriment of greenery and nature, but should occur within existing estates through more intelligent and sustainable use of space."
+        },
+        "133750": {
+          "position": "agree",
+          "explanation": "Everyone in urgent need of housing deserves a fair chance. We consider it important that homes are fairly distributed on a needs basis. Recognised refugees also have a right to proper housing. We would like to provide adequate affordable homes for all groups, however."
+        },
+        "133751": {
+          "position": "disagree",
+          "explanation": "Zaanstad is meeting its responsibilities when it comes to refugee shelter, and does so out of solidarity and compassion. Our municipality is taking on large numbers of refugees, and we believe it is time for others to step up and do the same."
+        },
+        "133752": {
+          "position": "disagree",
+          "explanation": "Waste separation should be easy and affordable for all. Pay-per-use primarily impacts people on low incomes, and increases the risk of litter and side-dumping."
+        },
+        "133754": {
+          "position": "agree",
+          "explanation": "The energy transition requires additional space to generate sustainable energy. Solar panels on agricultural land can contribute, with suitable care and respect for the landscape."
+        },
+        "133756": {
+          "position": "agree",
+          "explanation": "The climate crisis demands urgency. The sooner we invest in sustainability, the greater the benefit to the climate, living environment, and residents’ finances. We are committed to a social and just approach, with extra consideration for households that cannot bear the cost themselves."
+        },
+        "133763": {
+          "position": "agree",
+          "explanation": "An event site could promote culture, community and a lively region, provided a suitable location is found. A permanent site eliminates the need for temporary locations, and reduces disturbance for local neighbourhoods. Good accessibility and early involvement of surrounding residents will be essential in this regard: it must not infringe on nature or residents’ peace and quiet."
+        },
+        "133765": {
+          "position": "agree",
+          "explanation": "The municipality should contribute to safe, accessible and sustainable sports facilities, since they make us all healthier. They also promote social contact, making neighbourhoods safer and more pleasant."
+        },
+        "133766": {
+          "position": "agree",
+          "explanation": "We believe it is important to preserve heritage and other authentic buildings, as they contribute to the identity and historic character of our region. It is important to carefully assess which buildings deserve protection, balancing historical value, neighbourhood interests, and future viability."
+        },
+        "133767": {
+          "position": "agree",
+          "explanation": "Neighbourhood safety begins with street visibility and presence. More BOAs ensure increased supervision, rapid response, and greater approachability. They can spot early signs, de-escalate, and make streets safer."
+        },
+        "133768": {
+          "position": "agree",
+          "explanation": "Security cameras can contribute to safety, especially where there is frequent disturbance or crime. It should not be an end in itself, however. Cameras must be deployed in a considered and targeted fashion, with clear privacy safeguards and always in combination with human surveillance."
+        },
+        "133770": {
+          "position": "agree",
+          "explanation": "The growth in knife-carrying by young people is worrying, and demands preventive action. Education makes young people aware of the risks and consequences. This, in conjunction with youth support services, schools, and parents, will help to prevent violence."
+        },
+        "133773": {
+          "position": "agree",
+          "explanation": "For people on medium incomes, it is becoming harder and harder to find a suitable home. Focusing on building more mid-range rental and owner-occupied homes will improve mobility in the housing market and prevent this group from falling between the cracks."
+        },
+        "133775": {
+          "position": "agree",
+          "explanation": "Demolition and new development can be necessary for buildings not suitable for energy refitting or for engineering reasons. Reuse and renovations should always be investigated first, however. New builds must be sustainable, future-proof, and well-integrated into the surroundings."
+        },
+        "133777": {
+          "position": "agree",
+          "explanation": "Unchecked subdivision can lead to disturbance, lack of safety, and displacement of regular households. The municipality must establish and enforce clear regulations, to preserve housing quality and prevent illegal activities."
+        },
+        "133779": {
+          "position": "agree",
+          "explanation": "The housing shortage primarily affects people on low incomes. Committing to at least 40% rental social housing will prevent Zaanstad from becoming unaffordable for large groups of residents, contributing to diverse neighbourhoods and social cohesion."
+        },
+        "133780": {
+          "position": "agree",
+          "explanation": "Mandatory owner-occupation prevents market speculation, and ensures that affordable homes remain accessible to starters and families instead of investors, helping to keep the market fair."
+        },
+        "133782": {
+          "position": "disagree",
+          "explanation": "Villages adjoin natural areas, which must be protected. Adequate housing sometimes means expansion is unavoidable, but it should never be the first option."
+        },
+        "133783": {
+          "position": "agree",
+          "explanation": "Poverty impacts daily life and participation in society. Combating poverty improves financial security, and prevents stress and debt. By supporting households with incomes up to 130% of the social minimum, we prevent people from falling through the cracks. Prevention is cheaper."
+        },
+        "133784": {
+          "position": "disagree",
+          "explanation": "People on welfare benefits often want to take part in society, but do not always have a direct opportunity to do so. Mandatory mutual participation can often be detrimental, increasing stress and distrust."
+        },
+        "133785": {
+          "position": "agree",
+          "explanation": "The accessibility of Wormerveer and Krommenie is at risk. An additional bridge across the Zaan could contribute to improved traffic flow and road safety. At the same time, a project like this must be adequately researched, with a view to liveability, the environment, and noise pollution."
+        },
+        "133790": {
+          "position": "agree",
+          "explanation": "A night train will improve accessibility for people who work or go out at night. It will increase safety, reduce car traffic, and contribute to the vision for sustainable mobility."
+        },
+        "133792": {
+          "position": "disagree",
+          "explanation": "The Vlinderbrug bridge was made for slow traffic, and offers a safe connection for cyclists and pedestrians. Opening it to cars would compromise road safety and liveability in the surrounding neighbourhoods. We consciously favour safe, low-traffic connections."
+        },
+        "133794": {
+          "position": "disagree",
+          "explanation": "Paid parking is an important instrument in the fair distribution of public space and to minimise problems. Unnecessarily low rates lead to additional traffic and parking congestion. The system must still be socially fair, however, with consideration for residents, people with disabilities, and those on low incomes."
+        },
+        "133799": {
+          "position": "agree",
+          "explanation": "Informal carers provide indispensable care, significantly reducing strain on professional care organisations. A higher token of appreciation is a form of recognition for their efforts, and helps them to maintain their work."
+        },
+        "133800": {
+          "position": "agree",
+          "explanation": "Effective preparation for pregnancy and parenthood contributes to a healthy start for children. By offering free classes, we lower the barriers and invest in preventive healthcare."
+        }
+      }
+    },
+    {
+      "id": 133719,
+      "name": "Partij voor Ouderen en Veiligheid",
+      "fullName": "Partij voor Ouderen en Veiligheid",
+      "website": "https://pov-nederland.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "133741": {
+          "position": "agree",
+          "explanation": "We need clear regulations to prevent abuse of the instrument. Do not forget that a referendum costs €400,000 – you don't want one every week."
+        },
+        "133742": {
+          "position": "agree",
+          "explanation": "All taxes should be lowered, if possible. Current taxes should be used to cover costs, not to plug holes in the budget."
+        },
+        "133746": {
+          "position": "agree",
+          "explanation": "Absolutely. The POV has been advocating for this for years: a reasonable buy-out sum. Current home occupants must receive full clarity on the matter within the next four years."
+        },
+        "133748": {
+          "position": "agree",
+          "explanation": "Yes, and harsher measures are needed to punish environmental infringements. Cooperation with the regional environmental service also needs to be improved."
+        },
+        "133749": {
+          "position": "agree",
+          "explanation": "Only where possible; the POV would prefer to build homes on the edges of the city that adjoin nature zones. If necessary, housing should be allowed to encroach on the edges of nature zones."
+        },
+        "133750": {
+          "position": "disagree",
+          "explanation": "No, they should not. But the national government must also let go of the housing quotas. Zaanstad residents must not be allowed to end up at the back of the line."
+        },
+        "133751": {
+          "position": "agree",
+          "explanation": "No, absolutely not. Zaanstad must urge the national government to pursue other measures to reduce the numbers of incoming refugees. Zaanstad needs to tell The Hague that the maximum period for shelter is just that – a maximum."
+        },
+        "133752": {
+          "position": "disagree",
+          "explanation": "We are still not sure whether this is the cheapest option for residents. We support a cost differentiation per household. It is lunacy that a single person pays the same as a household of four."
+        },
+        "133754": {
+          "position": "disagree",
+          "explanation": "Solar panels cover up the ground beneath them, so nothing else can grow. We need a solution that does no harm to nature."
+        },
+        "133756": {
+          "position": "disagree",
+          "explanation": "Disagree, simply because it is an unrealistic target."
+        },
+        "133763": {
+          "position": "agree",
+          "explanation": "Yes, absolutely agree. During the previous term, we have managed to retain the Omzoom for the neighbourhood until 2028. Alas, it is temporary, and should be made permanent. We must also look at how many events the area can support."
+        },
+        "133765": {
+          "position": "disagree",
+          "explanation": "The municipality can give support where possible, but it is not the backer of sports associations. Together, we must look at where the possibilities lie. Clubs charge membership fees, and should be able to support themselves."
+        },
+        "133766": {
+          "position": "disagree",
+          "explanation": "No, absolutely not. Only if a building can be clearly shown to deserve monument status should it be allocated. Do not forget: heritage sites are extremely expensive to maintain."
+        },
+        "133767": {
+          "position": "agree",
+          "explanation": "Agreed. Zaanstad is growing, which means that enforcement should grow accordingly. All kinds of regulations were thought up in the past, without taking into account the extra manpower needed for monitoring, etc."
+        },
+        "133768": {
+          "position": "agree",
+          "explanation": "Agreed, where necessary and where it would provide a benefit. Many call for increased safety in Zaanstad, but few are willing to invest. Zaanstad should be safe for everybody."
+        },
+        "133770": {
+          "position": "agree",
+          "explanation": "Absolutely, and schools are already doing so. We need to invest in projects that are currently running, and not give up. ‘Aanpak Veiligheid,’ the safety programme, will take time."
+        },
+        "133773": {
+          "position": "agree",
+          "explanation": "Absolutely. The solution to the housing bottleneck lies in providing mid-range rental housing starting at EUR 900. More social housing is not the answer. We must also build more homes – including owner-occupied – for the elderly who wish to downsize. "
+        },
+        "133775": {
+          "position": "agree",
+          "explanation": "Without demolition, there can be no renewal. Demolition would permit large numbers of new homes in a housing crisis."
+        },
+        "133777": {
+          "position": "agree",
+          "explanation": "Zaanstad does this already. A permit is required before a house can be subdivided, in order to prevent nuisance resulting from room rentals. If possible, we must grant the permit."
+        },
+        "133779": {
+          "position": "disagree",
+          "explanation": "Strongly disagree. 30% is enough. What we need are mid-range rentals to promote mobility from social housing."
+        },
+        "133780": {
+          "position": "agree",
+          "explanation": "Agreed. This rule should apply to all of Zaanstad, with subletting only possible to family members. This type of rental should be licensed."
+        },
+        "133782": {
+          "position": "agree",
+          "explanation": "Easing pressure on the inner city means moving to the edges of neighbourhoods. We need a careful look at how many homes are possible – but we must make them possible. The municipality also has a facilitating role in this respect."
+        },
+        "133783": {
+          "position": "agree",
+          "explanation": "Yes, otherwise the efforts from previous years will have been for nothing."
+        },
+        "133784": {
+          "position": "agree",
+          "explanation": "Absolutely. We have little more to add, except where it is not possible for physical or mental reasons."
+        },
+        "133785": {
+          "position": "disagree",
+          "explanation": "The current Zaanbrug bridge cost 32 million, and it works. We do not need yet another bridge across the Zaan! "
+        },
+        "133790": {
+          "position": "disagree",
+          "explanation": "Absolutely not, these are high costs for little benefit. The money would be better spent on a good bus line that runs every night."
+        },
+        "133792": {
+          "position": "agree",
+          "explanation": "Absolutely, an exit should be added on Thorbeckeweg to provide direct access to the neighbourhood. It will ease pressure on the inner city, and prevent congestion at Vijfhoek."
+        },
+        "133794": {
+          "position": "agree",
+          "explanation": "Agreed. The agreement is that taxes should be used to cover costs, and not to patch up holes in the budget. Where possible, rates should therefore drop."
+        },
+        "133799": {
+          "position": "disagree",
+          "explanation": "People benefit more from respite care than money."
+        },
+        "133800": {
+          "position": "disagree",
+          "explanation": "Having children remains an individual responsibility, ridiculous proposition."
+        }
+      }
+    },
+    {
+      "id": 133723,
+      "name": "VVD",
+      "fullName": "Volkspartij voor Vrijheid en Democratie",
+      "website": "https://vvdzaanstad.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "133741": {
+          "position": "disagree",
+          "explanation": "De Zaanse VVD believes that every four years, residents should be able to elect those who represent them and make municipal decisions on their behalf."
+        },
+        "133742": {
+          "position": "agree",
+          "explanation": "De Zaanse VVD believes that homeowners pay enough already, so if the OZB can be lowered, it should be lowered."
+        },
+        "133746": {
+          "position": "agree",
+          "explanation": "De Zaanse VVD believes that it should be possible to buy out ground lease for a fair price."
+        },
+        "133748": {
+          "position": "agree",
+          "explanation": "De Zaanse VVD believes that everybody should keep to the rules – businesses included."
+        },
+        "133749": {
+          "position": "agree",
+          "explanation": "De Zaanse VVD believes Zaanstad should be a place where people can live, work, and enjoy life. Industrial estates are therefore a necessity, and putting them at the edges of the municipality is a good option."
+        },
+        "133750": {
+          "position": "disagree",
+          "explanation": "De Zaanse VVD believes that young people in Zaanstad deserve priority for rental social housing."
+        },
+        "133751": {
+          "position": "agree",
+          "explanation": "De Zaanse VVD believes that Zaanstad already does more than enough; exceeding the statutory amount will adversely affect our own residents."
+        },
+        "133752": {
+          "position": "disagree",
+          "explanation": "De Zaanse VVD believes that waste collection is a core municipal responsibility, and should not be pay-per-use."
+        },
+        "133754": {
+          "position": "agree",
+          "explanation": "De Zaanse VVD believes that the power shortage needs to be addressed as quickly as possible. If this helps, then we are in support."
+        },
+        "133756": {
+          "position": "disagree",
+          "explanation": "Zaanstad already does more than enough to fulfil the climate agreement. Increasing efforts will disadvantage our residents, both financially and in other ways."
+        },
+        "133763": {
+          "position": "agree",
+          "explanation": "De Zaanse VVD believes that people should be a place where people can live, work, and enjoy life. An events site is a fitting addition."
+        },
+        "133765": {
+          "position": "disagree",
+          "explanation": "Most clubhouses are already high-quality."
+        },
+        "133766": {
+          "position": "disagree",
+          "explanation": "People need to live in Zaanstad! Although some buildings are worth the trouble, it would be better for many to make room for new builds, and homes that meet the needs of 2026."
+        },
+        "133767": {
+          "position": "agree",
+          "explanation": "Safety is crucial to feel comfortable in one’s own municipality."
+        },
+        "133768": {
+          "position": "agree",
+          "explanation": "Cameras often lead to a greater sense of safety, because they are genuinely used to apprehend perpetrators!"
+        },
+        "133770": {
+          "position": "disagree",
+          "explanation": "The municipality should seize weapons, and fine these children’s parents."
+        },
+        "133773": {
+          "position": "agree",
+          "explanation": "Everybody needs homes, this group is no exception. Building these kinds of homes promotes housing mobility, freeing up social rental housing and reducing the need to build more such homes, as Zaanstad already has a high number of social rentals."
+        },
+        "133775": {
+          "position": "agree",
+          "explanation": "Where plans help improve the public realm and buildings are not of historic value, then demolition/new build must certainly be an option. Often this represents an opportunity for Zaanstad to meet the requirements of 2026."
+        },
+        "133777": {
+          "position": "agree",
+          "explanation": "Subdivision has been proven to cause problems such as illegal accommodation of migrant workers and parking issues, since the street was not made to accommodate so many vehicles."
+        },
+        "133779": {
+          "position": "disagree",
+          "explanation": "There are enough social rentals in Zaanstad; construction of mid-range rental and owner-occupied homes is the solution to the long social waiting lists."
+        },
+        "133780": {
+          "position": "disagree",
+          "explanation": "Buying a home as an investment in one’s old age or for one’s children should be perfectly possible. But slumlords who buy homes and rent them out in poor condition by the dozen should absolutely be dealt with, as they disrupt the housing market."
+        },
+        "133782": {
+          "position": "agree",
+          "explanation": "De Zaanse VVD believes people should be able to live, work, and enjoy life in the municipality. Because we need more than just apartments in Zaanstad, building on the edges of the municipality is a good option."
+        },
+        "133783": {
+          "position": "disagree",
+          "explanation": "The municipality must make better use of the budget, which never gets used up, year after year."
+        },
+        "133784": {
+          "position": "agree",
+          "explanation": "De Zaanse VVD believes that working is the norm. Welfare is to cover temporary setbacks, and the municipality should be able to ask for something in return."
+        },
+        "133785": {
+          "position": "agree",
+          "explanation": "The Zaanstad region is becoming congested, an additional bridge will help."
+        },
+        "133790": {
+          "position": "disagree",
+          "explanation": "Research has shown that this will cost €30 per passenger in subsidies!"
+        },
+        "133792": {
+          "position": "agree",
+          "explanation": "Rapid travel from one side of the municipality to the other across a bridge that already exists is a good idea."
+        },
+        "133794": {
+          "position": "agree",
+          "explanation": "Paid parking should only be used to cover costs. De Zaanse VVD does not believe the municipality should profit from it."
+        },
+        "133799": {
+          "position": "disagree",
+          "explanation": "An increase from €50 to €140 does not reflect our appreciation for the inestimable value of informal carers."
+        },
+        "133800": {
+          "position": "disagree",
+          "explanation": "Zaanstad residents expecting a child can access information through various other channels."
+        }
+      }
+    },
+    {
+      "id": 133717,
+      "name": "Democratisch Zaanstad",
+      "fullName": "Democratisch Zaanstad",
+      "website": "https://democratischzaanstad.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "133741": {
+          "position": "agree",
+          "explanation": "Agreed. Democracy does not mean voting once every four years: it is an ongoing process of public representation."
+        },
+        "133742": {
+          "position": "agree",
+          "explanation": "Agreed. Municipal taxes cannot continue to rise to plug up financial leaks. Other measures are necessary, such as a critical evaluation of municipal spending patterns."
+        },
+        "133746": {
+          "position": "agree",
+          "explanation": "Agreed. The current system is demonstrably opaque, and its introduction has greatly harmed those involved."
+        },
+        "133748": {
+          "position": "disagree",
+          "explanation": "Disagree. There is no evidence that more monitoring is necessary than currently occurs via permit allocation, the regional environmental service, or regular enforcement."
+        },
+        "133749": {
+          "position": "disagree",
+          "explanation": "Disagree. There must be a clear boundary between housing and employment and their distribution, without them getting in each other’s way. Like things used to be, in other words."
+        },
+        "133750": {
+          "position": "disagree",
+          "explanation": "Disagree. Genuine social participation also means accepting the rules that apply to everybody. Besides, positive discrimination is still discrimination."
+        },
+        "133751": {
+          "position": "agree",
+          "explanation": "Agreed. Zaanstad has enough social challenges among its own residents."
+        },
+        "133752": {
+          "position": "disagree",
+          "explanation": "Disagree. The municipality should look into waste-processing alternatives that are more efficient and cheaper in practice, such as post-sorting."
+        },
+        "133754": {
+          "position": "disagree",
+          "explanation": "Disagree. Solar panels ruin the landscape, and restrict agricultural businesses in their operations."
+        },
+        "133756": {
+          "position": "disagree",
+          "explanation": "Disagree. There is no need for Zaanstad to ever be climate neutral. Zaanstad's contribution to this issue globally is negligible."
+        },
+        "133763": {
+          "position": "disagree",
+          "explanation": "Disagree. Given all the other spatial challenges in our municipality, this is unrealistic, and would be a waste of space besides."
+        },
+        "133765": {
+          "position": "agree",
+          "explanation": "Agreed. As a core task, sport deserves funding, particularly to avoid forced relocations and mergers and help maintain its local character."
+        },
+        "133766": {
+          "position": "disagree",
+          "explanation": "Disagree. Monument status is not an end in itself, but an instrument for preserving that which has important cultural and historical value."
+        },
+        "133767": {
+          "position": "agree",
+          "explanation": "Agree, though it is not so that more BOAs increase safety, at least not on their own. Additional measures are also necessary."
+        },
+        "133768": {
+          "position": "disagree",
+          "explanation": "Disagree. To us, preserving citizens’ freedom is just as important as ensuring safety. Besides, CCTV only increases safety if it is actively monitored, which is an expensive enterprise."
+        },
+        "133770": {
+          "position": "agree",
+          "explanation": "Agreed. Though this is not just the municipality's job: it is also the responsibility of care providers and security services. Ultimately the problem is society-wide."
+        },
+        "133773": {
+          "position": "disagree",
+          "explanation": "Disagree. Zaanstad has a relatively high proportion of low-income earners, which places additional pressure on social services. A better balance of financial capacity among residents would be an improvement."
+        },
+        "133775": {
+          "position": "agree",
+          "explanation": "Agreed, provided we do not lose sight of buildings genuinely deserving of preservation or monumental status. The municipality could assist by creating legislation or granting subsidies."
+        },
+        "133777": {
+          "position": "agree",
+          "explanation": "Agreed. Subdivision into rooms often creates additional nuisance in local neighbourhoods."
+        },
+        "133779": {
+          "position": "disagree",
+          "explanation": "Disagree. Zaanstad has a relatively high proportion of low-income earners, which places additional pressure on social services. A better balance of financial capacity among residents would be an improvement."
+        },
+        "133780": {
+          "position": "disagree",
+          "explanation": "Disagree. The government should have no say in this matter."
+        },
+        "133782": {
+          "position": "disagree",
+          "explanation": "Disagree, it is important to protect our peat meadow areas."
+        },
+        "133783": {
+          "position": "disagree",
+          "explanation": "Disagree, there is no evidence to support this, and it is a major additional expense for which the municipality is not compensated."
+        },
+        "133784": {
+          "position": "agree",
+          "explanation": "Agreed. These benefits are a safety net, and are intended as a temporary measure for when people are unable to manage on their own. Mutual participation is a useful step on the way to new work, to gain work experience, or to make a contribution to society."
+        },
+        "133785": {
+          "position": "agree",
+          "explanation": "Agreed. There needs to be alignment with the Willis plan in Krommenie."
+        },
+        "133790": {
+          "position": "agree",
+          "explanation": "Agreed, that too should be a part of a growing, relatively large city."
+        },
+        "133792": {
+          "position": "agree",
+          "explanation": "Agreed, this should improve traffic flows in Zaandam-Zuid considerably, and will prevent detours."
+        },
+        "133794": {
+          "position": "agree",
+          "explanation": "Agreed. Limited parking facilities create scarcity, which is also punished with high parking fees."
+        },
+        "133799": {
+          "position": "disagree",
+          "explanation": "Disagree. An allowance is not the same as a subsidy, which is meant to incentivise specific behavior or efforts. Informal care is different, because people don’t choose it – they are simply faced with it."
+        },
+        "133800": {
+          "position": "disagree",
+          "explanation": "Disagree. A certain degree of independence can be expected of residents, which is generally also present. Various kinds of help and support are available for those who need it."
+        }
+      }
+    },
+    {
+      "id": 133721,
+      "name": "ROSA Zaanstad",
+      "fullName": "ROSA Zaanstad",
+      "website": "https://www.rosa-zaanstad.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "133741": {
+          "position": "disagree",
+          "explanation": "There are so many important decisions, it would be too costly and complicated for the council to organise a referendum every time. In ROSA’s view, residents should always be able to request a referendum, provided it is not commercial or misleading in nature."
+        },
+        "133742": {
+          "position": "disagree",
+          "explanation": "The OZB funds many important facilities for residents. A reduction would mean cutting costs in other areas. Housing costs in Zaanstad are around the national average. ROSA is satisfied with that."
+        },
+        "133746": {
+          "position": "agree",
+          "explanation": "ROSA supports a long-term lease system to combat property speculation. But if residents do wish to purchase the land under their homes, it should be handled in a fair and responsible manner. If there is an inexpensive option, so much the better."
+        },
+        "133748": {
+          "position": "agree",
+          "explanation": "The regional environmental service (Omgevingsdienst) carries out environmental checks for the municipality. We place great value on regular and effective monitoring!"
+        },
+        "133749": {
+          "position": "disagree",
+          "explanation": "No, certainly not. The environment in Zaanstad is already under too much pressure."
+        },
+        "133750": {
+          "position": "agree",
+          "explanation": "Unlike many others, recognised refugees have no social safety net, and should therefore remain eligible for priority, just like so many others in difficulty."
+        },
+        "133751": {
+          "position": "disagree",
+          "explanation": "While there are still Dutch municipalities that do not accommodate refugees, the remaining municipalities will need to do a little extra. ROSA is proud that Zaanstad is stepping up in this regard."
+        },
+        "133752": {
+          "position": "agree",
+          "explanation": "Zaanstad still produces far too much landfill. To reduce it, producers will need to modify their packaging, and there should be financial incentives for residents who do their best to separate waste."
+        },
+        "133754": {
+          "position": "agree",
+          "explanation": "Yes, but let us start by filling up all the rooftops."
+        },
+        "133756": {
+          "position": "agree",
+          "explanation": "No matter the agreements, we should all be doing our utmost to be climate-neutral as soon as possible. Incidentally, the original target was 2020..."
+        },
+        "133763": {
+          "position": "disagree",
+          "explanation": "It should be possible to organise events throughout Zaanstad. The environment and other amenities must not suffer, however, and so multi-purpose venues (in multiple locations) are preferable."
+        },
+        "133765": {
+          "position": "agree",
+          "explanation": "Thankfully, we already do so generously."
+        },
+        "133766": {
+          "position": "agree",
+          "explanation": "Monument status is always a means, not an end. ROSA wants to retain Zaanstad's identity by continuing to tell its story. Allocating objects – which do not need to be old by any means –  monument and landmark status can help in this regard."
+        },
+        "133767": {
+          "position": "agree",
+          "explanation": "We would prefer people to cameras on the streets."
+        },
+        "133768": {
+          "position": "disagree",
+          "explanation": "We would prefer people to cameras on the streets. Cameras give the illusion of security."
+        },
+        "133770": {
+          "position": "agree",
+          "explanation": "Young people are under a lot of peer (and other) pressure, and it is important to do something about it. Thankfully Zaanstad already does this in various ways."
+        },
+        "133773": {
+          "position": "disagree",
+          "explanation": "The greatest demand is still for affordable homes. ROSA believes that the percentage of rental social housing in new developments could go up from 30 to 40 per cent."
+        },
+        "133775": {
+          "position": "disagree",
+          "explanation": "No more demolition! We should retain as many buildings as possible, both from both a sustainability standpoint and to maintain Zaanstad’s identity. Nowadays, it is also cheaper than demolishing and starting anew, and also provides architects and developers with exciting new challenges."
+        },
+        "133777": {
+          "position": "disagree",
+          "explanation": "Subdivision must comply with strict regulations, and is not desirable everywhere. However, adding more rooms can help people, such as students and other young people. Thankfully Zaanstad treats this issue with care. "
+        },
+        "133779": {
+          "position": "agree",
+          "explanation": "Affordable housing is in great demand."
+        },
+        "133780": {
+          "position": "agree",
+          "explanation": "To prevent property speculation, mandatory occupancy should apply where possible. Thankfully this is already the case for the more affordable homes in Zaanstad, but could be applied more widely in our view."
+        },
+        "133782": {
+          "position": "disagree",
+          "explanation": "Don't build outwards – build upwards. We must preserve our green spaces for the environment."
+        },
+        "133783": {
+          "position": "agree",
+          "explanation": "Incomes are The Hague’s jurisdiction. However, Zaanstad can help local residents on low incomes in all sorts of ways, which thankfully we do. Of course, we should always strive to do more."
+        },
+        "133784": {
+          "position": "agree",
+          "explanation": "This is already the case, and is regulated by law."
+        },
+        "133785": {
+          "position": "disagree",
+          "explanation": "Zaanstad should not be enabling cars any further. We do support ferry services, which are enjoyable for pedestrians and cyclists."
+        },
+        "133790": {
+          "position": "agree",
+          "explanation": "A proper night train would be very nice indeed."
+        },
+        "133792": {
+          "position": "disagree",
+          "explanation": "ROSA does not see the benefits of this plan."
+        },
+        "133794": {
+          "position": "disagree",
+          "explanation": "Our parking fees are not high compared to other places. ROSA is also in favour of encouraging people to choose other modes of transport."
+        },
+        "133799": {
+          "position": "disagree",
+          "explanation": "Most informal carers appreciate support and temporary respite more than money. It would be better to spend the informal care budget on these aspects."
+        },
+        "133800": {
+          "position": "agree",
+          "explanation": "ROSA believes it should be part of basic insurance. While that is not the case, it should be subsidised, especially for those with limited means."
+        }
+      }
+    },
+    {
+      "id": 133726,
+      "name": "PVV (Partij voor de Vrijheid)",
+      "fullName": "PVV (Partij voor de Vrijheid)",
+      "website": "https://www.pvv-zaanstreek.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "133741": {
+          "position": "agree",
+          "explanation": "The PVV supports referendums, but only for genuinely critical and far-reaching decisions. Zaanstad, however, only has the advisory referendum: an instrument without any binding influence, that the executive and council can simply ignore if they choose."
+        },
+        "133742": {
+          "position": "agree",
+          "explanation": "The PVV wants the OZB to be as low as possible for its residents. Vacancy allows speculators to avoid paying the user portion of property tax, so that other residents and businesses pay a disproportionate amount. That is unfair."
+        },
+        "133746": {
+          "position": "agree",
+          "explanation": "Ground lease in Zaanstad is unfair. Homes on ground lease are assigned the same assessed property value (WOZ) as homes on private land, meaning that ground lessees end up paying extra. The PVV wants to make ground lease fair and affordable again."
+        },
+        "133748": {
+          "position": "disagree",
+          "explanation": "Even though the municipality has administrative responsibility in this regard, it is the task of the regional environmental service (Omgevingsdienst)."
+        },
+        "133749": {
+          "position": "agree",
+          "explanation": "Industry is important in a growing city, however we must be selective about how to put it into practice. Nature must never form an obstacle to growth and livelihood security."
+        },
+        "133750": {
+          "position": "disagree",
+          "explanation": "Absolutely not, discriminating against our own residents in favour of recognised refugees is unacceptable. Our residents must receive local priority."
+        },
+        "133751": {
+          "position": "agree",
+          "explanation": "Under the Distribution Act, we are required to accommodate around 800 asylum seekers, but we are currently hosting twice that number. That means double the problems. We are against the Distribution Act, but will continue to advocate for Zaanstad’s interests."
+        },
+        "133752": {
+          "position": "disagree",
+          "explanation": "We are already seeing a lot of illegal dumping, and this change will only exacerbate the problem. We do support a differentiated rate for single-person homes, however."
+        },
+        "133754": {
+          "position": "disagree",
+          "explanation": "The PVV is sceptical of weather-dependent energy sources (such as solar and wind), and is strongly opposed to their use on agricultural land. It is detrimental to both food production and the beautiful Dutch landscape."
+        },
+        "133756": {
+          "position": "disagree",
+          "explanation": "The Zaan Climate Agreement belongs in the shredder."
+        },
+        "133763": {
+          "position": "agree",
+          "explanation": "An event site in Zaanstad-Noord is necessary, and could potentially be multi-purpose."
+        },
+        "133765": {
+          "position": "agree",
+          "explanation": "The municipality is responsible for sports facilities and clubhouses, and must make improvements where necessary."
+        },
+        "133766": {
+          "position": "disagree",
+          "explanation": "Not all old buildings are monuments."
+        },
+        "133767": {
+          "position": "agree",
+          "explanation": "Many people no longer feel safe on the streets. The municipality should do all it can to improve its residents’ sense of safety."
+        },
+        "133768": {
+          "position": "agree",
+          "explanation": "Many people no longer feel safe on the streets. The municipality should do all it can to improve its residents’ sense of safety."
+        },
+        "133770": {
+          "position": "disagree",
+          "explanation": "Education this, information that – it’s all talk. Carrying stabbing weapons is illegal, simple as that."
+        },
+        "133773": {
+          "position": "agree",
+          "explanation": "More mid-range rentals will encourage mobility, and serve an oft-neglected demographic."
+        },
+        "133775": {
+          "position": "agree",
+          "explanation": "It should be possible to demolish a building that loses its functionality to make place for another, provided it does not have monument status and no speculation is at play."
+        },
+        "133777": {
+          "position": "agree",
+          "explanation": "There are regulations to prevent subdivision, which must be strictly enforced. Too much of this in a street or neighbourhood disrupts the community and creates nuisance."
+        },
+        "133779": {
+          "position": "disagree",
+          "explanation": "30% rental social housing is more than enough for a balanced city; exceeding this level is financially unfeasible and disrupts the living environment, as in Poelenburg where over 60% of the homes are social housing."
+        },
+        "133780": {
+          "position": "agree",
+          "explanation": "Price-hiking speculation must be avoided where there is a shortage. Owner-occupancy is therefore important."
+        },
+        "133782": {
+          "position": "agree",
+          "explanation": "An extra road here and there is no problem, however village character should be preserved and the infrastructure must be able to cope."
+        },
+        "133783": {
+          "position": "agree",
+          "explanation": "We are in favour of combating poverty, but see more value in effective support to prevent poverty and problem debts."
+        },
+        "133784": {
+          "position": "agree",
+          "explanation": "Community service can be useful, but should not replace a paid job. Encouraging people to work is important, there are enough job vacancies. If no suitable work can be found, education or retraining is crucial, so that people can become financially self-sufficient."
+        },
+        "133785": {
+          "position": "disagree",
+          "explanation": "The only possibility the PVV can think of is an additional bridge at Wormer, which will do nothing for Zaanstad."
+        },
+        "133790": {
+          "position": "agree",
+          "explanation": "It is ludicrous that a night train between Alkmaar and Amsterdam does not stop in Zaanstad. It would mean more passengers and income for the NS, and Zaanstad should certainly not have to bear the brunt of the costs."
+        },
+        "133792": {
+          "position": "disagree",
+          "explanation": "Opening this bridge to cars between Poelenburg and the Achtersluispolder would funnel enormous amounts of cut-through traffic to Thorbeckeweg."
+        },
+        "133794": {
+          "position": "agree",
+          "explanation": "PVV Zaanstad supports a cheaper and fairer parking policy that makes sense. Parking should be a basic amenity, not a punitive measure."
+        },
+        "133799": {
+          "position": "agree",
+          "explanation": "Informal carers are indispensable. Their allowance should go back up, without any ‘city pass’ nonsense. But respite care is perhaps just as necessary, to allow carers to provide better care without overtaxing themselves."
+        },
+        "133800": {
+          "position": "disagree",
+          "explanation": "More needless meddling."
+        }
+      }
+    },
+    {
+      "id": 133727,
+      "name": "D66",
+      "fullName": "D66",
+      "website": "https://d66.nl/zaanstad/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "133741": {
+          "position": "agree",
+          "explanation": "Residents should be able to have their say on important decisions."
+        },
+        "133742": {
+          "position": "disagree",
+          "explanation": "The property tax (OZB) should not be lowered. It is already relatively low in Zaanstad compared to other municipalities, and OZB revenue is needed for facilities such as healthcare, greenery, and culture."
+        },
+        "133746": {
+          "position": "disagree",
+          "explanation": "Zaanstad should give homeowners the option to buy out their ground lease. The price will vary from case to case."
+        },
+        "133748": {
+          "position": "agree",
+          "explanation": "Industry is important to the Zaanstad economy, but should not be to the detriment of liveability and the health of our residents. Pollution should therefore be prevented as much as possible."
+        },
+        "133749": {
+          "position": "disagree",
+          "explanation": "In addition to housing and employment, access to nature in the city is also important. Allowing industry to expand will be at the cost of housing, employment, or the environment."
+        },
+        "133750": {
+          "position": "agree",
+          "explanation": "Just like other vulnerable groups, people who have received a residency permit deserve help finding a home."
+        },
+        "133751": {
+          "position": "disagree",
+          "explanation": "We believe that if people are sleeping outdoors in tents, Zaanstad should do its part to prevent it – even if it means taking on more asylum seekers than legally required."
+        },
+        "133752": {
+          "position": "disagree",
+          "explanation": "This policy could have undesirable effects, such as side-dumping or dumping outside municipal borders."
+        },
+        "133754": {
+          "position": "agree",
+          "explanation": "Reaching the climate targets will require all forms of sustainable energy. We must consider dual use as much as possible, however."
+        },
+        "133756": {
+          "position": "disagree",
+          "explanation": "Setting the goal at 2040 is ambitious enough."
+        },
+        "133763": {
+          "position": "agree",
+          "explanation": "Many Zaanstad residents enjoy events and festivals. D66 believes more space should be available for them."
+        },
+        "133765": {
+          "position": "agree",
+          "explanation": "Sports associations should be enjoyable places for sports and recreation."
+        },
+        "133766": {
+          "position": "agree",
+          "explanation": "We believe that protecting as many historic buildings as possible via monument status strengthens local identity, promotes sustainability and liveability, and prevents the loss of valuable heritage through short-term decision-making. Opportunities for future-oriented development must remain, however."
+        },
+        "133767": {
+          "position": "disagree",
+          "explanation": "Municipal enforcement officers must be deployed where they are needed most."
+        },
+        "133768": {
+          "position": "disagree",
+          "explanation": "Security cameras can increase security, but they also invade people’s privacy. The current policy offers sufficient balance."
+        },
+        "133770": {
+          "position": "agree",
+          "explanation": "Unfortunately, we are seeing too many incidents involving stabbing weapons. Education can be of help."
+        },
+        "133773": {
+          "position": "disagree",
+          "explanation": "We need a balanced mix of homes."
+        },
+        "133775": {
+          "position": "agree",
+          "explanation": "By demolishing old buildings and replacing them with housing, we can increase Zaanstad’s housing supply, which is urgently needed."
+        },
+        "133777": {
+          "position": "agree",
+          "explanation": "D66 believes the municipality should combat subdivision of houses into rented rooms, as it puts strain on neighbourhood liveability and social cohesion. Tailored solutions are also needed: we must deal with illegal activity, but also ensure sufficient affordable housing alternatives so that shared living remains an option, not a necessity."
+        },
+        "133779": {
+          "position": "disagree",
+          "explanation": "Disagree. More social housing means less other types of housing, such as mid-range rentals and homes for purchase. A good mix of housing is important."
+        },
+        "133780": {
+          "position": "disagree",
+          "explanation": "People should be able to decide what to do with their own homes."
+        },
+        "133782": {
+          "position": "agree",
+          "explanation": "D66 does not support building in nature areas, however at village borders it ought to be possible to a limited extent. D66 opposes construction in Natura 2000 areas."
+        },
+        "133783": {
+          "position": "disagree",
+          "explanation": "D66 believes the municipality should combat poverty, as financial stress limits opportunities and increases inequality. Rather than investing in poverty measures, however, we should instead invest in prevention, education, and sport."
+        },
+        "133784": {
+          "position": "agree",
+          "explanation": "Everyone must be able to contribute meaningfully to society. This system also promotes access to paid work."
+        },
+        "133785": {
+          "position": "disagree",
+          "explanation": "D66 does not support any extra roads and/or bridges."
+        },
+        "133790": {
+          "position": "agree",
+          "explanation": "Many Zaanstad residents enjoy the nightlife in Amsterdam, and it is important that they have a safe and sustainable way to get home."
+        },
+        "133792": {
+          "position": "disagree",
+          "explanation": "D66 Zaanstad believes that the Vlinderbrug bridge should not be open to cars due to the negative effects on road safety, liveability, and sustainable mobility. The bridge is intended for safe use by bicycles and pedestrians, to promote a healthy, low-traffic municipality."
+        },
+        "133794": {
+          "position": "disagree",
+          "explanation": "People should be encouraged to travel by bicycle, public transport, or on foot."
+        },
+        "133799": {
+          "position": "agree",
+          "explanation": "Informal carers are very important, and deserve a token of appreciation."
+        },
+        "133800": {
+          "position": "agree",
+          "explanation": "Equal opportunity for all starts at the cradle of every child."
+        }
+      }
+    },
+    {
+      "id": 133716,
+      "name": "CDA",
+      "fullName": "Christen-Democratisch Appèl",
+      "website": "https://www.cda.nl/noord-holland/zaanstad/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "133741": {
+          "position": "disagree",
+          "explanation": "The CDA does not believe that referendums are an effective means of resident participation. They oversimplify complex choices, and often create more contradictions. Residents can provide more effective input through effective public consultation, and by providing feedback on plans that affect them."
+        },
+        "133742": {
+          "position": "disagree",
+          "explanation": "The CDA would like a lower OZB, but does not believe it is realistic. Less OZB means less funding for municipal care, facilities, and maintenance, to the detriment of residents who need these services daily. Lowering the tax is therefore not so simple."
+        },
+        "133746": {
+          "position": "disagree",
+          "explanation": "It is fair and important to offer homeowners clarity and choice when it comes to ground lease. Discounted purchase can be worthwhile for some, however this process is subject to all kinds of complications."
+        },
+        "133748": {
+          "position": "disagree",
+          "explanation": "Businesses should comply with regulations, and pollution is unacceptable. Still, it is important for monitoring to be proportional: enforcement where necessary, collaboration where possible, with consideration for both a healthy living environment and robust local industry."
+        },
+        "133749": {
+          "position": "disagree",
+          "explanation": "Zaanstad is a close-knit mix of industry, nature, business, and housing. To maintain liveability, nature must be preserved and given room to flourish."
+        },
+        "133750": {
+          "position": "agree",
+          "explanation": "Recognised refugees must have the opportunity to integrate and need accommodation, however giving them consistent priority will increase pressure on social housing. We need a fair distribution, that takes into account both legal obligations and opportunities for other home-seekers."
+        },
+        "133751": {
+          "position": "disagree",
+          "explanation": "Zaanstad is working actively on a regional approach to asylum-seeker accommodation. We fulfil our regional responsibilities, and look beyond our own borders. We see the acceptance of more asylum seekers than necessary as a positive contribution."
+        },
+        "133752": {
+          "position": "disagree",
+          "explanation": "CDA Zaanstad does not believe that financial incentives will improve the waste disposal system. The risk is too great that residents who are unwilling or unable to pay will dump their waste illegally, creating more public clutter and inconvenience."
+        },
+        "133754": {
+          "position": "disagree",
+          "explanation": "Solar farms on agricultural land are not in keeping with Zaanstad's open character, and they damage the landscape. Recently, moreover, it has been shown that solar farms can cause interference for pilots (among others), resulting in serious safety concerns."
+        },
+        "133756": {
+          "position": "disagree",
+          "explanation": "The national and European goal is to be climate-neutral by 2050. Zaanstad is already 10 years ahead. We find this goal to be both appropriate and sufficiently ambitious."
+        },
+        "133763": {
+          "position": "disagree",
+          "explanation": "We believe there should absolutely be space for events, but not necessarily a permanent location. Rotating sites have their own charm and can be multi-purpose, making them appealing and flexible."
+        },
+        "133765": {
+          "position": "agree",
+          "explanation": "Quality clubhouses and sports fields create good conditions for sports associations, and strengthen society. They offer space for both sports and other activities, providing added value for societies and residents alike."
+        },
+        "133766": {
+          "position": "neither",
+          "explanation": "Our aim is to preserve the historic character of the Zaanstreek region. Monument status is not always a prerequisite; what is important is historic awareness, and careful consideration of proper preservation and responsible maintenance for each individual building."
+        },
+        "133767": {
+          "position": "agree",
+          "explanation": "There is a shortage of enforcement officers and police on the streets. Security is suffering: we therefore need more enforcement and police officers to safeguard public safety in all its forms, and give residents a sense of security."
+        },
+        "133768": {
+          "position": "agree",
+          "explanation": "Security cameras can help improve municipal safety, alongside prevention, more police on the streets, and better lighting. It is one way to improve safety, and give residents an increased sense of security."
+        },
+        "133770": {
+          "position": "agree",
+          "explanation": "The municipality already provides information on the danger of stabbing weapons, which is important and effective. Prevention and proper education take time, but they do work in the long term and therefore remain essential."
+        },
+        "133773": {
+          "position": "disagree",
+          "explanation": "When planning new developments, a mix of low-cost, mid-range, and social housing is essential to serve all demographics and to strengthen the connections between towns and villages, giving everybody a place where they feel at home."
+        },
+        "133775": {
+          "position": "agree",
+          "explanation": "Old or poorly maintained buildings sometimes need to be replaced with new ones. The CDA believes it is important for new buildings to suit the surrounding environment, and contribute to an attractive and liveable neighbourhood."
+        },
+        "133777": {
+          "position": "agree",
+          "explanation": "Subdivision into rented rooms creates disturbance and poor living conditions. The CDA will continue to actively address this issue, to improve neighbourhood liveability and to ensure that housing is used fairly and responsibly."
+        },
+        "133779": {
+          "position": "disagree",
+          "explanation": "We believe the current level of 30% social rental housing is appropriate. We need room for a mix of housing, to provide for all target groups and keep Zaanstad liveable and appealing to everybody."
+        },
+        "133780": {
+          "position": "agree",
+          "explanation": "Mandatory owner-occupation promotes liveability, and ensures a level playing field on the market. It discourages investors, and makes it easier for groups such as starters to purchase homes, as there is less investment competition on the market."
+        },
+        "133782": {
+          "position": "agree",
+          "explanation": "The fringes of small towns often contain unused space that is suitable for small-scale development. The limited space requires a creative approach to construction without encroaching on nature zones, to preserve liveability and natural surroundings."
+        },
+        "133783": {
+          "position": "neither",
+          "explanation": "Zaanstad already makes major investments to combat poverty. More important than the amount is the effective allocation of funds, to ensure that residents genuinely receive help and support that is tailored to their specific needs."
+        },
+        "133784": {
+          "position": "disagree",
+          "explanation": "Not everybody on benefit is able to perform community service or undertake study. It is welcome where possible, but an individual approach is necessary so that support remains appropriate and feasible for everybody."
+        },
+        "133785": {
+          "position": "disagree",
+          "explanation": "We currently do not see any need for an additional bridge across the Zaan. Effective maintenance of existing roads and connections is more important, and should be improved where possible to optimise traffic and accessibility."
+        },
+        "133790": {
+          "position": "disagree",
+          "explanation": "There is little demand for a night train between Zaanstad and Amsterdam. There is already a night bus, and CDA would prefer to improve this existing connection rather than invest in a night train."
+        },
+        "133792": {
+          "position": "disagree",
+          "explanation": "Cars crossing the Vlinderbrug bridge would cause additional cut-through traffic, impacting safety and residents’ quality of life. Opening it up is therefore inadvisable; Poelenburg must remain a safe and pleasant residential area for residents."
+        },
+        "133794": {
+          "position": "disagree",
+          "explanation": "Paid parking is still needed, to manage parking demand and allocate space fairly. Cheaper parking will not solve this problem, however parking policy must be clear, well explained, and consistently applied."
+        },
+        "133799": {
+          "position": "disagree",
+          "explanation": "Informal carers are worth their weight in gold, but time and attention show appreciation more than money. The CDA therefore advocates for respite care, to reduce the burden on informal carers and give them much-needed breathing space."
+        },
+        "133800": {
+          "position": "disagree",
+          "explanation": "Free antenatal classes are often already available at the Municipal Public Health Service (GGD). The CDA believes it is important for existing and expectant parents to be referred to the GGD, and to receive supplementary courses and information for maximum support."
+        }
+      }
+    },
+    {
+      "id": 143850,
+      "name": "DENK",
+      "fullName": "DENK",
+      "website": "https://www.bewegingdenk.nl",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "133741": {
+          "position": "agree",
+          "explanation": "Residents should be given a say in plans with major impact."
+        },
+        "133742": {
+          "position": "agree",
+          "explanation": "For many people, housing is already expensive enough."
+        },
+        "133746": {
+          "position": "agree",
+          "explanation": "This will offer residents housing security."
+        },
+        "133748": {
+          "position": "agree",
+          "explanation": "The health of residents is paramount."
+        },
+        "133749": {
+          "position": "agree",
+          "explanation": "This is sometimes necessary for employment, provided there is due regard for nature and the surrounding environment."
+        },
+        "133750": {
+          "position": "disagree",
+          "explanation": "Homes should be distributed fairly."
+        },
+        "133751": {
+          "position": "disagree",
+          "explanation": "Zaanstad is willing to help people, while safeguarding local capacity and liveability."
+        },
+        "133752": {
+          "position": "disagree",
+          "explanation": "This will put more trash on the streets."
+        },
+        "133754": {
+          "position": "disagree",
+          "explanation": "Use roofs first."
+        },
+        "133756": {
+          "position": "agree",
+          "explanation": "The municipality should encourage, not impose. Residents should determine the pace."
+        },
+        "133763": {
+          "position": "disagree",
+          "explanation": "Consult the local residents first."
+        },
+        "133765": {
+          "position": "agree",
+          "explanation": "Associations need this."
+        },
+        "133766": {
+          "position": "disagree",
+          "explanation": "Heritage requires a case-by-case approach."
+        },
+        "133767": {
+          "position": "agree",
+          "explanation": "Visible enforcement presence creates a sense of safety."
+        },
+        "133768": {
+          "position": "agree",
+          "explanation": "Where required for safety, as a targeted measure."
+        },
+        "133770": {
+          "position": "agree",
+          "explanation": "Prevention is better than punushment."
+        },
+        "133773": {
+          "position": "disagree",
+          "explanation": "Distribution varies between neighbourhoods – residents should be given a say."
+        },
+        "133775": {
+          "position": "agree",
+          "explanation": "New buildings are often more sustainable and better for health."
+        },
+        "133777": {
+          "position": "agree",
+          "explanation": "Protect neighbourhoods from disruptive behaviour."
+        },
+        "133779": {
+          "position": "agree",
+          "explanation": "This will make housing unaffordable."
+        },
+        "133780": {
+          "position": "agree",
+          "explanation": "Houses are for living in."
+        },
+        "133782": {
+          "position": "agree",
+          "explanation": "Necessary due to housing shortage, with retention of greenery."
+        },
+        "133783": {
+          "position": "agree",
+          "explanation": "Nobody should be left out."
+        },
+        "133784": {
+          "position": "disagree",
+          "explanation": "Encourage, don't force."
+        },
+        "133785": {
+          "position": "disagree",
+          "explanation": "It's better to improve existing routes."
+        },
+        "133790": {
+          "position": "agree",
+          "explanation": "Only if necessary and well-used."
+        },
+        "133792": {
+          "position": "agree",
+          "explanation": "This comes from the neighbourhood itself, and will improve traffic and safety."
+        },
+        "133794": {
+          "position": "agree",
+          "explanation": "It should be free for everybody."
+        },
+        "133799": {
+          "position": "agree",
+          "explanation": "Informal carers deserve support."
+        },
+        "133800": {
+          "position": "agree",
+          "explanation": "Good start for parents and child."
+        }
+      }
+    },
+    {
+      "id": 133720,
+      "name": "Partij voor de Dieren",
+      "fullName": "Partij voor de Dieren",
+      "website": "https://zaanstad.partijvoordedieren.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "133741": {
+          "position": "agree",
+          "explanation": "We develop plans in conjunction with residents, via citizens’ assemblies and local consultation bodies. This leads to more well-informed decisions. For big issues, a well-organised referendum can help to generate positive, concrete solutions."
+        },
+        "133742": {
+          "position": "disagree",
+          "explanation": "More funding is required in the years ahead for healthy living environments, quality healthcare (including youth care), and more housing. National budget cuts have placed Zaanstad before major financial challenges. A lower property tax (OZB) will mean cancelling other important services."
+        },
+        "133746": {
+          "position": "disagree",
+          "explanation": "Land owned by Zaanstad remains under municipal control. In principle, the PvdD is therefore against buyouts, but does insist that ground lease be low for households, to avoid putting people in financial difficulty."
+        },
+        "133748": {
+          "position": "agree",
+          "explanation": "Enforcement is a high priority at the regional environmental service (Omgevingsdienst), as a clean living environment is essential to our health and to nature. Industry violations will lead to swifter fines or company closures."
+        },
+        "133749": {
+          "position": "disagree",
+          "explanation": "Many animal and plant species are dying out because we are polluting and fragmenting their habitats. Zaanstad is also home to species at risk of extinction. We must therefore do all we can to protect, restore, and expand nature areas."
+        },
+        "133750": {
+          "position": "agree",
+          "explanation": "Recognised refugees receive priority because, just like others in difficulty, they need living space urgently. The real problem is the housing shortage: previous cabinets have stripped back housing associations, while the need for rental social housing has grown. Zaanstad must support and encourage these associations to build a great deal more housing."
+        },
+        "133751": {
+          "position": "disagree",
+          "explanation": "The national shortage of resources has put asylum seekers on the streets, and their procedures take too long. Every municipality should therefore do all it can. Zaanstad has committed to doing more than the norm, but we must continue to urge other municipalities to at least meet their obligations."
+        },
+        "133752": {
+          "position": "agree",
+          "explanation": "It is fair for people and businesses who create more waste to pay more. We want to reward waste separation, to allow more recycling. More research is needed to determine whether a pay-per-use/pay-per-household (DIFTAR) system would work best."
+        },
+        "133754": {
+          "position": "disagree",
+          "explanation": "Agricultural land is not meant for solar farms, but for plant-based foods and environmental development, and – if livestock farming decreases significantly – for housing. Solar panels and greenery are becoming the norm for rooftops, façades, sound barriers, and on top of car parks."
+        },
+        "133756": {
+          "position": "agree",
+          "explanation": "Government negligence has put climate goals in danger, despite the urgency and visible consequences, even at local level. Zaanstad must therefore become climate-neutral as soon as possible, setting the target at 2030."
+        },
+        "133763": {
+          "position": "agree",
+          "explanation": "The Omweg event site in Assendelft would make a good permanent location, as the impact on surrounding residents and nature is minimal. When looking at alternatives, we will therefore closely examine the effects for people, animals, and nature."
+        },
+        "133765": {
+          "position": "agree",
+          "explanation": "Zaanstad should invest in sports on real grass, and replace artificial turf with rubber granulate as quickly as possible. If necessary, we will also earmark funds to improve the longevity of clubhouses, and for investments to make sports more accessible."
+        },
+        "133766": {
+          "position": "disagree",
+          "explanation": "Protecting heritage is vital to our Zaanstad history and culture. But the municipality is changing: we also need space for sustainability, and new housing models and facilities. Monument status limits flexibility; we must therefore proceed with caution, and not try to apply it everywhere."
+        },
+        "133767": {
+          "position": "disagree",
+          "explanation": "Additional enforcement resources are needed to address environmental offences, animal abuse, illegal logging, street harassment and discrimination, and to safeguard peaceful protests. Investments in social services (e.g. night shelters, proper healthcare) will give BOAs more time for these tasks."
+        },
+        "133768": {
+          "position": "disagree",
+          "explanation": "For privacy reasons, great care must be taken with security cameras in public. Video surveillance gives only the appearance of safety, and often only shifts the problem elsewhere. Automatic facial recognition is too intrusive, and must not be used."
+        },
+        "133770": {
+          "position": "agree",
+          "explanation": "Possession of weapons needs to be drastically reduced. Education is necessary, but not sufficient. Poverty and racism can also be at play: young people sometimes have nothing left to lose. Try to make contact with them, and organise places where they can meet. Invest in youth service workers."
+        },
+        "133773": {
+          "position": "disagree",
+          "explanation": "The rental social housing pool has shrunk, while many Zaanstad residents and young people have been waiting too long for an affordable home. The solution is building: more rental social housing, to reduce waiting times. Focusing exclusively on encouraging mobility towards home ownership and the free market is not enough."
+        },
+        "133775": {
+          "position": "disagree",
+          "explanation": "Renovation and redevelopment should have priority over demolition and new builds: they are more sustainable, and protect the animals living in and around older buildings. Landmark buildings, trees, avenues, and neighbourhoods must be preserved."
+        },
+        "133777": {
+          "position": "disagree",
+          "explanation": "Subdivision of homes can help to combat the housing shortage. It must be suitable for the neighbourhood, and not unduly impact public space or green areas. We must set clear regulations to avoid abuses."
+        },
+        "133779": {
+          "position": "agree",
+          "explanation": "More affordable homes are on the way: 40% of all rental homes should be rental social housing, finally increasing the proportion of this kind of housing in Zaanstad over the next few years."
+        },
+        "133780": {
+          "position": "agree",
+          "explanation": "We are in favour of measures to combat speculation and vacancy, such as mandatory occupation and a vacancy ordinance with sanctions. Homes are for living in, not making a profit."
+        },
+        "133782": {
+          "position": "disagree",
+          "explanation": "Housing is a fundamental right. We want real solutions: tackling vacant buildings and repurposing them as homes; densifying where necessary, with amenities that keep pace with the population and nature-inclusive construction; and converting livestock farmland into nature areas, reserving a section for housing developments."
+        },
+        "133783": {
+          "position": "agree",
+          "explanation": "Poverty is the result of rising inequality, and is made worse by discrimination. We want liveable incomes, with affordable rent and food. A universal basic income pilot, generous welfare, greater support for people without a roof over their heads, and simple anti-poverty schemes free from pointless monitoring."
+        },
+        "133784": {
+          "position": "disagree",
+          "explanation": "The Participation Act was a failure. We can see that forcing people to perform paid work is ineffective. All welfare recipients have their own story; the municipality must listen, and respond accordingly. Offering a training course can help, but we must also recognise the value of volunteer work or informal care."
+        },
+        "133785": {
+          "position": "disagree",
+          "explanation": "If this proves to be a genuine need, e.g. for improved public transport or cycling routes, or nature (ecological corridors), it can be investigated."
+        },
+        "133790": {
+          "position": "agree",
+          "explanation": "A Zaanstad night train could improve convenience and passengers’ sense of safety. Zaanstad should issue funds to the NS, to allow night trains to make at least 2 stops in Zaanstad."
+        },
+        "133792": {
+          "position": "disagree",
+          "explanation": "This bridge is meant for public transport. Ultimately, a high-quality public transport link through Zaandam is dependent on a connection with Amsterdam. Opening the Vlinderbrug bridge to car traffic will create congestion, compromising the quality of public transport. That should not be our goal."
+        },
+        "133794": {
+          "position": "disagree",
+          "explanation": "Parking occupies a large amount of public space – space that is needed for plants and animals, and for recreational and meeting places. Encouraging alternative forms of transport, parking garages, and P&R will enable us to reduce the number of parking spaces. A parking tax will help in this regard."
+        },
+        "133799": {
+          "position": "agree",
+          "explanation": "Informal care can be a positive way to offer primary or additional care to family members, but is often also a great responsibility. Volunteer work is work, and should be rewarded. In the current system, this boils down to an ‘appreciation allowance.’ €50 is far too little, €140 is moving in the right direction."
+        },
+        "133800": {
+          "position": "agree",
+          "explanation": "A good start is essential for children's development. Ante-natal classes can help in this regard. If expectant parents cannot afford them, Zaanstad should offer them for free."
+        }
+      }
+    },
+    {
+      "id": 133722,
+      "name": "SP (Socialistische Partij)",
+      "fullName": "SP (Socialistische Partij)",
+      "website": "https://zaanstreek.sp.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "133741": {
+          "position": "agree",
+          "explanation": "The SP even supports a replacing the advisory referendum with a binding corrective referendum, giving citizens a way to rein in local politicians."
+        },
+        "133742": {
+          "position": "disagree",
+          "explanation": "The SP’s only opinion of the OZB is that it should not be too low or too high."
+        },
+        "133746": {
+          "position": "disagree",
+          "explanation": "The SP believes that ground-lease conversions should be subject to implementation regulations, including annual parameters."
+        },
+        "133748": {
+          "position": "agree",
+          "explanation": "Zaanstad still has factories that do not comply with modern environmental standards, and even more industry that cannot meet the future requirements. Industry needs to rectify both of these situations in short order, and strict monitoring must be employed."
+        },
+        "133749": {
+          "position": "disagree",
+          "explanation": "Zaanstad is surrounded by no fewer than three European nature reserves, where the environment is strictly protected. Here in Zaanstad, we must take that into consideration. Even at the edges of these areas, nature must be protected. Industry has no place there."
+        },
+        "133750": {
+          "position": "agree",
+          "explanation": "In 2023, 6.9% of the social housing units that became available in the Zaanstad region were allocated to recognised refugees. That is a small amount. Zaanstad can therefore continue prioritising social housing, including for recognised refugees."
+        },
+        "133751": {
+          "position": "disagree",
+          "explanation": "Asylum seekers housed in Zaanstad are not merely part of Zaanstad’s allocation, but are part of the regional distribution. There have been no signs of social disturbance. There is no reason why Zaanstad should not be able to accept more asylum seekers than nationally mandated."
+        },
+        "133752": {
+          "position": "disagree",
+          "explanation": "A pay-per-use system for underground waste containers (DIFTAR) paves the way for illegal and side-dumping, as people do not want to pay for their waste. It is also unfair to large families, and people with large amounts of medical waste. They have no choice."
+        },
+        "133754": {
+          "position": "disagree",
+          "explanation": "The SP feels that as many roofs as possible should be fitted with solar panels. This applies to homes and businesses alike. Agricultural land should be used for sustainable, non-polluting farms or new nature zones."
+        },
+        "133756": {
+          "position": "agree",
+          "explanation": "The SP believes Zaanstad should be climate-neutral by 2040, or sooner if possible. The municipality should strive to meet this target."
+        },
+        "133763": {
+          "position": "agree",
+          "explanation": "Zaanstad Noord could have an event site where space allows and there is no disturbance to residents or impact on the environment."
+        },
+        "133765": {
+          "position": "agree",
+          "explanation": "The SP believes that sports should be accessible and affordable to all, including people on low incomes, children, and seniors. The SP is in favour of municipal funding that makes this possible. Of course fields and clubhouses must not be poorly maintained."
+        },
+        "133766": {
+          "position": "agree",
+          "explanation": "Giving historic buildings monument status helps to preserve them."
+        },
+        "133767": {
+          "position": "agree",
+          "explanation": "The SP believes that there are still too few police and enforcement officers in Zaanstad, and we would like to see both of their numbers increase. These additional uniforms should focus more on preventing criminal and unwanted behaviour than on punishment."
+        },
+        "133768": {
+          "position": "disagree",
+          "explanation": "The municipality already has extensive camera surveillance. Security cameras need to be effective, and not only create the illusion of security. The SP is also concerned about infringing the privacy of residents with too many cameras in public."
+        },
+        "133770": {
+          "position": "agree",
+          "explanation": "Zaanstad already educates young people on the dangers of owning and using stabbing weapons. Parents, neighbours, coaches, and teachers are also asked to make the topic open for discussion, and encourage Zaanstad youth to do away with weapons."
+        },
+        "133773": {
+          "position": "disagree",
+          "explanation": "The focus of new builds should be on rental social housing. The need for housing is most acute among those who qualify for social housing."
+        },
+        "133775": {
+          "position": "agree",
+          "explanation": "Although renovation and increased sustainability should be the norm, sometimes it is better to wipe the slate clean and start again."
+        },
+        "133777": {
+          "position": "agree",
+          "explanation": "The SP is against subdivision into rooms, but wants to encourage friends living together, shared housing, splitting homes, and lodger rentals — provided these are well coordinated and monitored. These measures help to combat the housing shortage and homelessness."
+        },
+        "133779": {
+          "position": "agree",
+          "explanation": "There is a housing shortage in Zaanstad. The greatest need is among those who qualify for social housing. At least 40% of new builds should therefore be dedicated to rented public housing. In the SP’s view, the percentage of rental social housing should be even higher."
+        },
+        "133780": {
+          "position": "agree",
+          "explanation": "The municipality must expand the reach of mandatory owner-occupancy, which will prevent homes from being bought up by investors who do not intend to live in them."
+        },
+        "133782": {
+          "position": "disagree",
+          "explanation": "To protect and preserve the environment and green areas in and around Zaanstad, we must build within established population centres, not at their edges."
+        },
+        "133783": {
+          "position": "agree",
+          "explanation": "Many children (and parents) in Zaanstad are still living in poverty. Poverty has a far-reaching impact on people in society, including health problems, limited access to education, and social exclusion. The municipality should invest more to combat poverty."
+        },
+        "133784": {
+          "position": "disagree",
+          "explanation": "For people on welfare benefits, the focus should be on what they are willing and able to do, not on what they are required or permitted to do. Give freedom to people on social assistance, so they can continue to participate in society in the way they choose."
+        },
+        "133785": {
+          "position": "disagree",
+          "explanation": "It depends on where the extra bridge will go. Currently, Zaanstad and Wormerland are investigating the possibility of a third bridge across the Zaan between Wormerveer and Wormer. The SP will await the results of this study."
+        },
+        "133790": {
+          "position": "disagree",
+          "explanation": "There is an excellent night bus that runs between Amsterdam and Krommenie-Assendelft. The buses leave every hour, both from Amsterdam and from Krommenie. The night bus also stops at all stations in Zaanstad, with many additional stops on the way."
+        },
+        "133792": {
+          "position": "disagree",
+          "explanation": "De Vlinder is intended to facilitate smooth bus transport. Opening it up to cars would be detrimental to public transport accessibility. It should therefore remain closed to car traffic."
+        },
+        "133794": {
+          "position": "agree",
+          "explanation": "We believe that parking fees could be reduced, provided this does not create more parking problems in certain streets and districts. If these problems get worse due to cheaper parking, then parking rates should not be lowered."
+        },
+        "133799": {
+          "position": "agree",
+          "explanation": "The main goal of informal carers is to provide care to those who need it. They do this from the goodness of their heart, but in so doing, they also save the municipality money. The ‘appreciation allowance’ that allows caregivers to feel recognised, could certainly be higher than is currently the case."
+        },
+        "133800": {
+          "position": "agree",
+          "explanation": "The Zaanstreek-Waterland municipal health service (GGD) already offers antenatal and childbirth classes, which should be accessible to anybody expecting a child. If the classes are free, all pregnant people can attend, regardless of income."
+        }
+      }
+    },
+    {
+      "id": 133724,
+      "name": "ChristenUnie",
+      "fullName": "ChristenUnie",
+      "website": "https://zaanstad.christenunie.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "133741": {
+          "position": "disagree",
+          "explanation": "Large-scale surveys are a better alternative in cases where the municipality wishes to consult with residents."
+        },
+        "133742": {
+          "position": "disagree",
+          "explanation": "The municipality ought to lower taxes and rates for its residents where possible. Our goal is to ensure that taxes, such as the OZB, rise only in line with inflation."
+        },
+        "133746": {
+          "position": "agree",
+          "explanation": "Ground lease can lead to uncertainty and rising costs for home owners. Giving occupants the option to buy out their ground lease voluntarily and under reasonable conditions increases housing security and control over one’s own home. Clear and transparent regulations will be required, however."
+        },
+        "133748": {
+          "position": "agree",
+          "explanation": "The ChristenUnie believes that we need to take care of our planet, and that polluting businesses therefore require stricter surveillance."
+        },
+        "133749": {
+          "position": "disagree",
+          "explanation": "Industry is important, but not at the expense of the environment."
+        },
+        "133750": {
+          "position": "agree",
+          "explanation": "We endeavour to help recognised refugees allocated to Zaanstad find a home within a reasonable time period – preferably within six months."
+        },
+        "133751": {
+          "position": "disagree",
+          "explanation": "We are a socially-minded municipality, this is our strength. Businesses are also very happy with the employees from the asylum-seeker shelters. We should remain in dialogue at local and national level, however, to ensure a fair distribution."
+        },
+        "133752": {
+          "position": "agree",
+          "explanation": "The ChristenUnie supports the current waste policy, with collection of separated waste and centralised drop-off of landfill waste in neighbourhoods. Larger families, senior citizens, people with disabilities and those living in high-rise buildings must continue to be taken into account."
+        },
+        "133754": {
+          "position": "agree",
+          "explanation": "We also believe that there is much more opportunity to generate solar on rooftops and façades than is currently being realised."
+        },
+        "133756": {
+          "position": "agree",
+          "explanation": "It is important to do everything in our power to achieve these goals as soon as possible, the sooner the better."
+        },
+        "133763": {
+          "position": "disagree",
+          "explanation": "Culture is important to the ChristenUnie, however we do not want Zaanstad Noord residents’ quality of life to be affected by a permanent event site."
+        },
+        "133765": {
+          "position": "agree",
+          "explanation": "Staying active is very important, which is why ChristenUnie is in favour of earmarking more funds for sports clubs."
+        },
+        "133766": {
+          "position": "agree",
+          "explanation": "The ChristenUnie believes that everything possible should be done to prevent the demolition and neglect of special buildings."
+        },
+        "133767": {
+          "position": "agree",
+          "explanation": "Safety in the city is very important. More and more people are feeling unsafe, which is why it is important for BOAs to help increase safety levels."
+        },
+        "133768": {
+          "position": "disagree",
+          "explanation": "Camera surveillance is important, but the ChristenUnie would rather invest these funds in prevention."
+        },
+        "133770": {
+          "position": "agree",
+          "explanation": "Improved collaboration, education, and a firm action are the keys to reducing weapon possession among young people."
+        },
+        "133773": {
+          "position": "agree",
+          "explanation": "There is currently a lack of mobility, which is why the ChristenUnie would like to focus on mid-range rental and owner-occupied housing."
+        },
+        "133775": {
+          "position": "agree",
+          "explanation": "This is very dependent on the building in question: heritage buildings should not be demolished."
+        },
+        "133777": {
+          "position": "disagree",
+          "explanation": "The acute housing shortage means it is important to create living space wherever possible. Subdivision can allow starters on the market to find a home that suits them. Each neighbourhood needs to be evaluated for suitability and feasibility, however."
+        },
+        "133779": {
+          "position": "disagree",
+          "explanation": "The ChristenUnie believes it is important to build affordable homes for purchase, as it promotes much-needed mobility in the social rental sector."
+        },
+        "133780": {
+          "position": "agree",
+          "explanation": "Homes are for living in, not investing in. Mandatory owner-occupation keeps the housing market fairer and more accessible to starters and families. It prevents investors from buying up homes, leaving residents without an affordable place to live."
+        },
+        "133782": {
+          "position": "disagree",
+          "explanation": "We would currently prefer to keep building within the city limits for as long as possible. However, we do realise that construction is necessary, so expanding could be considered in future."
+        },
+        "133783": {
+          "position": "agree",
+          "explanation": "The ChristenUnie believes that the municipality should invest more in combating poverty, since nobody should be left behind. We must step up to help the less fortunate in society, and offer them future prospects."
+        },
+        "133784": {
+          "position": "agree",
+          "explanation": "Having benefit recipients perform community work keeps them involved in society. Solutions must always be tailored, however."
+        },
+        "133785": {
+          "position": "disagree",
+          "explanation": "The ChristenUnie currently does not see the any need for an additional bridge across the Zaan. That money could be better spent on other projects."
+        },
+        "133790": {
+          "position": "agree",
+          "explanation": "The ChristenUnie wants high-quality public transport, which should include a night train."
+        },
+        "133792": {
+          "position": "disagree",
+          "explanation": "De Vlinder was a bridge made specially for buses, and the Achtersluispolder was never designed with lots of car traffic in mind."
+        },
+        "133794": {
+          "position": "agree",
+          "explanation": "The ChristenUnie feels that parking policy has become an end in itself. Our belief is that Zaanstad should be a welcoming municipality, one that is attractive to the shopping public."
+        },
+        "133799": {
+          "position": "agree",
+          "explanation": "Informal carers should receive more recognition. They are not volunteers, and do their work with love and dedication. The municipality should offer them help and support that is also easy to access."
+        },
+        "133800": {
+          "position": "agree",
+          "explanation": "All parents should be able to take free parental or antenatal classes."
+        }
+      }
+    },
+    {
+      "id": 216903,
+      "name": "Forum voor Democratie",
+      "fullName": "Forum voor Democratie",
+      "website": "https://fvd.nl/zaanstad",
+      "hasSeats": false,
+      "participates": true,
+      "positions": {
+        "133741": {
+          "position": "agree",
+          "explanation": "No information available."
+        },
+        "133742": {
+          "position": "agree",
+          "explanation": "No information available."
+        },
+        "133746": {
+          "position": "agree",
+          "explanation": "No information available."
+        },
+        "133748": {
+          "position": "disagree",
+          "explanation": "No information available."
+        },
+        "133749": {
+          "position": "agree",
+          "explanation": "No information available."
+        },
+        "133750": {
+          "position": "disagree",
+          "explanation": "No information available."
+        },
+        "133751": {
+          "position": "agree",
+          "explanation": "No information available."
+        },
+        "133752": {
+          "position": "disagree",
+          "explanation": "No information available."
+        },
+        "133754": {
+          "position": "disagree",
+          "explanation": "No information available."
+        },
+        "133756": {
+          "position": "disagree",
+          "explanation": "No information available."
+        },
+        "133763": {
+          "position": "agree",
+          "explanation": "No information available."
+        },
+        "133765": {
+          "position": "agree",
+          "explanation": "No information available."
+        },
+        "133766": {
+          "position": "agree",
+          "explanation": "No information available."
+        },
+        "133767": {
+          "position": "agree",
+          "explanation": "No information available."
+        },
+        "133768": {
+          "position": "disagree",
+          "explanation": "No information available."
+        },
+        "133770": {
+          "position": "disagree",
+          "explanation": "No information available."
+        },
+        "133773": {
+          "position": "agree",
+          "explanation": "No information available."
+        },
+        "133775": {
+          "position": "agree",
+          "explanation": "No information available."
+        },
+        "133777": {
+          "position": "disagree",
+          "explanation": "No information available."
+        },
+        "133779": {
+          "position": "disagree",
+          "explanation": "No information available."
+        },
+        "133780": {
+          "position": "disagree",
+          "explanation": "No information available."
+        },
+        "133782": {
+          "position": "agree",
+          "explanation": "No information available."
+        },
+        "133783": {
+          "position": "disagree",
+          "explanation": "No information available."
+        },
+        "133784": {
+          "position": "agree",
+          "explanation": "No information available."
+        },
+        "133785": {
+          "position": "agree",
+          "explanation": "No information available."
+        },
+        "133790": {
+          "position": "agree",
+          "explanation": "No information available."
+        },
+        "133792": {
+          "position": "agree",
+          "explanation": "No information available."
+        },
+        "133794": {
+          "position": "agree",
+          "explanation": "No information available."
+        },
+        "133799": {
+          "position": "disagree",
+          "explanation": "No information available."
+        },
+        "133800": {
+          "position": "disagree",
+          "explanation": "No information available."
+        }
+      }
+    },
+    {
+      "id": 133718,
+      "name": "Lokaal Zaans",
+      "fullName": "Lokaal Zaans",
+      "website": "https://www.lokaalzaans.nl/",
+      "hasSeats": false,
+      "participates": true,
+      "positions": {
+        "133741": {
+          "position": "agree",
+          "explanation": "Our residents elect parties with a diverse range of views. Our divided council needs lots of parties to form a coalition. The majority of council members do not always represent what most of our residents want. A referendum is a valuable democratic addition."
+        },
+        "133742": {
+          "position": "agree",
+          "explanation": "Property tax in Zaanstad is high, considering what our residents get in return. The costs should be proportional to what the municipality provides, and not rise any faster than inflation."
+        },
+        "133746": {
+          "position": "neither",
+          "explanation": "It is not about a ‘cheap’ option, but about a purchasing scheme that does justice to the conditions under which our residents entered into a ground lease. The scheme should be fair and reasonable, and reached in proper consultation with the Erfpacht Zaanstad interest group."
+        },
+        "133748": {
+          "position": "agree",
+          "explanation": "Enforcement does not need to be stricter, merely enough to ensure compliance with laws and regulations. We must work with cooperative companies to keep pollution as low as possible (lower than the required minimum!), and deliberate violators must be firmly dealt with."
+        },
+        "133749": {
+          "position": "disagree",
+          "explanation": "Our industry must be given enough space. Our preference is to give potential housing developments, sport and exercise facilities more space in nature areas, where it serves the interests of Zaanstad residents."
+        },
+        "133750": {
+          "position": "disagree",
+          "explanation": "Disagree: our Zaanstad youth deserve priority. They are forced to wait a long time for a home (which is supposed to be a right!) and even postpone having a family because of it. Madness!"
+        },
+        "133751": {
+          "position": "agree",
+          "explanation": "With the current housing shortage and pressure on our facilities (looming doctor shortage, pressure on public spaces, traffic congestion, lack of enforcement, etc.) we must not bite off more than we can chew."
+        },
+        "133752": {
+          "position": "disagree",
+          "explanation": "This paves the way to illegal dumping and littering. The idea sounds good in theory, but in practice it just makes things worse. We are more in favour of post-separation, which has proven to work best in practice."
+        },
+        "133754": {
+          "position": "disagree",
+          "explanation": "We would rather see cows and grass in fields than solar panels, but we certainly do not wish to prohibit sustainability initiatives that are self-sufficient. In our view, solar panels are best on the roof."
+        },
+        "133756": {
+          "position": "disagree",
+          "explanation": "We're green, but we're not crazy! Targets must be realistic and feasible. Unattainable and/or unaffordable targets have no place in good governance."
+        },
+        "133763": {
+          "position": "agree",
+          "explanation": "Both large and small events are important, and there are now too few venues where they can be organised. Of course, effective consultation and solid agreements with the surrounding residents and businesses are essential."
+        },
+        "133765": {
+          "position": "agree",
+          "explanation": "Many of our sports fields and buildings are operating beyond capacity. Swimming pools are no exception, and do not meet current standards. A healthy municipality should supply adequate facilities for community and club activities at socially responsible rates – such as sufficient affordable pool water for swimming clubs."
+        },
+        "133766": {
+          "position": "agree",
+          "explanation": "Heritage is important, as it tells the history of our region. It is our authenticity. Much cultural heritage was demolished in the past: we must prevent that from happening as much as possible in the future! However, we do believe it is important to consult properly with building owners, and to assist with the costs and opportunities for use and sustainability. This may mean that not all historic buildings will necessarily receive monument, landmark, or other protective status; offering development where possible can also help."
+        },
+        "133767": {
+          "position": "agree",
+          "explanation": "As long as there is a lack of police capacity, BOAs – whose authority has increased in recent years – can take on some of their tasks. We have an enforcement shortfall, which must be addressed."
+        },
+        "133768": {
+          "position": "agree",
+          "explanation": "High-risk areas require adequate coverage. The council unfortunately voted against one of our proposals. but we will not let it go!"
+        },
+        "133770": {
+          "position": "agree",
+          "explanation": "Even though we may only get a few young people on track this way, youth is our future. These investments must continue."
+        },
+        "133773": {
+          "position": "agree",
+          "explanation": "It's the same everywhere. The Netherlands is already leading the world in terms of social housing, but this will not solve the problem. The issue is a lack of mobility in the housing market, a high influx of starters, and a lack of affordable homes (mid-range purchase and rental)."
+        },
+        "133775": {
+          "position": "disagree",
+          "explanation": "Demolition is certainly not always the best solution. Experts say that existing structures can often easily be renovated and modified. Besides, there has been plenty of demolition in the past, and we do not want our municipality to be full of soulless boxes."
+        },
+        "133777": {
+          "position": "agree",
+          "explanation": "Although subdivision into rooms seems to make sense, it exacerbates our traffic problems, parking problems, lack of facilities, and so on."
+        },
+        "133779": {
+          "position": "disagree",
+          "explanation": "It's the same everywhere. The Netherlands is already leading the world in terms of social housing, but this will not solve the problem. The issue is a lack of mobility in the housing market, a high influx of starters, and a lack of affordable homes. Moreover, developments with a high level of rental social housing are financially not feasible."
+        },
+        "133780": {
+          "position": "disagree",
+          "explanation": "The fact is that this will not help solve the housing shortage. Sometimes the opposite can help – when parents buy a home for their children, for example. There is also a major shortage of rental homes, which will only grow as a result."
+        },
+        "133782": {
+          "position": "agree",
+          "explanation": "Agreed, especially for residents in the villages, and in alignment with the history of the village in question."
+        },
+        "133783": {
+          "position": "agree",
+          "explanation": "Money alone will not solve this problem, however. What matters is enough employment and other opportunities, as well as the desire to work. Unfortunately, working (or working more) does not always pay in the Netherlands, and residents end up disadvantaging themselves if they do."
+        },
+        "133784": {
+          "position": "agree",
+          "explanation": "Ongoing participation in and contact with our community is of crucial importance to everybody. Just sitting at home is no good to anybody."
+        },
+        "133785": {
+          "position": "agree",
+          "explanation": "In Wormerland especially, one bridge is no longer enough. The Zaanstreek region has outgrown its infrastructure. The bridge must be part of a broader, integrated mobility plan for the Noord area, however. Without the A8-A9 connection, the N203 will grind to a halt."
+        },
+        "133790": {
+          "position": "agree",
+          "explanation": "For a relatively low sum, we could join up with other initiatives."
+        },
+        "133792": {
+          "position": "agree",
+          "explanation": "Opening the Vlinderbrug bridge will improve access to both Poelenburg and the Achtersluispolder."
+        },
+        "133794": {
+          "position": "agree",
+          "explanation": "Paid parking must remain affordable, and only be introduced where strictly necessary. Paid parking must not be a smokescreen to fill the municipal purse."
+        },
+        "133799": {
+          "position": "agree",
+          "explanation": "Informal carers are not a debit item on the balance sheet, but a vital element of our ageing society. We cannot thank them enough for all of the hard work and love they continue to give."
+        },
+        "133800": {
+          "position": "disagree",
+          "explanation": "There is no such thing as ‘free'; here, ‘free’ means that somebody else pays. Support for pregnant people in Zaanstad is generally well organised."
+        }
+      }
+    }
+  ],
+  "statements": [
+    {
+      "id": 133763,
+      "index": 1,
+      "theme": "Event site",
+      "themeId": "event-site",
+      "title": "A permanent event site should be built in Zaanstad North.",
+      "moreInfo": "",
+      "pro": "A permanent site makes it easier to organise events. Some parties believe that a suitable, permanent site will limit the impact of events on the surrounding area.",
+      "con": "Some parties believe it is a waste of space to dedicate a single site entirely to events. Multiple sites would be better, as the inconvenience is distributed across the municipality.",
+      "isShootout": false
+    },
+    {
+      "id": 133748,
+      "index": 2,
+      "theme": "Industrial pollution",
+      "themeId": "industrial-pollution",
+      "title": "The municipality should monitor industrial pollution in Zaanstad more strictly.",
+      "moreInfo": "The municipality is responsible for monitoring industrial pollution in Zaanstad. It delegates this task to the North Sea Canal Area Environmental Authority (Omgevingsdienst Noordzeekanaalgebied). The Authority monitors whether companies keep to the regulations governing emissions and other environmental aspects.",
+      "pro": "A clean living environment is important to the health of Zaanstad residents.Stricter monitoring is necessary to protect nature and the environment.",
+      "con": "Supervision levels should match pollution levels. Monitoring should therefore be in line with the existing legislation, not any stricter.According to some parties, there is no evidence that stricter controls are necessary.",
+      "isShootout": false
+    },
+    {
+      "id": 133742,
+      "index": 3,
+      "theme": "Property tax",
+      "themeId": "property-tax",
+      "title": "The municipal property tax (OZB) should be lowered.",
+      "moreInfo": "The municipal property tax (OZB) is an annual tax paid to the municipality by people who own or use a home, building, or piece of land. The amount depends on the value of the property in question (the WOZ value). The municipality ultimately decides how much OZB residents pay.",
+      "pro": "The OZB is not meant to plug holes in the municipal budget.Some parties believe the OZB in Zaanstad is too high.",
+      "con": "If residents pay less OZB, the municipality will have less to spend on public services, such as cultural activities, greenery, and healthcare.The OZB in Zaanstad is not high, some parties say.",
+      "isShootout": false
+    },
+    {
+      "id": 133741,
+      "index": 4,
+      "theme": "Referendum",
+      "themeId": "referendum",
+      "title": "The municipality should be able to ask residents for their opinion on major decisions via a referendum.",
+      "moreInfo": "In a referendum, the government asks voters a question on a single topic. Residents can vote for or against. In a municipal referendum, all Zaanstad residents aged 16 or over are allowed to vote. A referendum can be requested either by the municipal council or by ordinary residents. If citizens want one, they must gather signatures from other residents. The municipal regulations state how many signatures are needed. In the Netherlands, the results of a referendum are not ‘binding,’ which means that the government can ignore the result and decide to do something else.",
+      "pro": "This will involve residents in important decisions that affect the place where they live.Referendums are democratic.Some parties believe that referendums are a good way to help generate solutions to problems.",
+      "con": "Referendums oversimplify complex decisions.Residents can already vote on a party every four years, and therefore already have enough representation in the municipal council.Some parties believe that organising a referendum for every major decision is too expensive and complicated.",
+      "isShootout": false
+    },
+    {
+      "id": 133773,
+      "index": 5,
+      "theme": "New homes",
+      "themeId": "new-homes",
+      "title": "Residential construction in Zaanstad should focus on mid-range rental and owner-occupied housing.",
+      "moreInfo": "Mid-range homes are rental or owner-occupied homes that are priced just above the limit for social housing, intended for middle-income earners who earn too much for social housing, but who cannot afford an expensive home.",
+      "pro": "The problem in the housing market is the lack of mobility. Mid-range rentals are needed to allow people in rental social housing to move on, freeing up homes for others.More mid-range owner-occupied homes will encourage seniors to move out of their cheaper homes, freeing them up for others.",
+      "con": "What Zaanstad needs most is more affordable housing, as the housing shortage is greatest among those seeking rental social housing.A good blend of cheaper and mid-range homes plus social rentals is essential.",
+      "isShootout": false
+    },
+    {
+      "id": 133752,
+      "index": 6,
+      "theme": "Waste",
+      "themeId": "waste",
+      "title": "Zaanstad residents should pay each time they use underground waste containers.",
+      "moreInfo": "Currently, recyclables (such as paper and green waste) are collected separately in Zaanstad. Residents can dispose of landfill (general waste) in underground waste containers. Currently, annual waste-collection fees are the same for every household, regardless of the size or how often they use the underground containers.",
+      "pro": "Some parties believe that Zaanstad produces too much landfill waste. If there is a reward for less waste, residents will recycle more and there will be less landfill.It is only fair for residents and businesses who produce more waste to pay more.",
+      "con": "This will only make residents dump their waste illegally to avoid having to pay, creating a mess on the street.Some parties find it unfair for large families and people with a lot of medical waste to have to pay more.",
+      "isShootout": false
+    },
+    {
+      "id": 133751,
+      "index": 7,
+      "theme": "Asylum seekers",
+      "themeId": "asylum-seekers",
+      "title": "Zaanstad should not accept any more asylum seekers than is legally required. Currently, the municipality does accept more than its minimum quota.",
+      "moreInfo": "Zaanstad hosts 1550 asylum seekers, while the Distribution Act only requires 818. This is the number that the national government has allocated to Zaanstad. 1550 is more than that, but there is a reason for it. Municipalities in the Zaanstreek-Waterland region have agreed to share out the numbers among themselves. It was agreed that Zaanstad will provide asylum-seeker accommodation. In return, the municipality of Purmerend will make sure it takes in the required number of Ukrainian refugees, while the smaller municipalities will house unaccompanied minor asylum seekers.",
+      "pro": "Accepting more than the legal requirement will be to the detriment of existing residents, as facilities will be under strain.More asylum seekers means more community disruption, some parties say.It is time for other municipalities to step up and do their part.",
+      "con": "It is socially-minded and compassionate for Zaanstad to take on more asylum seekers than the minimum.Accommodating asylum seekers does not cause any disruption, some parties say, so there is no reason to take on fewer.Some parties say that businesses are extremely happy with the employees from the asylum-seeker shelters.",
+      "isShootout": false
+    },
+    {
+      "id": 133777,
+      "index": 8,
+      "theme": "Rented rooms",
+      "themeId": "rented-rooms",
+      "title": "The municipality should combat the subdivision of houses into rented rooms.",
+      "moreInfo": "Property owners must apply to the municipality of Zaanstad if they wish to rent or sell a home separately as individual rooms. The municipality can decide whether to issue the permit, and under what conditions (only for houses of a certain size, for example).",
+      "pro": "Subdivision creates disruption for the surrounding residents.",
+      "con": "Subdivision creates additional housing, for young people and other groups.",
+      "isShootout": false
+    },
+    {
+      "id": 133754,
+      "index": 9,
+      "theme": "Solar panels on agricultural land",
+      "themeId": "solar-panels-on-agricultural-land",
+      "title": "The municipality should allow solar panels on agricultural land.",
+      "moreInfo": "The municipality only has partial influence on whether solar panels can be installed on agricultural land. Provincial and national legislation also applies.",
+      "pro": "Sustainable energy production contributes to our climate targets.Solar panels will help reduce the power shortage.",
+      "con": "Solar panels on agricultural land damage the landscape.Agricultural land is intended for farmers to produce food.",
+      "isShootout": false
+    },
+    {
+      "id": 133790,
+      "index": 10,
+      "theme": "Night train",
+      "themeId": "night-train",
+      "title": "The municipality should fund a night train that runs between Zaanstad and Amsterdam.",
+      "moreInfo": "",
+      "pro": "A night train increases safety when travelling between Amsterdam and Zaanstad at night.A night train is relatively inexpensive, some parties say. There is already a night train between Amsterdam and Alkmaar, that only needs to stop in Zaanstad.",
+      "con": "There is no need for a night train, as there is already a night bus with many stops. Some parties believe it will be costly to have a night train stop in Zaanstad.",
+      "isShootout": false
+    },
+    {
+      "id": 133765,
+      "index": 11,
+      "theme": "Sports associations",
+      "themeId": "sports-associations",
+      "title": "The municipality should budget more for improved clubhouses and playing fields for sports associations.",
+      "moreInfo": "The ‘Participation in Sport’ (Meedoen in sport) scheme allows sports clubs to apply for funding from the municipality: to maintain or renovate their fields, for example.",
+      "pro": "Sport and exercise promote good health.",
+      "con": "Sports clubs need to be self-sufficient.",
+      "isShootout": false
+    },
+    {
+      "id": 133767,
+      "index": 12,
+      "theme": "Enforcement officers",
+      "themeId": "enforcement-officers",
+      "title": "Zaanstad should have more municipal enforcement officers (BOAs) focusing on safety.",
+      "moreInfo": "The municipality is responsible for enforcement of minor infringements. These include parking tickets, incorrect bicycle parking, or littering. People who are caught are given a fine. The people who do this work are called ‘municipal enforcement officers,’ or BOAs in Dutch.  Police officers are for general enforcement, and have different duties and authorisations. There are also BOAs who do not work for the municipality, such as those on trains.",
+      "pro": "BOAs help create a safer city.Some parties say there are too few police officers on the streets. BOAs can help ensure that enforcement in Zaanstad remains adequate.",
+      "con": "Some parties say that BOAs are not the way to increase safety, and that other measures are necessary.Instead of more BOAs, more effective deployment of existing BOAs would be better.",
+      "isShootout": false
+    },
+    {
+      "id": 133746,
+      "index": 13,
+      "theme": "Ground lease",
+      "themeId": "ground-lease",
+      "title": "Zaanstad should give homeowners a cheap option to buy out their ground lease.",
+      "moreInfo": "Owner-occupied homes are not always sold with the land underneath them. Sometimes the land is owned by someone else, usually the municipality. People who buy such homes do so under ‘ground lease,’ and must pay an annual fee for use of the land. This annual payment is called the ‘ground rent.’ Homeowners can sometimes buy out their ground rent for a number of years. If they sell their home, the new owner does not need to pay the ground rent until this period expires.",
+      "pro": "For homeowners, ground lease means financial stress and a lack of security.",
+      "con": "Ground lease gives the municipality control over what happens to the land.",
+      "isShootout": false
+    },
+    {
+      "id": 133749,
+      "index": 14,
+      "theme": "Industry",
+      "themeId": "industry",
+      "title": "Industry in Zaanstad should expand into areas that are currently green spaces.",
+      "moreInfo": "Zaanstad is currently looking to expand industrial zones through development within the existing zones. Examples are HoogTij and the Achtersluispolder.",
+      "pro": "Industry creates jobs, including for Zaanstad residents.",
+      "con": "Nature contributes to city liveability, and deserves protection.",
+      "isShootout": false
+    },
+    {
+      "id": 133766,
+      "index": 15,
+      "theme": "Monuments",
+      "themeId": "monuments",
+      "title": "The municipality should designate as many historical buildings as possible as monuments.",
+      "moreInfo": "A ‘monument’ is a building, area, or object of historic, architectural, or scientific value that is protected by the government. There are national, provincial, and municipal monuments.  To make almost any kind of change to a monument, the owner requires a permit first.",
+      "pro": "Heritage is important, because historic buildings embody the history of our region.  Many significant buildings have been demolished in the past: this can be prevented through allocation of monument status.The protection of buildings as historic monuments makes Zaanstad a nicer place to live for residents.",
+      "con": "Historic buildings can also be preserved without monument status.Official monuments are very costly to the municipality and property owners.Monument status limits the modifications possible to buildings, when they sometimes need to be modified, or demolished to make way for new buildings. To meet modern standards.",
+      "isShootout": false
+    },
+    {
+      "id": 133768,
+      "index": 16,
+      "theme": "Security cameras",
+      "themeId": "security-cameras",
+      "title": "Zaanstad should install more security cameras in the municipality.",
+      "moreInfo": "Zaanstad currently has cameras in the nightlife area of Zaandam (including the Dam and the surrounding streets), partly around Zaandam station, and a number of cameras at Krommenie-Assendelft station. The cameras were placed by the municipality to ensure public order and safety. This means that the municipality can use the cameras to monitor activity in those areas. They are not surveillance cameras used by the Public Prosecution Service to detect and investigate criminal offences.",
+      "pro": "Security cameras increase safety, according to some parties.Security cameras allow criminals to be apprehended, some parties say.",
+      "con": "Some parties believe that security cameras only provide the illusion of security.Security cameras are an invasion of privacy on Zaanstad residents.",
+      "isShootout": false
+    },
+    {
+      "id": 133800,
+      "index": 17,
+      "theme": "Antenatal classes",
+      "themeId": "antenatal-classes",
+      "title": "The municipality should fund free antenatal classes for Zaanstad residents who are expecting a child.",
+      "moreInfo": "An antenatal class usually consists of several evening sessions, where expectant parents receive information on pregnancy, childbirth, and parenthood.  Some such courses are covered by supplementary health insurance. The Zaanstad municipal health service (GGD) already offers free antenatal classes for people on minimum wage.",
+      "pro": "This will allow more expectant parents to prepare properly for the arrival of their child.This helps ensure equal opportunities for all children in Zaanstad.A good start in life is essential for children's healthy development.",
+      "con": "Free antenatal classes are often already available from the Municipal Public Health Service (GGD).It is reasonable to expect a level of independence from residents, and information on pregnancy and parenthood is already available to expectant parents in Zaanstad.Some parties believe this is unnecessary meddling.",
+      "isShootout": false
+    },
+    {
+      "id": 133775,
+      "index": 18,
+      "theme": "Demolition",
+      "themeId": "demolition",
+      "title": "The municipality should allow buildings to be demolished to make way for new buildings.",
+      "moreInfo": "Zaanstad currently allows buildings to be demolished to make way for new buildings. Exceptions include buildings with monument status, landmark buildings, and village conservation sites.",
+      "pro": "Demolition is sometimes required for new developments that meet modern standards.Demolishing old buildings and replacing them with new ones allows more homes to be created.",
+      "con": "Renovation is preferable, in order to preserve landmark buildings.Renovation is cheaper than demolition.",
+      "isShootout": false
+    },
+    {
+      "id": 133779,
+      "index": 19,
+      "theme": "Social rental housing",
+      "themeId": "social-rental-housing",
+      "title": "At least 40% of new builds in Zaanstad should be social rental housing.",
+      "moreInfo": "Op dit moment is 30% van de huizen in de gemeente Zaanstad een sociale huurwoning. Dat is ongeveer hetzelfde als het landelijke percentage.",
+      "pro": "What Zaanstad needs is more rental social housing, as the housing shortage is greatest among those seeking this kind of accommodation.According to some parties, building more rental social housing will contribute to neighbourhood diversity.",
+      "con": "Zaanstad has a relatively high number of residents on low incomes, which puts pressure on services. The problem in the housing market is the lack of mobility. Eliminating the long waiting lists for rental social housing requires more mid-range rentals.",
+      "isShootout": false
+    },
+    {
+      "id": 133770,
+      "index": 20,
+      "theme": "Youth education",
+      "themeId": "youth-education",
+      "title": "The municipality should educate young people on the dangers of owning and using stabbing weapons.",
+      "moreInfo": "",
+      "pro": "It is important to prevent young people, who are under lots of social pressure, to use knives to commit crime or violence. Education can help, some parties say.",
+      "con": "Possession of some stabbing weapons is prohibited, and their use for crime or violence is punishable by law. The focus should therefore be on seizing the weapons and punishing perpetrators.",
+      "isShootout": false
+    },
+    {
+      "id": 133784,
+      "index": 21,
+      "theme": "Working or studying for benefits",
+      "themeId": "working-or-studying-for-benefits",
+      "title": "People should perform community service or complete study in return for their benefit payments.",
+      "moreInfo": "People who have no work and receive no other welfare payments can apply for unemployment benefit from the municipality. Some municipalities require that recipients do something in return. In these cases, they perform community service without payment.",
+      "pro": "This helps people to continue to participate in society and find paid work.Some parties believe it is reasonable to ask something in return for welfare benefits.",
+      "con": "Not everybody on benefit is able to perform community service or undertake study.Mandatory mutual participation increases stress and distrust.",
+      "isShootout": false
+    },
+    {
+      "id": 133756,
+      "index": 22,
+      "theme": "Climate neutral",
+      "themeId": "climate-neutral",
+      "title": "The Zaans Climate Agreement states that the municipality should be climate-neutral by 2040. Zaanstad should try to reach that goal sooner.",
+      "moreInfo": "An energy-neutral or climate-neutral municipality generates just as much clean energy as residents and businesses consume. The Zaans Climate Agreement has set a target to become climate-neutral between 2030 and 2040. To do so, Zaanstad must reduce its CO2 and other greenhouse-gas emissions that are released through the use of gas, electricity, and fossil fuels. Residents also cause indirect emissions through manufacturing, travel, and homes. Most emissions, however, come from industry. If things continue as they are, Zaanstad estimates its emissions will be halved by 2040. Reaching climate neutrality is a challenge.",
+      "pro": "The climate crisis means that Zaanstad needs to be climate-neutral as soon as possible.This will enhance residents’ living environment.Some parties believe that a climate-neutral municipality will help residents financially.",
+      "con": "Zaanstad's contribution to the global climate crisis is negligible.Some parties believe it is not feasible to reach climate neutrality sooner than 2040.Some parties believe it will cost residents more.",
+      "isShootout": false
+    },
+    {
+      "id": 133792,
+      "index": 23,
+      "theme": "Vlinderbrug",
+      "themeId": "vlinderbrug",
+      "title": "The Vlinderbrug bridge between Poelenburg and the Achtersluispolder in Zaandam should be open to cars.",
+      "moreInfo": "The bridge between Poelenburg and the Achtersluispolder is meant for public-transport buses. Cyclists and pedestrians can also use it.",
+      "pro": "Car traffic in Zaandam Zuid will become smoother and faster if cars can use the Vlinderbrug bridge.This will increase safety.",
+      "con": "This will create more cut-through traffic.The bridge is meant for public transport, bicycles, and pedestrians, which will suffer if they have to share the bridge with cars.",
+      "isShootout": false
+    },
+    {
+      "id": 133780,
+      "index": 24,
+      "theme": "Owner-occupied housing",
+      "themeId": "owner-occupied-housing",
+      "title": "Whoever buys a house in our municipality should live in it.",
+      "moreInfo": "The national government allows municipalities to introduce ‘purchase protection’ for homes up to a certain value.  Anyone who buys such a home must live in it themselves. Leasing the home is only possible in certain situations, such as parents who buy a home for their child. Zaanstad already has purchase protection for homes up to €420,000, which is the national affordability threshold.",
+      "pro": "According to some parties: homes are for living in, not for making a profit.It creates fairness in the housing market. Home buyers will not need to bid against investors, who drive up the prices.",
+      "con": "What people do with their houses is their own business, the government has no say in the matter.Buying for rental can help combat the housing shortage, as there is also a shortage of rental housing.",
+      "isShootout": false
+    },
+    {
+      "id": 133794,
+      "index": 25,
+      "theme": "Cheaper paid parking",
+      "themeId": "cheaper-paid-parking",
+      "title": "Paid parking in Zaanstad should be cheaper.",
+      "moreInfo": "",
+      "pro": "The municipality should not use paid parking just to make money. Zaanstad should be welcoming to visitors.Parking is a basic necessity.",
+      "con": "This will increase parking problems. Parking fees in Zaanstad are not high compared to other cities. People should be discouraged from using their cars.",
+      "isShootout": false
+    },
+    {
+      "id": 133783,
+      "index": 26,
+      "theme": "Combating poverty",
+      "themeId": "combating-poverty",
+      "title": "The municipality should invest more to combat poverty.",
+      "moreInfo": "",
+      "pro": "Living in poverty creates health problems and stress.Living in poverty results in debt and social exclusion. The municipality has a responsibility to help the disadvantaged in society.",
+      "con": "According to some parties, there is no evidence that more funding is necessary to combat poverty.Money should not go directly to poorer residents, it should be spent more effectively. A better way for the municipality to combat poverty would be to invest in education, for example.",
+      "isShootout": false
+    },
+    {
+      "id": 133799,
+      "index": 27,
+      "theme": "Informal caregivers",
+      "themeId": "informal-caregivers",
+      "title": "The ‘caregiver allowance’ for informal carers should be raised from 50 to 140 Euros per year.",
+      "moreInfo": "Each year, Zaanstad gives informal carers an annual token of appreciation for their efforts. This is called the ‘caregiver allowance.’ Carers aged 18 and over receive €50; those aged between 6 and 17 receive a voucher for €30. To qualify, people must be Zaanstad residents and provide at least 6 hours of care per week within a three-month period, or 250 hours per year, with no financial compensation.",
+      "pro": "Informal carers are essential in our ageing society, which is why they should be rewarded more.Informal carers save the municipality money, by easing pressure on professional care services.",
+      "con": "Informal carers do not need money, they need a break. The municipality would be better off investing more in respite care, such as day care programmes, to ease the burden on informal caregivers.An increase from €50 to €140 per year does nothing to show more appreciation for informal carers.",
+      "isShootout": false
+    },
+    {
+      "id": 133782,
+      "index": 28,
+      "theme": "Housing construction",
+      "themeId": "housing-construction",
+      "title": "The municipality should allow construction on the outskirts of existing villages.",
+      "moreInfo": "In partnership with the province, the municipality decides on building permits, city expansion, and/or rezoning in the Zaanstad landscape. There is increasing demand for expansion and new housing, including on the outskirts of villages. Zaanstad is committed to building many more homes. But what locations are suitable, and which are absolutely off-limits? How can the unique character of the landscape be preserved? The municipality has some influence on these decisions, but they are also governed by provincial policy, which only permits minor expansion in the valuable provincial countryside.",
+      "pro": "Zaanstad needs more housing, and space is limited.",
+      "con": "The green areas around Zaanstad must be protected.",
+      "isShootout": false
+    },
+    {
+      "id": 133750,
+      "index": 29,
+      "theme": "Priority for refugees",
+      "themeId": "priority-for-refugees",
+      "title": "Recognized refugees should be given priority for local social rental housing.",
+      "moreInfo": "People who flee their country due to war or persecution can apply for asylum in the Netherlands. The Immigration and Naturalisation Service (IND) assesses their application, and decides whether they can stay in the Netherlands. If the IND approves, refugees receive residency status. That is why recognized refugees are called ‘status holders’ in Dutch. Every six months, the national government orders municipalities to accommodate a certain number of these refugees. Municipalities are free to decide whether to prioritise them for housing or not. Currently around 8% of rental social housing in Zaanstad goes to recognized refugees.",
+      "pro": "All vulnerable groups in need of housing should qualify for priority.Some parties say that the number of rental social homes going to recognised refugees in Zaanstad is not very high, and so granting priority is no problem.",
+      "con": "Recognised refugees should be treated the same as everybody else, which means no priority.Recognised refugees do not deserve priority – young people in Zaanstad do.",
+      "isShootout": false
+    },
+    {
+      "id": 133785,
+      "index": 30,
+      "theme": "Bridge",
+      "themeId": "bridge",
+      "title": "The Zaan river needs an extra bridge.",
+      "moreInfo": "There are currently multiple bridges across the Zaan, including the Zaanbrug. The construction of thousands of new homes in places such as Wormer, Wormerveer, and Krommenie is causing a rise in traffic. This is why an additional bridge across the Zaan is being considered, for both Zaanstad and Wormerland. There are no concrete plans as yet, but the bridge would go between Wormer and Wormerveer.",
+      "pro": "Traffic is becoming congested, an additional bridge is needed.Better traffic flow is safer.",
+      "con": "We do not need another bridge across the Zaan.We shouldn't be making things any easier for cars in Zaanstad.",
+      "isShootout": false
+    }
+  ]
+}

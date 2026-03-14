@@ -1,0 +1,865 @@
+{
+  "id": "GM0523",
+  "name": "Hardinxveld-Giessendam",
+  "slug": "hardinxveld-giessendam",
+  "parties": [
+    {
+      "id": 115186,
+      "name": "T@B",
+      "fullName": "Transparante Partij voor Algemene Belang",
+      "website": "https://tabhg.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "115200": {
+          "position": "neither",
+          "explanation": "De T@B vindt het belangrijk dat inwoners zich tussentijds kunnen uitspreken over belangrijke thema's binnen de gemeente. We zijn voorstander van een adviserend referendum."
+        },
+        "115203": {
+          "position": "agree",
+          "explanation": "Als het aan de T@B ligt, bepalen boeren zelf of zij recreatief gebruik toestaan op hun eigen grond. We willen zelf ook meer recreatieve plekken, Hardinxveld is veel mooier dan wij allemaal denken."
+        },
+        "115204": {
+          "position": "disagree",
+          "explanation": "Particuliere initiatieven zijn belangrijk. Vanuit de landelijke overheid zijn er al genoeg potjes om uit te putten. Eigen initiatief wordt wel gewaardeerd en moet middels positief meedenken wel gestimuleerd worden."
+        },
+        "115205": {
+          "position": "neither",
+          "explanation": "Grootschalige distributiecentra passen niet bij de landelijke uitstraling van Hardinxveld. Daarbij hebben we onze grond harder nodig voor woningbouw voor onze inwoners."
+        },
+        "115206": {
+          "position": "disagree",
+          "explanation": "Den Haag heeft ons opgezadeld met een groot probleem. Tegelijkertijd heeft Sliedrecht op onze gemeentegrens zonder inspraak van Hardinxveld reeds een azc gebouwd. Een azc past niet in en bij de cultuur van Hardinxveld."
+        },
+        "115207": {
+          "position": "agree",
+          "explanation": "Zo kan ons woningaanbod bestemd blijven voor de inwoners uit Hardinxveld-Giessendam zelf."
+        },
+        "115209": {
+          "position": "agree",
+          "explanation": "Vanuit de landelijke overheid worden al te veel regels opgelegd."
+        },
+        "115214": {
+          "position": "agree",
+          "explanation": "Dit is al een landelijke verplichting. Zeker bij nieuwbouw."
+        },
+        "115215": {
+          "position": "agree",
+          "explanation": "Positief meewerken aan vergunningen. De woningbouw moet wel passend zijn bij de omgeving en het landschap."
+        },
+        "115216": {
+          "position": "agree",
+          "explanation": "We staan als T@B pal achter onze verenigingen. Jong geleerd is oud gedaan. Sport draagt ook bij aan sociale cohesie. Daarom vinden wij ook dat, bijvoorbeeld, de kinderen met een kleinere beurs ook toegang moeten krijgen tot sport."
+        },
+        "115219": {
+          "position": "disagree",
+          "explanation": "Dit dienen ouders zelf te financieren. Wel positief meedenken over particuliere initiatieven."
+        },
+        "115220": {
+          "position": "agree",
+          "explanation": "Wij als T@B vinden dat er meer MET de verenigingen gepraat moet worden, in plaats van OVER de verenigingen. Daarbij worden sportverenigingen al getroffen DOOR onnodige huurverhogingen waardoor contributies al duurder worden."
+        },
+        "115223": {
+          "position": "disagree",
+          "explanation": "We zijn voor meer politie op straat, betaald door Den-Haag, niet voor boa's die betaald worden vanuit eigen gemeenschapsgeld."
+        },
+        "115224": {
+          "position": "agree",
+          "explanation": "Cameratoezicht is een vorm van preventie. Als je niks te verbergen hebt, hoef je je geen zorgen te maken."
+        },
+        "115225": {
+          "position": "neither",
+          "explanation": "Het schijnt jammer genoeg te moeten in verband met huiselijk geweld. Maar er mag niet bekend zijn of er een blijf-van-mijn-lijf-huis is. Goed burgerschap is belangrijk in het onderwijs."
+        },
+        "115226": {
+          "position": "disagree",
+          "explanation": "Het project Pieter de Hooghstraat toont aan dat de gemeente mee kan helpen door betaalbaar bouwen mogelijk te maken door de grond in ''bruikleen'' te geven. Daarbij zijn we een voorstander van betaalbare (starters)woningen te realiseren in samenwerking met bouwpartners & Fien Wonen."
+        },
+        "115235": {
+          "position": "disagree",
+          "explanation": "Het moet in overleg met de inwoners. Daarbij mag het niet ten koste gaan van de normale parkeergelegenheden."
+        },
+        "115238": {
+          "position": "neither",
+          "explanation": "De prijs-kwaliteitverhouding moet in balans zijn."
+        },
+        "115240": {
+          "position": "agree",
+          "explanation": "Als blijkt dat het meer kost dan het oplevert, moet de hondenbelasting op de schop."
+        },
+        "115242": {
+          "position": "neither",
+          "explanation": "We vinden dat het aan de ondernemers zelf is. Daarbij zijn er in de nabije omgeving veel mogelijkheden om op zondag boodschappen te doen."
+        },
+        "115245": {
+          "position": "disagree",
+          "explanation": "We zijn geen voorstander van verbieden. Als een ondernemer of grondeigenaar dit wil, vraagt deze een vergunning en wordt er gekeken of het binnen de omgeving past. De gemeenteraad bepaalt hierin de kaders."
+        },
+        "115248": {
+          "position": "disagree",
+          "explanation": "Lagere scholen hebben de onderwijstijd hard nodig voor lezen, schrijven en rekenen. We stimuleren wel dat ouders met hun kinderen gaan schoolzwemmen. Dit op eigen initiatief."
+        },
+        "115251": {
+          "position": "agree",
+          "explanation": "Het creëert extra woningaanbod. Hierbij moet wel toezicht en handhaving komen, zodat alles netjes via de APV (algemene plaatselijke verordening) gaat en er geen overlast ontstaat."
+        },
+        "115253": {
+          "position": "disagree",
+          "explanation": "Het centrum heeft al voldoende parkeerplaatsen, bijvoorbeeld bij de Albert Heijn of de ondergrondse parkeerplaats."
+        },
+        "115255": {
+          "position": "agree",
+          "explanation": "Jongeren hebben het zwaar in Hardinxveld. Weinig horeca, weinig activiteiten. We willen dat Hardinxveld een bruisend geheel blijft voor nu en in de toekomst."
+        },
+        "115256": {
+          "position": "agree",
+          "explanation": "Startende ondernemers verdienen steun vanuit de gemeente. Leegstand is zonde en zorgt voor een versomberd (winkel)centrum."
+        }
+      }
+    },
+    {
+      "id": 115190,
+      "name": "SGP",
+      "fullName": "Staatkundig Gereformeerde Partij",
+      "website": "https://sgp.nl/home",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "115200": {
+          "position": "disagree",
+          "explanation": "De SGP is geen voorstander van referenda vanwege hoge kosten en het feit dat een simpel voor of tegen vaak geen recht doet aan complexe thema's. Belangrijk is dat de gekozen raadsleden goed luisterren en gehoor geven aan serieuze zorgen van inwoners."
+        },
+        "115203": {
+          "position": "disagree",
+          "explanation": "Wat de SGP betreft, zijn er zeker mogelijkheden hiervoor; we juichen particulier initiatief juist toe. Echter, het gaat ons te ver om dit altijd toe, want eerst overleg hierover is erg belangrijk, bijvoorbeeld met de omwonenden."
+        },
+        "115204": {
+          "position": "disagree",
+          "explanation": "De SGP wil initiatieven voor duurzame energieopwekking (op bijvoorbeeld bedrijfsterreinen) waar mogelijk ondersteunen, maar vindt dat de gemeente hierin geen gemeenschapsgeld moet steken."
+        },
+        "115205": {
+          "position": "agree",
+          "explanation": "De SGP is van mening dat allereerst de lokale bedrijven (passend bij de schaal) ruimte moeten krijgen op nieuw aan te leggen en bestaande bedrijventerreinen."
+        },
+        "115206": {
+          "position": "disagree",
+          "explanation": "De SGP is geen voorstander van een azc op ons grondgebied, temeer omdat er al een azc pal naast onze gemeentegrens komt. Wij willen onze gemeentelijke taakstelling daarin onderbrengen."
+        },
+        "115207": {
+          "position": "agree",
+          "explanation": "De SGP wil de reguliere woningmarkt zoveel mogelijk ontzien. Daarom zijn wij voorstander van huisvesting bij bedrijven (bijvoorbeeld in de maritieme sector) mits het menswaardig en veilig is en met oog voor de omgeving."
+        },
+        "115209": {
+          "position": "agree",
+          "explanation": "Houtstook kan bijdragen aan wooncomfort en moet daarom mogelijk blijven. We stimuleren dat overlast door uitstoot wordt beperkt."
+        },
+        "115214": {
+          "position": "disagree",
+          "explanation": "De SGP is geen voorstander van overbodige regeldruk en overheidsbemoeienis voor ondernemers. Openbare gebouwen (zoals het Huis van de Gemeente) maken we wanneer het kan nog beter toegankelijk."
+        },
+        "115215": {
+          "position": "neither",
+          "explanation": "De SGP is voorstander van het bouwen van meer woningen in ons dorp. Wel gelden hiervoor kaders waarbinnen woningbouwontwikkeling vorm kan krijgen."
+        },
+        "115216": {
+          "position": "disagree",
+          "explanation": "Binnen bestaande sociale voorzieningen en budgetten zijn al voldoende mogelijkheden om gezinnen te ondersteunen om te kunnen sporten."
+        },
+        "115219": {
+          "position": "disagree",
+          "explanation": "Cultuur (waaronder muziek) wordt door de gemeente gestimuleerd. Er is in de samenleving een breed aanbod beschikbaar. Het is aan ouders en scholen om hierin keuzes te maken. De gemeente kiest niet één specifiek onderdeel hieruit."
+        },
+        "115220": {
+          "position": "disagree",
+          "explanation": "De verenigingen zijn van groot belang voor ons dorp. Wij hebben geen aanleiding om te denken dat er verenigingen financieel op omvallen staan. Daarnaast moeten verenigingen hun eigen broek op kunnen houden."
+        },
+        "115223": {
+          "position": "agree",
+          "explanation": "Wetten en regels moeten worden nageleefd. Boa's zijn noodzakelijk om te kunnen handhaven op prioriteiten, die voor inwoners belangrijk zijn, denk aan overlast van (jeugd)groepen en/of afvaldumpingen."
+        },
+        "115224": {
+          "position": "agree",
+          "explanation": "De SGP is voorstander van het vergroten van de veiligheid binnen ons dorp en cameratoezicht kan hieraan bijdragen."
+        },
+        "115225": {
+          "position": "disagree",
+          "explanation": "Een blijf-van-mijn-lijf-huis is een regionale voorziening, die niet specifiek in ons dorp hoeft te worden gevestigd."
+        },
+        "115226": {
+          "position": "disagree",
+          "explanation": "De SGP wil starters graag écht helpen. Omdat startersleningen echter prijsopdrijvend werken en de schuldenlast groter maken, zet de SGP juist in op voorrang (of een koperskorting) voor starters bij betaalbare woningbouwprojecten (zoals bij Pieter de Hooghstraat)."
+        },
+        "115235": {
+          "position": "disagree",
+          "explanation": "De SGP steunt de huidige situatie."
+        },
+        "115238": {
+          "position": "agree",
+          "explanation": "De SGP wil de kosten in het sociaal domein en dus ook in de jeugdzorg binnen de perken houden. Uiteraard moeten deze organisaties kwalitatief goede hulp leveren."
+        },
+        "115240": {
+          "position": "disagree",
+          "explanation": "Als SGP handhaven we de hondenbelasting, om zo ook uitgaven die samenhangen met het hondenbezit in de begroting te kunnen blijven bekostigen."
+        },
+        "115242": {
+          "position": "disagree",
+          "explanation": "De SGP ziet de zondag als een collectieve rustdag: één rustdag in een hectische samenleving is goed voor iedereen. De zondagsrust wordt breed gewaardeerd in ons dorp en die willen wij handhaven. Daarom blijven de winkels dicht."
+        },
+        "115245": {
+          "position": "agree",
+          "explanation": "De SGP is geen voorstander van grootschalige zonnevelden binnen onze gemeentegrenzen. Er zijn twee zonnevelden vergund, waarmee wij ruimschoots bijdragen."
+        },
+        "115248": {
+          "position": "agree",
+          "explanation": "Zwemvaardigheid is in een waterrijke gemeente als de onze van groot belang. Op dit moment is er geen sprake van schoolzwemmen, als het financieel haalbaar is, willen we dit graag mogelijk maken."
+        },
+        "115251": {
+          "position": "neither",
+          "explanation": "De SGP wil deze nieuwe vormen van wonen integraal benaderen. Dus bijvoorbeeld ook goed kijken naar de omgeving qua parkeerdruk."
+        },
+        "115253": {
+          "position": "agree",
+          "explanation": "De SGP wil parkeervoorziening behouden en bij groei van ons dorp deze mee laten groeien. Bij herinrichting van het centrum bekijken we of de auto minder zichtbaar in het straatbeeld een plek kan krijgen."
+        },
+        "115255": {
+          "position": "agree",
+          "explanation": "De SGP wil jongeren behouden in ons dorp, want zonder jongeren hebben we geen toekomst. De SGP wil investeren in woningbouwprojecten, voorrangsbeleid bij nieuwbouwwoningen en een fijne leefomgeving voor jongeren en jonge gezinnen."
+        },
+        "115256": {
+          "position": "disagree",
+          "explanation": "De SGP is geen voorstander van dergelijke inmenging door de gemeente. Wel ondersteunt de gemeente op andere manieren startende ondernemers. De gemeente ondersteunt ondernemers middels netwerken, middels attent maken op subsidies en treedt op als sparringpartner."
+        }
+      }
+    },
+    {
+      "id": 115188,
+      "name": "ChristenUnie",
+      "fullName": "ChristenUnie",
+      "website": "https://www.christenunie.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "115200": {
+          "position": "disagree",
+          "explanation": "Beslissingen horen bij de gekozen volksvertegenwoordigers. Zij beschikken over alle informatie en kunnen op basis daarvan beslissen. Uiteraard dient er wel participatie te zijn, zodat dit kan worden afgewogen bij besluiten."
+        },
+        "115203": {
+          "position": "agree",
+          "explanation": "Het is belangrijk dat boeren afdoende inkomen generen, zodat het land beheerd blijft. Wanneer daar nieuwe manieren voor nodig zijn, dan willen we dat in principe mogelijk maken."
+        },
+        "115204": {
+          "position": "agree",
+          "explanation": "Het succes van de energietransitie ligt bij inwoners en bedrijven. Het is daarom heel belangrijk hen te betrekken bij verduurzaming en de energietransitie. Wanneer er hierbij financiële knelpunten ontstaan, wil de ChristenUnie proberen daar oplossingen voor te vinden."
+        },
+        "115205": {
+          "position": "agree",
+          "explanation": "De schaarste ruimte die beschikbaar komt voor bedrijvigheid moeten we benutten om de regionale bedrijven te versterken. Dit met het oog op onze kracht: de maritieme sector en de bouw."
+        },
+        "115206": {
+          "position": "agree",
+          "explanation": "Vanuit zorg voor de naaste en solidariteit met andere gemeenten voldoen we aan de landelijke vragen ten aanzien van opvang. We willen de asielzoekers en de gemeente Ter Apel niet in de kou laten staan. Dit binnen de mogelijkheden van de draagkracht onze gemeente heeft."
+        },
+        "115207": {
+          "position": "disagree",
+          "explanation": "Bedrijven die werken met seizoenarbeiders moeten ook zorg dragen voor goede huisvesting buiten werktijd. Dit hoeft niet op het eigen bedrijfsterrein, dit moet op plekken die daarvoor geschikt zijn."
+        },
+        "115209": {
+          "position": "agree",
+          "explanation": "Open vuur staat voor de een voor gezelligheid en voor de andere voor overlast, of zelfs voor gezondheidsrisico's. Het terugdringen van overlast van hout stoken vindt de ChristenUnie belangrijk, bijvoorbeeld door communicatie over stookinstructies. Een totaalverbod gaat daarbij te ver."
+        },
+        "115214": {
+          "position": "disagree",
+          "explanation": "De ChristenUnie vindt dat dit voor gemeentelijke gebouwen een verantwoordelijkheid is van de gemeente. Ondernemers zijn dat voor hun eigen gebouwen."
+        },
+        "115215": {
+          "position": "disagree",
+          "explanation": "De ruimtelijke ordening geldt voor iedereen. Binnen de toegestane kaders kunnen boeren huizen bouwen op hun land. Wanneer hiervoor wijzigingen nodig zijn in de kaders dan wordt hiervoor de normale procedure gevolgd."
+        },
+        "115216": {
+          "position": "agree",
+          "explanation": "Het is belangrijk dat iedereen kan sporten. Wanneer dit voor mensen met een bijstandsuitkering niet mogelijk is door financiële omstandigheden dan zijn daarvoor oplossingen beschikbaar al dan niet georganiseerd door de gemeente."
+        },
+        "115219": {
+          "position": "agree",
+          "explanation": "De ChristenUnie staat voor talentontwikkeling bij kinderen. Elk kind moet zijn talenten kunnen ontwikkelen, bijvoorbeeld door te sporten of naar muziekles te gaan. Als geld hiervoor een belemmering vormt, dan lossen we dat op."
+        },
+        "115220": {
+          "position": "neither",
+          "explanation": "Gezonde verenigingen zijn nodig voor gezonde inwoners. De gezondheid van een vereniging is allereerst haar eigen verantwoordelijkheid. Mochten er omstandigheden zijn waardoor dit voor hen een moeilijke opgave is, dan kan de gemeente bijspringen."
+        },
+        "115223": {
+          "position": "agree",
+          "explanation": "Je veilig voelen op (elke) straat in Hardinxveld-Giessendam is van het grootste belang! Zichtbare en bereikbare politie is hiervoor van cruciaal belang. Ook boa's dragen bij aan veilige straten."
+        },
+        "115224": {
+          "position": "disagree",
+          "explanation": "Je veilig voelen op (elke) straat in Hardinxveld-Giessendam is van het grootste belang! Cameratoezicht is hierbij niet het eerste waar de ChristenUnie aan denkt. Op probleemlocaties kan het wel overwogen worden."
+        },
+        "115225": {
+          "position": "neither",
+          "explanation": "Het is belangrijk dat er plaatsen beschikbaar zijn in blijf-van-mijn-lijf-huizen. Waar die plaatsen zijn is van minder belang. Wanneer er initiatieven zijn om deze in Hardinxveld-Giessendam te realiseren, zullen we deze ondersteunen."
+        },
+        "115226": {
+          "position": "agree",
+          "explanation": "De ChristenUnie wil een ruim aanbod van betaalbare en comfortabele woningen voor starters, gezinnen, ouderen, mensen met een beperking en tijdelijke bewoners. Voor starters kan een starterslening uitkomst bieden."
+        },
+        "115235": {
+          "position": "disagree",
+          "explanation": "De afgelopen periode zijn er afdoende openbare oplaadplekken gerealiseerd. Er is eerst focus nodig op verdere versterking van het elektriciteitsnet (oplossen netcongestie)."
+        },
+        "115238": {
+          "position": "disagree",
+          "explanation": "De juiste hulp selecteren en daarmee de omstandigheden aanpakken, of de problemen van de jongeren oplossen staat centraal. Prijs mag vervolgens een criterium zijn om hulp betaalbaar te houden."
+        },
+        "115240": {
+          "position": "disagree",
+          "explanation": "Ten opzichte van andere huisdieren worden voor honden door de gemeente extra kosten gemaakt. Het is daarom redelijk om hondenbelasting te innen."
+        },
+        "115242": {
+          "position": "disagree",
+          "explanation": "De zondag is een dag om te bidden, te bezinnen en te belijden. Een dag om te genieten van schepping, familie en vrienden. Met de verschillende levensovertuigingen die er zijn, wordt er deze dag rekening met elkaar gehouden. Daarmee wordt zondag voor iedereen bijzonder, een dag om zuinig op te zijn!"
+        },
+        "115245": {
+          "position": "disagree",
+          "explanation": "Als eigenaren/agrariërs zelf met plannen komen, moet de gemeente dit per geval beoordelen."
+        },
+        "115248": {
+          "position": "neither",
+          "explanation": "De ChristenUnie staat voor zwemvaardige kinderen. Elk kind is aan het einde van de basisschoolleeftijd zwemvaardig. Dit doel vinden we belangrijker dan het middel. Door het vervoer is schoolzwemmen een dure aangelegenheid en het gaat ook ten koste van lestijd."
+        },
+        "115251": {
+          "position": "disagree",
+          "explanation": "Het huisvesten van arbeidsmigranten in reguliere woningen is niet de oplossing voor het tekort aan slaapplaatsen voor arbeidsmigranten. Voor hen moeten geschikte specifieke verblijfplaatsen worden gerealiseerd."
+        },
+        "115253": {
+          "position": "disagree",
+          "explanation": "Er zijn al veel parkeerplaatsen. Het centrum moet vooral een prettig gebied worden om te verblijven, meer parkeren past daar niet bij."
+        },
+        "115255": {
+          "position": "disagree",
+          "explanation": "De ChristenUnie werkt aan een fijn dorp om in te wonen voor iedereen. Wanneer dat lukt dan zijn inwoners eerder geneigd om er te blijven wonen. Het is voor de ChristenUnie geen doel op zich om geld beschikbaar te stellen zodat jongeren in Hardinxveld-Giessendam blijven."
+        },
+        "115256": {
+          "position": "disagree",
+          "explanation": "De gemeente moet zich niet op de markt van commercieel vastgoed begeven."
+        }
+      }
+    },
+    {
+      "id": 115189,
+      "name": "GroenLinks-PvdA",
+      "fullName": "Groenlinks - Partij van de Arbeid",
+      "website": "https://groenlinkspvda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "115200": {
+          "position": "agree",
+          "explanation": "Wij vinden dat iedere burger het recht heeft om zijn of haar stem te laten horen."
+        },
+        "115203": {
+          "position": "disagree",
+          "explanation": "Wij vinden dat dit via een vergunning aangevraagd moet worden."
+        },
+        "115204": {
+          "position": "agree",
+          "explanation": "Wij steunen vergroening van onze gemeente."
+        },
+        "115205": {
+          "position": "disagree",
+          "explanation": "Wij vinden dat dit een mooie kans oplevert voor werkgelegenheid, echter moet dit niet ten kosten gaan van de natuur, de doorstroom van het verkeer en geen grote druk opleveren voor het energienetwerk."
+        },
+        "115206": {
+          "position": "neither",
+          "explanation": "Vanuit de spreidingswet zijn wij verplicht om de verantwoordelijkheid te nemen voor een deel van de asielzoekers. Wij willen graag met omliggende gemeenten samenwerken voor een gezamenlijk azc."
+        },
+        "115207": {
+          "position": "disagree",
+          "explanation": "Wij willen fatsoenlijke huisvesting, ook voor seizoenarbeiders. Op dit moment zijn er geen afspraken gemaakt voor het huisvesten van deze arbeiders. Wij willen daar eerst duidelijke regels over zien."
+        },
+        "115209": {
+          "position": "disagree",
+          "explanation": "Open haarden en houtkachels hebben een averechts effect op onze gezondheid en onze natuur, daarom willen we dit uitfaseren."
+        },
+        "115214": {
+          "position": "neither",
+          "explanation": "In eerste instantie vinden wij dat de verantwoordelijkheid ligt bij de ondernemer zelf, maar wanneer de draagkracht er niet is, zijn we bereid om waar nodig te ondersteunen."
+        },
+        "115215": {
+          "position": "agree",
+          "explanation": "Zolang de huizen voldoen aan de eisen van een volwaardige woning zien wij dit als een positieve stap voor het oplossen van het woningtekort."
+        },
+        "115216": {
+          "position": "agree",
+          "explanation": "Het aanbieden van gratis sporten voor de minima heeft een positief effect op de fysieke gezondheid en de sociale contacten."
+        },
+        "115219": {
+          "position": "disagree",
+          "explanation": "Wij ondersteunen graag de gezinnen die het financieel moeilijk hebben, maar zijn er geen voorstander van om dit voor ieder kind te betalen."
+        },
+        "115220": {
+          "position": "agree",
+          "explanation": "Wij vinden steun aan de sportverenigingen belangrijk, uiteraard willen we wel kritisch kijken hoe het geld wordt uitgegeven."
+        },
+        "115223": {
+          "position": "disagree",
+          "explanation": "Wij zien op dit moment geen structurele veiligheidsproblematiek die kan worden opgelost door boa's."
+        },
+        "115224": {
+          "position": "disagree",
+          "explanation": "Wanneer wij signalen krijgen dat dit nodig is, gaan we graag in gesprek, maar op dit moment vinden wij het niet nodig."
+        },
+        "115225": {
+          "position": "agree",
+          "explanation": "Wij vinden het belangrijk dat er een blijf-van-mijn-lijf-huis is in de regio, maar dit hoeft niet in onze gemeente te zijn. We willen hier wel in ondersteunen."
+        },
+        "115226": {
+          "position": "agree",
+          "explanation": "Wij willen starters ondersteunen in het verkrijgen van een woning."
+        },
+        "115235": {
+          "position": "agree",
+          "explanation": "Dit moet zo veel mogelijk gerealiseerd worden samen met andere werkzaamheden om openbreken te beperken."
+        },
+        "115238": {
+          "position": "disagree",
+          "explanation": "Wij vinden de effectiviteit belangrijker dan de prijs."
+        },
+        "115240": {
+          "position": "disagree",
+          "explanation": "Ondanks dat wij welwillend staan tegenover het afschaffen, is er geen dekking voor de kosten die de gemeente heeft door het bezit van honden. Wij staan wel open voor alternatieven."
+        },
+        "115242": {
+          "position": "agree",
+          "explanation": "Wij staan open voor het toelaten van koopzondagen, echter laten wij ons wel leiden door de wens van onze gemeente, en tevens ook de haalbaarheid voor winkels, en dan met name kleinere winkels die het met beperkt personeel moet doen."
+        },
+        "115245": {
+          "position": "disagree",
+          "explanation": "Wij zijn niet tegen het plaatsen van zonnepanelen, echter laten we wel goed kijken in welke hoeveelheid dit gewenst is, en welke meerwaarde dit heeft gezien de netcongestie en onze beperkte mogelijkheden om energie op te slaan."
+        },
+        "115248": {
+          "position": "agree",
+          "explanation": "Wij vinden het belangrijk dat iedereen kan zwemmen."
+        },
+        "115251": {
+          "position": "agree",
+          "explanation": "Indien wij goede afspraken kunnen maken hoe losse kamers verhuurd worden, dan zien wij hier kansen."
+        },
+        "115253": {
+          "position": "disagree",
+          "explanation": "Wij willen fietsen en wandelen stimuleren, meer parkeerplekken zou nog meer autogebruik stimuleren, op dit moment denken wij dat er afdoende plekken zijn, maar zullen dit blijven beoordelen."
+        },
+        "115255": {
+          "position": "disagree",
+          "explanation": "Wij zijn voorstander van om Hardinxveld-Giessendam in het algemeen aantrekkelijker te maken, maar wij willen ons niet specifiek richten op jongeren."
+        },
+        "115256": {
+          "position": "neither",
+          "explanation": "Wij blijven kijken naar opties zodra er sprake van is."
+        }
+      }
+    },
+    {
+      "id": 115187,
+      "name": "CDA",
+      "fullName": "Christen-Democratisch Appèl",
+      "website": "https://www.cda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "115200": {
+          "position": "disagree",
+          "explanation": "Het CDA is geen voorstander van een referendum. De gemeenteraad wordt gekozen om moeilijke afwegingen te maken. Het is wel belangrijk om burgers op andere manieren te betrekken bij belangrijke onderwerpen."
+        },
+        "115203": {
+          "position": "agree",
+          "explanation": "Het CDA is voorstander van meer ruimte voor andere bedrijvigheid rondom boerenbedrijven."
+        },
+        "115204": {
+          "position": "agree",
+          "explanation": "Het CDA is supporter van energiecoöperaties en buurtbewoners die initiatieven oppakken om de omgeving te verduurzamen. De gemeente kan dit ondersteunen."
+        },
+        "115205": {
+          "position": "neither",
+          "explanation": "Nieuwe bedrijven moeten van toegevoegde waarde zijn voor de lokale economie en werkgelegenheidsvraag van de huidige inwoners. De vestiging van distributiecentra moet daaraan getoetst worden. Het CDA wil de verdozing tegengaan."
+        },
+        "115206": {
+          "position": "neither",
+          "explanation": "Het CDA vindt dat er alleen een asielzoekerscentrum moet komen als dit onder de verantwoordelijkheid van de spreidingswet valt. Als hieraan al voldaan wordt, ziet het CDA geen reden voor een asielzoekerscentrum."
+        },
+        "115207": {
+          "position": "agree",
+          "explanation": "Geen bed geen business. Het CDA vindt dat bedrijven een verantwoordelijkheid hebben voor seizoenarbeiders die naar Nederland komen."
+        },
+        "115209": {
+          "position": "agree",
+          "explanation": "Een verbod op het gebruik van open haarden en houtkachels levert veel regeldruk op en is moeilijk te handhaven. Het CDA wil de regeldruk in de samenleving verminderen."
+        },
+        "115214": {
+          "position": "disagree",
+          "explanation": "De gemeente heeft een taak om de openbare ruimte toegankelijk in te richten. Daar maakt het CDA geld voor vrij. Bedrijfsgebouwen toegankelijk houden is een taak van de bedrijven zelf."
+        },
+        "115215": {
+          "position": "agree",
+          "explanation": "Het CDA wil het woningtekort aanpakken. Ook op landbouwgrond, mits dit geen belemmering is voor andere bedrijven."
+        },
+        "115216": {
+          "position": "neither",
+          "explanation": "Het CDA is hier tegen omdat dit een behoorlijk structurele kostenpost met zich meebrengt. Daar tegenover staat dat CDA graag een kortingspas wil voor mensen die krap bij kas zitten. Op deze manier verlagen we de contributie."
+        },
+        "115219": {
+          "position": "disagree",
+          "explanation": "Het CDA wil dat sport en cultuur toegankelijk zijn voor alle kinderen. Dat doen we in samenwerking met onze verenigingen."
+        },
+        "115220": {
+          "position": "agree",
+          "explanation": "Het CDA staat voor een sterk verenigingsleven."
+        },
+        "115223": {
+          "position": "agree",
+          "explanation": "Het CDA wil de veiligheid in onze gemeente vergroten. Meer boa's draagt daaraan bij."
+        },
+        "115224": {
+          "position": "agree",
+          "explanation": "Het CDA wil de veiligheid in onze gemeente vergroten. Door extra cameratoezicht kan criminaliteit effectiever en sneller worden opgespoord. Het helpt de politie enorm om criminaliteit aan te pakken."
+        },
+        "115225": {
+          "position": "neither",
+          "explanation": "Het CDA is van mening dat slachtoffers van huiselijk geweld recht hebben op passende hulp en ondersteuning. In samenwerking met de regio kan worden onderzocht of een blijf-van-mijn-lijf-huis kan worden gerealiseerd, waarbij dit niet per se in Hardinxveld-Giessendam gevestigd hoeft te zijn"
+        },
+        "115226": {
+          "position": "neither",
+          "explanation": "De gemeente moet zich terughoudend opstellen om als bank op te treden, maar een starterslening kan wel een zetje zijn in de goede richting."
+        },
+        "115235": {
+          "position": "agree",
+          "explanation": "Het CDA vindt het belangrijk dat er voldoende laadpunten zijn voor elektrische auto's. Die moeten vraaggericht geplaatst worden, daar waar mensen met elektrische auto's wonen en werken. Inwoners moeten daarvoor een aanvraag kunnen doen bij de gemeente."
+        },
+        "115238": {
+          "position": "disagree",
+          "explanation": "Kwaliteit, effectiviteit en het belang van het kind moeten altijd voorop staan. Verantwoord omgaan met geld is belangrijk, maar mag nooit ten koste gaan van goede en passende jeugdhulp."
+        },
+        "115240": {
+          "position": "agree",
+          "explanation": "Het CDA wil de lasten voor inwoners zo laag mogelijk houden."
+        },
+        "115242": {
+          "position": "disagree",
+          "explanation": "Het CDA hecht aan waarden en tradities. Zo ook aan de zondag als de dag die in onze cultuur is uitgegroeid tot een rustdag voor bezinning en ontmoeting. Daarom blijven, wat het CDA betreft, de winkels gesloten op zondag."
+        },
+        "115245": {
+          "position": "disagree",
+          "explanation": "CDA gelooft sterk in het behoud van onze waardevolle landbouwgrond. Daarom pleiten wij ervoor om eerst de daken van huizen, schuren en bedrijven te benutten voor zonne-energie. Een verbod gaat echter te ver."
+        },
+        "115248": {
+          "position": "agree",
+          "explanation": "Zwemvaardigheid van onze kinderen is belangrijk. Het CDA staat open voor initiatieven voor schoolzwemmen."
+        },
+        "115251": {
+          "position": "agree",
+          "explanation": "Onder een deel van de samenleving is behoefte aan kamerverhuur. Denk bijvoorbeeld aan studenten of jongeren. Hiervoor moet ruimte zijn."
+        },
+        "115253": {
+          "position": "agree",
+          "explanation": "Het kan erg druk zijn op de parkeerplaatsen bij de Albert Heijn en Dirk van den Broek. Daarom investeren we in de centrumvisie volop in parkeerplaatsen."
+        },
+        "115255": {
+          "position": "neither",
+          "explanation": "CDA wil investeren in de jongeren, die in de gemeente wonen. Bijvoorbeeld door te onderzoeken of de diverse ontmoetingsplekken aansluiten bij de huidige wensen van de jongeren. Dit betekent echter niet per definitie dat de gemeente meer geld moet gaan uitgeven om jongeren in de gemeente te houden."
+        },
+        "115256": {
+          "position": "disagree",
+          "explanation": "CDA Hardinxveld-Giessendam kiest voor een levendig centrum, maar ziet het opkopen van panden door de gemeente niet als eerste stap. We zetten in op samenwerking met vastgoedeigenaren en ondernemers."
+        }
+      }
+    }
+  ],
+  "statements": [
+    {
+      "id": 115255,
+      "index": 1,
+      "theme": "Voorzieningen jongeren",
+      "themeId": "voorzieningen-jongeren",
+      "title": "De gemeente moet meer geld uitgeven om ervoor te zorgen dat jongeren in Hardinxveld-Giessendam willen blijven.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115206,
+      "index": 2,
+      "theme": "Asielzoekerscentrum",
+      "themeId": "asielzoekerscentrum",
+      "title": "In onze gemeente moet een asielzoekerscentrum (azc) komen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115203,
+      "index": 3,
+      "theme": "Boerencampings",
+      "themeId": "boerencampings",
+      "title": "De gemeente moet boeren altijd toestaan om bij hun boerenbedrijf bijvoorbeeld een winkel of een camping te openen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115200,
+      "index": 4,
+      "theme": "Referendum",
+      "themeId": "referendum",
+      "title": "De inwoners van Hardinxveld-Giessendam moeten over belangrijke onderwerpen hun mening kunnen geven via een referendum.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115209,
+      "index": 5,
+      "theme": "Houtstook",
+      "themeId": "houtstook",
+      "title": "In Hardinxveld-Giessendam moet het gebruik van open haarden en houtkachels toegestaan blijven.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115205,
+      "index": 6,
+      "theme": "Distributiecentra",
+      "themeId": "distributiecentra",
+      "title": "De gemeente moet de vestiging van nieuwe distributiecentra tegengaan.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115207,
+      "index": 7,
+      "theme": "Huisvesting buitenlandse werknemers",
+      "themeId": "huisvesting-buitenlandse-werknemers",
+      "title": "Werkgevers in de land- en tuinbouw moeten zelf zorgen voor de huisvesting van seizoenarbeiders op hun eigen bedrijfsterrein.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115204,
+      "index": 8,
+      "theme": "Duurzame energie",
+      "themeId": "duurzame-energie",
+      "title": "Inwoners die samen duurzame energie op willen wekken, moeten financiële steun krijgen van de gemeente.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115216,
+      "index": 9,
+      "theme": "Contributie sport",
+      "themeId": "contributie-sport",
+      "title": "De gemeente moet het lidmaatschap van een sportclub betalen voor mensen met een bijstandsuitkering.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115223,
+      "index": 10,
+      "theme": "Handhavers",
+      "themeId": "handhavers",
+      "title": "In Hardinxveld-Giessendam moeten meer gemeentelijke handhavers (boa’s) komen die zich met veiligheid bezighouden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115215,
+      "index": 11,
+      "theme": "Bouwen op landbouwgrond",
+      "themeId": "bouwen-op-landbouwgrond",
+      "title": "Het moet mogelijk worden voor boeren om zelf huizen te bouwen op hun land.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115219,
+      "index": 12,
+      "theme": "Muziekles",
+      "themeId": "muziekles",
+      "title": "Elk basisschoolkind moet met subsidie van de gemeente muziekles kunnen krijgen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115226,
+      "index": 13,
+      "theme": "Starterslening",
+      "themeId": "starterslening",
+      "title": "Mensen die voor het eerst een huis willen kopen, moeten van de gemeente een starterslening kunnen krijgen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115224,
+      "index": 14,
+      "theme": "Cameratoezicht",
+      "themeId": "cameratoezicht",
+      "title": "In Hardinxveld-Giessendam moet meer cameratoezicht komen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115214,
+      "index": 15,
+      "theme": "Toegankelijkheid gebouwen",
+      "themeId": "toegankelijkheid-gebouwen",
+      "title": "De gemeente moet ondernemers financieel helpen om hun gebouw toegankelijker te maken voor mensen met een beperking.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115238,
+      "index": 16,
+      "theme": "Jeugdzorg",
+      "themeId": "jeugdzorg",
+      "title": "De gemeente moet  bij het selecteren van organisaties voor jeugdhulp vooral letten op de prijs.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115220,
+      "index": 17,
+      "theme": "Sportverenigingen",
+      "themeId": "sportverenigingen",
+      "title": "Als sportverenigingen het moeilijk hebben, moet de gemeente financieel bijdragen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115240,
+      "index": 18,
+      "theme": "Hondenbelasting",
+      "themeId": "hondenbelasting",
+      "title": "De gemeente moet de hondenbelasting afschaffen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115235,
+      "index": 19,
+      "theme": "Elektrische laadpalen",
+      "themeId": "elektrische-laadpalen",
+      "title": "De gemeente moet meer parkeerplaatsen aanwijzen als oplaadplekken voor elektrische auto's.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115251,
+      "index": 20,
+      "theme": "Verkamering",
+      "themeId": "verkamering",
+      "title": "De gemeente moet toestaan dat verhuurders losse kamers verhuren in plaats van hele huizen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115242,
+      "index": 21,
+      "theme": "Koopzondagen",
+      "themeId": "koopzondagen",
+      "title": "De gemeente moet meer koopzondagen toelaten.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115248,
+      "index": 22,
+      "theme": "Schoolzwemmen",
+      "themeId": "schoolzwemmen",
+      "title": "De gemeente moet geld beschikbaar stellen voor schoolzwemmen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115245,
+      "index": 23,
+      "theme": "Zonnepanelen op landbouwgrond",
+      "themeId": "zonnepanelen-op-landbouwgrond",
+      "title": "De gemeente moet zonnepanelen op landbouwgrond verbieden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115225,
+      "index": 24,
+      "theme": "Geweld tegen vrouwen",
+      "themeId": "geweld-tegen-vrouwen",
+      "title": "In Hardinxveld-Giessendam moet een blijf-van-mijn-lijf-huis komen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115253,
+      "index": 25,
+      "theme": "Meer parkeerplaatsen",
+      "themeId": "meer-parkeerplaatsen",
+      "title": "Er moeten meer parkeerplaatsen komen in het centrum.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115256,
+      "index": 26,
+      "theme": "Dorpskern",
+      "themeId": "dorpskern",
+      "title": "De gemeente moet leegstaande (winkel)panden in het centrum kopen en verhuren aan startende ondernemers.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    }
+  ]
+}

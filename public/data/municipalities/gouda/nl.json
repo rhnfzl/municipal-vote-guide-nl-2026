@@ -1,0 +1,2159 @@
+{
+  "id": "GM0513",
+  "name": "Gouda",
+  "slug": "gouda",
+  "parties": [
+    {
+      "id": 114721,
+      "name": "GroenLinks-PvdA",
+      "fullName": "Groenlinks - Partij van de Arbeid",
+      "website": "https://groenlinkspvda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "114742": {
+          "position": "neither",
+          "explanation": "We gaan aan de slag met nieuwe vormen van inspraak. Daarbij maakt de gemeente vooraf duidelijke afspraken over wat bewoners zelf kunnen beslissen, wat de gemeente uitvoert en wat niet kan."
+        },
+        "114745": {
+          "position": "agree",
+          "explanation": "GroenLinks-PvdA Gouda heeft in 2022 het initiatief genomen om de winkeltijdenverordening aan te passen zodat dit mogelijk is voor winkels. Winkeliers kunnen zelf het beste inschatten wanneer ze open willen zijn."
+        },
+        "114748": {
+          "position": "disagree",
+          "explanation": "Gouda is een stad waar vluchtelingen welkom zijn. Waar je vrij bent om te zijn wie je bent en waar iedereen mee kan doen. In Gouda investeren we al extra met de Goudse Plus, daarmee bieden we een warm welkom en goede landing voor nieuwe stadsgenoten."
+        },
+        "114752": {
+          "position": "agree",
+          "explanation": "Gouda handhaaft het vuurwerkverbod; oud en nieuw vieren we samen. Vuurwerk veroorzaakt jaarlijks veel schade, letsel en overlast voor mensen, dieren en hulpverleners. Samen met bewoners, ondernemers en verenigingen organiseren we een centraal, feestelijk aftelmoment waar de hele stad bij samenkomt."
+        },
+        "114757": {
+          "position": "agree",
+          "explanation": "GroenLinks-PvdA vindt goede lokale journalistiek belangrijk. Dat kan alleen als de lokale omroep in staat is om goede uitzendingen te maken, zodat raadsleden, wethouders en de burgemeester kritisch bevraagd kunnen worden over het beleid en er genoeg ruimte is voor muziekprogramma's."
+        },
+        "114759": {
+          "position": "agree",
+          "explanation": "We maken sport en cultuur beter bereikbaar voor iedereen."
+        },
+        "114763": {
+          "position": "disagree",
+          "explanation": "We blijven terughoudend bij het gebruik van camera’s in de openbare ruimte. Ook checkt de gemeente regelmatig of een camera weg kan. Cameratoezicht is er enkel en alleen voor het handhaven van de openbare orde. We staan niet toe dat camera’s structureel persoonsgegevens zoals gezichten verzamelen."
+        },
+        "114764": {
+          "position": "disagree",
+          "explanation": "We willen meer handhaving zichtbaar op straat en investeren in meer wijkagenten en boa’s. Zij zijn de ogen en oren van een buurt, zowel overdag als 's nachts. Daarnaast willen we meer politie-inzet bij opsporing en handhaving van (digitale) criminaliteit."
+        },
+        "114766": {
+          "position": "agree",
+          "explanation": "Bij de herziening van de huisvestingsverordening heeft GroenLinks-PvdA Gouda mogelijk gemaakt dat woningzoekenden met lokale binding voorrang krijgen bij het zoeken van een woning."
+        },
+        "114768": {
+          "position": "agree",
+          "explanation": "Mensen die een woning kopen, moeten zelf in hun woning wonen en niet met winst verhuren of snel doorverkopen. Zo houden we woningen beschikbaar voor mensen die écht een huis zoeken om in te wonen."
+        },
+        "114771": {
+          "position": "disagree",
+          "explanation": "We zorgen dat werken loont en écht bij mensen past. Iedereen verdient werk dat aansluit bij talent, opleiding, ervaring en de persoonlijke situatie. Elke bijdrage aan onze samenleving is waardevol; van vrijwilligerswerk tot voltijdbaan."
+        },
+        "114773": {
+          "position": "disagree",
+          "explanation": "We zetten de mens centraal, niet het systeem. We kijken niet eerst naar regels, maar naar wat iemand nodig heeft om weer vooruit te komen. Daarom werkt de gemeente met vaste contactpersonen, minder formulieren en maatwerkoplossingen."
+        },
+        "114776": {
+          "position": "agree",
+          "explanation": "We blijven prioriteit geven aan verkeersveiligheid, zeker ook die van voetgangers en fietsers. Uitgangspunt is dat alle autowegen binnen de stad 30 kilometerwegen worden. In straten, bij scholen en in de binnenstad, verlagen we de snelheid naar 15 kilometer per uur."
+        },
+        "114778": {
+          "position": "agree",
+          "explanation": "GroenLinks-PvdA Gouda is voorstander van passende hulp voor iedereen."
+        },
+        "114779": {
+          "position": "disagree",
+          "explanation": "Het inkoopbeleid van de gemeente houdt wat ons betreft altijd rekening met salarissen van zorgmedewerkers. Om de wachtlijsten te verkorten, wordt het beschikbare budget zo goed mogelijk verspreid tussen lichte, kortdurende vragen en de meest complexe problematiek."
+        },
+        "114780": {
+          "position": "agree",
+          "explanation": "Noodzakelijke medische hulpmiddelen worden vergoed. Geen enkele Gouwenaar mag afhankelijk zijn van het inkomen om de zorg te krijgen die nodig is. Ook gaan we door met verstrekken van gratis menstruatieproducten op centrale plekken in de stad, zoals de bieb en ontmoetingscentra."
+        },
+        "114781": {
+          "position": "disagree",
+          "explanation": "Gouda staat er financieel goed voor en dat willen we zo houden. We voeren een zorgvuldig financieel beleid en kijken kritisch naar de eigen uitgaven van de gemeente. Zodat we ook in onzekere tijden ruimte hebben voor investeringen in betaalbare woningen, groene wijken en sociale zekerheid."
+        },
+        "114782": {
+          "position": "disagree",
+          "explanation": "GroenLinks-PvdA heeft er steeds voor gekozen om de hondenbelasting te houden, vanwege het principe dat de vervuiler betaalt. Dit bedrag mag niet heel hoog zijn. Van de opbrengsten van de hondenbelasting worden bijvoorbeeld voldoende afvalbakken voor hondenpoep geplaatst en extra controleurs ingezet."
+        },
+        "114784": {
+          "position": "disagree",
+          "explanation": "Gouda is een compacte stad waar de ruimte schaars is. Toch moeten we vooruit. Er zijn meer woningen nodig, we willen meer duurzame energie opwekken en ruimte voor veilig spelende kinderen, water, bomen, planten en dieren."
+        },
+        "114785": {
+          "position": "disagree",
+          "explanation": "GroenLinks-PvdA Gouda heeft in 2022 het initiatief genomen om de winkeltijdenverordening aan te passen zodat dit mogelijk is voor winkels."
+        },
+        "114786": {
+          "position": "agree",
+          "explanation": "We voorkomen dat mensen vanuit het azc op straat komen te staan. Daarom blijven we investeren in hun opvang en toegang tot zorg. Voor statushouders zorgen we snel voor een passende woning."
+        },
+        "114788": {
+          "position": "agree",
+          "explanation": "In Gouda is er nauwelijks landbouwgrond en in regionaal verband kijken we waar het past om hernieuwbare energie op te wekken, zoals windmolens en zonnepanelen, toe te staan. GroenLinks-PvdA richt zich vooral op isolatie van woningen en voor Gouda op zonnepanelen op daken."
+        },
+        "114790": {
+          "position": "agree",
+          "explanation": "We investeren in welzijnswerk, buurthuizen en bibliotheken. Ontmoetingscentra als het Nelson Mandela Centrum, De Walvis en Van Noord kunnen hun deuren vaker en langer openhouden."
+        },
+        "114792": {
+          "position": "neither",
+          "explanation": "Coffeeshops trekken klanten uit de gehele stad en daarbuiten. Dit geeft (verkeers)overlast voor omwonenden. We treden in goed overleg met eigenaren van coffeeshops in de binnenstad om te komen tot een onderzoek naar het verplaatsen naar de rand van de stad."
+        },
+        "114797": {
+          "position": "disagree",
+          "explanation": "De kosten voor een eerste parkeervergunning houden we bewust laag. De tarieven voor bezoekers en de parkeervergunningen voor een tweede of derde auto worden flink hoger. Mensen die kort parkeren, zoals leveranciers, (kraam)zorgverleners en mantelzorgers, kunnen nog wel in de buurt blijven parkeren."
+        },
+        "114798": {
+          "position": "agree",
+          "explanation": "De auto neemt te veel ruimte in. Daarom maken we de binnenstad autoluw en voeren we snel op meer plekken gereguleerd parkeren in. Minder auto’s betekent schonere lucht en ruimte voor groen, wandelen, fietsen en spelen."
+        },
+        "114799": {
+          "position": "disagree",
+          "explanation": "De auto neemt te veel ruimte in. Daarom maken we de binnenstad autoluw en voeren we snel op meer plekken gereguleerd parkeren in. Autovrij is voor de binnenstad niet handig, want er wonen daar ook mensen die slecht ter been zijn. Wij zijn dus wel voor een autoluwe binnenstad."
+        },
+        "114800": {
+          "position": "disagree",
+          "explanation": "Met de vervuilende industrie in Gouda maakt de gemeente afspraken over het terugdringen van de uitstoot. Leidend is onze doelstelling om in 2040 CO2-neutraal te zijn en het verbeteren van de luchtkwaliteit in Gouda. Op termijn is er geen ruimte meer voor vervuilende industrie in Gouda."
+        },
+        "114801": {
+          "position": "agree",
+          "explanation": "Het liefst zien we dat vrachtwagens alleen als bestemmingsverkeer de Koningin Wilhelminaweg op mogen rijden. We beperken de gevolgen van bodemdaling. We brengen funderingsrisico’s in beeld en kijken samen met mede-overheden en bewoners naar hoe funderingsschade voorkomen of uitgesteld kan worden."
+        },
+        "114803": {
+          "position": "agree",
+          "explanation": "De identiteit van Gouda is verbonden met het water in en rond de stad: de Gouwe, de Hollandse IJssel en de grachten."
+        }
+      }
+    },
+    {
+      "id": 114720,
+      "name": "D66",
+      "fullName": "D66",
+      "website": "https://d66.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "114742": {
+          "position": "neither",
+          "explanation": "Burgerparticipatie is van groot belang. D66 is voorstander van het bindend correctief referendum. Dat is slechts een klein onderdeel van het grote geheel van participatie."
+        },
+        "114745": {
+          "position": "agree",
+          "explanation": "Voor zover de openbare orde dat toelaat zouden ondernemers zelf moeten kunnen beslissen over hun openingstijden."
+        },
+        "114748": {
+          "position": "disagree",
+          "explanation": "Het azc functioneert heel goed. Vooral ook door de Goudse Plus die we in Gouda hanteren."
+        },
+        "114752": {
+          "position": "disagree",
+          "explanation": "Er is ruimte voor een extra evenement op oudjaarsavond. Dat hoeft niet door de gemeente georganiseerd te worden, het hoeft ook geen vuurwerk te zijn."
+        },
+        "114757": {
+          "position": "disagree",
+          "explanation": "De regionale omroep krijgt subsidie vanuit provinciale middelen. We stellen geen verdere structurele subsidies beschikbaar."
+        },
+        "114759": {
+          "position": "disagree",
+          "explanation": "Allereerst is dit een verantwoordelijkheid van de ouders. Er is in het kader van gelijke kansen wel de mogelijkheid om dit vanuit de armoederegelingen te bekostigen."
+        },
+        "114763": {
+          "position": "disagree",
+          "explanation": "Cameratoezicht kan in enkele gevallen tijdelijk een oplossing bieden."
+        },
+        "114764": {
+          "position": "disagree",
+          "explanation": "Geweldsmonopolie ligt bij politieambtenaren."
+        },
+        "114766": {
+          "position": "agree",
+          "explanation": "Zoveel als mogelijk moeten sociale huurwoningen ten goede komen aan Goudse woningzoekenden."
+        },
+        "114768": {
+          "position": "agree",
+          "explanation": "Huidige zelfbewoningsverordening houden we in stand."
+        },
+        "114771": {
+          "position": "disagree",
+          "explanation": "We willen iedereen laten meedoen, dat kan op vele manieren; Alleen als iedereen kan meedoen voelt iedereen zich echt thuis."
+        },
+        "114773": {
+          "position": "disagree",
+          "explanation": "De Goudse grens is reeds zeer ruim in vergelijking met andere gemeenten."
+        },
+        "114776": {
+          "position": "agree",
+          "explanation": "We leggen nadruk op fietsen, lopen en ov. Waar mogelijk wordt de maximumsnelheid 30 km/u. Dat geldt voor alle woonwijken, doorgaande wegen binnen de bebouwde kom blijven 50 km/u."
+        },
+        "114778": {
+          "position": "disagree",
+          "explanation": "Er is een schaarste in zorgaanbieders. Kwaliteit van het aanbod is belangrijker dan de levensovertuiging van de aanbieder."
+        },
+        "114779": {
+          "position": "disagree",
+          "explanation": "Afwegingskader bevat kwaliteitseisen en een wens om een verantwoorde kostprijs te betalen. Prijs is daarbij belangrijk, maar niet leidend."
+        },
+        "114780": {
+          "position": "neither",
+          "explanation": "Er zijn initiatieven in de stad die dit verzorgen, uitbreiding daarvan lijkt niet noodzakelijk."
+        },
+        "114781": {
+          "position": "disagree",
+          "explanation": "De ozb mag niet sneller stijgen dan de inflatie. Voor verlaging is geen ruimte."
+        },
+        "114782": {
+          "position": "disagree",
+          "explanation": "We houden de hondenbelasting in stand. We maken ook structurele kosten om voorzieningen voor honden te realiseren en te onderhouden."
+        },
+        "114784": {
+          "position": "disagree",
+          "explanation": "Bestaande bedrijventerreinen zijn belangrijk. We houden ruimte voor Goudse ondernemers. Binnen Gouda is geen ruimte; we zetten in op regionale ontwikkelingen."
+        },
+        "114785": {
+          "position": "disagree",
+          "explanation": "We staan voor een liberaal winkeltijden-beleid. Ondernemers bepalen zoveel mogelijk hun eigen openingstijden en -dagen."
+        },
+        "114786": {
+          "position": "agree",
+          "explanation": "We moeten de voorrang kunnen blijven geven om de doorstroming vanuit de azc's te bevorderen."
+        },
+        "114788": {
+          "position": "agree",
+          "explanation": "We hebben in Gouda geen landbouwgrond..."
+        },
+        "114790": {
+          "position": "disagree",
+          "explanation": "Er is er al een. Daarnaast is er een wijkcentrum in Oosterwei, dat ook beschikbaar is voor Goverwelle."
+        },
+        "114792": {
+          "position": "agree",
+          "explanation": "Vooral buiten de binnenstad is de vestiging van een goed bereikbare coffeeshop gewenst. Verhuizing van een van de coffeeshops uit de binnenstad heeft een positieve werking op de verkeersveiligheid."
+        },
+        "114797": {
+          "position": "neither",
+          "explanation": "We hebben vooral behoefte aan meer flankerend beleid. Betere bezoekersregeling, betere voorzieningen rond de binnenstad, meer deelmobiliteit."
+        },
+        "114798": {
+          "position": "disagree",
+          "explanation": "Aantal hoeft niet per se omlaag, is geen doel op zich."
+        },
+        "114799": {
+          "position": "disagree",
+          "explanation": "We willen een autoluw centrum. Bewoners moeten hun huis gewoon kunnen bereiken."
+        },
+        "114800": {
+          "position": "disagree",
+          "explanation": "Onhaalbaar, onbetaalbaar, ongewenst. Dit is een absoluut luchtkasteel. De Cargill-fabriek is relatief groen, is een grote werkgever en het verplaatsen van een goedlopend bedrijf is onbetaalbaar."
+        },
+        "114801": {
+          "position": "disagree",
+          "explanation": "Voorlopig is de KW-weg nog onontbeerlijk als aan- en afvoerroute. We verbeteren de inrichting en brengen de snelheid omlaag. Zoals in het verkeerscirculatieplan staat omschreven."
+        },
+        "114803": {
+          "position": "disagree",
+          "explanation": "Het centrum is slechts zeer beperkt bevaarbaar. Daar waar het mogelijk is houden we bevaarbaarheid in stand of verbeteren we die. Het is een illusie dat de hele binnenstad bevaarbaar kan worden."
+        }
+      }
+    },
+    {
+      "id": 114719,
+      "name": "ChristenUnie",
+      "fullName": "ChristenUnie",
+      "website": "https://www.christenunie.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "114742": {
+          "position": "disagree",
+          "explanation": "De ChristenUnie vindt een referendum geen goed middel voor participatie. Wij kiezen voor brede participatie waarbij inwoners ook argumenten kunnen geven."
+        },
+        "114745": {
+          "position": "disagree",
+          "explanation": "De economie draait niet alleen om groei en consumeren, maar ook om kwaliteit van leven en de balans tussen werken, zorgen en rusten. Wij zien de zondag als collectief rustmoment. Daarom zijn wij geen voorstander van ruimere zondagsopenstelling van winkels en contractuele verplichting om open te zijn."
+        },
+        "114748": {
+          "position": "disagree",
+          "explanation": "De gemeente neemt verantwoordelijkheid bij de huisvesting van asielzoekers en houdt zich aan de spreidingswet. "
+        },
+        "114752": {
+          "position": "disagree",
+          "explanation": "De ChristenUnie vindt een vuurwerkshow niet de taak van de gemeente. Het is aan inwoners om hiervoor het initiatief te nemen."
+        },
+        "114757": {
+          "position": "agree",
+          "explanation": "De ChristenUnie staat op voor het versterken van de lokale omroep, als samenbindende factor en voor lokale journalistiek."
+        },
+        "114759": {
+          "position": "agree",
+          "explanation": "Alle kinderen in Gouda krijgen via de Brede School de kans om te sporten, een muziekinstrument te leren spelen en in aanraking te komen met kunst en cultuur. Kinderen uit gezinnen in armoede kunnen gratis of met korting deelnemen via de Rotterdampas"
+        },
+        "114763": {
+          "position": "agree",
+          "explanation": "Cameragebruik voor preventie en handhaving zien we als goede optie, als de privacy van onze inwoners gewaarborgd is."
+        },
+        "114764": {
+          "position": "disagree",
+          "explanation": "De ChristenUnie staat pal voor de veiligheid van boa's, maar kiest liever voor bewezen middelen die effect hebben op het gevoel van veiligheid van boa's."
+        },
+        "114766": {
+          "position": "agree",
+          "explanation": "De ChristenUnie staat op voor voorrang voor Goudse woningzoekenden."
+        },
+        "114768": {
+          "position": "agree",
+          "explanation": "We hebben in Gouda al een zelfbewoningsplicht, waar we mee ingestemd hebben."
+        },
+        "114771": {
+          "position": "agree",
+          "explanation": "Iedereen heeft talent gekregen om in te zetten voor de samenleving. Ook wie niet (meer) kan werken, wil vaak wél iets betekenen. De ChristenUnie ziet deze inzet en wil ruimte scheppen voor mensen om naar vermogen bij te dragen - via vrijwilligerswerk, mantelzorg of andere vormen van betrokkenheid."
+        },
+        "114773": {
+          "position": "disagree",
+          "explanation": "De ChristenUnie staat op voor het verder gaan met het Beleidskader armoede en schulden 2025-2029 – De cirkel doorbreken. Daarin ligt de grens op 130 procent van de inkomensgrens en dat is al hoog vergeleken met andere gemeentes."
+        },
+        "114776": {
+          "position": "agree",
+          "explanation": "Hoe hoger de snelheid, hoe groter het risico op letsel. In Gouda wordt gewerkt aan het verlagen van de maximumsnelheid naar 30 km/u, behalve op wegen met openbaar vervoer en verbindingswegen."
+        },
+        "114778": {
+          "position": "agree",
+          "explanation": "De ChristenUnie vindt het belangrijk dat er ondersteuning vanuit de Wmo beschikbaar blijft voor de echt kwetsbaren en publieke middelen zo effectief mogelijk worden ingezet. Daarbij kiezen we voor kwaliteit en keuzevrijheid."
+        },
+        "114779": {
+          "position": "disagree",
+          "explanation": "De ChristenUnie vindt het belangrijk dat er ondersteuning vanuit de jeugdhulp beschikbaar blijft voor de echt kwetsbaren en publieke middelen zo effectief mogelijk worden ingezet. Daarbij kiezen we voor kwaliteit en keuzevrijheid."
+        },
+        "114780": {
+          "position": "disagree",
+          "explanation": "De ChristenUnie is tegen het gratis verspreiden van menstruatieartikelen, maar is groot voorstander van hulp bij armoede. We zetten in op vroegsignalering, financiële zelfredzaamheid en steun voor gezinnen, kinderen en ouderen. Daarbij geven we gericht hulp en maatwerk."
+        },
+        "114781": {
+          "position": "disagree",
+          "explanation": "De ChristenUnie vindt dat de lokale belastingdruk inclusief de lokale heffingen met maximaal de inflatie mag stijgen. De lasten voor inwoners en ondernemers blijven zo laag mogelijk."
+        },
+        "114782": {
+          "position": "agree",
+          "explanation": "De hondenbelasting kan afgeschaft worden, omdat die niet doelmatig is."
+        },
+        "114784": {
+          "position": "disagree",
+          "explanation": "De ChristenUnie wil investeren in de modernisering en revitalisering van bestaande bedrijventerreinen."
+        },
+        "114785": {
+          "position": "agree",
+          "explanation": "Wij zijn geen voorstander van verdere verruiming van de zondagsopenstelling van winkels en contractuele verplichting voor ondernemers om op zondag open te zijn."
+        },
+        "114786": {
+          "position": "agree",
+          "explanation": "De gemeente neemt blijvend verantwoordelijkheid bij de huisvesting van asielzoekers met een verblijfsstatus en zet zich in om geschikte woonruimte te vinden."
+        },
+        "114788": {
+          "position": "disagree",
+          "explanation": "De Oostpolder moet groen blijven."
+        },
+        "114790": {
+          "position": "agree",
+          "explanation": "Deze wijk verdient een beter buurthuis en een upgrade van winkelcentrum Goverwelle."
+        },
+        "114792": {
+          "position": "disagree",
+          "explanation": "De ChristenUnie wil drugsgebruik niet normaliseren maar bestrijden. Nieuwe coffeeshops willen we daarom niet."
+        },
+        "114797": {
+          "position": "disagree",
+          "explanation": "Voor bewonersbezoek in de binnenstad moet een regeling komen. Het tarief voor straatparkeren hoeft niet omlaag."
+        },
+        "114798": {
+          "position": "disagree",
+          "explanation": "Er moet een parkeerplan komen voor de hele stad, in samenspraak met bewoners en ondernemers. Hierin wordt beschreven hoe voldoende parkeerplekken op de juiste locaties worden gerealiseerd."
+        },
+        "114799": {
+          "position": "disagree",
+          "explanation": "De binnenstad wordt autoluw: we willen minder geparkeerde auto’s langs de grachten en op straat. Dat is niet hetzelfde als autovrij, want de stad moet wel bereikbaar blijven."
+        },
+        "114800": {
+          "position": "disagree",
+          "explanation": "De gemeente kan daar niet zomaar over beslissen: Cargill is grondeigenaar en heeft vergunningen en rechten. Uitkopen kost meer geld dan Gouda heeft."
+        },
+        "114801": {
+          "position": "neither",
+          "explanation": "De Koningin Wilhelminaweg wordt heringericht. Daarna is de weg bij voorkeur alleen voor bestemmingsverkeer."
+        },
+        "114803": {
+          "position": "agree",
+          "explanation": "We willen graag een ‘Intieme vaarroute’ door de binnenstad, om Gouda beter vanaf het water te beleven."
+        }
+      }
+    },
+    {
+      "id": 114714,
+      "name": "Gouda Positief",
+      "fullName": "Gouda Positief",
+      "website": "https://goudapositief.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "114742": {
+          "position": "agree",
+          "explanation": "Wij zijn voorstander van een burgerberaad, dus meer aan de voorkant burgers meenemen. Een referendum kan zinvol zijn voor onderwerpen die eenvoudig met ja/nee beantwoord kunnen worden."
+        },
+        "114745": {
+          "position": "agree",
+          "explanation": "Wel binnen maximale tijden/grenstijden."
+        },
+        "114748": {
+          "position": "disagree",
+          "explanation": "We zijn tegen grootschalige opvang maar sluiten gaat ons te ver gezien de problematiek in de asielketen. Onze voorkeur gaat uit naar het gemengd gebruiken van de grote COA-opvang. Ook voor spoedzoekers."
+        },
+        "114752": {
+          "position": "neither",
+          "explanation": "Moeten niet, mogen wel. Lasershow is geprobeerd. Nu landelijk verbod ingaat bekijken of we financieel ruimte hiervoor kunnen vinden."
+        },
+        "114757": {
+          "position": "neither",
+          "explanation": "Indien de lokale omroep verdwijnt, dan wel overwegen om dit te doen."
+        },
+        "114759": {
+          "position": "disagree",
+          "explanation": "Er zijn hele goede lesmethodes beschikbaar zoals 1-2-3 ZIng waar leraren gebruik van kunnen maken. Lesprogramma zit wel vol en het hangt van het schoolbeleid af of er ruimte wordt gemaakt. Dat kan wel maar hangt ook af van de interesse van de leraren. Kortom, geen kwestie van geld maar keuzes maken en gebruik maken van wat er al is. Ook bij de brede school."
+        },
+        "114763": {
+          "position": "agree",
+          "explanation": "Ja. Zie ook problemen bij winkelcentrum Bloemendaal. Wordt steeds noodzakelijker."
+        },
+        "114764": {
+          "position": "agree",
+          "explanation": "Gezien de toenemende agressie in de samenleving naar mensen in functies als Boa's, politie, hulpverleners zijn we voor toestaan van het zichtbaar dragen van de wapenstok. Insteek blijft de-escaleren en niet gebruik ervan. Keuze eventueel bij Boa zelf neerleggen."
+        },
+        "114766": {
+          "position": "agree",
+          "explanation": "Is wenselijk, maar niet altijd mogelijk."
+        },
+        "114768": {
+          "position": "neither",
+          "explanation": "Door dit aan te houden zorg je ervoor dat particulieren niet meer mogen kunnen kopen, opknappen en verhuren. Een deel van de huurmarkt verdwijnt (middenhuur). Kortom, al dit soort maatregelen werken averechts en lossen het probleem van de woningschaarste niet op."
+        },
+        "114771": {
+          "position": "agree",
+          "explanation": "Binnen vermogen ja."
+        },
+        "114773": {
+          "position": "disagree",
+          "explanation": "Dit is al heel hoog in Gouda."
+        },
+        "114776": {
+          "position": "disagree",
+          "explanation": "Dat hangt van de plek af."
+        },
+        "114778": {
+          "position": "disagree",
+          "explanation": "Dit is niet te regelen."
+        },
+        "114779": {
+          "position": "disagree",
+          "explanation": "Prijs is belangrijk maar vooral de kwaliteit moet gemeten worden."
+        },
+        "114780": {
+          "position": "disagree",
+          "explanation": "Waar stopt t dan?"
+        },
+        "114781": {
+          "position": "agree",
+          "explanation": "In totale woonlasten opnemen en deze moeten omlaag. Gouda is enorm duur."
+        },
+        "114782": {
+          "position": "agree",
+          "explanation": "Ja. Zinloze belasting."
+        },
+        "114784": {
+          "position": "neither",
+          "explanation": "Vooral richten op verbeteren/verduurzamen van de huidige terreinen."
+        },
+        "114785": {
+          "position": "disagree",
+          "explanation": "Prima zo. We moeten wel bekijken of voldoende mensen op de koopzondagen afkomen."
+        },
+        "114786": {
+          "position": "agree",
+          "explanation": "De gemeente heeft het recht om een deel van de sociale woningvoorraad toe te wijzen. Dat lijkt op voorrang maar is het niet. Men heeft de verplichting om statushouders te huisvesten. We lopen hierop achter."
+        },
+        "114788": {
+          "position": "disagree",
+          "explanation": "In een volle en compacte stad als Gouda stimuleren wij zonnepanelen op daken van bedrijven en huizen. Geen kostbaar groen opofferen voor zonnepanelen. "
+        },
+        "114790": {
+          "position": "agree",
+          "explanation": "In principe in elke wijk een buurthuis."
+        },
+        "114792": {
+          "position": "disagree",
+          "explanation": "Wij willen het huidige aantal zo houden. Wel verplaatsen vanuit de binnenstad vanwege autoverkeer."
+        },
+        "114797": {
+          "position": "agree",
+          "explanation": "Nu is het onduidelijk waarom er zo’n groot verschil is tussen de tarieven. Deze zijn ook niet onderbouwd."
+        },
+        "114798": {
+          "position": "disagree",
+          "explanation": "Autobezit blijft groeiten, dus geen goede oplossing."
+        },
+        "114799": {
+          "position": "disagree",
+          "explanation": "Mooie gedachte, maar dan wel met meer parkeergelegenheid aan de randen van de binnenstad. Niet eerder kan autoluw gerealiseerd wordt. Autovrij is een nog grotere stap en niet aan te raden omdat in de binnenstad ook veel mensen wonen en leven."
+        },
+        "114800": {
+          "position": "disagree",
+          "explanation": "Dit is niet realistisch."
+        },
+        "114801": {
+          "position": "neither",
+          "explanation": "Als dat noodzakelijk is voor de veiligheid, en ook mogelijk is, is het wel te overwegen."
+        },
+        "114803": {
+          "position": "disagree",
+          "explanation": "Nee, dat is veel te duur en levert niets op voor de stad."
+        }
+      }
+    },
+    {
+      "id": 114725,
+      "name": "VVD",
+      "fullName": "Volkspartij voor Vrijheid en Democratie",
+      "website": "https://www.vvd.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "114742": {
+          "position": "disagree",
+          "explanation": "Het streven moet zijn om inwoners vooraf te betrekken bij plannen zodat zij meedenken over hun eigen leefomgeving. De gemeenteraad is er voor een volledige belangenafweging, zo'n afweging komt bij een referendum niet goed tot z'n recht."
+        },
+        "114745": {
+          "position": "agree",
+          "explanation": "Ja, deze ondernemingen moeten de vrije keuze hebben wanneer zij wel en niet open zijn. Enige kanttekening is dat de gemeente wel het belang van omwonenden en de openbare orde en veiligheid als randvoorwaarde stelt."
+        },
+        "114748": {
+          "position": "disagree",
+          "explanation": "Gouda heeft te voldoen aan de opdracht om asielzoekers op te vangen zoals genoemd in de spreidingswet. Wel is de VVD Gouda tegen grootschalige opvang en zien wij de hoge instroom van asielzoekers in Nederland als een probleem. Wanneer de mensen hier zijn, dienen ze menswaardig opgevangen te worden."
+        },
+        "114752": {
+          "position": "disagree",
+          "explanation": "Het kost de gemeente (en daarmee de inwoners) veel geld om een vuurwerkshow te organiseren voor een beperkte doelgroep. Er moet wel ruimte zijn voor initiatieven vanuit de samenleving/ondernemers."
+        },
+        "114757": {
+          "position": "neither",
+          "explanation": "De gemeente draagt al bij aan een lokale omroep. Extra geld is geen doel op zich. Wanneer een lokale omroep goede plannen heeft, kan hier altijd over in gesprek worden gegaan."
+        },
+        "114759": {
+          "position": "disagree",
+          "explanation": "Nee, muziekles is feitelijk culturele vorming en daarmee de verantwoordelijkheid van de ouders van basisschoolkinderen."
+        },
+        "114763": {
+          "position": "agree",
+          "explanation": "Ja, cameratoezicht kan gebruikt worden als verlengstuk van de diensten op straat, zo kan criminaliteit beter opgespoord en/of bewezen worden."
+        },
+        "114764": {
+          "position": "agree",
+          "explanation": "Ja, boa's komen steeds vaker voor situaties te staan waarbij zij te maken krijgen met zwaar geweld. De wapenstok kan daarbij zorgen voor meer verdedigingsmogelijkheden en een afschrikkende werking. Wel dienen hier strenge eisen en opleiding aan vast te zitten."
+        },
+        "114766": {
+          "position": "agree",
+          "explanation": "We zien dat Gouda een aantrekkelijke stad is. Dat betekent dat veel woningzoekenden naar Gouda komen. Hierdoor komen Gouwenaars die hier hun sociale netwerk hebben opgebouwd moeilijk aan een woning in Gouda. Daarom is voorrang voor hen belangrijk."
+        },
+        "114768": {
+          "position": "disagree",
+          "explanation": "Mensen die het eigendom van een woning hebben verkregen hebben het recht om daarover te beschikken. Met deze stelling kunnen bijvoorbeeld ouders die een woning kopen voor hun kinderen dit niet meer doen."
+        },
+        "114771": {
+          "position": "agree",
+          "explanation": "De bijstand is een sociale voorziening. We zijn er voor degene die dat nodig heeft. We mogen wel verwachten dat iemand naar kunnen kan bijdragen. De tegenprestatie is voor ons de norm; wie kan bijdragen, draagt bij."
+        },
+        "114773": {
+          "position": "disagree",
+          "explanation": "We stoppen met het hanteren van een eigen definitie van armoede en volgen het Nibud. De grens moet dus niet verder omhoog. Pas als inkomen, inclusief alle armoederegelingen waar iemand recht op heeft, onder de armoedegrens komt, is er sprake van armoede."
+        },
+        "114776": {
+          "position": "disagree",
+          "explanation": "Op doorgaande wegen kan prima 50 km/u gehanteerd (blijven) worden, wanneer bijvoorbeeld gebruik gemaakt wordt van gescheiden verkeersstromen. Op veel plekken komt de doorstroming niet in het geding bij 30 km/u, daar kan dit wel toegepast worden."
+        },
+        "114778": {
+          "position": "agree",
+          "explanation": "Sociale voorzieningen zijn er voor iedereen, met zorg die passend is bij de persoon of situatie. Het is niet de taak van de overheid om dat zorgaanbod te creëren, maar wel om de keuzevrijheid te beschermen."
+        },
+        "114779": {
+          "position": "disagree",
+          "explanation": "Bij inkoop van zorgdiensten staan de criteria kwaliteit, klanttevredenheid, (geen) wachtlijsten en oplossend vermogen centraal. Goede intake en passende zorg is uiteindelijk beter en betaalbaarder."
+        },
+        "114780": {
+          "position": "disagree",
+          "explanation": "Wanneer mensen als gevolg van armoede geen tampons of maandverband kunnen kopen, is de oplossing integraal onderdeel van de armoederegelingen. Gratis verstrekking van tampons en maandverband is geen proportionele maatregel."
+        },
+        "114781": {
+          "position": "agree",
+          "explanation": "De lokale lasten moeten omlaag, zo kan de Gouwenaar zelf bepalen hoe zij hij/zij het geld besteedt."
+        },
+        "114782": {
+          "position": "agree",
+          "explanation": "De hondenbelasting is nog steeds een belasting die weinig oplevert en ook nog eens oneerlijk is."
+        },
+        "114784": {
+          "position": "disagree",
+          "explanation": "Daar is simpelweg geen ruimte voor."
+        },
+        "114785": {
+          "position": "disagree",
+          "explanation": "Ondernemers moeten zelf kunnen bepalen of zij op zondag open willen zijn of niet. In Gouda hebben we geen koopzondagen meer, maar mogen ondernemers altijd open op zondag. Dat houden we graag zo."
+        },
+        "114786": {
+          "position": "disagree",
+          "explanation": "Vele Gouwenaars moeten jaren zoeken naar een woning. Het is dan heel onrechtvaardig als deze doelgroep daar voorrang op krijgt."
+        },
+        "114788": {
+          "position": "neither",
+          "explanation": "Voor de VVD Gouda is het essentieel dat er een betrouwbare energievoorziening staat. Het uitgangspunt daarbij is zon-op-dak. Als tijdelijke maatregel om de netcongestie op te vangen is zon-op-veld bespreekbaar."
+        },
+        "114790": {
+          "position": "disagree",
+          "explanation": "Buurthuizen hebben een maatschappelijke functie. In Goverwelle hebben we al 't Govertje. Een extra buurthuis heeft dan ook geen meerwaarde."
+        },
+        "114792": {
+          "position": "disagree",
+          "explanation": "De coffeeshops (en hun bezoekers) leveren structureel overlast op en zijn slecht voor de uitstraling van de stad; verkeersoverlast, intimidatie en een afgenomen veiligheidsgevoel. Daarom is sluiting altijd een reële optie, geen laatste redmiddel. Het aantal coffeeshops neemt dan ook niet toe."
+        },
+        "114797": {
+          "position": "agree",
+          "explanation": "In de omliggende wijken moet betaald parkeren kostendekkend zijn. De binnenstadbewoners worden daarmee onevenredig benadeeld. Ondernemers raken ook klanten kwijt. Verlaging van de parkeertarieven kan daarom ook in het centrum."
+        },
+        "114798": {
+          "position": "disagree",
+          "explanation": "Het autobezit stijgt, het zou zeer onverstandig zijn om het aantal parkeerplaatsen dan te verminderen. Mensen hebben een auto nodig, zorg dus dat zij kunnen parkeren."
+        },
+        "114799": {
+          "position": "disagree",
+          "explanation": "Autovrij en autoluw is niet hetzelfde. Een autoluwe binnenstad is onder voorwaarden mogelijk; goede logistiek en aantrekkelijk verblijfsklimaat. Autovrij is onhaalbaar en zou vernietigend zijn voor het ondernemersklimaat."
+        },
+        "114800": {
+          "position": "disagree",
+          "explanation": "Wanneer je een wijk tekent, zou je een fabriek niet op deze plek plaatsen. Hij staat er echter al lang, zorgt voor veel werkgelegenheid en verplaatsen zou een enorme kostenpost vormen."
+        },
+        "114801": {
+          "position": "disagree",
+          "explanation": "Met een aantal bedrijven die rond de Koningin Wilhelminaweg zijn gevestigd is het onhaalbaar een vrachtwagenverbod in te stellen. De bereikbaarheid van de west- en zuidzijde van Gouda zijn al kwetsbaar. Met deze maatregel wordt Gouda onbereikbaar."
+        },
+        "114803": {
+          "position": "neither",
+          "explanation": "Een doorvaarbare binnenstad is een mooi streven, maar niet tegen elke prijs. We kijken of we werkzaamheden kunnen combineren, maar daarbij bezien we wel of de besteding van overheidsmiddelen passend is."
+        }
+      }
+    },
+    {
+      "id": 114717,
+      "name": "Gemeentebelangen Gouda",
+      "fullName": "Gemeentebelangen Gouda",
+      "website": "https://www.gemeentebelangengouda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "114742": {
+          "position": "agree",
+          "explanation": "Gemeentebelangen Gouda vindt dat inwoners serieus betrokken moeten worden bij belangrijke besluiten. Instrumenten als referenda kunnen het draagvlak vergroten, mits duidelijk is waarover wordt beslist en wat er met de uitkomst gebeurt."
+        },
+        "114745": {
+          "position": "neither",
+          "explanation": "Ondernemers verdienen ruimte, maar openingstijden vragen ook afstemming qua leefbaarheid en veiligheid. Gemeentebelangen Gouda kiest voor maatwerk per gebied, in overleg met ondernemers en omwonenden, niet voor volledig loslaten of strikte regels."
+        },
+        "114748": {
+          "position": "disagree",
+          "explanation": "Gemeentebelangen Gouda kiest voor verantwoordelijkheid en realisme. Opvang is een wettelijke en maatschappelijke taak. Wel moet opvang tijdelijk, beheersbaar en goed georganiseerd zijn, met oog voor draagvlak en leefbaarheid in de omgeving."
+        },
+        "114752": {
+          "position": "neither",
+          "explanation": "Gemeentebelangen Gouda staat open voor alternatieven rond oud en nieuw, zeker nu er een algeheel vuurwerkverbod geldt. Een gemeentelijke vuurwerkshow is geen vanzelfsprekendheid. Keuzes hierover vragen afweging van kosten, veiligheid, overlast en draagvlak onder inwoners."
+        },
+        "114757": {
+          "position": "neither",
+          "explanation": "Een sterke lokale omroep is belangrijk voor informatie en democratie. Extra steun kan, mits doelgericht en transparant, maar vraagt een zorgvuldige afweging van publieke middelen en duidelijke afspraken over onafhankelijkheid en meerwaarde."
+        },
+        "114759": {
+          "position": "neither",
+          "explanation": "Muziek en cultuur zijn belangrijk voor ontwikkeling, maar een algemene subsidie voor ieder kind is niet vanzelfsprekend. Gemeentebelangen Gouda kiest voor gerichte ondersteuning, zodat kinderen uit gezinnen met een smalle beurs wel kunnen meedoen."
+        },
+        "114763": {
+          "position": "neither",
+          "explanation": "Cameratoezicht kan helpen op specifieke probleemlocaties, maar is geen doel op zich. Gemeentebelangen Gouda kiest voor gerichte inzet waar nodig, met duidelijke onderbouwing, tijdelijke toepassing en aandacht voor privacy."
+        },
+        "114764": {
+          "position": "neither",
+          "explanation": "Veilig werken voor boa’s is belangrijk, maar bewapening vraagt zorgvuldige afweging. Gemeentebelangen Gouda kiest voor maatwerk, goede training en samenwerking met politie, niet voor een generieke invoering van wapenstokken."
+        },
+        "114766": {
+          "position": "neither",
+          "explanation": "Gemeentebelangen Gouda wil bouwen voor mensen met binding aan Gouda, maar binnen wettelijke kaders. Lokale voorrang an waar toegestaan, zonder uitsluiting of tweedeling, met oog voor kwetsbare groepen en regionale afspraken."
+        },
+        "114768": {
+          "position": "agree",
+          "explanation": "De woningmarkt is bedoeld om in te wonen, niet om mee te speculeren. Gemeentebelangen Gouda steunt zelfbewoningsplicht om woningen beschikbaar te houden voor inwoners en starters en om prijsopdrijving tegen te gaan."
+        },
+        "114771": {
+          "position": "neither",
+          "explanation": "Meedoen is belangrijk, maar verplicht werken mag geen dwang of straf zijn. Gemeentebelangen Gouda kiest voor maatwerk en activering naar vermogen, met begeleiding en passend werk, niet voor een generieke verplichting."
+        },
+        "114773": {
+          "position": "agree",
+          "explanation": "Steeds meer mensen met een laag tot middeninkomen komen financieel in de knel. Gemeentebelangen Gouda wil dat hulp beter aansluit bij de praktijk, zodat ondersteuning ook bereikbaar is voor werkenden die net buiten de huidige grenzen vallen."
+        },
+        "114776": {
+          "position": "neither",
+          "explanation": "30 km/u kan de veiligheid vergroten, maar niet elke weg is daarvoor geschikt. Gemeentebelangen Gouda kiest voor maatwerk per straat en wijk, gebaseerd op veiligheid, inrichting en draagvlak, niet voor een generieke verlaging."
+        },
+        "114778": {
+          "position": "neither",
+          "explanation": "Keuzevrijheid en passende zorg zijn belangrijk, maar ‘altijd’ is niet realistisch. Gemeentebelangen Gouda wil dat zorg zoveel mogelijk aansluit bij iemands achtergrond, binnen wat praktisch en organisatorisch haalbaar is."
+        },
+        "114779": {
+          "position": "disagree",
+          "explanation": "Bij jeugdhulp moet kwaliteit vooropstaan. Gemeentebelangen Gouda vindt dat prijs nooit leidend mag zijn boven deskundigheid en effectiviteit. Goedkope zorg die niet werkt leidt tot grotere problemen en hogere kosten later."
+        },
+        "114780": {
+          "position": "agree",
+          "explanation": "Menstruatiearmoede mag geen belemmering zijn om mee te doen. Gemeentebelangen Gouda steunt gratis verstrekking op toegankelijke plekken, als onderdeel van armoedebeleid en gelijke kansen voor iedereen."
+        },
+        "114781": {
+          "position": "agree",
+          "explanation": "Gouda kent relatief hoge woonlasten. Gemeentebelangen Gouda wil deze lasten verlagen en vindt dat de ozb maximaal met inflatie mag stijgen, zodat wonen betaalbaar blijft voor inwoners en ondernemers."
+        },
+        "114782": {
+          "position": "agree",
+          "explanation": "Hondenbelasting is een oneerlijke lastenverzwaring zonder duidelijke tegenprestatie. Gemeentebelangen Gouda wil lokale lasten verlagen en kiest voor een schone openbare ruimte via goed beleid en handhaving, niet via een aparte belasting."
+        },
+        "114784": {
+          "position": "neither",
+          "explanation": "Werkgelegenheid is belangrijk, maar ruimte is schaars. Gemeentebelangen Gouda kiest voor zorgvuldig omgaan met ruimte: eerst beter benutten en verduurzamen van bestaande bedrijventerreinen, uitbreiding alleen als dit echt nodig en passend is."
+        },
+        "114785": {
+          "position": "neither",
+          "explanation": "Koopzondagen vragen om balans tussen ondernemersbelang, keuzevrijheid en rustmomenten. Gemeentebelangen Gouda kiest voor maatwerk en overleg met ondernemers en inwoners, niet voor het standaard uitbreiden of beperken van koopzondagen."
+        },
+        "114786": {
+          "position": "neither",
+          "explanation": "Gemeentebelangen Gouda erkent wettelijke verplichtingen, maar wil geen scheve verhoudingen op de woningmarkt. Voorrang kan waar nodig, binnen de wet en met oog voor draagvlak, schaarste en gelijke behandeling van woningzoekenden."
+        },
+        "114788": {
+          "position": "neither",
+          "explanation": "Zonne-energie is belangrijk, maar landbouwgrond is schaars. Gemeentebelangen Gouda kiest voor zorgvuldig maatwerk: eerst daken en verstoorde locaties benutten en alleen bij hoge uitzondering (beperkte) landbouwgrond, met duidelijke voorwaarden en lokaal draagvlak."
+        },
+        "114790": {
+          "position": "neither",
+          "explanation": "Buurthuizen zijn belangrijk voor ontmoeting en samenhang, maar nieuwbouw is geen doel op zich. Gemeentebelangen Gouda kiest voor maatwerk: eerst kijken naar benutting en versterking van bestaande voorzieningen, in overleg met bewoners."
+        },
+        "114792": {
+          "position": "neither",
+          "explanation": "Coffeshopbeleid vraagt om zorgvuldige afweging. Gemeentebelangen Gouda kiest voor beheersing, veiligheid en leefbaarheid. Nieuwe vestiging is alleen bespreekbaar als dit aantoonbaar bijdraagt aan controle, spreiding en draagvlak in de omgeving."
+        },
+        "114797": {
+          "position": "agree",
+          "explanation": "Betaalbaar parkeren houdt het centrum bereikbaar voor inwoners en bezoekers. Gemeentebelangen Gouda wil parkeertarieven eerlijker en beter onderbouwd maken, zodat het centrum levendig en toegankelijk blijft."
+        },
+        "114798": {
+          "position": "disagree",
+          "explanation": "In veel wijken is de parkeerdruk al hoog. Gemeentebelangen Gouda vindt dat het verminderen van parkeerplaatsen de leefbaarheid schaadt. Mobiliteitsbeleid vraagt maatwerk en realistische keuzes, geen generieke vermindering."
+        },
+        "114799": {
+          "position": "neither",
+          "explanation": "Een leefbaar centrum is belangrijk, maar volledig autovrij gaat te ver. Gemeentebelangen Gouda kiest voor maatwerk: goede bereikbaarheid voor bewoners, ondernemers en bezoekers, met gerichte autoluwe maatregelen waar dat werkt (mét draagvlak)."
+        },
+        "114800": {
+          "position": "neither",
+          "explanation": "De vestiging van Cargill vraagt een zorgvuldige afweging tussen werkgelegenheid, leefbaarheid en milieu. Gemeentebelangen Gouda kiest voor overleg en maatwerk. Verplaatsing is geen doel op zich, maar kan alleen bij realistische alternatieven."
+        },
+        "114801": {
+          "position": "neither",
+          "explanation": "Verkeersveiligheid en leefbaarheid zijn belangrijk, maar een totaalverbod vraagt zorgvuldige afweging. Gemeentebelangen Gouda kiest voor maatwerk: weren waar nodig, met duidelijke alternatieve routes en oog voor bereikbaarheid van bedrijven."
+        },
+        "114803": {
+          "position": "agree",
+          "explanation": "Goede doorvaart is belangrijk voor recreatie, toerisme en het gebruik van de stadsgrachten. Gemeentebelangen Gouda wil dat bruggen en waterwegen goed onderhouden en waar mogelijk bevaarbaar blijven, met oog voor veiligheid en erfgoed."
+        }
+      }
+    },
+    {
+      "id": 114718,
+      "name": "CDA",
+      "fullName": "Christen-Democratisch Appèl",
+      "website": "https://www.cda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "114742": {
+          "position": "disagree",
+          "explanation": "Een referendum is duur, heeft in veel gevallen een lage opkomst en dreigt complexe thema's te versimpelen. CDA Gouda wil inwoners voor de besluitvorming actief betrekken bij belangrijke besluiten, maar niet via een referendum."
+        },
+        "114745": {
+          "position": "disagree",
+          "explanation": "Gouda heeft volgens het CDA op dit moment goede openings- en sluitingstijden."
+        },
+        "114748": {
+          "position": "disagree",
+          "explanation": "Iedereen wil dat de enorme chaos in de asielopvang stopt. Sluiting van het azc zou die chaos vergroten. Daarnaast is de Goudse 'Iedereen doet mee'-aanpak zeer succesvol gebleken."
+        },
+        "114752": {
+          "position": "disagree",
+          "explanation": "Het is geen taak van de gemeente om evenementen en shows te organiseren. Wel vindt het CDA dat de gemeente initiatieven vanuit de samenleving kan helpen met het verlenen van vergunningen en het geven van subsidies."
+        },
+        "114757": {
+          "position": "agree",
+          "explanation": "De lokale omroep vervult een belangrijke rol door verbinding te leggen tussen Gouwenaren en de gebeurtenissen in de stad."
+        },
+        "114759": {
+          "position": "disagree",
+          "explanation": "CDA Gouda vindt het te ver gaan om de muziekles van alle kinderen te subsidiëren. Als ouders de muziekles voor hun kind niet kunnen betalen, dan heeft de gemeente hiervoor een goede regeling met het Kindpakket."
+        },
+        "114763": {
+          "position": "agree",
+          "explanation": "We willen een veilige stad, voldoende camera's helpen daarbij."
+        },
+        "114764": {
+          "position": "agree",
+          "explanation": "We willen de veiligheid van de boa's bevorderen, pepperspray, wapenstok en bodycam helpen daarbij."
+        },
+        "114766": {
+          "position": "agree",
+          "explanation": "We vinden het belangrijk dat Gouwenaars die een woning zoeken in Gouda kunnen blijven wonen. Daarom vindt CDA Gouda dit een goed idee."
+        },
+        "114768": {
+          "position": "neither",
+          "explanation": "Zolang het niet ten koste gaat van de beschikbare woonruimte is dit voor CDA Gouda geen probleem. Dat is anders als iemand een huis koopt om dat bijvoorbeeld te verhuren als Airbnb. Dat wil het CDA wel tegengaan."
+        },
+        "114771": {
+          "position": "agree",
+          "explanation": "Dit helpt de samenleving. En het helpt mensen met een uitkering om zinvol bezig te blijven, wat bij kan dragen aan het vinden van een betaalde baan."
+        },
+        "114773": {
+          "position": "disagree",
+          "explanation": "De inkomensgrens die nu gehanteerd wordt is goed. Want het CDA vindt het belangrijk dat werken loont. Het verhogen van deze grens zorgt ervoor dat de prikkel om te werken afneemt. En dat is niet de bedoeling."
+        },
+        "114776": {
+          "position": "agree",
+          "explanation": "Het CDA vindt verkeersveiligheid in buurten en bijvoorbeeld bij scholen en sportverenigingen heel belangrijk. Daar is 30 km/u een goed idee. De toegangswegen en hoofdwegen kunnen 50 km/u blijven. Dat zorgt voor een goede bereikbaarheid en doorstroming van het autoverkeer."
+        },
+        "114778": {
+          "position": "disagree",
+          "explanation": "Het CDA wil de zorg, ook in de toekomst, betaalbaar en toegankelijk houden. Als inwoners voor elke zorg altijd het recht hebben zelf hun zorgverlener te kiezen, dan zorgt dat voor hogere kosten. Daarom vindt CDA Gouda dit geen goed idee."
+        },
+        "114779": {
+          "position": "disagree",
+          "explanation": "Natuurlijk vindt het CDA de prijs ook belangrijk, want we willen de zorg betaalbaar en toegankelijk houden. Maar het belangrijkste is dat mensen die zorg nodig hebben, snel passende hulp krijgen. Dat is belangrijker dan alleen de prijs."
+        },
+        "114780": {
+          "position": "disagree",
+          "explanation": "Gouda heeft een evenwichtig stelsel voor hulp bij armoede, daar kan menstruatiearmoede mee geholpen worden."
+        },
+        "114781": {
+          "position": "agree",
+          "explanation": "Het CDA is altijd voor lagere belastingen als dit mogelijk is."
+        },
+        "114782": {
+          "position": "disagree",
+          "explanation": "De opbrengst wordt gebruikt om de kosten van het hondenpoepbeleid (zoals het aanleggen van uitlaatveldjes en het aanbieden van hondenpoepzakjes) te dekken. Daarvoor is deze belasting noodzakelijk."
+        },
+        "114784": {
+          "position": "disagree",
+          "explanation": "Binnen de gemeentegrenzen is geen plek meer voor extra bedrijfsterreinen. Wel stimuleren we optimaal gebruik van bedrijventerreinen."
+        },
+        "114785": {
+          "position": "disagree",
+          "explanation": "Het aantal koopzondagen lijkt nu optimaal voor zowel ondernemers als inwoners."
+        },
+        "114786": {
+          "position": "agree",
+          "explanation": "Als een vluchteling een verblijfstatus heeft, is vastgesteld dat de vlucht noodzakelijk was. Voor doorstroming van het azc is snelle huisvesting noodzakelijk. Doordat vluchtelingen geen rechten konden opbouwen door jarenlang ingeschreven te staan, moeten ze wel voorrang krijgen."
+        },
+        "114788": {
+          "position": "disagree",
+          "explanation": "Gouda heeft zelf geen geschikte landbouwgrond. In de regio zou dit wel een goed idee kunnen zijn. In Gouda kan de gemeente beter nog meer inzetten op zonnepanelen op daken."
+        },
+        "114790": {
+          "position": "agree",
+          "explanation": "Een goed idee! Buurthuizen zijn belangrijke ontmoetingsplekken voor inwoners."
+        },
+        "114792": {
+          "position": "disagree",
+          "explanation": "Er zijn in Gouda voldoende coffeeshops."
+        },
+        "114797": {
+          "position": "neither",
+          "explanation": "De binnenstad moet ook aantrekkelijk blijven voor bezoekers met de auto. Daarom moet het parkeren niet te duur worden. Tegelijkertijd wil het CDA een autoluwe binnenstad. Parkeren op straat moet daarom ook niet goedkoper worden. Wel zijn er extra parkeergarages en -terreinen nodig."
+        },
+        "114798": {
+          "position": "disagree",
+          "explanation": "Buiten het centrum is het openbaar vervoer minder goed. Inwoners in de wijken zijn meer aangewezen op een eigen auto. De gemeente moet zorgen voor voldoende parkeerplaatsen. Het CDA wil inwoners niet 'pesten' door schaarste aan parkeerruimte te creëren."
+        },
+        "114799": {
+          "position": "disagree",
+          "explanation": "CDA Gouda is voor een autoluw centrum, niet autovrij. Om de binnenstad bereikbaar te houden voor iedereen."
+        },
+        "114800": {
+          "position": "disagree",
+          "explanation": "Dit is financieel onhaalbaar; we zijn een realistische partij, geen luchtfietsers. Bovendien is Cargill vergroeit met Gouda. De wijk Korte Akkeren is ooit gebouwd voor werknemers. En nog steeds draagt Cargill fors bij aan werkgelegenheid in Gouda."
+        },
+        "114801": {
+          "position": "disagree",
+          "explanation": "Deze weg wordt ook gebruikt voor belangrijke bedrijven die afhankelijk zijn van vrachtverkeer. Voor de economische aantrekkelijkheid van Gouda en voor de bereikbaarheid van onze bedrijven kan de Koningin Wilhelminaweg niet worden verboden voor vrachtwagens."
+        },
+        "114803": {
+          "position": "disagree",
+          "explanation": "Dit is een romantisch plan, waarvan de kosten wat het CDA betreft te hoog zijn."
+        }
+      }
+    },
+    {
+      "id": 114723,
+      "name": "SGP",
+      "fullName": "Staatkundig Gereformeerde Partij",
+      "website": "https://sgp.nl/home",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "114742": {
+          "position": "disagree",
+          "explanation": "Wij zijn trots op de vertegenwoordigende democratie waarbij raadsleden alle aspecten afwegen en niet op slechts één onderwerp."
+        },
+        "114745": {
+          "position": "disagree",
+          "explanation": "Het is niet gezond als cafés de halve nacht open zouden zijn. Ook hecht de SGP sterk aan de zondagsrust."
+        },
+        "114748": {
+          "position": "disagree",
+          "explanation": "Het omlaag brengen van de instroom van asielzoekers is landelijk beleid. Echte politieke vluchtelingen blijven welkom. Ook Gouda heeft een verantwoordelijkheid om haar deel bij te dragen."
+        },
+        "114752": {
+          "position": "disagree",
+          "explanation": "Oneens, dit is geen taak van de overheid."
+        },
+        "114757": {
+          "position": "disagree",
+          "explanation": "De huidige subsidie moet blijven. Laten we de vrijwilligers blijven koesteren."
+        },
+        "114759": {
+          "position": "disagree",
+          "explanation": "Hoewel muziekles heel belangrijk en vormend is, is dit geen primaire taak van de overheid."
+        },
+        "114763": {
+          "position": "agree",
+          "explanation": "Overlast, intimidatie en vandalisme behoren tot de grote irritaties van veel Gouwenaars. Camera's vergroten de sociale veiligheid. Burgers die zich fatsoenlijk gedragen, hebben niets te vrezen van camera's."
+        },
+        "114764": {
+          "position": "agree",
+          "explanation": "De rol van boa's is aan het veranderen. Eenvoudige taken waar de politie niet aan toekomt kunnen worden overgenomen door boa's. Deze nieuwe rol vraagt ook goede opleiding en vaardigheden."
+        },
+        "114766": {
+          "position": "agree",
+          "explanation": "De realisatie van sociale huurwoningen kost de Goudse belastingbetaler veel geld. Het is dan ook logisch dat woningzoekenden uit de eigen gemeente voorrang krijgen. Wat de SGP betreft gaat het dan om 50 procent van de woningzoekenden uit Gouda."
+        },
+        "114768": {
+          "position": "agree",
+          "explanation": "Het is belangrijk om dit te doen, gezien de grote woningnood. Ook directe familie mag er in gaan wonen."
+        },
+        "114771": {
+          "position": "agree",
+          "explanation": "De SGP is altijd groot voorstander van zo'n tegenprestatie. Bovendien worden mensen geactiveerd en keren daardoor makkelijker terug in het arbeidsproces."
+        },
+        "114773": {
+          "position": "disagree",
+          "explanation": "Inkomenspolitiek behoort toe aan de landelijke overheid. Er zijn allerlei fiscale regelingen. Het plaatselijk verhogen van de inkomensgrens leidt ertoe dat mensen erop achteruitgaan als ze een baan vinden."
+        },
+        "114776": {
+          "position": "disagree",
+          "explanation": "Dat moet niet overal. Alleen op de plekken waar dat nodig is en waar de straatinrichting daarop is aangepast."
+        },
+        "114778": {
+          "position": "agree",
+          "explanation": "Het is heel belangrijk dat mensen kunnen kiezen voor identiteitsgebonden zorg die zoveel mogelijk aansluit bij de levensovertuiging."
+        },
+        "114779": {
+          "position": "agree",
+          "explanation": "De prijs is een heel belangrijk criterium. Tegelijk moet er wel keuzevrijheid blijven voor identiteitsgebonden zorg."
+        },
+        "114780": {
+          "position": "disagree",
+          "explanation": "Dit is geen taak van de overheid. Het gratis verspreiden van voedsel is dat ook niet."
+        },
+        "114781": {
+          "position": "agree",
+          "explanation": "De woonlasten in Gouda behoren tot de hoogste van Nederland. Ook in de achterliggende jaren is de ozb drastisch verhoogd. Het is tijd voor ander beleid!"
+        },
+        "114782": {
+          "position": "agree",
+          "explanation": "De kosten van inning en controle van de hondenbelasting staan niet in verhouding tot de inkomsten. Het dient ook geen doel."
+        },
+        "114784": {
+          "position": "disagree",
+          "explanation": "De vraag naar woningen is momenteel hoger dan naar bedrijventerreinen. Tegelijkertijd is de SGP voorstander van het binnenhalen van nieuwe bedrijven, dus er moet wel ruimte voor bedrijven blijven."
+        },
+        "114785": {
+          "position": "agree",
+          "explanation": "Zeer eens! De 24-uurs economie maakt de samenleving overspannen. Eén dag rust is goed voor iedereen. Vanuit onze overtuiging is de zondag een dag van bezinning en lofprijzing."
+        },
+        "114786": {
+          "position": "disagree",
+          "explanation": "Al jaren probeert de SGP dit te wijzigen in de Huisvestingsverordening. Het is niet uit te leggen dat statushouders voorrang krijgen boven iemand die acuut het huis uit moet vanwege huiselijk geweld."
+        },
+        "114788": {
+          "position": "disagree",
+          "explanation": "Dat is heel onverstandig. Bovendien zijn er heel veel daken (woningen en bedrijven) die nog leeg zijn."
+        },
+        "114790": {
+          "position": "disagree",
+          "explanation": "Gouda's oppervlakte is zodanig dat dit niet in elke wijk hoeft. Dat kost onnodig veel overheidsgeld."
+        },
+        "114792": {
+          "position": "disagree",
+          "explanation": "Integendeel. De coffeeshops in de binnenstad moeten juist gesloten worden. Ze leiden tot veel overlast door onder andere hardrijdende auto's. De SGP is voor een uitsterfbeleid van alle coffeeshops in Gouda."
+        },
+        "114797": {
+          "position": "agree",
+          "explanation": "De hoogte van de vergunningen en de tarieven van het straatparkeren zijn onevenredig hoog. Dit beleid is zeer nadelig voor de eigen inwoners en ondernemers."
+        },
+        "114798": {
+          "position": "disagree",
+          "explanation": "Het weghalen van parkeerplaatsen in de wijken leidt tot grote frustratie en leidt alleen maar tot meer uitstoot vanwege het zoeken naar een parkeerplek."
+        },
+        "114799": {
+          "position": "disagree",
+          "explanation": "Autovrij is heel rigide. De SGP is wel voor het autoluw maken van de binnenstad, mits er voor de bewoners voldoende alternatieve parkeerplaatsen zijn."
+        },
+        "114800": {
+          "position": "disagree",
+          "explanation": "Cargill is een belangrijke werkgever in Gouda. Er is geen alternatieve locatie en verplaatsing zou ook miljoenen kosten. Dat is onhaalbaar."
+        },
+        "114801": {
+          "position": "disagree",
+          "explanation": "De weg moet wel veiliger ingericht worden voor fietsers."
+        },
+        "114803": {
+          "position": "agree",
+          "explanation": "Gouda heeft zich te lang afgekeerd van het water. Dat moet anders. De SGP zet zich al jaren in voor de 'intieme vaarroute', evenals het openen van de Havensluis. Bij onze cultuurhistorische stad is het water onmisbaar."
+        }
+      }
+    },
+    {
+      "id": 114722,
+      "name": "PvdD",
+      "fullName": "Partij voor de Dieren",
+      "website": "https://www.partijvoordedieren.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "114742": {
+          "position": "agree",
+          "explanation": "De Partij voor de Dieren ondersteunt directe inspraak van inwoners. Zij wil het raadgevend referendum invoeren voor belangrijke besluiten (zoals grote projecten of herindeling) (Hoofdstuk 10.1)."
+        },
+        "114745": {
+          "position": "disagree",
+          "explanation": "De Partij voor de Dieren wil dat openingstijden onderdeel blijven van de vergunningverlening zodat er rekening wordt gehouden met omwonenden en het beperken van geluidsoverlast (Hoofdstuk 4.6)."
+        },
+        "114748": {
+          "position": "disagree",
+          "explanation": "Partij voor de Dieren heet vluchtelingen welkom. Ze vindt dat Gouda opvang moet blijven bieden en zet in op kleinschalige, humane opvang in de gemeente, gericht op meedoen (Hoofdstuk 6.2)."
+        },
+        "114752": {
+          "position": "disagree",
+          "explanation": "De Partij voor de Dieren is tegen vuurwerkoverlast vanwege de impact op dieren, gezondheid en hulpverleners. Ze steunt een verbod op consumentenvuurwerk en wil geen vuurwerk bij evenementen om mens en dier te ontzien, ook geen centrale show (Hoofdstuk 4.6)."
+        },
+        "114757": {
+          "position": "agree",
+          "explanation": "De Partij voor de Dieren ziet een sterke lokale omroep als basis voor een gezonde democratie. Onafhankelijke berichtgeving over de stad mag niet afhankelijk zijn van reclame en bezuinigingen. (Hoofdstuk 10.1)"
+        },
+        "114759": {
+          "position": "agree",
+          "explanation": "De Partij voor de Dieren vindt dat de gemeente investeert in de brede ontwikkeling van kinderen op scholen, daarbij hoort sport, muziekles en duurzaamheidsonderwijs (Hoofdstuk 9.1)."
+        },
+        "114763": {
+          "position": "disagree",
+          "explanation": "Cameratoezicht biedt slechts schijnveiligheid en lost de kern van onveiligheid niet op. De Partij voor de Dieren is terughoudend met cameratoezicht vanwege de inbreuk op privacy. Plaatsen van camera's is alleen tijdelijk toegestaan en onder strikte voorwaarden (Hoofdstuk 10.3)."
+        },
+        "114764": {
+          "position": "disagree",
+          "explanation": "Partij voor de Dieren wil minder harde middelen (repressie) en meer preventie en jongerenwerk. Zwaardere bewapening van boa’s past daar niet bij (Hoofdstuk 8.5)."
+        },
+        "114766": {
+          "position": "disagree",
+          "explanation": "Partij voor de Dieren vindt dat iedereen recht heeft op een woning, ongeacht waar je vandaan komt. We willen voorrang voor kwetsbare groepen, op basis van noodzaak in plaats van afkomst, om uitsluiting te voorkomen (Hoofdstuk 5.1)."
+        },
+        "114768": {
+          "position": "agree",
+          "explanation": "Om speculatie en leegstand te voorkomen wil de Partij voor de Dieren een zelfbewoningsplicht invoeren. Kopers moeten er zelf gaan wonen in plaats van de woning alleen te verhuren. Hierdoor stijgen prijzen van huizen minder hard (Hoofdstuk 5.1)."
+        },
+        "114771": {
+          "position": "disagree",
+          "explanation": "De dwingende Participatiewet wordt afgewezen. Vrijwilligerswerk mag worden gewaardeerd, maar niet verplicht in ruil voor een uitkering. De persoon staat centraal (Hoofdstuk 4.9 en 4.10)."
+        },
+        "114773": {
+          "position": "agree",
+          "explanation": "Partij voor de Dieren wil de inkomensgrens verhogen naar 130 procent van het sociaal minimum voor armoederegelingen. Daardoor komen méér mensen met een laag inkomen in aanmerking voor ondersteuning, kunnen ze een kleine buffer opbouwen en voorkom je een 'armoedeval' (Hoofdstuk 4.9)."
+        },
+        "114776": {
+          "position": "agree",
+          "explanation": "De Partij voor de Dieren zet in op verkeersveiligheid en schone lucht. Ze wil standaard 30 km/u in de bebouwde kom (en 15 km/u in woonerven en bij scholen), en past de weginrichting daarop aan (Hoofdstuk 7.1)."
+        },
+        "114778": {
+          "position": "agree",
+          "explanation": "Partij voor de Dieren hecht aan zorg op maat. Zorgverleners en opvanglocaties dienen rekening te houden met de achtergrond, identiteit en levensstijl van cliënten, zodat iedereen zich veilig en begrepen voelt in de zorg (Hoofdstuk 8)."
+        },
+        "114779": {
+          "position": "disagree",
+          "explanation": "Bij de Partij voor de Dieren staat kwaliteit voorop bij jeugdzorg: het terugdringen van overbelasting van werknemers, de wachtlijsten voor patiënten en het bieden van passende zorg voor jongeren is belangrijk, niet het goedkoopste aanbod (Hoofdstuk 8)."
+        },
+        "114780": {
+          "position": "agree",
+          "explanation": "Partij voor de Dieren vindt dat basisbehoeften voor iedereen toegankelijk moeten zijn. Het gratis uitdelen van tampons en maandverband past binnen de visie van de partij (Hoofdstuk 4.9)."
+        },
+        "114781": {
+          "position": "disagree",
+          "explanation": "Gouda moet juist blijven investeren in een prettige stad voor mens, dier en natuur; ozb-verlaging zou deze zorg en ambities ondermijnen (Hoofdstuk 10.2)."
+        },
+        "114782": {
+          "position": "agree",
+          "explanation": "Partij voor de Dieren wil de oneerlijke hondenbelasting schrappen. Totdat het zover is, bepaalt ze dat de opbrengst uitsluitend wordt besteed aan hondenvoorzieningen en niet in de algemene kas verdwijnt (Hoofdstuk 2.3)."
+        },
+        "114784": {
+          "position": "disagree",
+          "explanation": "Partij voor de Dieren ziet meer heil in herstructurering dan in uitbreiding. Verouderde of hinderlijke bedrijventerreinen wil ze circulair en schoon maken of omvormen tot woonwijken/groen, in plaats van nieuwe terreinen aanleggen (Hoofdstuk 4.2)."
+        },
+        "114785": {
+          "position": "neither",
+          "explanation": "Partij voor de Dieren is kritisch op overmatige consumptie en ziet de stad als meer dan een winkelcentrum. Rust en leefbaarheid zijn belangrijk. Minder winkeldagen past bij hun wens om consumptie en de druk op de stad te verminderen, maar dit hoeft niet op de zondag plaats te vinden (Hoofdstuk 4.1)."
+        },
+        "114786": {
+          "position": "agree",
+          "explanation": "Partij voor de Dieren staat achter het huidige beleid om statushouders te huisvesten. Ze wil voorkomen dat vluchtelingen tegenover andere woningzoekenden worden gezet door voldoende betaalbare woningen te realiseren, maar verzet zich niet tegen voorrang voor deze groep (Hoofdstuk 6.2)."
+        },
+        "114788": {
+          "position": "disagree",
+          "explanation": "Partij voor de Dieren wil eerst zonnepanelen op alle daken, dan bermen en als laatste optie landbouwgrond. Landbouwgrond is bedoeld voor voedselproductie, natuur of eventueel woningbouw na krimp van de veehouderij (Hoofdstuk 1.5)."
+        },
+        "114790": {
+          "position": "agree",
+          "explanation": "Partij voor de Dieren is voor meer buurt-en wijkcentra in Gouda. Deze vormen een belangrijke sociale functie in wijken (Hoofdstuk 8.2)."
+        },
+        "114792": {
+          "position": "agree",
+          "explanation": "Partij voor de Dieren staat open voor proeven met lokale wietteelt, maar wil geen nieuwe coffeeshops bij scholen. Uitbreiding van coffeeshops is geen doel; omgeving en gezondheid gaan voor (Hoofdstuk 8.7)."
+        },
+        "114797": {
+          "position": "disagree",
+          "explanation": "Partij voor de Dieren zet in op minder auto’s, meer deelmobiliteit en ov. Zo gaan we eerlijker om met schaarse ruimte in de stad. Goedkoper parkeren in het centrum past hier niet bij (Hoofdstuk 7, paragraaf 7.3)."
+        },
+        "114798": {
+          "position": "agree",
+          "explanation": "Door meer deelauto’s en mobiliteitshubs wil Partij voor de Dieren ruimte vrijmaken van geparkeerde auto’s voor groen, spelen op straat en leefbare wijken (Hoofdstuk 7.3)."
+        },
+        "114799": {
+          "position": "agree",
+          "explanation": "Partij voor de Dieren wil de binnenstad zoveel mogelijk autovrij maken. Bezoekers worden gestimuleerd met de fiets of het ov te komen. Bezoekers met auto's kunnen gebruikmaken van mobiliteitshubs aan de randen (Hoofdstuk 7.1)."
+        },
+        "114800": {
+          "position": "agree",
+          "explanation": "Er is geen ruimte voor vervuilende bedrijven in Gouda, al helemaal niet aan de rand van de binnenstad. Partij voor de Dieren wil deze ruimte liever omvormen tot woonwijken en groen (Hoofdstuk 4.2)."
+        },
+        "114801": {
+          "position": "agree",
+          "explanation": "Partij voor de Dieren wil geen vrachtverkeer door woonkernen. De weg is eigenlijk niet geschikt voor de combinatie van wonen, fietsen, auto en vrachtwagens. Vrachtwagens kunnen bovendien via de Nieuwe Gouwe en Industrieweg."
+        },
+        "114803": {
+          "position": "disagree",
+          "explanation": "De vaarroute door het centrum kost veel geld en is bedoeld om toeristen aan te trekken. De Partij voor de Dieren besteed dit geld liever uit aan meer groen en duurzaamheid (Hoofdstuk 4.2)."
+        }
+      }
+    },
+    {
+      "id": 114716,
+      "name": "Gouda Vitaal",
+      "fullName": "Gouda Vitaal",
+      "website": "https://www.goudavitaal.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "114742": {
+          "position": "agree",
+          "explanation": "Er is nog maar weinig vertrouwen in de politiek; vooral bij raadsverkiezingen vertaalt zich dat in een lage opkomst. Ons democratisch stelsel is aan vernieuwing toe, bijvoorbeeld met een referendum."
+        },
+        "114745": {
+          "position": "agree",
+          "explanation": "Dat moet mogelijk zijn en hoort bij vrij ondernemerschap. Het voorkomen van overlast is daarbij wel een belangrijk aandachtspunt."
+        },
+        "114748": {
+          "position": "neither",
+          "explanation": "We hebben een overeenkomst met COA die voor wat betreft aantal aansluit bij de verplichting die Gouda heeft; wij vinden de duur van de overeenkomst wel te lang."
+        },
+        "114752": {
+          "position": "disagree",
+          "explanation": "Er is een proef geweest met een lasershow, doch het aantal belangstellenden op oudjaarsavond was beperkt. Daarmee is het geen effectieve maatregel gebleken."
+        },
+        "114757": {
+          "position": "agree",
+          "explanation": "Een lokale omroep vervult een publieke taak, heeft een rol in de informatievoorziening naar burgers en is belangrijk voor verbinding en sociale samenhang in de stad. Wanneer extra geld nodig is moet dat worden beoordeeld, maar de maatschappelijke opbrengst is groot bij een lokale omroep."
+        },
+        "114759": {
+          "position": "disagree",
+          "explanation": "Gouda Vitaal staat voor gerichte ondersteuning; elk kind moet muziekles kunnen krijgen, ongeacht de portemonnee van de ouders. Maar het is geen basisvoorziening. Door subsidie gericht te geven wanneer dat nodig is, blijft het voor de gemeente betaalbaar."
+        },
+        "114763": {
+          "position": "agree",
+          "explanation": "Veiligheid in de stad weegt zwaar. Cameratoezicht kan daar een belangrijke bijdrage aan leveren, ook als dat spanning oproept met privacy. Daarbij geldt wel nadrukkelijk dat de gemeente zich strikt moet houden aan de geldende privacywetgeving."
+        },
+        "114764": {
+          "position": "disagree",
+          "explanation": "Een boa is geen politieagent en vervult ook niet dezelfde taak of rol. Het is vooral een symbolische maatregel die wel tot verwarring en misverstanden kan leiden over de functie van de boa."
+        },
+        "114766": {
+          "position": "agree",
+          "explanation": "Het toewijzen van sociale huurwoningen eerst aan eigen inwoners (met lokale binding) heeft voordelen zoals het bevorderen van leefbaarheid, sociale samenhang en het tegengaan van verdringing van kwetsbare groepen (starters, lage inkomens) door de hoge vraag, waardoor de stad aantrekkelijk blijft."
+        },
+        "114768": {
+          "position": "agree",
+          "explanation": "Een woning moet door de koper zelf worden bewoond, in plaats van deze te verhuren aan beleggers. Het zorgt ervoor dat de woningen beschikbaar en betaalbaar blijven voor de doelgroep waarvoor ze bedoeld zijn."
+        },
+        "114771": {
+          "position": "neither",
+          "explanation": "Dit is te algemeen gesteld en gaat voorbij aan het feit dat veel mensen met een bijstandsuitkering hiertoe niet in staat zijn. Maar wanneer is vastgesteld dat mensen hiertoe wel in staat zijn, mag een tegenprestate worden verwacht en kan het ook een positief effect hebben op de betrokkenen."
+        },
+        "114773": {
+          "position": "disagree",
+          "explanation": "Gouda kent reeds een hoge inkomensgrens (130 procent). Daarboven moet meer maatwerk worden toegepast om te voorkomen dat armoedebeleid meer het karakter krijgt van compensatie voor verkeerd beleid dat leidt tot negatieve inkomenseffecten."
+        },
+        "114776": {
+          "position": "disagree",
+          "explanation": "Verkeersveiligheid is belangrijk, maar Gouda Vitaal is geen voorstander van een algemene verlaging. Gouda bestaat uit verschillende wegen, daar past geen generieke maatregel bij. 30 km/u waar dat nodig is, 50 km/u waar dat kan."
+        },
+        "114778": {
+          "position": "disagree",
+          "explanation": "Wij staan voor menselijke maat en keuzevrijheid. Waar mogelijk moet de keuzevrijheid er zijn. Zorg staat echter onder druk en deze wens kan niet altijd worden ingevuld. Kwaliteit, toegankelijkheid en betaalbaarheid blijven leidend. Keuzevrijheid mag nooit betekenen dat anderen langer moeten wachten."
+        },
+        "114779": {
+          "position": "disagree",
+          "explanation": "Nee, een gemeente mag bij het selecteren van jeugdhulp absoluut niet alleen op de prijs letten. Gemeenten zijn wettelijk verplicht om een goede balans te vinden tussen prijs en kwaliteit en toegankelijkheid."
+        },
+        "114780": {
+          "position": "agree",
+          "explanation": "Menstruatiearmoede is een groeinend probleem waarbij mensen met een laag inkomen de producten niet kunnen betalen, wat leidt tot gemiste school- of werkdagen en ongemak; het helpt financiële lasten te verlichten, de hygiëne te verbeteren en het taboe op menstruatie te doorbreken."
+        },
+        "114781": {
+          "position": "agree",
+          "explanation": "De lasten voor inwoners en ondernemers staan al jaren onder druk. De gemeente moet scherpere keuzes maken en vooral kijken waar het efficienter kan. Verlaging van de ozb kan op een financieel verantwoorde manier zonder dat essentiële voorzieningen in gevaar komen."
+        },
+        "114782": {
+          "position": "agree",
+          "explanation": "De hondenbelasting moet worden afgeschaft. De opbrengsten verdwijnen in de algemene middelen van de gemeente in plaats van dat ze aan hondenbeleid besteed worden, zoals hondenrenveldjes en hondenspeeltuinen."
+        },
+        "114784": {
+          "position": "disagree",
+          "explanation": "Gouda Vitaal is voor versterking van de lokale economie, maar uitbreiding van bedrijventerreinen is geen doel op zich. Gouda heeft weinig ruimte, waardoor het al snel ten koste van leefbaarheid gaat. Uitbreiding is alleen haalbaar aan de randen van de stad en in afstemming met de regio/provincie."
+        },
+        "114785": {
+          "position": "disagree",
+          "explanation": "Middenstand heeft het al moeilijk, strenge beperkingen kunnen omzet naar andere gemeenten verplaatsen. Tegelijk lopen veel koopzondagen niet. Minder, maar beter georganiseerde koopzondagen kunnen wellicht meer omzet opleveren. Maar die keuze ligt dan allereerst bij de ondernemers zelf"
+        },
+        "114786": {
+          "position": "disagree",
+          "explanation": "Geen voorrang statushouders bij toewijzing sociale huurwoningen. Iedereen in Gouda heeft recht op een passende woning. De huidige voorrang voor statushouders leidt tot langere wachttijden voor starters en inwoners die al jarenlang binding hebben met de stad, wat zorgt voor een oneerlijke verdeling."
+        },
+        "114788": {
+          "position": "agree",
+          "explanation": "Op zich zijn er geen redenen om dit te verbieden, maar wel onder strikte voorwaarden (tijdelijk, draagvlak bij inwoners, niet ten koste gaan van andere functies)."
+        },
+        "114790": {
+          "position": "agree",
+          "explanation": "Buurthuizen zijn belangrijke laagdrempelige ontmoetingsplekken in wijken. Ze stimuleren buurtactiviteiten en bevorderen vrijwilligersprojecten en zorgen voor ontmoeting waardoor eenzaamheid voorkomen kan worden."
+        },
+        "114792": {
+          "position": "disagree",
+          "explanation": "Geen uitbreiding van coffeeshops voor het voorkomen van drugsoverlast, criminaliteit en verstoring van de openbare orde, verkeersoverlast en sociale onveiligheid in de directe omgeving."
+        },
+        "114797": {
+          "position": "agree",
+          "explanation": "Betaald parkeren in het centrum is de afgelopen jaren fors duurder geworden en wordt door veel inwoners, bezoekers en ondernemers als oneerlijk en ontmoedigend ervaren. Het centrum moet betaalbaar en bereikbaar blijven voor bezoekers."
+        },
+        "114798": {
+          "position": "disagree",
+          "explanation": "Het belang van inwoners en ondernemers staat centraal. In veel wijken is de parkeerdruk al hoog. Het schrappen van parkeerplaatsen leidt tot overlast, zoekverkeer en frustratie bij bewoners en bezoekers. Waar parkeerplaatsen worden geschrapt, moeten realistische, betaalbare alternatieven worden geboden."
+        },
+        "114799": {
+          "position": "disagree",
+          "explanation": "Onze mooie historische binnenstad is niet gebouwd voor veel verkeer en geparkeerde auto’s. Om ervoor te zorgen dat onze binnenstad leefbaar blijft zetten wij in op een autoluwe binnenstad. Voorwaarde is wel dat er aan de randen van de binnenstad voldoende parkeergelegenheid is."
+        },
+        "114800": {
+          "position": "disagree",
+          "explanation": "Werkgelegenheid en een sterke lokale economie zijn belangrijk. Tegelijkertijd is naar hedendaagse maatstaven de locatie ongelukkkig. De overlast voor bewoners moet dan ook serieus worden aangepakt. Maar het laten vertrekken van Cargill door de gemeente, zal zeker honderden miljoenen euro's kosten."
+        },
+        "114801": {
+          "position": "disagree",
+          "explanation": "Een algeheel verbod op vrachtwagens is moeilijk te combineren met de economische activiteiten in de omgeving. Wel moeten verkeersveiligheid en leefbaarheid voor omwonenden zwaar worden meegewogen. Gerichte maatregelen zoals snelheidsbeperking en tijdvensters kunnen een passende oplossing zijn."
+        },
+        "114803": {
+          "position": "agree",
+          "explanation": "De grachten en singels zijn een belangrijk onderdeel van het historische karakter van Gouda. Varen door het centrum moet in principe mogelijk zijn. Wel moet het realistisch en betaalbaar blijven. Het centrum is geen vaarroute voor steeds grotere boten. Het mag niet ten koste gaan van inwoners."
+        }
+      }
+    },
+    {
+      "id": 128747,
+      "name": "JA21",
+      "fullName": "Juiste Antwoord 21",
+      "website": "https://gouda.ja21.nl/",
+      "hasSeats": false,
+      "participates": true,
+      "positions": {
+        "114742": {
+          "position": "agree",
+          "explanation": "JA21 wil zorgen dat de stem van de bevolking niet alleen tijdens verkiezingen gehoord wordt, maar dat inwoners de kans krijgen om zich tussentijds uit te spreken over belangrijke kwesties. JA21 pleit dan ook voor de invoering van bindende referenda."
+        },
+        "114745": {
+          "position": "agree",
+          "explanation": "Ondernemers werken volgens het principe van vraag en aanbod. Als er vraag is naar langere openingstijden, moet dit mogelijk zijn. Hierdoor ontstaat een gezond ondernemingsklimaat in Gouda."
+        },
+        "114748": {
+          "position": "agree",
+          "explanation": "JA21 is tegen de spreidingswet. Voor de opening van de asielopvang bij Goudse Poort zijn omwonenden niet geraadpleegd. Toch heeft de gemeente besloten dat dit asielzoekerscentrum wordt aangewezen als vaste locatie voor 25 jaar. JA21 wil dit besluit terugdraaien en dit azc zo snel mogelijk sluiten."
+        },
+        "114752": {
+          "position": "agree",
+          "explanation": "Een vuurwerkshow kan voor een gezellige afsluiter zorgen waar mensen bij elkaar komen. Hier moet natuurlijk wat JA21 betreft wel draagvlak voor zijn."
+        },
+        "114757": {
+          "position": "disagree",
+          "explanation": "De gemeente moet eerst haar gemeentelijke kerntaken op orde krijgen. Als lokale omroepen succesvol zijn, kunnen zij zichzelf overeind houden. Als dat niet mogelijk is, zal er vanzelf iets nieuws ontstaan."
+        },
+        "114759": {
+          "position": "disagree",
+          "explanation": "JA21 vindt het goed als muziekles onderdeel is van het lesaanbod van scholen. Dit is echter een beslissing van de scholen zelf en niet aan de gemeente. Muziekles buiten school is een taak van de ouders en geen verantwoordelijkheid van de gemeente."
+        },
+        "114763": {
+          "position": "agree",
+          "explanation": "In het centrum van Gouda, bij winkelgelegenheden en daarbuiten moet meer cameratoezicht komen om winkeldiefstal tegen te gaan. Wat JA21 betreft staat de veiligheid van de Gouwenaar op één en kan cameratoezicht hieraan bijdragen."
+        },
+        "114764": {
+          "position": "agree",
+          "explanation": "Boa’s op veiligheid hebben nu alleen maar handboeien bij zich om zichzelf te verdedigen, een wapenstok kan helpen, alleen moet de juiste opleiding dan wel worden gegeven."
+        },
+        "114766": {
+          "position": "agree",
+          "explanation": "Wat JA21 betreft moeten mensen uit Gouda voorrang krijgen op sociale huurwoningen. Wij willen dat zij de mogelijkheid krijgen om in de stad te blijven wonen."
+        },
+        "114768": {
+          "position": "disagree",
+          "explanation": "Wie een huis koopt is zelf eigenaar van die woning. Het is geen taak van de gemeente om te bepalen wat inwoners met hun bezit doen. Wat JA21 betreft worden zij dan ook niet gedwongen om er zelf te gaan wonen. Een zelfbewoningsplicht kan bovendien het verhuren van woningen onnodig bemoeilijken."
+        },
+        "114771": {
+          "position": "agree",
+          "explanation": "JA21 is van mening dat mensen die een uitkering ontvangen, daar maatschappelijk iets voor terugdoen, bijvoorbeeld door koffie te schenken in een verzorgingstehuis. Dit is echter afhankelijk van de persoonlijke situatie, die altijd moet worden meegewogen."
+        },
+        "114773": {
+          "position": "disagree",
+          "explanation": "Gouda hanteert al een inkomensgrens van 130 procent van de bijstandsnorm voor minimaregelingen, wat landelijk bovengemiddeld is. Volgens JA21 maakt verdere verhoging de regelingen minder gericht en zet dit de ondersteuning van de meest kwetsbaren onder druk. Daarom moet de huidige grens blijven."
+        },
+        "114776": {
+          "position": "disagree",
+          "explanation": "JA21 wil dat de stad goed bereikbaar blijft en mobiel is. Het verlagen van de maximumsnelheid naar 30 km/u binnen de bebouwde kom zorgt voor langere reistijden richting de snelwegen en binnen de stad. Bovendien werkt dit niet positief uit op de uitstoot in Gouda."
+        },
+        "114778": {
+          "position": "disagree",
+          "explanation": "Wat JA21 betreft biedt de gemeente kwalitatief goede zorg met oog voor betaalbaarheid. De gemeente gaat niet extra investeren om verschillende zorgaanbieders te contracteren om te kunnen voldoen aan wensen rond religie of cultuur."
+        },
+        "114779": {
+          "position": "neither",
+          "explanation": "JA21 is van mening dat de gemeente zich moet richten op jeugdhulp die kwalitatief goed én betaalbaar is. Bij de selectie van jeugdhulporganisaties mag niet alleen naar de prijs worden gekeken, maar ook naar kwaliteit en de positieve effecten van jeugdzorg voor jongeren en gezinnen."
+        },
+        "114780": {
+          "position": "disagree",
+          "explanation": "JA21 vindt dat dit geen gemeentelijke aangelegenheid is; mensen moeten dit zelf kunnen regelen. Als instellingen dit gratis willen aanbieden, staat dat hen vrij, maar de gemeente hoort dit niet te doen."
+        },
+        "114781": {
+          "position": "agree",
+          "explanation": "JA21 vindt dat huishoudens, winkels en bedrijfspanden al met hoge kosten kampen. Deze lasten moeten omlaag, zodat huishoudens en ondernemers maandelijks geld overhouden."
+        },
+        "114782": {
+          "position": "agree",
+          "explanation": "De hondenbelasting is een verdienmodel van de gemeente, de geïnde belasting gaat naar de algemene middelen in plaats van dat het een doel heeft. JA21 Gouda staat voor lastenverlichting, daarom schaft JA21 de hondenbelasting zo snel mogelijk af."
+        },
+        "114784": {
+          "position": "agree",
+          "explanation": "Er moeten meer bedrijventerreinen komen, zodat zowel Goudse ondernemers als ondernemers van buiten zich hier kunnen vestigen. Gouda heeft echter beperkte ruimte voor deze terreinen, waardoor samenwerking met buurgemeenten noodzakelijk is om dit te kunnen faciliteren."
+        },
+        "114785": {
+          "position": "disagree",
+          "explanation": "Wat JA21 betreft voorzien koopzondagen duidelijk in een behoefte. Ze worden goed bezocht, zijn goed voor zowel inwoners als ondernemers en moeten daarom worden behouden."
+        },
+        "114786": {
+          "position": "disagree",
+          "explanation": "Wat JA21 betreft moeten statushouders, net als alle andere woningzoekenden, op hun beurt wachten. Automatische voorrang is oneerlijk tegenover jongeren en anderen die soms al jaren wachten op een woning. Ook zij verdienen perspectief om hun leven op te bouwen."
+        },
+        "114788": {
+          "position": "disagree",
+          "explanation": "Wat JA21 betreft heeft Gouda beperkte ruimte en moet zij daarom slimme keuzes maken in het grondbeleid. Zonnepanelen horen niet thuis op landbouwgrond."
+        },
+        "114790": {
+          "position": "disagree",
+          "explanation": "Wat JA21 betreft heeft Goverwelle al een buurthuis. Dit kan beter worden benut, maar het bouwen van een nieuw buurthuis is niet nodig; het verbeteren van het huidige buurthuis kan samengaan met de herontwikkeling van de wijk Goverwelle."
+        },
+        "114792": {
+          "position": "disagree",
+          "explanation": "Wat JA21 betreft zorgen coffeeshops op hun huidige locaties voor overlast en heeft Gouda al voldoende coffeeshops in de binnenstad."
+        },
+        "114797": {
+          "position": "agree",
+          "explanation": "Wat JA21 betreft is autorijden al duur genoeg. Gouda moet goed bereikbaar blijven; dat kan alleen als parkeren in de binnenstad betaalbaar is. Zo blijft Gouda aantrekkelijk voor inwoners en bezoekers."
+        },
+        "114798": {
+          "position": "disagree",
+          "explanation": "Wat JA21 betreft is autorijden voor veel mensen een basisvoorziening om van huis naar werk te gaan en om familie te bezoeken of op vakantie te gaan. De gemeente moet deze inwoners faciliteren met voldoende parkeergelegenheid, zodat Gouda aantrekkelijk blijft om te wonen en te bezoeken."
+        },
+        "114799": {
+          "position": "disagree",
+          "explanation": "Wat JA21 betreft moet het centrum toegankelijk blijven voor bewoners met de auto. Voor veel mensen is de auto nog steeds een belangrijke basisvoorziening om zich te verplaatsen."
+        },
+        "114800": {
+          "position": "disagree",
+          "explanation": "Cargill voldoet aan alle vergunningsvereisten en zorgt daarnaast voor werkgelegenheid in Gouda. Uit metingen van de benzeenuitstoot blijkt dat Cargill ruim onder de wettelijk toelaatbare grens blijft. JA21 ziet daarom geen enkele reden om deze fabriek te sluiten."
+        },
+        "114801": {
+          "position": "disagree",
+          "explanation": "Deze weg is een belangrijke doorgangsroute richting Moordrecht en Rotterdam. De bedrijven op het bedrijventerrein nabij de Wilhelminaweg zijn afhankelijk van deze weg voor een goede doorstroming. Daarom wil JA21 deze weg openhouden voor vrachtverkeer."
+        },
+        "114803": {
+          "position": "agree",
+          "explanation": "JA21 is van mening dat boten in het centrum kunnen varen. Mensen kunnen hiervoor contact opnemen met de brugwacht, die op de afgesproken tijd de bruggen voor hen zal openen."
+        }
+      }
+    },
+    {
+      "id": 114715,
+      "name": "Leefbaar Gouda",
+      "fullName": "Leefbaar Gouda",
+      "website": "https://www.leefbaargouda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "114742": {
+          "position": "agree",
+          "explanation": "Voor onderwerpen die grote gevolgen hebben, maar nog niet eerder aan bod kwamen bij verkiezingen, komt er een volksraadpleging. Leefbaar Gouda is bovendien groot voorstander van referenda. Via een referendum kunnen inwoners hun stem laten horen bij belangrijke beslissingen."
+        },
+        "114745": {
+          "position": "agree",
+          "explanation": "Er komen meer nachtvergunningen voor horeca, zodat er in de avond meer te beleven valt."
+        },
+        "114748": {
+          "position": "neither",
+          "explanation": "Binnen het kader van de spreidingswet willen we naar een afbouw van het azc. Bij de opvang van asielzoekers kiezen we voor realisme. We blijven doen wat nodig is, maar Gouda krijgt wat ons betreft géén groot en permanent asielzoekerscentrum. Tijdelijke opvang blijft tijdelijk."
+        },
+        "114752": {
+          "position": "disagree",
+          "explanation": "Vanaf 2026 geldt het vuurwerkverbod. Wij zijn van mening dat op wijkniveau initiatieven moeten worden ondersteund met betrekking tot georganiseerd vuurwerk afsteken."
+        },
+        "114757": {
+          "position": "agree",
+          "explanation": "RTV Gouwestad krijgt hulp om de kwaliteit te verbeteren. Beeld en geluid worden beter en de programma’s krijgen een modernere uitstraling. Uitzendingen straks in full hd. Ook kan het nodig zijn om betaalde medewerkers in te zetten."
+        },
+        "114759": {
+          "position": "disagree",
+          "explanation": "Creatieve en muzikale projecten worden gestimuleerd omdat ze bijdragen aan de persoonlijke ontwikkeling van kinderen en het onderwijs aantrekkelijker maken, maar dit zien wij als een primaire verantwoordelijkheid van de ouders."
+        },
+        "114763": {
+          "position": "agree",
+          "explanation": "De voorkeur gaat uit naar meer politieagenten en boa’s op straat boven het plaatsen van camera’s. Maar ter ondersteuning kan het gebruik van camera’s echter wel worden ingezet."
+        },
+        "114764": {
+          "position": "agree",
+          "explanation": "Wij zijn voor het versterken van de veiligheid in onze stad. Daarvoor zijn goede middelen, duidelijke taken en veiligheid bij de uitvoering nodig, ook voor de veiligheid van de boa's zelf."
+        },
+        "114766": {
+          "position": "agree",
+          "explanation": "Sociale huurwoningen zijn schaars. Daarom moeten ze eerlijk worden verdeeld. Inwoners van Gouda krijgen voorrang op basis van de regeling Volkshuisvesting. Bij toewijzing van huurwoningen moet minstens de helft naar Gouwenaren gaan."
+        },
+        "114768": {
+          "position": "agree",
+          "explanation": "Wonen moet weer betaalbaar worden, zodat starters, ouderen en gezinnen een plek kunnen vinden in hun eigen stad. We bouwen 10.000 woningen voor Gouwenaren, niet voor projectontwikkelaars."
+        },
+        "114771": {
+          "position": "agree",
+          "explanation": "De tegenprestatie bij een bijstandsuitkering sluit aan bij de ervaring en mogelijkheden van de persoon en is niet bedoeld als pesterij maar om iemand richting betaald werk te helpen. Werkzaamheden in dit kader mogen geen gewone banen verdringen."
+        },
+        "114773": {
+          "position": "disagree",
+          "explanation": "Bestaande hulp voor inwoners met een kleine beurs blijft bestaan, zoals ondersteuning vanuit de WMO en WLZ. Niemand mag buiten de boot vallen. Maar in plaats van het verhogen van de inkomensgrens, moeten mensen meer overhouden in de portemonnee, bijvoorbeeld door gemeentelijke lasten niet te laten stijgen."
+        },
+        "114776": {
+          "position": "agree",
+          "explanation": "Alleen niet op doorgaande wegen."
+        },
+        "114778": {
+          "position": "agree",
+          "explanation": "Ieder individu heeft naar onze mening de vrijheid om eigen keuzes te maken, dus ook in de zorgverlening."
+        },
+        "114779": {
+          "position": "disagree",
+          "explanation": "Kinderen mogen nooit de dupe worden van slecht beleid. Naast de prijs is het belangrijk om de kwaliteit van de zorgverlening op een hoog peil te houden."
+        },
+        "114780": {
+          "position": "disagree",
+          "explanation": "Mensen moeten meer overhouden in de portemonnee, bijvoorbeeld door gemeentelijke lasten niet te laten stijgen. Dan is subsidie door de gemeente niet nodig."
+        },
+        "114781": {
+          "position": "agree",
+          "explanation": "Leefbaar Gouda houdt de lokale lasten onder controle. De onroerendezaakbelasting mag tussen 2026 en 2030 niet omhoog. Als er toch geld nodig is voor nieuw beleid, moet dat binnen de bestaande begroting worden opgelost."
+        },
+        "114782": {
+          "position": "agree",
+          "explanation": "Dit is een achterhaalde belasting waarvan de opbrengst in de algemene middelen verdwijnt."
+        },
+        "114784": {
+          "position": "disagree",
+          "explanation": "Naar onze mening dient het aantal bedrijventerreinen daar waar mogelijk te worden verminderd om plaats te maken voor woningbouw."
+        },
+        "114785": {
+          "position": "disagree",
+          "explanation": "De keuze om op zondag te winkelen of de winkel te openen willen wij bij de inwoners en ondernemers zelf laten. De regeldruk voor ondernemers moet bovendien minder worden. Leefbaar Gouda vindt het belangrijk dat geloof en politiek altijd gescheiden blijven."
+        },
+        "114786": {
+          "position": "disagree",
+          "explanation": "Statushouders krijgen geen voorrang meer bij sociale huurwoningen en wachten net als anderen op hun beurt. Zo worden woningen eerlijk verdeeld en krijgt iedereen gelijke kansen. Alternatieven voor statushouders zijn flexwoningen, gedeelde woningen of tijdelijk verblijf bij familie."
+        },
+        "114788": {
+          "position": "agree",
+          "explanation": "De gemeente bepaalt niet wat iemand op zijn of haar privéterrein doet."
+        },
+        "114790": {
+          "position": "agree",
+          "explanation": "Leefbaar Gouda wil dat wijkteams meer eigen verantwoordelijkheid en een eigen budget krijgen. Hierdoor kunnen zij sneller inspelen op wat er specifiek in hun buurt nodig is. Een buurtcentrum kan een initiatief zijn dat vanuit een dergelijk wijkbudget of de behoeften van het team naar voren komt."
+        },
+        "114792": {
+          "position": "disagree",
+          "explanation": "Zolang er geen regels zijn om overlast te voorkomen en er onvoldoende (politie)toezicht is, staat Leefbaar Gouda negatief tegenover het openen van coffeeshops in het centrum van Gouda. Drie coffeeshops weg uit de binnenstad en verplaatsen naast het politiebureau."
+        },
+        "114797": {
+          "position": "disagree",
+          "explanation": "Wij zijn groot voorstander om het eerste uur parkeren gratis aan te bieden. Daarna het tarief handhaven."
+        },
+        "114798": {
+          "position": "disagree",
+          "explanation": "Bij het herinrichten van straten mogen parkeerplaatsen wat Leefbaar Gouda betreft niet zomaar verdwijnen. Deze zijn belangrijk voor mensen die afhankelijk zijn van de auto, zoals ouderen, gezinnen en ondernemers. Facilitair dient de gemeente meer te investeren in extra parkeerplekken."
+        },
+        "114799": {
+          "position": "disagree",
+          "explanation": "Leefbaar Gouda stelt dat bij het herinrichten van straten parkeerplaatsen niet zomaar mogen verdwijnen. Wij vinden deze plekken essentieel voor mensen die afhankelijk zijn van de auto, zoals ouderen, gezinnen en ondernemers. De auto is een blijvertje, zeker nu jonge mensen het huis niet uit kunnen."
+        },
+        "114800": {
+          "position": "disagree",
+          "explanation": "Cargill biedt nog altijd werkgelegenheid aan een groot aantal van onze inwoners."
+        },
+        "114801": {
+          "position": "disagree",
+          "explanation": "Het bedrijventerrein moet bereikbaar blijven voor vrachtverkeer."
+        },
+        "114803": {
+          "position": "disagree",
+          "explanation": "Een dergelijke investering leidt tot verhogingen van belastingen en tarieven en de doorvaart is met name bestemd voor toeristen."
+        }
+      }
+    },
+    {
+      "id": 114724,
+      "name": "SP",
+      "fullName": "Socialistische Partij",
+      "website": "https://www.sp.nl/",
+      "hasSeats": false,
+      "participates": true,
+      "positions": {
+        "114742": {
+          "position": "agree",
+          "explanation": "We geven Gouwenaars een democratische noodrem in de vorm van een bindend correctief referendum. Dit Gouds referendum kan stadsbreed, maar ook op wijkniveau worden aangevraagd en georganiseerd."
+        },
+        "114745": {
+          "position": "disagree",
+          "explanation": "Dit veroorzaakt willekeur en problemen in handhaving."
+        },
+        "114748": {
+          "position": "disagree",
+          "explanation": "Dit kan niet. De gemeente heeft een langjarig contract gesloten met het COA. Dit eenzijdig opzeggen gaat miljoenen kosten."
+        },
+        "114752": {
+          "position": "agree",
+          "explanation": "Een waardig alternatief voor particulier vuurwerk."
+        },
+        "114757": {
+          "position": "agree",
+          "explanation": "We steunen lokale media, zodat we weten wat er in en om de stad speelt en zodat de politiek kritisch wordt gevolgd."
+        },
+        "114759": {
+          "position": "agree",
+          "explanation": "We maken lidmaatschap van (sport)verenigingen en toegang tot cultuur gratis tot en met 12 jaar."
+        },
+        "114763": {
+          "position": "disagree",
+          "explanation": "We willen meer blauw op straat, niet achter een monitor."
+        },
+        "114764": {
+          "position": "disagree",
+          "explanation": "Dat is en blijft een taak van de politie."
+        },
+        "114766": {
+          "position": "agree",
+          "explanation": "We verschaffen de maximale voorrang aan Gouwenaars bij de toewijzing van sociale huurwoningen."
+        },
+        "114768": {
+          "position": "agree",
+          "explanation": "Een huis is om in te wonen, niet om je zakken mee te vullen."
+        },
+        "114771": {
+          "position": "disagree",
+          "explanation": "Treitermaatregel. Mensen zijn al ouder/opvoeder, (mantel)zorger of doen al ander maatschappelijk zinvol werk. Een extra verplichting voegt niks toe."
+        },
+        "114773": {
+          "position": "agree",
+          "explanation": "We breiden de doelgroep voor inkomensondersteuning uit naar 150 procent van het wettelijk sociaal minimum."
+        },
+        "114776": {
+          "position": "agree",
+          "explanation": "We verlagen de maximumsnelheid naar 30 kilometer per uur, uitvalswegen uitgezonderd."
+        },
+        "114778": {
+          "position": "disagree",
+          "explanation": "Een zorgverlener verleent goede zorg, ongeacht iemands achtergrond."
+        },
+        "114779": {
+          "position": "disagree",
+          "explanation": "Kwaliteit van zorg staat voorop."
+        },
+        "114780": {
+          "position": "agree",
+          "explanation": "Steun voor het huidige beleid."
+        },
+        "114781": {
+          "position": "disagree",
+          "explanation": "We bevriezen de gemeentelijke lasten voor Gouwenaars."
+        },
+        "114782": {
+          "position": "agree",
+          "explanation": "Wij schaffen de hondenbelasting af."
+        },
+        "114784": {
+          "position": "disagree",
+          "explanation": "Geen plek voor. Woningnood heeft voorrang en bedrijventerreinen kunnen ook regionaal afgestemd worden."
+        },
+        "114785": {
+          "position": "agree",
+          "explanation": "Koopzondagen zijn nadelig voor kleine ondernemers ten opzichte van grote ketens."
+        },
+        "114786": {
+          "position": "agree",
+          "explanation": "Urgenten - onder wie mensen in scheiding of statushouders - zijn niet de oorzaak van de woningnood, dus wij maken ze niet tot zondebok. Liever pakken wij het echte probleem van woningnood aan: de vastgoedsector."
+        },
+        "114788": {
+          "position": "agree",
+          "explanation": "Als een boer deze wil neerleggen, dan hebben we daar geen bezwaar tegen."
+        },
+        "114790": {
+          "position": "agree",
+          "explanation": "Elke buurt een buurthuis."
+        },
+        "114792": {
+          "position": "disagree",
+          "explanation": "Het huidige aanbod voldoet aan de vraag."
+        },
+        "114797": {
+          "position": "disagree",
+          "explanation": "Huidige tarief voldoet, dat handhaven wij."
+        },
+        "114798": {
+          "position": "disagree",
+          "explanation": "Er moeten genoeg parkeerplaatsen zijn in de wijken voor bewoners."
+        },
+        "114799": {
+          "position": "agree",
+          "explanation": "Het historische centrum van Gouda is niet gebouwd op gemotoriseerd verkeer. We maken de binnenstad daarom autoluw; enkel toegankelijk voor centrumbewoners, marktlui, lokale middenstand en – tijdens venstertijden – leveranciers."
+        },
+        "114800": {
+          "position": "disagree",
+          "explanation": "Dit is op korte termijn onrealistisch."
+        },
+        "114801": {
+          "position": "agree",
+          "explanation": "Verbetert de verkeersveiligheid."
+        },
+        "114803": {
+          "position": "disagree",
+          "explanation": "Waar dat kan, behouden we dat. Extra vaarwegen toegankelijk maken voor pleziervaart is kostbaar en derhalve geen prioriteit."
+        }
+      }
+    },
+    {
+      "id": 128749,
+      "name": "Volt",
+      "fullName": "Volt",
+      "website": "https://voltnederland.org/zuid-holland/volt-gouda",
+      "hasSeats": false,
+      "participates": true,
+      "positions": {
+        "114742": {
+          "position": "disagree",
+          "explanation": "Wij vinden dat je zorgvuldig ingevoerde wetgeving niet kunt vervangen door een simpele ja-neevraag. Volt vindt het belangrijk dat inwoners al vroeg in het wetgevingsproces kunnen meepraten. We creëren een permanent burgerberaad waar de deelnemers worden ingeloot, ingelicht, begeleid en vergoed."
+        },
+        "114745": {
+          "position": "agree",
+          "explanation": "Horecaondernemers kunnen wat Volt betreft zelf het beste bepalen hoe ze willen ondernemen. Hier hoort ook een soepelere omgang met de openingstijden bij. Volt ziet graag meer uitgaansgelegenheden en ontmoetingsplaatsen voor alle verschillende doelgroepen in onze stad."
+        },
+        "114748": {
+          "position": "disagree",
+          "explanation": "Volt ziet het belang van migranten en expats voor Gouda en de noodzaak om asielmigranten op te nemen. Gouda moet, voor de lange termijn, voldoende plekken beschikbaar stellen om alle asielzoekers op een menswaardige manier te huisvesten. Hierdoor wordt dure noodopvang afgeschaald."
+        },
+        "114752": {
+          "position": "agree",
+          "explanation": "Sinds 2026 is er een verbod op particulier vuurwerk, met steun van Volt. Ter vervanging daarvan vinden we het centraal en verantwoord organiseren van een vuurwerkshow door de gemeente een goede manier om deze feestelijke traditie voort te zetten op een veilige en milieuverantwoordelijke manier."
+        },
+        "114757": {
+          "position": "agree",
+          "explanation": "Volt ziet Radio en TV Gouwestad als onmisbaar voor de lokale gemeenschap. We willen dat ze kwalitatief goede programma’s blijven maken, meer professionele journalisten aannemen en dat er meer budget komt voor levende muziek, kunst en cultuur. Daarnaast pleiten we voor recht op zendtijd voor lokale partijen."
+        },
+        "114759": {
+          "position": "neither",
+          "explanation": "Volt investeert graag in de creatieve ontwikkeling van (jonge) mensen en wil ook graag onderzoeken hoe kinderen uit minder welvarende gezinnen hierin financieel ondersteund kunnen worden. Volt ziet muziekles als maar een van de vele manieren om jezelf creatief te uiten."
+        },
+        "114763": {
+          "position": "disagree",
+          "explanation": "Bij de overheid staan veiligheid en privacy voorop. Net als in Estland gebruiken we de nieuwste technologie om persoonlijke data veilig te houden. Volt is dan ook terughoudend met het plaatsen van extra camera’s in de openbare ruimte, om zo de privacy van burgers te waarborgen."
+        },
+        "114764": {
+          "position": "disagree",
+          "explanation": "Monopolie van geweld moet bij de politie blijven. Tegelijkertijd pleiten we voor een stevige samenwerking tussen boa’s en de politie. Dit biedt kans op een duurzaam veiliger en leefbaarder samenleving."
+        },
+        "114766": {
+          "position": "disagree",
+          "explanation": "Deze regel kan onbedoeld hard aankomen voor mensen die net een baan in Gouda hebben gevonden. Daarom kiezen wij voor een niet-discriminerende aanpak: sociale huurwoningen gaan naar de mensen die ze het meest nodig hebben."
+        },
+        "114768": {
+          "position": "disagree",
+          "explanation": "We laten graag eigenaren zelf de bestemming van hun panden regelen, maar staan tegen speculanten die met durfkapitaal de huizenprijzen alleen maar opvoeren voor persoonlijk gewin. Daarnaast is er behoefte aan extra middenhuurwoningen in Gouda."
+        },
+        "114771": {
+          "position": "disagree",
+          "explanation": "Volt wil een basisinkomen invoeren. Iedereen krijgt een basis waarmee je vooruit kan. Dat geeft financiële rust en voorkomt schulden. Daarbij is een bijstandsuitkering een recht dat je hebt bij (langdurige) ziekte en arbeidsongeschiktheid. Volt wil hier geen extra verplichtingen aan koppelen."
+        },
+        "114773": {
+          "position": "agree",
+          "explanation": "Het sociaal minimum moet omhoog, zodat het voldoende is om bestaanszekerheid te garanderen. Dat moet in ieder geval hoog genoeg zijn om van te leven, een dak boven je hoofd te hebben en zaken zoals je zorgkosten, energierekeningen, telefoon en internet van te kunnen betalen."
+        },
+        "114776": {
+          "position": "agree",
+          "explanation": "Voor de leefbaarheid van de stad voeren we in de bebouwde kom een maximumsnelheid van 30 km/u in. We maken wel onderscheid tussen hoofdaders waar 50 km/u nog kan en wijkstraten waar 30 km/u de norm wordt. 20 km/u is ook een optie in straten waar veiligheid extra belangrijk is."
+        },
+        "114778": {
+          "position": "neither",
+          "explanation": "Volt vindt diversiteit op het gebied van zorg belangrijk. Voor veel mensen is het lastig om medische kwesties te bespreken met zorgverleners van bijvoorbeeld een ander geslacht. Taalbarrières kunnen ook een groot probleem zijn. Volt erkent ook dat een divers zorgaanbod niet altijd praktisch mogelijk is."
+        },
+        "114779": {
+          "position": "disagree",
+          "explanation": "Volt is kritisch op marktwerking in de jeugdzorg en pleit voor een structurele verbetering van de jeugdzorg. Jeugdzorg wordt gezinszorg met de jongere als uitgangspunt. Dit betekent dat er breed gekeken wordt naar wat een gezin nodig heeft en dat de betrokken jongeren hun zegje hebben."
+        },
+        "114780": {
+          "position": "agree",
+          "explanation": "Goede zorg is een basisrecht, geen luxe. Volt wil dat menstruatieproducten gratis beschikbaar zijn op scholen, werkplekken, zorginstellingen en bij andere publieke voorzieningen. Daarmee garanderen we dat menstruatie geen belemmering vormt voor onderwijs, werk of deelname aan de samenleving."
+        },
+        "114781": {
+          "position": "neither",
+          "explanation": "Met de gestegen huizenprijzen van de afgelopen jaren, vindt Volt dat de gemeente voorzichtig met de onroerendezaakbelasting (ozb) om moet gaan. Het uitgangspunt van Volt is dat we als gemeente zo efficiënt mogelijk werken. Gouwenaren met een eigen woning moeten daar betaalbaar in kunnen blijven."
+        },
+        "114782": {
+          "position": "disagree",
+          "explanation": "Honden zijn de enige huisdieren waar een eigen infrastructuur voor moet worden aangelegd. Denk aan uitlaatplekken, opruimzakjes, opruimen van poep op straat. Daarom vindt Volt een hondenbelasting te verantwoorden."
+        },
+        "114784": {
+          "position": "agree",
+          "explanation": "Volt wil dat Gouda een aantrekkelijke broedplaats wordt voor innovatieve bedrijven met focus op de maakindustrie en vakmensen. Met onze ligging precies tussen alle grote steden in, is Gouda perfect gepositioneerd om talenten uit de hele Randstad aan te trekken.Daarom maken we ruimte voor bedrijven."
+        },
+        "114785": {
+          "position": "disagree",
+          "explanation": "Volt vindt dat middenstanders zelf mogen bepalen waar en wanneer ze willen ondernemen. Zondag is een dag dat veel mensen vrij zijn en het erg fijn vinden om dan hun boodschappen te doen of winkels te bezoeken. Voor Volt rust hier geen taboe op, het is immers een vrije keus om open te zijn."
+        },
+        "114786": {
+          "position": "agree",
+          "explanation": "Volt vindt dat alle gemeenten eerlijk moeten bijdragen aan de huisvesting van urgent woningzoekenden. Ook statushouders zonder woning moeten een start kunnen maken met het opbouwen van leven in Nederland. Op deze wijze worden de asielzoekerscentra tevens ontlast."
+        },
+        "114788": {
+          "position": "disagree",
+          "explanation": "Volt omarmt de energietransitie en het gebruik van schone energie. Zonnepanelen zijn cruciaal hierin. Volt wil liever de daken van commercieel vastgoed, woningcorporaties en overheidsgebouwen van zonnepanelen voorzien, in plaats van op landbouwgrond. Dit vraagstuk hoort bij provinciaal beleid."
+        },
+        "114790": {
+          "position": "disagree",
+          "explanation": "Dit buurthuis is er al. Stichting 't Govertje heeft een prominente locatie en speelt een belangrijke rol in Goverwelle. Volt heeft als ambitie om voor elke Goudse wijk een Huis van de Wijk te maken. Dit zijn plekken waar administratieve diensten, hulpdiensten en zichtbare handhaving samenkomen."
+        },
+        "114792": {
+          "position": "disagree",
+          "explanation": "Op dit moment zijn er vier coffeeshops in Gouda toegestaan. Dat aantal lijkt voldoende voor de vraag die er is. Alle coffeeshops zijn geconcentreerd in de binnenstad en qua veiligheidshandhaving vindt Volt dit ook een voldoende aantal. Wel gaat Volt blijvend met de coffeeshopeigenaren in gesprek."
+        },
+        "114797": {
+          "position": "disagree",
+          "explanation": "Volt wil duurzame mobiliteit bevorderen en autoafhankelijkheid terugdringen. De openbare ruimte is schaars, er is niet genoeg plaats om alle auto’s van bewoners en bezoekers in de binnenstad te parkeren. We werken aan een ambitieuze toekomstvisie waarin elk vervoermiddel een eigen plek heeft."
+        },
+        "114798": {
+          "position": "agree",
+          "explanation": "We maken van woonerven verkeersarme gebieden om de veiligheid te vergroten, het gemeenschapsgevoel te verbeteren en om onze kinderen meer ruimte te bieden om buiten te kunnen spelen. Volt geeft daar altijd voorrang aan. Ruimte voor spelen, ontmoeten en veiligheid, boven de bereikbaarheid per auto."
+        },
+        "114799": {
+          "position": "agree",
+          "explanation": "Onze ambitie is om stapsgewijs te groeien naar een autoluw centrum door alternatieve vervoerswijzen te stimuleren en de openbare ruimte anders in te richten. We volgen hier succesvolle modellen van meerdere Europese steden zoals Delft, Leiden of Strasbourg (die dit al 20 jaar geleden heeft gedaan)."
+        },
+        "114800": {
+          "position": "agree",
+          "explanation": "Volt wil overlastgevende industrieën binnen woongebieden laten transformeren, zodat ze passen bij een circulaire en emissievrije economie, en als dat niet kan ze laten vertrekken uit het centrum."
+        },
+        "114801": {
+          "position": "agree",
+          "explanation": "In het voorjaar van 2026 gaat de weg flink op de schop om ingericht te worden als 30 kilometerweg. Met deze nieuwe inrichting en de lagere maximumsnelheid verwacht de gemeente dat vrachtwagens voor andere routes gaan kiezen."
+        },
+        "114803": {
+          "position": "disagree",
+          "explanation": "Het zou prachtig zijn als alle bruggen weer terugkwamen in het centrum, maar het kost veel te veel geld, de bruggen zijn te laag en te oud om zomaar te veranderen, bovendien zouden alleen de kleine bootjes er gebruik van kunnen maken. Het is jammer, maar soms moet je keuzes maken."
+        }
+      }
+    }
+  ],
+  "statements": [
+    {
+      "id": 114800,
+      "index": 1,
+      "theme": "Cargill fabriek",
+      "themeId": "cargill-fabriek",
+      "title": "De gemeente moet ervoor zorgen dat de Cargill-fabriek uit het centrum vertrekt.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114742,
+      "index": 2,
+      "theme": "Referendum",
+      "themeId": "referendum",
+      "title": "De inwoners van Gouda moeten over belangrijke onderwerpen hun mening kunnen geven via een referendum.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114757,
+      "index": 3,
+      "theme": "Lokale media",
+      "themeId": "lokale-media",
+      "title": "De gemeente moet de lokale omroep ondersteunen met extra geld.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114745,
+      "index": 4,
+      "theme": "Openingstijden horeca",
+      "themeId": "openingstijden-horeca",
+      "title": "Cafés en restaurants moeten zelf hun openingstijden kunnen bepalen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114752,
+      "index": 5,
+      "theme": "Vuurwerk",
+      "themeId": "vuurwerk",
+      "title": "De gemeente moet op oudejaarsavond een vuurwerkshow organiseren.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114798,
+      "index": 6,
+      "theme": "Minder parkeerplaatsen",
+      "themeId": "minder-parkeerplaatsen",
+      "title": "Er moeten minder parkeerplaatsen komen in de wijken.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114748,
+      "index": 7,
+      "theme": "Asielzoekerscentrum",
+      "themeId": "asielzoekerscentrum",
+      "title": "De asielopvang in onze gemeente moet zo snel mogelijk sluiten.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114768,
+      "index": 8,
+      "theme": "Zelf bewonen van een koophuis",
+      "themeId": "zelf-bewonen-van-een-koophuis",
+      "title": "Wie een woning in onze gemeente koopt, moet daar zelf in gaan wonen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114778,
+      "index": 9,
+      "theme": "Zorgkeuze",
+      "themeId": "zorgkeuze",
+      "title": "Mensen die zorg nodig hebben moeten altijd kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of levensovertuiging.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114759,
+      "index": 10,
+      "theme": "Muziekles",
+      "themeId": "muziekles",
+      "title": "Elk basisschoolkind moet met subsidie van de gemeente muziekles kunnen krijgen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114785,
+      "index": 11,
+      "theme": "Koopzondagen",
+      "themeId": "koopzondagen",
+      "title": "De gemeente moet minder koopzondagen toelaten.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114801,
+      "index": 12,
+      "theme": "Vrachtwagenverbod Wilhelminaweg",
+      "themeId": "vrachtwagenverbod-wilhelminaweg",
+      "title": "De Koningin Wilhelminaweg moet verboden worden voor vrachtwagens.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114763,
+      "index": 13,
+      "theme": "Cameratoezicht",
+      "themeId": "cameratoezicht",
+      "title": "In Gouda moet meer cameratoezicht komen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114773,
+      "index": 14,
+      "theme": "Armoedebestrijding",
+      "themeId": "armoedebestrijding",
+      "title": "De gemeente moet de inkomensgrens om hulp te krijgen bij armoede verhogen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114764,
+      "index": 15,
+      "theme": "Handhavers",
+      "themeId": "handhavers",
+      "title": "De boa's die in Gouda controleren op veiligheid moeten een wapenstok krijgen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114776,
+      "index": 16,
+      "theme": "Snelheid auto's",
+      "themeId": "snelheid-auto-s",
+      "title": "De maximumsnelheid binnen de bebouwde kom moet naar 30 km/u.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114766,
+      "index": 17,
+      "theme": "Voorrang huisvesting",
+      "themeId": "voorrang-huisvesting",
+      "title": "Bij de toewijzing van een sociale huurwoning moeten woningzoekenden uit de eigen gemeente voorrang krijgen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114780,
+      "index": 18,
+      "theme": "Gratis menstruatieproducten",
+      "themeId": "gratis-menstruatieproducten",
+      "title": "De gemeente moet gratis tampons en maandverband verspreiden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114771,
+      "index": 19,
+      "theme": "Tegenprestatie voor uitkering",
+      "themeId": "tegenprestatie-voor-uitkering",
+      "title": "Mensen die een bijstandsuitkering krijgen, moeten in ruil daarvoor maatschappelijk zinvol werk doen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114786,
+      "index": 20,
+      "theme": "Voorrang voor vluchtelingen",
+      "themeId": "voorrang-voor-vluchtelingen",
+      "title": "De gemeente moet vluchtelingen met een verblijfsvergunning voorrang blijven geven op een sociale huurwoning.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114779,
+      "index": 21,
+      "theme": "Jeugdzorg",
+      "themeId": "jeugdzorg",
+      "title": "De gemeente moet  bij het selecteren van organisaties voor jeugdhulp vooral letten op de prijs.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114790,
+      "index": 22,
+      "theme": "Buurthuis Goverwelle",
+      "themeId": "buurthuis-goverwelle",
+      "title": "Gouda moet een nieuw buurthuis aanleggen In de wijk Goverwelle.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114781,
+      "index": 23,
+      "theme": "Belasting op gebouwen",
+      "themeId": "belasting-op-gebouwen",
+      "title": "De onroerendezaakbelasting (ozb) moet omlaag.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114792,
+      "index": 24,
+      "theme": "Coffeeshops",
+      "themeId": "coffeeshops",
+      "title": "De gemeente moet de vestiging van nieuwe coffeeshops toestaan.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114784,
+      "index": 25,
+      "theme": "Bedrijventerreinen",
+      "themeId": "bedrijventerreinen",
+      "title": "In Gouda moeten meer bedrijventerreinen komen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114799,
+      "index": 26,
+      "theme": "Autovrij",
+      "themeId": "autovrij",
+      "title": "Het centrum van Gouda moet autovrij worden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114782,
+      "index": 27,
+      "theme": "Hondenbelasting",
+      "themeId": "hondenbelasting",
+      "title": "De gemeente moet de hondenbelasting afschaffen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114788,
+      "index": 28,
+      "theme": "Zonnepanelen op landbouwgrond",
+      "themeId": "zonnepanelen-op-landbouwgrond",
+      "title": "De gemeente moet zonnepanelen op landbouwgrond toestaan.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114797,
+      "index": 29,
+      "theme": "Betaald parkeren goedkoper",
+      "themeId": "betaald-parkeren-goedkoper",
+      "title": "Betaald parkeren in het centrum moet goedkoper worden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114803,
+      "index": 30,
+      "theme": "Varen",
+      "themeId": "varen",
+      "title": "De gemeente moet ervoor zorgen dat je onder de bruggen in het centrum door kunt varen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    }
+  ]
+}

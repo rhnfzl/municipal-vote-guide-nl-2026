@@ -1,0 +1,1379 @@
+{
+  "id": "GM0777",
+  "name": "Etten-Leur",
+  "slug": "etten-leur",
+  "parties": [
+    {
+      "id": 113983,
+      "name": "APB Etten-Leur",
+      "fullName": "Algemeen Plaatselijk Belang",
+      "website": "https://www.apbetten-leur.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "114003": {
+          "position": "disagree",
+          "explanation": "Het gaat om de kwaliteit van de bestuurders. Of het een man of vrouw is maakt ons niet uit."
+        },
+        "114004": {
+          "position": "neither",
+          "explanation": "De huidige gemeenteraad is juist gekozen om hierover te besluiten. In de programma's is vaak duidelijk waar ze voorstaan. Daarnaast kunnen inwoners altijd inspreken en langs de de fractie gaan. In uitzonderlijke gevallen zou het overigens wel moeten kunnen."
+        },
+        "114007": {
+          "position": "disagree",
+          "explanation": "Het APB is het niet eens met deze stelling, omdat er nadrukkelijk staat dat de gemeente dit ALTIJD moet toestaan. Het buitengebied van Etten-Leur is karakteristiek en divers. Het biedt ruimte aan wonen, ondernemen en recreëren. Deze verschillende functies moeten in harmonie naast elkaar kunnen bestaan. Daarom wil het APB niet ongelimiteerd nieuwe functies toestaan in het buitengebied, maar moet toevoeging van functies goed afgewogen worden."
+        },
+        "114008": {
+          "position": "disagree",
+          "explanation": "We ondersteunen dergelijke initiatieven, maar niet met geld. Wel met hulp in de vorm van advies en bijvoorbeeld vergunningen als die nodig zijn.\r\n"
+        },
+        "114010": {
+          "position": "disagree",
+          "explanation": "Wij willen onze verantwoordelijkheid pakken om een deel van de asielzoekers op te vangen."
+        },
+        "114013": {
+          "position": "agree",
+          "explanation": "Onder de voorwaarde dat bij onacceptabele overlast wel opgetreden kan worden. Overigens is dit altijd al zo."
+        },
+        "114015": {
+          "position": "neither",
+          "explanation": "Dit zou een overweging kunnen zijn maar ons inziens moet eerst onderzocht worden of hier behoefte aan is. Daarnaast is het verstandig om eerst de landelijke wetgeving hieromtrent af te wachten."
+        },
+        "114016": {
+          "position": "neither",
+          "explanation": "Het afhalen van afval is nooit gratis. Het is altijd ergens in verdisconteerd. Wel zijn wij bereid te onderzoeken welke effecten en voordelen voor onze inwoners dit heeft."
+        },
+        "114018": {
+          "position": "disagree",
+          "explanation": "Wij vinden dit een taak van de ondernemers zelf. Overigens kunnen wij ze wel op eventuele subsidies wijzen e/o adviseren."
+        },
+        "114020": {
+          "position": "agree",
+          "explanation": "Personen/gezinnen met een inkomen van 120% bijstandsnorm kunnen aanspraak maken op de 'meedoenregeling'. Hier vallen mensen met een bijstandsuitkering ook onder. Dit willen wij zo behouden."
+        },
+        "114023": {
+          "position": "disagree",
+          "explanation": "Het is aan de ouders om dit te betalen. In bepaalde gevallen (wanneer bijvoorbeeld een kind in armoede leeft) kan hiervoor een beroep worden gedaan op de 'meedoenregeling'."
+        },
+        "114024": {
+          "position": "neither",
+          "explanation": "De gemeente moet de sportverenigingen zeker helpen maar dit hoeft niet altijd financieel. Dit kan ook via advies, verruimen mogelijkheden van de accommodatie, bevorderen van samenwerking of wijzen op subsidiemogelijkheden."
+        },
+        "114030": {
+          "position": "disagree",
+          "explanation": "Ons inziens wordt er voldoende gevarieerd gebouwd voor elke doelgroep."
+        },
+        "114031": {
+          "position": "agree",
+          "explanation": "Onder strikte voorwaarden en met vergunning zouden wij dit tijdelijk kunnen doen om de druk op de woonmarkt te verlagen."
+        },
+        "114032": {
+          "position": "neither",
+          "explanation": "We willen de komende 4 jaar woningbouw realiseren in Haansberg. Te starten met 1400 woningen in het zuidelijk deel. Daarnaast willen we in dezelfde periode ook met de verplaatsing van de Intratuin in dat gebied ongeveer 300 woningen toevoegen. Op de langere termijn zien wij ook de noodzaak om woningen toe te voegen in het Noordelijk deel van Haansberg. Als we alleen woningbouw toe zouden staan in binnenstedelijk gebied, dan kunnen we nooit ervoor zorgen dat iedereen in Etten-Leur een geschikte woning kan vinden."
+        },
+        "114035": {
+          "position": "disagree",
+          "explanation": "Er zijn thans voldoende regelingen om indien nodig hulp te krijgen. Maatwerk is het credo."
+        },
+        "114036": {
+          "position": "disagree",
+          "explanation": "De gemeente moet wel het jongerenwerk blijvend uitdagen om zaken te verbeteren."
+        },
+        "114038": {
+          "position": "disagree",
+          "explanation": "Per straat of gebied moet dit worden bekeken. Op bepaalde wegen moet 50km/uur gereden kunnen worden om de doorstroming te bevorderen."
+        },
+        "114039": {
+          "position": "neither",
+          "explanation": "Binnen Etten-Leur wordt er gewerkt met verschillende vaste zorgverleners (via een aanbesteding). Wij zijn echter wel voorstander voor het behoud van maatwerk waar nodig/gewenst."
+        },
+        "114042": {
+          "position": "disagree",
+          "explanation": "Hondenbelasting moet kostendekkend zijn. Wij zijn voor goede hondenuitlaatterreinen die goed onderhouden worden maar 'de gebruiker betaalt'."
+        },
+        "114043": {
+          "position": "disagree",
+          "explanation": "De toeristenbelasting in Etten-Leur is momenteel lager dan gemiddeld in Noord-Brabant."
+        },
+        "114044": {
+          "position": "neither",
+          "explanation": "Er moet voldoende ruimte zijn om te werken. Op dit moment is die ruimte er."
+        },
+        "114045": {
+          "position": "disagree",
+          "explanation": "Ze hoeven geen voorrang te hebben maar er zou wel een contigent voor hen beschikbaar moeten zijn."
+        },
+        "114046": {
+          "position": "disagree",
+          "explanation": "Afval inleveren is nooit gratis. Dit zit in het tarief. Wij houden het liever bij het huidige systeem. Inwoners moeten uitgedaagd worden om minder afval in te leveren en dat kan o.a. met een financiele prikkel"
+        },
+        "114047": {
+          "position": "disagree",
+          "explanation": "De Nobelaer heeft grote maatschappelijke waarde. Wel moeten we altijd kritisch kijken naar hun financiële huishouding."
+        },
+        "114049": {
+          "position": "agree",
+          "explanation": "Coffeeshops leveren vaak overlast op. 1 coffyshop is beheersbaar."
+        },
+        "114050": {
+          "position": "disagree",
+          "explanation": "Wij vinden het landelijk percentage beter om balans te houden tussen haalbaarheid, sociale cohesie en vraag naar woningen. Maar ook vanuit financieel oogpunt."
+        },
+        "114051": {
+          "position": "agree",
+          "explanation": "Mits stedenbouwkundig goed inpasbaar."
+        },
+        "114053": {
+          "position": "disagree",
+          "explanation": "Betaald parkeren moet niet duurder zijn dan de concurrerende centra in de regio."
+        },
+        "114055": {
+          "position": "neither",
+          "explanation": "Wij streven een autoluw centrum na. M.a.w. een deel van het centrum op een bepaald tijdsperiode autovrij en op bepaalde tijden wel bereikbaar. Dit om het centrum bruisend te houden/maken."
+        }
+      }
+    },
+    {
+      "id": 113984,
+      "name": "Ons Etten-Leur",
+      "fullName": "Ons Etten-Leur",
+      "website": "https://www.ons-etten-leur.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "114003": {
+          "position": "neither",
+          "explanation": "Het ideaal beeld zou zijn dat het aantal mannen en vrouwen gelijk is in een college, echter is de belangrijkste voorwaarde een kwalitatief goed college."
+        },
+        "114004": {
+          "position": "agree",
+          "explanation": "De mogelijkheid voor inspraak van inwoners is altijd belangrijk in een democratie. Bij een referendum is het wel belangrijk om zoveel mogelijk volledige en juiste informatie bij iedereen te krijgen, zodat mensen een afgewogen keuze kunnen maken. Dit geldt zowel fysiek als digitaal."
+        },
+        "114007": {
+          "position": "neither",
+          "explanation": "Daar waar mogelijk moeten boeren de mogelijkheid krijgen om een winkel of camping te openen."
+        },
+        "114008": {
+          "position": "agree",
+          "explanation": "Wij zijn voorstander van nieuwe, slimme en kleinschalige mogelijkheden om energie op te wekken, zodat we zo snel mogelijk een energie neutrale gemeente kunnen worden."
+        },
+        "114010": {
+          "position": "disagree",
+          "explanation": "Ons Etten-Leur staat voor een menswaardig bestaan. Asielopvang is nu nog nodig en daar nemen wij onze verantwoordelijkheid voor."
+        },
+        "114013": {
+          "position": "neither",
+          "explanation": "Wij volgen hierin landelijke wetgeving."
+        },
+        "114015": {
+          "position": "agree",
+          "explanation": "Wij zijn voorstander van 2 centraal georganiseerde vuurwerkshows, zowel in Etten als op de Leur, met bijbehorend feest met oud & nieuw."
+        },
+        "114016": {
+          "position": "agree",
+          "explanation": "Er is minder kans op zwerfafval als er meer opties aanwezig zijn."
+        },
+        "114018": {
+          "position": "neither",
+          "explanation": "Wij verwachten dat ondernemers in eerste instantie zelf zorgen voor een goede toegang tot hun gebouw."
+        },
+        "114020": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "114023": {
+          "position": "disagree",
+          "explanation": "Daar waar het voor het kind niet betaald kan worden, moeten er mogelijkheden zijn bij de gemeente. Zoals bijvoorbeeld de huidige minimaregeling."
+        },
+        "114024": {
+          "position": "neither",
+          "explanation": "Sporten moet voor iedere inwoner en kind in Etten-Leur mogelijk zijn."
+        },
+        "114030": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "114031": {
+          "position": "disagree",
+          "explanation": "Hier is landelijke wetgeving voor waarin Ons Etten-Leur zich kan vinden."
+        },
+        "114032": {
+          "position": "neither",
+          "explanation": "Woningbouw moet passen in het landelijke karakter."
+        },
+        "114035": {
+          "position": "disagree",
+          "explanation": "Ons Etten-Leur wil dat iedere inwoner die onder de 120% norm valt (120% van de bijstandsuitkering), recht heeft op diverse voorzieningen zodat ze een menswaardig bestaan hebben."
+        },
+        "114036": {
+          "position": "disagree",
+          "explanation": "Er dient voldoende mankracht te zijn met voldoende ondersteuning. Om jeugd bezig en betrokken te houden en beter inzicht te krijgen in de doelgroep. Er vallen nu jongeren buiten de activiteiten/hulp. Deze kunnen door jongerenwerkers in hun kracht gezet worden."
+        },
+        "114038": {
+          "position": "agree",
+          "explanation": "In de bebouwde kom 30 km per uur als het noodzakelijk is voor de verkeersveiligheid."
+        },
+        "114039": {
+          "position": "agree",
+          "explanation": "Je moet kunnen kiezen, maar het moet praktisch ook uitvoerbaar zijn. Zorgverleners zijn schaars en soms is de gewenste zorgverlener niet beschikbaar. Dan moet er ook geschakeld kunnen worden naar een andere zorgverlener."
+        },
+        "114042": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "114043": {
+          "position": "disagree",
+          "explanation": "Toeristenbelasting moet gebruikt worden voor een mooi en aantrekkelijk Etten-Leur."
+        },
+        "114044": {
+          "position": "disagree",
+          "explanation": "Eerst leegstand op bestaande terreinen opvullen, zowel binnen Etten-Leur als regionaal. Daarnaast moeten de voorzieningen op de huidige terreinen op orde zijn."
+        },
+        "114045": {
+          "position": "disagree",
+          "explanation": "Etten-Leur heeft een landelijke plicht om een x aantal statushouders/vluchtelingen te huisvesten. Ons Etten-Leur vind het ook belangrijk dat onze inwoners kunnen wonen in Etten-Leur. Standaard voorrang voor vluchtelingen zijn wij het dus niet mee eens."
+        },
+        "114046": {
+          "position": "neither",
+          "explanation": "Een aantal keer grof afval gratis laten ophalen moet mogelijk zijn, maar het basisprincipe moet zijn dat de vervuiler betaalt."
+        },
+        "114047": {
+          "position": "disagree",
+          "explanation": "We hebben daar geldende afspraken voor. Tevens vind Ons Etten-Leur de Nobelaer noodzakelijk voor Etten-Leur."
+        },
+        "114049": {
+          "position": "agree",
+          "explanation": "Wij hebben al een coffeeshop in Etten-Leur en dat is voldoende."
+        },
+        "114050": {
+          "position": "disagree",
+          "explanation": "Etten-Leur heeft een 30% norm en dit vind Ons Etten-Leur toereikend."
+        },
+        "114051": {
+          "position": "agree",
+          "explanation": "Wel met de kanttekening dat dit passend is in de omgeving."
+        },
+        "114053": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "114055": {
+          "position": "neither",
+          "explanation": "Ons Etten-Leur wil starten met het autoluw maken van het centrum, waarbij daarna gekeken kan worden naar verdere maatregelen."
+        }
+      }
+    },
+    {
+      "id": 113986,
+      "name": "CDA",
+      "fullName": "Christen-Democratisch Appèl",
+      "website": "https://www.cda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "114003": {
+          "position": "disagree",
+          "explanation": "gaat om de kwaliteit van college"
+        },
+        "114004": {
+          "position": "disagree",
+          "explanation": "er is al veel participatie georganiseerd."
+        },
+        "114007": {
+          "position": "agree",
+          "explanation": "op voorwaarde dat het past in de omgeving"
+        },
+        "114008": {
+          "position": "agree",
+          "explanation": "dit is al geregeld"
+        },
+        "114010": {
+          "position": "disagree",
+          "explanation": "we geven uitvoering aan de Spreidingswet"
+        },
+        "114013": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "114015": {
+          "position": "agree",
+          "explanation": "hoeft niet per se een vuurwerkshow te zijn, mag ook een andere vorm hebben (lichtshow bijv)"
+        },
+        "114016": {
+          "position": "agree",
+          "explanation": "maar wel binnen bestaande afspraken (maximaal 2 keer een halve kuub per jaar gratis ophalen)"
+        },
+        "114018": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "114020": {
+          "position": "agree",
+          "explanation": "er zijn voorzieningen om voor een deel bij te dragen aan de kosten van lidmaatschap sportverenigingen"
+        },
+        "114023": {
+          "position": "agree",
+          "explanation": "dat gebeurt ook via de subsidie aan de Nobelaer"
+        },
+        "114024": {
+          "position": "agree",
+          "explanation": "Vereniging moet zijn eigen broek op houden. Bij incidentele financiële problemen is er mogelijkheid om de vereniging te ondersteunen"
+        },
+        "114030": {
+          "position": "agree",
+          "explanation": "niet alleen voor ouderen, maar ook voor jongeren geschikt."
+        },
+        "114031": {
+          "position": "agree",
+          "explanation": "is conform landelijk beleid"
+        },
+        "114032": {
+          "position": "agree",
+          "explanation": "Haansberg en Lage Vaartkant zijn de laatste twee uitbreidingsgebieden binnen de dorpsgrens"
+        },
+        "114035": {
+          "position": "disagree",
+          "explanation": "de huidige regeling gaat tot 120% van de bijstandsnorm en dat is voldoende."
+        },
+        "114036": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "114038": {
+          "position": "agree",
+          "explanation": "met uitzondering van de doorgaande (hoofd)wegen"
+        },
+        "114039": {
+          "position": "neither",
+          "explanation": "verlenen van zorg vindt plaats zonder onderscheid van geloof, cultuur of levensovertuiging. Mensen hebben altijd de mogelijkheid hun eigen zorgvoorkeur aan te geven."
+        },
+        "114042": {
+          "position": "disagree",
+          "explanation": "vervuiler betaalt"
+        },
+        "114043": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "114044": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "114045": {
+          "position": "disagree",
+          "explanation": "er is wel aandacht nodig voor het huisvesten van statushouders"
+        },
+        "114046": {
+          "position": "disagree",
+          "explanation": "vervuiler betaalt"
+        },
+        "114047": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "114049": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "114050": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "114051": {
+          "position": "disagree",
+          "explanation": "met uitzondering voor lokaties die daarvoor geschikt zijn zoals centrum, Haansberg"
+        },
+        "114053": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "114055": {
+          "position": "disagree",
+          "explanation": "we willen het centrum autoluw maken"
+        }
+      }
+    },
+    {
+      "id": 113989,
+      "name": "VVD",
+      "fullName": "Volkspartij voor Vrijheid en Democratie",
+      "website": "https://www.vvd.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "114003": {
+          "position": "disagree",
+          "explanation": "De Etten-Leurse VVD vindt dat kwaliteit, ervaring en geschiktheid doorslaggevend moeten zijn bij de samenstelling van het college van burgemeester en wethouders. Diversiteit is belangrijk en verrijkt het bestuur, maar een verplicht gelijke verdeling mag nooit belangrijker zijn."
+        },
+        "114004": {
+          "position": "neither",
+          "explanation": "Wij vinden het belangrijk dat inwoners goed betrokken worden bij belangrijke besluiten. Inspraak, participatie en goede communicatie vanuit de gemeente zijn essentieel. Tegelijkertijd vinden wij dat een referendum niet altijd het juiste middel is voor complexe afweging."
+        },
+        "114007": {
+          "position": "disagree",
+          "explanation": "Wij zien kansen voor agrarische ondernemers. Dit kan bijdragen aan een vitaal buitengebied en extra inkomsten voor boeren. Tegelijkertijd vinden wij dat dit niet altijd en onbeperkt moet kunnen. Er moet wel oog zijn voor ruimtelijke ordening, verkeersveiligheid ren leefbaarheid."
+        },
+        "114008": {
+          "position": "agree",
+          "explanation": "Wij willen verduurzaming stimuleren. Lokale energie-initiatieven vergroten het draagvlak, versterken de betrokkenheid en dragen bij aan het behalen van de klimaatdoelen. Financiële steun kan hierbij helpen, mits doelgericht en financieel verantwoord."
+        },
+        "114010": {
+          "position": "disagree",
+          "explanation": "Wij vinden dat Etten-Leur haar verantwoordelijkheid moet nemen binnen de landelijke en regionale afspraken over asielopvang. Het zomaar en zo snel mogelijk sluiten van een asielopvang is niet realistisch. Wel moet er oog zijn voor draagvlak, veiligheid en leefbaarheid in de omgeving."
+        },
+        "114013": {
+          "position": "agree",
+          "explanation": "Wij vinden dat inwoners zelf keuzes moeten kunnen maken over het gebruik van open haarden en houtkachels. Een volledig verbod is moeilijk handhaafbaar. Wij erkennen dat houtstook overlast en gezondheidsklachten kan veroorzaken. Daarom vinden wij dat ingezet moet worden op bewustwording."
+        },
+        "114015": {
+          "position": "disagree",
+          "explanation": "Gemeenschapsgeld moet zorgvuldig worden besteed. Het organiseren van een gemeentelijke vuurwerkshow brengt aanzienlijke kosten met zich mee en past niet bij een financieel terughoudende gemeente. Wel kan de gemeente faciliteren of meedenken in de mogelijkheden op het gebied van veiligheid."
+        },
+        "114016": {
+          "position": "disagree",
+          "explanation": "De Etten-Leurse VVD vindt dat afvalbeleid eerlijk, betaalbaar en uitvoerbaar moet zijn. Gratis grofvuil aan huis ophalen klinkt aantrekkelijk, maar leidt tot hogere kosten voor de gemeente en daarmee uiteindelijk voor alle inwoners. Zo voorkomen wij stijging van de afvalstoffenheffing."
+        },
+        "114018": {
+          "position": "agree",
+          "explanation": "De Etten-Leurse VVD vindt het belangrijk dat iedereen mee kan doen in onze samenleving, ook mensen met een beperking. Toegankelijke winkels, horecagelegenheden en andere gebouwen dragen bij aan inclusie én vergroten het bereik van ondernemers."
+        },
+        "114020": {
+          "position": "agree",
+          "explanation": "Iiedereen moet de kans moet hebben om te sporten en mee te doen in de samenleving, ook mensen met een bijstandsuitkering. Sport draagt bij aan gezondheid, sociale contacten en preventie van zorgkosten. Financiële ondersteuning vanuit de gemeente kan helpen om drempels weg te nemen."
+        },
+        "114023": {
+          "position": "neither",
+          "explanation": "Wij zien de meerwaarde van muziekonderwijs voor de ontwikkeling van kinderen en ondersteunt initiatieven die cultuur toegankelijk maken. Tegelijkertijd vinden wij dat niet elk basisschoolkind verplicht of standaard met gemeentelijke subsidie muziekles hoeft te krijgen."
+        },
+        "114024": {
+          "position": "agree",
+          "explanation": "Sportverenigingen zijn het sociale cement van onze samenleving. Zij zorgen voor ontmoeting, gezondheid en betrokkenheid. Wanneer sportverenigingen financieel in de knel komen, kan gerichte ondersteuning vanuit de gemeente nodig zijn om hun maatschappelijke functie te behouden."
+        },
+        "114030": {
+          "position": "agree",
+          "explanation": "Wij vinden het belangrijk dat ouderen zo lang mogelijk zelfstandig en prettig in Etten-Leur kunnen blijven wonen. Meer kleine huur- en koopwoningen voor senioren zorgen voor passende huisvesting en bevorderen de doorstroming op de woningmarkt, waardoor ook gezinswoningen vrijkomen."
+        },
+        "114031": {
+          "position": "disagree",
+          "explanation": "Vakantiewoningen zijn bedoeld zijn voor recreatief gebruik en niet voor permanente bewoning. Het toestaan van vaste bewoning kan leiden tot ongewenste situaties, zoals druk op voorzieningen, handhavingsproblemen en het vervagen van het onderscheid tussen wonen en recreatie."
+        },
+        "114032": {
+          "position": "disagree",
+          "explanation": "Wij willen het woningtekort actief aanpakken. Dat betekent dat we eerst kijken naar bouwen binnen de bestaande dorpsgrenzen door herontwikkeling, inbreiding en slimmer ruimtegebruik. Tegelijkertijd vinden wij dat nieuwbouw buiten de dorpsgrenzen niet op voorhand uitgesloten mag worden."
+        },
+        "114035": {
+          "position": "neither",
+          "explanation": "Wij willen armoede effectief en gericht bestrijden. Hulp moet terechtkomen bij inwoners die deze écht nodig hebben. Het generiek verhogen van de inkomensgrens kan ertoe leiden dat middelen minder doelgericht worden ingezet en de ondersteuning verwatert."
+        },
+        "114036": {
+          "position": "disagree",
+          "explanation": "Jongerenwerk is als een belangrijke investering in preventie, veiligheid en sociale samenhang. Goed jongerenwerk helpt overlast voorkomen, ondersteunt jongeren in hun ontwikkeling en draagt bij aan veilige en leefbare wijken."
+        },
+        "114038": {
+          "position": "neither",
+          "explanation": "Wij vinden verkeersveiligheid zeer belangrijk. In veel straten kan een maximumsnelheid van 30 km/u bijdragen aan meer veiligheid en leefbaarheid. Tegelijkertijd is een generieke verlaging binnen de hele bebouwde kom niet altijd de beste oplossing. Dus harder waar dat veilig en verantwoord is."
+        },
+        "114039": {
+          "position": "agree",
+          "explanation": "Wij vinden keuzevrijheid een belangrijk uitgangspunt in de zorg. Wanneer mensen zorg nodig hebben, moet die zo goed mogelijk aansluiten bij hun persoonlijke situatie, waaronder geloof, cultuur of levensovertuiging. Dit kan bijdragen aan vertrouwen, kwaliteit van zorg en welzijn."
+        },
+        "114042": {
+          "position": "agree",
+          "explanation": "De hondenbelasting is verouderd en oneerlijk. Hondenbezitters betalen voor een voorziening die niet in verhouding staat tot de opbrengst, terwijl handhaving en administratie veel kosten. Bovendien dragen hondenbezitters al via de algemene middelen bij aan gemeentelijke voorzieningen."
+        },
+        "114043": {
+          "position": "agree",
+          "explanation": "Wij willen toerisme en recreatie stimuleren, omdat dit bijdraagt aan levendigheid, werkgelegenheid en lokale bestedingen. Een te hoge toeristenbelasting kan een drempel vormen voor bezoekers en ondernemers in de recreatie- en horecasector."
+        },
+        "114044": {
+          "position": "neither",
+          "explanation": "Een sterke lokale economie is belangrijk, met ruimte voor ondernemers om te groeien en zich te vestigen. Tegelijkertijd is de beschikbare ruimte schaars en moeten we zorgvuldig omgaan met landschap, bereikbaarheid en leefbaarheid. Alleen als er aantoonbaar behoefte is zijn wij akkoord."
+        },
+        "114045": {
+          "position": "disagree",
+          "explanation": "Het is belangrijk dat mensen met een verblijfsvergunning fatsoenlijk kunnen integreren en een nieuw leven kunnen opbouwen. Tegelijkertijd is de druk op de sociale huurmarkt groot en moeten ook iedereen in. Etten-Leur perspectief houden op een woning. Daarom bouwen voor de juiste doelgroep."
+        },
+        "114046": {
+          "position": "disagree",
+          "explanation": "Afvalbeleid moet eerlijk en betaalbaar blijven voor alle inwoners. Het volledig gratis maken van de milieustraat leidt tot hogere kosten voor de gemeente en daarmee uiteindelijk tot hogere afvalstoffenheffingen voor iedereen."
+        },
+        "114047": {
+          "position": "disagree",
+          "explanation": "De Nobelaer is een belangrijke culturele en maatschappelijke voorziening. Deze voorziening draagt bij aan leefbaarheid en verbinding in onze gemeente. Tegelijkertijd moet zorgvuldig met gemeenschapsgeld worden omgegaan en moeten wij dus kritisch blijven op de uitgaven en bestedingen."
+        },
+        "114049": {
+          "position": "agree",
+          "explanation": "De huidige situatie rondom coffeeshops moet beheersbaar blijven. De vestiging van nieuwe coffeeshops kan leiden tot extra druk op openbare orde, veiligheid en leefbaarheid in wijken. Wij zien geen noodzaak om dit aanbod uit te breiden en vinden dat de gemeente hier terughoudend in moet zijn."
+        },
+        "114050": {
+          "position": "disagree",
+          "explanation": "Bouwen voor alle doelgroepen: starters, gezinnen, senioren én mensen die zijn aangewezen op sociale huur. Een vaste norm van 40% sociale huur bij nieuwbouw vinden wij echter te rigide en niet passend bij iedere locatie of wijk. Zo’n hoge verplichting kan projecten financieel onhaalbaar maken."
+        },
+        "114051": {
+          "position": "agree",
+          "explanation": "Bouwen in de hoogte als een belangrijk middel om het woningtekort aan te pakken, zeker in een gemeente waar de ruimte schaars is. Hoge woonflats kunnen bijdragen aan extra woningen, betere doorstroming en een efficiënter gebruik van de beschikbare grond. Niet iedere locatie is hiervoor geschikt."
+        },
+        "114053": {
+          "position": "agree",
+          "explanation": "Wij willen een bereikbaar en aantrekkelijk centrum voor inwoners, bezoekers en ondernemers. Te hoge parkeertarieven kunnen een drempel vormen. Door betaald parkeren betaalbaar te houden of goedkoper te maken, stimuleren we winkelbezoek, horeca en evenementen."
+        },
+        "114055": {
+          "position": "disagree",
+          "explanation": "Een bereikbaar en levendig centrum is essentieel. Een volledig autovrij centrum gaat te ver en kan negatieve gevolgen hebben voor ondernemers, bereikbaarheid en bezoekers die afhankelijk zijn van de auto. Wij ondersteunen initiatieven op delen van het centrum, zoals in het bijzonder de Markt. Kortom: wel een autoluwe Markt, maar geen compleet autoluw centrum. "
+        }
+      }
+    },
+    {
+      "id": 113988,
+      "name": "GroenLinks-PvdA",
+      "fullName": "Groenlinks - Partij van de Arbeid",
+      "website": "https://groenlinkspvda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "114003": {
+          "position": "neither",
+          "explanation": "Er moet een goede verdeling zijn van mannen en vrouwen, maar kwaliteit moet leidend zijn."
+        },
+        "114004": {
+          "position": "disagree",
+          "explanation": "Daar is de gemeenteraad voor. Ook heeft de burger het recht om in te spreken en er wordt serieus naar ze geluisterd. Het contact tussen de diverse partijen en de burgers mag wel verbeterd worden."
+        },
+        "114007": {
+          "position": "neither",
+          "explanation": "Wij zijn voorstander van maatwerk. Als er geen argumenten zijn om het niet te doen, hebben wij er geen bezwaar tegen."
+        },
+        "114008": {
+          "position": "agree",
+          "explanation": "Als daar subsidies voor zijn, kan dat zeker. In andere gevallen zou het prettig zijn als met het opwekken de kosten weer worden gedekt."
+        },
+        "114010": {
+          "position": "disagree",
+          "explanation": "De asielopvang in Etten-Leur doet het uitstekend. Er is geen sprake van overlast en werkgevers kunnen deze mensen (op termijn) goed gebruiken."
+        },
+        "114013": {
+          "position": "neither",
+          "explanation": "Gebruik van houtkachels is niet wenselijk, maar als het verboden wordt, moeten er eerst goede alternatieven zijn."
+        },
+        "114015": {
+          "position": "agree",
+          "explanation": "Als daarmee enigszins tegemoet kan worden gekomen aan de behoefte aan vuurwerk afsteken zeker. Maar de neerslag van gif hierdoor blijft onwenselijk."
+        },
+        "114016": {
+          "position": "agree",
+          "explanation": "Veel mensen moeten extra geld uitgeven om het grof vuil af te voeren en dumpen daarom hun grof vuil op diverse plekken. We hopen dat hiermee het dumpen van afval afneemt."
+        },
+        "114018": {
+          "position": "agree",
+          "explanation": "Indien ondernemers dat niet kunnen bekostigen zouden ze een beroep moeten kunnen doen op de gemeente."
+        },
+        "114020": {
+          "position": "agree",
+          "explanation": "Geldgebrek mag geen reden zijn om niet mee te doen in onze gemeente. Dat geldt trouwens ook voor dingen als muziekonderwijs etc. ."
+        },
+        "114023": {
+          "position": "neither",
+          "explanation": "Alleen indien de ouders het niet zelf kunnen betalen. We vinden muziekles wel een wezenlijk onderdeel van de vorming van een kind."
+        },
+        "114024": {
+          "position": "agree",
+          "explanation": "Wij zijn voorstander van maatwerk. Zelfstandig als het kan. Ondersteunen als het moet."
+        },
+        "114030": {
+          "position": "agree",
+          "explanation": "Hier is grote vraag naar. Op deze manier komen er ook woningen vrij voor starters en gezinnen. Het moet wel betaalbaar zijn, want dat is een groot struikelblok om niet te verhuizen."
+        },
+        "114031": {
+          "position": "neither",
+          "explanation": "Er moet gebouwd worden naar behoefte. Vakantiewoningen gebruiken hiervoor is niet wenselijk. De bestemming moet liever niet gewijzigd worden, maar we zijn wel voorstander voor andere woonvormen."
+        },
+        "114032": {
+          "position": "neither",
+          "explanation": "Er is woningnood en er moet dus gebouwd worden. Wel moet het buitengebied waar mogelijk ontzien worden."
+        },
+        "114035": {
+          "position": "disagree",
+          "explanation": "De mens staat centraal. Wij zien dat de lonen ten opzichte van de kosten van basisbehoeften niet in gelijke mate zijn gestegen. Daarom zou gekeken moeten worden of het verhogen van de inkomensgrens ervoor zorgt dat we de juiste doelgroep bereiken van inwoners die niet voldoende in de eigen basisbehoefte kunnen voorzien."
+        },
+        "114036": {
+          "position": "disagree",
+          "explanation": "Wij zijn het er hier in principe niet mee eens. Wel moet goede gekeken worden naar wie de steun echt nodig heeft."
+        },
+        "114038": {
+          "position": "agree",
+          "explanation": "Veiligheid gaat voor. Dit is ook goed voor het milieu."
+        },
+        "114039": {
+          "position": "neither",
+          "explanation": "Als dat mogelijk is, hebben we er geen moeite mee. Het mag niet zo zijn dat de gemeente daartoe verplicht moet worden."
+        },
+        "114042": {
+          "position": "disagree",
+          "explanation": "De huidige regeling is goed. Er worden kosten gemaakt voor de uitlaatplekken. Maar er hoeft geen winst op te worden gemaakt."
+        },
+        "114043": {
+          "position": "neither",
+          "explanation": "Het is een bron van inkomsten voor de gemeente. Wij denken niet dat dat klein bedrag toeristen afschrikt. Bovendien maken ze ook gebruik van onze openbare voorzieningen."
+        },
+        "114044": {
+          "position": "disagree",
+          "explanation": "De braakliggende terreinen en ongebruikte panden moeten eerst maximaal gebruikt worden."
+        },
+        "114045": {
+          "position": "agree",
+          "explanation": "Vluchtelingen maken onderdeel uit van de voorrangsgroepen. In noodsituaties moeten ze dus voorrang krijgen. We moeten voorkomen dat ze dakloos worden."
+        },
+        "114046": {
+          "position": "disagree",
+          "explanation": "Afval verwerken kost geld. Dat moet ergens vandaan komen. De vervuiler betaald. Nee dus."
+        },
+        "114047": {
+          "position": "disagree",
+          "explanation": "De Nobelaer vervult een aantal essentiële functies. dat moet zo blijven en daar is geld voor nodig. de Nobelaer moet zich wel maximaal inzetten om zo min mogelijk subsidie nodig te hebben. De gemeenteraad moet daarop helpen toezien."
+        },
+        "114049": {
+          "position": "agree",
+          "explanation": "Als gemeente moeten we gezonde keuzes helpen stimuleren. er is reeds één. We zien de noodzaak voor een tweede niet."
+        },
+        "114050": {
+          "position": "agree",
+          "explanation": "Er is sterke behoefte aan woningen in de sociale klasse."
+        },
+        "114051": {
+          "position": "agree",
+          "explanation": "Waar mogelijk - rekening houdende met de omgeving - zeker."
+        },
+        "114053": {
+          "position": "disagree",
+          "explanation": "Wij zijn voorstander van het STOMP principe. We hebben dus liever dat mensen lopend of fietsend naar het centrum komen. Moderne oplossingen zoals (zelfrijdende) shuttlebusjes moeten ook bekeken worden."
+        },
+        "114055": {
+          "position": "agree",
+          "explanation": "Zo veel als mogelijk. Hierdoor wordt Etten-Leur aantrekkelijker voor de toerist en het winkelend publiek."
+        }
+      }
+    },
+    {
+      "id": 113987,
+      "name": "D66",
+      "fullName": "D66",
+      "website": "https://d66.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "114003": {
+          "position": "agree",
+          "explanation": "D66 staat voor gelijkwaardigheid en inclusie. Een evenwichtige vertegenwoordiging van mannen en vrouwen past bij goed en modern bestuur."
+        },
+        "114004": {
+          "position": "agree",
+          "explanation": "D66 stimuleert het gebruik van instrumenten van directe democratie zoals referenda."
+        },
+        "114007": {
+          "position": "agree",
+          "explanation": "Om agrariërs ook toekomstbestendig te laten ondernemen moet er ruimte zijn voor innovatie. Maatwerk, landschappelijke inpasbaarheid en overlast zijn hierbij wel van belang. Dit zou niet beperkt moeten zijn tot een winkel of camping, maar ook andere mogelijkheden voor innovatief ondernemen."
+        },
+        "114008": {
+          "position": "agree",
+          "explanation": "D66 wil lokale energiecoöperaties ruimte en steun geven, zodat inwoners samen kunnen investeren en profiteren van duurzame energie. Een energiegemeenschap zorgt voor lokale opwek en gebruik en verlaagt de druk op het elektriciteitsnet. Hierdoor is er ook meer ruimte op het net voor onze ondernemers."
+        },
+        "114010": {
+          "position": "disagree",
+          "explanation": "Etten-Leur laat zien dat opvang wél goed kan werken. D66 staat voor solidariteit en goede integratie. Ons asielzoekerscentrum laat zien dat het ook kan zonder overlast en met brede steun vanuit de samenleving."
+        },
+        "114013": {
+          "position": "disagree",
+          "explanation": "D66 kiest voor schone lucht en gezondheid. Houtstook veroorzaakt overlast en gezondheidsrisico’s en past niet bij een duurzame gemeente."
+        },
+        "114015": {
+          "position": "agree",
+          "explanation": "Een centrale vuurwerkshow is veiliger, duurzamer en gezelliger dan veel particulier vuurwerk. Hiermee voorkomen we overlast van particulier vuurwerk."
+        },
+        "114016": {
+          "position": "disagree",
+          "explanation": "D66 zet in op circulair afvalbeleid. Gratis ophalen stimuleert afvalproductie en past minder bij hergebruik en scheiding. Mensen met een kleine beurs moeten geholpen worden met hun afvalkosten."
+        },
+        "114018": {
+          "position": "disagree",
+          "explanation": "D66 staat voor inclusie, maar het is aan ondernemers zelf om dit financieel te regelen. De gemeente kan wel meedenken of wijzen op eventuele subsidiemogelijkheden."
+        },
+        "114020": {
+          "position": "agree",
+          "explanation": "Sport draagt bij aan preventie en de mentale en fysieke gezondheid van onze inwoners. D66 wil dat financiële drempels geen belemmering zijn om mee te kunnen doen. Dit geldt ook voor cultuur."
+        },
+        "114023": {
+          "position": "agree",
+          "explanation": "Cultuur en educatie dragen bij aan ontwikkeling en kansengelijkheid. D66 investeert hierin."
+        },
+        "114024": {
+          "position": "agree",
+          "explanation": "Sportverenigingen zijn cruciaal voor de mentale en fysieke gezondheid van onze inwoners, preventie en sociale cohesie en verdienen ondersteuning. Dit geldt ook voor culturele verenigingen."
+        },
+        "114030": {
+          "position": "agree",
+          "explanation": "Meer passende woningen voor ouderen bevorderen doorstroming en zelfstandig wonen. Ook gemengde woonvormen met jongeren zijn mogelijk, waarbij sociale cohesie en weerbaarheid bevorderd worden."
+        },
+        "114031": {
+          "position": "agree",
+          "explanation": "De gemeente moet dit tijdelijk toestaan in verband met het woningtekort maar het is niet de oplossing voor de woningcrisis."
+        },
+        "114032": {
+          "position": "disagree",
+          "explanation": "D66 is niet bang voor uitbreiding, zoals Haansberg, mits groen en landschap worden gerespecteerd. Wel zien we ook de meerwaarde van binnen de dorpsgrenzen te verdichten."
+        },
+        "114035": {
+          "position": "agree",
+          "explanation": "Meer mensen hebben hulp nodig door stijgende kosten. D66 kiest voor preventie en bestaanszekerheid"
+        },
+        "114036": {
+          "position": "disagree",
+          "explanation": "Ons jongerenwerk voorkomt problemen en draagt bij aan het mentale en fysieke welzijn van onze jongeren, preventie en veiligheid."
+        },
+        "114038": {
+          "position": "agree",
+          "explanation": "D66 steunt 30 km/u als maximumsnelheid waar dit de veiligheid en leefbaarheid verbetert. Op doorgaande ontsluitingswegen waar fietser en auto gescheiden zijn mag de maximumsnelheid wel 50 km/u blijven, zodat mensen gestimuleerd worden om niet door de wijken te rijden."
+        },
+        "114039": {
+          "position": "disagree",
+          "explanation": "Goede toegankelijkheid en hoge kwaliteit staan voorop in de zorg. Hierbinnen is meestal de keuze om een passende zorgverlener te kiezen maar is dit niet altijd mogelijk."
+        },
+        "114042": {
+          "position": "disagree",
+          "explanation": "De gebruiker betaalt. De opbrengst van de hondenbelasting moet worden ingezet voor de openbare ruimte en om hondenveldjes te onderhouden."
+        },
+        "114043": {
+          "position": "disagree",
+          "explanation": "Het huidige niveau is acceptabel en ondersteunt voorzieningen en toerisme. De huidige opbrengsten gebruiken we om te investeren in toerisme en recreatie. Aangezien de sector al te maken krijgt met een btw-verhoging is het verhogen van de toeristenbelasting de komende jaren niet wenselijk."
+        },
+        "114044": {
+          "position": "disagree",
+          "explanation": "D66 kiest voor revitalisatie en efficiënt gebruik, niet voor nieuwe terreinen. Met de recente ontwikkeling van het Frijado-terrein als extra bedrijventerrein hebben we al extra terrein gecreëerd."
+        },
+        "114045": {
+          "position": "neither",
+          "explanation": "D66 staat voor solidariteit én balans op de woningmarkt. Snelle integratie is belangrijk, maar vraagt zorgvuldigheid. In Etten-Leur voldoen we aan de landelijke taakstellingen wat betreft huisvesting van statushouders."
+        },
+        "114046": {
+          "position": "disagree",
+          "explanation": "Gratis aanbieden van afval stimuleert extra afval. D66 zet in op circulair gedrag en afvalscheiding. Daarnaast kunnen inwoners al twee keer per jaar een standaard hoeveelheid afval gratis inleveren. Mensen met een laag inkomen moeten hierin financieel ondersteund worden."
+        },
+        "114047": {
+          "position": "disagree",
+          "explanation": "De Nobelaer is het culturele hart van Etten-Leur en verdient blijvende steun. Daarnaast vervult de Nobelaer vele sociaal maatschappelijke functies die bijdragen aan preventie en sociale cohesie."
+        },
+        "114049": {
+          "position": "disagree",
+          "explanation": "D66 is voor regulering en spreiding, niet voor tegenhouden. Een tweede coffeeshop kan ook de druk op de omgeving van de enige coffeeshop verlichten."
+        },
+        "114050": {
+          "position": "disagree",
+          "explanation": "D66 houdt vast aan de 30-40-30 verdeling, met minimaal 30% sociale huur. Om doorstroming op gang te houden is het ook belangrijk om genoeg betaalbare koopwoningen en middeldure huurwoningen te bouwen."
+        },
+        "114051": {
+          "position": "agree",
+          "explanation": "Waar passend is hoogbouw nodig om de woningnood aan te pakken. Te veel mensen wachten op een woning: jongeren, ouderen en starters. Daarom moeten we doorpakken en lef tonen."
+        },
+        "114053": {
+          "position": "disagree",
+          "explanation": "Het huidige tarief is passend. D66 stimuleert fietsen, lopen en OV. Het tarief moet in de regio ook concurrerend blijven voor onze ondernemers en dus geen grote verhogingen."
+        },
+        "114055": {
+          "position": "agree",
+          "explanation": "Een autovrij centrum biedt meer mogelijkheden voor een bruisend Etten-Leur. Minder auto’s, meer ruimte voor voetgangers, fietsers, OV en verblijfskwaliteit."
+        }
+      }
+    },
+    {
+      "id": 113985,
+      "name": "Leefbaar Etten-Leur",
+      "fullName": "Leefbaar Etten-Leur",
+      "website": "https://www.leefbaarettenleur.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "114003": {
+          "position": "disagree",
+          "explanation": "Het is kwaliteit en niet het geslacht wat de kwalificatie moet zijn."
+        },
+        "114004": {
+          "position": "agree",
+          "explanation": "Er wordt onvoldoende geluisterd bij grote projecten dus het is belangrijk een stem via referendum te kunnen geven."
+        },
+        "114007": {
+          "position": "agree",
+          "explanation": "Bij zoeken naar alternatieve inkomsten zeker een optie. Wel aan maximum gebonden"
+        },
+        "114008": {
+          "position": "disagree",
+          "explanation": "De markt moet daar op inspelen."
+        },
+        "114010": {
+          "position": "agree",
+          "explanation": "Wat Leefbaar Etten-Leur betreft moet opvang van asielzoekers vooral in de regio plaatsvinden waar zij vandaan komen. De huidige stroom aan asielzoekers die Nederland binnenkomt is onhoudbaar en werkt ontwrichtend voor onze samenleving, maar ook voor de asielzoekers zelf."
+        },
+        "114013": {
+          "position": "agree",
+          "explanation": "Leefbaar Etten-Leur vindt het niet aan de gemeente om ‘achter de voordeur’ te handhaven. Wel kunnen voorlichtingscampagnes helpen om bewustwording te vergroten, maar het gebruiken van open haarden, houtkachels en barbecues blijft gewoon toegestaan."
+        },
+        "114015": {
+          "position": "disagree",
+          "explanation": "Het organiseren van een vuurwerkshow is geen gemeentelijke taak. Wat Leefbaar Etten-Leur betreft is dit iets dat door lokale ondernemers opgepakt kan en mag worden, waarbij de gemeente faciliterend optreedt, bijvoorbeeld door het (gratis) verlenen van een vergunning voor een vuurwerkshow."
+        },
+        "114016": {
+          "position": "agree",
+          "explanation": "Als de afvalstoffenheffing niet omlaag gaat mag er gratis grofvuil aan geboden worden. Met name voor inwoners die dat zelf niet kunnen wegbrengen. Het voorkomt zwerfafval bij containers."
+        },
+        "114018": {
+          "position": "disagree",
+          "explanation": "Ondernemers zullen hun gebouwen zelf en op eigen kosten toegankelijker moeten maken voor mensen met een beperking. Leefbaar Etten-Leur vindt dit geen gemeentelijke taak."
+        },
+        "114020": {
+          "position": "agree",
+          "explanation": "In Etten-Leur bestaat al een ‘Meedoen-regeling’. Wat Leefbaar Etten-Leur betreft wordt deze regeling voortgezet."
+        },
+        "114023": {
+          "position": "disagree",
+          "explanation": "Sporten is ook niet gratis, dus waarom zou muziekles wel gratis moeten zijn. Zwemles zou gratis moeten zijn."
+        },
+        "114024": {
+          "position": "disagree",
+          "explanation": "Sportverenigingen krijgen subsidie en hun accommodaties worden onderhouden door de gemeente. Dit kun je ook zien als financieel bijdragen."
+        },
+        "114030": {
+          "position": "agree",
+          "explanation": "Onderzoek wijst uit dat het realiseren van seniorenwoningen óók andere doelgroepen (zoals doorstromers en starters) geholpen worden. Naast meer kleine huur- en koopwoningen voor ouderen moet er ook een doorstroomregeling opgetuigd worden, waardoor ouderen makkelijkere is om door te stromen."
+        },
+        "114031": {
+          "position": "agree",
+          "explanation": "Het gebruiken van vakantiewoningen als vast woonadres kan helpen om de woningnood te verlichten. Wel moet er aandacht zijn voor een acceptabel woon- en leefklimaat. In Etten-Leur zijn er (bijna) geen vakantiewoningen, dus dit is op dit moment niet van toepassing."
+        },
+        "114032": {
+          "position": "disagree",
+          "explanation": "Genoeg is genoeg. Buitengebied heeft al fors moeten inleveren door woningen en aanleg nieuwe natuur. Er moet een leefbaar buitengebied blijven voor alle inwoners."
+        },
+        "114035": {
+          "position": "disagree",
+          "explanation": "Leefbaar Etten-Leur ziet geen redenen om de inkomensgrens die geldt bij het krijgen van hulp bij armoede te verhogen. Als de inkomensgrens nog verder stijgt, vervalt de stimulans om aan het werk te gaan of aan het werk te blijven."
+        },
+        "114036": {
+          "position": "agree",
+          "explanation": "Leefbaar Etten-Leur heeft de afgelopen jaren geen positieve effecten van het jongerenwerk gezien, de overlast in bepaalde wijken is juist enorm toegenomen. Op jongerenwerk kunnen we dan ook bezuinigen, waardoor we bijvoorbeeld extra boa’s aan kunnen nemen."
+        },
+        "114038": {
+          "position": "disagree",
+          "explanation": "Bij scholen en andere voorzieningen is een 30 km regiem terecht, voor doorstromend verkeer is 50 km het minimum. Daar waar de situatie daarom vraagt, bijvoorbeeld bij wegen zonder vrij liggende fietspaden of in de buurt van scholen of andere voorzieningen, is 30 km/u wel noodzaak."
+        },
+        "114039": {
+          "position": "disagree",
+          "explanation": "Inwoners die gebruikmaken van zorg die door de gemeente ingekocht/aangeboden wordt, hebben geen vrije keuze op basis van geloof, cultuur of levensovertuiging. Willen ze dit toch, dan zullen zij dat dan zelf moeten regelen én betalen."
+        },
+        "114042": {
+          "position": "agree",
+          "explanation": "De hondenbelasting levert de gemeente meer geld op dan dat er uitgegeven wordt aan het hondenbeleid. Het innen van hondenbelasting is duur dus afschaffen."
+        },
+        "114043": {
+          "position": "agree",
+          "explanation": "De toeristenbelasting en watertoerismebelasting moeten afgeschaft worden. Net als bij de hondenbelasting (Leefbaar Etten-Leur wil dat die óók afgeschaft wordt) kost de inning van deze belasting te veel ten opzichte van de opbrengsten."
+        },
+        "114044": {
+          "position": "disagree",
+          "explanation": "Leefbaar Etten-Leur vindt dat er in Etten-Leur al voldoende bedrijventerreinen zijn.Het frijado terrein was uitermate geschikt voor woningbouw."
+        },
+        "114045": {
+          "position": "disagree",
+          "explanation": "Leefbaar Etten-Leur vindt dat de voorrangspositie voor statushouders op sociale huurwoningen geschrapt moet worden. Onze eigen inwoners staan soms jarenlang op de wachtlijst voor een sociale huurwoningen, dat moet anders!"
+        },
+        "114046": {
+          "position": "agree",
+          "explanation": "Om het illegaal dumpen van afval tegen te gaan moet het inleveren van afval bij de milieu straat gratis worden voor onze inwoners. Door bij de milieu straat mensen die een uitkering ontvangen in te zetten kunnen de kosten drastisch teruggeschroefd worden."
+        },
+        "114047": {
+          "position": "neither",
+          "explanation": "Ze hebben nu de kans om uit de rode cijfers te komen, als dit niet het geval blijkt te zijn dan moeten we de nobelaer korte op hun subsidie en geen extra financiële middelen meer toekennen."
+        },
+        "114049": {
+          "position": "agree",
+          "explanation": "In Etten-Leur zit op dit moment één coffeeshop. Leefbaar Etten-Leur wil het hierbij houden, wij zien geen redenen om een extra coffeeshop toe te staan."
+        },
+        "114050": {
+          "position": "disagree",
+          "explanation": "Van alle woningen in Etten-Leur is ongeveer 27% een sociale huurwoningen. Wat Leefbaar Etten-Leur betreft mag dit toenemen tot ongeveer 30%, dat zijn meer dan 600 extra sociale huurwoningen. We vinden het niet nodig dat 40% van alle woningen een sociale huurwoning is, er moet een goede balans zijn."
+        },
+        "114051": {
+          "position": "agree",
+          "explanation": "Hoge(re) woonflats zijn nodig om het tekort aan woningen op te lossen. Wel dient altijd aandacht te zijn voor inpassing in de omgeving en parkeren."
+        },
+        "114053": {
+          "position": "agree",
+          "explanation": "Leefbaar Etten-Leur is voorstander van gratis parkeren in de parkeergarage. Dit heeft een aantrekkende werking op het winkelend publiek en dat werkt positief door naar onze ondernemers, werkgelegenheid en lokale economie."
+        },
+        "114055": {
+          "position": "disagree",
+          "explanation": "Winkels en voorzieningen in het centrum moeten bereikbaar blijven voor toeleveranciers en inwoners, zeker de inwoners met een beperking die afhankelijk zijn van een auto/motorvoertuig. Leefbaar Etten-Leur denkt dat het gratis maken van de parkeergarage kan helpen om het centrum autoluwer te maken."
+        }
+      }
+    },
+    {
+      "id": 155915,
+      "name": "JA21",
+      "fullName": "Juiste Antwoord 21",
+      "website": "https://etten-leur.ja21.nl/",
+      "hasSeats": false,
+      "participates": true,
+      "positions": {
+        "114003": {
+          "position": "neither",
+          "explanation": "Wij zetten in op kwaliteiten van mensen. De best geschikte persoon krijgt de functie ongeacht geslacht of geaardheid. Wij zetten daarmee echte gelijkheid voorop en geen oneerlijke diversiteitsquota’s."
+        },
+        "114004": {
+          "position": "agree",
+          "explanation": "Een betrouwbare gemeente zorgt voor invloed en betrokkenheid van de inwoners bij het beleid dat hen raakt. Een referendum kan het vertrouwen vertrouwen in de gemeente versterken."
+        },
+        "114007": {
+          "position": "agree",
+          "explanation": "JA21 wil ruimte geven voor ondernemers dus ook aan boeren waarin ondernemen wordt beloond en waarin de overheid zo veel mogelijk faciliteert in plaats van belast. Deze vrijheid levert economische groei op. JA21 wil dus geen betutteling en eindeloze bureaucratie, maar een economie die kan ademen."
+        },
+        "114008": {
+          "position": "disagree",
+          "explanation": "Er is grote druk op het Nederlandse energienet door de groei van wind- en zonne-energie (netcongestie), waarbij het net overbelast raakt door een combinatie van veel teruglevering (vooral op zonnige dagen/weekenden) en stijgende vraag naar stroom (elektrisch rijden, warmtepompen)."
+        },
+        "114010": {
+          "position": "agree",
+          "explanation": "In 2025 is het AZC in Etten-Leur geopend met een overeenkomst tot 31 maart 2028, maar er is een optie tot verlenging van 2 jaar, dus mogelijk tot 2030. Wij gaan voor geen uitbreiding van het huidige aantal asielzoekers en voor geen verlenging na 31 maart 2028."
+        },
+        "114013": {
+          "position": "agree",
+          "explanation": "Mensen bepalen zelf hun voorkeur. JA21 is tegen regels die de vrijheid van mensen onnodig inperken"
+        },
+        "114015": {
+          "position": "agree",
+          "explanation": "Professionele vuurwerkshow vanuit de gemeente vanaf 2026 als alternatief voor het landelijk totaalverbod. Dit kan betaald worden door het uitsparen van kosten (schade). Vorig jaar 23.488 plus preventieve maatregelen van 12.190 euro"
+        },
+        "114016": {
+          "position": "agree",
+          "explanation": "Geen extra kosten meer voor het buitenzetten van de restcontainer op reguliere ophaaldagen"
+        },
+        "114018": {
+          "position": "agree",
+          "explanation": "Een toegankelijk gebouw betekent dat mensen zelfstandig op hun bestemming kunnen komen"
+        },
+        "114020": {
+          "position": "disagree",
+          "explanation": "Geen wildgroei aan minimaregelingen. Werken moet gaan lonen."
+        },
+        "114023": {
+          "position": "disagree",
+          "explanation": "Muzieklessen zijn beschikbaar op eigen kosten. De belastingbetaler moet niet onnodig belast worden."
+        },
+        "114024": {
+          "position": "agree",
+          "explanation": "In eerste instantie is het aan verenigingen en ondernemers om zelf overeind te blijven. We hebben al subsidieregelingen en we moeten niet oneerlijke voorkeursposities creëren. De huidige raad heeft de subsidie voor sportclubs onder de 350 leden net afgeschaft. Dit moet teruggedraaid worden."
+        },
+        "114030": {
+          "position": "agree",
+          "explanation": "JA21 in voorstander van woon initiatieven zoals bijvoorbeeld knarrenhofjes. Helaas is een eerder plan om dit te realiseren op het terrein van de Wipakker niet doorgegaan. Wij willen een alternatief."
+        },
+        "114031": {
+          "position": "agree",
+          "explanation": "Permanente bewoning van vakantiewoningen vergroot snel het woningaanbod zonder extra bouw. Het biedt een oplossing voor woningzoekenden die nu geen alternatief hebben. Met duidelijke regels kan misbruik of overlast worden voorkomen."
+        },
+        "114032": {
+          "position": "disagree",
+          "explanation": "Wij zijn voorstander van de ‘straatje-erbij’-aanpak, waarbij uitbreiding aan de randen van Etten-Leur mogelijk wordt gemaakt. Daarnaast benutten we waar mogelijk inbreidingslocaties binnen de bestaande gemeentegrenzen."
+        },
+        "114035": {
+          "position": "neither",
+          "explanation": "Ook hier goed kijken naar de individuele situatie. Kun je werken dan werken en daar op investeren."
+        },
+        "114036": {
+          "position": "disagree",
+          "explanation": "Het is niet nodig om hier extra op te bezuinigen. Wel is JA21 kritisch op uitgaven van de gemeente en indien onnodige posten worden gevonden dan maken wij sneller en realistische plannen om het geld beter te benutten voor bijvoorbeeld lastenverlichting."
+        },
+        "114038": {
+          "position": "disagree",
+          "explanation": "Verkeersonveilige locaties pakken we met voorrang aan maar we zorgen voor een goede doorstroming door wegen niet onnodig af te waarderen naar 30 km/u."
+        },
+        "114039": {
+          "position": "agree",
+          "explanation": "JA21 pleit ervoor de burger en diens wensen en behoeften centraal te stellen in de zorgverlening. Mensen bepalen zelf welke zorgverlener ze kiezen."
+        },
+        "114042": {
+          "position": "neither",
+          "explanation": "Maar wel zorgen voor goed onderhoud van de hondenuitlaat plaatsen en tijdig legen van de prullenbakken daar met hondenuitwerpselen."
+        },
+        "114043": {
+          "position": "neither",
+          "explanation": "Maar niet zonder noodzaak verhogen"
+        },
+        "114044": {
+          "position": "agree",
+          "explanation": "JA21 staat voor de ondernemers en werkenden. Mits dit bedrijventerrein veel werkgelegenheid meebrengt zien wij een positieve impact voor Etten-Leur."
+        },
+        "114045": {
+          "position": "disagree",
+          "explanation": "Wij zetten ons in voor de Etten-Leurenaren en voor het verlagen van de wachtrijen op de woningmarkt. Het is niet eerlijk om mensen van buitenaf voor te trekken."
+        },
+        "114046": {
+          "position": "agree",
+          "explanation": "Het afvalbeleid is onduidelijk, duur en inefficiënt. Afvalcontainers puilen uit, afvaldumping neemt toe."
+        },
+        "114047": {
+          "position": "agree",
+          "explanation": "De Nobelaer in Etten-Leur heeft in verschillende jaren extra financiële steun ontvangen van de gemeente. Nu is er in 2025 weer 460.00 euro extra toegezegd. JA21 erkent De Nobelaer als een belangrijk cultureel onderdeel van Etten-Leur maar vindt niet dat het tekort steeds aangevuld moet worden."
+        },
+        "114049": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "114050": {
+          "position": "disagree",
+          "explanation": "We willen we af van overmatige regels die bouwprojecten vertragen of onnodig duur maken. Wij laten het bouwen van woningen daarom zoveel mogelijk aan de markt over, met zo min mogelijk verplichte bouwpercentages voor verschillende woningcategorieën of belemmerende duurzaamheidsmaatregelen."
+        },
+        "114051": {
+          "position": "agree",
+          "explanation": "Wel met behoud van ons dorpse karakter en oude kern van de Leur"
+        },
+        "114053": {
+          "position": "agree",
+          "explanation": "Om parkeerdruk in het centrum te vermijden, willen wij het parkeren in de ondergrondse parkeergarage aantrekkelijker maken door 1 uur gratis parkeren aan te bieden"
+        },
+        "114055": {
+          "position": "agree",
+          "explanation": "Wij pleiten voor een autovrije Markt, mits goed afgestemd met inwoners en ondernemers — met compensatie bij nadelige gevolgen."
+        }
+      }
+    }
+  ],
+  "statements": [
+    {
+      "id": 114047,
+      "index": 1,
+      "theme": "De Nobelaer",
+      "themeId": "de-nobelaer",
+      "title": "Etten-Leur moet De Nobelaer geen geld meer geven.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114018,
+      "index": 2,
+      "theme": "Toegankelijkheid gebouwen",
+      "themeId": "toegankelijkheid-gebouwen",
+      "title": "De gemeente moet ondernemers financieel helpen om hun gebouw toegankelijker te maken voor mensen met een beperking.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114007,
+      "index": 3,
+      "theme": "Boerencampings",
+      "themeId": "boerencampings",
+      "title": "De gemeente moet boeren altijd toestaan om bij hun boerenbedrijf bijvoorbeeld een winkel of een camping te openen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114030,
+      "index": 4,
+      "theme": "Seniorenwoningen",
+      "themeId": "seniorenwoningen",
+      "title": "In Etten-Leur moeten meer kleine huur- en koopwoningen worden gebouwd voor ouderen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114036,
+      "index": 5,
+      "theme": "Jongerenwerk",
+      "themeId": "jongerenwerk",
+      "title": "De gemeente moet bezuinigen op het jongerenwerk.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114023,
+      "index": 6,
+      "theme": "Muziekles",
+      "themeId": "muziekles",
+      "title": "Elk basisschoolkind moet met subsidie van de gemeente muziekles kunnen krijgen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114008,
+      "index": 7,
+      "theme": "Duurzame energie",
+      "themeId": "duurzame-energie",
+      "title": "Inwoners die samen duurzame energie op willen wekken, moeten financiële steun krijgen van de gemeente.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114013,
+      "index": 8,
+      "theme": "Houtstook",
+      "themeId": "houtstook",
+      "title": "In Etten-Leur moet het gebruik van open haarden en houtkachels toegestaan blijven.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114055,
+      "index": 9,
+      "theme": "Autovrij",
+      "themeId": "autovrij",
+      "title": "Het centrum van Etten-Leur moet autovrij worden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114051,
+      "index": 10,
+      "theme": "Woonflats",
+      "themeId": "woonflats",
+      "title": "In Etten-Leur mogen meer hoge woonflats komen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114010,
+      "index": 11,
+      "theme": "Asielopvang",
+      "themeId": "asielopvang",
+      "title": "De asielopvang in onze gemeente moet zo snel mogelijk sluiten.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114020,
+      "index": 12,
+      "theme": "Contributie sport",
+      "themeId": "contributie-sport",
+      "title": "De gemeente moet het lidmaatschap van een sportclub betalen voor mensen met een bijstandsuitkering.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114032,
+      "index": 13,
+      "theme": "Woningbouw",
+      "themeId": "woningbouw",
+      "title": "De gemeente moet nieuwbouw buiten de bestaande dorpsgrenzen tegengaan.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114003,
+      "index": 14,
+      "theme": "Burgemeester en college",
+      "themeId": "burgemeester-en-college",
+      "title": "In het nieuwe college van burgemeester en wethouders moet het aantal mannen en vrouwen gelijk zijn.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114015,
+      "index": 15,
+      "theme": "Vuurwerk",
+      "themeId": "vuurwerk",
+      "title": "De gemeente moet op oudejaarsavond een vuurwerkshow organiseren.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114024,
+      "index": 16,
+      "theme": "Sportverenigingen",
+      "themeId": "sportverenigingen",
+      "title": "Als sportverenigingen het moeilijk hebben, moet de gemeente financieel bijdragen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114042,
+      "index": 17,
+      "theme": "Hondenbelasting",
+      "themeId": "hondenbelasting",
+      "title": "De gemeente moet de hondenbelasting afschaffen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114039,
+      "index": 18,
+      "theme": "Zorgkeuze",
+      "themeId": "zorgkeuze",
+      "title": "Mensen die zorg nodig hebben, moeten altijd kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of levensovertuiging.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114038,
+      "index": 19,
+      "theme": "Snelheid auto's",
+      "themeId": "snelheid-auto-s",
+      "title": "De maximumsnelheid binnen de bebouwde kom moet naar 30 km/u.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114044,
+      "index": 20,
+      "theme": "Bedrijventerreinen",
+      "themeId": "bedrijventerreinen",
+      "title": "In Etten-Leur moeten meer bedrijventerreinen komen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114035,
+      "index": 21,
+      "theme": "Armoedebestrijding",
+      "themeId": "armoedebestrijding",
+      "title": "De gemeente moet de inkomensgrens om hulp te krijgen bij armoede verhogen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114049,
+      "index": 22,
+      "theme": "Coffeeshops",
+      "themeId": "coffeeshops",
+      "title": "De gemeente moet de vestiging van nieuwe coffeeshops tegenhouden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114046,
+      "index": 23,
+      "theme": "Milieustraat",
+      "themeId": "milieustraat",
+      "title": "Het inleveren van afval bij de milieustraat moet gratis worden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114031,
+      "index": 24,
+      "theme": "Vakantiewoningen",
+      "themeId": "vakantiewoningen",
+      "title": "De gemeente moet toestaan dat vakantiewoningen gebruikt worden als vast woonadres.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114053,
+      "index": 25,
+      "theme": "Betaald parkeren goedkoper",
+      "themeId": "betaald-parkeren-goedkoper",
+      "title": "Betaald parkeren in het centrum moet goedkoper worden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114004,
+      "index": 26,
+      "theme": "Referendum",
+      "themeId": "referendum",
+      "title": "De inwoners van Etten-Leur moeten over belangrijke onderwerpen hun mening kunnen geven via een referendum.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114045,
+      "index": 27,
+      "theme": "Voorrang voor vluchtelingen",
+      "themeId": "voorrang-voor-vluchtelingen",
+      "title": "De gemeente moet vluchtelingen met een verblijfsvergunning voorrang blijven geven op een sociale huurwoning.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114043,
+      "index": 28,
+      "theme": "Toeristenbelasting",
+      "themeId": "toeristenbelasting",
+      "title": "De toeristenbelasting moet omlaag.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114016,
+      "index": 29,
+      "theme": "Grofvuil",
+      "themeId": "grofvuil",
+      "title": "Grofvuil moet gratis aan huis worden afgehaald.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114050,
+      "index": 30,
+      "theme": "Sociale huurwoningen",
+      "themeId": "sociale-huurwoningen",
+      "title": "Van de nieuw te bouwen woningen in Etten-Leur moet minimaal 40% een sociale huurwoning zijn. In Nederland is nu 28% van de woningen een sociale huurwoning.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    }
+  ]
+}

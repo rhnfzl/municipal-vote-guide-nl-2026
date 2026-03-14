@@ -1,0 +1,1119 @@
+{
+  "id": "GM0627",
+  "name": "Waddinxveen",
+  "slug": "waddinxveen",
+  "parties": [
+    {
+      "id": 126453,
+      "name": "PCW",
+      "fullName": "Protestantse Combinatie Waddinxveen",
+      "website": "https://www.kiespcw.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "126468": {
+          "position": "neither",
+          "explanation": "De PCW wil inwoners betrekken via werkbezoeken, spreekuren en participatie, maar een verplicht referendum bij belangrijke onderwerpen legt een rigide norm op. Wij kiezen voor dialoog en inspraak, niet voor een vaste plicht tot referenda."
+        },
+        "126471": {
+          "position": "neither",
+          "explanation": "PCW steunt kleinschalige nevenactiviteiten bij boeren als ze passen bij leefbaarheid, verkeersveiligheid en ruimtelijke regels. Het woord altijd/moet is te dwingend: toestaan kan, maar via goede voorwaarden, vergunningen en handhaving om overlast te voorkomen."
+        },
+        "126472": {
+          "position": "agree",
+          "explanation": "De PCW stimuleert duurzame energie en lokaal eigendom,\r\nfinanciële steun is daarbij mogelijk al zien we dat niet als automatisme. We kiezen voor faciliteren en samenwerking, niet voor een harde verplichting. Ondersteuning kan via kennisdeling en voorwaarden, zodat draagvlak en betaalbaarheid behouden blijven."
+        },
+        "126473": {
+          "position": "neither",
+          "explanation": "Als PCW vinden we dat we al meer dan genoeg grootschalige distributiecentra hebben. Kleinschalige distributie vinden we echter nog goed inpasbaar in bestaande en toekomstige bedrijventerreinen."
+        },
+        "126477": {
+          "position": "agree",
+          "explanation": "De PCW wil dat inwoners vrijheid behouden in hun leefstijl, mits dit niet ten koste gaat van gezondheid en leefbaarheid. Het gebruik van open haarden en houtkachels mag toegestaan blijven, maar met aandacht voor voorlichting en maatregelen om overlast en luchtvervuiling te beperken."
+        },
+        "126483": {
+          "position": "disagree",
+          "explanation": "PCW wil bouwen voor lokale woningbehoefte binnen duidelijke plannen en met behoud van het dorpse karakter. Individuele bouw op landbouwgrond past daar niet bij; ruimtelijke kwaliteit en infrastructuur moeten bewaakt blijven."
+        },
+        "126485": {
+          "position": "neither",
+          "explanation": "PCW waardeert lokale verbondenheid en communicatie, maar wil zorgvuldig omgaan met gemeenschapsgeld. Extra steun kan alleen als het aantoonbaar bijdraagt aan gemeenschapszin en past binnen gezonde financiële kaders."
+        },
+        "126487": {
+          "position": "disagree",
+          "explanation": "De PCW vindt muziekonderwijs waardevol voor ontwikkeling en creativiteit. Toch willen we geen generieke subsidie voor alle kinderen. We kiezen voor maatwerk en samenwerking met scholen en verenigingen, zodat ondersteuning terechtkomt waar die echt nodig is."
+        },
+        "126488": {
+          "position": "neither",
+          "explanation": "PCW ziet sport als belangrijk voor ontmoeting en gezondheid. De gemeente kan helpen bij randvoorwaarden en samenwerking, maar structurele financiële steun aan verenigingen past alleen als dit noodzakelijk is en binnen gezonde financiële kaders blijft."
+        },
+        "126490": {
+          "position": "disagree",
+          "explanation": "PCW vindt veiligheid belangrijk en waardeert boa’s, maar uitbreiding moet passen binnen gezonde financiële kaders en bewezen effect hebben. We kiezen liever voor meer wijkagenten voor Waddinxveen."
+        },
+        "126491": {
+          "position": "disagree",
+          "explanation": "PCW kiest voor zichtbare handhaving en samenwerking met inwoners. Meer camera’s plaatsen past niet bij het dorpse karakter en roept privacy-vragen op. We zetten liever in op boa’s en buurtpreventie."
+        },
+        "126493": {
+          "position": "agree",
+          "explanation": "PCW wil bouwen voor de lokale woningbehoefte. Voorrang voor eigen inwoners bij sociale huur versterkt binding met Waddinxveen en helpt starters en gezinnen die hier geworteld zijn."
+        },
+        "126495": {
+          "position": "agree",
+          "explanation": "PCW wil bouwen voor lokale woningbehoefte. Door woningnood kan tijdelijk gebruik van vakantiewoningen als woonadres helpen, mits dit zorgvuldig gebeurt en niet ten koste gaat van ruimtelijke kwaliteit."
+        },
+        "126496": {
+          "position": "agree",
+          "explanation": "PCW wil het dorpse karakter en groene omgeving behouden. Nieuwbouw gebeurt binnen bestaande kaders en plannen, niet door uitbreiding buiten de dorpsgrenzen. Zo blijft Waddinxveen leefbaar en herkenbaar."
+        },
+        "126497": {
+          "position": "neither",
+          "explanation": "PCW wil dat iedereen meedoet. Maatschappelijk zinvol werk voor bijstandsgerechtigden versterkt betrokkenheid en zelfredzaamheid, mits het passend is en rekening houdt met persoonlijke omstandigheden."
+        },
+        "126498": {
+          "position": "disagree",
+          "explanation": "Als PCW vinden we dat kwetsbare inwoners onze steun verdienen. Kwijtschelding helpt hen om financieel overeind te blijven en voorkomt schulden. Stoppen zou juist extra druk leggen op mensen die het al moeilijk hebben."
+        },
+        "126499": {
+          "position": "disagree",
+          "explanation": "Als PCW vinden we dat hulp gericht moet blijven op wie het echt nodig heeft. Een hogere inkomensgrens maakt het beleid minder doelgericht en kostbaar, waardoor middelen voor de meest kwetsbaren onder druk komen te staan."
+        },
+        "126501": {
+          "position": "neither",
+          "explanation": "De PCW wil een goede laadinfrastructuur, maar kiest voor flexibiliteit en slimme oplossingen om parkeerdruk te voorkomen. Meer vaste laadplekken aanwijzen is niet altijd nodig; we zoeken naar centrale snellaad-plekken en innovatieve systemen die ruimte en bereikbaarheid in balans houden."
+        },
+        "126502": {
+          "position": "neither",
+          "explanation": "Als PCW vinden we verkeersveiligheid belangrijk, vooral voor kinderen en ouderen. Een maximum van 30 km/u vergroot veiligheid en leefbaarheid in woonwijken. Slimme inrichting van straten blijft daarbij essentieel. Tegelijkertijd zijn er ook wegen binnen de bebouwde kom waarbij 50 km/u passender is."
+        },
+        "126503": {
+          "position": "agree",
+          "explanation": "Als PCW vinden we dat zorg dichtbij en passend moet zijn. Keuzevrijheid voor een zorgverlener die aansluit bij geloof, cultuur of levensovertuiging is belangrijk voor vertrouwen en kwaliteit van zorg."
+        },
+        "126505": {
+          "position": "neither",
+          "explanation": "Als PCW vinden we solide financiën belangrijk. OZB verlagen klinkt aantrekkelijk, maar mag niet ten koste gaan van bijvoorbeeld investeringen in voorzieningen. Het verhogen van ozb zien we wel als uiterste redmiddel."
+        },
+        "126507": {
+          "position": "disagree",
+          "explanation": "Als PCW vinden we dat belastingen niet onnodig moeten stijgen. Een hogere toeristenbelasting past niet bij het dorpse karakter van Waddinxveen en kan ontmoeting en gastvrijheid belemmeren. We kiezen voor een eerlijke en stabiele lastenverdeling."
+        },
+        "126508": {
+          "position": "neither",
+          "explanation": "Als PCW vinden we dat er de afgelopen tijd al meerdere grote bestemmingsplannen zijn goedgekeurd voor uitbreiding van bedrijventerreinen. We monitoren goed of er meer nodig is. Uitbreiden doen we met oog voor duurzaamheid en leefbaarheid."
+        },
+        "126510": {
+          "position": "disagree",
+          "explanation": "Als PCW vinden we dat iedereen een eerlijke kans moet krijgen op een woning. Voorrang voor vergunninghouders vergroot de druk op sociale huur en verlengt wachttijden voor inwoners. We kiezen voor een evenwichtige verdeling."
+        },
+        "126512": {
+          "position": "agree",
+          "explanation": "Als PCW vinden we dat landbouwgrond primair voor voedselproductie moet blijven. Zonnepanelen horen op daken en geschikte locaties, niet op vruchtbare grond. Zo beschermen we onze agrarische basis en het landschap."
+        },
+        "126514": {
+          "position": "disagree",
+          "explanation": "Als PCW vinden we sport belangrijk, maar een nieuw sportpark aan de Parklaan is niet nodig. Liever kiezen we voor uitbreiding op sportpark 't Suyt voor zowel hockey als uitbreiding BeFair."
+        },
+        "126516": {
+          "position": "disagree",
+          "explanation": "Als PCW vinden we dat een coffeeshop niet past bij het dorpse en veilige karakter van Waddinxveen. Het toestaan vergroot risico’s op drugsgebruik en overlast. We kiezen voor preventie en een gezonde leefomgeving."
+        },
+        "126517": {
+          "position": "agree",
+          "explanation": "Als PCW vinden we betaalbare woningen belangrijk. Minimaal 30 procent sociale huur bij nieuwbouw helpt starters en mensen met een smalle beurs. Zo bouwen we aan een evenwichtige en verbonden gemeenschap."
+        },
+        "126523": {
+          "position": "agree",
+          "explanation": "De PCW wil verkeersveiligheid op de Brugweg verbeteren. Vrachtverkeer hoort niet in woongebieden; het moet via een nieuwe randweg worden geleid. Zo krijgen fietsers en voetgangers meer ruimte en blijft de leefbaarheid in de wijk behouden."
+        },
+        "126524": {
+          "position": "disagree",
+          "explanation": "De PCW hecht aan rust op zondag als waardevolle dorpskwaliteit. Meer evenementen toelaten op zondag past niet bij dit uitgangspunt. We kiezen voor kleinschalige, lokale activiteiten en ontmoeting, maar geen verruiming van grootschalige evenementen op zondag om rust en verbondenheid te bewaren."
+        }
+      }
+    },
+    {
+      "id": 126454,
+      "name": "CDA",
+      "fullName": "Christen-Democratisch Appèl",
+      "website": "https://www.cda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "126468": {
+          "position": "neither",
+          "explanation": "Het CDA hecht aan betrokkenheid van inwoners bij belangrijke besluiten. Goede participatie aan de voorkant staat voorop. Referenda kunnen aanvullend zijn, maar mogen de rol van de gemeenteraad en zorgvuldige besluitvorming niet ondermijnen."
+        },
+        "126471": {
+          "position": "neither",
+          "explanation": "Het CDA ziet kansen voor nevenactiviteiten bij boeren om het platteland vitaal te houden. Dat kan niet onbeperkt: het moet passen bij de omgeving, het bestemmingsplan en de leefbaarheid. Maatwerk en goede afweging blijven nodig."
+        },
+        "126472": {
+          "position": "agree",
+          "explanation": "Het CDA stimuleert lokale initiatieven voor duurzame energie. Als inwoners samen energie willen opwekken, kan de gemeente dit ondersteunen, bijvoorbeeld met advies of een financiële bijdrage. Mits het haalbaar is en bijdraagt aan betaalbare energie voor inwoners."
+        },
+        "126473": {
+          "position": "agree",
+          "explanation": "Het CDA wil de ‘verdozing’ van Waddinxveen tegengaan. Nieuwe distributiecentra leggen druk op landschap, verkeer en leefbaarheid en leveren relatief weinig lokale werkgelegenheid op. We kiezen voor een gevarieerd en toekomstbestendig bedrijvenaanbod."
+        },
+        "126477": {
+          "position": "neither",
+          "explanation": "Het CDA wil de overlast en gezondheidsrisico’s van houtstook beperken, maar geen algemeen verbod. We zetten in op bewustwording, de Stookwijzer en maatwerk. Met oog voor gezondheid, leefbaarheid en verantwoord gebruik."
+        },
+        "126483": {
+          "position": "neither",
+          "explanation": "Het CDA ziet dat maatwerk bij boeren kan bijdragen aan vitaliteit en bedrijfsopvolging. Woningbouw in het buitengebied is echter geen automatisme. Het moet passen bij landschap, leefbaarheid en bestaande regels, met oog voor de lange termijn."
+        },
+        "126485": {
+          "position": "agree",
+          "explanation": "Het CDA ziet het belang van een sterke lokale omroep voor informatie, verenigingen en sociale samenhang. De gemeente kan de lokale omroep ondersteunen, zodat lokale berichtgeving en betrokkenheid in Waddinxveen behouden blijven."
+        },
+        "126487": {
+          "position": "neither",
+          "explanation": "Het CDA vindt muziekonderwijs belangrijk voor de ontwikkeling van kinderen. We stimuleren brede toegang via scholen, verenigingen en bestaande regelingen. Subsidie kan gericht worden ingezet voor wie het nodig heeft, zonder het als algemene verplichting vast te leggen."
+        },
+        "126488": {
+          "position": "agree",
+          "explanation": "Sportverenigingen zijn het cement van de samenleving. Als zij in de knel komen, kan de gemeente tijdelijk financieel ondersteunen, bijvoorbeeld bij onderhoud of verduurzaming, mits er perspectief is op een gezonde en toekomstbestendige vereniging."
+        },
+        "126490": {
+          "position": "agree",
+          "explanation": "Het CDA wil dat inwoners zich veilig voelen in hun wijk en winkelgebied. Extra boa’s vergroten zichtbaarheid en preventie en versterken de samenwerking met politie en wijkteams. Zo pakken we overlast en onveiligheid sneller en effectiever aan."
+        },
+        "126491": {
+          "position": "neither",
+          "explanation": "Het CDA ziet cameratoezicht als aanvullend middel om veiligheid te vergroten. Inzet kan op specifieke plekken waar het nodig is, met duidelijke doelen en respect voor privacy. Preventie en aanwezigheid van mensen blijven altijd het belangrijkst."
+        },
+        "126493": {
+          "position": "neither",
+          "explanation": "Het CDA begrijpt de wens om lokale woningzoekenden perspectief te bieden. Tegelijk zijn er regionale afspraken en wettelijke regels. We zetten in op voldoende betaalbare woningen en een eerlijke verdeling, met oog voor binding aan Waddinxveen waar dat mogelijk is."
+        },
+        "126495": {
+          "position": "disagree",
+          "explanation": "Het CDA vindt dat vakantiewoningen bedoeld zijn voor recreatie. Permanente bewoning leidt vaak tot problemen met veiligheid, voorzieningen en leefbaarheid. We zetten liever in op voldoende reguliere woningen die passen bij de behoefte van inwoners."
+        },
+        "126496": {
+          "position": "agree",
+          "explanation": "Het CDA wil zorgvuldig omgaan met onze schaarse ruimte. We bouwen bij voorkeur binnen de bestaande dorpsgrenzen, met oog voor leefbaarheid, groen en voorzieningen. Nieuwbouw buiten het dorp is geen automatisme en vraagt om een zeer zorgvuldige afweging."
+        },
+        "126497": {
+          "position": "neither",
+          "explanation": "Het CDA gelooft in meedoen naar vermogen. Maatschappelijk zinvol werk kan bijdragen aan structuur en eigenwaarde, maar dwang past niet altijd. We kiezen voor maatwerk, begeleiding en wat iemand wél kan. Met oog voor gezondheid en persoonlijke omstandigheden."
+        },
+        "126498": {
+          "position": "disagree",
+          "explanation": "Het CDA vindt dat de gemeente oog moet hebben voor mensen die financieel kwetsbaar zijn. Kwijtschelding van gemeentelijke belastingen helpt om problemen en schulden te voorkomen. We beschermen juist deze inwoners en houden de lasten eerlijk verdeeld."
+        },
+        "126499": {
+          "position": "agree",
+          "explanation": "Het CDA wil voorkomen dat mensen tussen wal en schip vallen. Door de inkomensgrens voor armoedehulp te verhogen, kunnen ook werkende gezinnen met een laag inkomen ondersteuning krijgen. Zo bieden we tijdig hulp en voorkomen we grotere problemen."
+        },
+        "126501": {
+          "position": "agree",
+          "explanation": "Het CDA wil de overstap naar elektrisch rijden mogelijk maken. Meer oplaadplekken, vooral in woonwijken en bij stations, helpen inwoners zonder eigen oprit. Dit doen we evenwichtig, met oog voor schaarse parkeerruimte en leefbaarheid."
+        },
+        "126502": {
+          "position": "disagree",
+          "explanation": "Het CDA kiest voor verkeersveiligheid met maatwerk. 30 km/u is geschikt in woonstraten en rond scholen, maar een algemene verlaging binnen de hele bebouwde kom is niet wenselijk. Goede inrichting en duidelijke wegen zijn effectiever dan één norm."
+        },
+        "126503": {
+          "position": "agree",
+          "explanation": "Het CDA vindt dat zorg persoonlijk en mensgericht moet zijn. Waar mogelijk moeten mensen kunnen kiezen voor een zorgverlener die aansluit bij hun geloof, cultuur of levensovertuiging, binnen de wettelijke kaders en met behoud van kwaliteit en toegankelijkheid van zorg."
+        },
+        "126505": {
+          "position": "agree",
+          "explanation": "Het CDA wil de woonlasten voor inwoners zo laag mogelijk houden. Als de financiële situatie het toelaat, moet de ozb omlaag. We kijken eerst kritisch naar de gemeentelijke uitgaven en efficiëntie voordat lasten voor inwoners worden verhoogd."
+        },
+        "126507": {
+          "position": "disagree",
+          "explanation": "Het CDA wil dat Waddinxveen gastvrij en toegankelijk blijft. Een hogere toeristenbelasting kan lokale ondernemers en kleinschalige recreatie schaden. We houden deze belasting redelijk en in balans met het stimuleren van lokale economie en voorzieningen."
+        },
+        "126508": {
+          "position": "neither",
+          "explanation": "Het CDA ziet het belang van een sterk lokaal ondernemersklimaat. Uitbreiding van bedrijventerreinen kan, maar niet onbeperkt. Het moet passen bij bereikbaarheid, leefbaarheid en landschap, met voorkeur voor intensiever en slimmer gebruik van bestaande terreinen."
+        },
+        "126510": {
+          "position": "disagree",
+          "explanation": "Het CDA vindt dat sociale huurwoningen eerlijk verdeeld moeten worden. Vluchtelingen met een verblijfsvergunning verdienen goede begeleiding, maar structurele voorrang vergroot de druk op andere woningzoekenden. We zetten in op maatwerk en voldoende woningen voor iedereen."
+        },
+        "126512": {
+          "position": "agree",
+          "explanation": "Het CDA wil zuinig omgaan met landbouwgrond. Zonnepanelen horen bij voorkeur op daken en bestaande bebouwing. Landbouwgrond is bedoeld voor voedselproductie en landschap. Grootschalige zonnevelden op landbouwgrond passen daar niet bij."
+        },
+        "126514": {
+          "position": "neither",
+          "explanation": "Het CDA ziet het belang van goede sportvoorzieningen voor gezondheid en verenigingsleven. Een nieuw sportpark kan een optie zijn, maar alleen als locatie, bereikbaarheid, leefbaarheid en kosten zorgvuldig zijn afgewogen en er voldoende draagvlak is in de omgeving."
+        },
+        "126516": {
+          "position": "disagree",
+          "explanation": "Het CDA is terughoudend met de vestiging van een coffeeshop. Dit kan leiden tot overlast en veiligheidsrisico’s. We kiezen voor preventie, handhaving en een veilige leefomgeving, en zien geen noodzaak voor een coffeeshop in Waddinxveen."
+        },
+        "126517": {
+          "position": "agree",
+          "explanation": "Het CDA wil voldoende betaalbare woningen voor mensen met een lager of middeninkomen. Een aandeel van minimaal 30 procent sociale huur bij nieuwbouw past bij een evenwichtige woon-mix en zorgt ervoor dat ook starters, gezinnen en ouderen in Waddinxveen kunnen blijven wonen."
+        },
+        "126523": {
+          "position": "neither",
+          "explanation": "Het CDA wil de verkeersveiligheid op de Brugweg verbeteren. Een algemeen verbod op vrachtverkeer is een zwaar middel. We kiezen voor maatwerk: het verminderen van risico’s met gerichte maatregelen, duidelijke routes en handhaving, in samenhang met betere alternatieven."
+        },
+        "126524": {
+          "position": "neither",
+          "explanation": "Het CDA hecht aan rust en ruimte voor ontmoeting. Evenementen op zondag kunnen bijdragen aan levendigheid, maar vragen om zorgvuldige afweging. We kiezen voor maatwerk, met respect voor omwonenden, vrijwilligers en het karakter van de zondag."
+        }
+      }
+    },
+    {
+      "id": 126455,
+      "name": "VVD",
+      "fullName": "Volkspartij voor Vrijheid en Democratie",
+      "website": "https://www.vvd.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "126468": {
+          "position": "disagree",
+          "explanation": "De gemeenteraad is gekozen om afwegingen te maken en verantwoordelijkheid te nemen. Inwoners betrekken is goed, maar referenda zijn daarvoor niet het juiste instrument."
+        },
+        "126471": {
+          "position": "disagree",
+          "explanation": "Ruimte voor ondernemerschap is goed, maar maatwerk blijft nodig. Niet elke locatie is geschikt voor extra functies vanwege verkeer, natuur of leefbaarheid."
+        },
+        "126472": {
+          "position": "disagree",
+          "explanation": "Lokale energiecoöperaties vergroten draagvlak en versnellen verduurzaming. Steun is logisch maar komt vanuit het Rijk of provincie."
+        },
+        "126473": {
+          "position": "disagree",
+          "explanation": "Distributiecentra leveren banen op, maar kosten ook ruimte en zorgen voor verkeer. Daarom vinden we het belangrijk dat distributiecentra buiten woongebieden worden geplaatst. Het uitgangspunt van de VVD is dan ook: eerst bewegen dan bouwen."
+        },
+        "126477": {
+          "position": "agree",
+          "explanation": "Verbieden gaat te ver. Wel is het logisch om overlast en luchtkwaliteit serieus te nemen en bewoners aan te spreken op verantwoord gebruik."
+        },
+        "126483": {
+          "position": "disagree",
+          "explanation": "Extra woningen kunnen helpen tegen schaarste, maar moeten passen binnen ruimtelijke ordening. Geen wildgroei, wel maatwerk."
+        },
+        "126485": {
+          "position": "disagree",
+          "explanation": "Een lokale omroep is belangrijk voor lokale berichtgeving. De subsidie die op dit moment wordt toegekend is wat ons betreft voldoende."
+        },
+        "126487": {
+          "position": "disagree",
+          "explanation": "Cultuur is belangrijk, maar niet alles hoeft door de gemeente betaald te worden. Gericht ondersteunen is beter dan een generieke regeling."
+        },
+        "126488": {
+          "position": "disagree",
+          "explanation": "Sportverenigingen zijn sociaal cement maar moeten wel aansluiten bij de behoefte van inwoners."
+        },
+        "126490": {
+          "position": "agree",
+          "explanation": "Zichtbare handhaving vergroot veiligheid en leefbaarheid."
+        },
+        "126491": {
+          "position": "agree",
+          "explanation": "Camera’s kunnen helpen bij aanpak van criminaliteit. Inzet moet gericht zijn op probleemlocaties."
+        },
+        "126493": {
+          "position": "agree",
+          "explanation": "Lokale binding telt. Inwoners die hier wonen of werken moeten perspectief houden op een woning, binnen wettelijke kaders."
+        },
+        "126495": {
+          "position": "disagree",
+          "explanation": "Permanente bewoning lost woningtekort niet structureel op en kan parken onder druk zetten."
+        },
+        "126496": {
+          "position": "disagree",
+          "explanation": "Om woningnood op te lossen is ook bouwen buiten de bestaande dorpsgrenzen nodig."
+        },
+        "126497": {
+          "position": "agree",
+          "explanation": "Meedoen is beter dan langs de kant staan. Maatschappelijk nuttig werk vergroot kansen en eigenwaarde, met oog voor wat iemand kan."
+        },
+        "126498": {
+          "position": "disagree",
+          "explanation": "Kwijtschelding is een vangnet. Stoppen zonder alternatief vergroot problemen. Wel moet misbruik worden voorkomen."
+        },
+        "126499": {
+          "position": "disagree",
+          "explanation": "Werkende armen mogen niet tussen wal en schip vallen. Verruiming kan nodig zijn, mits betaalbaar en tijdelijk. Verruiming in Waddinxveen is niet nodig omdat we de inkomensgrens al verhoogd hebben."
+        },
+        "126501": {
+          "position": "disagree",
+          "explanation": "Elektrisch rijden neemt toe. Extra laadplekken zijn nodig, maar wel in balans met parkeerruimte voor iedereen."
+        },
+        "126502": {
+          "position": "agree",
+          "explanation": "Verkeersveiligheid is belangrijk en er moet aandacht zijn voor goede doorstroming."
+        },
+        "126503": {
+          "position": "disagree",
+          "explanation": "Keuzevrijheid is belangrijk maar de gemeente is verantwoordelijk voor het borgen van kwaliteit. Teveel zorgaanbieders zorgt voor afname van kwalitatieve zorg."
+        },
+        "126505": {
+          "position": "agree",
+          "explanation": "Woonlasten staan onder druk. Lagere ozb geeft inwoners lucht en dwingt de gemeente scherp te blijven op uitgaven."
+        },
+        "126507": {
+          "position": "agree",
+          "explanation": "Toerisme levert ook inkomsten op. Verhoging kan, zolang het Waddinxveen niet minder aantrekkelijk maakt."
+        },
+        "126508": {
+          "position": "agree",
+          "explanation": "Bedrijvigheid zorgt voor banen. Uitbreiding is mogelijk, mits goed ingepast en met aandacht voor verkeer en milieu."
+        },
+        "126510": {
+          "position": "disagree",
+          "explanation": "Gelijke regels voor iedereen. Voorrang ondermijnt vertrouwen en vergroot wachttijden voor andere woningzoekenden."
+        },
+        "126512": {
+          "position": "agree",
+          "explanation": "Landbouwgrond is schaars. Zonnepanelen horen primair op daken en bedrijventerreinen, niet op vruchtbare grond. Maatwerk moet altijd mogelijk zijn."
+        },
+        "126514": {
+          "position": "disagree",
+          "explanation": "Sportvoorzieningen zijn belangrijk, maar hiervoor is op de Parklaan geen ruimte."
+        },
+        "126516": {
+          "position": "disagree",
+          "explanation": "Een coffeeshop hoort niet thuis in Waddinxveen. Daarvoor is meer ruimte in een stadse omgeving."
+        },
+        "126517": {
+          "position": "disagree",
+          "explanation": "Een mix van woningen is belangrijk, maar het moet niet zo zijn dat woningbouw niet meer mogelijk is door te streng beleid. Maatwerk is nodig."
+        },
+        "126523": {
+          "position": "disagree",
+          "explanation": "Alternatieve routes moeten wel beschikbaar zijn, maar er moet ook ruimte blijven voor ondernemers om te kunnen ondernemen."
+        },
+        "126524": {
+          "position": "agree",
+          "explanation": "Evenementen zorgen voor reuring. Zondagsrust is prima, maar geen reden voor onnodige beperkingen."
+        }
+      }
+    },
+    {
+      "id": 126456,
+      "name": "Weerbaar Waddinxveen",
+      "fullName": "Weerbaar Waddinxveen",
+      "website": "https://www.wewa.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "126468": {
+          "position": "agree",
+          "explanation": "Een referendum is geen vervanging van participatie. Maar kan helpen als er een grote maatschappelijke impact is, de raad verdeeld is of inwoners duidelijk behoefte hebben aan een stem-moment. WEWA wil participatie vanaf het eerst moment."
+        },
+        "126471": {
+          "position": "agree",
+          "explanation": "WEWA staat positief tegenover verbreding van het boerenbedrijf. Dit zorgt voor sterke lokale economie en meer verbinding tussen boer en samenleving. Het moet wel passen bij het landschap en de schaal van Waddinxveen."
+        },
+        "126472": {
+          "position": "disagree",
+          "explanation": "De gemeente moet wel faciliteren en niet remmen, door ruimte te bieden in het beleid. Helpen met locaties, informatie en vergunningen en zorgen dat projecten niet vastlopen in bureaucratie."
+        },
+        "126473": {
+          "position": "agree",
+          "explanation": "De beschikbare ruimte In industriegebieden is nodig voor de verplaatsing van de bedrijven binnen Waddinxveen."
+        },
+        "126477": {
+          "position": "agree",
+          "explanation": "WEWA staat positief tegenover het toestaan van open haarden en houtkachels, zolang ze verantwoord worden gebruikt, geen overlast veroorzaken en de gemeente inzet op duidelijke regels en voorlichting."
+        },
+        "126483": {
+          "position": "disagree",
+          "explanation": "De groene contouren van Waddinxveen zijn belangrijk. Verrommeling, precedentwerking en verlies van maatschappelijke kwaliteit moet voorkomen worden."
+        },
+        "126485": {
+          "position": "disagree",
+          "explanation": "De huidige subsidie voor de RTW voldoet."
+        },
+        "126487": {
+          "position": "disagree",
+          "explanation": "Er is al een regeling waardoor jongeren onder de 18 geen btw betalen op muziekles."
+        },
+        "126488": {
+          "position": "disagree",
+          "explanation": "Verenigingen zijn zelf verantwoordelijk voor hun financiële basis. De gemeente kan ondersteunen met advies en randvoorwaarden, niet met geld."
+        },
+        "126490": {
+          "position": "neither",
+          "explanation": "WEWA vindt veiligheid belangrijk, maar gelooft niet dat simpelweg toevoegen van extra handhavers de meest effectieve oplossing is. Slimme inzet werkt beter dan meer inzet."
+        },
+        "126491": {
+          "position": "agree",
+          "explanation": "Cameratoezicht is een gericht middel om veiligheid te vergroten waar dat nodig is."
+        },
+        "126493": {
+          "position": "agree",
+          "explanation": "WEWA wil dat het gemakkelijker wordt voor Waddinxveners om hier te blijven wonen."
+        },
+        "126495": {
+          "position": "disagree",
+          "explanation": "WEWA wil investeren in echte woningbouw, niet in noodconstructies die later problemen veroorzaken."
+        },
+        "126496": {
+          "position": "agree",
+          "explanation": "WEWA wil de groene contouren behouden."
+        },
+        "126497": {
+          "position": "disagree",
+          "explanation": "Ondersteuning dient maatwerk te zijn en gericht op echte hulp."
+        },
+        "126498": {
+          "position": "agree",
+          "explanation": "De financiële stabiliteit van de gemeente moet gewaarborgd blijven. Gerichte ondersteuning is beter dan een blanco vrijstelling."
+        },
+        "126499": {
+          "position": "disagree",
+          "explanation": "De armoedegrens is in Waddinxveen al naar 125 procent gezet."
+        },
+        "126501": {
+          "position": "agree",
+          "explanation": "De vraag naar laadpunten groeit snel. De infrastructuur moet klaar zijn voor de toekomst."
+        },
+        "126502": {
+          "position": "neither",
+          "explanation": "In Waddinxveen zijn alleen de doorgaande routes nog 50 km/u, in woonwijken is de maximum snelheid al 30 km/u."
+        },
+        "126503": {
+          "position": "disagree",
+          "explanation": "Het is belangrijk om de zorg betaalbaar te houden. Grote diversiteit van aanbieders is inefficiënt en onoverzichtelijk."
+        },
+        "126505": {
+          "position": "disagree",
+          "explanation": "De gemeente moet een financieel gezonde begroting houden. De ozb is in verhouding laag in Waddinxveen."
+        },
+        "126507": {
+          "position": "agree",
+          "explanation": "De toeristenbelasting is in Waddinxveen al jaren niet verhoogd."
+        },
+        "126508": {
+          "position": "disagree",
+          "explanation": "De groene contouren moeten behouden blijven."
+        },
+        "126510": {
+          "position": "disagree",
+          "explanation": "Alle woningzoekenden moet evenveel kans hebben."
+        },
+        "126512": {
+          "position": "agree",
+          "explanation": "Er zijn betere alternatieven voor het plaatsen van zonnepanelen, zoals op gebouwen, parkeergarages of geluidswallen."
+        },
+        "126514": {
+          "position": "disagree",
+          "explanation": "De Parklaan is niet geschikt voor het realiseren van een groot sportpark. Er zijn elders betere locaties."
+        },
+        "126516": {
+          "position": "agree",
+          "explanation": "Een gereguleerde coffeeshop is veiliger dan illegale straathandel. Het is controleerbaar en beschermt jongeren beter."
+        },
+        "126517": {
+          "position": "agree",
+          "explanation": "Er is grote behoefte aan sociale huurwoningen. De wachtlijsten zijn te lang."
+        },
+        "126523": {
+          "position": "agree",
+          "explanation": "De weg is te smal en te kwetsbaar en te woongericht."
+        },
+        "126524": {
+          "position": "agree",
+          "explanation": "Het gemeentelijk beleid moet aansluiten bij hoe mensen vandaag de dag leven. De tijd van strikte zondagsbeperkingen is voorbij."
+        }
+      }
+    },
+    {
+      "id": 126457,
+      "name": "D66",
+      "fullName": "D66",
+      "website": "https://d66.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "126468": {
+          "position": "disagree",
+          "explanation": "Inwoners kunnen hun mening geven op veel verschillende manieren. De dialoog aangaan levert veel meer op dan een referendum. De vraag is ook wat je zou doen met de uitslag van een referendum, sowieso overnemen, of toch wat anders besluiten, zoals bij de inzameling van plastic."
+        },
+        "126471": {
+          "position": "disagree",
+          "explanation": "Het is geen recht om op je erf een winkel of camping te openen. Soms zijn er redenen om dit niet te doen (bijvoorbeeld  omdat milieuregels het verbieden). We willen wel bekijken hoe we goede initiatieven kunnen steunen."
+        },
+        "126472": {
+          "position": "neither",
+          "explanation": "We willen goede initiatieven steunen, dat hoeft niet altijd financieel, soms kan het ook met kennis. Als het kan zonder financiële steun van de gemeente is het ook prima."
+        },
+        "126473": {
+          "position": "agree",
+          "explanation": "De ligging van Waddinxveen is perfect voor de vestiging van distributiecentra. Echter Waddinxveen moet wel leefbaar blijven. Uitbreinding van distributiecentra hoort daar wat ons betreft niet bij."
+        },
+        "126477": {
+          "position": "disagree",
+          "explanation": "Het verbranden van hout in open haarden en houtkachels brengt uitstoot van fijnstof met zich mee. Fijnstof is schadelijk voor de gezondheid van mens en dier."
+        },
+        "126483": {
+          "position": "disagree",
+          "explanation": "Verzoeken hiervoor behoren getoetst te worden aan de geldende regels en richtlijnen hiervoor."
+        },
+        "126485": {
+          "position": "neither",
+          "explanation": "De regionale omroep moet voldoende financiën hebben om zijn taak te kunnen uitvoeren. Als dat niet kan, bespreken we graag wat er nodig is."
+        },
+        "126487": {
+          "position": "disagree",
+          "explanation": "Muziek is een vast vak op de basisschool. Buiten school kunnen kinderen muziekles krijgen. Ouders betalen dit zelf. Wanneer ouders dit niet lukt, kunnen zij een beroep doen op de minimaregeling."
+        },
+        "126488": {
+          "position": "agree",
+          "explanation": "Vooropgesteld dat het gaat om sportverenigingen die zelf alles uit de kast hebben getrokken om financieel gezond beleid te voeren. Sporten levert maatschappelijk zoveel op, dat moeten we stimuleren. Als er dan een beetje extra nodig is, kijken we graag hoe we dat mogelijk kunnen maken."
+        },
+        "126490": {
+          "position": "disagree",
+          "explanation": "Het aantal fte-handhavers groeit mee met het aantal inwoners. Er is wat ons betreft onvoldoende reden om hiervan af te wijken."
+        },
+        "126491": {
+          "position": "disagree",
+          "explanation": "Op dit moment zien we onvoldoende redenen om dit toe te staan."
+        },
+        "126493": {
+          "position": "disagree",
+          "explanation": "We vinden het belangrijker wat iemand kan bijdragen aan de lokale samenleving dan waar iemand nu woont. We hebben bijvoorbeeld liever dat een meester of juf voorrang krijgt, of iemand die in de zorg werkt in Waddinxveen, dan dat het gaat om iemand die al in Waddinxveen woont."
+        },
+        "126495": {
+          "position": "disagree",
+          "explanation": "Wanneer een woning voldoet aan alle eisen conform het Bouwbesluit, kan zo'n verzoek worden toegestaan. Maar voor vakantiewoningen gelden soepeler regels. Overigens lijkt dit niet aan de orde in Waddinxveen."
+        },
+        "126496": {
+          "position": "agree",
+          "explanation": "Wat D66 betreft wordt er niet gebouwd buiten de huidige contouren (waarbij invulling van bestaand aangewezen bedrijventerreinen wel acceptabel is)."
+        },
+        "126497": {
+          "position": "disagree",
+          "explanation": "Een bijstandsuitkering heb je niet uit luxe. Niemand zit graag in de bijstand. Als je ziek bent en daardoor niet kunt werken, en je daarom in de bijstand zit, gaat D66 je niet vragen om toch maatschappelijk zinvol werk te doen. Wie uit de bijstand wil en kan, helpen we graag daarbij."
+        },
+        "126498": {
+          "position": "disagree",
+          "explanation": "Als iemand de gemeentelijke belastingen niet kan betalen, zou de gemeente ze moeten kwijtschelden. Inkomen is daarvoor niet de enige maatstaf, vermogen ook."
+        },
+        "126499": {
+          "position": "disagree",
+          "explanation": "Het minimabeleid hanteert nu 130 procent. Dat is goed zodat je geen armoedeval krijgt zodra je net boven het absolute minimum uitkomt."
+        },
+        "126501": {
+          "position": "agree",
+          "explanation": "We zien dat de laadplekken goed gebruikt worden. Elektrisch rijden zouden we meer voordelen moeten geven ten opzichte van fossiel rijden."
+        },
+        "126502": {
+          "position": "agree",
+          "explanation": "Een kleiner snelheidsverschil maakt verkeersrisico's kleiner."
+        },
+        "126503": {
+          "position": "neither",
+          "explanation": "Helaas is dit niet altijd mogelijk door schaarste aan zorgverleners. Mensen die zorg nodig hebben, krijgen een zorgverlener die aansluit bij hun beleving, cultuur of levensovertuiging."
+        },
+        "126505": {
+          "position": "disagree",
+          "explanation": "De ozb hoeft niet hoger te zijn dan nodig, maar hoeft niet per definitie omlaag. Er zijn voldoende ambities die vanwege financiële keuzes nog niet ingevuld kunnen, dus er is geen reden om de ozb te verlagen"
+        },
+        "126507": {
+          "position": "disagree",
+          "explanation": "Waddinxveen biedt weinig gelegenheid voor toeristenbelasting, dit verhogen (boven de inflatiecorrectie) slaat nergens op."
+        },
+        "126508": {
+          "position": "disagree",
+          "explanation": "Er is nog voldoende ruimte op de bedrijventerreinen. Wanneer die vol lijken te raken, zullen we opnieuw kijken of uitbreiding noodzakelijk is"
+        },
+        "126510": {
+          "position": "agree",
+          "explanation": "Deze mensen wachten op een nieuwe start in hun leven. Wij vinden het goed om hen die te geven. Dit biedt ruimte om de asiel-keten te verlichten en op termijn wellicht het aantal opvangplekken te beperken."
+        },
+        "126512": {
+          "position": "disagree",
+          "explanation": "Ondernemers zijn vrij om hierin een keuze te maken. Wij zien geen aanleiding voor een gemeentelijk verbod."
+        },
+        "126514": {
+          "position": "agree",
+          "explanation": "Er komt een nieuw gebouw met daarin een sportzaal met twee gymzalen, een kantine, kinderopvang et cetera."
+        },
+        "126516": {
+          "position": "neither",
+          "explanation": "Dit speelt op dit moment niet."
+        },
+        "126517": {
+          "position": "neither",
+          "explanation": "We staan achter de huidige woonzorgvisie. Hierin staat die 30 procent sociale huur genoemd. Echter is dat niet in ieder los project te realiseren, daarom geldt de 30 procent over de nieuwbouwprojecten heen. Waarbij we wel voldoende spreiding over de wijken willen."
+        },
+        "126523": {
+          "position": "agree",
+          "explanation": "We willen geen doorgaand vrachtverkeer op de Brugweg. We maken een uitzondering voor bestemmingsverkeer, zoals de vuilophaaldienst en verhuiswagens."
+        },
+        "126524": {
+          "position": "agree",
+          "explanation": "Iedereen mag de zondag invullen zoals bij diegene past. Meer evenementen op zondag toelaten zou daaraan kunnen bijdragen."
+        }
+      }
+    },
+    {
+      "id": 126458,
+      "name": "GroenLinks-PvdA",
+      "fullName": "Groenlinks - Partij van de Arbeid",
+      "website": "https://groenlinkspvda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "126468": {
+          "position": "agree",
+          "explanation": "Een referendum geeft een beeld van wat inwoners willen. Participatie en inspraak van inwoners vanaf de start is vanzelfsprekend. Duidelijk moet zijn wat de inwoners willen. Als de raad of het College afwijkt van het standpunt van de betrokken inwoners legt zij uit waarom"
+        },
+        "126471": {
+          "position": "neither",
+          "explanation": "Als het beperkt aantal agrariërs op een andere wijze inkomsten wil vergaren, kan dat binnen afgesproken grenzen. Of dat altijd het geval is, kan van situatie tot situatie worden bekeken."
+        },
+        "126472": {
+          "position": "agree",
+          "explanation": "Binnen de energietransitie moeten passende mogelijkheden worden ondersteund. Ook als dat leidt tot vooraf niet bedachte oplossingen."
+        },
+        "126473": {
+          "position": "agree",
+          "explanation": "Er is nog weinig grond beschikbaar voor uitbreiding van distributiecentra. Daar moeten we dus zeer terughoudend mee omgaan."
+        },
+        "126477": {
+          "position": "neither",
+          "explanation": "Verbieden is erg lastig, maar wij vinden dat er wel striktere regels mogen komen voor houtstook, bijvoorbeeld door stoken bij windstil weer te beperken."
+        },
+        "126483": {
+          "position": "agree",
+          "explanation": "In beperkte mate kunnen hierover afspraken worden gemaakt binnen vooraf vastgestelde normen."
+        },
+        "126485": {
+          "position": "agree",
+          "explanation": "De lokale omroep wordt goed beluisterd en vervult een duidelijke functie binnen de gemeenschap."
+        },
+        "126487": {
+          "position": "agree",
+          "explanation": "In eerste instantie is het de taak van de scholen zelf, maar de externe ondersteuning vanuit het project Cultuur met Kwaliteit dient minimaal ondersteund te blijven door de gemeente. Daarnaast is muziek belangrijk voor de ontwikkeling van ieder kind. Cultuur is voor iedereen."
+        },
+        "126488": {
+          "position": "agree",
+          "explanation": "Het is ook in het belang van de gemeente om de leefgemeenschap levendig en vitaal te houden."
+        },
+        "126490": {
+          "position": "neither",
+          "explanation": "Meer handhaving lijkt nu niet aan de orde. Wel dient de veiligheid op orde te blijven."
+        },
+        "126491": {
+          "position": "disagree",
+          "explanation": "Cameratoezicht levert niet per se meer veiligheid op, maar kan wel gericht worden toegepast als er aantoonbaar plaatsen zijn waar het veiligheidsgevoel in het geding is."
+        },
+        "126493": {
+          "position": "neither",
+          "explanation": "Huizen moeten niet alleen beschikbaar blijven voor Waddinxveners, maar ook voor nieuwe inwoners."
+        },
+        "126495": {
+          "position": "agree",
+          "explanation": "Als deel van het huisvestingsprobleem en in schrijnende noodgevallen kan dit een bijdrage leveren aan het oplossen van het woningtekort."
+        },
+        "126496": {
+          "position": "agree",
+          "explanation": "Het blijft, in een volgebouwde omgeving, van belang dat er groene buffers zijn die substantieel bijdragen aan woongenot, natuur en recreatie."
+        },
+        "126497": {
+          "position": "disagree",
+          "explanation": "Bijstandsgerechtigden kunnen wel gestimuleerd worden bij te dragen, maar niet gedwongen."
+        },
+        "126498": {
+          "position": "disagree",
+          "explanation": "Het kwijtschelden van schulden kan inwoners die in de schulden zitten helpen om een nieuwe start te maken"
+        },
+        "126499": {
+          "position": "agree",
+          "explanation": "Het minimabeleid wordt uitgebreid naar lage inkomens die net buiten de regels vallen, zodat zij er netto niet op achteruit gaan"
+        },
+        "126501": {
+          "position": "agree",
+          "explanation": "Waddinxveen loopt beslist niet achteraan, maar een betere balans is voor de toekomst - met meer elektrische auto's - noodzakelijk."
+        },
+        "126502": {
+          "position": "agree",
+          "explanation": "Woonwijken worden standaard ingericht als 30km-zones, met inrichting die ook daadwerkelijk tot langzamer rijden uitnodigt"
+        },
+        "126503": {
+          "position": "neither",
+          "explanation": "Daar waar dit mogelijk is, is het ook wenselijk, maar het hoeft geen vanzelfsprekendheid te zijn"
+        },
+        "126505": {
+          "position": "disagree",
+          "explanation": "De ozb is een van de inkomstenbronnen van de gemeente. Tegelijkertijd mag het ook geen melkkoe worden. Bij het bepalen van de hoogte wordt ook rekening gehouden met de regionale situatie."
+        },
+        "126507": {
+          "position": "neither",
+          "explanation": "De toeristenbelasting kan meelopen met het inflatiepeil. Daarvoor is een verhoging niet per se nodig."
+        },
+        "126508": {
+          "position": "disagree",
+          "explanation": "We moeten zorgvuldig omgaan met de ruimte die er nog is. Wij vinden dat er grenzen zijn aan bouwen binnen de bebouwde kom."
+        },
+        "126510": {
+          "position": "agree",
+          "explanation": "In de wetgeving is dit zo bepaald. Het beeld dat het huisvestingsprobleem een gevolg is van statushouders is onjuist."
+        },
+        "126512": {
+          "position": "disagree",
+          "explanation": "Er zijn situaties denkbaar waarin het plaatsen van (kleine) zonnevelden mogelijk gemaakt kan worden binnen de daarvoor geldende afspraken."
+        },
+        "126514": {
+          "position": "agree",
+          "explanation": "Voor zover daar nog ruimte is kan een extra sportfaciliteit in Parkwijk Triangel een mogelijkheid zijn om de betreffende inwoners meer mogelijkheden te bieden om te sporten in de directe omgeving."
+        },
+        "126516": {
+          "position": "neither",
+          "explanation": "Voor zover dat een probleem kan oplossen, is het goed om te bepalen of daarmee het probleem (mede) kan worden opgelost."
+        },
+        "126517": {
+          "position": "agree",
+          "explanation": "GroenLinks-PvdA vroeg al aandacht voor het bouwen van meer goedkopere koopwoningen in de Triangel. Het doel: meer betaalbare woningen om daarmee minimaal te voldoen aan de Woonzorgvisie: 30 procent sociale woningen per project."
+        },
+        "126523": {
+          "position": "agree",
+          "explanation": "Dit zou duidelijker uitgesproken mogen worden, in het belang van de bewoners. Het vraagt echter wel om een bredere regionale aanpak om de huidige problematiek slagvaardig aan te pakken en de consequenties goed te overzien."
+        },
+        "126524": {
+          "position": "agree",
+          "explanation": "Met respect voor andersdenkenden vindt GroenLinks-PvdA dat er veel meer activiteiten op zondag mogelijk moeten zijn. Zij heeft daar met regelmaat aandacht voor gevraagd. De regels zijn hierdoor aangepast waardoor er meer evenementen op zondag kunnen plaatsvinden."
+        }
+      }
+    }
+  ],
+  "statements": [
+    {
+      "id": 126524,
+      "index": 1,
+      "theme": "Zondagsrustbeleid",
+      "themeId": "zondagsrustbeleid",
+      "title": "De gemeente moet meer evenementen op zondag toelaten.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126502,
+      "index": 2,
+      "theme": "Snelheid auto's",
+      "themeId": "snelheid-auto-s",
+      "title": "De maximumsnelheid binnen de bebouwde kom moet naar 30 km/u.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126471,
+      "index": 3,
+      "theme": "Boerencampings",
+      "themeId": "boerencampings",
+      "title": "De gemeente moet boeren altijd toestaan om bij hun boerenbedrijf bijvoorbeeld een winkel of een camping te openen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126488,
+      "index": 4,
+      "theme": "Sportverenigingen",
+      "themeId": "sportverenigingen",
+      "title": "Als sportverenigingen het moeilijk hebben, moet de gemeente financieel bijdragen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126483,
+      "index": 5,
+      "theme": "Bouwen op landbouwgrond",
+      "themeId": "bouwen-op-landbouwgrond",
+      "title": "Het moet mogelijk worden voor boeren om zelf huizen te bouwen op hun land.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126508,
+      "index": 6,
+      "theme": "Bedrijventerreinen",
+      "themeId": "bedrijventerreinen",
+      "title": "In Waddinxveen mogen de bedrijventerreinen uitbreiden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126495,
+      "index": 7,
+      "theme": "Vakantiewoningen",
+      "themeId": "vakantiewoningen",
+      "title": "De gemeente moet toestaan dat vakantiewoningen gebruikt worden als vast woonadres.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126499,
+      "index": 8,
+      "theme": "Armoedebestrijding",
+      "themeId": "armoedebestrijding",
+      "title": "De gemeente moet de inkomensgrens om hulp te krijgen bij armoede verhogen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126490,
+      "index": 9,
+      "theme": "Handhavers",
+      "themeId": "handhavers",
+      "title": "In Waddinxveen moeten meer gemeentelijke handhavers (boa’s) komen die zich met veiligheid bezighouden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126501,
+      "index": 10,
+      "theme": "Elektrische laadpalen",
+      "themeId": "elektrische-laadpalen",
+      "title": "De gemeente moet meer parkeerplaatsen aanwijzen als oplaadplekken voor elektrische auto's.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126493,
+      "index": 11,
+      "theme": "Voorrang huisvesting",
+      "themeId": "voorrang-huisvesting",
+      "title": "Bij de toewijzing van een sociale huurwoning moeten woningzoekenden uit de eigen gemeente voorrang krijgen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126472,
+      "index": 12,
+      "theme": "Duurzame energie",
+      "themeId": "duurzame-energie",
+      "title": "Inwoners die samen duurzame energie op willen wekken, moeten financiële steun krijgen van de gemeente.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126491,
+      "index": 13,
+      "theme": "Cameratoezicht",
+      "themeId": "cameratoezicht",
+      "title": "In Waddinxveen moet meer cameratoezicht komen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126485,
+      "index": 14,
+      "theme": "Lokale media",
+      "themeId": "lokale-media",
+      "title": "De gemeente moet de lokale omroep ondersteunen met extra geld.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126510,
+      "index": 15,
+      "theme": "Voorrang voor vluchtelingen",
+      "themeId": "voorrang-voor-vluchtelingen",
+      "title": "De gemeente moet vluchtelingen met een verblijfsvergunning voorrang blijven geven op een sociale huurwoning.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126503,
+      "index": 16,
+      "theme": "Zorgkeuze",
+      "themeId": "zorgkeuze",
+      "title": "Mensen die zorg nodig hebben, moeten altijd kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of levensovertuiging.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126505,
+      "index": 17,
+      "theme": "Belasting op gebouwen",
+      "themeId": "belasting-op-gebouwen",
+      "title": "De onroerendezaakbelasting (ozb) moet omlaag.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126497,
+      "index": 18,
+      "theme": "Tegenprestatie voor uitkering",
+      "themeId": "tegenprestatie-voor-uitkering",
+      "title": "Mensen die een bijstandsuitkering krijgen, moeten in ruil daarvoor maatschappelijk zinvol werk doen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126514,
+      "index": 19,
+      "theme": "Nieuw sportpark",
+      "themeId": "nieuw-sportpark",
+      "title": "Waddinxveen moet een nieuw sportpark aanleggen aan de Parklaan.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126473,
+      "index": 20,
+      "theme": "Distributiecentra",
+      "themeId": "distributiecentra",
+      "title": "De gemeente moet de vestiging van nieuwe distributiecentra tegengaan.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126517,
+      "index": 21,
+      "theme": "Sociale huurwoningen",
+      "themeId": "sociale-huurwoningen",
+      "title": "Van de nieuw te bouwen woningen in Waddinxveen moet minimaal 30% een sociale huurwoning zijn. In Nederland is nu 28% van de woningen een sociale huurwoning.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126477,
+      "index": 22,
+      "theme": "Houtstook",
+      "themeId": "houtstook",
+      "title": "In Waddinxveen moet het gebruik van open haarden en houtkachels toegestaan blijven.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126516,
+      "index": 23,
+      "theme": "Coffeeshop",
+      "themeId": "coffeeshop",
+      "title": "De gemeente moet de vestiging van een coffeeshop toestaan.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126468,
+      "index": 24,
+      "theme": "Referendum",
+      "themeId": "referendum",
+      "title": "De inwoners van Waddinxveen moeten over belangrijke onderwerpen hun mening kunnen geven via een referendum.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126496,
+      "index": 25,
+      "theme": "Woningbouw",
+      "themeId": "woningbouw",
+      "title": "De gemeente moet nieuwbouw buiten de bestaande dorpsgrenzen tegengaan.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126507,
+      "index": 26,
+      "theme": "Toeristenbelasting",
+      "themeId": "toeristenbelasting",
+      "title": "De toeristenbelasting moet omhoog.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126512,
+      "index": 27,
+      "theme": "Zonnepanelen op landbouwgrond",
+      "themeId": "zonnepanelen-op-landbouwgrond",
+      "title": "De gemeente moet zonnepanelen op landbouwgrond verbieden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126487,
+      "index": 28,
+      "theme": "Muziekles",
+      "themeId": "muziekles",
+      "title": "Elk basisschoolkind moet met subsidie van de gemeente muziekles kunnen krijgen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126498,
+      "index": 29,
+      "theme": "Kwijtschelding stoppen",
+      "themeId": "kwijtschelding-stoppen",
+      "title": "De gemeente moet stoppen met het kwijtschelden van de gemeentelijke belastingen voor inwoners met een laag inkomen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126523,
+      "index": 30,
+      "theme": "Vrachtverkeer Brugweg",
+      "themeId": "vrachtverkeer-brugweg",
+      "title": "De gemeente moet vrachtverkeer op de Brugweg verbieden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    }
+  ]
+}

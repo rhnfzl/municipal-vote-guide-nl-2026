@@ -1,0 +1,2679 @@
+{
+  "id": "GM0796",
+  "name": "'s-Hertogenbosch",
+  "slug": "s-hertogenbosch",
+  "parties": [
+    {
+      "id": 207186,
+      "name": "GROENLINKS / Partij van de Arbeid",
+      "fullName": "GROENLINKS / Partij van de Arbeid",
+      "website": "https://denbosch.groenlinkspvda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "207221": {
+          "position": "agree",
+          "explanation": "Het is belangrijk bewoners te betrekken bij wat er speelt in de gemeenteraad. Bij belangrijke onderwerpen kan bv. een referendum daar een goed instrument voor zijn. Maar er zijn ook andere alternatieven om inwoners te betrekken, zoals een volkspeiling, enquête of andere vormen."
+        },
+        "207223": {
+          "position": "agree",
+          "explanation": "Het is goed als kwetsbare groepen bij een onafhankelijk iemand terecht kunnen met vragen en zorgen, ook in relatie tot het handelen van de overheid. De toeslagenaffaire heeft laten zien hoe belangrijk dat is. Wij stellen voor deze functionaris breed in te zetten voor allerlei doelgroepen."
+        },
+        "207229": {
+          "position": "agree",
+          "explanation": "In de gemeente hoef je niet constant reclame te zien om dingen te kopen; je mag gewoon genieten van de stadsparken, de cultuurhistorie en de Sint-Jan. Net als andere gemeenten stappen we daarom over op het weren van fossiele reclame en reclame voor vlees uit de openbare ruimte."
+        },
+        "207231": {
+          "position": "disagree",
+          "explanation": "De gemeente onderhoudt straten en hondenuitlaatveldjes, waarvoor het logisch is dat hondeneigenaren bijdragen. Momenteel brengt de hondenbelasting meer op dan nodig is voor deze voorzieningen. Daarom willen we de belasting verlagen zodat de kosten gedekt blijven, maar niet volledig afschaffen."
+        },
+        "207232": {
+          "position": "disagree",
+          "explanation": "Er mogen geen nieuwe bedrijventerreinen bijkomen; we gebruiken ruimte liever voor woningen of extra groen. De focus ligt op de transitie naar een schone economie, met bedrijven die draaien op duurzame energie, geen vervuilende uitstoot hebben en onderdeel zijn van een groene toekomst."
+        },
+        "207234": {
+          "position": "agree",
+          "explanation": "We staan voor humane opvang voor wie dat nodig heeft. Met goede huisvesting en aandacht voor integratie. Opvanglocaties voor asielzoekers, minderjarige vluchtelingen, Oekrainers etc spreiden we waar mogelijk."
+        },
+        "207235": {
+          "position": "disagree",
+          "explanation": "We hebben als gemeenten de plicht om huisvesting te regelen voor statushouders. Zonder sociale huurwoningen zetten we mensen letterlijk op straat. Wel pleiten we voor gedeeld woninggebruik zodat de ruime meerderheid van de woningen er is voor woningzoekenden op de wachtlijst."
+        },
+        "207238": {
+          "position": "disagree",
+          "explanation": "We houden de balans tussen een levendige en leefbare binnenstad goed in de gaten. Daarom programmeren we evenementen ook op tal van andere plekken en proberen we nieuwe evenementen ook meer te spreiden. Maar er hoeven wat ons betreft geen evenementen te vertrekken uit de stad."
+        },
+        "207239": {
+          "position": "agree",
+          "explanation": "Den Bosch loopt risico op overstroming bij hevige regen, zoals zes jaar geleden in Valkenburg gezien de lage ligging. Groen helpt water beter af te voeren, verkoelt de stad tijdens hitte en heeft bovendien positieve effecten op de gezondheid van inwoners."
+        },
+        "207242": {
+          "position": "agree",
+          "explanation": "Het gemeentebeleid moet toekomstbestendig zijn en daarom altijd getoetst worden op klimaatimpact, bijdrage aan circulariteit en het behoud en versterken van groen en natuur in onze gemeente."
+        },
+        "207244": {
+          "position": "agree",
+          "explanation": "Onze gemeente kent veel verenigingen die sporthallen en velden willen gebruiken. Door deze slim te delen, kunnen meer clubs terecht. Dat versterkt verbinding, saamhorigheid en zorgt voor een sterk en toegankelijk verenigingsleven."
+        },
+        "207245": {
+          "position": "disagree",
+          "explanation": "Cultuur moet toegankelijk zijn voor iedereen. Juist door te investeren in cultuur dichtbij in wijken dorpen kan iedereen ermee in aanraking komen."
+        },
+        "207247": {
+          "position": "agree",
+          "explanation": "De Citadelpoort wordt een levendig gebied als het aan GL-PvdA ligt. Een bruisend stuk waarmee de binnenstad wordt ontlast en mensen kunnen recreëren met veel ruimte voor cultuur en groen."
+        },
+        "207249": {
+          "position": "agree",
+          "explanation": "We hebben meer zichtbare handhavers nodig om de veiligheid te vergroten met specifiek een aantal aandachtsgebieden. Bijvoorbeeld bij te hard rijden op drukke 30 km-wegen en tijdens uitgaansavonden, zodat vooral vrouwen en kwetsbare groepen zich veiliger voelen in de stad."
+        },
+        "207251": {
+          "position": "agree",
+          "explanation": "Ons jongerenwerk is zichtbaar en verbonden met de wijken. De jongerenwerkers kennen de jeugd persoonlijk en kunnen hen ondersteunen en begeleiden waar nodig, waardoor ze een sterke preventieve meerwaarde bieden voor veiligheid, welzijn en ontwikkeling van onze jeugd."
+        },
+        "207252": {
+          "position": "disagree",
+          "explanation": "We zijn terughoudend met het plaatsen van camera’s, maar sluiten ze niet uit als ze aantoonbaar bijdragen aan veiligheid. Waar sprake is van structurele overlast en onveiligheid kan cameratoezicht worden ingezet, bijvoorbeeld bij handhaving op 30 km-wegen of locaties met veel overlast."
+        },
+        "207254": {
+          "position": "agree",
+          "explanation": "Er is een groot woningtekort, dus we blijven zoveel mogelijk doorbouwen. We focussen op locaties waar snel veel woningen kunnen komen en voorzieningen al aanwezig zijn, maar sluiten bouwen in het buitengebied zeker niet uit."
+        },
+        "207256": {
+          "position": "agree",
+          "explanation": "Leegstand moeten we voorkomen, zeker bij woningen maar ook bij winkelpanden. Terwijl veel mensen een huis zoeken, is leegstand onrechtvaardig."
+        },
+        "207257": {
+          "position": "agree",
+          "explanation": "We gaan de komende jaren heel veel woningen moeten bouwen. Als we de hoogte in gaan creëren we meer kansen en daarmee meer woningen. Zo benutten we de beschikbare ruimte optimaal, zonder verder natuur of waardevolle buitengebieden aan te tasten."
+        },
+        "207259": {
+          "position": "agree",
+          "explanation": "Mensen hebben dringend behoefte aan betaalbare woningen, dus we moeten veel meer sociale huurwoningen bouwen. Dit doen we verspreid over de hele gemeente. Mensen van alle lagen van de samenleving ontmoeten elkaar, wat bijdraagt aan sociale verbondenheid en een inclusieve samenleving."
+        },
+        "207260": {
+          "position": "agree",
+          "explanation": "Woningen zijn er om in te wonen, niet als beleggingsobject. Met het huidige woningtekort moeten we bouwen voor mensen die echt een thuis nodig hebben. Dat betekent huizen waar mensen ook echt in gaan wonen."
+        },
+        "207261": {
+          "position": "agree",
+          "explanation": "We moeten ongelijk investeren om eerlijke kansen te bieden. Wijken die jarenlang onder het gemiddelde scoren op gezondheid, veiligheid of onderwijs hebben extra aandacht nodig. Door juist daar meer te investeren, kunnen we de verschillen verkleinen en iedereen gelijke kansen geven."
+        },
+        "207262": {
+          "position": "agree",
+          "explanation": "Met de Bossche Pas kunnen mensen met een smalle beurs deelnemen aan sport- en cultuuractiviteiten. We willen dit uitbreiden naar openbaar vervoer en deelmobiliteit, zodat iedereen toegang heeft en vervoersarmoede wordt tegengegaan."
+        },
+        "207263": {
+          "position": "disagree",
+          "explanation": "We zetten in op een gemeente die uitgaat van vertrouwen. De toeslagenaffaire laat zien wat er mis kan gaan. Misbruik van armoederegelingen bestrijden we, maar bovenal vertrouwen we mensen. Een foutje maken mag en wordt met compassie rechtgezet."
+        },
+        "207264": {
+          "position": "agree",
+          "explanation": "Mensen die tijdelijk geen werk hebben verdienen een fatsoenlijke uitkering en hulp bij het vinden van nieuw werk. Wie om wat voor reden dan ook arbeidsongeschikt is ondersteunen we sociaal."
+        },
+        "207266": {
+          "position": "disagree",
+          "explanation": "Mobiliteit gaat niet alleen over reizen, maar ook over elkaar ontmoeten. De lucht in de binnenstad is vaak slechte kwaliteit, stelt ook het RIVM. Daarom kiezen we voor gezond, schoon en toegankelijk vervoer, met onder meer een zero-emissiezone om luchtkwaliteit te verbeteren."
+        },
+        "207269": {
+          "position": "agree",
+          "explanation": "De trein biedt duurzame mobiliteit voor veel inwoners. Op de lijn Den Bosch–Utrecht zetten we ons in voor een extra station bij Maaspoort, zodat meer mensen snel, veilig en groen kunnen reizen."
+        },
+        "207271": {
+          "position": "agree",
+          "explanation": "Op delen van de binnenstadsring rijdt meer dan de helft doorgaand verkeer, wat regelmatig tot opstoppingen leidt. Dit tast leefbaarheid, woongenot en veiligheid aan. Om de binnenstad ook in de toekomst goed bereikbaar en prettig te houden, is ingrijpen noodzakelijk."
+        },
+        "207274": {
+          "position": "agree",
+          "explanation": "Zorg moet persoonsgericht zijn, waarbij zorgwerkers rekening houden met de culturele achtergrond, waarden, overtuigingen en levensgeschiedenis van mensen die zorg nodig hebben. Zodat de zorg beter aansluit bij mensen hun individuele behoeften."
+        },
+        "207280": {
+          "position": "agree",
+          "explanation": "Door corona worden vaker huisdieren afgestaan, waardoor het Dierentehuis te weinig capaciteit heeft. Voor goede zorg voor de dieren en de veiligheid van vrijwilligers is uitbreiding nodig, waarbij de gemeente moet bijdragen aan deze wettelijk verplichte opvang."
+        }
+      }
+    },
+    {
+      "id": 207184,
+      "name": "D66",
+      "fullName": "Democraten 66",
+      "website": "http://d66denbosch.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "207221": {
+          "position": "agree",
+          "explanation": "D66 wil inwoners zo veel mogelijk betrekken bij gemeentelijk beleid. Als het onderwerp zich daarvoor leent kan in sommige gevallen een bindend referendum helpen. Het is voor ons nooit een vervanger van participatie. We geven in principe de voorkeur aan een burgerberaad."
+        },
+        "207223": {
+          "position": "disagree",
+          "explanation": "D66 wil dat ouderen snel en goed geholpen worden. Dat bereiken we niet door extra loketten, maar door sterke wijkteams en duidelijke hulp dichtbij huis. Een aparte ombudsman maakt het systeem ingewikkelder. D66 kiest voor één herkenbare overheid die voor iedereen werkt, jong en oud."
+        },
+        "207229": {
+          "position": "disagree",
+          "explanation": "D66 ziet nu geen problemen met de hoeveelheid reclame in de openbare ruimte. Wel vinden we dat reclames verantwoord moeten zijn en passend bij de omgeving. Misleidende reclames en reclame voor ongezonde voeding rondom scholen willen wij weren."
+        },
+        "207231": {
+          "position": "disagree",
+          "explanation": "Voor D66 is hondenbelasting geen doel op zich. Als de opbrengst bijdraagt aan een schone en prettige openbare ruimte, kan dat zinvol zijn. Tegelijk wordt de belasting als oneerlijk wordt ervaren. Ook dragen honden bij aan gezondheid en minder eenzaamheid. Daarom staan we open voor heroverweging."
+        },
+        "207232": {
+          "position": "agree",
+          "explanation": "D66 wil een sterke lokale economie die groen, innovatief en toekomstgericht is. Daarom willen wij bedrijventerreinen zoveel mogelijk aan de randen van de gemeente plaatsen. Daar zijn ze beter bereikbaar en hebben ze meer ruimte om te groeien."
+        },
+        "207234": {
+          "position": "agree",
+          "explanation": "D66 staat voor een eerlijke en menselijke opvang van asielzoekers. Spreiding over meerdere locaties voorkomt dat één buurt te zwaar wordt belast. Bovendien helpt het bij betere begeleiding en integratie. D66 kiest voor verantwoordelijkheid én draagvlak."
+        },
+        "207235": {
+          "position": "disagree",
+          "explanation": "D66 vindt dat mensen die in Nederland mogen blijven vanaf dag één meedoen. Een woning is daarvoor essentieel. Tegelijk ziet D66 de druk op de woningmarkt. Daarom zetten we in op het bouwen van duizenden nieuwe woningen, zodat hulp aan statushouders niet ten koste gaat van andere woningzoekenden."
+        },
+        "207238": {
+          "position": "disagree",
+          "explanation": "D66 wil een levendige en gastvrije binnenstad. Evenementen dragen bij aan cultuur, ontmoeting en de lokale economie. Van carnaval, Serious Request tot de kermis: ieder jaar genieten duizenden mensen van het beste wat onze stad te bieden heeft. Met goede afspraken in de omgeving is er veel mogelijk."
+        },
+        "207239": {
+          "position": "agree",
+          "explanation": "Voor D66 is groen essentieel voor een gezonde stad. Het helpt tegen hitte, verbetert de luchtkwaliteit en nodigt uit tot ontmoeting. Meer groen in de wijk is geen luxe, maar een investering in leefbaarheid en gezondheid."
+        },
+        "207242": {
+          "position": "agree",
+          "explanation": "D66 wil dat duurzaamheid een vast onderdeel is van alle gemeentelijke keuzes. Of het nu gaat om bouwen, mobiliteit of economie: de impact op klimaat en natuur moet altijd worden meegewogen. Zo beschermen we de leefomgeving van huidige én toekomstige generaties."
+        },
+        "207244": {
+          "position": "agree",
+          "explanation": "Voor D66 zijn sportaccommodaties maatschappelijke voorzieningen. Door met goede afspraken hallen, velden en kantines slimmer te delen, kunnen meer mensen sporten zonder steeds opnieuw te bouwen. Dat houdt sport betaalbaar, bevordert beweging en is duurzaam gebruik van ruimte en middelen."
+        },
+        "207245": {
+          "position": "disagree",
+          "explanation": "D66 wil een stad is waar cultuur voor iedereen zichtbaar en bereikbaar is. Cultuur brengt mensen samen, geeft ruimte aan talent en maakt de stad aantrekkelijk. Het is daarnaast een belangrijke motor voor de lokale economie en het vestigingsklimaat. D66 wil daarom juist meer investeren in cultuur."
+        },
+        "207247": {
+          "position": "agree",
+          "explanation": "D66 ziet de Citadelpoort als een plek met veel potentie. Hier ligt de potentie om buiten het historische centrum een levendig, groen gebied te creëren in de Bossche Stadsdelta, mits de plannen financieel verantwoord zijn en meerwaarde bieden voor inwoners en bezoekers."
+        },
+        "207249": {
+          "position": "agree",
+          "explanation": "D66 wil dat ‘s-Hertogenbosch veiliger wordt. Handhaving door boa’s die goed in contact staan met onze wijken en buurten kan hier, in combinatie met sterk jongerenwerk, goed aan bijdragen. Zo versterken we preventie en handhaven we waar dat nodig is."
+        },
+        "207251": {
+          "position": "agree",
+          "explanation": "D66 wil dat jongeren zich veilig, gezien en gesteund voelen. Jongerenwerk biedt structuur, perspectief en een luisterend oor. Door hierin te investeren voorkomen we grotere problemen zoals schooluitval en criminaliteit. Preventie en kansen bieden werkt beter dan achteraf ingrijpen."
+        },
+        "207252": {
+          "position": "agree",
+          "explanation": "D66 wil dat iedereen zich vrij en veilig voelt in de openbare ruimte. Cameratoezicht kan in sommige situaties helpen, maar is geen structurele oplossing. Wij pakken problemen liever bij de bron aan met zichtbare handhaving, goede verlichting en slimme inrichting. Camera’s zijn niet de eerste optie."
+        },
+        "207254": {
+          "position": "agree",
+          "explanation": "D66 wil snel meer woningen bouwen om de woningnood aan te pakken. We bouwen vooral in en rond de stad en dichtbij openbaar vervoer en voorzieningen, maar dat is niet genoeg. Waar bouwen in het buitengebied nodig is, doen we dat zorgvuldig, met bescherming van natuur, landschap en leefbaarheid."
+        },
+        "207256": {
+          "position": "agree",
+          "explanation": "D66 vindt het onacceptabel dat panden leegstaan terwijl de woningnood groot is. Met een leegstandsbelasting stimuleren we eigenaren om woningen te verhuren of te ontwikkelen, vooral boven winkels in de binnenstad. Zo benutten we bestaande ruimte beter en eerlijker."
+        },
+        "207257": {
+          "position": "agree",
+          "explanation": "D66 ziet hoogbouw als een goede manier om snel meer woningen te bouwen zonder extra groen op te offeren en voorzieningen overeind te houden. Buiten de historische binnenstad is hier zeker ruimte voor. Zo bouwen we aan een toekomstbestendige stad waarin we de woningnood flink terugdringen."
+        },
+        "207259": {
+          "position": "disagree",
+          "explanation": "D66 wil dat iedereen een passend thuis kan vinden. Juist middeninkomens – zoals leraren, zorgmedewerkers en jonge gezinnen – vallen nu vaak buiten de boot. Daarom kiezen we voor gemengde wijken met sociale huur, middenhuur en betaalbare koop. Dat zorgt voor doorstroming en perspectief op een huis."
+        },
+        "207260": {
+          "position": "agree",
+          "explanation": "D66 vindt dat woningen bedoeld zijn om in te wonen, niet om mee te speculeren. Met een zelfbewoningsplicht geven we starters en doorstromers meer kansen en versterken we betrokken, stabiele wijken waar mensen zich thuis voelen."
+        },
+        "207261": {
+          "position": "agree",
+          "explanation": "D66 wil dat iedereen gelijke kansen heeft, ongeacht de wijk waarin je woont. In sommige buurten spelen meer problemen rondom armoede, gezondheid en voorzieningen. Extra investeren is daar logisch: niet omdat andere wijken minder tellen, maar omdat gelijke kansen soms ongelijke inzet vragen."
+        },
+        "207262": {
+          "position": "disagree",
+          "explanation": "D66 wil dat ondersteuning snel en eenvoudig terechtkomt bij mensen die het nodig hebben. We willen voorkomen dat geld blijft hangen in complexe en dure systemen zoals de Bossche Pas. In plaats daarvan maken we armoederegelingen eenvoudiger, toegankelijker en bereikbaarder."
+        },
+        "207263": {
+          "position": "agree",
+          "explanation": "D66 vindt het belangrijk dat regelingen worden gebruikt waarvoor ze bedoeld zijn. Controle hoort daarbij, maar altijd met een menselijke maat. Te strenge controles kunnen mensen afschrikken die het nodig hebben. Misbruik pakken we gericht aan, met vertrouwen in onze inwoners als uitgangspunt."
+        },
+        "207264": {
+          "position": "agree",
+          "explanation": "D66 wil dat mensen perspectief hebben om zelfstandig verder te komen. Voor veel mensen is betaald werk daarbij belangrijk, maar niet iedereen kan meteen aan het werk. Daarom kiest D66 voor maatwerk: begeleiding naar werk waar dat kan en scholing, omscholing of ondersteuning waar dat nodig is."
+        },
+        "207266": {
+          "position": "disagree",
+          "explanation": "D66 kiest voor een gezonde binnenstad met schone lucht. Hier hoort schoon vervoer ook bij. We begrijpen de zorgen van ondernemers en zorgen daarom voor goede begeleiding en een haalbare overgang naar schoon vervoer."
+        },
+        "207269": {
+          "position": "agree",
+          "explanation": "D66 wil goed openbaar vervoer voor alle wijken. Een station bij Maaspoort verbetert de bereikbaarheid van ‘s-Hertogenbosch Noord en maakt duurzaam en sneller reizen aantrekkelijker. Ook sluiten we Noord op deze manier beter aan bij de rest van de gemeente."
+        },
+        "207271": {
+          "position": "agree",
+          "explanation": "Te veel doorgaand verkeer zorgt voor lawaai, vervuiling en onveiligheid. D66 wil verkeer slimmer sturen en alternatieven aantrekkelijker maken. Zo ontstaat meer ruimte voor fietsers, voetgangers en groen en wordt de stad gezonder en leefbaarder."
+        },
+        "207274": {
+          "position": "disagree",
+          "explanation": "D66 staat voor eigen regie bij zorg en ondersteuning. Door personeelstekorten is keuze voor een bepaalde hulpverlener niet altijd mogelijk. We zetten erop in dat alle zorgverleners werken met respect voor ieders achtergrond en levenswijze."
+        },
+        "207280": {
+          "position": "agree",
+          "explanation": "D66 vindt dat dierenwelzijn meer aandacht verdient. Dieren die op straat worden gezet of alleen worden achtergelaten verdienen goede opvang. Als opvang voor achtergelaten dieren tekortschiet, moet de gemeente bijspringen. D66 combineert goede opvang met voorlichting over verantwoord huisdierbezit."
+        }
+      }
+    },
+    {
+      "id": 207185,
+      "name": "VVD",
+      "fullName": "Volkspartij voor Vrijheid en Democratie",
+      "website": "https://www.vvd.nl/gemeente-den-bosch/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "207221": {
+          "position": "disagree",
+          "explanation": "De VVD gelooft in een daadkrachtig bestuur waarbij democratisch gekozen volksvertegenwoordigers hun verantwoordelijkheid nemen. Wij luisteren liever naar inwoners via direct contact, werk- en buurtbezoeken en hen zo vroeg mogelijk actief bij plannen te betrekken."
+        },
+        "207223": {
+          "position": "disagree",
+          "explanation": "Wij willen een dienstbare gemeente die voor iedereen toegankelijk en behulpzaam is, ongeacht leeftijd."
+        },
+        "207229": {
+          "position": "disagree",
+          "explanation": "Ondernemers moeten met hun ondernemingen zichtbaar kunnen zijn. Zolang het niet leidt tot overlast en veilig gebeurt, wil de VVD ondernemers de ruimte blijven geven om reclame te maken."
+        },
+        "207231": {
+          "position": "disagree",
+          "explanation": "De VVD kiest bij de hondenbelasting voor kostendekkendheid. We gebruiken de opbrengsten hiervan om uitlaatveldjes, opruimacties en prullenbakken te betalen."
+        },
+        "207232": {
+          "position": "agree",
+          "explanation": "Ondernemers hebben ruimte nodig om te groeien. Het huidige aanbod is onvoldoende. Daarom wijzen we nieuwe locaties aan en richten we bestaande bedrijventerreinen efficiënter in, bijvoorbeeld door de hoogte in te gaan."
+        },
+        "207234": {
+          "position": "agree",
+          "explanation": "De VVD ziet het liefst dat de asielopvang kleinschalig wordt verspreid over meerdere plekken in de gemeente, onder andere om overlast te voorkomen en integratie te bevorderen."
+        },
+        "207235": {
+          "position": "agree",
+          "explanation": "Wij bouwen voor de hardwerkende Bosschenaren die op dit moment tussen wal en schip vallen en al vele jaren wachten."
+        },
+        "207238": {
+          "position": "agree",
+          "explanation": "Evenementen en toerisme maken onze bruisende gemeente en versterken onze lokale economie. De VVD wil investeren in een topaanbod, waarbij we kijken naar spreiding van evenementen over binnenstad, wijken en dorpen. Zo bieden we overal vertier én beheersen we tegelijkertijd de drukte in de binnenstad."
+        },
+        "207239": {
+          "position": "agree",
+          "explanation": "De VVD wil investeren in groen waar het bijdraagt aan de leefbaarheid en waar het helpt tegen hittestress."
+        },
+        "207242": {
+          "position": "disagree",
+          "explanation": "Voor de Bossche VVD is duurzaamheid belangrijk, maar wij kiezen eerder voor een pragmatische en realistische aanpak."
+        },
+        "207244": {
+          "position": "agree",
+          "explanation": "De VVD wil slim blijven omgaan met ruimte en geld. Door sportfaciliteiten multifunctioneel in te zetten, kunnen meer verenigingen en inwoners er gebruik van maken."
+        },
+        "207245": {
+          "position": "agree",
+          "explanation": "De VVD wil dat de culturele sector ondernemender en minder afhankelijk van subsidies wordt. We zetten daarbij in op cultureel ondernemerschap."
+        },
+        "207247": {
+          "position": "neither",
+          "explanation": "De VVD staat open voor een publiekstrekker in de Citadelpoort / Bossche Stadsdelta, mits met een kloppende business case en bijbehorende parkeergarage voor buurt en bezoekers."
+        },
+        "207249": {
+          "position": "agree",
+          "explanation": "Veiligheid staat op één. Wij breiden de handhaving uit, zorgen dat boa's zichtbaar zijn en zorgen dat zij de optimale uitrusting hebben voor hun eigen veiligheid en de onze. We treden hard op tegen overlast en criminaliteit met een nultolerantiebeleid."
+        },
+        "207251": {
+          "position": "agree",
+          "explanation": "Voorkomen is beter dan genezen, maar preventie werkt niet zonder handhaving. Wij investeren in preventie door samen te werken met scholen en jongerenwerkers, maar treden hard op tegen criminaliteit. Alleen met die balans zorgen we voor een veilig 's-Hertogenbosch."
+        },
+        "207252": {
+          "position": "agree",
+          "explanation": "Op plekken waar mensen zich onveilig voelen of waar veel overlast is, zetten we (mobiele) camera's in. Dit werkt preventief door potentiële daders af te schrikken en vergroot de pakkans van daders en het veiligheidsgevoel van onze inwoners."
+        },
+        "207254": {
+          "position": "agree",
+          "explanation": "De woningnood is hoog. We moeten niet alleen in de stad bouwen (inbreiden), maar ook aan de randen en in de dorpen (uitbreiden)."
+        },
+        "207256": {
+          "position": "disagree",
+          "explanation": "De VVD gelooft meer in stimuleren en het goede gesprek met deze eigenaren dan in straffen met extra belastingen. De VVD gaat in gesprek met hen en maakt het makkelijker om leegstaande kantoren en winkels om te bouwen tot woningen."
+        },
+        "207257": {
+          "position": "agree",
+          "explanation": "Om meer woningen te kunnen realiseren wil de VVD passend de hoogte in. Geen hoge wolkenkrabbers die niet passen bij het karakter van ’s-Hertogenbosch in de historische Binnenstad of in onze dorpen. Daarbuiten zijn er wel mogelijkheden op passende locaties, zoals in de nieuwe stadswijk De Vliert."
+        },
+        "207259": {
+          "position": "disagree",
+          "explanation": "Wij focussen op de groep die nu nergens terecht kan: de middeninkomens. De VVD zet juist in op het bouwen van betaalbare koopwoningen en middenhuur, onder andere om doorstroming mogelijk te maken waarmee vervolgens sociale huurwoningen vrijkomen."
+        },
+        "207260": {
+          "position": "disagree",
+          "explanation": "De VVD is voor behoud van betaalbare koopwoningen, maar ziet ook een grote vraag naar huurwoningen in 's-Hertogenbosch waaraan niet kan worden voldaan. Landelijke regelgeving ontmoedigt het speculeren in betaalbare woningen voor de verhuur al. De VVD ziet daarom geen heil in de zelfbewoningsplicht."
+        },
+        "207261": {
+          "position": "disagree",
+          "explanation": "Meer geld is niet altijd de oplossing. De VVD vindt wel dat kwetsbare wijken extra aandacht verdienen en steun krijgen waar nodig, zodat elke wijk in 's-Hertogenbosch een fijne plek is om te wonen."
+        },
+        "207262": {
+          "position": "disagree",
+          "explanation": "De VVD kiest voor een slimme en beheerste aanpak. Voordat we de Bossche Pas uitbreiden met nieuwe regelingen, moet eerst bewezen zijn dat de Bossche Pas in de basis effectief en efficiënt werkt."
+        },
+        "207263": {
+          "position": "agree",
+          "explanation": "Sociale voorzieningen zijn een vangnet voor wie het écht nodig heeft. Wie de boel belazert, pakken we hard aan."
+        },
+        "207264": {
+          "position": "agree",
+          "explanation": "De beste sociale zekerheid is een betaalde baan."
+        },
+        "207266": {
+          "position": "disagree",
+          "explanation": "Wij staan voor een betrouwbare lokale overheid zonder jojo-beleid. Daarom blijft de huidige zero-emissiezone, maar is de VVD absoluut tegen verdere uitbreiding. Zet liever in op haalbare en betaalbare alternatieven voor een schonere lucht, zonder bereikbaarheid en onze lokale economie te belemmeren."
+        },
+        "207269": {
+          "position": "disagree",
+          "explanation": "Spoorwegbeheerder ProRail heeft eerder al aangegeven dat een station Maaspoort niet haalbaar is. Voor de Bossche VVD ligt de prioriteit de komende jaren bij een goed functionerend Bosch Centraal en goede, betrouwbare busverbindingen van en naar de wijken en dorpen."
+        },
+        "207271": {
+          "position": "disagree",
+          "explanation": "De Bossche binnenstad moet goed bereikbaar blijven voor bestemmingsverkeer. De VVD is daarom absoluut tegen ‘knips’ op de binnenstadsring, tenzij deze aantoonbaar noodzakelijk zijn. Vooral de voorgestelde knips op de Zuidwal en de Zuid-Willemsvaart is de VVD pertinent op tegen."
+        },
+        "207274": {
+          "position": "agree",
+          "explanation": "Inwoners moeten de regie houden over hun eigen leven. Keuzevrijheid in de zorg is daarbij een groot goed. De VVD vindt dan ook dat je de hulp moet kunnen kiezen die bij jouw situatie en overtuiging past, mits deze beschikbaar is."
+        },
+        "207280": {
+          "position": "agree",
+          "explanation": "De VVD vindt het belangrijk dat dieren goed en veilig worden opgevangen. Samen met andere gemeenten zorgen we ervoor dat het Dierentehuis de ruimte heeft dit goed te kunnen doen."
+        }
+      }
+    },
+    {
+      "id": 207187,
+      "name": "Rosmalens Belang",
+      "fullName": "Rosmalens Belang",
+      "website": "https://rosmalensbelang.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "207221": {
+          "position": "disagree",
+          "explanation": "Wij geloven in een gekozen volksvertegenwoordiging die belangen zorgvuldig afweegt. Inwoners betrekken is belangrijk, maar via passende participatievormen zoals wijkgesprekken en inspraak, niet via referenda."
+        },
+        "207223": {
+          "position": "disagree",
+          "explanation": "Ouderen moeten goed geholpen worden door de gemeente, maar dat kan beter via bestaande loketten en duidelijke aanspreekpunten. Een aparte ombudsman voegt vooral extra bureaucratie toe."
+        },
+        "207229": {
+          "position": "disagree",
+          "explanation": "Wij zetten hoog in op ruimte voor ondernemers, zeker voor lokale ondernemers. Beperking van reclame is alleen aan de orde waar dit echt nodig is voor leefbaarheid of veiligheid."
+        },
+        "207231": {
+          "position": "neither",
+          "explanation": "Als sprake is van een doelbelasting, moet deze aantoonbaar worden ingezet voor voorzieningen zoals handhaving en schoonhouden. De belasting mag niet meer opleveren dan nodig."
+        },
+        "207232": {
+          "position": "agree",
+          "explanation": "Extra ruimte voor bedrijventerreinen is nodig voor lokale ondernemers, mits deze zorgvuldig worden ingepast in de omgeving en passen bij het karakter van de gemeente."
+        },
+        "207234": {
+          "position": "disagree",
+          "explanation": "Wij staan achter de nog te bouwen centrale locatie Groot Meerendonk in Den Bosch. Door vooraf duidelijk te zijn over de locatie weten inwoners waar zij aan toe zijn. Achteraf inpassen in wijken, ook kleinschalig, vinden wij niet wenselijk."
+        },
+        "207235": {
+          "position": "agree",
+          "explanation": "Wij willen geen voorrang voor statushouders bij sociale huur. De wachttijd moet leidend zijn, met gelijke behandeling voor alle woningzoekenden. We voeren dit uit binnen wet- en regelgeving, zonder onduidelijke uitzonderingen."
+        },
+        "207238": {
+          "position": "disagree",
+          "explanation": "Evenementen horen bij een levendige binnenstad. Beperking is alleen nodig bij structurele overlast. Wij kiezen voor maatwerk en goede spreiding in plaats van een vast maximum."
+        },
+        "207239": {
+          "position": "agree",
+          "explanation": "Meer groen in wijken zorgt voor verkoeling, gezondheid en een prettige leefomgeving. Dit is een investering in kwaliteit van leven. We laten het wel goed onderhouden."
+        },
+        "207242": {
+          "position": "disagree",
+          "explanation": "Duurzaamheid is belangrijk, maar wij hechten bijvoorbeeld ook veel waarde aan ondernemers en lokale verbondenheid. Niet voor elk beleidsonderdeel moet een aparte toets worden opgetuigd."
+        },
+        "207244": {
+          "position": "agree",
+          "explanation": "Door accommodaties beter te delen, benutten we bestaande voorzieningen efficiënter en houden we kosten beheersbaar."
+        },
+        "207245": {
+          "position": "disagree",
+          "explanation": "Met culturele instellingen bedoelen wij maatschappelijke organisaties zoals verenigingen die weer zorgen voor ontmoetingsplekken. Zij zijn essentieel voor verbinding en leefbaarheid in wijken en dorpen."
+        },
+        "207247": {
+          "position": "disagree",
+          "explanation": "Een publiekstrekker vraagt om een duidelijke visie, draagvlak en financiële onderbouwing voordat keuzes worden gemaakt."
+        },
+        "207249": {
+          "position": "agree",
+          "explanation": "Meer handhavers zorgen voor betere naleving van regels en vergroten het gevoel van veiligheid in onze wijken en dorpen. Tevens zien wij een preventieve rol voor hen weggelegd."
+        },
+        "207251": {
+          "position": "agree",
+          "explanation": "Jongerenwerk helpt problemen voorkomen en ondersteunt jongeren in hun ontwikkeling. Dat is effectiever dan achteraf ingrijpen."
+        },
+        "207252": {
+          "position": "agree",
+          "explanation": "Cameratoezicht kan bijdragen aan veiligheid, mits gericht ingezet en met respect voor privacy."
+        },
+        "207254": {
+          "position": "neither",
+          "explanation": "De woningcrisis vraagt om extra bouw, maar het buitengebied is geen standaardoplossing. Nieuwbouw kan alleen bij uitzondering en onder strikte voorwaarden, met behoud van het dorpse karakter, respect voor landschap en als het bijdraagt aan dorpsversterking en doorstroming."
+        },
+        "207256": {
+          "position": "disagree",
+          "explanation": "Leegstand is onwenselijk, maar niet altijd verwijtbaar of eenvoudig op te lossen. Extra belasting is een zwaar middel; stimuleren en meedenken werkt vaak beter."
+        },
+        "207257": {
+          "position": "agree",
+          "explanation": "Hoogbouw buiten het historische centrum kan helpen om de woningnood aan te pakken zonder het karakter van de binnenstad aan te tasten."
+        },
+        "207259": {
+          "position": "disagree",
+          "explanation": "Een vast percentage van 40% sociale huur is te eenzijdig. Wij zetten juist in op een evenwichtige woningmix met meer middendure huur en betaalbare koop. Dat bevordert doorstroming en zorgt dat sociale huur beschikbaar blijft voor wie het echt nodig heeft."
+        },
+        "207260": {
+          "position": "agree",
+          "explanation": "Zelfbewoningsplicht helpt huisjesmelkers weren. Tegelijk moet worden voorkomen dat koopwoningen huurwoningen verdringen; beide vormen zijn nodig voor een gezonde woningmarkt."
+        },
+        "207261": {
+          "position": "disagree",
+          "explanation": "Iedere wijk is belangrijk. Extra inzet kan nodig zijn, maar structureel onderscheid in geld is niet altijd de juiste oplossing. Maatwerk per wijk werkt beter."
+        },
+        "207262": {
+          "position": "agree",
+          "explanation": "De Bossche Pas helpt inwoners met een laag inkomen en mag waar nodig worden uitgebreid."
+        },
+        "207263": {
+          "position": "agree",
+          "explanation": "Strenge controle voorkomt misbruik en zorgt dat steun terechtkomt bij wie het nodig heeft."
+        },
+        "207264": {
+          "position": "agree",
+          "explanation": "Begeleiding naar werk vergroot zelfstandigheid en vermindert afhankelijkheid van uitkeringen."
+        },
+        "207266": {
+          "position": "disagree",
+          "explanation": "Terugdraaien zorgt voor onduidelijkheid. Wij kiezen voor een realistische en voorspelbare invoering van de zero-emissiezone in de binnenstad. Uitbreiding naar dorpen en kernen wijzen wij af; daar moet maatwerk gelden voor inwoners en ondernemers."
+        },
+        "207269": {
+          "position": "agree",
+          "explanation": "Een station bij Maaspoort én inzet voor een station in Nuland verbeteren de bereikbaarheid en verminderen verkeersdruk aan de oostzijde."
+        },
+        "207271": {
+          "position": "agree",
+          "explanation": "Minder doorgaand verkeer verbetert veiligheid en leefbaarheid in en rond de binnenstad."
+        },
+        "207274": {
+          "position": "agree",
+          "explanation": "Vrije zorgkeuze zorgt ervoor dat ondersteuning aansluit bij de persoon."
+        },
+        "207280": {
+          "position": "disagree",
+          "explanation": "Het Dierentehuis vervult een belangrijke functie, maar structurele gemeentelijke bijdragen creëren precedenten. Wij willen hier terughoudend in zijn en kiezen voor een consistente en niet-selectieve inzet van publieke middelen."
+        }
+      }
+    },
+    {
+      "id": 207188,
+      "name": "CDA",
+      "fullName": "Christen-Democratisch Appèl",
+      "website": "https://www.cda.nl/noord-brabant/s-hertogenbosch/.",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "207221": {
+          "position": "disagree",
+          "explanation": "Het CDA vindt het belangrijk dat inwoners meedenken over besluiten die veel invloed hebben op hun buurt of leven. Dat doen we liever via burgerberaden, waar mensen samen praten en ideeën delen. Een referendum leidt vaak tot tegenstellingen."
+        },
+        "207223": {
+          "position": "agree",
+          "explanation": "Veel ouderen vinden contact met de overheid lastig, vooral digitaal. Het CDA wil dat ouderen goede hulp krijgen. Een ombudsman voor ouderen kan helpen als zij vastlopen bij instanties."
+        },
+        "207229": {
+          "position": "disagree",
+          "explanation": "Het CDA wil ruimte geven aan lokale ondernemers en initiatieven. Reclame helpt hen zichtbaar te zijn voor bewoners en bezoekers. Met duidelijke regels kan reclame bijdragen aan een levendige stad, zonder dat dit storend is voor de omgeving."
+        },
+        "207231": {
+          "position": "agree",
+          "explanation": "Het CDA wil de hondenbelasting afschaffen. Het geld wordt niet gebruikt voor hondenvoorzieningen. Daarom vinden wij deze belasting oneerlijk."
+        },
+        "207232": {
+          "position": "agree",
+          "explanation": "Goede bedrijventerreinen zijn nodig voor een sterke lokale economie. Vooral mkb-bedrijven hebben ruimte nodig om te groeien en te vernieuwen. Dat zorgt voor banen en goede voorzieningen."
+        },
+        "207234": {
+          "position": "agree",
+          "explanation": "Het CDA vindt dat kwetsbare groepen over de gemeente moeten worden verspreid. Zo komt niet alle druk in één wijk. Dat helpt om overlast te verminderen en houdt de wijk prettig om in te wonen."
+        },
+        "207235": {
+          "position": "disagree",
+          "explanation": "Het stoppen van voorrang voor statushouders kan leiden tot dakloosheid en overlast."
+        },
+        "207238": {
+          "position": "disagree",
+          "explanation": "Het CDA wil grote evenementen in de binnenstad behouden. Ze horen bij onze stad. We blijven voortdurend in gesprek met inwoners en ondernemers om overlast te beperken."
+        },
+        "207239": {
+          "position": "agree",
+          "explanation": "Groen maakt wijken mooier en gezonder. Het helpt tegen hitte en wateroverlast en geeft kinderen ruimte om te spelen. Het CDA blijft investeren in groen."
+        },
+        "207242": {
+          "position": "disagree",
+          "explanation": "Duurzaamheid is belangrijk, maar niet elk besluit hoeft apart getoetst te worden. Als we alles toetsen, zorgt dat voor vertraging en papierwerk. Dat helpt de gemeente niet vooruit."
+        },
+        "207244": {
+          "position": "agree",
+          "explanation": "Door sporthallen en andere gebouwen slimmer te gebruiken, ontstaat ruimte voor meer sport en ontmoeting. We gebruiken bestaande plekken vaker en voor meerdere doelen."
+        },
+        "207245": {
+          "position": "disagree",
+          "explanation": "Cultuur is belangrijk, van muziek tijdens carnaval tot concerten. Het CDA wil vooral investeren in muziekonderwijs en in amateurmuziek, zoals koren en muziekverenigingen."
+        },
+        "207247": {
+          "position": "agree",
+          "explanation": "Het CDA wil een nieuwe publiekstrekker in de Citadelpoort die zorgt voor levendigheid. Met ruimte voor de roeivereniging in het gebied. En kansen voor onderwijs, niet voor een nieuw Designmuseum."
+        },
+        "207249": {
+          "position": "agree",
+          "explanation": "Het CDA wil meer wijkboa’s die zichtbaar en aanspreekbaar zijn. Dat vergroot de veiligheid en het vertrouwen in de wijk."
+        },
+        "207251": {
+          "position": "agree",
+          "explanation": "Steeds meer jongeren hebben last van stress en prestatiedruk. Het CDA vindt goed jongerenwerk belangrijk om problemen vroeg aan te pakken."
+        },
+        "207252": {
+          "position": "agree",
+          "explanation": "Camera’s kunnen helpen bij veiligheid en handhaving. We gebruiken ze op logische plekken, samen met goede verlichting en een veilige inrichting."
+        },
+        "207254": {
+          "position": "agree",
+          "explanation": "Het CDA is voor woningbouw in het buitengebied, met behoud van het dorpse karakter en in overleg met inwoners."
+        },
+        "207256": {
+          "position": "disagree",
+          "explanation": "Leegstaande panden bieden kansen voor wonen of andere functies. De gemeente moet eigenaren helpen bij herontwikkeling, niet extra belasten."
+        },
+        "207257": {
+          "position": "agree",
+          "explanation": "Het CDA wil 15.000 woningen bouwen. Hoogbouw is nodig op plekken waar dat past, om het woningtekort aan te pakken."
+        },
+        "207259": {
+          "position": "disagree",
+          "explanation": "We willen een goede mix van woningen bouwen. Vooral betaalbare huur- en koopwoningen voor het middensegment zijn hard nodig."
+        },
+        "207260": {
+          "position": "agree",
+          "explanation": "Het CDA wil bouwen voor inwoners, niet voor beleggers. Zo blijven woningen betaalbaar voor mensen die hier willen wonen."
+        },
+        "207261": {
+          "position": "disagree",
+          "explanation": "Elke wijk is anders. Het CDA vindt dat elke wijk en buurt aandacht verdient. Alle wijken kennen hun eigen uitdagingen en hebben investeringen nodig om leefbaar en veilig te blijven."
+        },
+        "207262": {
+          "position": "agree",
+          "explanation": "De Bossche Pas maakt hulp makkelijker bereikbaar. Als meer mensen de pas gebruiken, moet het budget meegroeien."
+        },
+        "207263": {
+          "position": "neither",
+          "explanation": "Het CDA wil armoederegelingen die simpel en toegankelijk zijn, uitgaande van vertrouwen en maatwerk. Tegelijk: als er concrete signalen zijn van misbruik dan pakken we dat aan."
+        },
+        "207264": {
+          "position": "agree",
+          "explanation": "Werk helpt mensen mee te doen. Het geeft mensen zelfvertrouwen en inkomen. Het begeleiden van mensen naar werk heeft onze prioriteit. Als werk (nog) niet lukt helpen we mensen met opleidingen of meedoen in de samenleving, bijvoorbeeld door vrijwilligerswerk."
+        },
+        "207266": {
+          "position": "disagree",
+          "explanation": "Een gezonde leefomgeving is belangrijk. De zero-emissiezone helpt daarbij. Wel moet het haalbaar blijven, met maatwerk voor bepaalde groepen."
+        },
+        "207269": {
+          "position": "agree",
+          "explanation": "Het CDA wil een station bij Maaspoort en blijft zich inzetten voor een station bij Nuland en een nieuw centraal station."
+        },
+        "207271": {
+          "position": "disagree",
+          "explanation": "Het CDA vindt dat de binnenstad ook met de auto bereikbaar moet blijven. Dat is belangrijk voor bewoners, ondernemers en bezoekers."
+        },
+        "207274": {
+          "position": "disagree",
+          "explanation": "Het CDA wil goede, betaalbare zorg voor iedereen. Kwaliteit, bereikbaarheid en ontmoeting tussen mensen staan centraal."
+        },
+        "207280": {
+          "position": "agree",
+          "explanation": "Het CDA vindt dierenwelzijn belangrijk. Daarom is het logisch dat de gemeente meebetaalt aan de uitbreiding van het dierentehuis."
+        }
+      }
+    },
+    {
+      "id": 207189,
+      "name": "De Bossche Groenen",
+      "fullName": "De Bossche Groenen",
+      "website": "https://debosschegroenen.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "207221": {
+          "position": "agree",
+          "explanation": "Neem de burger serieus en de uitkomst van een referendum mee in de afweging van een besluit."
+        },
+        "207223": {
+          "position": "agree",
+          "explanation": "Het aantal senioren in ons land stijgt snel en vraagt om aanvullend beleid. Daarnaast is het belangrijk om als gemeente te weten wat ouderen nodig hebben voor een fijne, oude dag."
+        },
+        "207229": {
+          "position": "agree",
+          "explanation": "Reclame die aanzet tot ongezond gedrag of schadelijk is voor het klimaat hoort niet thuis in de openbare ruimte."
+        },
+        "207231": {
+          "position": "agree",
+          "explanation": "Nu denken sommige mensen dat zij, door belasting te betalen, hun hond overal mogen laten poepen. Dit leidt tot overlast en vervuiling in onze stad. Van deze belasting gaat de verkeerde prikkel uit."
+        },
+        "207232": {
+          "position": "disagree",
+          "explanation": "Bestaande bedrijventerreinen moeten worden geherstructureerd om ruimte te maken voor de vestiging van nieuwe bedrijven. Daar is nog volop ruimte."
+        },
+        "207234": {
+          "position": "agree",
+          "explanation": "Minder impact dan een groot AZC, wat acceptatie kan vergroten. Betere intergratie doordat bewoners meer op zichzelf zijn aangewezen en deel uitmaken van een woonomgeving."
+        },
+        "207235": {
+          "position": "disagree",
+          "explanation": "Wij vinden het redelijk dat een klein deel van onze sociale huurwoningen wordt toegewezen aan deze groep."
+        },
+        "207238": {
+          "position": "agree",
+          "explanation": "De druk op de evenementenkalender is al heel erg hoog."
+        },
+        "207239": {
+          "position": "agree",
+          "explanation": "De kwaliteit van het groen in onze wijken gaat hard achteruit. Dat kan zo niet langer. We investeren structureel meer in onderhoud en verbetering van de groene ruimtes in alle wijken."
+        },
+        "207242": {
+          "position": "agree",
+          "explanation": "DBG wil werken aan een circulaire samenleving. Hergebruik van materialen, bouwen met duurzame grondstoffen, energiezuinige woningen en van het gas af, ontkoppelen van hemelwater, etcetera."
+        },
+        "207244": {
+          "position": "agree",
+          "explanation": "Het is belangrijk om het sporten voor zoveel mogelijk inwoners mogelijk te maken. Omdat ruimtegebrek een belemmering is, kan in samenspraak met verenigingen en clubs worden bekeken of voorzieningen gedeeld kunnen worden."
+        },
+        "207245": {
+          "position": "disagree",
+          "explanation": "Door kunst en cultuur kunnen we onszelf verrijken, onze horizon verbreden en een dieper begrip krijgen van de wereld om ons heen."
+        },
+        "207247": {
+          "position": "disagree",
+          "explanation": "De Citadelpoort heeft al een trekker van formaat: roeivereniging De Hertog."
+        },
+        "207249": {
+          "position": "agree",
+          "explanation": "In het verleden is er bezuinigd op de boa`s. Met name in het buitengebied is er te weinig handhaving en toezicht. Er wordt nu alleen gehandhaafd op basis van meldingen."
+        },
+        "207251": {
+          "position": "agree",
+          "explanation": "We zetten in op samenwerking met jongerenwerk Den Bosch om te horen wat jongeren nodig hebben. Zo zorgen we voor een vaste plek waar ze zich thuis voelen, hun talenten kunnen ontwikkelen en gewoon samen kunnen zijn met vrienden."
+        },
+        "207252": {
+          "position": "neither",
+          "explanation": "De binnenstad hangt al vol met camera`s. Op sociaal onveilige plekken, zoals fiets- en voetgangerstunnels, zijn camera`s wel wenselijk."
+        },
+        "207254": {
+          "position": "agree",
+          "explanation": "Leefbaarheid voor de inwoners en klimaatverandering vragen om extra vergroening van de stad. Verdichten waar het eventueel kan is goed, maar er zijn grenzen aan hoeveel je kunt inbreiden. Dan ontkom je er niet aan dat je ook in het buitengebied nieuwe woningen moet gaan bouwen. "
+        },
+        "207256": {
+          "position": "agree",
+          "explanation": "Leegstand is onwenselijk in tijden van woningnood. De woningnood in Nederland is hoog en ondertussen staan er meer dan 200.000 woningen leeg. Daar moet iets aan gebeuren. Een leegstandsheffing kan hier beweging in brengen."
+        },
+        "207257": {
+          "position": "agree",
+          "explanation": "De gemeente heeft al locaties aangewezen waar hoogbouw mogelijk moet zijn. Belangrijk zijn wel de randvoorwaarden. Er moet rekening gehouden worden dat het past in de omgeving met bijvoorbeeld extra verkeer, kwaliteit buitenruimte en aanvullende voorzieningen."
+        },
+        "207259": {
+          "position": "agree",
+          "explanation": "Vanwege de lange wachttijd voor een sociale huurwoning is het van belang een inhaalslag te maken."
+        },
+        "207260": {
+          "position": "agree",
+          "explanation": "Tot een bepaalde woningwaarde geldt een zelfbewoningsplicht om speculatie tegen te gaan. Zeker in de betaalbare sector moet speculatie tegengewerkt worden."
+        },
+        "207261": {
+          "position": "agree",
+          "explanation": "Uit de tweejaarlijkse wijkmonitor komt naar voren hoe onze wijken ervoor staan. Aanvullend op het Rijksbeleid voor kwetsbare wijken kan de gemeente zelf ook iets doen aan de leefbaarheid in onze wijken."
+        },
+        "207262": {
+          "position": "agree",
+          "explanation": "Mensen met een smalle beurs kunnen extra ondersteuning gebruiken. Armoede neemt nog steeds toe, ook in Den Bosch."
+        },
+        "207263": {
+          "position": "disagree",
+          "explanation": "Steekproefsgewijs controleren vindt DBG voldoende."
+        },
+        "207264": {
+          "position": "agree",
+          "explanation": "Betaald werk vinden is in meerdere opzichten belangrijk. Maar als dat om gezondheidsredenen (fysiek/geestelijk) niet meer kan, is bijvoorbeeld het verrichten van vrijwilligerswerk ook prima."
+        },
+        "207266": {
+          "position": "disagree",
+          "explanation": "Wij kiezen voor een schone en gezonde stad. De fijnstof concentratie in Den Bosch is vaak hoger dan de WHO-norm. Luchtvervuiling leidt tot gezondheidsschade. Maatregelen zijn daarom nodig."
+        },
+        "207269": {
+          "position": "agree",
+          "explanation": "Goed OV is noodzakelijk. Naar Maaspoort zou ook het oostelijk deel (Nuland) een station moeten krijgen. Ook is een lightrail om de wijken te ontsluiten wat ons betreft een mogelijkheid."
+        },
+        "207271": {
+          "position": "agree",
+          "explanation": "DBG wil zo snel mogelijk de hele binnenstadsring autoluw maken. Dat betekent in de praktijk de ring inrichten als een 30 km/u zone en het aanbrengen van knips om het doorgaand verkeer te weren."
+        },
+        "207274": {
+          "position": "neither",
+          "explanation": "Zorg dient voor iedereen beschikbaar te zijn en is neutraal. Het staat mensen altijd vrij om vanuit hun geloof, cultuur of geloofsovertuiging een zorgverlener te kiezen die buiten de reguliere zorg valt."
+        },
+        "207280": {
+          "position": "agree",
+          "explanation": "Veel dierentehuizen hebben het financieel moeilijk. Het opvangen van dieren in nood is een maatschappelijke opgave. Daarom dient de gemeente het dierentehuis financieel te ondersteunen."
+        }
+      }
+    },
+    {
+      "id": 207190,
+      "name": "Leefbaar ‘s-Hertogenbosch",
+      "fullName": "Leefbaar ‘s-Hertogenbosch",
+      "website": "https://leefbaardenbosch.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "207221": {
+          "position": "disagree",
+          "explanation": "De gemeenteraad is verkozen om namens de inwoners beslissingen te nemen en kent de dure plicht zich hierover goed te laten informeren in gesprek met de inwoners."
+        },
+        "207223": {
+          "position": "agree",
+          "explanation": "Neem de generatie die ’s-Hertogenbosch heeft opgebouwd serieus, daar hoort ook een ombudsman bij."
+        },
+        "207229": {
+          "position": "disagree",
+          "explanation": "Voor Leefbaar is de reclame niet storend en het levert de gemeente inkomsten op. We verwachten de komende jaren een financieel behoorlijke opgave en willen voorkomen dat de lasten voor de inwoners stijgen en tornen daarom niet aan de inkomsten."
+        },
+        "207231": {
+          "position": "agree",
+          "explanation": "Al jaren het standpunt van Leefbaar ‘s-Hertogenbosch."
+        },
+        "207232": {
+          "position": "disagree",
+          "explanation": "Met bedrijventerrein Heesch-West zien we goede mogelijkheden om bedrijven aan te trekken en verder kun je kijken naar revitalisering van bestaande bedrijventerreinen."
+        },
+        "207234": {
+          "position": "agree",
+          "explanation": "Opvang van asielzoekers in kleine, behapbare locaties. Geen 600 asielzoekers naast één wijk."
+        },
+        "207235": {
+          "position": "agree",
+          "explanation": "Bosschenaren eerst bij woningtoewijzing."
+        },
+        "207238": {
+          "position": "disagree",
+          "explanation": "’s-Hertogenbosch moet bruisen."
+        },
+        "207239": {
+          "position": "agree",
+          "explanation": "In overleg met bewoners en mag niet ten koste gaan van parkeerplekken."
+        },
+        "207242": {
+          "position": "disagree",
+          "explanation": "Dit leidt alleen maar tot meer bureaucratie en inzet van het stadskantoor."
+        },
+        "207244": {
+          "position": "disagree",
+          "explanation": "Wij willen dat verenigingen zoveel mogelijk een eigen honk en accommodatie hebben en niet verspreid over de stad zitten, wat niet wil zeggen dat als er voldoende capaciteit is die accommodatie niet door anderen op bepaalde tijden gebruikt zou kunnen worden."
+        },
+        "207245": {
+          "position": "agree",
+          "explanation": "Grote culturele instellingen en evenementen moeten eigen verdienvermogen activeren en optimaliseren."
+        },
+        "207247": {
+          "position": "disagree",
+          "explanation": "Niet per se noodzakelijk. Bij mogelijke initiatieven altijd rekening houden met de behoefte/wens van de Bosschenaar."
+        },
+        "207249": {
+          "position": "agree",
+          "explanation": "Leefbaar heeft veiligheid en handhaving hoog in het vaandel staan. Wij willen het aantal handhavers de komende jaren verdubbelen."
+        },
+        "207251": {
+          "position": "disagree",
+          "explanation": "Leefbaar zet in op versterken van onderwijs en verenigingsleven in het bereiken van jongeren."
+        },
+        "207252": {
+          "position": "agree",
+          "explanation": "In combinatie met extra handhavers (boa’s) leidt dit tot vermindering van overlast."
+        },
+        "207254": {
+          "position": "agree",
+          "explanation": "Bouwen in de stad moet ook, maar geeft onvoldoende ruimte. Gelet op de woningopgave moet ook het buitengebied benut kunnen worden."
+        },
+        "207256": {
+          "position": "disagree",
+          "explanation": "Aanpak leegstand is goed, maar niet langs de lijn van een extra belasting."
+        },
+        "207257": {
+          "position": "agree",
+          "explanation": "Om te voldoen aan de woningbouwopgave kan dit noodzakelijk blijken."
+        },
+        "207259": {
+          "position": "disagree",
+          "explanation": "Wij vinden de huidige norm van 35% voldoende omdat investeerders sociale huurwoningen meenemen in een mix die de investering aantrekkelijk maakt. Ophoging maakt investeren minder aantrekkelijk met het risico dat er minder gebouwd wordt."
+        },
+        "207260": {
+          "position": "agree",
+          "explanation": "In tijden van een wooncrisis willen wij voorkomen dat woningen beleggingsobjecten zijn, terwijl starters en gezinnen geen passende woning kunnen vinden."
+        },
+        "207261": {
+          "position": "agree",
+          "explanation": "Een woon- en leefomgeving die op orde is en voorzieningen dichtbij heeft, draagt bij aan versterking van de sociale structuur en aan kansen en mogelijkheden voor de inwoners."
+        },
+        "207262": {
+          "position": "disagree",
+          "explanation": "De Bossche pas moet zich eerst bewijzen als effectief middel. Indien dat het geval is kunnen we bezien of er nog meer regelingen aan opgehangen kunnen worden."
+        },
+        "207263": {
+          "position": "agree",
+          "explanation": "Dit mag niet betekenen dat we extra bureaucratie gaan organiseren."
+        },
+        "207264": {
+          "position": "agree",
+          "explanation": "Dit blijft primair het uitgangspunt en dan vooral ondersteuning voor mensen die het niet op eigen kracht kunnen."
+        },
+        "207266": {
+          "position": "agree",
+          "explanation": "Al jaren het standpunt van Leefbaar ‘s-Hertogenbosch."
+        },
+        "207269": {
+          "position": "agree",
+          "explanation": "Onze wijken en dorpen moeten bereikbaar zijn en blijven met de auto, fiets en  OV. Een treinstation is een middel maar geen doel op zich."
+        },
+        "207271": {
+          "position": "agree",
+          "explanation": "Voor een leefbare binnenstad is het nodig dat het doorgaande verkeer om de binnenstad gaat, wel dient die binnenstad goed bereikbaar te blijven."
+        },
+        "207274": {
+          "position": "disagree",
+          "explanation": "Hulpverleners nemen een neutrale positie in en zijn er voor iedereen."
+        },
+        "207280": {
+          "position": "agree",
+          "explanation": "Onze stad groeit nog steeds, het aantal huisdieren zal ook toenemen en daarmee ook de belasting voor het Dierentehuis."
+        }
+      }
+    },
+    {
+      "id": 207191,
+      "name": "SP (Socialistische Partij) ",
+      "fullName": "SP (Socialistische Partij) ",
+      "website": "https://denbosch.sp.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "207221": {
+          "position": "agree",
+          "explanation": "Den Bosch is van de inwoners, niet van politici. Bewoners van Den Bosch dienen harde zeggenschap te hebben over besluiten die hen direct raken. Besluiten van de gemeenteraad moeten in een referendum door de bevolking kunnen worden bekrachtigd of teruggedraaid."
+        },
+        "207223": {
+          "position": "agree",
+          "explanation": "Het doel is dat de belangen van ouderen niet worden vergeten, zoals nu helaas vaak het geval is. Een ouderenombudsman is een van de middelen om dit tegen te gaan, maar niet het enige middel."
+        },
+        "207229": {
+          "position": "agree",
+          "explanation": "De openbare ruimte is van ons allemaal. Toch wordt deze nu voor een groot deel door bedrijven vervuild met schreeuwerige reclame. Dat moet anders. De SP wil reclame beperken en de openbare ruimte weer terugpakken."
+        },
+        "207231": {
+          "position": "disagree",
+          "explanation": "Wij zijn niet voor afschaffing van hondenbelasting, maar we vinden wel dat het een doelbelasting moet worden. Alleen voorzieningen voor honden nog van van de hondenbelasting betaald moeten worden, de gemeente mag hier geen winst op maken."
+        },
+        "207232": {
+          "position": "disagree",
+          "explanation": "Ruimte is schaars in onze gemeente. We hebben naast bedrijven ook woningen en andere voorzieningen nodig. Er is momenteel ook nog de nodige leegstand in bedrijfs- en kantoorpanden. Die kunnen we beter benutten."
+        },
+        "207234": {
+          "position": "agree",
+          "explanation": "Mensen die vluchten voor oorlog vangen we op. Het kan alleen niet zo zijn dat asielzoekers in maar een paar wijken worden geplaatst, zoals de Gestelse buurt, waar vaak ook al andere problemen zijn. Door asielopvang over de gemeente te verspreiden beperken we overlast en bevorderen we integratie."
+        },
+        "207235": {
+          "position": "disagree",
+          "explanation": "Het woningtekort wordt niet veroorzaakt door statushouders, maar door projectontwikkelaars die voor hun eigen portemonnee bouwen en een rechtse woonpolitiek die dat blijft toestaan. Wij willen het woningtekort echt aanpakken en doen niet mee aan het aanwijzen van zondebokken, wat niets oplost."
+        },
+        "207238": {
+          "position": "disagree",
+          "explanation": "Den Bosch moet een interessante stad zijn, vooral ook voor jongeren. Grote evenementen horen daarbij. Het is goed om te kijken of evenementen ook op andere plekken in de gemeente kunnen worden georganiseerd. Maar van de SP hoeft het aantal evenementen in de binnenstad niet omlaag."
+        },
+        "207239": {
+          "position": "agree",
+          "explanation": "Meer groen is goed voor de leefbaarheid in een wijk of dorp. Het vermindert stress, vangt hitte en water op en is goed voor de biodiversiteit. Win-win-win dus."
+        },
+        "207242": {
+          "position": "agree",
+          "explanation": "Als we de wereld schoon en veilig willen maken voor onze kinderen en kleinkinderen, moeten we nadenken over de langetermijngevolgen van beleid."
+        },
+        "207244": {
+          "position": "agree",
+          "explanation": "Moeten niet, maar waar het kan en verenigingen het willen moet dit kunnen."
+        },
+        "207245": {
+          "position": "disagree",
+          "explanation": "Cultuur maakt het leven rijker en moet voor iedereen toegankelijk zijn. Dat mag ook geld kosten. Wat de SP betreft gaat er wel meer geld naar 'de toneelvereniging om de hoek' en kleine makers en wordt er minder gefocust op grote instellingen zoals het Theater aan de Parade en het Designmuseum."
+        },
+        "207247": {
+          "position": "disagree",
+          "explanation": "Wij hebben behoefte aan woningen, niet aan 'publiekstrekkers', waarvan geen mens weet wat het inhoudt. In de Citadelpoort moeten sociale huurwoningen gebouwd worden, zonder de sloop van het historische Citadelhofje. Dan is voor een 'publiekstrekker' geen ruimte."
+        },
+        "207249": {
+          "position": "neither",
+          "explanation": "Er moet meer politie bij. Boa's doen belangrijk werk en moeten met genoeg mensen zijn om dat goed te kunnen doen. Maar door jarenlange bezuinigingen op de politie, door rechtse partijen, worden steeds meer taken bij boa's neergelegd, waar zij niet voor zijn opgeleid. Dat moet stoppen."
+        },
+        "207251": {
+          "position": "agree",
+          "explanation": "Jongerenwerkers doen ontzettend belangrijk werk, zij hebben de juiste contacten, zij weten wat er leeft. Op deze manier kunnen problemen in een vroeg stadium worden voorkomen. En voorkomen is beter dan genezen."
+        },
+        "207252": {
+          "position": "disagree",
+          "explanation": "Het aantal camera's is al sterk toegenomen de laatste jaren. Daarbij zorgt het voor verplaatsing van de overlast, niet voor het verdwijnen ervan. Camera’s kunnen wel bijdragen aan een gevoel van veiligheid, bijvoorbeeld op plekken als het station, tijdens het wachten op de bus."
+        },
+        "207254": {
+          "position": "agree",
+          "explanation": "Ja, we moeten uitbreiding niet bij voorbaat uitsluiten. Het is wel belangrijk dat we bouwen naar woningbehoefte en niet voor financieel gewin."
+        },
+        "207256": {
+          "position": "agree",
+          "explanation": "Ja! Er moet een leegstandsverordening komen, dan kunnen we eigenaren een boete opleggen. Die boete kunnen we vervolgens weer gebruiken voor woningbouw. Leegstand mag niet lonen. De wooncrisis is geen verdienmodel."
+        },
+        "207257": {
+          "position": "agree",
+          "explanation": "Als de ruimte op de grond schaars is, moet je de hoogte in kunnen. Het is natuurlijk wel belangrijk dat we blijven bouwen naar behoefte, niet voor het hoogste financiële rendement."
+        },
+        "207259": {
+          "position": "agree",
+          "explanation": "Ja, met een alsmaar groeiende wachtlijst kunnen we niet anders dan meer sociale huurwoningen bouwen. Huizen zijn om in te wonen en niet om winst op te maken."
+        },
+        "207260": {
+          "position": "agree",
+          "explanation": "Waar koop je anders een woning voor? We voeren een uitgebreide zelfbewoningsplicht in. Een woning is geen verdienmodel, waarmee rijke mensen geld vangen over de ruggen van huurders."
+        },
+        "207261": {
+          "position": "agree",
+          "explanation": "Om leefbaarheid te vergroten in kwetsbare wijken, is gericht beleid, wat mogelijk meer geld kost, onmisbaar."
+        },
+        "207262": {
+          "position": "agree",
+          "explanation": "De Bossche Pas is een mooi idee, maar de uitwerking moet nog stukken beter. De communicatie richting inwoners moet worden verbeterd en meer groepen mensen moeten toegang krijgen tot de regelingen. De Bossche Pas is een middel, geen doel. Het doel is goed sociaal beleid dat mensen ondersteunt."
+        },
+        "207263": {
+          "position": "disagree",
+          "explanation": "Geen toeslagenschandaal in onze gemeente. De gemeente moet op basis van vertrouwen met inwoners omgaan. Ook met inwoners die aanspraak maken op armoederegelingen. Steekproefsgewijs controle is prima, maar wij willen geen systeem gebaseerd op wantrouwen."
+        },
+        "207264": {
+          "position": "agree",
+          "explanation": "De gemeente moet werklozen inderdaad weer gaan ondersteunen, in plaats van ze met bureaucratie en tegenprestaties voor hun bijstand lastig te vallen. Iedereen heeft recht op volwaardig en betaald werk. Het is de taak van de gemeente hierbij te helpen, op basis van vertrouwen."
+        },
+        "207266": {
+          "position": "disagree",
+          "explanation": "Voor de gezondheid van onze bewoners moet de luchtkwaliteit beter. Daarvoor moet uitstoot van giftige gassen door bevoorradingswagens omlaag. Het is wel belangrijk dat ondernemers voldoende worden gesteund met de aanschaf van elektrische bevoorradingswagens, ook met geld."
+        },
+        "207269": {
+          "position": "agree",
+          "explanation": "De Maaspoort is een groot stadsdeel dat slecht bereikbaar is met het openbaar vervoer. Een station bij Maaspoort is al lang een wens van bewoners en zou de druk op het centraal station verminderen. Wat de SP betreft wordt dit snel geregeld."
+        },
+        "207271": {
+          "position": "agree",
+          "explanation": "De binnenstadsring (bijvoorbeeld de Zuidwal of Koningsweg), is niet gemaakt voor de hoeveelheid verkeer die er nu overheen komt. Voor betere doorstroming en luchtkwaliteit in de binnenstad moet dit verkeer worden omgeleid naar andere wegen, zoals de Magistratenlaan en Zandzuigerstraat."
+        },
+        "207274": {
+          "position": "disagree",
+          "explanation": "Het is goed om rekening te houden met ieders voorkeuren, voor zover dat redelijk is. Maar we zijn uiteindelijk één samenleving. Mensen indelen op basis van cultuur of geloof is niet de wereld die de SP voor zich ziet."
+        },
+        "207280": {
+          "position": "agree",
+          "explanation": "Dierenwelzijn is voor de SP een belangrijk onderwerp. Het lot van achtergelaten en/of mishandelde dieren gaat ons aan het hart."
+        }
+      }
+    },
+    {
+      "id": 207192,
+      "name": "Partij voor de Dieren",
+      "fullName": "Partij voor de Dieren",
+      "website": "https://denbosch.partijvoordedieren.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "207221": {
+          "position": "agree",
+          "explanation": "Het raadgevend referendum moet een plaats bij belangrijke besluiten krijgen, zoals grote bouwprojecten of een gemeentelijke herindeling. Ook maken we wijkreferenda mogelijk."
+        },
+        "207223": {
+          "position": "disagree",
+          "explanation": "Wat de PvdD betreft stelt Den Bosch een gemeentelijke ombudsfunctie en kinderombudsfunctie in. Ouderen kunnen, net als de volwassenen in andere leeftijdscategorieën, terecht bij de reguliere gemeentelijke ombudspersoon."
+        },
+        "207229": {
+          "position": "agree",
+          "explanation": "Den Bosch stopt met reclame in de openbare ruimte met uitzondering van overheidscampagnes, cultuur en goede doelen. Totdat de volledige stop van reclame in de openbare ruimte gerealiseerd is, verdwijnen in ieder geval reclames voor dierlijke producten, fossiele reclames en gok- en alcoholreclames."
+        },
+        "207231": {
+          "position": "agree",
+          "explanation": "De hondenbelasting moet worden afgeschaft. Zolang dit nog niet het geval is, moeten de opbrengsten uitsluitend naar hondenfaciliteiten gaan en wordt deze belasting niet meer gebruikt voor de algemene begroting."
+        },
+        "207232": {
+          "position": "disagree",
+          "explanation": "Voor vervuilende bedrijven die geen rol hebben in een eerlijke en circulaire economie is geen ruimte in Den Bosch. Voor bedrijven die hier wel aan bijdragen worden mogelijkheden gezocht binnen de bestaande terreinen."
+        },
+        "207234": {
+          "position": "agree",
+          "explanation": "Den Bosch moet kleinschalige opvang bieden aan vluchtelingen verspreid over de gemeente. De gemeente licht de bewoners dan op tijd in over de komst van een azc en organiseert een informatieavond. Vluchtelingen worden opgevangen op een wijze die hen in staat stelt zich te ontplooien."
+        },
+        "207235": {
+          "position": "disagree",
+          "explanation": "Den Bosch blijft voldoen aan de taakstelling huisvesting statushouders en spreekt zich uit tegen het wetsvoorstel dat voorrang voor statushouders voor een sociale huurwoning schrapt. Als de wet onverhoopt wordt aangenomen, schept Den Bosch een lokale voorrangsregeling voor statushouders."
+        },
+        "207238": {
+          "position": "agree",
+          "explanation": "Zowel dieren als omwonenden kunnen veel last ondervinden van festivals en grote evenementen. Daarom stelt de gemeente goede regels op om geluidsoverlast en lichtvervuiling tegen te gaan, zowel binnen als buiten de binnenstad."
+        },
+        "207239": {
+          "position": "agree",
+          "explanation": "Nu investeren in groen in de wijken is essentieel om hittestress, luchtvervuiling en verlies van biodiversiteit tegen te gaan. Groene plekken versterken de gezondheid, sociale samenhang en toekomstbestendigheid van onze leefomgeving."
+        },
+        "207242": {
+          "position": "agree",
+          "explanation": "Al het beleid moet worden getoetst op duurzaamheid in een duurzaamheidsparagraaf, waarin de gevolgen voor dieren, natuur, milieu en klimaat worden beschreven."
+        },
+        "207244": {
+          "position": "agree",
+          "explanation": "Sportvoorzieningen vaker delen bevordert sociale verbinding, gezondheid en inclusiviteit. Efficiënt gebruik voorkomt onnodige bouw, bespaart ruimte en energie, en draagt bij aan een duurzamere, toegankelijke en actieve leefomgeving voor iedereen."
+        },
+        "207245": {
+          "position": "disagree",
+          "explanation": "Kunst en cultuur verrijken ons leven, stimuleren creativiteit en kritische reflectie, en geven betekenis aan onze samenleving. Investeren hierin versterkt sociale verbondenheid en inspireert tot een duurzamere omgang met mens, dier en natuur."
+        },
+        "207247": {
+          "position": "disagree",
+          "explanation": "In de Citadelpoort moet ruimte zijn voor natuur, ontmoeting en bestaande gemeenschapswaarden, zoals het behoud van Roeivereniging De Hertog en de sociale huurwoningen van het historische Citadelhofje. Investeer in duurzame, sociale publieke plekken in plaats van grote prestigeprojecten."
+        },
+        "207249": {
+          "position": "agree",
+          "explanation": "Er is uitbreiding van het aantal groene boa's nodig voor toezicht en handhaving om milieudelicten in het buitengebied tegen te gaan, zoals dumpingen van drugsafval en mest, illegale verhuur aan drugsproducenten, stroperij en illegale bomenkap. Dit gaat enkel om de \"groene boa's\" (domein II boa's)."
+        },
+        "207251": {
+          "position": "agree",
+          "explanation": "Er komt meer aandacht voor de oorzaken van criminaliteit en het voorkomen van criminaliteit, bijvoorbeeld door te investeren in jongeren in kansarme situaties. Ook zet de gemeente in op preventie door goed en zinvol jongerenwerk en voldoende opbouwwerkers."
+        },
+        "207252": {
+          "position": "disagree",
+          "explanation": "Met cameratoezicht in de publieke ruimte moet uit privacyoverwegingen zeer terughoudend worden omgegaan. Cameratoezicht biedt slechts schijnveiligheid en zorgt vaak alleen maar voor verplaatsing van het probleem. Automatische gezichtsherkenning is een te vergaand middel en mag nooit worden ingezet."
+        },
+        "207254": {
+          "position": "agree",
+          "explanation": "Nieuwe woningen in het buitengebied moeten op vrijkomende veehouderijgrond komen. Een deel van deze grond wordt omgevormd tot natuur, gefinancierd vanuit de woningbouwopbrengsten. Zo verbinden we woningbouw, natuurherstel en biodiversiteit op een duurzame manier."
+        },
+        "207256": {
+          "position": "agree",
+          "explanation": "Er zijn maatregelen nodig tegen speculatie met woonruimte en leegstand, zoals een zelfbewoningsplicht en een leegstandsverordening met sancties. Langdurig leegstaande panden moeten bewoonbaar gemaakt worden."
+        },
+        "207257": {
+          "position": "agree",
+          "explanation": "In de huidige woningnood is hoogbouw een van de oplossingen om woningen te bouwen, maar ook om vergroening toe te passen. De leefbaarheid mag hierbij niet in het gedrang komen, hoogbouw moet passen in de omgeving en voorzien zijn van minimaal één groene gevel."
+        },
+        "207259": {
+          "position": "agree",
+          "explanation": "Er zijn meer betaalbare woningen nodig: minimaal 40% van de huurwoningen moet sociale huur zijn. Hiermee sluit de “Bossche woningmix” beter aan bij de vraag naar woningen en wordt er gebouwd voor huisvestingsbehoefte van Bosschenaren in plaats van voor winst."
+        },
+        "207260": {
+          "position": "agree",
+          "explanation": "Er zijn maatregelen nodig tegen speculatie met woonruimte en leegstand, zoals een zelfbewoningsplicht en een leegstandsverordening met sancties. Langdurig leegstaande panden moeten bewoonbaar gemaakt worden."
+        },
+        "207261": {
+          "position": "agree",
+          "explanation": "Kwetsbare wijken hebben extra ondersteuning nodig. Door ongelijk te investeren waar de behoeften het grootst zijn, creëren we gelijke kansen, versterken we leefbaarheid en welzijn, en maken we veilige, gezonde en toekomstbestendige buurten voor iedereen mogelijk."
+        },
+        "207262": {
+          "position": "agree",
+          "explanation": "De gemeentelijke voorzieningen voor mensen met een laag inkomen breiden we uit. Hierbij hoort ook financiële hulp voor mensen met een laag inkomen die huisdieren hebben, door onder andere korting te geven op dierenartskosten. Dit wordt onderdeel van de Bossche Pas."
+        },
+        "207263": {
+          "position": "disagree",
+          "explanation": "De gemeente moet handelen uit vertrouwen, en inwoners juist laagdrempelige juridische hulp aanbieden voor advies over toeslagen of huurconflicten."
+        },
+        "207264": {
+          "position": "disagree",
+          "explanation": "De Participatiewet, met zijn sterke nadruk op betaald werk en zijn dwingende karakter, is mislukt. Den Bosch moet de inwoner en diens behoefte centraal stellen. Participatie is meer dan betaald werk. De gemeente moet ook niet-betaald werk als participatie erkennen, zoals vrijwilligerswerk."
+        },
+        "207266": {
+          "position": "disagree",
+          "explanation": "De zero-emissiezone moet van toepassing blijven op commercieel verkeer in het centrum. De zero-emissiezone geldt dus niet voor vervoersmiddelen van particulieren (inwoners & bezoekers). Vervuilend verkeer moet meer worden geweerd door uitbreiding van de milieuzone naar de gehele bebouwde kom."
+        },
+        "207269": {
+          "position": "agree",
+          "explanation": "Den Bosch moet samen met de provincie lobbyen voor een extra treinstation in de Maaspoort én in Nuland."
+        },
+        "207271": {
+          "position": "agree",
+          "explanation": "Doorgaand verkeer hoort niet op de binnenstadsring. De gemeente moet maatregelen nemen om het te verminderen, zodat luchtkwaliteit, veiligheid en leefbaarheid verbeteren en de stad schoner, gezonder en toegankelijker wordt voor bewoners, fietsers en voetgangers."
+        },
+        "207274": {
+          "position": "agree",
+          "explanation": "De gemeente is verantwoordelijk voor kwalitatief goede zorg en hulpverlening, waarbij zorgverleners en opvanglocaties rekening houden met de achtergrond, identiteit en levensstijl van gebruikers."
+        },
+        "207280": {
+          "position": "agree",
+          "explanation": "Het Dierentehuis is na vele jaren te krap geworden. Met de groei van onze gemeente en omliggende gemeenten is ook het Dierentehuis gegroeid in het aantal dieren dat zij opvangt en hiermee uit haar jasje gegroeid. Den Bosch moet daarom ondersteunen bij de benodigde uitbreiding van het gebouw."
+        }
+      }
+    },
+    {
+      "id": 207193,
+      "name": "Volt",
+      "fullName": "Volt",
+      "website": "https://voltnederland.org/brabant/den-bosch",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "207221": {
+          "position": "disagree",
+          "explanation": "Volt wil meer en betere participatie. In plaats van een simpel ja of nee bij een referendum wil Volt dat bewoners vanaf het begin kunnen meedenken en meedoen. Bewoners kunnen plannen indienen, vragen stellen, voortgang volgen en meebeslissen. Er komt een burgerraad met gelote inwoners die adviseert."
+        },
+        "207223": {
+          "position": "agree",
+          "explanation": "Volt wil dat alle zorgvragen voor ouderen via één loket worden behandeld. In het digitaal en fysiek zorgportaal kunnen ouderen en mantelzorgers terecht met vragen en worden ze naar de juiste hulp doorverwezen. Zo hoeven zij niet van het kastje naar de muur."
+        },
+        "207229": {
+          "position": "agree",
+          "explanation": "Volt vindt dat minder reclame in de openbare ruimte bijdraagt aan een groene en prettige omgeving. Zo wil Volt de openbare ruimte aantrekkelijk, groen en vrij van visuele vervuiling maken."
+        },
+        "207231": {
+          "position": "agree",
+          "explanation": "Volt wil een duidelijk uitlegbaar verschil tussen algemene gemeentelijke belastingen en doelgerichte heffingen. Hondenbelasting levert nu geld op voor algemene middelen, maar wekt de indruk een doelgerichte heffing te zijn. Daarom willen we belastingen zoals hondenbelasting herzien of afschaffen."
+        },
+        "207232": {
+          "position": "agree",
+          "explanation": "Volt wil investeren in kleinschalige, duurzame en innovatieve bedrijventerreinen. De gemeente creëert ruimte voor lokale makers, start‑ups en het mkb. Leegstaande panden worden omgebouwd tot gedeelde werkplaatsen en er komen kleinschalige locaties voor kleine bedrijven."
+        },
+        "207234": {
+          "position": "agree",
+          "explanation": "Volt wil asielopvang verspreiden over meerdere kleine locaties. Zo worden nieuwkomers beter gedragen door de gemeenschap en ontstaat er meer begrip. Buurtinitiatieven zoals community-sponsoring kunnen nieuwkomers helpen sneller te integreren."
+        },
+        "207235": {
+          "position": "disagree",
+          "explanation": "Volt wil de druk op de sociale huurmarkt verminderen zonder groepen tegen elkaar uit te spelen. Statushouders worden tijdelijk gehuisvest in leegstaande gebouwen en snel gekoppeld aan werk en opleiding. Voorrang afschaffen lost de woningnood niet op. Huizen bouwen wel."
+        },
+        "207238": {
+          "position": "disagree",
+          "explanation": "Volt ziet cultuur en evenementen als de motor van een levendige stad. De partij wil ruimte geven aan festivals en culturele initiatieven. Deze evenementen moeten ook buiten de binnenstad plaatsvinden in de buurten en dorpen."
+        },
+        "207239": {
+          "position": "agree",
+          "explanation": "Volt wil meer groen volgens de 3‑30‑300 regel: iedereen moet drie bomen kunnen zien, dertig procent schaduw hebben en binnen driehonderd meter een park kunnen vinden. De gemeente vervangt stenen door groen en betrekt bewoners bij beplanting en onderhoud."
+        },
+        "207242": {
+          "position": "agree",
+          "explanation": "Volt wil dat alle beleidsvoorstellen worden getoetst op duurzaamheid. Door middel van een generatietoets maken we zichtbaar wat de gevolgen zijn voor komende generaties. Zo worden keuzes gemaakt die eerlijk zijn voor jongeren en draagkrachtig voor het klimaat."
+        },
+        "207244": {
+          "position": "agree",
+          "explanation": "Volt wil sporthallen, kantines en velden beter benutten. Door meerdere verenigingen en initiatieven dezelfde ruimte te laten delen, wordt er efficiënter gebruik gemaakt: overdag staan hallen minder leeg en zo wordt sporten betaalbaarder."
+        },
+        "207245": {
+          "position": "disagree",
+          "explanation": "Volt vindt cultuur de basis van onze samenleving. De gemeente moet investeren in betaalbare werkplaatsen, repetitieruimtes en een divers cultureel programma. Lokale verenigingen en tradities worden ondersteund om de culturele rijkdom te behouden."
+        },
+        "207247": {
+          "position": "agree",
+          "explanation": "Volt wil de Citadelpoort ontwikkelen tot een levendige buurt met een cultureel hart en ruimte voor creatieve makers. Een nieuwe publiekstrekker biedt kunstenaars en verenigingen een plek en trekt bewoners en bezoekers."
+        },
+        "207249": {
+          "position": "disagree",
+          "explanation": "Volt kiest voor een preventieve veiligheidsaanpak. In elk wijkteam werken gemeente, scholen en jeugdwerkers samen. Boa’s kunnen deel van de oplossing zijn, maar belangrijker zijn goede voorlichting en begeleiding."
+        },
+        "207251": {
+          "position": "agree",
+          "explanation": "Volt wil jongerenwerk versterken en jongeren actief betrekken bij beslissingen over hun stad. Er komen voldoende voorzieningen en er wordt geïnvesteerd in een divers en veilig uitgaansleven."
+        },
+        "207252": {
+          "position": "disagree",
+          "explanation": "Volt kiest voor maatwerk bij veiligheid. Eerst worden verlichting, begeleiding en ontmoetingsplekken verbeterd. Cameratoezicht kan in specifieke situaties, maar is niet de standaard. Gezichtsherkenning moet vanwege privacy verboden blijven."
+        },
+        "207254": {
+          "position": "agree",
+          "explanation": "Volt wil woningen bouwen binnen bestaande wijken en op nieuwe locaties. Bij bouwen in het buitengebied wordt zorgvuldig gekeken naar de natuur en biodiversiteit. Natuurinclusief bouwen en behoud van groene landschappen zijn belangrijk."
+        },
+        "207256": {
+          "position": "agree",
+          "explanation": "Volt wil leegstaande panden snel benutten door ze om te bouwen tot woningen of werkplaatsen voor lokale makers. Met een leegstandsheffing worden eigenaren gestimuleerd panden te gebruiken."
+        },
+        "207257": {
+          "position": "agree",
+          "explanation": "Volt wil meer woningen bouwen en kiest voor hoogbouw op logische plekken, zoals bij treinstations. Door te verdichten buiten de historische binnenstad blijft het karakter van de stad behouden en kunnen toch veel woningen worden toegevoegd."
+        },
+        "207259": {
+          "position": "agree",
+          "explanation": "Volt wil dat minimaal veertig procent van de nieuw te bouwen woningen sociale huur is. De huidige norm is te laag voor de grote vraag naar betaalbare woningen. Zo ontstaat er een beter evenwicht tussen huur en koop."
+        },
+        "207260": {
+          "position": "agree",
+          "explanation": "Volt wil een zelfbewoningsplicht zodat woningen niet worden opgekocht voor verhuur of speculatie. Kopers moeten in de woning wonen en kunnen zo de wijk versterken. Dit voorkomt leegstand en houdt woningen betaalbaar."
+        },
+        "207261": {
+          "position": "agree",
+          "explanation": "Volt vindt dat kwetsbare wijken meer middelen moeten krijgen. Extra investeringen in groen, ontmoetingsplekken, zorg en veiligheid helpen de leefbaarheid te verbeteren en kansen te vergroten."
+        },
+        "207262": {
+          "position": "agree",
+          "explanation": "Volt wil de Bossche Pas uitbreiden met extra regelingen. De pas wordt gratis voor kinderen en mensen met een laag inkomen en geeft tegoeden voor sport, cultuur en onderwijs."
+        },
+        "207263": {
+          "position": "disagree",
+          "explanation": "Volt gaat uit van vertrouwen bij armoedehulp. Mensen moeten eenvoudig hulp kunnen krijgen zonder zware voorwaarden. Controle is wel nodig, maar strenge regels mogen hulp niet in de weg staan."
+        },
+        "207264": {
+          "position": "disagree",
+          "explanation": "Volt wil mensen breed ondersteunen. De focus ligt op betaald werk maar ook op vrijwilligerswerk en maatschappelijke deelname. Hierdoor kunnen mensen stap voor stap weer meedoen."
+        },
+        "207266": {
+          "position": "disagree",
+          "explanation": "Volt wil een zero-emissiezone in de binnenstad om de lucht te verbeteren. Fossiele voertuigen worden stapsgewijs vervangen door uitstootvrije alternatieven. Dit zorgt voor een gezondere en veiligere leefomgeving."
+        },
+        "207269": {
+          "position": "agree",
+          "explanation": "Volt wil een actieve lobby voor extra ov-knooppunten en pleit voor een treinstation in Maaspoort en Nuland. Zo worden dorpen beter bereikbaar en vermindert het autoverkeer."
+        },
+        "207271": {
+          "position": "agree",
+          "explanation": "Volt vindt dat Den Bosch doorgaand verkeer uit de binnenstad moet weren. Rond drukke locaties worden wegen alleen toegankelijk voor bestemmingsverkeer."
+        },
+        "207274": {
+          "position": "disagree",
+          "explanation": "Volt vindt dat mensen zich veilig en gehoord moeten voelen bij hun zorgverlener en een andere aanbieder moeten kunnen vragen als dit echt nodig is. Maar een onbeperkte keuze voor elke gewenste aanbieder is niet haalbaar en wenselijk. Uiteindelijk wil Volt toewerken naar minder zorgaanbieders."
+        },
+        "207280": {
+          "position": "agree",
+          "explanation": "Volt ziet het dierentehuis als een gemeentelijke en regionale voorziening voor dierenwelzijn. Het gaat verder dan alleen een asiel. Er worden ook zieke en gevonden dieren opgevangen. Het huidige gebouw is te klein, daarom moet de gemeente bijdragen aan een uitbreiding."
+        }
+      }
+    },
+    {
+      "id": 207194,
+      "name": "RAADSGROEPERING \"BOSCH-BELANG\"",
+      "fullName": "RAADSGROEPERING \"BOSCH-BELANG\"",
+      "website": "https://www.boschbelang.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "207221": {
+          "position": "agree",
+          "explanation": "Als Bosch Belang vinden we het belangrijk om naar de stem van onze inwoners te luisteren. Bosch Belang luistert! Wel willen we voorkomen dat plannen elkaar in de weg zitten als onderwerpen elkaar kruisen, omdat hierdoor de samenhang van voorstellen mogelijk in gevaar komt."
+        },
+        "207223": {
+          "position": "disagree",
+          "explanation": "Bosch Belang is van mening dat dit versnippering geeft. Er zijn in onze gemeente diverse loketten waarin men advies en raad kan krijgen over onderwerpen die zeker ook senioren aangaan."
+        },
+        "207229": {
+          "position": "disagree",
+          "explanation": "Bosch Belang is van mening dat zolang de reclame voldoet aan de eisen die gesteld zijn binnen de gemeente, vinden we niet dat dit hoeft te veranderen."
+        },
+        "207231": {
+          "position": "agree",
+          "explanation": "Bosch Belang is voor het afschaffen van de hondenbelasting."
+        },
+        "207232": {
+          "position": "agree",
+          "explanation": "Bosch Belang is van mening dat er meer bedrijventerreinen kunnen komen indien daar behoefte aan is, waarbij gekeken moet worden dat dit niet ten koste van de woningbouw gaat en ook niet ten koste van de energievoorziening en de omgeving."
+        },
+        "207234": {
+          "position": "agree",
+          "explanation": "Als Bosch Belang vinden we dat er goed gekeken moet worden naar verdeling van lusten en van lasten. Bosch Belang wil dat er goed geluisterd wordt naar de omwonenden en dat de gemeente de afspraken nakomt."
+        },
+        "207235": {
+          "position": "agree",
+          "explanation": "Bosch Belang wil onze jongeren ook aan de beurt laten komen voor een woning. Het kan niet zo zijn dat door diverse voorrangposities onze jeugd niet meer in hun eigen stad kan blijven wonen. Dit is wat ons betreft niet alleen voor asielzoekers maar ook voor andere groeperingen."
+        },
+        "207238": {
+          "position": "agree",
+          "explanation": "Bosch Belang is van mening dat de binnenstadbewoners aan de top van hun kunnen zijn. We vinden het fijn dat onze stad mooi op de kaart staat in Nederland, maar houd rekening met de mensen die in onze stad wonen. Beperk niet alleen het aantal evenementen, maar ook het aantal bezoekers."
+        },
+        "207239": {
+          "position": "disagree",
+          "explanation": "Groen in de wijken gaat ons allemaal aan, we kunnen hier zelf een initiatief in nemen. Wij vinden niet dat de gemeente hier alleen verantwoordelijk voor is. Meer geld uitgeven aan groen betekent voor ons hogere kosten voor onze inwoners."
+        },
+        "207242": {
+          "position": "disagree",
+          "explanation": "De gemeente moet zich wat Bosch Belang betreft aan het landelijke beleid van duurzaamheid houden."
+        },
+        "207244": {
+          "position": "agree",
+          "explanation": "Behalve dat meerde verenigingen gebruik kunnen maken van accommodaties kunnen we ervoor zorgen dat deze accommodaties ook voor andere doeleinden gebruikt kunnen worden zodat er optimaal gebruik wordt gemaakt van investeringen."
+        },
+        "207245": {
+          "position": "disagree",
+          "explanation": "Cultuur en historie van onze stad is belangrijk voor Bosch Belang. We willen wel selectief zijn waar het geld voor cultuur naar toe gaat, het belang van onze stad staat hierbij voorop."
+        },
+        "207247": {
+          "position": "disagree",
+          "explanation": "Wat Bosch Belang betreft blijft de roeivereniging op zijn huidige plek en worden er woningen gebouwd met voldoende parkeergelegenheid. Een mooi stadspark is wat ons betreft ook een publiekstrekker. Laten we op de Citadelpoort vooral roeien met de riemen die we hebben."
+        },
+        "207249": {
+          "position": "agree",
+          "explanation": "Bosch Belang is hier duidelijk in: lik op stuk beleid en aanpakken van overtreders."
+        },
+        "207251": {
+          "position": "disagree",
+          "explanation": "Jongerenwerk is belangrijk en zinvol als het geld wat beschikbaar is nuttig wordt gebruikt. Als blijkt dat er meer geld nodig is, moeten we eerst kijken waarom dat nodig is. Wij zijn er als Bosch Belang niet voor om oneindig geld in projecten te steken die onvoldoende opleveren."
+        },
+        "207252": {
+          "position": "agree",
+          "explanation": "Bosch Belang staat voor meer lik op stuk beleid en hardere aanpak van overlast. Daarnaast moeten we terug naar een maatschappij die zorgzaam is voor elkaar en omkijkt naar elkaar."
+        },
+        "207254": {
+          "position": "agree",
+          "explanation": "We moeten goed kijken hoe we kunnen voorzien in de woningbehoefte voor onze inwoners. Bosch Belang geeft dan ook de voorkeur aan bijvoorbeeld woningen boven het aanleggen van zonnevelden. De zonnepanelen kunnen op het dak in plaats van in het weiland."
+        },
+        "207256": {
+          "position": "agree",
+          "explanation": "We zien dit in andere landen gebeuren en het blijkt te werken. Als Bosch Belang willen we dat alle panden nuttig gebruikt worden. Dit helpt mee aan de woningnood, de aantrekkingskracht van de stad en het helpt om verpaupering tegen te gaan."
+        },
+        "207257": {
+          "position": "agree",
+          "explanation": "Wat Bosch Belang betreft hebben we een uitdaging met betrekking tot de aantallen woningen. Hierdoor moet het mogelijk zijn om hoogbouw te realiseren. Wel rekening houdend met een leefbare en groene omgeving."
+        },
+        "207259": {
+          "position": "disagree",
+          "explanation": "Bosch Belang is van mening dat sociale huurwoningen van groot belang zijn, maar dat deze wel betaald moeten kunnen worden. Hiervoor is een gezonde mix noodzakelijk."
+        },
+        "207260": {
+          "position": "disagree",
+          "explanation": "Bosch Belang is van mening dat woningnood een groot probleem is. We kunnen ons voorstellen dat ouders een huis kopen om er een aantal kinderen/studenten in te laten wonen, dat willen wij niet tegenhouden."
+        },
+        "207261": {
+          "position": "disagree",
+          "explanation": "Bosch Belang is van mening dat we naar rato moeten investeren in alle wijken. Soms is dat met inzet van het bundelen van krachten, geld is wat ons betreft niet altijd een oplossing. Kwetsbare wijken verdienen zeker meer aandacht dan wijken waar alles geregeld is en soepel loopt."
+        },
+        "207262": {
+          "position": "agree",
+          "explanation": "De Bossche pas moet een pas worden die op vele gebieden inzetbaar is. Bosch Belang is voor het uitbreiden van de regelingen op één pas om duidelijkheid te creëren voor onze inwoners."
+        },
+        "207263": {
+          "position": "agree",
+          "explanation": "We hebben te maken met het gebruik van gemeenschap geld wat is bedoeld voor diegene die het nodig hebben. Bosch Belang is van mening dat dit geld op de juiste plaats op de juiste manier moet worden besteed."
+        },
+        "207264": {
+          "position": "disagree",
+          "explanation": "Bosch Belang is van mening dat niet iedereen in staat is om betaald werk te doen, we moeten als gemeente maatwerk leveren. Dat wil zeggen eerst mensen in hun kracht zetten en als ze er klaar voor zijn een maatschappelijke functie bieden. Dat is niet voor iedereen betaald werk."
+        },
+        "207266": {
+          "position": "agree",
+          "explanation": "We zien de gevolgen van deze regeling. Als Bosch Belang vinden we: beter ten halve gekeerd dan ten hele gedwaald."
+        },
+        "207269": {
+          "position": "agree",
+          "explanation": "Bosch Belang is van mening dat dit treinstation de bereikbaarheid zal verbeteren voor zowel bewoners als bezoekers van het sportcomplex en de Maaspoort zelf, maar ook voor doorstroom zorgt wat de stad ten goede komt. Daarnaast trekt een station bedrijvigheid aan wat ten gunste komt van onze stad."
+        },
+        "207271": {
+          "position": "agree",
+          "explanation": "Bosch Belang is van mening dat mensen die geen doel hebben in de binnenstad, buitenom geleid moeten worden. De binnenstad moet wel bereikbaar blijven voor inwoners, werklieden, leveranciers, zorgverleners en bezoekers."
+        },
+        "207274": {
+          "position": "disagree",
+          "explanation": "Goede zorg is iets waar iedere inwoner recht op heeft. Als Bosch Belang willen wij dat iedereen de juiste zorg krijgt op de juiste plaats op de juiste tijd. Om in de krapte te voorzien dienen alle krachten gebundeld te worden om iedereen van goede zorg te kunnen voorzien."
+        },
+        "207280": {
+          "position": "disagree",
+          "explanation": "Bosch Belang is van mening dat we moeten werken aan voorlichting en preventie, zodat er minder dieren in het dierentehuis terecht komen. Uitbreiding is voor ons niet de oplossing."
+        }
+      }
+    },
+    {
+      "id": 207195,
+      "name": "Gewoon ge-DREVEN",
+      "fullName": "Gewoon ge-DREVEN",
+      "website": "https://gewoongedreven.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "207221": {
+          "position": "agree",
+          "explanation": "Indien een referendum een onderwerp betreft wat een specifieke wijk of gemeentedeel betreft moet middels een zogenaamde postcoderoos deze wijk een beslissende inbreng hebben."
+        },
+        "207223": {
+          "position": "disagree",
+          "explanation": "Een ombudsman voor ouderen zou niet nodig moeten zijn. Gemeenteraad en College moet ontvankelijk zijn voor alle bewoners van de gemeente, zowel voor jong als oud.\r\n"
+        },
+        "207229": {
+          "position": "disagree",
+          "explanation": "Reclame zorgt momenteel niet voor overlast. Toezien om dit te voorkomen is goed, maar de gemeente zou regeldruk moeten verminderen in plaats van regels toe te voegen voor niet bestaande problemen. Wel kan de gemeente het verduurzamen van reclame stimuleren."
+        },
+        "207231": {
+          "position": "agree",
+          "explanation": "Winst maken op hondenbelasting vinden wij niet correct, kostendekkende hondenbelasting zou voor ons wel prima zijn."
+        },
+        "207232": {
+          "position": "agree",
+          "explanation": "Bedrijven moeten kunnen vernieuwen, verduurzamen en groeien. Bestaande verouderde industrieterreinen dicht tegen de woongebieden, kunnen dan bijvoorbeeld een woonbestemming krijgen."
+        },
+        "207234": {
+          "position": "agree",
+          "explanation": "Zolang de spreidingswet actief is, en er asielzoekers opgevangen moeten worden in de gemeente, zal dit echt kleinschalig op meerdere plekken in de gemeente moeten. Maar de locatie van de opvang moet zeer zorgvuldig in samenspraak met onze burgers gekozen worden."
+        },
+        "207235": {
+          "position": "agree",
+          "explanation": "Er moet geen voorrang gegeven worden. Instroom van nieuwe statushouders is gewoon afhankelijk van de uitstroom van statushouders naar een huurwoning, waarbij deze gelijk is aan de toewijzing van de reguliere woningzoekende."
+        },
+        "207238": {
+          "position": "disagree",
+          "explanation": "Aan het wonen in een binnenstad kleven voor- en nadelen. De binnenstad is het visitekaartje van onze gemeente. Wij hebben geen negatieve berichten ontvangen vanuit de binnenstadbewoners over Serieus Request."
+        },
+        "207239": {
+          "position": "agree",
+          "explanation": "Vooral het onderhoud openbare ruimte moet op een hoger niveau. Met name het maaibeleid is niet wat de burger wenst."
+        },
+        "207242": {
+          "position": "agree",
+          "explanation": "De gemeente moet het goede voorbeeld geven: als we eisen stellen aan inwoners, moeten we ons eigen beleid ook langs de meetlat leggen. We zijn dus voor toetsen, maar de uitvoering moet wel realistisch blijven. Duurzaamheid is belangrijk, maar gezond verstand en betaalbaarheid zijn dat ook."
+        },
+        "207244": {
+          "position": "agree",
+          "explanation": "Door combineren worden samen de lasten gedragen en wordt optimaal gebruik gemaakt van de voorzieningen."
+        },
+        "207245": {
+          "position": "agree",
+          "explanation": "We moeten toe naar een basis van dat culturele instellingen zoveel mogelijk kostendekkend dienen te zijn."
+        },
+        "207247": {
+          "position": "disagree",
+          "explanation": "Even pas op de plaats herbestemmen roeivereniging en Citadelhofje."
+        },
+        "207249": {
+          "position": "agree",
+          "explanation": "Meer zichtbare handhaving in wijken en dorpen."
+        },
+        "207251": {
+          "position": "agree",
+          "explanation": "Het is en blijft belangrijk dat jongeren gehoord worden."
+        },
+        "207252": {
+          "position": "agree",
+          "explanation": "Daar waar overlast of risico’s op criminaliteit bestaan, is cameratoezicht noodzakelijk."
+        },
+        "207254": {
+          "position": "agree",
+          "explanation": "Eens, met duidelijk beleid van locaties waar de bouw van woningen het beste past."
+        },
+        "207256": {
+          "position": "agree",
+          "explanation": "In tijden van woningnood is langdurige leegstand van huizen onacceptabel; daarom is een financiële prikkel wat ons betreft logisch om doorstroming te forceren. Wij maken echter wel onderscheid: bij winkel- of bedrijfspanden is leegstand vaak overmacht en geldt het niet."
+        },
+        "207257": {
+          "position": "agree",
+          "explanation": "Eens, omdat onbebouwde grond steeds schaarser aan het worden is en optimalisering van percelen door hogere bouw een goed middel kan zijn."
+        },
+        "207259": {
+          "position": "disagree",
+          "explanation": "Verplichtingen in soort woning zijn niet bevorderlijk om het woningtekort op te lossen. Ook andere doelgroepen hebben woningen nodig en koopwoningen zorgen over het algemeen voor een betere betrokkenheid bij de zorg voor de omgeving."
+        },
+        "207260": {
+          "position": "disagree",
+          "explanation": "Verhuur aan studenten of tijdelijk huur aan bijvoorbeeld spoedzoekers moet mogelijk zijn. Eigenaar moet met zijn eigendom kunnen doen wat hij wil."
+        },
+        "207261": {
+          "position": "agree",
+          "explanation": "Eens, indien via maatwerkaanpak dit nodig blijkt."
+        },
+        "207262": {
+          "position": "agree",
+          "explanation": "Eens, omdat je met een pas met meerdere mogelijkheden je niet zo snel als gebruiker van de pas bestempeld wordt als een persoon met sociale- of economische problemen. Je valt dus minder op."
+        },
+        "207263": {
+          "position": "agree",
+          "explanation": "Misbruik moet altijd aangepakt; als dit aangescherpt moet worden oké."
+        },
+        "207264": {
+          "position": "agree",
+          "explanation": "Betaald werk is het einddoel. Participeren (vrijwilligerswerk) is tussendoel."
+        },
+        "207266": {
+          "position": "agree",
+          "explanation": "We moeten niet inzetten op het onbewezen effect van elektrisch rijden. De bevoorrading van winkels en horeca is de levensader van onze binnenstad. Door nu een zero-emissiezone door te drukken, snijden we die ader af. Veel ondernemers kunnen die overstap nu nog niet maken. "
+        },
+        "207269": {
+          "position": "agree",
+          "explanation": "Gezien de omvang van Maaspoort is een eigen station een logische stap. Het verbetert niet alleen de bereikbaarheid van de wijk, maar is ook noodzakelijk om de druk op het wegennet en de binnenstad te verminderen. "
+        },
+        "207271": {
+          "position": "agree",
+          "explanation": "Doorgaand verkeer van Vught naar Maaspoort moet ontmoedigd worden om via Koninginnenlaan te gaan. Dit geldt ook voor Maastrichtseweg/Merwedelaan. Verkeer dat vanuit buiten 's-Hertogenbosch komt, moet buiten de stad om via de A2/A59 rond de stad om."
+        },
+        "207274": {
+          "position": "disagree",
+          "explanation": "De verzorger moet aansluiten bij de medische behoefte. Dat is prio één. Zeker omdat er al extra druk op de zorg rust moet dit niet nog verder uitgebreid worden."
+        },
+        "207280": {
+          "position": "agree",
+          "explanation": "De opvang van zwerfdieren is wettelijk gezien een overheidstaak. De gemeente is als zodanig verantwoordelijk voor de financiering van deze opvang."
+        }
+      }
+    },
+    {
+      "id": 207197,
+      "name": "PVV (Partij voor de Vrijheid)",
+      "fullName": "PVV (Partij voor de Vrijheid)",
+      "website": "https://www.denbosch.pvv.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "207221": {
+          "position": "agree",
+          "explanation": "PVV Den Bosch wil burgers écht serieus nemen. Bij belangrijke beslissingen moet de burger aan zet zijn om in referenda haar stem te kunnen laten horen. De gemeente moet die keuze ook respecteren."
+        },
+        "207223": {
+          "position": "disagree",
+          "explanation": "Een aparte ombudsman voor specifieke doelgroepen is niet nodig."
+        },
+        "207229": {
+          "position": "disagree",
+          "explanation": "Geen onnodige of betuttelende regeltjes voor onze ondernemers."
+        },
+        "207231": {
+          "position": "agree",
+          "explanation": "Lagere lokale heffingen, dus ook hondenbelasting afschaffen. Wel lik-op-stuk aanpak hondenpoepoverlast."
+        },
+        "207232": {
+          "position": "disagree",
+          "explanation": "Eerst bestaande bedrijventerreinen herstructureren en geen schaarse ruimte verspillen aan XXL-blokkendozen (distributiecentra)."
+        },
+        "207234": {
+          "position": "disagree",
+          "explanation": "Er moeten sowieso géén asielzoekerscentra komen, dus ook niet verspreiden over de gemeente. Onze gemeente moet niet één groot AZC worden. PVV Den Bosch wil géén AZC's vestigen en bestaande AZC's sluiten. Ook géén opvangplekken voor alleenstaande minderjarige vreemdelingen (AMV'ers)."
+        },
+        "207235": {
+          "position": "agree",
+          "explanation": "Wij willen af van de voorrang die statushouders krijgen bij toewijzing van huurwoningen."
+        },
+        "207238": {
+          "position": "disagree",
+          "explanation": "Grote evenementen, zoals de kermis en het Oeteldonkse carnaval horen bij onze binnenstad en onze Bossche cultuur."
+        },
+        "207239": {
+          "position": "disagree",
+          "explanation": "Meer groen in de wijken gaat vaak ten koste van parkeerplekken en wordt vaak slecht onderhouden. Verwaarloosde plantsoenen dan liever omvormen tot groene parkeerplekken."
+        },
+        "207242": {
+          "position": "disagree",
+          "explanation": "De gemeente moet niet toetsen op duurzaamheid, maar wél toetsen op de belangen van (MKB-)ondernemers."
+        },
+        "207244": {
+          "position": "neither",
+          "explanation": "Als sportverenigingen vrijwillig samenwerken is het prima, maar samenwerking moet niet door de gemeente worden opgedrongen."
+        },
+        "207245": {
+          "position": "agree",
+          "explanation": "Met name minder verspilling van belastinggeld voor culturele prestigeprojecten zoals het veel te dure Theater aan de Parade en het Designmuseum."
+        },
+        "207247": {
+          "position": "disagree",
+          "explanation": "Geen dure 'publiekstrekker' op de Citadelpoort in de plaats van het Designmuseum, maar behoud van het historische Citadelhofje en de roeivereniging op deze locatie."
+        },
+        "207249": {
+          "position": "agree",
+          "explanation": "Meer boa’s (buitengewoon opsporingsambtenaar) met zoveel mogelijk bevoegdheden en middelen (zoals wapenstok, handboeien en pepperspray), die het gezag van een nieuw soort “gemeentepolitie” uitstralen en doortastend optreden om de veiligheid op straat te verbeteren."
+        },
+        "207251": {
+          "position": "disagree",
+          "explanation": "Het knuffelen van 'jongeren' middels jongerenwerk is niet effectief, in plaats daarvan moeten 'jongeren' die over de schreef gaan keihard worden aangepakt."
+        },
+        "207252": {
+          "position": "agree",
+          "explanation": "Camera's moeten dan wel 24 uur per dag worden uitgekeken en waar nodig moet direct worden ingegrepen."
+        },
+        "207254": {
+          "position": "agree",
+          "explanation": "Stop de bouw van windturbines in het buitengebied en maak op die locaties woningbouw mogelijk."
+        },
+        "207256": {
+          "position": "disagree",
+          "explanation": "Geen extra lokale heffingen."
+        },
+        "207257": {
+          "position": "disagree",
+          "explanation": "Liever meer middenbouw en altijd rekening houden met de historische skyline van 's-Hertogenbosch."
+        },
+        "207259": {
+          "position": "disagree",
+          "explanation": "In plaats van dwingende percentages aanbodgerichte sociale woningbouw is het beter om vraaggericht maatwerk per wijk te leveren én te stoppen met sociale huurwoningen weggeven aan statushouders."
+        },
+        "207260": {
+          "position": "agree",
+          "explanation": "Betaalbare woningen moeten niet gebruikt worden als verdienmodel voor huisjesmelkers, maar beschikbaar zijn voor onze woningzoekenden."
+        },
+        "207261": {
+          "position": "disagree",
+          "explanation": "Gemeenschapsgeld moet evenredig over alle wijken verdeeld worden. Iedere burger heeft evenveel recht om dit in de eigen wijk terug te zien."
+        },
+        "207262": {
+          "position": "disagree",
+          "explanation": "Eerst de huidige regelingen voor de Bossche Pas evalueren en sowieso geen regelingen aan asielzoekers in COA-locaties aanbieden via de Bossche Pas."
+        },
+        "207263": {
+          "position": "agree",
+          "explanation": "Misbruik van uitkeringen moet streng worden aangepakt. Ook streng handhaven van de Wet taaleis, dus bijstand korten voor wie geen Nederlands wil leren, en bijstandsontvangers controleren op buitenlands vermogen."
+        },
+        "207264": {
+          "position": "agree",
+          "explanation": "Uitstroom uit de bijstand naar betaald werk moet het uitgangspunt zijn."
+        },
+        "207266": {
+          "position": "agree",
+          "explanation": "Stop het kapot maken van onze hardwerkende (MKB-)ondernemers en marktkooplui met de volstrekt onzinnige zero-emissiezone. De zero-emissiezone moet worden afgeschaft. Stop het wegpesten van automobilisten in onze gemeente met zulk soort milieuzones."
+        },
+        "207269": {
+          "position": "agree",
+          "explanation": "Liever een station bij de Maaspoort in plaats van de veel te hoge verbouwingskosten van het Centraal Station."
+        },
+        "207271": {
+          "position": "disagree",
+          "explanation": "Géén knips in de binnenstadsring. De binnenstad moet voor automobilisten bereikbaar blijven, ook vanuit het belang van lokale ondernemers. Onnodig ver omrijden en sluipverkeer in omliggende wijken is onacceptabel."
+        },
+        "207274": {
+          "position": "disagree",
+          "explanation": "Géén cultuurspecifieke (islamitische) zorg."
+        },
+        "207280": {
+          "position": "agree",
+          "explanation": "Goede opvang van onze dieren is belangrijk."
+        }
+      }
+    },
+    {
+      "id": 207196,
+      "name": "VOOR Den Bosch Joep Gersjes",
+      "fullName": "VOOR Den Bosch Joep Gersjes",
+      "website": "https://www.voordenbosch.com/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "207221": {
+          "position": "agree",
+          "explanation": "Inwoners zijn de experts van hun eigen buurt. Door hen vooraf te betrekken, benut de gemeente lokale kennis voor kwalitatief betere plannen. Inspraak zorgt voor echte invloed, eerlijke belangenafwegingen en een sterkere verbinding tussen bestuur en de inwoners in de gemeente."
+        },
+        "207223": {
+          "position": "agree",
+          "explanation": "Een ombudsman voor ouderen biedt onafhankelijke hulp bij complexe klachten over gemeentelijke zorg en regels. Het verlaagt drempels voor kwetsbare senioren, bewaakt hun rechten en signaleert structurele tekortkomingen. Zo verbetert de lokale dienstverlening en de rechtsbescherming voor ouderen."
+        },
+        "207229": {
+          "position": "agree",
+          "explanation": "Reclame in de openbare ruimte veroorzaakt visuele vervuiling en onrust in het straatbeeld. Door minder advertenties ontstaat een rustigere omgeving en meer aandacht voor architectuur en natuur. Bovendien beperkt het de constante prikkels van commercie en ongewenste consumptiebeïnvloeding."
+        },
+        "207231": {
+          "position": "agree",
+          "explanation": "Hondenbelasting wordt vaak als onrechtvaardig gezien omdat het een specifieke groep burgers belast zonder directe tegenprestatie. Afschaffing vermindert bureaucratie, bespaart op dure controles en bevordert vertrouwen in de burger. Bovendien is de heffing voor velen achterhaald."
+        },
+        "207232": {
+          "position": "agree",
+          "explanation": "Extra bedrijventerreinen stimuleren de lokale economie en creëren banen dichtbij huis. Ze bieden broodnodige ruimte voor groeiende ondernemingen, versterken het vestigingsklimaat en verhogen gemeentelijke inkomsten. Dit is essentieel voor een vitale, toekomstbestendige regio."
+        },
+        "207234": {
+          "position": "disagree",
+          "explanation": "Concentratie op één plek is efficiënter en goedkoper voor beveiliging en zorg. Het voorkomt dat in meerdere wijken onrust of draagvlakproblemen ontstaan. Bovendien kunnen gespecialiseerde diensten en vrijwilligers zich zo op één locatie richten, wat de uitvoering van de opvang vergemakkelijkt."
+        },
+        "207235": {
+          "position": "agree",
+          "explanation": "Het afschaffen van voorrang voor statushouders creëert een gelijker speelveld voor alle woningzoekenden, zoals jongeren en starters. Het vermindert het gevoel van onrechtvaardigheid bij burgers die jarenlang op de wachtlijst staan en vergroot zo het maatschappelijk draagvlak voor opvang."
+        },
+        "207238": {
+          "position": "disagree",
+          "explanation": "Grote evenementen zijn cruciaal voor de Bossche cultuur en de lokale economie. Ze versterken de bourgondische identiteit van de binnenstad, trekken broodnodige bezoekers voor horeca en winkels en zorgen voor verbinding tussen inwoners. Een levendige stad vraagt juist om dit bruisende karakter."
+        },
+        "207239": {
+          "position": "agree",
+          "explanation": "Investeringen in wijkgroen zijn in 2026 cruciaal voor klimaatadaptatie, zoals het tegengaan van hittestress en wateroverlast. Groen verbetert de luchtkwaliteit, bevordert de mentale gezondheid en nodigt uit tot bewegen. Bovendien verhoogt het de biodiversiteit en de waarde van vastgoed."
+        },
+        "207242": {
+          "position": "disagree",
+          "explanation": "Het verplicht toetsen van al het beleid op duurzaamheid zorgt voor enorme bureaucratie en vertraging. Dit drijft de gemeentelijke kosten op, wat leidt tot hogere lokale lasten. Focus liever op kerntaken: beleid moet primair effectief, praktisch en vooral betaalbaar voor de burger blijven."
+        },
+        "207244": {
+          "position": "agree",
+          "explanation": "Meervoudig gebruik maximaliseert de bezettingsgraad en verlaagt de kosten per vereniging. Het stimuleert samenwerking tussen sporten, bespaart schaarse ruimte en zorgt dat dure faciliteiten efficiënter worden ingezet. Zo blijft sport betaalbaar en toegankelijk voor alle inwoners."
+        },
+        "207245": {
+          "position": "disagree",
+          "explanation": "Culturele instellingen versterken de saamhorigheid en behouden onze culturele waarden. Wel moeten zij streven naar meer zelfvoorzienendheid. De gemeente kan hierbij ondersteunen met hulp bij budgetteren, zodat cultuur levensvatbaar blijft zonder enkel afhankelijk te zijn van subsidie."
+        },
+        "207247": {
+          "position": "disagree",
+          "explanation": "Tegen een nieuwe publiekstrekker in de Citadelpoort; dit is te duur en onnodig. Zet liever in op het promoten van prachtige bestaande accommodaties zoals de Citadel en het Kruithuis. Benut de historie die er al is in plaats van nieuwbouw, dat is efficiënter en bespaart de burger veel geld."
+        },
+        "207249": {
+          "position": "agree",
+          "explanation": "Extra boa’s zorgen voor een snellere aanpak van overlast, zoals afvaldumping en parkeerproblemen. Dit verhoogt het veiligheidsgevoel en de leefbaarheid in de wijken van 's-Hertogenbosch. Meer handhaving betekent ook meer blauw op straat en een effectievere naleving van lokale regels."
+        },
+        "207251": {
+          "position": "agree",
+          "explanation": "Investeringen in jongerenwerk voorkomen overlast en criminaliteit door preventieve aanwezigheid in de wijk. Het biedt jongeren perspectief, ondersteuning bij problemen en een veilige plek voor talentontwikkeling. Dit bespaart op termijn hoge zorgkosten en versterkt de sociale stabiliteit."
+        },
+        "207252": {
+          "position": "agree",
+          "explanation": "Cameratoezicht verhoogt het veiligheidsgevoel en schrikt daders van overlast en vandalisme af. Het biedt de politie cruciale beelden voor opsporing en maakt sneller ingrijpen mogelijk. Hierdoor worden hotspots in 's-Hertogenbosch veiliger, wat de leefbaarheid voor bewoners direct verbetert"
+        },
+        "207254": {
+          "position": "disagree",
+          "explanation": "Niet zomaar bouwen in het buitengebied; agrarische grond moet behouden blijven. Kies eerst voor 'een straatje erbij' in de kernen. Maak 'wonen bij de boer' en mantelzorgwoningen makkelijker door soepelere vergunningen. Zo benutten we eigen terrein zonder waardevolle natuur of landbouw op te offeren."
+        },
+        "207256": {
+          "position": "disagree",
+          "explanation": "Een leegstandsbelasting is contraproductief; het onttrekt kapitaal dat juist nodig is voor renovatie of transformatie. Leegstand is vaak het gevolg van complexe regelgeving of marktomstandigheden, niet van onwil. Extra lasten verhogen het risico op verpaupering en schaden het investeringsklimaat."
+        },
+        "207257": {
+          "position": "agree",
+          "explanation": "Eens met meer hoogbouw buiten de binnenstad om de woningnood efficiënt aan te pakken zonder de historische skyline te schaden. Hoogbouw is ruimte-efficiënt, mits parken en groenvoorzieningen strikt ontzien worden om de leefbaarheid en ontspanning in de stad te garanderen."
+        },
+        "207259": {
+          "position": "disagree",
+          "explanation": "Een eis van 40% remt de bouw van middenhuur en koopwoningen, wat de broodnodige doorstroming blokkeert. Het maakt projecten financieel onhaalbaar, waardoor er uiteindelijk minder gebouwd wordt. Een lager percentage biedt meer ruimte voor een gezonde, gemengde wijk en een beter rendement."
+        },
+        "207260": {
+          "position": "agree",
+          "explanation": "De zelfbewoningsplicht voorkomt dat beleggers woningen opkopen voor dure verhuur. Dit geeft starters en lokale kopers een eerlijke kans op een betaalbaar huis. Het versterkt de sociale samenhang en leefbaarheid, omdat bewoners die er zelf wonen meer betrokken zijn bij hun buurt."
+        },
+        "207261": {
+          "position": "agree",
+          "explanation": "Extra budget is noodzakelijk om ongelijkheid te verkleinen en sociale achterstanden in te lopen. Investeringen in veiligheid, onderwijs en zorg verbeteren direct de leefbaarheid. Dit voorkomt segregatie en zorgt voor gelijke kansen voor alle inwoners in de gemeente."
+        },
+        "207262": {
+          "position": "agree",
+          "explanation": "Een uitgebreide Bossche Pas vergroot de kansengelijkheid door meer minima toegang te geven tot sport, cultuur en zorg. Het bestrijdt sociale isolatie, stimuleert lokale bestedingen en maakt regelingen eenvoudiger toegankelijk via één pas. Zo bevordert de gemeente actieve participatie."
+        },
+        "207263": {
+          "position": "agree",
+          "explanation": "Strenge controle waarborgt dat schaars publiek geld terechtkomt bij wie het écht nodig heeft. Het voorkomt fraude, behoudt het maatschappelijk draagvlak voor sociale regelingen en beschermt de rechtvaardigheid van het systeem. Zo blijven voorzieningen betaalbaar voor kwetsbare inwoners."
+        },
+        "207264": {
+          "position": "disagree",
+          "explanation": "Een eenzijdige focus op betaald werk is onrealistisch en contraproductief. Ondersteuning moet primair gericht zijn op het oplossen van onderliggende problemen, zoals schulden of gezondheidsklachten. Dit biedt een stabiele basis voor duurzame participatie en voorkomt snelle terugval."
+        },
+        "207266": {
+          "position": "agree",
+          "explanation": "De zero-emissiezone legt een onbetaalbare last op kleine ondernemers die hun wagenpark nog niet kunnen verduurzamen. Het terugdraaien voorkomt faillissementen en leegstand. Bovendien blijven de binnenstad en de markt zo bereikbaar en betaalbaar voor noodzakelijke leveranciers en vaklieden."
+        },
+        "207269": {
+          "position": "agree",
+          "explanation": "Een treinstation bij Maaspoort is cruciaal voor een betere bereikbaarheid en minder files op de A59. Het biedt duizenden inwoners een duurzaam alternatief voor de auto, stimuleert het gebruik van het OV en versterkt de economische verbinding van de wijk met de rest van de regio."
+        },
+        "207271": {
+          "position": "disagree",
+          "explanation": "De ring is essentieel voor een goede bereikbaarheid van de Bossche binnenstad en haar parkeergarages. Minder verkeer op de ring leidt tot sluiproutes door woonwijken en schaadt de lokale economie. Een vrije doorstroming voorkomt onnodige opstoppingen en houdt de stad gastvrij voor bezoekers."
+        },
+        "207274": {
+          "position": "disagree",
+          "explanation": "De zorg staat onder grote druk door personeelstekorten. Een vrije keuze op basis van geloof of cultuur is logistiek onhaalbaar en verhoogt de kosten. Kwaliteit en tijdigheid van zorg moeten altijd voorrang hebben op ideologische voorkeuren om de basiszorg voor iedereen betaalbaar te houden."
+        },
+        "207280": {
+          "position": "agree",
+          "explanation": "Een groter Dierentehuis is nodig voor goede opvang van zwerfdieren en publieke veiligheid. Gemeentelijke steun garandeert dierenwelzijn en ontlast de openbare ruimte. Bovendien vervult het tehuis een sociale rol door vrijwilligerswerk en educatie, wat bijdraagt aan een zorgzame gemeente."
+        }
+      }
+    },
+    {
+      "id": 207198,
+      "name": "50PLUS",
+      "fullName": "50PLUS",
+      "website": "https://www.50pluspartij.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "207221": {
+          "position": "agree",
+          "explanation": "Het is belangrijk dat de gemeente inwoners betrekt bij belangrijke onderwerpen. Een referendum kan daarbij helpen. Het mag alleen geen middel worden waarmee politici hun verantwoordelijkheid ontlopen. Politici moeten zelf duidelijke keuzes blijven maken en daarvoor verantwoordelijkheid nemen."
+        },
+        "207223": {
+          "position": "agree",
+          "explanation": "50PLUS wil een ombudsman voor ouderen én een wethouder die beleid toetst op gevolgen voor ouderen en mensen met een beperking. Zo worden signalen opgepakt en telt hun belang mee in besluiten. Zie: Zorg en Welzijn – mensgericht beleid, vaste aanspreekpunten, inclusiviteit."
+        },
+        "207229": {
+          "position": "agree",
+          "explanation": "50PLUS vindt dat er minder reclame in de openbare ruimte moet komen. Dat zorgt voor rust, overzicht en een prettige leefomgeving voor inwoners, vooral voor ouderen. Gebaseerd op: Wonen en Samenleven – leefbare wijken, veilige en prettige openbare ruimte."
+        },
+        "207231": {
+          "position": "agree",
+          "explanation": "50PLUS vindt dat de hondenbelasting moet worden afgeschaft. Deze belasting is oneerlijk en raakt vooral mensen met een laag of vast inkomen. Zorg voor de openbare ruimte hoort bij algemene voorzieningen. Zie: Armoedebestrijding en Onderbescherming – eerlijke lasten, voorkomen extra belastingdruk!"
+        },
+        "207232": {
+          "position": "agree",
+          "explanation": "50PLUS vindt dat nieuwe bedrijventerreinen alleen wenselijk zijn als ze zorgen voor lokale banen en geen schade geven aan leefomgeving of natuur. Kwaliteit en inpassing gaan voor kwantiteit. Gebaseerd op: Economie, Werk en Inkomen – lokale werkgelegenheid, duurzame economie."
+        },
+        "207234": {
+          "position": "agree",
+          "explanation": "50PLUS vindt dat asielopvang eerlijk moet worden verspreid over meerdere plekken in de gemeente. Zo blijft opvang beheersbaar en wordt de druk op wijken niet te groot. Gebaseerd op: Wonen en Samenleven – leefbare wijken, evenwichtige verdeling, sociale samenhang."
+        },
+        "207235": {
+          "position": "agree",
+          "explanation": "50PLUS vindt dat statushouders recht hebben op opvang en veiligheid. Voorrang op sociale huur lost woningtekort niet op en vergroot spanning. Oorzaak ligt bij jarenlang te weinig bouwen; gemeente moet inzetten op bouwen. Zie: Wonen en Samenleven – betaalbaar wonen, eerlijke verdeling, sterke wijken."
+        },
+        "207238": {
+          "position": "disagree",
+          "explanation": "50PLUS vindt dat grote evenementen bij de binnenstad horen en bijdragen aan levendigheid en de lokale economie. Wel is een goede balans nodig, met aandacht voor de leefbaarheid voor bewoners, zoals geluid, drukte en bereikbaarheid."
+        },
+        "207239": {
+          "position": "agree",
+          "explanation": "50PLUS vindt dat de gemeente meer geld moet uitgeven aan groen in de wijken. Groen zorgt voor een prettige leefomgeving, gezondheid en ontmoeting voor jong en oud. Gebaseerd op: Wonen en Samenleven – leefbare wijken, gezonde en veilige openbare ruimte."
+        },
+        "207242": {
+          "position": "agree",
+          "explanation": "50PLUS vindt dat de gemeente ’s-Hertogenbosch al het beleid moet toetsen op duurzaamheid. Zo zorgen we voor keuzes die goed zijn voor milieu, leefomgeving en toekomstige generaties. Gebaseerd op: Energie – duurzaam, betaalbaar en toekomstbestendig beleid."
+        },
+        "207244": {
+          "position": "agree",
+          "explanation": "50PLUS vindt dat sportaccommodaties vaker door meerdere verenigingen moeten worden gebruikt. Zo benutten we voorzieningen beter en gaan we zorgvuldig om met belastinggeld. Gebaseerd op: Cultuur en Sport – toegankelijk sportaanbod, efficiënt gebruik van voorzieningen."
+        },
+        "207245": {
+          "position": "disagree",
+          "explanation": "50PLUS vindt dat cultuur belangrijk is voor leefbaarheid en aantrekkingskracht van de stad. Structureel minder geld voor culturele instellingen past daarom niet; wel is zorgvuldig en doelmatig besteden van subsidies nodig. Zie: Cultuur en Sport – cultuur als verbindende kracht en vestigingsfactor"
+        },
+        "207247": {
+          "position": "agree",
+          "explanation": "50PLUS staat open voor een nieuwe publiekstrekker in de Citadelpoort, mits deze past bij de stad en bijdraagt aan economie, cultuur en leefbaarheid, zonder overlast voor omwonenden. Gebaseerd op: Cultuur en Sport en Toerisme en Recreatie – aantrekkingskracht van de stad, balans met leefbaarheid."
+        },
+        "207249": {
+          "position": "agree",
+          "explanation": "50PLUS vindt dat er meer handhavers (boa’s) nodig zijn in ’s-Hertogenbosch. Zichtbare en aanspreekbare handhaving vergroot veiligheid en het gevoel van vertrouwen in de wijk. Gebaseerd op: Veiligheid – zichtbare handhaving, veilige en leefbare buurten."
+        },
+        "207251": {
+          "position": "agree",
+          "explanation": "50PLUS vindt dat de gemeente meer moet investeren in jongerenwerk. Goede begeleiding en ontmoeting voorkomen problemen, vergroten kansen en versterken de veiligheid en samenhang in wijken. Gebaseerd op: Veiligheid en Kansengelijkheid en Brede Welvaart – preventie, gelijke kansen en sterke wijken."
+        },
+        "207252": {
+          "position": "agree",
+          "explanation": "50PLUS vindt dat cameratoezicht kan worden ingezet op plekken met veel overlast. Dit verhoogt de veiligheid en helpt bij handhaving, met respect voor privacy en duidelijke regels. Gebaseerd op: Veiligheid – gerichte preventie, veilige buurten, zichtbare handhaving."
+        },
+        "207254": {
+          "position": "agree",
+          "explanation": "50PLUS vindt dat bouwen in het buitengebied alleen kan als dit zorgvuldig gebeurt, met respect voor natuur en landschap. Dit moet gelden voor álle woningen, ook sociale huur, en niet alleen voor dure koophuizen. Gebaseerd op: Wonen en Samenleven – betaalbaar wonen, zorgvuldig bouwen, leefbaarheid."
+        },
+        "207256": {
+          "position": "agree",
+          "explanation": "Zelfbewoningsplicht stimuleert gebruik van gebouwen en helpt woningtekorten en verloedering tegen te gaan. Gebaseerd op: Wonen en Samenleven – aanpak leegstand, leefbare wijken, beter benutten van ruimte."
+        },
+        "207257": {
+          "position": "agree",
+          "explanation": "50PLUS vindt dat hoogbouw buiten de historische binnenstad mogelijk is, mits dit zorgvuldig gebeurt en past bij de omgeving. Zo creëren we woningen zonder het karakter van de stad aan te tasten. Gebaseerd op: Wonen en Samenleven – zorgvuldig bouwen, betaalbaar wonen, bescherming van erfgoed."
+        },
+        "207259": {
+          "position": "agree",
+          "explanation": "50PLUS vindt dat bij nieuwbouw minimaal 40% sociale huur moet zijn. Zo zorgen we voor betaalbare woningen en meer kansen voor starters en ouderen, boven het landelijke gemiddelde van 28%. Zie: Wonen en Samenleven – betaalbaar wonen, evenwichtige woningbouw, doorstroming."
+        },
+        "207260": {
+          "position": "agree",
+          "explanation": "50PLUS vindt dat wie een woning koopt er - in principe - zelf in moet gaan wonen. We moeten speculatie voorkomen en zorgen dat woningen beschikbaar blijven voor inwoners. Zie: Wonen en Samenleven – betaalbaar wonen, eerlijke woningmarkt, sterke wijken."
+        },
+        "207261": {
+          "position": "agree",
+          "explanation": "50PLUS vindt dat kwetsbare wijken extra geld mogen krijgen. Dit moet gericht en tijdelijk zijn, zodat wijken worden versterkt en geen blijvende achterstand ontstaat. Gebaseerd op: Kansengelijkheid en Brede Welvaart – gelijke kansen, sterke wijken."
+        },
+        "207262": {
+          "position": "agree",
+          "explanation": "50PLUS vindt dat de Bossche Pas moet worden uitgebreid, zodat mensen met een laag inkomen kunnen meedoen aan sport en cultuur. De pas mag daarbij niet stigmatiserend zijn. Gebaseerd op: Armoedebestrijding en Onderbescherming – meedoen voor iedereen, waardigheid."
+        },
+        "207263": {
+          "position": "agree",
+          "explanation": "50PLUS wil misbruik van armoederegelingen voorkomen, met controles die menselijk en proportioneel zijn. Geen heksenjacht of straf voor kleine fouten; vertrouwen en hulp staan voorop. Gebaseerd op: Armoedebestrijding en Onderbescherming – mensgericht beleid, waardigheid."
+        },
+        "207264": {
+          "position": "agree",
+          "explanation": "50PLUS vindt dat ondersteuning voor werklozen gericht is op het vinden van passend betaald werk. Met respectvolle begeleiding helpen we mensen vooruit, zonder straf of oordeel als iemand tijdelijk geen baan heeft. Gebaseerd op: Economie, Werk en Inkomen – passend werk, mensgerichte ondersteuning."
+        },
+        "207266": {
+          "position": "agree",
+          "explanation": "50PLUS wil het besluit over de zero-emissiezone heroverwegen. Bescherming van gezondheid staat voorop. Tegelijk moeten maatregelen eerlijk, uitvoerbaar en met draagvlak worden ingevoerd. Gebaseerd op: Energie en Zorg en Welzijn – gezondheid, duurzaamheid en rechtvaardig beleid."
+        },
+        "207269": {
+          "position": "agree",
+          "explanation": "50PLUS vindt dat de gemeente zich moet inzetten voor een treinstation bij Maaspoort. Dit verbetert bereikbaarheid, duurzaamheid en mobiliteit voor inwoners, vooral voor ouderen en forenzen. Zie: Wonen en Samenleven en Economie, Werk en Inkomen – bereikbaarheid, leefbare wijken en goede verbindingen"
+        },
+        "207271": {
+          "position": "disagree",
+          "explanation": "50PLUS is niet voor het beperken van doorgaand verkeer als uitgangspunt. Bereikbaarheid staat voorop, met ruimte voor maatwerk om leefbaarheid te verbeteren, bijvoorbeeld in de avond en nacht. Gebaseerd op: Wonen en Samenleven en Economie, Werk en Inkomen – bereikbaarheid en maatwerk."
+        },
+        "207274": {
+          "position": "agree",
+          "explanation": "50PLUS vindt dat mensen waar mogelijk kunnen kiezen voor een hulpverlener die past bij hun geloof of cultuur. De kwaliteit en beschikbaarheid van zorg en de gezondheid van de hulpvrager gaan altijd voor. Gebaseerd op: Zorg en Welzijn – mensgerichte zorg, kwaliteit en toegankelijkheid."
+        },
+        "207280": {
+          "position": "disagree",
+          "explanation": "50PLUS vindt dat meebetalen aan uitbreiding van een dierentehuis niet vanzelfsprekend past bij de gemeentelijke taak. Gemeente is verantwoordelijk voor dierenopvang, niet voor algemene uitbreiding. Zie: Wonen en Samenleven – duidelijke verantwoordelijkheden en zorgvuldig omgaan met publieke middelen"
+        }
+      }
+    },
+    {
+      "id": 212159,
+      "name": "Forum voor Democratie",
+      "fullName": "Forum voor Democratie",
+      "website": "https://fvd.nl/gemeentes/den-bosch",
+      "hasSeats": false,
+      "participates": true,
+      "positions": {
+        "207221": {
+          "position": "agree",
+          "explanation": "Verkiezingsbeloften worden niet altijd waargemaakt. Met referenda hebben inwoners direct inspraak, in plaats van indirect (via een volksvertegenwoordiger). De wil van de bevolking wordt het beste gerespecteerd met een referendum voor belangrijke vraagstukken."
+        },
+        "207223": {
+          "position": "disagree",
+          "explanation": "FVD wil dat er goed gezorgd wordt voor de ouderen in de gemeente, maar een ombudsman is daarvoor niet nodig."
+        },
+        "207229": {
+          "position": "neither",
+          "explanation": "De gemeente moet ondernemers niet teveel dwarsbomen met teveel regels omtrent adverteren. Toch vindt FVD ook het straatbeeld belangrijk, overmatige advertenties maken de centra niet mooier."
+        },
+        "207231": {
+          "position": "agree",
+          "explanation": "Hoe minder belasting, hoe beter."
+        },
+        "207232": {
+          "position": "disagree",
+          "explanation": "FVD wil voldoende ruimte voor ondernemers. Wij moderniseren verouderde bedrijventerreinen en verbeteren hun bereikbaarheid, zodat bedrijven hier kunnen blijven en groeien."
+        },
+        "207234": {
+          "position": "disagree",
+          "explanation": "Asielopvang in 's-Hertogenbosch moet worden geminimaliseerd. FVD wil geen nieuwe opvangplekken en wil bestaande azc's sluiten."
+        },
+        "207235": {
+          "position": "agree",
+          "explanation": "Woningvoorrang voor Bosschenaren (Nederlanders), niet voor buitenstaanders."
+        },
+        "207238": {
+          "position": "disagree",
+          "explanation": "'s-Hertogenbosch kenmerkt zich door een bruisende binnenstad met horecazaken en evenementen. De gemeente laat consistent zien dit in goede banen te leiden. Geen enkele reden om het aantal evenementen te beperken."
+        },
+        "207239": {
+          "position": "agree",
+          "explanation": "Voldoende groen is belangrijk voor een mooie leefomgeving."
+        },
+        "207242": {
+          "position": "disagree",
+          "explanation": "Geen gedwongen 'duurzaamheid'. In de praktijk betekent dit: méér belasting en bureaucratie voor onnodige CO2- en stikstof-reductiedoelen."
+        },
+        "207244": {
+          "position": "disagree",
+          "explanation": "Geen toelichting beschikbaar."
+        },
+        "207245": {
+          "position": "disagree",
+          "explanation": "'s-Hertogenbosch is de cultuurstad van het zuiden. Daar mogen we trots op zijn. Vanzelfsprekend wil FVD echter níét dat er meer geld gaat naar linkse culturele instellingen, die niet begaan zijn met de Bossche, of überhaupt Nederlandse, cultuur en geschiedenis."
+        },
+        "207247": {
+          "position": "agree",
+          "explanation": "FVD vindt dat historische gebouwen en locaties in de gemeente, zoals het station of de Citadelpoort, recht moeten doen aan de rijke geschiedenis van Den Bosch."
+        },
+        "207249": {
+          "position": "disagree",
+          "explanation": "Zodra de veiligheid in bepaalde wijken in het geding komt, wil FVD meer boa's of blauw op straat. Met name in probleemgebieden. Echter worden boa's (te) vaak ingezet voor het uitschrijven van parkeerboetes bijvoorbeeld."
+        },
+        "207251": {
+          "position": "disagree",
+          "explanation": "Het klinkt misschien mooi, maar 'jongerenwerk' kost de belastingbetaler veel geld, zodat (probleem)jeugd dagbesteding en extra hulp krijgt in het leven, bijvoorbeeld bij wonen en werken. FVD wil gelijke behandeling, geen voorkeursaanpak voor welke groep dan ook."
+        },
+        "207252": {
+          "position": "disagree",
+          "explanation": "Cameratoezicht is een schijnoplossing tegen overlast. De politie vraagt in veel gevallen al geen camerabeelden meer op, vanwege gebrek aan mankracht of tijd. FVD wil geen dure investeringen in apparatuur, maar minder bureaucratie zodat agenten meer tijd in de wijken kunnen besteden."
+        },
+        "207254": {
+          "position": "agree",
+          "explanation": "Eens, mits er niet teveel natuur of agrarische grond voor hoeft te worden ingeleverd. Maatwerk is in deze belangrijk."
+        },
+        "207256": {
+          "position": "disagree",
+          "explanation": "Leegstand in onze gemeente is relatief laag. Geen noodzaak om een nieuwe belasting in het leven te roepen."
+        },
+        "207257": {
+          "position": "agree",
+          "explanation": "Geen hoogbouw waar het niet past. Wij bouwen geen massale flatgebouwen en woontorens die de leefbaarheid of het karakter van de omgeving aantasten, en bovendien een minder dichte vorm van bebouwing zijn dan traditionele woonblokken."
+        },
+        "207259": {
+          "position": "disagree",
+          "explanation": "Geen toelichting beschikbaar."
+        },
+        "207260": {
+          "position": "disagree",
+          "explanation": "Wij zijn niet voor een zelfbewoningsplicht."
+        },
+        "207261": {
+          "position": "agree",
+          "explanation": "Een wijk die meer toe is aan opknappen dan anderen, verdient het om als eerste bediend te worden."
+        },
+        "207262": {
+          "position": "disagree",
+          "explanation": "Alles wat de gemeente 'gratis' weggeeft, betaalt de belastingbetaler uiteindelijk."
+        },
+        "207263": {
+          "position": "agree",
+          "explanation": "Geen toelichting beschikbaar."
+        },
+        "207264": {
+          "position": "agree",
+          "explanation": "Geen toelichting beschikbaar."
+        },
+        "207266": {
+          "position": "agree",
+          "explanation": "FVD wil géén zero-emissiezones in de gemeente."
+        },
+        "207269": {
+          "position": "agree",
+          "explanation": "Geen toelichting beschikbaar."
+        },
+        "207271": {
+          "position": "disagree",
+          "explanation": "Geen toelichting beschikbaar."
+        },
+        "207274": {
+          "position": "agree",
+          "explanation": "Wij zijn voor verregaande keuzevrijheid in de zorg."
+        },
+        "207280": {
+          "position": "neither",
+          "explanation": "Geen toelichting beschikbaar."
+        }
+      }
+    },
+    {
+      "id": 207200,
+      "name": "Keerpunt Alliantie '26 (Knillis)",
+      "fullName": "Keerpunt Alliantie '26 (Knillis)",
+      "website": "http://www.ka26.nl/",
+      "hasSeats": false,
+      "participates": true,
+      "positions": {
+        "207221": {
+          "position": "disagree",
+          "explanation": "KA’26 staat pal voor de parlementaire democratie en is daarom tegen wat men “democratische vernieuwingen\" meent te kunnen noemen. Het hoogste bestuursorgaan van de gemeente is de raad en dat moet zo blijven. Wel zijn wij voorstander van gedegen en gedragen burgerparticipatie in besluitvorming."
+        },
+        "207223": {
+          "position": "disagree",
+          "explanation": "KA’26 wil de positie van de gemeentelijke ombudscommissie versterken om burgers beter tegen de macht van de overheid te beschermen. Echter zien wij geen heil in een ombudspersoon die er alléén maar voor ouderen is."
+        },
+        "207229": {
+          "position": "disagree",
+          "explanation": "KA’26 ziet reclame in de openbare ruimte niet als inherent onwenselijk."
+        },
+        "207231": {
+          "position": "agree",
+          "explanation": "KA’26 ziet de hondenbelasting als een onrechtvaardige belasting voor hondenbezitters ten opzichte andere huisdiereneigenaren. Verder is de hondenbelasting een slecht handhaafbare maatregel, die teveel geld kost om te handhaven."
+        },
+        "207232": {
+          "position": "disagree",
+          "explanation": "KA’26 meent dat er op dit moment voldoende ruimte is op industrieterreinen in onze gemeente voor bedrijvigheid. De noodzaak om extra bedrijventerreinen aan te wijzen, is daarom niet aan de orde."
+        },
+        "207234": {
+          "position": "agree",
+          "explanation": "KA’26 is voorstander van kleinschalige en gespreide opvang in de gemeente. Wij vinden dat de beste manier om overlast te beperken. Daarom zij wij tegen de komst van AZC-locatie Kruithoorn: vanwege de locatie en de omvang."
+        },
+        "207235": {
+          "position": "agree",
+          "explanation": "KA’26 wil in de prestatieafspraken met woningcorporaties opnemen dat statushouders niet langer als voorrangsgroep worden behandeld in de toewijzing van een sociale huurwoningen. In de huidige situatie zijn reguliere woningzoekenden die op wachtlijsten staan permanent benadeeld. Dat is onrechtvaardig."
+        },
+        "207238": {
+          "position": "disagree",
+          "explanation": "KA’26 staat voor een levendige en bruisende binnenstad. De binnenstad is onze gedeelde woonkamer, niet een privaat woonerf. Wij zien geen noodzaak om de hoeveelheid grote evenementen terug te dringen."
+        },
+        "207239": {
+          "position": "agree",
+          "explanation": "KA’26 ziet voordelen, zowel voor schoonheid in de openbare ruimte als klimaatadaptieve stedenbouwkundige ontwikkeling om onze gemeente sterk te vergroenen."
+        },
+        "207242": {
+          "position": "disagree",
+          "explanation": "KA’26 is mening dat “duurzaamheid” niet het enige bestuurlijke afwegingskader is waaraan beleid moet worden getoetst. Verder is duurzaamheid een irrelevant onderwerp op sommige beleidsdomeinen."
+        },
+        "207244": {
+          "position": "disagree",
+          "explanation": "KA’26 meent dat delen van sportvoorzieningen niet een noodzakelijk uitgangspunt is voor het gemeentelijk sportbeleid. Wij erkennen de waarde van “een eigen honk”."
+        },
+        "207245": {
+          "position": "disagree",
+          "explanation": "KA’26 meent dat culturele instellingen bijdragen aan gemeenschappelijk leven en het plezier van onze inwoners. Dat is het waard om in te investeren. Wij willen wel stoppen met geldverslindende culturele prestigeprojecten zoals het Theater aan de Parade. Deze willen wij privatiseren."
+        },
+        "207247": {
+          "position": "disagree",
+          "explanation": "KA’26 is fel gekenterd tegen wéér een nieuw geldverslindend bouwkundig prestigeproject in de gemeente, zoals het Theater aan de Parade. Wij denken dat een “blikvanger” bij de Citadelpoort niets anders is dan een debacle in spé."
+        },
+        "207249": {
+          "position": "agree",
+          "explanation": "KA’26 staat voor een veilige leefomgeving en de zichtbaarheid van BOA’s draagt daaraan bij. Wij willen hierin investeren."
+        },
+        "207251": {
+          "position": "disagree",
+          "explanation": "KA’26 meent dat meer geld voor jongerenwerk geen betere participatie oplevert. KA’26 bepleit voor een nieuw jongerenbeleid dat past bij de huidige tijd. Daarom willen wij het jongerenambassadeurproject bij de tijd brengen voor de komende jaren."
+        },
+        "207252": {
+          "position": "agree",
+          "explanation": "KA’26 ziet cameratoezicht op plekken waar structurele en heftige overlast plaatsvindt als een effectief en proportioneel middel om overlast terug te brengen. Wel willen wij waken voor cameratoezicht met een onnodig permanent karakter."
+        },
+        "207254": {
+          "position": "agree",
+          "explanation": "KA’26 wil de wooncrisis aanpakken. Dat zal een beroep doen op de al beperkte ruimte in onze gemeente. Daarom pleiten wij ervoor om die ruimte te schenken aan wonen, en niet aan zaken zoals windmolenpark De Duurzame Polder."
+        },
+        "207256": {
+          "position": "disagree",
+          "explanation": "KA’26 ziet de noodzaak om leegstand aan te pakken, alleen ziet een boete op leegstaande “panden” niet als de oplossing. Hierbij wordt geen onderscheid gemaakt tussen gebouwen met een woonfunctie of een andere functie."
+        },
+        "207257": {
+          "position": "neither",
+          "explanation": "KA’26 meent dat ook hoogbouw onderdeel zal zijn van de oplossing voor de wooncrisis, maar staat wel grote terughoudendheid voor met de bouw ervan in buitenwijken."
+        },
+        "207259": {
+          "position": "disagree",
+          "explanation": "KA’26 is van mening dat het huidige uitgangspunt van 30% sociale huur voldoende is (huidig beleid). Wel wil KA’26 zich inzetten om woningbezit voor starters en jonge gezinnen te bevorderen."
+        },
+        "207260": {
+          "position": "disagree",
+          "explanation": "KA’26 vindt zelfbewoningsplicht onwenselijk en onhaalbaar. Wel pleiten wij voor goede opkoopbescherming in de gemeente voor “private equity” partijen die de wooncrisis proberen uit te buiten."
+        },
+        "207261": {
+          "position": "disagree",
+          "explanation": "KA’26 ziet de noodzaak om te investeren in kwetsbare wijken, maar dat moet proportioneel zijn tot de wijk zelf en niet relatief tot andere wijken."
+        },
+        "207262": {
+          "position": "agree",
+          "explanation": "KA’26 steunt het initiatief van de Bossche pas en denkt dat het een middel is om bij te dragen aan de bestaanszekerheid van minderbedeelde inwoners."
+        },
+        "207263": {
+          "position": "disagree",
+          "explanation": "KA’26 wil graag de kindertoeslagenaffaire in herinnering brengen. Wij zijn van mening dat de meest kwetsbare burgers onze bescherming verdienen, en niet zonder aanleiding behandeld moeten worden als potentiële fraudeurs."
+        },
+        "207264": {
+          "position": "agree",
+          "explanation": "KA’26 meent dat zinvolle betaalde arbeid het eindstreven moet zijn voor mensen in langdurige werkloosheid. Om daar te komen is wel een proces voor mensen en daar moet de gemeente geduld voor hebben, maar is een wenselijk eindpunt voor mensen hun re-integratie."
+        },
+        "207266": {
+          "position": "agree",
+          "explanation": "KA’26 ziet de zero-emissiezone in de binnenstad als een gefaald experiment in symboolpolitiek dat alleen maar ondernemers tot last is. Wat ons betreft moet deze maatregel zo snel mogelijk teruggedraaid worden."
+        },
+        "207269": {
+          "position": "agree",
+          "explanation": "KA’26 denkt dat een treinstation op Maaspoort bijdraagt aan de aantrekkelijkheid en leefbaarheid van de Maaspoort, Noord en Empel. We juichen dit ook van harte toe."
+        },
+        "207271": {
+          "position": "disagree",
+          "explanation": "KA’26 meent dat de binnenstadsring begaanbaar moet blijven voor verkeer. Desalniettemin pleiten wij voor snellere en betere alternatieve doorwegen voor automobilisten."
+        },
+        "207274": {
+          "position": "disagree",
+          "explanation": "KA’26 meent dat zorgbehoevenden altijd het laatste woord hebben over wie hen helpt, maar meent dat mensen niet op zichzelf aanspraak maken op een zorgverlener van dezelfde achtergrond als henzelf."
+        },
+        "207280": {
+          "position": "neither",
+          "explanation": "KA’26 is niet bekend met de individuele casuïstiek van het Dierentehuis en wij wensen daarom geen uitspraken daarover te doen."
+        }
+      }
+    },
+    {
+      "id": 207199,
+      "name": "Senioren 's-Hertogenbosch",
+      "fullName": "Senioren 's-Hertogenbosch",
+      "website": "https://www.seniorendenbosch.nl/",
+      "hasSeats": false,
+      "participates": true,
+      "positions": {
+        "207221": {
+          "position": "agree",
+          "explanation": "Inwoners mogen via referenda meebeslissen over belangrijke lokale kwesties. Bij plannen zoals in de Rosmalense Polder, met windmolens en gebiedsontwikkeling, voelen veel inwoners zich niet gehoord. Referenda geven inwoners echte invloed op besluiten die leefomgeving direct raken en hun toekomst!"
+        },
+        "207223": {
+          "position": "agree",
+          "explanation": "Wij willen een senioren‑ombudsman zodat senioren met ingewikkelde gemeentelijke regels en aanvragen beter geholpen worden. Veel senioren vinden de weg niet, regels zijn onbekend of te ingewikkeld, waardoor Wmo‑hulp en andere rechten onbenut blijven en zij onder het sociaal minimum raken."
+        },
+        "207229": {
+          "position": "disagree",
+          "explanation": "Wij zijn het oneens met minder reclame in de openbare ruimte. Reclame versterkt de lokale economie, stimuleert cultuur, biedt informatie aan inwoners en toeristen, en ondersteunt ondernemers en evenementen, waardoor de stad levendig en goed geïnformeerd blijft."
+        },
+        "207231": {
+          "position": "agree",
+          "explanation": "Wij zijn voor het geleidelijk afbouwen van de hondenbelasting. Honden helpen senioren tegen eenzaamheid en isolement. Ze geven structuur, beweging en gezelschap. Daarom moet de gemeente deze waarde erkennen en hondeneigenaren niet extra belasten."
+        },
+        "207232": {
+          "position": "agree",
+          "explanation": "Wij vinden dat de gemeente meer bedrijventerreinen moet realiseren om economie en werkgelegenheid te versterken. Lokale ondernemers krijgen bij uitgifte voorrang, rekening houdend met bereikbaarheid, verkeer en leefomgeving, zodat banen lokaal behouden blijven."
+        },
+        "207234": {
+          "position": "agree",
+          "explanation": "Wij vinden dat asielopvang over de gemeente verspreid moet worden, zodat niet één of twee wijken overbelast raken. Er mogen maximaal 600 plaatsen komen, en clustering is alleen toegestaan als voorzieningen anders niet correct kunnen worden georganiseerd."
+        },
+        "207235": {
+          "position": "agree",
+          "explanation": "Wij vinden dat statushouders geen voorrang mogen krijgen op sociale huurwoningen. Onze kinderen en kleinkinderen wachten soms al tien jaar; iedereen moet gelijke kansen en eerlijke wachttijden hebben."
+        },
+        "207238": {
+          "position": "disagree",
+          "explanation": "Grote evenementen brengen voordelen voor de binnenstad,ondernemers en werkgelegenheid. In overleg met organisatoren en inwoners kan gekeken worden naar andere locaties om geluid, verkeer en overlast te beperken, zonder dat het aantal evenementen veel stijgt."
+        },
+        "207239": {
+          "position": "agree",
+          "explanation": "De gemeente moet meer investeren in groen in de wijken, waar nodig. Meer groen is welkom, zolang het goed wordt onderhouden en niet verandert in een onbeheerste, wildgroeiige situatie."
+        },
+        "207242": {
+          "position": "agree",
+          "explanation": "Beleid moet niet alleen op duurzaamheid worden getoetst, maar ook op het effect van het beleid op ouderenbeleid. Zo wordt leefbaarheid geborgd voor nu én de mogelijkheid om gezonder oud te worden."
+        },
+        "207244": {
+          "position": "agree",
+          "explanation": "Sporthallen, sportkantines en velden moeten vaker door meerdere verenigingen worden gebruikt om ruimte beter te benutten. Verenigingen met voldoende activiteiten en inkomsten mogen beheer blijven voeren, maar samenwerking en overleg met andere gebruikers blijft belangrijk."
+        },
+        "207245": {
+          "position": "disagree",
+          "explanation": "Culturele instellingen in Den Bosch moeten doelgericht gefinancierd blijven. Bezuinigingen passen niet bij samenwerking, vernieuwing en kwaliteit. Geld moet wel effectief worden besteed, zonder verspilling, met focus op effectiviteit, impact en toegankelijkheid voor alle inwoners."
+        },
+        "207247": {
+          "position": "agree",
+          "explanation": "De gemeente moet een nieuwe publiekstrekker bij de Citadelpoort ontwikkelen, met realistische, haalbare en gezellige functies, en de parkeergarage versterken bereikbaarheid. Draagvlak bij inwoners en ondernemers is belangrijk, en het project mag leefbaarheid niet schaden."
+        },
+        "207249": {
+          "position": "agree",
+          "explanation": "In ’s-Hertogenbosch moeten meer handhavers (boa’s) komen. Meer toezicht verbetert veiligheid, orde en naleving van regels, helpt overlast te verminderen en zorgt dat inwoners en ondernemers zich beschermd en gehoord voelen in hun buurt."
+        },
+        "207251": {
+          "position": "agree",
+          "explanation": "Sterk jongerenwerk voorkomt problemen, vergroot kansen en houdt wijken leefbaar. Door aanwezigheid op straat, begeleiding en activiteiten worden jongeren vroeg bereikt en ondersteund. Dit is een investering in veiligheid én toekomst."
+        },
+        "207252": {
+          "position": "agree",
+          "explanation": "Meer cameratoezicht is gewenst op plekken met bewezen overlast, maar alleen waar het écht nodig is. Cameratoezicht moet effectief en proportioneel blijven, met duidelijke waarborgen voor privacy. Zo versterken we veiligheid zonder de rechten van inwoners uit het oog te verliezen."
+        },
+        "207254": {
+          "position": "agree",
+          "explanation": "Nieuwe woningen in het buitengebied zijn welkom, maar alleen met behoud van dorpskarakter, passende voorzieningen en voldoende openbaar vervoer. Zo groeit het gebied, blijft leefbaar en blijft de identiteit van dorpen behouden voor huidige en toekomstige bewoners."
+        },
+        "207256": {
+          "position": "disagree",
+          "explanation": "Eigenaren van leegstaande panden moeten niet zomaar extra belasting betalen. Dit kan eigenaren ontmoedigen, huurprijzen omhoog drijven of leegstand niet oplossen. Alleen bij langdurige, bewust verwaarloosde leegstand zonder reden kan een prikkel de leefbaarheid en woningtoegang echt verbeteren."
+        },
+        "207257": {
+          "position": "agree",
+          "explanation": "De gemeente moet meer hoogbouw toestaan buiten de historische binnenstad, om het enorme woningtekort in een groeiende stad op te vangen. Dit mag alleen als leefbaarheid en voorzieningen in de wijk behouden blijven, zodat wonen aangenaam blijft voor iedereen."
+        },
+        "207259": {
+          "position": "disagree",
+          "explanation": "Nieuwe woningen moeten voldoende sociale huur bevatten, maar de balans met koopwoningen mag niet verloren gaan. Het landelijke gemiddelde is 28%. Nieuwbouw moet betaalbaar blijven voor iedereen, terwijl er ook voldoende sociale huur wordt gegarandeerd."
+        },
+        "207260": {
+          "position": "agree",
+          "explanation": "Kopers van woningen in ’s‑Hertogenbosch moeten de woning vijf jaar zelf bewonen. Dit voorkomt snelle verhuur door beleggers en helpt woningen eerlijk beschikbaar te houden voor inwoners, starters en gezinnen, met ruimte voor uitzonderingen op basis van bijzondere persoonlijke omstandigheden."
+        },
+        "207261": {
+          "position": "agree",
+          "explanation": "Kwetsbare wijken krijgen extra aandacht door slim en gericht geld te gebruiken voor veiligheid, hulp en betrokken bewoners. Zo worden problemen aangepakt, krijgt iedereen meer eigen verantwoordelijkheid, en blijft de buurt veilig, leefbaar en sterk."
+        },
+        "207262": {
+          "position": "agree",
+          "explanation": "De Bossche Pas biedt nu kortingen en tegoeden bij sport, cultuur en recreatie, vooral voor mensen met laag inkomen. De gemeente moet deze uitbreiden met extra sociale regelingen zoals vervoer, energie of scholing, zodat meer inwoners kunnen meedoen en toegang hebben tot voorzieningen."
+        },
+        "207263": {
+          "position": "disagree",
+          "explanation": "Controle op misbruik van armoederegelingen moet zorgvuldig gebeuren, met respect voor kwetsbare mensen. Strenge, routinematige controles kunnen stress, wantrouwen en bureaucratie vergroten. Handhaving moet proportioneel zijn, met duidelijke regels en mensgerichte ondersteuning."
+        },
+        "207264": {
+          "position": "agree",
+          "explanation": "Senioren ’s-Hertogenbosch vindt dat ondersteuning voor werklozen vooral gericht moet zijn op betaald werk. Met re-integratietrajecten, job coaching, proefplaatsingen en subsidies voor omscholing, samen met ondernemers, worden vaardigheden versterkt, blijft zelfvertrouwen behouden en ontstaan banen."
+        },
+        "207266": {
+          "position": "agree",
+          "explanation": "De zero-emissiezone in de binnenstad moet heroverwogen. Niet iedereen kan investeren in schone auto’s, het drukt ondernemers en levert nauwelijks milieuwinst. Betaalbare, effectieve alternatieven en geleidelijke invoering zijn beter."
+        },
+        "207269": {
+          "position": "disagree",
+          "explanation": "De gemeente moet zich inzetten voor beter openbaar vervoer voor Maaspoort en andere wijken. Focus ligt op verbeterde buslijnen, fietsverbindingen en OV‑aansluitingen, omdat een nieuw treinstation bij Maaspoort op korte termijn niet haalbaar is."
+        },
+        "207271": {
+          "position": "disagree",
+          "explanation": "De gemeente moet doorgaand autoverkeer op de binnenstadsring niet beperken. Senioren, gehandicapte, ondernemers en bezoekers hebben de auto nodig. Beperkingen leiden tot drukte op andere wegen en kunnen de bereikbaarheid en economie schaden. Slim verkeer- en parkeerbeleid is beter."
+        },
+        "207274": {
+          "position": "disagree",
+          "explanation": "Mensen moeten zorg krijgen op basis van kwaliteit, deskundigheid en beschikbaarheid, niet op geloof, cultuur of levensovertuiging. Zo blijft zorg toegankelijk, efficiënt en gelijk voor iedereen."
+        },
+        "207280": {
+          "position": "agree",
+          "explanation": "De gemeente moet meebetalen aan de uitbreiding van het Dierentehuis. Dit verbetert dierenwelzijn, voorkomt overlast en vergroot maatschappelijke betrokkenheid, zodat huisdieren goed verzorgd en veilig opgevangen worden."
+        }
+      }
+    }
+  ],
+  "statements": [
+    {
+      "id": 207238,
+      "index": 1,
+      "theme": "Evenementen",
+      "themeId": "evenementen",
+      "title": "Het aantal grote evenementen in de binnenstad van 's-Hertogenbosch moet worden beperkt.",
+      "moreInfo": "In de binnenstad van ’s-Hertogenbosch worden elk jaar grote evenementen georganiseerd. Voorbeelden zijn carnaval, Jazz in Duketown, de elfde van de elfde en Theaterfestival Boulevard. Tegelijkertijd wonen en werken er veel mensen in de binnenstad.",
+      "pro": "Grote evenementen zorgen voor veel overlast voor bewoners. De binnenstad moet ook goed leefbaar blijven. Minder evenementen geeft meer rust en ruimte voor wonen en werken.",
+      "con": "Evenementen zijn belangrijk voor de cultuur en identiteit van de stad. Evenementen trekken bezoekers en inkomsten aan. Grote evenementen maken de stad levendig en aantrekkelijk.",
+      "isShootout": false
+    },
+    {
+      "id": 207223,
+      "index": 2,
+      "theme": "Ouderenombudsman",
+      "themeId": "ouderenombudsman",
+      "title": "De gemeente moet een ombudsman voor ouderen instellen.",
+      "moreInfo": "Een ombudsman is een onafhankelijke persoon die inwoners helpt bij klachten over de overheid. De ombudsman luistert naar klachten, geeft advies en kan bemiddelen tussen inwoners en de overheid. Het doel is om problemen eerlijk en zorgvuldig op te lossen. In ’s-Hertogenbosch bestaat al een Ombudscommissie. Deze commissie behandelt klachten over ambtenaren en bestuurders van de gemeente. De gemeente kan ervoor kiezen om daarnaast een aparte ombudsman voor ouderen in te stellen.",
+      "pro": "Ouderen hebben behoefte aan één duidelijk aanspreekpunt. Ouderen zijn kwetsbaar. Het helpt ouderen die de weg niet goed weten in regels en instanties.",
+      "con": "Ouderen kunnen terecht bij de bestaande loketten. Een nieuwe functie kost extra geld. Een aparte ombudsman maakt het systeem ingewikkelder.",
+      "isShootout": false
+    },
+    {
+      "id": 207229,
+      "index": 3,
+      "theme": "Reclame",
+      "themeId": "reclame",
+      "title": "Er moet minder reclame komen in de openbare ruimte.",
+      "moreInfo": "In de openbare ruimte is reclame te zien, zoals op bushokjes, billboards en digitale schermen. De gemeente heeft contracten met bedrijven die reclame mogelijk maken op bijvoorbeeld lantaarnpalen en op plekken langs de straat.",
+      "pro": "Minder reclame zorgt voor een rustiger straatbeeld. Reclame draagt bij aan overconsumptie, dat betekent dat mensen allerlei dingen kopen die ze niet nodig hebben, wat vooral afval veroorzaakt. Reclameschermen met verlichting kosten veel energie.",
+      "con": "Te veel regels beperken ondernemers. Bedrijven moeten zichzelf kunnen promoten. Reclame levert inkomsten op voor de gemeente. Reclame hoort bij een levendige stad.",
+      "isShootout": false
+    },
+    {
+      "id": 207232,
+      "index": 4,
+      "theme": "Bedrijventerreinen",
+      "themeId": "bedrijventerreinen",
+      "title": "In de gemeente moeten meer bedrijventerreinen komen.",
+      "moreInfo": "Een bedrijventerrein is een gebied waar geen woningen staan, maar vooral bedrijven, zoals kantoren, fabrieken en opslag.",
+      "pro": "Bedrijven moeten de ruimte krijgen om te groeien. Meer bedrijventerreinen zorgen voor meer banen. Een sterke economie is goed voor de gemeente.",
+      "con": "Er kan ruimte worden gemaakt op bestaande bedrijventerreinen. Meer bedrijven zorgen voor extra verkeer en druk op voorzieningen. Ruimte is schaars. De ruimte moet worden gebruikt voor woningen of natuur.",
+      "isShootout": false
+    },
+    {
+      "id": 207234,
+      "index": 5,
+      "theme": "Kleinschalige asielopvang",
+      "themeId": "kleinschalige-asielopvang",
+      "title": "Asielopvang moet worden verspreid over meerdere plekken in de gemeente.",
+      "moreInfo": "Mensen die uit hun land vluchten voor oorlog of persoonlijke vervolging kunnen in Nederland asiel aanvragen. De Immigratie- en Naturalisatiedienst (IND) beoordeelt hun aanvraag en besluit of zij in Nederland mogen blijven. Tijdens die procedure moeten deze asielzoekers worden opgevangen. In Nederland is een tekort aan opvangplekken voor asielzoekers. De gemeente ’s-Hertogenbosch heeft plannen voor één centrale opvang voor 600 asielzoekers op de bouwlocatie Groot Meerendonk. De discussie is of er in plaats van één centrale opvang niet beter meerdere kleine opvanglocaties kunnen worden gerealiseerd.",
+      "pro": "Spreiding voorkomt dat één wijk te zwaar wordt belast. Kleinschalige opvang maakt betere begeleiding en integratie mogelijk. Meerdere locaties zorgen ervoor dat meer inwoners de opvang steunen.",
+      "con": "Eén centrale opvang is duidelijker en beter beheersbaar. Spreiding zorgt voor meer overlast op meerdere plekken. Meerdere locaties maken opvang duurder en ingewikkelder.",
+      "isShootout": false
+    },
+    {
+      "id": 207231,
+      "index": 6,
+      "theme": "Hondenbelasting",
+      "themeId": "hondenbelasting",
+      "title": "De gemeente moet de hondenbelasting afschaffen.",
+      "moreInfo": "In ’s-Hertogenbosch moeten inwoners met een hond hondenbelasting betalen. De gemeente kan de opbrengst van de hondenbelasting gebruiken voor voorzieningen voor honden, zoals hondenveldjes en het opruimen van hondenpoep, maar kan de opbrengst ook uitgeven aan andere zaken. De hondenbelasting voor 2026 is €108 per jaar voor de eerste hond.",
+      "pro": "Het geld wordt niet gebruikt voor hondenvoorzieningen. De hondenbelasting is oneerlijk. Voor andere huisdieren is er geen belasting. Steeds meer gemeenten schaffen de hondenbelasting af.",
+      "con": "Hondeneigenaren zorgen voor extra kosten in de openbare ruimte. De hondenbelasting levert inkomsten op voor de gemeente. Afschaffen betekent dat andere belastingen omhoog moeten of dat er bezuinigd wordt.",
+      "isShootout": false
+    },
+    {
+      "id": 207221,
+      "index": 7,
+      "theme": "Referendum",
+      "themeId": "referendum",
+      "title": "Bij belangrijke onderwerpen moet de gemeente de inwoners om hun mening vragen via een referendum.",
+      "moreInfo": "Een referendum is een manier waarop inwoners hun mening kunnen geven over een belangrijk onderwerp. In ’s-Hertogenbosch bestaat al een regeling voor een referendum, maar die wordt bijna nooit gebruikt. Er komt alleen een referendum als een meerderheid van de gemeenteraad dat wil.",
+      "pro": "Een referendum geeft inwoners meer zeggenschap.Belangrijke besluiten krijgen zo meer steun van inwoners.Het vergroot de betrokkenheid bij de lokale politiek.",
+      "con": "Besluiten worden al genomen door gekozen volksvertegenwoordigers.Een referendum kan een ingewikkeld onderwerp te simpel maken.Bewoners moeten op een andere manier worden betrokken, bijvoorbeeld via een burgerraad.",
+      "isShootout": false
+    },
+    {
+      "id": 207239,
+      "index": 8,
+      "theme": "Groen in de wijken",
+      "themeId": "groen-in-de-wijken",
+      "title": "De gemeente moet meer geld uitgeven aan groen in de wijken.",
+      "moreInfo": "Groen in de wijken bestaat uit bomen, planten, parken en plantsoenen. De gemeente ’s-Hertogenbosch is verantwoordelijk voor het aanleggen en onderhouden van groen in de wijken.",
+      "pro": "Groen zorgt voor een gezonde en prettige leefomgeving. Meer groen helpt tegen hitte en wateroverlast. Groen is belangrijk voor ontmoeting en welzijn in de wijk.",
+      "con": "Meer groen kost extra geld van de gemeente. Inwoners kunnen zelf het initiatief nemen voor meer groen. Meer groen gaat vaak ten koste van parkeerplekken.",
+      "isShootout": false
+    },
+    {
+      "id": 207245,
+      "index": 9,
+      "theme": "Minder geld voor cultuur",
+      "themeId": "minder-geld-voor-cultuur",
+      "title": "Culturele instellingen moeten minder geld krijgen van de gemeente.",
+      "moreInfo": "Gemeenten geven geld aan culturele instellingen, zoals theaters, musea, bibliotheken en poppodia. Dit geld wordt gebruikt voor bijvoorbeeld gebouwen, personeel en activiteiten voor inwoners.",
+      "pro": "Culturele instellingen moeten zoveel mogelijk hun eigen geld verdienen. Gemeentegeld is nodig voor andere taken. Subsidies maken instellingen afhankelijk van de overheid.",
+      "con": "Cultuur verbindt mensen. Cultuur moet voor iedereen toegankelijk zijn. Door subsidie kunnen kaartjes goedkoper blijven. Culturele instellingen zorgen voor levendigheid en aantrekkingskracht.",
+      "isShootout": false
+    },
+    {
+      "id": 207242,
+      "index": 10,
+      "theme": "Duurzaamheid",
+      "themeId": "duurzaamheid",
+      "title": "De gemeente 's-Hertogenbosch moet al het beleid toetsen op duurzaamheid.",
+      "moreInfo": "In de gemeente ‘s-Hertogenbosch is een duurzaamheidstekst op dit moment al verplicht voor elk raadsvoorstel dat te maken heeft met het alles wat je kunt zien en gebruiken, zoals gebouwen, wegen, parken en natuur.  In deze duurzaamheidstekst staat hoe het voorstel bijdraagt aan de ambitie om klimaatneutraal te worden of over te stappen op een circulaire economie. Klimaatneutraal betekent dat de gemeente geen of bijna geen stoffen meer uitstoot die het klimaat opwarmen, zoals CO2. Een circulaire economie betekent dat al het afval wordt hergebruikt. Moet de gemeente ook zo’n tekst verplicht stellen bij alle andere voorstellen in de gemeente?",
+      "pro": "Toetsen op duurzaamheid helpt om negatieve gevolgen voor klimaat en milieu te voorkomen.Beleidskeuzes worden hiermee toekomstbestendiger.De gemeente geeft hiermee het goede voorbeeld.",
+      "con": "Extra toetsen kunnen besluitvorming langzamer maken.Andere belangen, zoals economie of leefbaarheid, moeten ook meewegen.Landelijk duurzaamheidsbeleid is voldoende.",
+      "isShootout": false
+    },
+    {
+      "id": 207244,
+      "index": 11,
+      "theme": "Dubbelgebruik sportaccommodaties",
+      "themeId": "dubbelgebruik-sportaccommodaties",
+      "title": "De gemeente moet zorgen dat sporthallen, sportkantines en sportvelden vaker door meerdere verenigingen worden gebruikt.",
+      "moreInfo": "Sporthallen, sportvelden en sportkantines zijn vaak eigendom van de gemeente. Sportverenigingen maken hier gebruik van. Door deze voorzieningen te delen, kunnen meer verenigingen er sporten. Dat vraagt om duidelijke afspraken over tijden, onderhoud en gebruik. De gemeente kan helpen bij het maken van deze afspraken.",
+      "pro": "Zo kunnen meer mensen sporten. Het voorkomt dat er extra sportaccommodaties moeten worden gebouwd. Dit bespaart kosten.",
+      "con": "Voor sportverenigingen is een eigen vaste plek belangrijk. De gemeente moet samenwerking niet opdringen. Een sportvereniging moet niet op meerdere plekken in de stad zitten.",
+      "isShootout": false
+    },
+    {
+      "id": 207269,
+      "index": 12,
+      "theme": "Treinstation Maaspoort",
+      "themeId": "treinstation-maaspoort",
+      "title": "De gemeente moet zich inzetten voor een treinstation bij Maaspoort.",
+      "moreInfo": "Maaspoort is een woonwijk in ’s-Hertogenbosch. De gemeente wil graag een treinstation in Maaspoort. Een treinstation kan zorgen voor een betere bereikbaarheid van de wijk. De NS en de Rijksoverheid hebben eerder gezegd dat zij geen geld willen steken in een treinstation in Maaspoort. Als de gemeente toch een station wil, moet ze hiervoor lobbyen bij de NS en het Rijk.",
+      "pro": "Een station verbetert de bereikbaarheid van Maaspoort. Meer mensen kunnen dan duurzaam reizen. Het vermindert autoverkeer en parkeerdruk.",
+      "con": "Zonder steun van ProRail, NS en het Rijk is een treinstation niet haalbaar. De gemeente moet zich richten op beter busvervoer tussen de wijken. De verbetering van het centraal treinstation in ‘s-Hertogenbosch is belangrijker.",
+      "isShootout": false
+    },
+    {
+      "id": 207235,
+      "index": 13,
+      "theme": "Voorrang statushouders",
+      "themeId": "voorrang-statushouders",
+      "title": "Statushouders mogen geen voorrang meer krijgen op sociale huurwoningen.",
+      "moreInfo": "Statushouders zijn mensen die asiel hebben aangevraagd en een verblijfsvergunning hebben gekregen. Zij mogen in Nederland blijven. De Rijksoverheid bepaalt elk half jaar hoeveel statushouders een gemeente moet huisvesten. Dit aantal is gebaseerd op het aantal inwoners van de gemeente. Gemeenten mogen zelf bepalen wie voorrang krijgt bij een sociale huurwoning. Statushouders hebben niet automatisch voorrang. Dit hangt af van de regels van de gemeente. In ’s-Hertogenbosch zijn statushouders een van de groepen die voorrang krijgen bij de verdeling van sociale huurwoningen.",
+      "pro": "Voorrang voor statushouders is oneerlijk voor andere woningzoekenden.De wachttijd moet leidend zijn voor iedereen.Door voorrangsregels kunnen jongeren geen woning meer vinden in hun eigen stad.",
+      "con": "Statushouders hebben snel een woning nodig om te kunnen meedoen.Gemeenten hebben een wettelijke taak om statushouders te huisvesten.Zonder voorrang dreigt er een opvangprobleem te ontstaan.",
+      "isShootout": false
+    },
+    {
+      "id": 207256,
+      "index": 14,
+      "theme": "Aanpak leegstand",
+      "themeId": "aanpak-leegstand",
+      "title": "Eigenaren van panden die langdurig leegstaan, moeten daarvoor belasting gaan betalen.",
+      "moreInfo": "Een gemeente kan een leegstandsbelasting invoeren voor woningen of bedrijfsgebouwen die langere tijd niet worden gebruikt. Het doel van deze belasting is om eigenaren aan te moedigen om de gebouwen te verhuren of te verkopen. In de gemeente ‘s-Hertogenbosch bedraagt de leegstand 2%, net als gemiddeld in Noord-Brabant.",
+      "pro": "Leegstand is onwenselijk bij woningnood. Een leegstandsbelasting stimuleert eigenaren om panden te verhuren of te ontwikkelen. Leegstandsbelasting zorgt ervoor dat eigenaren hun gebouwen minder slecht onderhouden.",
+      "con": "Extra belasting is een te zware maatregel. De eigenaar kan er niet altijd iets aan doen dat het gebouw leegstaat.  Stimuleren en meedenken werkt beter dan straffen.",
+      "isShootout": false
+    },
+    {
+      "id": 207247,
+      "index": 15,
+      "theme": "Publiekstrekker Citadelpoort",
+      "themeId": "publiekstrekker-citadelpoort",
+      "title": "De gemeente moet een nieuwe publiekstrekker ontwikkelen in de Citadelpoort.",
+      "moreInfo": "In de Citadelpoort komt nieuwbouw. Dit gebied ligt tussen de Aa, de Orthenseweg en de Citadellaan in ’s-Hertogenbosch. Naast woningbouw wilde de gemeente hier ook de nieuwbouw van het Designmuseum neerzetten. Vanwege de hoge kosten gaat deze nieuwbouw niet door. De gemeente heeft nog niet besloten of nu in de Citadelpoort alleen woningen komen of ook een museum of andere publiekstrekker.",
+      "pro": "Een publiekstrekker zorgt voor meer bezoekers in de binnenstad. Het versterkt de economie en werkgelegenheid. Het gebied wordt levendiger en aantrekkelijker.",
+      "con": "De ontwikkeling kost veel geld van de gemeente. Er moet vooral ruimte zijn voor woningen. Een nieuwe publiekstrekker is niet noodzakelijk.",
+      "isShootout": false
+    },
+    {
+      "id": 207249,
+      "index": 16,
+      "theme": "Meer handhavers",
+      "themeId": "meer-handhavers",
+      "title": "In de gemeente 's-Hertogenbosch moeten meer handhavers (boa’s) komen.",
+      "moreInfo": "Handhavers (boa’s) zorgen voor toezicht en handhaving in de openbare ruimte in ’s-Hertogenbosch. Zij spreken mensen aan bij overlast, controleren of regels worden nageleefd en werken samen met de politie. De gemeente ’s-Hertogenbosch heeft momenteel 48 boa’s.",
+      "pro": "Meer handhavers zorgen voor meer veiligheid op straat. Dit vergroot het veiligheidsgevoel van inwoners. Boa’s kunnen sneller optreden bij overlast en kleine overtredingen.",
+      "con": "Preventie en voorlichting is belangrijker dan handhaving. Er is vooral meer politie nodig. Boa’s worden te vaak ingezet voor het uitschrijven van parkeerboetes.",
+      "isShootout": false
+    },
+    {
+      "id": 207257,
+      "index": 17,
+      "theme": "Hoogbouw",
+      "themeId": "hoogbouw",
+      "title": "De gemeente moet meer hoogbouw toestaan buiten de historische binnenstad van 's-Hertogenbosch.",
+      "moreInfo": "",
+      "pro": "Met hoogbouw kunnen in korte tijd veel woningen worden gebouwd. Het voorkomt dat parken, natuur of buitengebied worden bebouwd. Met hoogbouw kun je meer woningen op een kleiner stuk grond bouwen.",
+      "con": "Hoogbouw kan ervoor zorgen dat wijken er anders uitzien en anders aanvoelen voor inwoners. Het kan zorgen voor schaduw en verlies van uitzicht voor mensen in andere huizen. Niet elke locatie is geschikt voor hoge gebouwen.",
+      "isShootout": false
+    },
+    {
+      "id": 207264,
+      "index": 18,
+      "theme": "Ondersteuning naar werk",
+      "themeId": "ondersteuning-naar-werk",
+      "title": "Ondersteuning van de gemeente aan werklozen moet vooral gericht zijn op het vinden van betaald werk.",
+      "moreInfo": "Gemeenten ondersteunen mensen zonder werk, bijvoorbeeld met begeleiding, scholing of een uitkering. Het doel is dat mensen zo goed mogelijk kunnen meedoen in de samenleving. De gemeente kan kiezen. De ondersteuning kan zich vooral richten op het vinden van betaald werk, of ook op zoiets als vrijwilligerswerk.",
+      "pro": "Betaald werk vergroot de zelfstandigheid. Werk is de beste manier om uit de bijstand te komen. Hulp van de gemeente moet mensen aanmoedigen om werk te zoeken.",
+      "con": "Niet iedereen kan betaald werk doen. Andere vormen van meedoen zijn ook waardevol. Ondersteuning moet vooral gericht zijn op het oplossen van onderliggende problemen.",
+      "isShootout": false
+    },
+    {
+      "id": 207260,
+      "index": 19,
+      "theme": "Zelfbewoningsplicht",
+      "themeId": "zelfbewoningsplicht",
+      "title": "Wie een woning in onze gemeente koopt, moet daar zelf in gaan wonen.",
+      "moreInfo": "In sommige gemeenten geldt dat wie een woning koopt, er zelf moet gaan wonen. Dit heet een zelfbewoningsplicht. Sinds 1 juli 2022 geldt in ’s-Hertogenbosch de opkoopbescherming. Dit is een vorm van zelfbewoningsplicht waarbij een woning na aankoop niet mag worden verhuurd. Deze regel geldt nu voor koopwoningen met een WOZ-waarde lager dan €260.000 op 1 januari 2020.",
+      "pro": "Huizen zijn om in te wonen, niet om winst te maken. Met een zelfbewoningsplicht maken starters meer kans op een koopwoning. Wijken blijven leefbaar en sociaal. Mensen die er zelf wonen, zorgen vaker voor contact en betrokkenheid.",
+      "con": "Mensen mogen zelf beslissen wat ze met hun woning doen. Meer regels lossen het woningtekort niet op. Zonder beleggers komen er minder huurhuizen op de markt.",
+      "isShootout": false
+    },
+    {
+      "id": 207263,
+      "index": 20,
+      "theme": "Misbruik armoederegelingen",
+      "themeId": "misbruik-armoederegelingen",
+      "title": "De gemeente moet streng controleren op misbruik van armoederegelingen.",
+      "moreInfo": "Gemeenten hebben armoederegelingen om inwoners met een laag inkomen te ondersteunen, bijvoorbeeld met geld, kortingen of voorzieningen. De gemeente ’s-Hertogenbosch heeft bijvoorbeeld bijzondere bijstand. Dit is een vergoeding voor noodzakelijke kosten die iemand niet zelf kan betalen.",
+      "pro": "Gemeentegeld moet zorgvuldig worden besteed. Misbruik is oneerlijk tegenover mensen die de regelingen echt nodig hebben. Strenge controles zorgen voor vertrouwen in het systeem.",
+      "con": "De meeste mensen maken geen misbruik. Vertrouwen moet het uitgangspunt zijn. Strenge controles kunnen ervoor zorgen dat mensen geen hulp durven te vragen. Controle kost veel tijd en geld en gaat ten koste van hulp.",
+      "isShootout": false
+    },
+    {
+      "id": 207261,
+      "index": 21,
+      "theme": "Kwetsbare wijken",
+      "themeId": "kwetsbare-wijken",
+      "title": "Kwetsbare wijken moeten meer geld krijgen dan andere wijken.",
+      "moreInfo": "In sommige wijken zijn meer problemen dan in andere wijken, zoals armoede, werkloosheid en onveiligheid. Deze wijken worden kwetsbare wijken genoemd. De gemeente kan ervoor kiezen om meer geld te steken in deze wijken, bijvoorbeeld voor wonen, veiligheid en buurtvoorzieningen.",
+      "pro": "In kwetsbare wijken zijn de problemen groter. Gelijke kansen vragen om ongelijke inzet. Sommige wijken hebben meer steun nodig om achterstanden in te lopen. Meer geld voor kwetsbare wijken vergroot de leefbaarheid.",
+      "con": "Alle wijken moeten gelijk worden behandeld.  Meer geld lost problemen niet vanzelf op. Elke wijk heeft zijn eigen problemen.",
+      "isShootout": false
+    },
+    {
+      "id": 207254,
+      "index": 22,
+      "theme": "Bouwen in buitengebied",
+      "themeId": "bouwen-in-buitengebied",
+      "title": "In het buitengebied moeten nieuwe woningen worden gebouwd.",
+      "moreInfo": "In ’s-Hertogenbosch zijn te weinig woningen. De gemeente ’s-Hertogenbosch moet kiezen waar nieuwe woningen worden gebouwd. Dat kan binnen het bestaand stedelijk gebied, bijvoorbeeld op lege plekken of door oude gebouwen te vervangen. De gemeente kan ook kiezen voor nieuwe wijken buiten de bebouwde kom, in het buitengebied. Het buitengebied ligt buiten de dorpen en de stad en bestaat vooral uit landbouw, natuur en open ruimte.",
+      "pro": "De woningnood is hoog. Bouwen in het buitengebied biedt meer ruimte voor nieuwe woningen. Nieuwe woningen kunnen bijdragen aan de leefbaarheid van dorpen.",
+      "con": "Bouwen in het buitengebied gaat ten koste van natuur en landschap. De open ruimte moet worden beschermd. Er moet eerst worden gebouwd binnen de stad en dorpen.",
+      "isShootout": false
+    },
+    {
+      "id": 207262,
+      "index": 23,
+      "theme": "Bossche Pas",
+      "themeId": "bossche-pas",
+      "title": "De gemeente moet de Bossche Pas uitbreiden met meer regelingen.",
+      "moreInfo": "Met de Bossche Pas kunnen inwoners van ’s-Hertogenbosch sinds januari 2026 met korting of gratis meedoen aan sport, cultuur en andere activiteiten. De pas is er voor iedereen. Voor inwoners met een laag inkomen is de pas gratis. De gemeente kan ervoor kiezen om de pas uit te breiden met meer regelingen en aanbiedingen.",
+      "pro": "De Bossche Pas helpt mensen met een laag inkomen om mee te doen. Meer regelingen zorgen voor gelijke kansen voor alle inwoners. Uitbreiding van de pas zorgt voor duidelijkheid bij inwoners.",
+      "con": "Uitbreiding kost de gemeente extra geld. Eerst moet duidelijk worden of de Bossche Pas goed werkt. Het systeem is te ingewikkeld, waardoor de uitvoering veel geld kost en er minder geld bij inwoners terechtkomt.",
+      "isShootout": false
+    },
+    {
+      "id": 207266,
+      "index": 24,
+      "theme": "Zero-emissiezone",
+      "themeId": "zero-emissiezone",
+      "title": "De gemeente moet het besluit terugdraaien over de instelling van een zero-emissiezone in de binnenstad van 's-Hertogenbosch.",
+      "moreInfo": "In de binnenstad van ’s-Hertogenbosch geldt sinds 1 maart 2025 een zero-emissiezone. In principe mogen hier alleen elektrische bedrijfsvoertuigen rijden. In speciale gevallen is een ontheffing mogelijk. Voor personenauto’s gelden deze regels niet. Zij mogen de binnenstad blijven inrijden. Het doel is om de luchtkwaliteit te verbeteren en de uitstoot van schadelijke stoffen te verminderen.",
+      "pro": "Het besluit is te belastend voor ondernemers.Een elektrisch bedrijfsvoertuig is duur en niet voor iedereen betaalbaar.Terugdraaien voorkomt onduidelijkheid en extra kosten.",
+      "con": "De zero-emissiezone zorgt voor schonere lucht en betere gezondheid.Het besluit geeft duidelijkheid voor de toekomst.Terugdraaien zorgt voor onbetrouwbaar beleid.",
+      "isShootout": false
+    },
+    {
+      "id": 207251,
+      "index": 25,
+      "theme": "Jongerenwerk",
+      "themeId": "jongerenwerk",
+      "title": "De gemeente moet meer geld steken in jongerenwerk.",
+      "moreInfo": "Jongerenwerk is ondersteuning voor jongeren en jongvolwassenen, meestal tussen 12 en 27 jaar, bijvoorbeeld via straatwerk, jongerencentra en begeleiding. Jongerenwerkers zijn actief op straat, school, online en in jongerencentra. Zij helpen jongeren bij school, werk, vrije tijd en persoonlijke problemen. Ook hebben zij contact met ouders, scholen en hulpverleners. De gemeente is verantwoordelijk voor het organiseren en betalen van jongerenwerk.",
+      "pro": "Jongerenwerk voorkomt problemen zoals overlast en criminaliteit. Vroeg helpen is beter dan later ingrijpen. Jongerenwerk helpt jongeren om mee te doen en zich te ontwikkelen.",
+      "con": "Meer jongerenwerk kost extra geld van de gemeente. Jongerenwerk helpt niet genoeg. Jongeren die overlast veroorzaken, moeten streng worden aangepakt. De gemeente moet zich richten op het versterken van het onderwijs.",
+      "isShootout": false
+    },
+    {
+      "id": 207252,
+      "index": 26,
+      "theme": "Cameratoezicht",
+      "themeId": "cameratoezicht",
+      "title": "In de gemeente 's-Hertogenbosch moet meer cameratoezicht komen op plekken waar overlast is.",
+      "moreInfo": "Cameratoezicht is een middel dat de gemeente kan inzetten om overlast en criminaliteit te volgen. Camera’s hangen in de openbare ruimte en maken beelden van wat daar gebeurt. In ’s-Hertogenbosch is op dit moment op een paar plekken permanent cameratoezicht, zoals in het uitgaansgebied en bij het station. Daarnaast hangt de gemeente soms ook tijdelijk camera’s op plekken waar veel overlast is.",
+      "pro": "Cameratoezicht helpt bij het aanpakken van overlast en criminaliteit. Camera’s vergroten het gevoel van veiligheid. Beelden kunnen helpen bij opsporing en handhaving.",
+      "con": "Camera’s lossen de oorzaken van overlast niet op. Er is al voldoende cameratoezicht. Cameratoezicht schendt de privacy van inwoners.",
+      "isShootout": false
+    },
+    {
+      "id": 207271,
+      "index": 27,
+      "theme": "Verkeersknips",
+      "themeId": "verkeersknips",
+      "title": "De gemeente moet maatregelen nemen om doorgaand autoverkeer op de binnenstadsring te verminderen.",
+      "moreInfo": "De binnenstadsring in ’s-Hertogenbosch wordt gebruikt door verkeer dat de stad in wil, maar ook door doorgaand verkeer. Vooral tijdens spitsmomenten is het hier erg druk en loopt het verkeer vast. De gemeente kan maatregelen nemen om doorgaand verkeer tegen te houden, zodat de ring minder aantrekkelijk wordt als doorgaande route.",
+      "pro": "Minder doorgaand verkeer vergroot de veiligheid en leefbaarheid in de binnenstad. Het verbetert de doorstroming voor bestemmingsverkeer. Het stimuleert het gebruik van andere routes of ander vervoer.",
+      "con": "Goede bereikbaarheid voor ondernemers en bezoekers is belangrijk. Maatregelen zijn slecht voor de lokale economie. Het tegenhouden van doorgaand verkeer leidt tot drukte op andere wegen.",
+      "isShootout": false
+    },
+    {
+      "id": 207259,
+      "index": 28,
+      "theme": "Sociale huurwoningen",
+      "themeId": "sociale-huurwoningen",
+      "title": "Van de nieuw te bouwen woningen in de gemeente moet minimaal 40% een sociale huurwoning zijn. In Nederland is nu 28% van de woningen een sociale huurwoning.",
+      "moreInfo": "Sociale huurwoningen zijn bedoeld voor mensen met een lager inkomen. In ’s-Hertogenbosch is het huidige beleid dat bij nieuwbouw minimaal 30% van de woningen sociale huur is. Van de woningen die er al staan is ruim 33% een sociale huurwoning.",
+      "pro": "Er is een groot tekort aan goedkope woningen.Mensen met een laag inkomen krijgen zo meer kansen op een woning.Wijken worden meer gemengd met inwoners met lagere en hogere inkomens.",
+      "con": "Mensen met een iets hoger inkomen komen dan moeilijker aan een woning.Als er vooral sociale huurwoningen en minder duurdere woningen bijkomen, kunnen mensen moeilijker naar een volgend huis verhuizen. Dezelfde norm voor elk nieuwbouwproject laat te weinig ruimte voor maatwerk.",
+      "isShootout": false
+    },
+    {
+      "id": 207274,
+      "index": 29,
+      "theme": "Vrije keuze zorgaanbieder",
+      "themeId": "vrije-keuze-zorgaanbieder",
+      "title": "Mensen die zorg of ondersteuning nodig hebben, moeten altijd kunnen kiezen voor een hulpverlener die past bij hun geloof, cultuur of levensovertuiging.",
+      "moreInfo": "Bij zorg en ondersteuning vanuit de gemeente, zoals huishoudelijke hulp of begeleiding, kunnen inwoners soms een voorkeur hebben voor een hulpverlener met een bepaalde achtergrond. In het huidige zorgsysteem wordt bij het toewijzen van een hulpverlener geen rekening gehouden met de culturele of religieuze achtergrond van iemand die zorg of ondersteuning nodig heeft.",
+      "pro": "Zorg moet gericht zijn op de persoon. Eigen regie is belangrijk bij zorg en ondersteuning. Zorg sluit beter aan als rekening wordt gehouden met iemands achtergrond.",
+      "con": "Door personeelstekorten is keuzevrijheid niet altijd haalbaar. Zorg is neutraal: goede zorg kan ook worden geleverd zonder gedeelde achtergrond. Een onbeperkte keuze voor elke gewenste aanbieder is te duur.",
+      "isShootout": false
+    },
+    {
+      "id": 207280,
+      "index": 30,
+      "theme": "Dierentehuis",
+      "themeId": "dierentehuis",
+      "title": "De gemeente moet meebetalen aan de uitbreiding van het Dierentehuis.",
+      "moreInfo": "Het Dierentehuis in ‘s-Hertogenbosch vangt honden en katten op die gevonden zijn of rondzwerven. Elk jaar gaat het om meer dan 500 dieren. Gemiddeld zijn er ongeveer 70 dieren tegelijk in het Dierentehuis. Het Dierentehuis wil uitbreiden, maar er is niet genoeg geld.",
+      "pro": "Dierenwelzijn is belangrijk. De gemeente is verantwoordelijk voor de opvang van gevonden dieren. Het Dierentehuis heeft te weinig ruimte om alle dieren goed op te vangen.",
+      "con": "Uitbreiding kost extra geld van de gemeente. Voorlichting moet ervoor zorgen dat er minder opvang nodig is. Vaste steun kan ervoor zorgen dat ook andere organisaties geld verwachten van de gemeente.",
+      "isShootout": false
+    }
+  ]
+}

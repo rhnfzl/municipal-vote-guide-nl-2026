@@ -1,0 +1,1379 @@
+{
+  "id": "GM0664",
+  "name": "Goes",
+  "slug": "goes",
+  "parties": [
+    {
+      "id": 114554,
+      "name": "GroenLinks-PvdA",
+      "fullName": "Groenlinks - Partij van de Arbeid",
+      "website": "https://groenlinkspvda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "114572": {
+          "position": "disagree",
+          "explanation": "Wij vinden het belangrijk dat inwoners meedenken en meepraten. Dat kan via goede participatie en inspraak aan de voorkant. Een referendum is daarvoor niet altijd het beste middel en kan ingewikkelde keuzes te simpel maken."
+        },
+        "114573": {
+          "position": "agree",
+          "explanation": "Als inwoners een goed plan hebben, moeten zij taken van de gemeente kunnen overnemen. Dit vergroot betrokkenheid en eigenaarschap. De gemeente ondersteunt en blijft verantwoordelijk voor duidelijke afspraken en kwaliteit."
+        },
+        "114575": {
+          "position": "disagree",
+          "explanation": "Het huidige beleid werkt goed. Cafés en restaurants hebben duidelijke openingstijden, wat zorgt voor rust en duidelijkheid. Tegelijk is er ruimte voor maatwerk, omdat ondernemers bij bijzondere gelegenheden kunnen afwijken."
+        },
+        "114576": {
+          "position": "agree",
+          "explanation": "Samen duurzame energie opwekken is goed voor het klimaat en voor de buurt. Inwoners die dit samen willen doen, verdienen steun van de gemeente. Zo maken we de energietransitie eerlijk en voor iedereen haalbaar."
+        },
+        "114578": {
+          "position": "disagree",
+          "explanation": "Mensen op de vlucht verdienen een veilige opvang. Als gemeente nemen we onze verantwoordelijkheid. Goede opvang, met aandacht voor draagvlak, begeleiding en snelle integratie, zorgt voor rust en voorkomt problemen."
+        },
+        "114580": {
+          "position": "disagree",
+          "explanation": "Open haarden en houtkachels zorgen voor luchtvervuiling en gezondheidsklachten. Wij kiezen voor schone lucht en een gezonde leefomgeving. Daarom willen we het gebruik beperken en inzetten op schonere en duurzame alternatieven. De stookwijzer kan daarbij een eerste hulpmiddel zijn."
+        },
+        "114582": {
+          "position": "agree",
+          "explanation": "Een gemeentelijk alternatief met licht of drones is veilig en feestelijk. Het zorgt voor minder overlast, minder schade en minder stress voor mens en dier. Zo vieren we samen oud en nieuw op een moderne en verantwoorde manier."
+        },
+        "114585": {
+          "position": "agree",
+          "explanation": "Iedereen moet zelfstandig winkels, cafés en andere gebouwen kunnen bezoeken. Door ondernemers (deels) financieel te helpen bij aanpassingen, maken we Goes toegankelijker voor mensen met een beperking en zorgen we dat iedereen mee kan doen."
+        },
+        "114587": {
+          "position": "disagree",
+          "explanation": "De gemeente houdt zich aan wat wettelijk is afgesproken voor de lokale omroep. Dat vinden wij voldoende."
+        },
+        "114591": {
+          "position": "disagree",
+          "explanation": "Het aantal boa’s is in de afgelopen collegeperiode al flink uitgebreid, mede dankzij GroenLinks-PvdA. Nog meer boa’s kost veel geld. Dat besteden we liever aan preventie, jeugdwerk, voorlichting en gelijke kansen."
+        },
+        "114592": {
+          "position": "disagree",
+          "explanation": "Cameratoezicht is niet altijd de beste oplossing. Wij kiezen eerst voor preventie, zichtbare handhaving en sterke wijken. Alleen op plekken waar het echt nodig is, kan tijdelijk cameratoezicht worden ingezet."
+        },
+        "114594": {
+          "position": "disagree",
+          "explanation": "Boa’s hebben een belangrijke taak, maar bewapening past daar niet bij. Wij kiezen voor de-escalatie, goede training en samenwerking met de politie. Veiligheid bereik je niet door meer wapens, maar door preventie en vertrouwen."
+        },
+        "114595": {
+          "position": "disagree",
+          "explanation": "Sociale huurwoningen zijn er voor mensen die ze het hardst nodig hebben. Voorrang op basis van woonplaats vinden wij niet eerlijk. We kiezen voor toewijzing op basis van noodzaak, zodat iedereen gelijke kansen krijgt op een passende woning."
+        },
+        "114597": {
+          "position": "agree",
+          "explanation": "Woningen zijn om in te wonen, niet om te kopen om door te verkopen met winst. Met een zelfbewoningsplicht pakken we huisjesmelkerij aan en zorgen we dat koopwoningen beschikbaar blijven voor mensen die er zelf willen wonen."
+        },
+        "114598": {
+          "position": "agree",
+          "explanation": "Leegstaande kantoren ombouwen tot woningen is een goede oplossing. We willen eerst procedures versnellen en belemmeringen wegnemen. Een subsidie kan helpen, maar alleen als laatste middel om projecten mogelijk te maken."
+        },
+        "114601": {
+          "position": "disagree",
+          "explanation": "Kwijtschelding van gemeentelijke belastingen helpt mensen met een laag inkomen om rond te komen. Stoppen hiermee vergroot financiële problemen en schulden. Wij kiezen voor bestaanszekerheid en ondersteuning voor wie het nodig heeft."
+        },
+        "114602": {
+          "position": "agree",
+          "explanation": "Armoederegelingen zijn belangrijk om mee te doen en schulden te voorkomen. We verhogen de grens naar 130% van de bijstandsnorm. Daarnaast willen we nieuw beleid met een afbouw aan hulp als je inkomen tussen de 130% en 150% zit, zodat meer verdienen loont en ook werkende armen steun krijgen."
+        },
+        "114604": {
+          "position": "agree",
+          "explanation": "Elektrisch rijden helpt om de lucht schoner te maken. Meer oplaadplekken zijn nodig om dit voor iedereen mogelijk te maken. We doen dit in overleg met inwoners, zodat het past in de buurt en de openbare ruimte goed wordt gebruikt."
+        },
+        "114605": {
+          "position": "agree",
+          "explanation": "Binnen de bebouwde kom kiezen we voor 30 km/u om straten veiliger en rustiger te maken. Dit sluit aan bij het STOMP-principe: eerst lopen, fietsen en ov daarna de auto. Op belangrijke hoofdroutes blijft 50 km/u mogelijk."
+        },
+        "114608": {
+          "position": "agree",
+          "explanation": "Zorg werkt het beste als mensen zich begrepen en veilig voelen. Daarom moet er ruimte zijn om te kiezen voor een zorgverlener die past bij iemands geloof, cultuur of levensovertuiging, zolang dit haalbaar is en de kwaliteit van zorg goed blijft."
+        },
+        "114609": {
+          "position": "disagree",
+          "explanation": "Bij jeugdhulp moet kwaliteit voorop staan. Te veel letten op prijs kan ten koste gaan van goede zorg. Wij kiezen voor passende hulp, vaste zorgverleners en deskundigheid, zodat kinderen en gezinnen de steun krijgen die ze nodig hebben."
+        },
+        "114610": {
+          "position": "agree",
+          "explanation": "Menstruatieproducten zijn basisproducten. Niet iedereen kan deze altijd betalen. Daarom stellen we gratis tampons en maandverband beschikbaar. Dit is in de afgelopen collegeperiode, mede dankzij GroenLinks-PvdA, al geregeld."
+        },
+        "114613": {
+          "position": "agree",
+          "explanation": "Toerisme is belangrijk voor de lokale economie, maar zorgt ook voor extra druk op voorzieningen. Met een hogere toeristenbelasting laten we bezoekers hieraan meebetalen. De opbrengst gebruiken we voor leefbaarheid en onderhoud in Goes."
+        },
+        "114616": {
+          "position": "agree",
+          "explanation": "Vluchtelingen met een verblijfsvergunning (statushouders) mogen in Nederland blijven. Door voorrang bij sociale huur kunnen zij sneller werken, leren en integreren in de samenleving. Zo ontlasten we de opvang en voorkomen we onnodige kosten."
+        },
+        "114618": {
+          "position": "neither",
+          "explanation": "We willen duurzame energie opwekken, maar ook zorgvuldig omgaan met landbouwgrond en landschap. Daarom geven we voorrang aan zonnepanelen op daken en onbenutte gronden. Energie wekken we bij voorkeur op waar die wordt gebruikt. Zonnepanelen op landbouwgrond kan alleen na zorgvuldige afweging."
+        },
+        "114619": {
+          "position": "disagree",
+          "explanation": "Het Historisch Museum de Bevelanden vertelt het verhaal van onze regio en is belangrijk voor cultuur en educatie. Steun van de gemeente helpt om dit erfgoed te behouden en toegankelijk te houden voor inwoners en bezoekers."
+        },
+        "114626": {
+          "position": "disagree",
+          "explanation": "Betaald parkeren helpt om het centrum bereikbaar en leefbaar te houden. Lagere tarieven zorgen voor meer autoverkeer en minder ruimte voor groen en verblijf. We stimuleren liever lopen, fietsen en openbaar vervoer, met goede alternatieven voor parkeren en een transferium aan de rand van de stad."
+        },
+        "114628": {
+          "position": "disagree",
+          "explanation": "Een hoteltoren van 55 meter past niet bij de omgeving aan de Deltaweg. Zo’n gebouw heeft grote impact op landschap en leefbaarheid. We houden vast aan duidelijke hoogte-afspraken en kiezen voor ontwikkeling die past bij de schaal van Goes."
+        },
+        "114629": {
+          "position": "disagree",
+          "explanation": "Bij Wilhelminadorp wordt al een nieuwe woonwijk ontwikkeld en met andere plannen bouwen we tot 2030 voldoende woningen. We willen ook ruimte voor natuur, zoals Landschapspark Kloetinge. Een nieuwe locatie komt alleen in beeld als wonen, natuur en leefbaarheid samen zijn meegewogen."
+        },
+        "114632": {
+          "position": "agree",
+          "explanation": "Cultuur brengt mensen samen en maakt Goes levendig. Door te investeren in cultuur zorgen we dat iedereen kan meedoen, ongeacht inkomen. Dat versterkt ontmoeting, talentontwikkeling en de aantrekkelijkheid van onze stad en dorpen."
+        }
+      }
+    },
+    {
+      "id": 114550,
+      "name": "Nieuw Goes",
+      "fullName": "Nieuw Goes",
+      "website": "https://www.nieuwgoes.org/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "114572": {
+          "position": "agree",
+          "explanation": "Nieuw Goes is opgericht met het doel om inwoners meer inspraak te geven. Een gemeentelijk referendum invoeren is het ultieme middel om dit voor elkaar te krijgen. Het is een van onze hoofdstandpunten."
+        },
+        "114573": {
+          "position": "agree",
+          "explanation": "Wij zijn een voorstander van 'right to challenge'. Hierbij hebben inwoners het recht om de gemeente uit te dagen taken die de gemeente uitvoert goedkoper uit te voeren. Dit scheelt de gemeente kosten en geeft ruimte aan inwoners om te ondernemen."
+        },
+        "114575": {
+          "position": "neither",
+          "explanation": "Er moeten duidelijke sluitingstijden zijn voor café's in het uitgaansleven. Er zijn inwoners in de binnenstad die ook hun rust verdienen. Wel vinden wij dat er meer uitgaansgelegenheden tot 4 uur 's nachts open mogen blijven. Dit voorkomt lange rijen en overlast. Jongeren moeten wat te doen hebben!"
+        },
+        "114576": {
+          "position": "neither",
+          "explanation": "Het ligt er aan op welke manier en hoe groot het percentage is wat de gemeente bijdraagt. Wij zijn geen voorstander van enorme windturbines in het landschap, mochten inwoners die willen financieren."
+        },
+        "114578": {
+          "position": "agree",
+          "explanation": "Grootschalige opvang kan zorgen voor grootschalige problemen voor zowel asielzoekers als voor de Goese samenleving. Denk bijvoorbeeld aan overlast en onveilige situaties, maar ook mentale klachten bij asielzoekers. Kleinschalige noodopvang is mogelijk mits inwoners hier akkoord mee gaan. Anders niet"
+        },
+        "114580": {
+          "position": "neither",
+          "explanation": "Nieuw Goes denkt dat het stoken van haarden & houtkachels in buitengebieden gewoon moet kunnen. Als en in een bepaald gebied echt overlast plaatsvind zijn wij voorstander van verboden in bepaalde gebieden."
+        },
+        "114582": {
+          "position": "agree",
+          "explanation": "Met het verbieden van vuurwerk voor particulieren staan wij niet negatief tegenover het organiseren van een vuurwerkshow in Goes of een andere vervanging zoals een lasershow. Wel moet dit betaalbaar zijn en moet er rekening gehouden worden met de locatie om overlast voor dieren te voorkomen"
+        },
+        "114585": {
+          "position": "agree",
+          "explanation": "Met een subsidie voor ondernemers met een kleine beurs zouden wij dit graag mogelijk willen maken. Goes moet voor iedereen toegankelijk zijn!"
+        },
+        "114587": {
+          "position": "agree",
+          "explanation": "Goes ondersteund onze lokale omroep Streekomroep de Bevelanden al. Dit willen wij zo houden om ruimte te geven voor lokaal talent om te ontwikkelen."
+        },
+        "114591": {
+          "position": "agree",
+          "explanation": "Nieuw Goes heeft het voor elkaar gekregen dat het Boa team in Goes groter is geworden. Wij vinden het team nog niet groot genoeg. Er zouden meer Boa's moeten komen om overlast aan te pakken."
+        },
+        "114592": {
+          "position": "disagree",
+          "explanation": "Toezicht met camera's vinden wij geen oplossing. Het schendt de privacy van inwoners. Meer ogen op straat door meer Boa's en politie vinden wij een betere oplossing voor overlast."
+        },
+        "114594": {
+          "position": "agree",
+          "explanation": "Boa's moeten zichzelf kunnen verdedigen als zij belaagd worden door overlastgevers."
+        },
+        "114595": {
+          "position": "agree",
+          "explanation": "Wij vinden het belangrijk dat onze eigen inwoners ten alle tijden in hun eigen omgeving kunnen blijven wonen. Hier hebben ze veel sociale contacten en mogelijk hun werk."
+        },
+        "114597": {
+          "position": "agree",
+          "explanation": "Nieuw Goes is tegenstander van doorverkoop van woningen om winst te behalen. Dit kan je tegengaan door deze maatregel in te voeren. De woningnood in Nederland is groot en moet aangepakt worden."
+        },
+        "114598": {
+          "position": "agree",
+          "explanation": "Het moet mogelijk zijn om op bepaalde locaties leegstaande kantoorpanden om te bouwen."
+        },
+        "114601": {
+          "position": "disagree",
+          "explanation": "Het kwijtschelden van de gemeentelijke belastingen voor inwoners met een laag inkomen zou mogelijk moeten blijven. Anders blijven (financiële) problemen zich opstapelen waardoor er geen oplossing in zicht komt."
+        },
+        "114602": {
+          "position": "agree",
+          "explanation": "Er zou meer trapsgewijs gewerkt moeten worden met de inkomensgrens zodat niet direct alle toeslagen wegvallen als je meer gaat verdienen. Dit zou in schalen afgebouwd moeten worden hoe meer je verdient. Daarbij moet werken lonen!"
+        },
+        "114604": {
+          "position": "neither",
+          "explanation": "Alleen als daar behoefte naar is. Op dit moment lijkt die er niet direct te zijn."
+        },
+        "114605": {
+          "position": "agree",
+          "explanation": "Goes is een compacte stad met veel verkeer."
+        },
+        "114608": {
+          "position": "disagree",
+          "explanation": "Zorg hoort neutraal te zijn in geloof, cultuur of levensovertuiging. Belangrijker is om de tekorten in de zorg aan te pakken. Meer huisartsen en tandartsen in Goes zou een goed begin zijn."
+        },
+        "114609": {
+          "position": "disagree",
+          "explanation": "De verhouding tussen kwaliteit en prijs is belangrijk. Het goedkoopste levert niet altijd wat nodig is voor goede jeugdzorg."
+        },
+        "114610": {
+          "position": "agree",
+          "explanation": "Het moet mogelijk zijn voor mensen die in armoede leven om gratis tampons en maandverband te krijgen."
+        },
+        "114613": {
+          "position": "agree",
+          "explanation": "In Goes is de toeristenbelasting vergeleken met andere Zeeuwse gemeenten laag. Als toeristen hier recreëren maken ze gebruik van onze voorzieningen. Deze worden steeds duurder dus moeten toeristen ook meer gaan betalen."
+        },
+        "114616": {
+          "position": "disagree",
+          "explanation": "Onze eigen inwoners hebben moeite met het zoeken van een woning. Het is belangrijk dat eigen inwoners hier makkelijker een woning kunnen vinden. Hier hebben ze hun vrienden, familie en vaak ook werk. Voorrang van vluchtelingen met een verblijfsvergunning werkt dit tegen."
+        },
+        "114618": {
+          "position": "agree",
+          "explanation": "Er is genoeg ruimte voor zonnepanelen op daken of in bermen en stukken grond die niet geschikt zijn voor landbouw. Het is niet nodig om landbouwgrond op te offeren voor zonnepanelen."
+        },
+        "114619": {
+          "position": "disagree",
+          "explanation": "Gemeente Goes moet kijken of er mogelijkheden zijn om het museum nieuw leven in te blazen. Voor het toerisme is het belangrijk dat wij een volwaardig museum hebben over onze lokale geschiedenis en cultuur."
+        },
+        "114626": {
+          "position": "agree",
+          "explanation": "Betaalbaar parkeren dichtbij het centrum is belangrijk om het winkelbestand in de binnenstad te behouden. Het parkeren is nu erg duur. Het moet mogelijk zijn om dagtarieven in te voeren in gemeente Goes voor het winkelcentrum als mensen een dagje komen winkelen. Het Molenplein zou gratis moeten zijn"
+        },
+        "114628": {
+          "position": "disagree",
+          "explanation": "De locatie langs de deltaweg vinden wij niet geschikt. Het is te dicht bij het Poelbos."
+        },
+        "114629": {
+          "position": "agree",
+          "explanation": "Nieuw Goes ziet nog kansen voor nieuwe woningen in dorpen. Ook willen we graag tussen Goes Oost en Kloetinge 'Mannee-Zuid' ontwikkelen; een nieuwe wijk met veel groen en respect voor het landschap."
+        },
+        "114632": {
+          "position": "agree",
+          "explanation": "Op het gebied van cultuur kan er beter omgegaan worden met geld door vaste instellingen beter te financieren. Daarnaast moet er meer voor jongeren en toeristen zijn."
+        }
+      }
+    },
+    {
+      "id": 114551,
+      "name": "CDA",
+      "fullName": "Christen-Democratisch Appèl",
+      "website": "https://www.cda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "114572": {
+          "position": "disagree",
+          "explanation": "Het CDA Goes kiest voor luisteren en samenwerken met inwoners via gesprekken en participatie. Een referendum versimpelt complexe keuzes en draagt volgens ons niet bij aan goed en zorgvuldig bestuur."
+        },
+        "114573": {
+          "position": "agree",
+          "explanation": "Inwoners weten vaak goed wat werkt in hun wijk. De gemeente moet volgens het CDA Goes ruimte geven aan bewoners om voorzieningen te beheren en initiatieven te nemen, met vertrouwen als uitgangspunt."
+        },
+        "114575": {
+          "position": "disagree",
+          "explanation": "Duidelijke openingstijden zorgen volgens het CDA Goes voor rust, veiligheid en een eerlijk speelveld. Volledig vrije tijden kunnen leiden tot overlast en onduidelijkheid voor bewoners en ondernemers."
+        },
+        "114576": {
+          "position": "disagree",
+          "explanation": "Het CDA Goes stimuleert duurzaamheid, maar dat moet wel betaalbaar blijven voor de gemeente. Financiële steun is bovendien niet altijd passend en voornamelijk een taak van het Rijk."
+        },
+        "114578": {
+          "position": "disagree",
+          "explanation": "Asielopvang vraagt om medemenselijkheid en het nemen van verantwoordelijkheid. Daarom kiest het CDA Goes voor beheersbare asielopvang met aandacht voor veiligheid, draagvlak en goede begeleiding."
+        },
+        "114580": {
+          "position": "agree",
+          "explanation": "Het CDA Goes vindt dat houtstook - binnen de bestaande regels - toegestaan moet blijven. We zetten in op bewust en verantwoord gebruik, niet op een totaalverbod zonder draagvlak."
+        },
+        "114582": {
+          "position": "neither",
+          "explanation": "Vuurwerk kan verbinden, maar hoeft wat het CDA Goes betreft niet altijd door de gemeente te worden georganiseerd. Initiatieven vanuit buurten of verenigingen passen goed bij onze visie."
+        },
+        "114585": {
+          "position": "disagree",
+          "explanation": "Toegankelijkheid vindt het CDA Goes belangrijk, maar dit blijft primair de verantwoordelijkheid van gebouweigenaren. De gemeente kan stimuleren en adviseren, maar wij kiezen niet voor het geven van structurele subsidies."
+        },
+        "114587": {
+          "position": "neither",
+          "explanation": "De lokale omroep is voor het CDA Goes belangrijk, maar structurele financiering is volgens ons vooral een taak van het Rijk. De gemeente blijft wel samenwerken en ondersteunen waar dat kan, zoals bij Streekomroep De Bevelanden al het geval is."
+        },
+        "114591": {
+          "position": "agree",
+          "explanation": "Meer zichtbare handhaving vergroot volgens het CDA Goes veiligheid en vertrouwen. Boa’s zorgen voor naleving van regels en een prettige leefomgeving in wijken en binnenstad."
+        },
+        "114592": {
+          "position": "agree",
+          "explanation": "Cameratoezicht helpt bij het voorkomen van overlast en criminaliteit. Het CDA Goes wil dat de gemeente dit zorgvuldig inzet, met respect voor privacy."
+        },
+        "114594": {
+          "position": "agree",
+          "explanation": "Het CDA Goes vindt dat boa’s hun werk veilig moeten kunnen doen. Passende middelen horen volgens ons bij een stevige aanpak van overlast en criminaliteit."
+        },
+        "114595": {
+          "position": "agree",
+          "explanation": "Mensen die hier wonen of werken moeten volgens het CDA Goes kans maken op een woning in hun eigen gemeente. Binding met Goes telt voor ons!"
+        },
+        "114597": {
+          "position": "agree",
+          "explanation": "Het CDA Goes vindt: huizen zijn om in te wonen, niet om mee te speculeren. Een zelfbewoningsplicht helpt starters en gezinnen aan een betaalbare woning."
+        },
+        "114598": {
+          "position": "disagree",
+          "explanation": "Herbestemming kan helpen, maar subsidies zijn niet altijd nodig. Het CDA Goes wil dat de gemeente waar nodig faciliteert, maar het initiatief wel bij marktpartijen laat."
+        },
+        "114601": {
+          "position": "disagree",
+          "explanation": "Het CDA Goes wil wonen in Goes ook voor inwoners met een laag inkomen betaalbaar houden. Kwijtschelding voorkomt dat mensen met lage inkomens verder in de problemen komen."
+        },
+        "114602": {
+          "position": "disagree",
+          "explanation": "Het CDA Goes kiest voor maatwerk en vroegtijdige hulp. Een algemene verhoging is niet altijd effectief of financieel houdbaar."
+        },
+        "114604": {
+          "position": "agree",
+          "explanation": "Elektrisch rijden groeit. Meer laadpalen zijn wat het CDA Goes betreft nodig om verduurzaming praktisch en toegankelijk te maken."
+        },
+        "114605": {
+          "position": "disagree",
+          "explanation": "Hanteer 30 km/u voor de woonstraten, maar bewaar de 50 km/u op ontsluitingswegen, zoals de Ringbaan en de Oranjeweg. Hiermee voorkomen we sluipverkeer door de wijk. Een goede doorstroming op de hoofdwegen is wat het CDA Goes betreft de beste garantie voor veiligheid en rust in de woongebieden."
+        },
+        "114608": {
+          "position": "agree",
+          "explanation": "Het CDA Goes vindt dat mensen zorg moeten kunnen kiezen die past bij hun geloof, cultuur of overtuiging. Dat leidt tot passende zorg en respect voor de persoon."
+        },
+        "114609": {
+          "position": "neither",
+          "explanation": "Goede zorg staat voor het CDA Goes voorop, met ook oog voor de kosten. We zoeken dus de balans tussen kwaliteit en betaalbaarheid."
+        },
+        "114610": {
+          "position": "disagree",
+          "explanation": "Het CDA Goes wil dat de gemeente mensen met geldzorgen helpt via maatwerk en diverse bestaande regelingen. Dat is effectiever dan algemene verstrekking."
+        },
+        "114613": {
+          "position": "agree",
+          "explanation": "Toeristen maken gebruik van de vele voorzieningen die Goes rijk is. Hen daarvoor een eerlijke bijdrage vragen, helpt volgens het CDA Goes om onze gemeente leefbaar en aantrekkelijk te houden."
+        },
+        "114616": {
+          "position": "disagree",
+          "explanation": "Iedereen telt mee, maar voorrang geven aan vluchtelingen werkt volgens het CDA Goes niet verbindend. Wij kiezen voor een eerlijke verdeling, zonder verdringing van andere groepen woningzoekenden."
+        },
+        "114618": {
+          "position": "agree",
+          "explanation": "Landbouwgrond is nodig voor voedselproductie. Het CDA Goes zet daarom eerst in op zonnepanelen op daken en op slimme combinaties (zoals zonnepanelen bij parkeerplekken)."
+        },
+        "114619": {
+          "position": "disagree",
+          "explanation": "Het museum is belangrijk voor ons erfgoed. Wel vindt het CDA Goes dat vernieuwing nodig is om het museum toekomstbestendig te maken."
+        },
+        "114626": {
+          "position": "agree",
+          "explanation": "Het CDA Goes ziet meer in kwaliteit dan in enkel lage(re) tarieven. Door tariefdifferentiatie en goede parkeerfaciliteiten blijft de stad bereikbaar en gastvrij. Mensen betalen graag voor gemak en veiligheid. Zo investeren we in een vitale binnenstad voor ondernemers en bezoekers."
+        },
+        "114628": {
+          "position": "disagree",
+          "explanation": "Extra hotelkamers kunnen nodig zijn op een andere locatie, maar wat het CDA Goes betreft dus niet op deze plek. Ruimtelijke kwaliteit en omgeving zijn voor ons leidend."
+        },
+        "114629": {
+          "position": "agree",
+          "explanation": "De woningnood vraagt om meer woningen. Naast bouwen in de stad is volgens het CDA Goes ook uitbreiding nodig, met aandacht voor leefbaarheid en voorzieningen."
+        },
+        "114632": {
+          "position": "agree",
+          "explanation": "Cultuur verbindt mensen en maakt de stad aantrekkelijk en levendig. Investeren in cultuur is voor het CDA Goes investeren in leefbaarheid."
+        }
+      }
+    },
+    {
+      "id": 114556,
+      "name": "VVD",
+      "fullName": "Volkspartij voor Vrijheid en Democratie",
+      "website": "https://www.vvd.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "114572": {
+          "position": "disagree",
+          "explanation": "De gemeenteraad is een democratisch gekozen orgaan"
+        },
+        "114573": {
+          "position": "agree",
+          "explanation": "Wij zijn voor Right to Challenge. als de inwoners het aantoonbaar beter kunnen dan zijn wij voor"
+        },
+        "114575": {
+          "position": "agree",
+          "explanation": "Ondernemers moeten kunnen ondernemen. Wij zijn het met deze stelling eens mits er geen overlast is voor de omgeving."
+        },
+        "114576": {
+          "position": "disagree",
+          "explanation": "Ja, faciliteren en stimuleren maar niet direct financieel steunen"
+        },
+        "114578": {
+          "position": "neither",
+          "explanation": "In beperkte mate/ aantallen moeten wij in opvang voorzien. Overlast dient voorkomen/ bestreden te worden."
+        },
+        "114580": {
+          "position": "agree",
+          "explanation": "Overlast bestrijden, verstandig stoken moet kunnen."
+        },
+        "114582": {
+          "position": "disagree",
+          "explanation": "is geen overheidstaak. Laat het over aan bijvoorbeeld een initiatief van een dorp - sport - wijkvereniging."
+        },
+        "114585": {
+          "position": "disagree",
+          "explanation": "Taak van de ondernemer zelf, geen overheidstaak."
+        },
+        "114587": {
+          "position": "agree",
+          "explanation": "Lokale omroepen zijn van groot belang bij onder andere calamiteiten. De gemeente krijgt geld vanuit het rijk voor de lokale omroep. Mocht er extra geld nodig zijn om deze taak omtrent calamiteiten uit te kunnen voeren dan is dit zeker bespreekbaar."
+        },
+        "114591": {
+          "position": "agree",
+          "explanation": "op dit moment is team handhaving betreffende capaciteit op orde, wel kan er gekeken worden naar efficiency en optimalisatie van dit team waarbij de taak veiligheid een belangrijk aspect is."
+        },
+        "114592": {
+          "position": "agree",
+          "explanation": "cameratoezicht zou een dynamisch instrument moeten zijn en dus flexibel inzetbaar op plekken die op dat moment de aandacht vragen."
+        },
+        "114594": {
+          "position": "agree",
+          "explanation": "Op veiligheidsvlak kan dit een toevoeging zijn maar het belangrijkste is dat het team gezag uitstraalt en uitoefent. Als de wapenstok hier een aanvulling op is om dit te versterken dan zijn wij voor."
+        },
+        "114595": {
+          "position": "agree",
+          "explanation": "Als deze woningzoekenden sociaal of economisch gebonden zijn aan de gemeente vinden wij dit een goed voorstel."
+        },
+        "114597": {
+          "position": "disagree",
+          "explanation": "Niet noodzakelijk want hiermee zet je particuliere verhuurder buiten spel. De particuliere verhuurder voorziet daarnaast in woningtypes die de sociale woningcorporaties niet in het assortiment hebben."
+        },
+        "114598": {
+          "position": "disagree",
+          "explanation": "Geen subsidie maar we dienen als gemeente te faciliteren en ondersteunen waar nodig."
+        },
+        "114601": {
+          "position": "disagree",
+          "explanation": "Hier helemaal mee stoppen lijkt niet realistisch. Echter zien wij geen heil in het verder financieel ondersteunen middels kwijtschelding of extra regelingen. Zelfredzaamheid is belangrijk, ook voor de eigenwaarde. Waar echt noodzakelijk, dient de gemeente in te springen."
+        },
+        "114602": {
+          "position": "disagree",
+          "explanation": "Wij hebben een zeer goed armoedebeleid en regelingen in de gemeente Goes. We achten het niet verstandig de inkomensgrens nog verder te verhogen."
+        },
+        "114604": {
+          "position": "disagree",
+          "explanation": "We moeten als gemeente juist extra faciliteren om de voorzieningen van de laadmogelijkheden in de wijk en aan huis te vergroten."
+        },
+        "114605": {
+          "position": "disagree",
+          "explanation": "50km/u binnen de bebouwde kom en in woonwijken 30km/u, is een goed compromis tussen veiligheid en doorstroming."
+        },
+        "114608": {
+          "position": "disagree",
+          "explanation": "Het gaat om de goede zorg die een zorgverlener levert, dit staat los van wie de zorg verleent."
+        },
+        "114609": {
+          "position": "neither",
+          "explanation": "Prijs speelt uiteraard een rol maar de kwaliteit van de jeugdhulp is van essentieel belang. Dus ja, letten op de prijs in combinatie met de kwaliteit."
+        },
+        "114610": {
+          "position": "disagree",
+          "explanation": "de gemeente heeft al zoveel minima regelingen dat wij dit overbodig achten."
+        },
+        "114613": {
+          "position": "disagree",
+          "explanation": "Laten we zuinig zijn op de verblijfsrecreatie en de toerist omdat onze lokale economie daar voor een heel groot deel op drijft."
+        },
+        "114616": {
+          "position": "disagree",
+          "explanation": "Mensen met een verblijfsvergunning zijn gewone burgers met gelijke rechten en dus geen voorkeursbehandeling."
+        },
+        "114618": {
+          "position": "agree",
+          "explanation": "Zolang er ruimte op de daken is landbouwgrond opofferen voor zonnestroom overbodig."
+        },
+        "114619": {
+          "position": "disagree",
+          "explanation": "Doorgaan op de huidige weg lijkt ons weinig zinvol. Echter zijn wij wel van mening dat na een koerswijziging het budget gehandhaafd kan worden."
+        },
+        "114626": {
+          "position": "disagree",
+          "explanation": "Er zou een grotere tariefdifferentiatie moeten komen waarbij verder van het centrum af hoe voordeliger."
+        },
+        "114628": {
+          "position": "agree",
+          "explanation": "Dit hadden we 10 jaar geleden al moeten doen."
+        },
+        "114629": {
+          "position": "agree",
+          "explanation": "Er zijn voldoende mogelijkheden voor extra nieuwbouwwijken waar actie op genomen kan worden."
+        },
+        "114632": {
+          "position": "agree",
+          "explanation": "We willen niet bezuinigen op cultuur maar zetten het geld zo effectief mogelijk in. Van culture instellingen verwachten wij dat ze verantwoording afleggen over hoe zij belastinggeld besteden. We verwachten van culturele instellingen dat ze bedrijfsmatig aan hun zichtbaarheid werken."
+        }
+      }
+    },
+    {
+      "id": 114552,
+      "name": "SGP-ChristenUnie",
+      "fullName": "Staatkundig Gereformeerde Partij-ChristenUnie",
+      "website": "https://www.sgp-cugoes.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "114572": {
+          "position": "disagree",
+          "explanation": "Wij zijn tegen referenda omdat wij vertrouwen hebben in de mensen die wij gekozen hebben om voor ons te beslissen. De gemeenteraad is gekozen door de inwoners om belangrijke keuzes te maken. Referenda kunnen ervoor zorgen dat het moeilijker wordt om goede beslissingen te nemen en zorgen voor onrust."
+        },
+        "114573": {
+          "position": "agree",
+          "explanation": "Wij vinden het belangrijk dat inwoners mee kunnen denken en doen in hun eigen leefomgeving. Als zij het beheer van een sporthal, plantsoen of andere voorzieningen kunnen overnemen, geeft dat meer betrokkenheid en eigenaarschap. Dit versterkt de gemeenschap en zorgt ervoor dat voorzieningen beter aan"
+        },
+        "114575": {
+          "position": "disagree",
+          "explanation": "Wij zijn het er niet mee eens dat cafés en restaurants zelf hun openingstijden mogen bepalen. Vrije openingstijden kunnen leiden tot meer overlast voor omwonenden, zoals lawaai en verstoring van de rust. Daarom vinden wij dat de gemeente regels moet stellen om de leefbaarheid en veiligheid."
+        },
+        "114576": {
+          "position": "agree",
+          "explanation": "Wij vinden het goed dat inwoners die samen duurzame energie willen opwekken, financiële steun krijgen van de gemeente. Die steun moet zo zijn dat het inwoners stimuleert om duurzaam te doen en dat de middelen op termijn weer terugkomen naar de gemeente. Zo investeren we samen."
+        },
+        "114578": {
+          "position": "disagree",
+          "explanation": "Wij zijn het niet eens dat de asielopvang in onze gemeente zo snel mogelijk moet sluiten. Wie echt op de vlucht is en hulp nodig heeft, willen wij helpen. Daarbij besteden wij extra aandacht aan christelijke vluchtelingen die vervolgd worden vanwege hun geloof."
+        },
+        "114580": {
+          "position": "agree",
+          "explanation": "Wij vinden dat het gebruik van open haarden en houtkachels in Goes toegestaan moet blijven. Wel vinden wij dat dit verantwoord moet gebeuren, volgens de stookwijzer, zodat de luchtkwaliteit en gezondheid van inwoners beschermd blijven."
+        },
+        "114582": {
+          "position": "agree",
+          "explanation": "Wij zijn het eens met het organiseren van een vuurwerkshow op oudejaarsavond. Wel zijn liever een algemeen vuurwerkverbod vanwege de overlast, milieu-impact en veiligheid. Daarom steunen wij een vuurwerkvrij Goes."
+        },
+        "114585": {
+          "position": "neither",
+          "explanation": "Wij vinden dat het de verantwoordelijkheid is van ondernemers zelf om hun gebouw toegankelijk te maken voor mensen met een beperking. De gemeente kan hen wel stimuleren en ondersteunen, bijvoorbeeld bij het aanvragen van vergunningen, maar financiële hulp is niet de taak van de gemeente."
+        },
+        "114587": {
+          "position": "disagree",
+          "explanation": "Wij zijn het niet eens met extra financiële ondersteuning van de lokale omroep door de gemeente. De financiering loopt via landelijke middelen en extra gemeentelijke bijdragen zijn daarom niet nodig."
+        },
+        "114591": {
+          "position": "disagree",
+          "explanation": "Wij zijn het niet eens met het vergroten van het aantal gemeentelijke handhavers. De formatie is momenteel op orde en biedt voldoende capaciteit om veiligheid en handhaving te waarborgen."
+        },
+        "114592": {
+          "position": "disagree",
+          "explanation": "Wij zijn het niet eens met het uitbreiden van cameratoezicht in Goes. Op dit moment zijn alle belangrijke plekken al goed in beeld en is het toezicht voldoende om de veiligheid te waarborgen."
+        },
+        "114594": {
+          "position": "disagree",
+          "explanation": "Wij zijn het niet eens met het uitrusten van BOA’s met een wapenstok, wel peperspray. Veiligheid is belangrijk en staat voorop, maar het gebruik van geweldsmiddelen vraagt om zorgvuldigheid. Wij vinden dat BOA’s getraind moeten zijn in de-escalatie en dat het vertrouwen in handhaving centraal staat."
+        },
+        "114595": {
+          "position": "agree",
+          "explanation": "Wij vinden dat woningzoekenden uit de eigen gemeente voorrang moeten krijgen bij de toewijzing van sociale huurwoningen. Zo zorgen we ervoor dat onze eigen inwoners een eerlijke kans krijgen op betaalbare woonruimte dicht bij familie, werk en sociale netwerken."
+        },
+        "114597": {
+          "position": "agree",
+          "explanation": "Wij vinden dat wie een woning in onze gemeente koopt, daar zelf in moet gaan wonen. Dit voorkomt dat woningen worden opgekocht voor verhuur of speculatie, waardoor de woningmarkt eerlijker en toegankelijker blijft voor inwoners."
+        },
+        "114598": {
+          "position": "disagree",
+          "explanation": "Wij zijn het niet eens met het subsidiëren van de ombouw van leegstaande kantoren tot woningen door de gemeente. Dit is een taak voor de markt en moet zonder overheidssteun worden geregeld. Wel kan de overheid in regelgeving en vergunningen meewerken."
+        },
+        "114601": {
+          "position": "disagree",
+          "explanation": "Wij zijn het niet eens met het volledig stoppen van het kwijtschelden van gemeentelijke belastingen voor inwoners met een laag inkomen. Wel vinden wij dat er gezocht moet worden naar duurzame en rechtvaardige oplossingen, zodat mensen die het echt nodig hebben, passende ondersteuning blijven krijgen"
+        },
+        "114602": {
+          "position": "disagree",
+          "explanation": "Wij vinden dat de huidige inkomensgrens voor hulp bij armoede in Goes goed is. In plaats van verhogen, willen wij vooral zoeken naar andere vormen van ondersteuning om mensen in financiële problemen beter te helpen."
+        },
+        "114604": {
+          "position": "disagree",
+          "explanation": "Wij zijn het niet eens met het aanwijzen van meer parkeerplaatsen als oplaadplek voor elektrische auto’s. Het is belangrijk dat dit efficiënt en doelgericht gebeurt, waarbij ook rekening wordt gehouden met de behoeften van bewoners en bedrijven."
+        },
+        "114605": {
+          "position": "disagree",
+          "explanation": "Wij zijn het niet eens met een algemene verlaging van de maximumsnelheid naar 30 km/u binnen de bebouwde kom. Er zijn plekken waar 50 km/u veilig en verantwoord is. Daarom vinden wij dat snelheid per situatie moet worden beoordeeld."
+        },
+        "114608": {
+          "position": "agree",
+          "explanation": "Wij vinden het belangrijk dat mensen die zorg nodig hebben, altijd kunnen kiezen voor een zorgverlener die aansluit bij hun geloof, cultuur of levensovertuiging. Dit zorgt voor respect en vertrouwen in de zorg, wat bijdraagt aan betere ondersteuning en welzijn."
+        },
+        "114609": {
+          "position": "disagree",
+          "explanation": "Wij zijn het niet eens met het idee dat de gemeente vooral op prijs moet letten bij het selecteren van organisaties voor jeugdhulp. Kwaliteit van zorg en een goede aansluiting bij de behoeften van kinderen en gezinnen zijn veel belangrijker dan alleen de kosten."
+        },
+        "114610": {
+          "position": "disagree",
+          "explanation": "Wij zijn het niet eens met het gratis verspreiden van tampons en maandverband door de gemeente. Dit is een verantwoordelijkheid die bij de gebruiker zelf of via andere instanties hoort te liggen."
+        },
+        "114613": {
+          "position": "disagree",
+          "explanation": "Wij zijn het niet eens met een verhoging van de toeristenbelasting. De huidige tarieven zijn passend en verhogen kan de aantrekkelijkheid van Goes als toeristische bestemming verminderen."
+        },
+        "114616": {
+          "position": "disagree",
+          "explanation": "Wij zijn het niet eens met het automatisch geven van voorrang aan vluchtelingen met een verblijfsvergunning bij sociale huurwoningen. De toewijzing moet gebaseerd zijn op urgentie en de daadwerkelijke woonbehoefte van alle woningzoekenden."
+        },
+        "114618": {
+          "position": "agree",
+          "explanation": "Wij vinden dat zonnepanelen op landbouwgrond verboden moeten worden. We geven liever de voorkeur aan plaatsing op daken, zodat waardevolle landbouwgrond behouden blijft voor voedselproductie en natuur."
+        },
+        "114619": {
+          "position": "disagree",
+          "explanation": "Wij zijn het niet eens met het stoppen van de financiële ondersteuning voor het Historisch Museum de Bevelanden. Wel vinden wij dat er gezocht moet worden naar een nieuw en toekomstbestendig concept dat het museum aantrekkelijk en betaalbaar houdt."
+        },
+        "114626": {
+          "position": "neither",
+          "explanation": "Wij kiezen voor geen van beide. De kosten voor betaald parkeren in het centrum moeten zo laag mogelijk worden gehouden, zodat het betaalbaar blijft voor bewoners en bezoekers, zonder dat het ten koste gaat van de bereikbaarheid en leefbaarheid."
+        },
+        "114628": {
+          "position": "agree",
+          "explanation": "Wij zijn het eens dat de gemeente toestemming moet geven voor de bouw van een hoteltoren van 55 meter aan de Deltaweg. Dit past bij de ambities van Goes en draagt bij aan de aantrekkelijkheid en economische ontwikkeling van de gemeente."
+        },
+        "114629": {
+          "position": "disagree",
+          "explanation": "Wij zijn het niet eens met het realiseren van een nieuwbouwwijk buiten Goes. Onze voorkeur gaat uit naar het ontwikkelen van Mannee-Zuid, zodat we gericht investeren in bestaande gebieden en de leefomgeving goed kunnen beheren."
+        },
+        "114632": {
+          "position": "disagree",
+          "explanation": "Wij zijn het niet eens met het idee dat de gemeente meer geld moet steken in cultuur. Er wordt in Goes al veel geïnvesteerd en we vinden dat het huidige niveau goed aansluit bij de behoefte en mogelijkheden."
+        }
+      }
+    },
+    {
+      "id": 114549,
+      "name": "Partij voor Goes",
+      "fullName": "Partij voor Goes",
+      "website": "https://www.partijvoorgoes.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "114572": {
+          "position": "disagree",
+          "explanation": "Enkel een ja of nee geeft geen eerlijk beeld van de problemen die voorliggen."
+        },
+        "114573": {
+          "position": "agree",
+          "explanation": "Ja, via de right to challenge moeten inwoners deze mogelijkheid bijvoorbeeld hebben. Wat ons betreft maken inwoners hier meer gebruik van."
+        },
+        "114575": {
+          "position": "agree",
+          "explanation": "Alleen overlast kan een reden zijn om toch eindtijden op te leggen."
+        },
+        "114576": {
+          "position": "neither",
+          "explanation": "Ze kunnen gebruik maken van bestaande of eventueel nieuwe subsidieregelingen."
+        },
+        "114578": {
+          "position": "disagree",
+          "explanation": "Goes houdt zich aan de landelijke afspraken. Van uitbreiding hiervan is in onze ogen geen sprake. Andere gemeente moeten eerst maar hun verantwoordelijkheid nemen."
+        },
+        "114580": {
+          "position": "neither",
+          "explanation": "Handhaving hiervan is bijzonder moeilijk."
+        },
+        "114582": {
+          "position": "neither",
+          "explanation": "Gezamenlijk met ondernemers verantwoordelijkheid nemen om een gezellige oudejaarsavond te organiseren."
+        },
+        "114585": {
+          "position": "disagree",
+          "explanation": "Ondernemers hebben hier hun eigen verantwoordelijkheid."
+        },
+        "114587": {
+          "position": "disagree",
+          "explanation": "We houden ons aan de wettelijke bijdrage per inwoner."
+        },
+        "114591": {
+          "position": "agree",
+          "explanation": "Als enige partij hebben wij gepleit voor het uitbreiden van het aantal handhavers. Handhaving schiet in onze nog steeds te kort."
+        },
+        "114592": {
+          "position": "agree",
+          "explanation": "Het aantal mobiele camera's moet worden uitgebreid."
+        },
+        "114594": {
+          "position": "agree",
+          "explanation": "Als dit de veiligheid van de BOA's vergroot. Wel dienen zij hiervoor getraind te worden."
+        },
+        "114595": {
+          "position": "agree",
+          "explanation": "Dit is passend voor de huidige woningnood."
+        },
+        "114597": {
+          "position": "disagree",
+          "explanation": "Particuliere verhuur is nodig om aan de behoefte van woningzoekers te voldoen. We willen echter geen leegstand of gebruik als vakantiewoning."
+        },
+        "114598": {
+          "position": "agree",
+          "explanation": "Ombouwen kantoren tot woningen vinden wij een goede zaak. Subsidiëren is lastig, maar wel mogelijk door lagere kosten voor vergunningen en meewerken aan bestemmingsplan wijzigingen."
+        },
+        "114601": {
+          "position": "disagree",
+          "explanation": "Wij komen op voor de mensen die het financieel zwaar hebben."
+        },
+        "114602": {
+          "position": "disagree",
+          "explanation": "We zitten met 130% van het sociaal minimum al op het maximum."
+        },
+        "114604": {
+          "position": "agree",
+          "explanation": "Het aantal elektrische auto's neemt ook toe."
+        },
+        "114605": {
+          "position": "disagree",
+          "explanation": "De hoofdstructuur moet vijftig blijven. 30 kilometerzones kunnen wel uitgebreid worden."
+        },
+        "114608": {
+          "position": "disagree",
+          "explanation": "Er is al voldoende druk op de zorg zonder dit te reguleren."
+        },
+        "114609": {
+          "position": "neither",
+          "explanation": "Een goede afweging tussen prijs en kwaliteit is noodzakelijk. Er moet zorg voor borgcowboys die de jeugdzorg enkel als melkkoe gebruiken zonde kwaliteit te bieden."
+        },
+        "114610": {
+          "position": "agree",
+          "explanation": "Dit maakt naar onze tevredenheid deel uit van bestaand beleid."
+        },
+        "114613": {
+          "position": "agree",
+          "explanation": "Ze maken gebruik van onze infrastructuur en alle andere gemeentelijke faciliteiten."
+        },
+        "114616": {
+          "position": "disagree",
+          "explanation": "Hierin volgen we de regels van de overheid m.b.t. statushouders."
+        },
+        "114618": {
+          "position": "disagree",
+          "explanation": "Onze voorkeur gaat uit optimaal gebruik van gebouwen."
+        },
+        "114619": {
+          "position": "agree",
+          "explanation": "Een verlieslijdend museum niet perse in standhouden. We hebben geleerd van het Tropisch bos."
+        },
+        "114626": {
+          "position": "disagree",
+          "explanation": "De huidige prijzen zijn acceptabel."
+        },
+        "114628": {
+          "position": "agree",
+          "explanation": "De locatie aan de Deltaweg vormt geen bezwaar voor een hoteltoren. Mogelijk is andere locatie binnen de gemeente echter ook een mogelijkheid."
+        },
+        "114629": {
+          "position": "agree",
+          "explanation": "Bouwen, bouwen, bouwen. De vraag is groot."
+        },
+        "114632": {
+          "position": "neither",
+          "explanation": "Het huidige beleid is in onze ogen in orde."
+        }
+      }
+    },
+    {
+      "id": 114553,
+      "name": "D66",
+      "fullName": "D66",
+      "website": "https://d66.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "114572": {
+          "position": "neither",
+          "explanation": "We willen dat inwoners écht invloed hebben, vooral aan de voorkant via burgerberaden en sterke dorps- en wijkraden. Een referendum kan soms helpen, maar is niet altijd de beste oplossing."
+        },
+        "114573": {
+          "position": "agree",
+          "explanation": "Als inwoners of verenigingen iets beter of slimmer kunnen beheren, moeten ze die kans krijgen. De gemeente moet dat mogelijk maken en goed begeleiden."
+        },
+        "114575": {
+          "position": "neither",
+          "explanation": "Ondernemers moeten ruimte krijgen, maar bewoners hebben ook recht op rust. We willen maatwerk: vrijheid waar het kan en duidelijke regels bij overlast."
+        },
+        "114576": {
+          "position": "agree",
+          "explanation": "Initiatieven van inwoners om samen duurzame energie op te wekken verdienen steun. Met kennis, goede regelingen en waar nodig financiële hulp stimuleert de gemeente innovatie om te zorgen dat verduurzamen voor meer mensen bereikbaar wordt."
+        },
+        "114578": {
+          "position": "disagree",
+          "explanation": "Opvang van mensen die moeten vluchten is een gezamenlijke verantwoordelijkheid. Sluiten ‘zo snel mogelijk’ is niet menselijk en schuift het probleem door."
+        },
+        "114580": {
+          "position": "neither",
+          "explanation": "Houtstook zorgt vaak voor ongezonde lucht. We willen overlast en fijnstof verminderen, bijvoorbeeld met filters en door mensen te helpen kiezen voor schonere oplossingen."
+        },
+        "114582": {
+          "position": "agree",
+          "explanation": "Een vuurwerkshow is een mooi en veiliger alternatief voor vuurwerk in de straten en zorgt voor minder overlast, letsel en rommel. Deze stelling sluit aan bij de ingediende motie van D66, PvdA/GroenLinks en het CDA, waarin samen met inwoners wordt gewerkt aan een veiligere en prettigere jaarwisseling"
+        },
+        "114585": {
+          "position": "agree",
+          "explanation": "Iedereen moet winkels en bedrijven kunnen bezoeken. We helpen ondernemers waar mogelijk met advies en (gerichte) steun om toegankelijker te worden."
+        },
+        "114587": {
+          "position": "agree",
+          "explanation": "Ja, lokale journalistiek is belangrijk voor democratie en voor informatie dichtbij huis. Extra steun kan, met duidelijke afspraken over onafhankelijkheid."
+        },
+        "114591": {
+          "position": "agree",
+          "explanation": "Als extra inzet nodig is voor veiligheid en overlast, dan is meer handhaving logisch. We combineren dat altijd met preventie en samenwerken in de wijk."
+        },
+        "114592": {
+          "position": "neither",
+          "explanation": "Camera’s zijn nodig op probleemplekken, maar niet overal. Privacy is belangrijk en er moet altijd goede onderbouwing zijn."
+        },
+        "114594": {
+          "position": "disagree",
+          "explanation": "Boa’s zijn er vooral om zichtbaar, aanspreekbaar en benaderbaar te zijn als gastheer en -vrouw van de stad. Daarom zetten we in op goede opleiding, preventie en samenwerking, en niet op het dragen van een wapenstok."
+        },
+        "114595": {
+          "position": "neither",
+          "explanation": "We willen eerlijk en transparant toewijzen en ruimte houden voor mensen die hier komen werken of studeren. Als het nodig is kunnen we wel sturen bij de toewijzing aan bepaalde doelgroepen."
+        },
+        "114597": {
+          "position": "agree",
+          "explanation": "Een woning is om in te wonen, niet om mee te speculeren. Daarom steunen we maatregelen zoals opkoopbescherming en zelfbewoningsplicht waar dat kan."
+        },
+        "114598": {
+          "position": "neither",
+          "explanation": "Leegstaande kantoren zijn een kans om snel woningen te maken. Soms helpt subsidie, maar vaak werken versoepelde regels en snellere procedures beter."
+        },
+        "114601": {
+          "position": "disagree",
+          "explanation": "We willen mensen met een laag inkomen helpen zodat zij kunnen rondkomen. Kwijtschelding voorkomt dat kleine schulden grote problemen worden, neemt stress weg en verbetert het dagelijks leven. Dat kan de weg vrijmaken om weer volwaardig mee te doen, bijvoorbeeld met vrijwilligerswerk of werk."
+        },
+        "114602": {
+          "position": "agree",
+          "explanation": "We willen armoede en schulden vroeg aanpakken. Door de inkomensgrens te verhogen, zorgen we dat ook mensen die door stijgende kosten in de knel komen, op tijd hulp krijgen."
+        },
+        "114604": {
+          "position": "agree",
+          "explanation": "We willen meer laadpalen in wijken, dorpen en op strategische plekken. Dat maakt elektrisch rijden voor meer mensen mogelijk."
+        },
+        "114605": {
+          "position": "agree",
+          "explanation": "30 km/u in woonwijken maakt straten veiliger voor kinderen en fietsers en zorgt voor minder geluid. Dit willen we uiterlijk in 2028 invoeren."
+        },
+        "114608": {
+          "position": "neither",
+          "explanation": "De zorg moet passen bij de persoon en keuzevrijheid is belangrijk. Tegelijk moeten we het doen met de hulpverleners die er zijn en zorgen we in een inclusieve samenleving samen voor elkaar, zonder dat mensen worden uitgesloten."
+        },
+        "114609": {
+          "position": "disagree",
+          "explanation": "Bij jeugdhulp moet kwaliteit en effect voorop staan, niet alleen de laagste prijs. Goedkoop kan duurkoop zijn."
+        },
+        "114610": {
+          "position": "agree",
+          "explanation": "Menstruatieproducten moeten geen luxe zijn. Gratis beschikbaar stellen helpt vooral jongeren en mensen met weinig geld."
+        },
+        "114613": {
+          "position": "neither",
+          "explanation": "Toerisme vraagt soms extra voorzieningen. Een hogere toeristenbelasting kan, maar alleen als het geld duidelijk teruggaat naar beheer, toiletten en leefbaarheid."
+        },
+        "114616": {
+          "position": "neither",
+          "explanation": "Statushouders moeten snel en menswaardig kunnen wonen, maar we moeten ook eerlijk en transparant blijven naar iedereen op de wachtlijst. We kiezen voor een evenwichtige aanpak en goede spreiding."
+        },
+        "114618": {
+          "position": "disagree",
+          "explanation": "Zonnepanelen op landbouwgrond kunnen soms nodig zijn, maar we willen vooral goed sturen op locatie en kwaliteit. Geen verbod, wel slimme keuzes en landschapsbescherming."
+        },
+        "114619": {
+          "position": "disagree",
+          "explanation": "We willen het Bevelands Museum juist behouden en vernieuwen als interactief verhalenhuis. Dat is goed voor onderwijs, identiteit en de binnenstad."
+        },
+        "114626": {
+          "position": "neither",
+          "explanation": "Parkeren moet eerlijk en begrijpelijk blijven. Soms kan goedkoper, maar we gebruiken tarieven ook om ruimte te verdelen en de binnenstad bereikbaar te houden."
+        },
+        "114628": {
+          "position": "neither",
+          "explanation": "Een hoteltoren is een grote ingreep. Hoogbouw vinden wij passend bij stadsentrees, zoals bij de Zeelandhallen en het foodcourt, maar niet aan de kant van het Poelbos. Of dit kan aan de Deltaweg hangt af van inpassing, verkeer, uitzicht en draagvlak."
+        },
+        "114629": {
+          "position": "agree",
+          "explanation": "Door de grote woningbouwopgave kan bouwen buiten Goes nodig zijn. Dat kan alleen als er tegelijk wordt geïnvesteerd in goede wegen, openbaar vervoer en veilige fietsroutes, en in voorzieningen zoals scholen, cultuur en plekken om elkaar te ontmoeten, want een wijk is meer dan alleen woningen."
+        },
+        "114632": {
+          "position": "agree",
+          "explanation": "We willen dat Goes een culturele hotspot wordt, met ruimte voor makers, evenementen en cultuur in de stad én dorpen. Daar hoort passende financiering bij."
+        }
+      }
+    },
+    {
+      "id": 128807,
+      "name": "BVNL",
+      "fullName": "Belang van Nederland",
+      "website": "https://bvnl.nl/",
+      "hasSeats": false,
+      "participates": true,
+      "positions": {
+        "114572": {
+          "position": "agree",
+          "explanation": "een bindend referendum is een goed middel om direct democratische beslissingen te nemen"
+        },
+        "114573": {
+          "position": "disagree",
+          "explanation": "Platsoenbeheer is typisch iets dat een gemeente voor haar rekening moet nemen"
+        },
+        "114575": {
+          "position": "agree",
+          "explanation": "Hoe meer vrijheid hoe beter. Uiteraard mag het geen overlast opleveren."
+        },
+        "114576": {
+          "position": "disagree",
+          "explanation": "De gemeente moet niet subsidiëren. De markt doet haar werk."
+        },
+        "114578": {
+          "position": "agree",
+          "explanation": "Er moet zowel landelijk als in de gemeente een volledige asielstop komen en de AZC's moeten sluiten"
+        },
+        "114580": {
+          "position": "agree",
+          "explanation": "Mensen moeten zelf kunnen bepalen of ze hout stoken of niet. We moeten stoppen met de klimaatwaanzin."
+        },
+        "114582": {
+          "position": "disagree",
+          "explanation": "Vuurwerk afsteken is een prachtige traditie"
+        },
+        "114585": {
+          "position": "disagree",
+          "explanation": "dat moeten ondernemers zelf doen. Hierin heeft de overheid geen rol."
+        },
+        "114587": {
+          "position": "disagree",
+          "explanation": "Als lokale omroepen niet levensvatbaar zijn dan moeten ze maar verdwijnen."
+        },
+        "114591": {
+          "position": "agree",
+          "explanation": "Veiligheid is belangrijk."
+        },
+        "114592": {
+          "position": "disagree",
+          "explanation": "cameratoezicht leidt tot meer controle door de overheid."
+        },
+        "114594": {
+          "position": "agree",
+          "explanation": "geen probleem"
+        },
+        "114595": {
+          "position": "disagree",
+          "explanation": "strijd met artikel 1 van de grondwet"
+        },
+        "114597": {
+          "position": "disagree",
+          "explanation": "de markt moet haar werk doen. Geen overregulering!"
+        },
+        "114598": {
+          "position": "disagree",
+          "explanation": "Geen subsidie. Wel transformaties makkelijker maken!"
+        },
+        "114601": {
+          "position": "agree",
+          "explanation": "Het kwijtschelden van belastingen leidt tot vergroting van de armoedeval."
+        },
+        "114602": {
+          "position": "disagree",
+          "explanation": "Mensen moeten meer overhouden als ze aan het werk gaan."
+        },
+        "114604": {
+          "position": "disagree",
+          "explanation": "er zijn al genoeg oplaadplekken"
+        },
+        "114605": {
+          "position": "disagree",
+          "explanation": "50 km/uur is al langzaam genoeg"
+        },
+        "114608": {
+          "position": "disagree",
+          "explanation": "Mensen moeten blij zijn dat ze zorg ontvangen."
+        },
+        "114609": {
+          "position": "agree",
+          "explanation": "prijs en kwaliteit moeten goed in de gaten gehouden worden."
+        },
+        "114610": {
+          "position": "disagree",
+          "explanation": "dit kunnen mensen prima zelf kopen"
+        },
+        "114613": {
+          "position": "disagree",
+          "explanation": "De toeristenbelasting moet juist worden afgeschaft"
+        },
+        "114616": {
+          "position": "disagree",
+          "explanation": "Nederland moet stoppen met het opvangen van \"vluchtelingen\"."
+        },
+        "114618": {
+          "position": "agree",
+          "explanation": "Zonnepanelen horen op daken. Niet op landbouwgrond."
+        },
+        "114619": {
+          "position": "agree",
+          "explanation": "Musea moeten hun eigen broek op kunnen houden."
+        },
+        "114626": {
+          "position": "agree",
+          "explanation": "parkeren moet zo goedkoop mogelijk zijn."
+        },
+        "114628": {
+          "position": "agree",
+          "explanation": "Als daar behoefte aan is en er wordt geen belastinggeld aan verspild dan is dat prima."
+        },
+        "114629": {
+          "position": "agree",
+          "explanation": "Als daar behoefte aan is, dan is dat prima."
+        },
+        "114632": {
+          "position": "disagree",
+          "explanation": "Cultuur moet zichzelf bedruipen. Ambtenaren en politici hebben vaak geen enkel idee wat cultuur is en daarmee is het vaak een grote verspilling van belastinggeld."
+        }
+      }
+    }
+  ],
+  "statements": [
+    {
+      "id": 114629,
+      "index": 1,
+      "theme": "Nieuwbouw",
+      "themeId": "nieuwbouw",
+      "title": "Buiten Goes moet een nieuwbouwwijk komen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114585,
+      "index": 2,
+      "theme": "Toegankelijkheid gebouwen",
+      "themeId": "toegankelijkheid-gebouwen",
+      "title": "De gemeente moet ondernemers financieel helpen om hun gebouw toegankelijker te maken voor mensen met een beperking.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114572,
+      "index": 3,
+      "theme": "Referendum",
+      "themeId": "referendum",
+      "title": "De inwoners van Goes moeten over belangrijke onderwerpen hun mening kunnen geven via een referendum.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114575,
+      "index": 4,
+      "theme": "Openingstijden horeca",
+      "themeId": "openingstijden-horeca",
+      "title": "Cafés en restaurants moeten zelf hun openingstijden kunnen bepalen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114587,
+      "index": 5,
+      "theme": "Lokale media",
+      "themeId": "lokale-media",
+      "title": "De gemeente moet de lokale omroep ondersteunen met extra geld.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114573,
+      "index": 6,
+      "theme": "Beheer door burgers",
+      "themeId": "beheer-door-burgers",
+      "title": "Inwoners moeten het beheer van bijvoorbeeld een sporthal of plantsoen kunnen overnemen van de gemeente.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114578,
+      "index": 7,
+      "theme": "Asielzoekerscentrum",
+      "themeId": "asielzoekerscentrum",
+      "title": "De asielopvang in onze gemeente moet zo snel mogelijk sluiten.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114597,
+      "index": 8,
+      "theme": "Zelf bewonen van een koophuis",
+      "themeId": "zelf-bewonen-van-een-koophuis",
+      "title": "Wie een woning in onze gemeente koopt, moet daar zelf in gaan wonen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114576,
+      "index": 9,
+      "theme": "Duurzame energie",
+      "themeId": "duurzame-energie",
+      "title": "Inwoners die samen duurzame energie op willen wekken, moeten financiële steun krijgen van de gemeente.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114580,
+      "index": 10,
+      "theme": "Houtstook",
+      "themeId": "houtstook",
+      "title": "In Goes moet het gebruik van open haarden en houtkachels toegestaan blijven.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114598,
+      "index": 11,
+      "theme": "Kantoren worden woningen",
+      "themeId": "kantoren-worden-woningen",
+      "title": "Leegstaande kantoren moeten met subsidie van de gemeente worden omgebouwd tot woningen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114582,
+      "index": 12,
+      "theme": "Vuurwerk",
+      "themeId": "vuurwerk",
+      "title": "De gemeente moet op oudejaarsavond een vuurwerkshow organiseren.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114628,
+      "index": 13,
+      "theme": "Hoteltoren Deltaweg",
+      "themeId": "hoteltoren-deltaweg",
+      "title": "De gemeente moet toestemming geven voor een hoteltoren (55m) aan de Deltaweg.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114602,
+      "index": 14,
+      "theme": "Armoedebestrijding",
+      "themeId": "armoedebestrijding",
+      "title": "De gemeente moet de inkomensgrens om hulp te krijgen bij armoede verhogen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114591,
+      "index": 15,
+      "theme": "Handhavers",
+      "themeId": "handhavers",
+      "title": "In Goes moeten meer gemeentelijke handhavers (boa’s) komen die zich met veiligheid bezighouden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114608,
+      "index": 16,
+      "theme": "Zorgkeuze",
+      "themeId": "zorgkeuze",
+      "title": "Mensen die zorg nodig hebben, moeten altijd kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of levensovertuiging.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114592,
+      "index": 17,
+      "theme": "Cameratoezicht",
+      "themeId": "cameratoezicht",
+      "title": "In Goes moet meer cameratoezicht komen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114604,
+      "index": 18,
+      "theme": "Elektrische laadpalen",
+      "themeId": "elektrische-laadpalen",
+      "title": "De gemeente moet meer parkeerplaatsen aanwijzen als oplaadplekken voor elektrische auto's.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114595,
+      "index": 19,
+      "theme": "Voorrang huisvesting",
+      "themeId": "voorrang-huisvesting",
+      "title": "Bij de toewijzing van een sociale huurwoning moeten woningzoekenden uit de eigen gemeente voorrang krijgen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114605,
+      "index": 20,
+      "theme": "Snelheid auto's",
+      "themeId": "snelheid-auto-s",
+      "title": "De maximumsnelheid binnen de bebouwde kom moet naar 30 km/u.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114594,
+      "index": 21,
+      "theme": "Wapenstok",
+      "themeId": "wapenstok",
+      "title": "De boa's die in Goes controleren op veiligheid moeten een wapenstok krijgen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114610,
+      "index": 22,
+      "theme": "Gratis menstruatieproducten",
+      "themeId": "gratis-menstruatieproducten",
+      "title": "De gemeente moet gratis tampons en maandverband verspreiden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114601,
+      "index": 23,
+      "theme": "Kwijtschelding stoppen",
+      "themeId": "kwijtschelding-stoppen",
+      "title": "De gemeente moet stoppen met het kwijtschelden van de gemeentelijke belastingen voor inwoners met een laag inkomen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114613,
+      "index": 24,
+      "theme": "Toeristenbelasting",
+      "themeId": "toeristenbelasting",
+      "title": "De toeristenbelasting moet omhoog.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114609,
+      "index": 25,
+      "theme": "Jeugdzorg",
+      "themeId": "jeugdzorg",
+      "title": "De gemeente moet  bij het selecteren van organisaties voor jeugdhulp vooral letten op de prijs.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114616,
+      "index": 26,
+      "theme": "Voorrang voor vluchtelingen",
+      "themeId": "voorrang-voor-vluchtelingen",
+      "title": "De gemeente moet vluchtelingen met een verblijfsvergunning voorrang blijven geven op een sociale huurwoning.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114619,
+      "index": 27,
+      "theme": "Historisch Museum de Bevelanden",
+      "themeId": "historisch-museum-de-bevelanden",
+      "title": "Goes moet Historisch Museum de Bevelanden geen geld meer geven.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114618,
+      "index": 28,
+      "theme": "Zonnepanelen op landbouwgrond",
+      "themeId": "zonnepanelen-op-landbouwgrond",
+      "title": "De gemeente moet zonnepanelen op landbouwgrond verbieden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114626,
+      "index": 29,
+      "theme": "Betaald parkereren goedkoper",
+      "themeId": "betaald-parkereren-goedkoper",
+      "title": "Betaald parkeren in het centrum moet goedkoper worden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 114632,
+      "index": 30,
+      "theme": "Cultuur",
+      "themeId": "cultuur",
+      "title": "De gemeente moet meer geld steken in cultuur.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    }
+  ]
+}

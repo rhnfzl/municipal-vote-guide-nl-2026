@@ -1,0 +1,66 @@
+{
+  "common": {
+    "appName": "Municipal Vote Guide NL 2026",
+    "tagline": "Find your best party match for the 2026 Dutch municipal elections",
+    "language": "Language",
+    "dutch": "Nederlands",
+    "english": "English",
+    "back": "Back",
+    "next": "Next",
+    "skip": "Skip",
+    "close": "Close",
+    "search": "Search",
+    "loading": "Loading..."
+  },
+  "home": {
+    "title": "Which municipality do you vote in?",
+    "subtitle": "Search for your municipality to start the questionnaire",
+    "searchPlaceholder": "Search municipality...",
+    "parties": "parties",
+    "questions": "questions",
+    "startQuestionnaire": "Start Questionnaire",
+    "browseAll": "Browse all municipalities",
+    "electionDate": "Municipal elections: March 18, 2026"
+  },
+  "questionnaire": {
+    "title": "Questionnaire",
+    "questionOf": "Question {current} of {total}",
+    "agree": "Agree",
+    "disagree": "Disagree",
+    "neither": "Neither",
+    "skip": "Skip",
+    "dealbreaker": "Dealbreaker",
+    "dealBreakerTooltip": "Mark as dealbreaker — parties that disagree will be penalized or eliminated",
+    "moreInfo": "More information",
+    "proArguments": "Arguments for",
+    "conArguments": "Arguments against",
+    "viewResults": "View Results",
+    "progress": "{answered} of {total} answered"
+  },
+  "results": {
+    "title": "Your Results",
+    "subtitle": "Party matches for {municipality}",
+    "matchPercentage": "{percentage}% match",
+    "agreed": "Agreed",
+    "disagreed": "Disagreed",
+    "dealBreakerMode": "Dealbreaker mode",
+    "strict": "Strict (eliminate)",
+    "weighted": "Weighted (3x score)",
+    "eliminated": "Eliminated (failed dealbreaker)",
+    "shareResults": "Share Results",
+    "compareParties": "Compare Parties",
+    "startOver": "Start Over",
+    "whyMatch": "Why do I match?",
+    "dealbreakersViolated": "Failed on {count} dealbreaker(s)"
+  },
+  "share": {
+    "title": "Share Your Results",
+    "chooseFormat": "Choose format for your platform",
+    "story": "Story (9:16)",
+    "twitter": "Twitter/X (16:9)",
+    "square": "Square (1:1)",
+    "linkedin": "LinkedIn (1.91:1)",
+    "copyLink": "Copy shareable link",
+    "copied": "Copied!"
+  }
+}

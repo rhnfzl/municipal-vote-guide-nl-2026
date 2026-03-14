@@ -1,0 +1,958 @@
+{
+  "id": "GM0971",
+  "name": "Stein (L.)",
+  "slug": "stein-l",
+  "parties": [
+    {
+      "id": 124103,
+      "name": "DOS",
+      "fullName": "Democratisch Onafhankelijken Stein",
+      "website": "https://dosstein.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "124113": {
+          "position": "disagree",
+          "explanation": "Hoewel het een nobel streven is, vinden wij dat kwaliteit de doorslag moet geven."
+        },
+        "124114": {
+          "position": "agree",
+          "explanation": "DOS is voorstander van uitgebreidere participatie mogelijkheden. Wij zien veel heil in inwoner-panels en vroege informatievoorziening."
+        },
+        "124117": {
+          "position": "disagree",
+          "explanation": "Hoewel we dit soort initiatieven altijd met de \"Ja, tenzij\"-houding tegemoet treden (dat wil zeggen: het moet kunnen, tenzij er zwaarwegende argumenten tegen zijn) kunnen we niet op voorhand bepalen dat alles altijd passend is."
+        },
+        "124118": {
+          "position": "agree",
+          "explanation": "Duurzaamheidssubsidies zijn een belangrijk onderdeel van het halen van de doelstellingen die wij als gemeente hebben."
+        },
+        "124119": {
+          "position": "disagree",
+          "explanation": "Wij toetsen alle initiatieven voor bedrijvigheid aan de daarvoor opgestelde kaders."
+        },
+        "124125": {
+          "position": "agree",
+          "explanation": "Zo kunnen de inwoners toch genieten van vuurwerk, wellicht is het verstandig om de organisatie op te pakken in combinatie met verenigingen/instanties uit de kernen."
+        },
+        "124128": {
+          "position": "agree",
+          "explanation": "Inclusiviteit staat hoog in het vaandel van DOS. Als we middels gerichte subsidies ondernemers en verenigingen kunnen bewegen inclusiever te worden, moeten wij dat niet nalaten."
+        },
+        "124129": {
+          "position": "agree",
+          "explanation": "DOS vindt dat wanneer er voldaan kan worden aan de gestelde voorwaarden en de woonzorgvisie, er gebouwd mag worden op agrarisch gebied."
+        },
+        "124130": {
+          "position": "agree",
+          "explanation": "In ons programma hebben we niet voor niets kortingen op lidmaatschap voor elk nieuw lid voorgesteld. Op deze manier houden we onze inwoners vitaal en onze verenigingen bruisend."
+        },
+        "124132": {
+          "position": "agree",
+          "explanation": "Dit is een speerpunt van DOS. Vanuit het door ons geïnitieerde Integraal Huisvestingsplan Onderwijs, zijn een flink aantal opgaven aangeduid. Deze willen we voortvarend blijven oppakken!"
+        },
+        "124136": {
+          "position": "disagree",
+          "explanation": "We zien de laatste jaren juiste een omgekeerde beweging en juichen die toe. Steeds meer mini-biebjes en schoolbibliotheken waardoor boeken weer dichtbij inwoners zijn. Toegankelijkheid is van groot belang."
+        },
+        "124138": {
+          "position": "agree",
+          "explanation": "DOS is in principe voor meer cameratoezicht op plekken waar geregeld misstanden plaatsvinden. We willen echter wel de stevige nuancering hierbij plaatsen dat wij géén inbreuk willen doen op de privacy van inwoners als dit niet nodig is."
+        },
+        "124139": {
+          "position": "disagree",
+          "explanation": "Blijf van mijn lijf huizen moeten op plekken komen waar men, en dus ook de politiek, er zo weinig mogelijk vanaf weet. Dit om slachtoffers zoveel mogelijk te kunnen beschermen."
+        },
+        "124143": {
+          "position": "agree",
+          "explanation": "Zolang de vakantiewoningen voldoen aan alle wet-en-regelgeving."
+        },
+        "124144": {
+          "position": "disagree",
+          "explanation": "We zijn niet per definitie tegen uitbreiding van de kernen. Zoals we bij Lindenhagen hebben laten zien kan dit op een beperkt aantal plaatsen prima aan de randen van de bestaande kern."
+        },
+        "124145": {
+          "position": "disagree",
+          "explanation": "Hoewel dit een nobel streven is, hebben we in het verleden gemerkt dat het voor de gemeente meer geld kost om dit te verzorgen dan dat het maatschappelijk structureel oplevert."
+        },
+        "124147": {
+          "position": "disagree",
+          "explanation": "Deze grens ligt momenteel, met 130%, al boven het landelijke gemiddelde."
+        },
+        "124149": {
+          "position": "disagree",
+          "explanation": "We hebben beleid hierop en willen dat graag voortzetten. De behoefte is leidend."
+        },
+        "124150": {
+          "position": "agree",
+          "explanation": "Dit is al beleid, de auto is te gast in de wijk."
+        },
+        "124151": {
+          "position": "disagree",
+          "explanation": "Met de tekorten die we ervaren in de zorg-sector, kunnen we ons de luxe van keuzes op basis van religie of cultuur niet veroorloven. Daarnaast gaat de gemeente hier niet over."
+        },
+        "124157": {
+          "position": "agree",
+          "explanation": "Wij blijven voldoen aan de doelstellingen die ons door het Rijk opgelegd worden. Het is daarbij goed dat er middelen zijn om dit te bewerkstelligen"
+        },
+        "124158": {
+          "position": "disagree",
+          "explanation": "Voor het overgrote deel van de afvalstromen vinden wij dit zeker. Er zullen echter altijd stromen zijn die toch een kleine vergoeding behoeven, de vervuiler betaald."
+        },
+        "124159": {
+          "position": "agree",
+          "explanation": "Geen zwarte weides! In ons programma stellen wij voor vooral te kijken naar mogelijkheden op gebouwen."
+        },
+        "124160": {
+          "position": "disagree",
+          "explanation": "Steinerbos is een basisvoorziening en moet door de gemeente dus ook als zodanig ondersteund worden."
+        },
+        "124164": {
+          "position": "disagree",
+          "explanation": "Dit is afhankelijk van de situatie. Als we middels kamerverhuur een pand aantrekkelijk kunnen maken voor een aantal starters met jonge leeftijd, kan dit van meerwaarde voor de gemeente zijn. Wij zijn voorstander van creatieve woningnood-oplossingen."
+        },
+        "124165": {
+          "position": "agree",
+          "explanation": "Als we dorpscentrum mogen interpreteren als ontmoetingsplek, dan sluit dit naadloos aan op wat wij in ons programma hebben staan en waarop ons kernenbeleid gebouwd is."
+        },
+        "124166": {
+          "position": "disagree",
+          "explanation": "Het centrum van Stein is op dit moment vol, wel kan er gekeken worden naar optimalisatie van de parkeergelegenheden."
+        },
+        "124168": {
+          "position": "agree",
+          "explanation": "Wij streven al geruime tijd naar compensatie voor gedupeerden door de veroorzaker van de problemen. Dus Rijkswaterstaat is hiervoor aan zet."
+        },
+        "124170": {
+          "position": "disagree",
+          "explanation": "Er is momenteel, na onderzoek, geen behoefte voor een separate seniorenadviesraad. De adviesraad Sociaal Domein, heeft de belangen van senioren hoog in het vaandel staan."
+        }
+      }
+    },
+    {
+      "id": 124104,
+      "name": "Communiceren Met Burgers",
+      "fullName": "Communiceren Met Burgers",
+      "website": "https://cmbstein.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "124113": {
+          "position": "disagree",
+          "explanation": "CMB stelt geschiktheid en ervaring boven geslacht. Het verplicht gelijk verdelen van mannen en vrouwen kan ertoe leiden dat niet per se de meest gekwalificeerde kandidaten worden benoemd, maar dat geslacht een doorslaggevende factor wordt. Ons college verdient de kwalitatief beste kandidaat."
+        },
+        "124114": {
+          "position": "agree",
+          "explanation": "CMB is groot voorstander van inspraak via referenda. Door onze inwoners rechtstreeks te laten meebeslissen over belangrijke lokale kwesties, heeft het gemeentelijk besluit meer draagvlak en voelen mensen zich meer gehoord."
+        },
+        "124117": {
+          "position": "agree",
+          "explanation": "CMB is voorstander van het behoud van het platteland, werkgelegenheid en een vitale lokale economie. Boerenbedrijven moeten deze ruimte krijgen, mits omwonenden in een vroeg stadium worden geïnformeerd en daadwerkelijk invloed kunnen uitoefenen op de plannen, bijvoorbeeld door inspraakmomenten."
+        },
+        "124118": {
+          "position": "agree",
+          "explanation": "Er zijn plannen voor een warmtenet Zuid-Limburg met restwarmte van Chemelot als bron. Maar wat gebeurt er als juist daar bedrijven stoppen? Er staan de chemische sector veranderingen te wachten. CMB wilt deze ontwikkelingen niet afwachten en investeren in duurzame energie aan huis."
+        },
+        "124119": {
+          "position": "agree",
+          "explanation": "CMB verzet zich tegen de komst van distributiecentra in de gemeente Stein. Met Chemelot, de A2 en de asfaltcentrale in de achtertuin, dragen wij als gemeente meer dan genoeg milieubelastende activiteiten en geur-, licht- en geluidsoverlast voor onze inwoners."
+        },
+        "124125": {
+          "position": "agree",
+          "explanation": "CMB is voor. Vanaf de volgende jaarwisseling zal een landelijk vuurwerkverbod gaan gelden. Oud en nieuw vieren met vuurwerk is een diepgewortelde traditie. Die traditie moet in ere worden gehouden en daarom zal de gemeente zelf het voortouw moeten nemen."
+        },
+        "124128": {
+          "position": "disagree",
+          "explanation": "CMB kiest voor het besteden van gemeenschapsgeld aan openbare (gemeentelijke) gebieden en voorzieningen. Het investeren in toegankelijkheid is onderdeel van goed en toekomstbestendig ondernemerschap en het is niet redelijk om gemeenschapsgeld te gebruiken voor aanpassingen aan particuliere panden."
+        },
+        "124129": {
+          "position": "disagree",
+          "explanation": "CMB is voor inbreiden en niet voor uitbreiden. Woningbouw hoort thuis in de kern en mag niet ten koste gaan van groene grond."
+        },
+        "124130": {
+          "position": "agree",
+          "explanation": "CMB is voor het in stand houden van de deelname van Stein aan het fonds Sport & Cultuur Limburg. Dit fonds ondersteunt o.a. namens de gemeente Stein in het voldoen van contributies voor mensen die leven rond het bestaansminimum"
+        },
+        "124132": {
+          "position": "agree",
+          "explanation": "CMB is voor, maar een door in het oog is dat de werkzaamheden vaak niet binnen de begroting uitgevoerd worden. Pijnlijk is dan ook het smijten met gemeenschapsgeld als het over tijdelijke noodgebouwen voor scholen gaat. CMB staat voor realistischer begroten."
+        },
+        "124136": {
+          "position": "disagree",
+          "explanation": "Elke kern moet sterke voorzieningen hebben op het gebied van sport, cultuur, bibliotheek en buurtkamers. In Stein hebben we één grote bibliotheek van De Domijnen. Dat laat onverlet dat iedere kern een ‘open boekenkast’ kan hebben die de rol van klassieke bibliotheken overneemt."
+        },
+        "124138": {
+          "position": "agree",
+          "explanation": "De aanpak van overlast en criminaliteit vraagt om maatwerk. CMB kiest voor: Gebiedsgerichte aanpak waarin politie, jongerenwerk en gemeente structureel samenwerken en waarbij cameratoezicht niet als middel wordt geschuwd om de pakkans voor daders te vergroten."
+        },
+        "124139": {
+          "position": "disagree",
+          "explanation": "Er zijn opvanglocaties in de regio Westelijke Mijnstreek. Momenteel is er vanuit deze partners geen verzoek om de opvanglocaties uit te breiden in Stein."
+        },
+        "124143": {
+          "position": "agree",
+          "explanation": "Stein kampt met krapte op de woningmarkt. Om dit woningtekort tegen te gaan en leegstand te voorkomen zijn dit soort maatregelen meer dan welkom."
+        },
+        "124144": {
+          "position": "agree",
+          "explanation": "CMB is voor inbreiden, niet voor uitbreiden. Aldus het bouwen van nieuwe woningen of gebouwen binnen de bestaande bebouwde kom, in plaats van uit te breiden naar het buitengebied. Zo behouden we ons waardevolle groen."
+        },
+        "124145": {
+          "position": "agree",
+          "explanation": "CMB pleit voor het introduceren van de tegenprestatie in Stein. Wie een bijstandsuitkering ontvangt van de gemeente zal daarvoor een tegenprestatie moeten doen. Die tegenprestatie bestaat uit onbetaald werk dat nuttig is voor de samenleving."
+        },
+        "124147": {
+          "position": "disagree",
+          "explanation": "De gemeente hoeft de inkomensgrens voor hulp bij armoede niet verder te verhogen, omdat deze al op 120% van het minimuminkomen ligt, wat een ruim vangnet biedt zonder onnodige druk op de gemeentelijke middelen te zetten."
+        },
+        "124149": {
+          "position": "agree",
+          "explanation": "CMB is voor. De gemeente moet meer parkeerplaatsen aanwijzen als oplaadplekken voor elektrische auto’s, om duurzaam vervoer te stimuleren, het gebruik van elektrische voertuigen te vergemakkelijken en bij te dragen aan schonere lucht en een beter klimaat."
+        },
+        "124150": {
+          "position": "disagree",
+          "explanation": "CMB is tegen. De maximumsnelheid binnen de bebouwde kom moet niet overal naar 30 km/u worden verlaagd, omdat dit al op bijna alle wegen geldt en de weinige wegen waar nog 50 km/u is, noodzakelijk zijn voor een vlotte doorstroming van verkeer. Deze wegen zijn ook met 50 km/u verkeersveilig."
+        },
+        "124151": {
+          "position": "disagree",
+          "explanation": "CMB is tegen. Inwoners moeten niet altijd kunnen kiezen voor een zorgverlener op basis van geloof, cultuur of levensovertuiging, omdat de gemeente bij de inzet van gemeenschapsgeld moet letten op kwaliteit en prijs, en niet op persoonlijke overtuigingen."
+        },
+        "124157": {
+          "position": "disagree",
+          "explanation": "CMB is tegen voorrang van statushouders op sociale huurwoningen. Onze eigen inwoners staan op 1."
+        },
+        "124158": {
+          "position": "disagree",
+          "explanation": "CMB schaft de afvalstoffenheffing niet af. Deze is in Stein kostendekkend. Dat betekent dat deze belasting alleen wordt gebruikt om de kosten voor het verwerken van afval te dekken. Wel is CMB voor het 2 tot 4x per jaar gratis wegbrengen van huishoudelijk afval naar het milieupark."
+        },
+        "124159": {
+          "position": "agree",
+          "explanation": "CMB zet in op de energietransitie met draagvlak. Er is geen draagvlak voor zonneplantages, maar wel voor isolatie, zonnepanelen op daken en thuisbatterijen. CMB koerst dan ook op gesubsidieerde zelfverduurzaming, waarbij de gemeente zelf het goede voorbeeld moet geven."
+        },
+        "124160": {
+          "position": "neither",
+          "explanation": "Steinerbos moet blijven, maar de financiële situatie van Steinerbos kan vanwege (ook gemeentelijk) wanbeleid, zo niet verder. CMB pleit voor een fundamenteel andere aanpak: splits het park op in zelfstandige onderdelen, maak het parkgedeelte vrij toegankelijk en zorg voor een duurzame exploitatie"
+        },
+        "124164": {
+          "position": "disagree",
+          "explanation": "De gemeente moet niet verbieden dat verhuurders losse kamers verhuren, omdat dit bijdraagt aan betaalbare woonruimte en flexibiliteit biedt voor studenten, starters en mensen met een kleiner inkomen."
+        },
+        "124165": {
+          "position": "agree",
+          "explanation": "Optimale veiligheid en sterke voorzieningen in elke kern (sport, cultuur, ontmoetingsplekken) zijn belangrijke voorwaarden. Ieder initiatief dat ontmoeting stimuleert en de leefbaarheid vergroot is belangrijk. Ook de dorpscentra moeten in iedere kern blijven of zoals in Meers terugkomen."
+        },
+        "124166": {
+          "position": "agree",
+          "explanation": "CMB koerst voor een andere verkeer- en parkeersituatie (om en na)bij het winkelcentrum/Moutheuvel door het aanbrengen verplichte rijrichting parkeerplaatsen en maximeren van de beschikbaarheid."
+        },
+        "124168": {
+          "position": "disagree",
+          "explanation": "Er hoeft geen extra financiële compensatie te komen voor inwoners van Stein vanwege de sluiting van de brug Urmond, omdat de gemeente al aanzienlijke middelen heeft vrijgemaakt voor noodmaatregelen en verkeersveiligheid. Door toedoen van CMB is dit bedrag nog eens verhoogd naar 2,5 miljoen euro."
+        },
+        "124170": {
+          "position": "agree",
+          "explanation": "Het ouderenbeleid heeft aandacht, ook van de andere partijen. Wat ons betreft dient de kroon op het werk gezet te worden door een ouderen advies raad. Die is er nog steeds niet. Het alternatief is “Senioren zelf aan zet” een initiatief van KBO Limburg dat ook door de Steinse afdeling is omarmd."
+        }
+      }
+    },
+    {
+      "id": 124105,
+      "name": "Steins Belang",
+      "fullName": "Steins Belang",
+      "website": "https://steinsbelang.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "124113": {
+          "position": "agree",
+          "explanation": "Gelijke behandeling van vrouwen en mannen. Ook in het bestuur"
+        },
+        "124114": {
+          "position": "neither",
+          "explanation": "Komende raadsperiode verder uitwerken aan welke voorwaarden dit moet voldoen in het kader van verwachtingen over en weer"
+        },
+        "124117": {
+          "position": "agree",
+          "explanation": "Kleine horeca/camping meerwaarde voor de gemeente en inwoners"
+        },
+        "124118": {
+          "position": "agree",
+          "explanation": "Energietransitie positief ondersteunen"
+        },
+        "124119": {
+          "position": "neither",
+          "explanation": "Moet passen binnen de gemeentegrenzen/ omgevingsfactoren"
+        },
+        "124125": {
+          "position": "disagree",
+          "explanation": "Momenteel Geen gemeentelijke taak"
+        },
+        "124128": {
+          "position": "disagree",
+          "explanation": "Taak van de ondernemer"
+        },
+        "124129": {
+          "position": "agree",
+          "explanation": "Delen van bestaande woningen en toestaan van zorgwoningen"
+        },
+        "124130": {
+          "position": "agree",
+          "explanation": "Doen we al"
+        },
+        "124132": {
+          "position": "agree",
+          "explanation": "Prioriteit in het verkiezingsprogramma"
+        },
+        "124136": {
+          "position": "disagree",
+          "explanation": "Reeds voorzien op scholengemeenschappen"
+        },
+        "124138": {
+          "position": "neither",
+          "explanation": "Alleen daar waar strikt noodzakelijk is"
+        },
+        "124139": {
+          "position": "disagree",
+          "explanation": "Is regionaal reeds geregeld"
+        },
+        "124143": {
+          "position": "neither",
+          "explanation": "Net binnen onze gemeente"
+        },
+        "124144": {
+          "position": "disagree",
+          "explanation": "Moeten juist uitbreiden binnen bestaande regelgeving"
+        },
+        "124145": {
+          "position": "agree",
+          "explanation": "Voor wat hoort wat"
+        },
+        "124147": {
+          "position": "disagree",
+          "explanation": "Is reeds verhoogd en moet bij anders regionaal worden aangepast"
+        },
+        "124149": {
+          "position": "neither",
+          "explanation": "Indien tekort wel."
+        },
+        "124150": {
+          "position": "agree",
+          "explanation": "Is reeds uitgevoerd"
+        },
+        "124151": {
+          "position": "agree",
+          "explanation": "Indien deze zorgverleners beschikbaar zijn"
+        },
+        "124157": {
+          "position": "disagree",
+          "explanation": "Gelijkheidsbeginsel voor iedereen"
+        },
+        "124158": {
+          "position": "agree",
+          "explanation": "Indien het kostendekkend is"
+        },
+        "124159": {
+          "position": "agree",
+          "explanation": "Reeds gemeentelijk beleid"
+        },
+        "124160": {
+          "position": "disagree",
+          "explanation": "Maatschappelijke basisvoorziening binnen onze gemeente"
+        },
+        "124164": {
+          "position": "disagree",
+          "explanation": "Maar binnen de perken van aanvaardbaarheid voor de buurt houden"
+        },
+        "124165": {
+          "position": "agree",
+          "explanation": "Reeds aanwezig"
+        },
+        "124166": {
+          "position": "neither",
+          "explanation": "Voldoende aanwezig"
+        },
+        "124168": {
+          "position": "agree",
+          "explanation": "Wordt reeds uitgevoerd alleen voor de inwoners en verenigingen binnen het gebied van Oud Urmond"
+        },
+        "124170": {
+          "position": "agree",
+          "explanation": "Reeds aanwezig"
+        }
+      }
+    },
+    {
+      "id": 124106,
+      "name": "GroenLinks-PvdA",
+      "fullName": "Groenlinks - Partij van de Arbeid",
+      "website": "https://groenlinkspvda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "124113": {
+          "position": "disagree",
+          "explanation": "Het is goed een evenredige verdeling na te streven maar het gaat om de complementariteit van het college en de juiste man of vrouw op de plek."
+        },
+        "124114": {
+          "position": "disagree",
+          "explanation": "Raadsleden zijn gekozen om namens inwoners besluiten te nemen. Zij wegen belangen af, beschikken over informatie en expertise en maken integrale keuzes binnen wettelijke kaders, waarbij zij via het democratisch proces verantwoording afleggen."
+        },
+        "124117": {
+          "position": "agree",
+          "explanation": "De landbouw moet flink duurzamer worden, maar we willen ook dat boeren geld kunnen verdienen met hun bedrijf. Een winkel met goede producten van eigen land kan daarbij helpen. Een camping kan voor overlast zorgen, dus dit kan alleen in overleg met de omgeving. We willen deze opties mogelijk maken."
+        },
+        "124118": {
+          "position": "agree",
+          "explanation": "Dit is het ideale plaatje: inwoners wekken samen hun eigen groene en betaalbare stroom op met een windmolen of zonnepanelen. Ze gebruiken de stroom op dezelfde plek, dus het net wordt niet belast. Energiecoöperaties zijn een aanwinst voor onze gemeente, die moeten we stimuleren."
+        },
+        "124119": {
+          "position": "agree",
+          "explanation": "In Stein is de ruimte beperkt. Een nieuw distributiecentrum zou niet efficiënt omgaan met de ruimte. Daarnaast verpesten ze het landschap en veel van het werk wordt gedaan door slecht betaalde arbeidsmigranten. Wat ons betreft stoppen we de komst van nog meer distributiecentra."
+        },
+        "124125": {
+          "position": "agree",
+          "explanation": "Het mooiste nieuwjaarsfeest vier je met z'n allen samen, met één grote vuurwerkshow die we als gemeente organiseren. Zo houden we het veilig en kunnen we samen genieten van een gezellige oudjaarsavond."
+        },
+        "124128": {
+          "position": "agree",
+          "explanation": "Toegankelijkheid is voor mensen met een beperking van levensbelang. Maar veel belangrijke plekken zijn nog niet goed toegankelijk, bijvoorbeeld voor iemand met een rolstoel. Ondernemers kunnen zo'n aanpassing vaak niet zomaar betalen. Daarom vinden wij dat de gemeente moet bijspringen."
+        },
+        "124129": {
+          "position": "agree",
+          "explanation": "Er zijn weinig woningen, ook hier in Stein. Een extra woning op het erf kan een goede oplossing zijn. Als extra inkomstenbron of als geschikte plek voor een ouder die niet meer zelfstandig kan wonen. We willen dit graag mogelijk maken voor boeren die dat willen."
+        },
+        "124130": {
+          "position": "agree",
+          "explanation": "Sporten geeft een hoop energie en voldoening. En het houdt je gezond. Maar voor mensen met een bijstandsuitkering is sport vaak te duur. Wat ons betreft zorgt de gemeente dat deze groep gratis bij een sportclub kan."
+        },
+        "124132": {
+          "position": "agree",
+          "explanation": "Bij een goede school hoort een goed gebouw. Het is de verantwoordelijkheid van de gemeente om te zorgen voor schoolgebouwen waar je veilig en prettig kunt leren. Daar geld in steken, is investeren in onze toekomst."
+        },
+        "124136": {
+          "position": "agree",
+          "explanation": "In Stein is al een volwaardige bibliotheek met een volledig bibliotheek aanbod. Wij willen wel dat daarnaast in elke grote kern een uitleenpunt komt."
+        },
+        "124138": {
+          "position": "disagree",
+          "explanation": "Het is heel belangrijk om je veilig te voelen op straat. Maar meer camera's vinden wij niet de juiste oplossing. Je privacy is een groot goed dat niet zomaar mag worden aangetast. Daarom kiezen wij eerder voor meer handhavers op straat, die ook meteen kunnen ingrijpen als er iets misgaat"
+        },
+        "124139": {
+          "position": "disagree",
+          "explanation": "Als je je thuis niet meer veilig voelt, dan moet er een plek zijn waar je altijd naartoe kunt. Echter is Stein daar te klein voor, we steunen wel zo’n gezamenlijk initiatief in de Westelijke Mijnstreek."
+        },
+        "124143": {
+          "position": "disagree",
+          "explanation": "We hebben geen vakantiewoningen in Stein. Maar dat willen we ook niet . Vakantiewoningen zijn geen permanente oplossing voor het woningtekort."
+        },
+        "124144": {
+          "position": "disagree",
+          "explanation": "We willen het groen om onze kernen zo goed mogelijk behouden en beschermen. Maar om het woningtekort aan te pakken, moeten we ook landbouwgrond gebruiken voor woningbouw. Dat is ook een kans om fijne, groene buurten te creëren voor onze inwoners."
+        },
+        "124145": {
+          "position": "disagree",
+          "explanation": "Mensen zitten niet in de bijstand omdat ze geen zin hebben om te werken. Zij hebben behoefte aan een stabiele basis, een betaalbare woning en vertrouwen vanuit de gemeente. Met extra eisen en voorwaarden zorg je juist voor meer onzekerheid. En veroorzaak je nieuwe problemen."
+        },
+        "124147": {
+          "position": "agree",
+          "explanation": "Wij willen de inkomensgrens voor hulp bij armoede verhogen naar 130% van de bijstandsnorm. Er bestaat ook stille armoede, ook in Stein. Daarom willen we de inkomensgrens verhogen naar 130% zodat meer mensen hulp kunnen krijgen van de gemeente."
+        },
+        "124149": {
+          "position": "agree",
+          "explanation": "Er komen steeds meer elektrische auto’s. De gemeente moet dit ook faciliteren."
+        },
+        "124150": {
+          "position": "agree",
+          "explanation": "De cijfers laten heel duidelijk zien: met een lagere maximumsnelheid wordt het verkeer in onze gemeente véél veiliger. Voor fietsende kinderen en ouderen die slecht ter been zijn is dit een wereld van verschil. Bovendien is het stiller op straat en wordt de lucht schoner."
+        },
+        "124151": {
+          "position": "disagree",
+          "explanation": "Er zijn weinig mensen die WMO huishoudelijke hulp kunnen geven. We hebben wel veel mensen die deze zorg nodig hebben. Hierom is niet wenselijk dat mensen hulpverlening kunnen weigeren."
+        },
+        "124157": {
+          "position": "agree",
+          "explanation": "Vluchtelingen met een verblijfsvergunning zijn niet de enige groep mensen die voorrang krijgt op een sociale huurwoning. Het is een van de verschillende kwetsbare groepen die wij moeten ondersteunen en een dak boven het hoofd moeten geven."
+        },
+        "124158": {
+          "position": "agree",
+          "explanation": "Vuilnis op straat is vervelend, onveilig en ongezond. Het is veel beter als mensen hun afval wegbrengen zodat de gemeente het goed kan scheiden en verwerken. Dat levert ons juist schone straten en een gezonde omgeving op. Daarom willen wij de milieustraat in Stein voor particulieren gratis maken."
+        },
+        "124159": {
+          "position": "agree",
+          "explanation": "De ruimte in Stein is beperkt. Het land kan beter gebruikt worden voor woningbouw of natuur."
+        },
+        "124160": {
+          "position": "disagree",
+          "explanation": "Wij willen dat het Steinerbos beschikbaar en betaalbaar blijft voor inwoners. Als enig aandeelhouder heeft de gemeente hierin een faciliterende rol. Omdat de middelen beperkt zijn, kan het op termijn nodig zijn te kijken naar een aangepast businessmodel."
+        },
+        "124164": {
+          "position": "disagree",
+          "explanation": "we hebben te weinig passende woningen, en veel mensen in onze gemeente wonen ruimer dan eigenlijk nodig. Daarom willen wij het makkelijker maken om losse kamers te verhuren, als die maar goed onderhouden zijn en je er een eerlijke huurprijs voor betaalt."
+        },
+        "124165": {
+          "position": "neither",
+          "explanation": "Het is niet mogelijk om in elke kern iets te realiseren."
+        },
+        "124166": {
+          "position": "disagree",
+          "explanation": "Er zijn al heel veel parkeerplaatsen op een kleine ruimte. Er moet meer ruimte komen voor groen in het centrum van Stein, niet nog meer verstening."
+        },
+        "124168": {
+          "position": "neither",
+          "explanation": "Er is een bedrag van 2,5 miljoen euro beschikbaar gesteld door de gehele raad om een oplossing te realiseren voor de brug Urmond. Dit geld is voor de gemeenschap maar niet voor individuele inwoners."
+        },
+        "124170": {
+          "position": "neither",
+          "explanation": "Ouderen in Stein hebben al inspraak via KBO Limburg. Deze organisatie heeft de groep ‘senioren, zelf aan zet’ en ook zijn veel onderwerpen gelinkt aan de adviesraad sociaal domein. De adviesraad heeft plekken open, senioren kunnen aansluiten, en ze kunnen een nieuwe werkgroep senioren starten."
+        }
+      }
+    },
+    {
+      "id": 124107,
+      "name": "VVD",
+      "fullName": "Volkspartij voor Vrijheid en Democratie",
+      "website": "https://www.vvd.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "124113": {
+          "position": "disagree",
+          "explanation": "De VVD Stein stimuleert diversiteit, maar wijst verplichte genderverhoudingen af. Besturen doe je met de beste mensen, niet met opgelegde aantallen."
+        },
+        "124114": {
+          "position": "disagree",
+          "explanation": "Inwoners van Stein moeten zeker invloed hebben op belangrijke onderwerpen, maar niet via bindende of structurele referenda. De VVD Stein kiest voor een sterke gemeenteraad, duidelijke verantwoordelijkheid en serieuze participatie vooraf"
+        },
+        "124117": {
+          "position": "agree",
+          "explanation": "ja, tenzij. De VVD wil boeren de ruimte geven om te ondernemen, maar verzet zich tegen een generiek “altijd toestaan”. Maatwerk en duidelijke spelregels zorgen ervoor dat economische vrijheid niet ten koste gaat van leefbaarheid en rechtsgelijkheid."
+        },
+        "124118": {
+          "position": "disagree",
+          "explanation": "De VVD Stein steunt lokale, duurzame energie-initiatieven, maar vindt dat gemeentelijke financiële steun geen automatisme mag zijn. De gemeente faciliteert waar mogelijk, stimuleert waar nodig, en investeert alleen tijdelijk en doelgericht wanneer dat aantoonbaar in het algemeen belang is."
+        },
+        "124119": {
+          "position": "disagree",
+          "explanation": "De VVD is tegen het ongenuanceerd tegengaan van nieuwe distributiecentra. In plaats daarvan pleit zij voor heldere kaders, ruimtelijke regie en marktwerking, waarbij goede initiatieven ruimte krijgen en slechte plannen worden geweerd."
+        },
+        "124125": {
+          "position": "disagree",
+          "explanation": "De VVD Stein is geen principiële voorstander van een gemeentelijke vuurwerkshow, maar staat pragmatisch open voor maatwerk als dit aantoonbaar bijdraagt aan veiligheid en leefbaarheid, zonder onnodige lasten voor de belastingbetaler en met respect voor individuele vrijheid."
+        },
+        "124128": {
+          "position": "disagree",
+          "explanation": "Toegankelijkheid is belangrijk, maar geen automatische subsidietaak van de gemeente. De VVD kiest voor ondernemerschap, maatwerk en een overheid die ondersteunt waar nodig, maar niet structureel meebetaalt aan private investeringen."
+        },
+        "124129": {
+          "position": "agree",
+          "explanation": "Het moet mogelijk worden voor boeren om zelf huizen te bouwen op hun land, mits dit zorgvuldig gebeurt, binnen gemeentelijke regie en met oog voor leefbaarheid en betaalbaarheid. Zo combineert de VVD het oplossen van de woningnood met ruimte voor ondernemerschap en respect voor eigendom."
+        },
+        "124130": {
+          "position": "disagree",
+          "explanation": "De VVD is tegen het structureel en automatisch betalen van sportclublidmaatschappen. Wel zijn wij voor gerichte, tijdelijke en doelmatige ondersteuning waar dit aantoonbaar bijdraagt aan participatie, gezondheid of kansen voor kinderen, binnen duidelijke kaders."
+        },
+        "124132": {
+          "position": "disagree",
+          "explanation": "De VVD Stein kiest voor kwaliteit boven kwantiteit, gericht investeren waar het echt nodig is, met oog voor betaalbaarheid en verantwoordelijkheid. Dat past bij een overheid die zorgvuldig omgaat met het geld van inwoners. Het door de raad vastgestelde integraal huisvestingsplan is hierbij leidend."
+        },
+        "124136": {
+          "position": "neither",
+          "explanation": "Er is op dit moment maar één bibliotheek in Stein"
+        },
+        "124138": {
+          "position": "agree",
+          "explanation": "Waar cameratoezicht helpt om Stein veiliger te maken, moet het worden ingezet. Waar andere maatregelen effectiever zijn, verdienen die de voorkeur. Veiligheid is een kerntaak van de overheid, maar altijd in balans met vrijheid en verantwoordelijkheid."
+        },
+        "124139": {
+          "position": "agree",
+          "explanation": "De VVD Stein staat pal voor de bescherming van slachtoffers van huishoudelijk geweld. Een blijf-van-mijn-lijf-huis kan in dat kader een noodzakelijke laatste opvangvoorziening zijn voor mensen die acuut gevaar lopen."
+        },
+        "124143": {
+          "position": "agree",
+          "explanation": "De VVD kiest voor orde, rechtszekerheid en economische vitaliteit. Geen generieke legalisering van permanente bewoning in vakantiewoningen, maar pragmatisch maatwerk waar dat aantoonbaar verstandig en noodzakelijk is."
+        },
+        "124144": {
+          "position": "disagree",
+          "explanation": "Woningbouw is geen ideologisch vraagstuk, maar een praktisch probleem dat vraagt om flexibele oplossingen. Dit in het belang van starters, gezinnen en ouderen. Vanuit dat perspectief past het standpunt van VVD bij keuzevrijheid, groei en realisme."
+        },
+        "124145": {
+          "position": "agree",
+          "explanation": "Voor de VVD Stein geldt hierbij: Rechten en plichten dienen in balans te zijn. Activering dient boven passiviteit te gaan. Maatwerk in plaats van one-size-fits-all. Zo blijft de bijstand een solidair vangnet, terwijl iedereen die dat kan ook naar vermogen meedoet."
+        },
+        "124147": {
+          "position": "disagree",
+          "explanation": "De VVD is tegen een automatische verhoging van de inkomensgrens. Waar knelpunten ontstaan, moet de gemeente die gericht oplossen met maatwerk, niet door het vangnet structureel te verbreden. Dat is sociaal én financieel verantwoord."
+        },
+        "124149": {
+          "position": "agree",
+          "explanation": "Meer parkeerplaatsen kunnen worden aangewezen als oplaadplek, mits dit vraaggestuurd gebeurt, de parkeerdruk niet verslechtert en de markt maximaal wordt benut. De VVD kiest voor realisme boven dogma’s en voor slimme groei in plaats van verplichting."
+        },
+        "124150": {
+          "position": "disagree",
+          "explanation": "Verkeersmaatregelen effectief, proportioneel en lokaal maatwerk moeten zijn, geen generieke verboden of verplichtingen zonder duidelijke meerwaarde."
+        },
+        "124151": {
+          "position": "agree",
+          "explanation": "Maximale keuzevrijheid waar dat praktisch en doelmatig kan."
+        },
+        "124157": {
+          "position": "disagree",
+          "explanation": "Woningtoewijzing moet eerlijk, transparant en zoveel mogelijk gebaseerd zijn op objectieve criteria zoals wachttijd en urgentie door medische of sociale omstandigheden. Daarnaast wordt integratie beter bevorderd door maatwerk en spreiding, niet door automatische voorrang op schaarse sociale huur."
+        },
+        "124158": {
+          "position": "disagree",
+          "explanation": "Een (beperkte) financiële prikkel kostenbewust en voorkomt het overmatig of onnodig aanbieden van afval. Gemeenten kunnen zo efficiënter werken en investeren in betere dienstverlening en duurzaamheid, zonder de lokale lasten te verhogen."
+        },
+        "124159": {
+          "position": "disagree",
+          "explanation": "De VVD kiest voor maatwerk door gemeenten: eerst zonnepanelen op daken, infrastructuur en bedrijventerreinen, maar geen ideologisch verbod op landbouwgrond. Lokale afwegingen, met oog voor landschap verdienen de voorkeur boven rigide regelgeving."
+        },
+        "124160": {
+          "position": "disagree",
+          "explanation": "Zwembad Steinerbos vervult een belangrijke maatschappelijke functie. VVD kiest daarom voor een zakelijke en realistische aanpak. Waarbij er wordt gewerkt aan een toekomstbestendige exploitatie met zo min mogelijk structurele subsidie."
+        },
+        "124164": {
+          "position": "disagree",
+          "explanation": "Niet verbieden, maar reguleren waar nodig. De overheid moet randvoorwaarden stellen en handhaven, niet onnodig ingrijpen in de markt of het eigendomsrecht beperken."
+        },
+        "124165": {
+          "position": "disagree",
+          "explanation": "De VVD Stein kiest voor flexibiliteit, realisme en lokale initiatieven. Dorpscentra waar ze werken en gewenst zijn: ja. Een verplicht dorpscentrum voor elk dorp: nee."
+        },
+        "124166": {
+          "position": "agree",
+          "explanation": "Meer parkeerplaatsen kunnen nodig zijn, maar altijd als onderdeel van een bredere visie op een ondernemend, bereikbaar en aantrekkelijk centrum van Stein."
+        },
+        "124168": {
+          "position": "neither",
+          "explanation": "De VVD zegt nee tegen algemene financiële compensatie, maar ja tegen slimme, gerichte oplossingen voor wie aantoonbaar onevenredig wordt geraakt. Bereikbaarheid verbeteren en de brug zo snel mogelijk weer open krijgen, blijft de beste vorm van compensatie."
+        },
+        "124170": {
+          "position": "disagree",
+          "explanation": "Beleid moet integraal tot stand komen en rekening houden met alle inwoners van Stein, jong én oud. De VVD kiest daarom voor efficiënte, laagdrempelige participatie binnen bestaande kaders, in plaats van nieuwe overlegstructuren."
+        }
+      }
+    }
+  ],
+  "statements": [
+    {
+      "id": 124168,
+      "index": 1,
+      "theme": "Brug Urmond",
+      "themeId": "brug-urmond",
+      "title": "Er moet financiële compensatie komen voor de inwoners van Stein vanwege de sluiting van de brug Urmond gedurende 18 maanden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 124113,
+      "index": 2,
+      "theme": "Burgemeester en college",
+      "themeId": "burgemeester-en-college",
+      "title": "In het nieuwe college van burgemeester en wethouders moet het aantal mannen en vrouwen gelijk zijn.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 124117,
+      "index": 3,
+      "theme": "Boerencampings",
+      "themeId": "boerencampings",
+      "title": "De gemeente moet boeren altijd toestaan om bij hun boerenbedrijf bijvoorbeeld een winkel of een camping te openen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 124118,
+      "index": 4,
+      "theme": "Duurzame energie",
+      "themeId": "duurzame-energie",
+      "title": "Inwoners die samen duurzame energie op willen wekken, moeten financiële steun krijgen van de gemeente.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 124138,
+      "index": 5,
+      "theme": "Cameratoezicht",
+      "themeId": "cameratoezicht",
+      "title": "In Stein moet meer cameratoezicht komen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 124129,
+      "index": 6,
+      "theme": "Bouwen op landbouwgrond",
+      "themeId": "bouwen-op-landbouwgrond",
+      "title": "Het moet mogelijk worden voor boeren om zelf huizen te bouwen op hun land.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 124149,
+      "index": 7,
+      "theme": "Elektrische laadpalen",
+      "themeId": "elektrische-laadpalen",
+      "title": "De gemeente moet meer parkeerplaatsen aanwijzen als oplaadplekken voor elektrische auto's.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 124144,
+      "index": 8,
+      "theme": "Woningbouw",
+      "themeId": "woningbouw",
+      "title": "De gemeente moet nieuwbouw buiten de bestaande dorpsgrenzen tegengaan.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 124130,
+      "index": 9,
+      "theme": "Contributie sport",
+      "themeId": "contributie-sport",
+      "title": "De gemeente moet het lidmaatschap van een sportclub betalen voor mensen met een bijstandsuitkering.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 124145,
+      "index": 10,
+      "theme": "Tegenprestatie voor uitkering",
+      "themeId": "tegenprestatie-voor-uitkering",
+      "title": "Mensen die een bijstandsuitkering krijgen, moeten in ruil daarvoor maatschappelijk zinvol werk doen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 124114,
+      "index": 11,
+      "theme": "Referendum",
+      "themeId": "referendum",
+      "title": "De inwoners van Stein moeten over belangrijke onderwerpen hun mening kunnen geven via een referendum.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 124128,
+      "index": 12,
+      "theme": "Toegankelijkheid gebouwen",
+      "themeId": "toegankelijkheid-gebouwen",
+      "title": "De gemeente moet ondernemers financieel helpen om hun gebouw toegankelijker te maken voor mensen met een beperking.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 124125,
+      "index": 13,
+      "theme": "Vuurwerk",
+      "themeId": "vuurwerk",
+      "title": "De gemeente moet op oudejaarsavond een vuurwerkshow organiseren.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 124119,
+      "index": 14,
+      "theme": "Distributiecentra",
+      "themeId": "distributiecentra",
+      "title": "De gemeente moet de vestiging van nieuwe distributiecentra tegengaan.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 124139,
+      "index": 15,
+      "theme": "Geweld tegen vrouwen",
+      "themeId": "geweld-tegen-vrouwen",
+      "title": "In Stein moet een blijf-van-mijn-lijf-huis komen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 124136,
+      "index": 16,
+      "theme": "Bibliotheek",
+      "themeId": "bibliotheek",
+      "title": "Er moet één grotere bibliotheek komen in Stein in plaats van kleinere bibliotheken in ieder dorp.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 124147,
+      "index": 17,
+      "theme": "Armoedebestrijding",
+      "themeId": "armoedebestrijding",
+      "title": "De gemeente moet de inkomensgrens om hulp te krijgen bij armoede verhogen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 124143,
+      "index": 18,
+      "theme": "Vakantiewoningen",
+      "themeId": "vakantiewoningen",
+      "title": "De gemeente moet toestaan dat vakantiewoningen gebruikt worden als vast woonadres.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 124132,
+      "index": 19,
+      "theme": "Verbeteren schoolgebouwen",
+      "themeId": "verbeteren-schoolgebouwen",
+      "title": "De gemeente moet in de komende raadsperiode geld steken in het verbeteren van alle schoolgebouwen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 124166,
+      "index": 20,
+      "theme": "Meer parkeerplaatsen",
+      "themeId": "meer-parkeerplaatsen",
+      "title": "Er moeten meer parkeerplaatsen komen in het centrum van Stein.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 124151,
+      "index": 21,
+      "theme": "Zorgkeuze",
+      "themeId": "zorgkeuze",
+      "title": "Mensen die zorg nodig hebben, moeten altijd kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of levensovertuiging.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 124160,
+      "index": 22,
+      "theme": "Zwembad Steinerbos",
+      "themeId": "zwembad-steinerbos",
+      "title": "De gemeente moet Zwembad Steinerbos geen geld meer geven.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 124150,
+      "index": 23,
+      "theme": "Snelheid auto's",
+      "themeId": "snelheid-auto-s",
+      "title": "De maximumsnelheid binnen de bebouwde kom moet naar 30 km/u.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 124164,
+      "index": 24,
+      "theme": "Verkamering",
+      "themeId": "verkamering",
+      "title": "De gemeente moet verbieden dat verhuurders losse kamers verhuren in plaats van hele huizen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 124158,
+      "index": 25,
+      "theme": "Milieustraat",
+      "themeId": "milieustraat",
+      "title": "Het inleveren van afval bij de milieustraat moet gratis worden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 124165,
+      "index": 26,
+      "theme": "Dorpscentrum",
+      "themeId": "dorpscentrum",
+      "title": "Alle dorpen in de gemeente moeten een eigen dorpscentrum krijgen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 124157,
+      "index": 27,
+      "theme": "Voorrang voor vluchtelingen",
+      "themeId": "voorrang-voor-vluchtelingen",
+      "title": "De gemeente moet vluchtelingen met een verblijfsvergunning voorrang blijven geven op een sociale huurwoning.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 124159,
+      "index": 28,
+      "theme": "Zonnepanelen op landbouwgrond",
+      "themeId": "zonnepanelen-op-landbouwgrond",
+      "title": "De gemeente moet zonnepanelen op landbouwgrond verbieden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 124170,
+      "index": 29,
+      "theme": "Seniorenadviesraad",
+      "themeId": "seniorenadviesraad",
+      "title": "In Stein moet een seniorenadviesraad komen, eventueel samen met andere gemeenten.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    }
+  ]
+}

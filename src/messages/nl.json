@@ -1,0 +1,66 @@
+{
+  "common": {
+    "appName": "Gemeentelijke Stemwijzer NL 2026",
+    "tagline": "Vind jouw beste partijmatch voor de gemeenteraadsverkiezingen 2026",
+    "language": "Taal",
+    "dutch": "Nederlands",
+    "english": "English",
+    "back": "Terug",
+    "next": "Volgende",
+    "skip": "Overslaan",
+    "close": "Sluiten",
+    "search": "Zoeken",
+    "loading": "Laden..."
+  },
+  "home": {
+    "title": "In welke gemeente stem jij?",
+    "subtitle": "Zoek jouw gemeente om de vragenlijst te starten",
+    "searchPlaceholder": "Zoek gemeente...",
+    "parties": "partijen",
+    "questions": "stellingen",
+    "startQuestionnaire": "Start Vragenlijst",
+    "browseAll": "Bekijk alle gemeenten",
+    "electionDate": "Gemeenteraadsverkiezingen: 18 maart 2026"
+  },
+  "questionnaire": {
+    "title": "Vragenlijst",
+    "questionOf": "Stelling {current} van {total}",
+    "agree": "Eens",
+    "disagree": "Oneens",
+    "neither": "Geen van beide",
+    "skip": "Overslaan",
+    "dealbreaker": "Dealbreaker",
+    "dealBreakerTooltip": "Markeer als dealbreaker — partijen die het oneens zijn worden zwaarder bestraft of uitgesloten",
+    "moreInfo": "Meer informatie",
+    "proArguments": "Argumenten voor",
+    "conArguments": "Argumenten tegen",
+    "viewResults": "Bekijk Resultaten",
+    "progress": "{answered} van {total} beantwoord"
+  },
+  "results": {
+    "title": "Jouw Resultaten",
+    "subtitle": "Partijmatches voor {municipality}",
+    "matchPercentage": "{percentage}% match",
+    "agreed": "Eens",
+    "disagreed": "Oneens",
+    "dealBreakerMode": "Dealbreaker modus",
+    "strict": "Streng (uitsluiten)",
+    "weighted": "Gewogen (3x score)",
+    "eliminated": "Uitgesloten (dealbreaker gefaald)",
+    "shareResults": "Deel Resultaten",
+    "compareParties": "Vergelijk Partijen",
+    "startOver": "Opnieuw beginnen",
+    "whyMatch": "Waarom match ik?",
+    "dealbreakersViolated": "Gefaald op {count} dealbreaker(s)"
+  },
+  "share": {
+    "title": "Deel Jouw Resultaten",
+    "chooseFormat": "Kies formaat voor jouw platform",
+    "story": "Story (9:16)",
+    "twitter": "Twitter/X (16:9)",
+    "square": "Vierkant (1:1)",
+    "linkedin": "LinkedIn (1.91:1)",
+    "copyLink": "Kopieer deelbare link",
+    "copied": "Gekopieerd!"
+  }
+}

@@ -1,0 +1,1207 @@
+{
+  "id": "GM0473",
+  "name": "Zandvoort",
+  "slug": "zandvoort",
+  "parties": [
+    {
+      "id": 127559,
+      "name": "Jong Zandvoort",
+      "fullName": "Jong Zandvoort",
+      "website": "https://jongzandvoort.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "127582": {
+          "position": "disagree",
+          "explanation": "Jong Zandvoort vindt dat kwaliteit, competenties en draagvlak leidend moeten zijn bij de samenstelling van het college. Diversiteit is belangrijk, maar een verplichte verdeling op basis van geslacht mag nooit zwaarder wegen dan geschiktheid."
+        },
+        "127583": {
+          "position": "neither",
+          "explanation": "Jong Zandvoort vindt participatie belangrijker dan een referendum. Inwoners moeten vroeg en actief betrokken worden via participatie en klankbordgroepen. Een referendum is vaak te zwart-wit en komt pas aan het eind van het proces."
+        },
+        "127584": {
+          "position": "agree",
+          "explanation": "Jong Zandvoort staat positief tegenover lokaal eigenaarschap. Als inwoners of verenigingen het beheer beter, efficiënter of met meer betrokkenheid kunnen uitvoeren, moet de gemeente dit faciliteren, mits kwaliteit, toegankelijkheid en continuïteit gewaarborgd zijn."
+        },
+        "127587": {
+          "position": "neither",
+          "explanation": "Jong Zandvoort steunt lokale energie-initiatieven, maar financiële steun is niet altijd de juiste oplossing. De gemeente moet vooral faciliteren, belemmeringen wegnemen en inzetten op bewezen effectieve maatregelen, met gerichte ondersteuning waar nodig."
+        },
+        "127595": {
+          "position": "disagree",
+          "explanation": "Jong Zandvoort wil een bruisend Zandvoort. Ondernemers en organisatoren moeten in de zomerperiode de ruimte krijgen om grote artiesten en DJ’s te programmeren. Strengere geluidsnormen maken evenementen onnodig lastig en schaden de aantrekkelijkheid van het dorp."
+        },
+        "127596": {
+          "position": "agree",
+          "explanation": "Jong Zandvoort vindt dat iedereen moet kunnen meedoen. Ondernemers die hun pand toegankelijker maken voor mensen met een beperking leveren een maatschappelijke bijdrage. De gemeente kan dit stimuleren met gerichte financiële ondersteuning of subsidies."
+        },
+        "127598": {
+          "position": "agree",
+          "explanation": "Jong Zandvoort is hier groot voorstander van. Via de ZandvoortPas maken we sport en beweging toegankelijk voor inwoners met een laag inkomen. Sport voorkomt uitsluiting, verbetert gezondheid en versterkt sociale verbondenheid."
+        },
+        "127599": {
+          "position": "agree",
+          "explanation": "Jong Zandvoort vindt lokale media onmisbaar voor informatievoorziening en binding in het dorp. Initiatieven zoals ZFM Zandvoort, Zandvoort Inside en de Zandvoortse Courant verdienen ondersteuning om inwoners goed en onafhankelijk te informeren."
+        },
+        "127601": {
+          "position": "agree",
+          "explanation": "Jong Zandvoort staat hier zeker voor open als hier behoefte aan is. Muziekles draagt bij aan talentontwikkeling en plezier. De gemeente kan dit faciliteren waar vraag is, zonder het verplicht te maken."
+        },
+        "127604": {
+          "position": "agree",
+          "explanation": "Jong Zandvoort wil fors meer boa’s, zeker in de zomerperiode op de boulevard. Met extra bevoegdheden, zoals direct optreden bij overlast en uitchrijven boetes, kunnen zij direct ingrijpen en hebben zij een duidelijke preventieve werking. Overlast, met name door groepen jongeren, moet zichtbaar en consequent worden aangepakt."
+        },
+        "127606": {
+          "position": "neither",
+          "explanation": "Jong Zandvoort vindt dat slachtoffers altijd veilig opgevangen moeten worden. Als blijkt dat er in Zandvoort behoefte is aan een blijf-van-mijn-lijf-huis, is dit bespreekbaar. Daarbij moet gekeken worden naar schaal, veiligheid en regionale samenwerking."
+        },
+        "127607": {
+          "position": "agree",
+          "explanation": "Jong Zandvoort wil starters meer kansen geven op de woningmarkt. Een starterslening kan het verschil maken voor jonge inwoners die in Zandvoort willen blijven wonen, mits deze regeling gericht en financieel verantwoord wordt ingezet."
+        },
+        "127610": {
+          "position": "disagree",
+          "explanation": "Jong Zandvoort wil de woningnood aanpakken met gezond verstand. Nieuwbouw binnen het dorp heeft de voorkeur, maar als dat onvoldoende is, mag bouwen buiten de dorpsgrenzen niet bij voorbaat worden uitgesloten. Wel altijd met respect voor natuur en omgeving."
+        },
+        "127611": {
+          "position": "agree",
+          "explanation": "Jong Zandvoort vindt dat wie kan, ook mee moet doen. Maatschappelijk zinvol werk vergroot eigenwaarde, ritme en betrokkenheid bij het dorp. Dit moet altijd passend zijn bij iemands mogelijkheden, met ruimte voor maatwerk en begeleiding."
+        },
+        "127612": {
+          "position": "disagree",
+          "explanation": "Jong Zandvoort wil inwoners met een laag inkomen blijven ondersteunen. Kwijtschelding van gemeentelijke belastingen voorkomt financiële problemen en schulden. Dit past bij een sociaal en rechtvaardig beleid, met oog voor mensen die het financieel moeilijk hebben."
+        },
+        "127616": {
+          "position": "disagree",
+          "explanation": "Jong Zandvoort wil op dit moment géén aanpassing van de maximumsnelheid binnen de bebouwde kom. De huidige inrichting werkt en verdere verlaging naar 30 km/u is niet nodig. Alleen waar het aantoonbaar onveilig is, kan maatwerk worden toegepast."
+        },
+        "127617": {
+          "position": "disagree",
+          "explanation": "Jong Zandvoort vindt dat goede en toegankelijke zorg voor iedereen voorop staat. Met het huidige tekort aan zorgpersoneel is het niet wenselijk om dit als harde eis te stellen. Waar mogelijk kan rekening worden gehouden met wensen, maar dat mag de beschikbaarheid van zorg niet beperken."
+        },
+        "127620": {
+          "position": "disagree",
+          "explanation": "Jong Zandvoort wil Zandvoort aantrekkelijk en betaalbaar houden voor bezoekers. Een hogere toeristenbelasting maakt verblijven duurder en schaadt ondernemers. Inwoners mogen niet alleen de lasten dragen, maar extra belasting is niet de juiste oplossing."
+        },
+        "127621": {
+          "position": "agree",
+          "explanation": "Jong Zandvoort wil ruimte bieden aan lokale ondernemers en werkgelegenheid behouden in het dorp. Uitbreiding van bedrijventerreinen kan nodig zijn om bedrijven te laten groeien, mits dit zorgvuldig gebeurt en in balans is met leefbaarheid en omgeving."
+        },
+        "127623": {
+          "position": "disagree",
+          "explanation": "Jong Zandvoort vindt dat de schaarse sociale huurwoningen in de eerste plaats bedoeld zijn voor inwoners van Zandvoort. Jongeren uit het dorp moeten altijd voorrang krijgen, zodat zij de kans hebben om hier te blijven wonen en hun toekomst op te bouwen."
+        },
+        "127627": {
+          "position": "agree",
+          "explanation": "Jong Zandvoort vindt het belangrijk dat kinderen opgroeien met kennis van de lokale cultuur en taal. Aandacht voor het Zandvoorts op basisscholen versterkt identiteit, verbondenheid en trots op het dorp."
+        },
+        "127630": {
+          "position": "agree",
+          "explanation": "Jong Zandvoort ziet hoogtebouw als een manier om de woningnood aan te pakken zonder extra ruimte aan te snijden. Hoge woonflats zijn mogelijk op geschikte locaties, mits ze passen in het straatbeeld en bijdragen aan kwaliteit, leefbaarheid en doorstroming."
+        },
+        "127632": {
+          "position": "agree",
+          "explanation": "Jong Zandvoort wil één grote parkeergarage onder het Badhuisplein/Favaugeplein voor strandpubliek en centrumbezoekers. Daarnaast willen we kijken naar slimme parkeeroplossingen in het centrum, zodat woonstraten worden ontlast en bereikbaarheid behouden blijft."
+        },
+        "127634": {
+          "position": "disagree",
+          "explanation": "Jong Zandvoort wil niets veranderen aan de huidige situatie in Bentveld. Er is daar geen structureel parkeerprobleem. Betaald parkeren is onnodig en legt extra lasten bij inwoners, terwijl het geen oplossing biedt voor een probleem dat er niet is."
+        },
+        "127635": {
+          "position": "disagree",
+          "explanation": "Jong Zandvoort is tegen een verlaging naar 30 km/u op deze doorgaande route. Dit is een belangrijke verkeersader voor bereikbaarheid en doorstroming. De huidige snelheid is passend; alleen waar aantoonbaar onveiligheid is, kan maatwerk worden toegepast."
+        },
+        "127637": {
+          "position": "disagree",
+          "explanation": "Jong Zandvoort wil toeristische verhuur juist stimuleren. Verhuur van losse kamers of B&B’s tot 4 bedden in de eigen woning moet het hele jaar mogelijk blijven, waarbij de bewoner zelf aanwezig is. Wel zijn wij tegen toeristische verhuur van volledige woningen (waarbij de bewoner niet aanwezig is), om beleggers te ontmoedigen en woningen voor inwoners te behouden."
+        }
+      }
+    },
+    {
+      "id": 127564,
+      "name": "GroenLinks-PvdA",
+      "fullName": "GroenLinks - Partij van de Arbeid",
+      "website": "https://zandvoort.groenlinks.nl/home",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "127582": {
+          "position": "agree",
+          "explanation": "Het gemeentebestuur hoort een goede afspiegeling te zijn van de mensen die in onze gemeente wonen. Met evenveel mannen als vrouwen, dus. Zodat alle perspectieven vertegenwoordigd zijn, om eerlijke beslissingen te nemen."
+        },
+        "127583": {
+          "position": "agree",
+          "explanation": "Een referendum kan een mooie en eerlijke manier zijn om een besluit te nemen.GL-PvdA wil ook via Burgerberaden samen met de inwoners de belangrijke keuzes maken. Dat gaat verder dan een voor/tegen-stemming. Zo kunnen inwoners ook ideeën aandragen en maken we samen de lokale democratie."
+        },
+        "127584": {
+          "position": "agree",
+          "explanation": "Als je mensen het vertrouwen geeft om samen iets op te bouwen in hun eigen buurt, dan ontstaan er prachtige dingen. Dit moet de gemeente niet tegenhouden maar juist aanmoedigen."
+        },
+        "127587": {
+          "position": "agree",
+          "explanation": "Energie coöperaties zijn een aanwinst voor onze gemeente. Dit hebben we al voorgesteld in de gemeente en is aangenomen."
+        },
+        "127595": {
+          "position": "agree",
+          "explanation": "Gehoorbescherming en gezondheid zijn voor ons het uitgangspunt."
+        },
+        "127596": {
+          "position": "agree",
+          "explanation": "Toegankelijkheid is voor mensen met een beperking van levensbelang. Maar veel belangrijke plekken zijn nog niet goed toegankelijk, bijvoorbeeld voor iemand met een rolstoel. Ondernemers kunnen zo'n aanpassing vaak niet zomaar betalen. Daarom vinden wij dat de gemeente moet bijspringen."
+        },
+        "127598": {
+          "position": "agree",
+          "explanation": "Sporten geeft een hoop energie en voldoening. En het houdt je gezond. Maar voor mensen met een bijstandsuitkering is sport vaak te duur. Wat ons betreft zorgt de gemeente dat deze groep gratis bij een sportclub kan."
+        },
+        "127599": {
+          "position": "agree",
+          "explanation": "Lokale media zijn ontzettend belangrijk om te weten wat er speelt in je eigen omgeving, van de straat tot de gemeenteraad. Wij vinden dat de gemeente hier aan moet blijven bijdragen."
+        },
+        "127601": {
+          "position": "agree",
+          "explanation": "Als kind sta je onder enorme druk, van verslavende sociale media tot prestatiedruk op school. Muziek is de perfecte uitlaatklep. Wij willen dat muziekles niet alleen toegankelijk is voor kinderen met rijke ouders. Zo bieden we ieder kind gelijke kansen."
+        },
+        "127604": {
+          "position": "agree",
+          "explanation": "Zichtbare handhaving zorgt voor veilige buurten. Bijvoorbeeld uitgaanscoaches, openbare toiletten met bemensing in het centrum, publieksbegeleiders bij oversteekplekken naar de boulevard."
+        },
+        "127606": {
+          "position": "agree",
+          "explanation": "Als je je thuis niet meer veilig voelt, dan moet er een plek zijn waar je altijd naartoe kunt. Een blijf-van-mijn-lijf-huis is onmisbaar voor onze gemeente. Die kan ook staan in een dichtbij zijnde andere gemeente."
+        },
+        "127607": {
+          "position": "agree",
+          "explanation": "Gemeente moet rentevrije starterslening tot €30.000 financieren en de randvoorwaarden verbreden."
+        },
+        "127610": {
+          "position": "disagree",
+          "explanation": "We willen het groen om onze woonplaats zo goed mogelijk behouden en beschermen."
+        },
+        "127611": {
+          "position": "disagree",
+          "explanation": "Mensen zitten niet in de bijstand omdat ze geen zin hebben om te werken. Zij hebben behoefte aan een stabiele basis, een betaalbare woning en vertrouwen vanuit de gemeente. Met extra eisen en voorwaarden zorg je juist voor meer onzekerheid. En veroorzaak je nieuwe problemen."
+        },
+        "127612": {
+          "position": "disagree",
+          "explanation": "Als het kwijtschelden van gemeentelijke belastingen stopt, komen de mensen met de laagste inkomens van onze gemeente in grote problemen. Zij kunnen dat geld gewoon niet missen. Wij vinden dat iedereen zijn hoofd boven water moet kunnen houden. Voorkomen van schulden is belangrijker dan incasseren."
+        },
+        "127616": {
+          "position": "agree",
+          "explanation": "De cijfers laten heel duidelijk zien: met een lagere maximumsnelheid wordt het verkeer in onze gemeente véél veiliger. Voor fietsende kinderen en ouderen die slecht ter been zijn is dit een wereld van verschil. Bovendien is het stiller op straat en wordt de lucht schoner."
+        },
+        "127617": {
+          "position": "agree",
+          "explanation": "We vinden dat mensen altijd de vrijheid hebben om te kiezen. "
+        },
+        "127620": {
+          "position": "disagree",
+          "explanation": "Geen belastingverhoging zonder noodzaak. Toeristenbelastingen moet gedeeltelijk gebruikt worden voor gemeentelijke voorzieningen. Beter inzicht in bestedingen is nodig."
+        },
+        "127621": {
+          "position": "agree",
+          "explanation": "Dit zou een optie kunnen om de strandpaviljoens beter te bevoorraden. "
+        },
+        "127623": {
+          "position": "agree",
+          "explanation": "Statushouders hebben een verblijfsvergunning en zijn dus Zandvoortse inwoners. Zij hebben recht op voorrang. Er moeten vooral meer sociale huurwoningen gebouwd worden."
+        },
+        "127627": {
+          "position": "agree",
+          "explanation": "Het Zandvoorts dialect is nagenoeg verdwenen maar beslist onderdeel van onze cultuurhistorie. Het is goed als op scholen aandacht besteed wordt aan onze cultuur historie."
+        },
+        "127630": {
+          "position": "agree",
+          "explanation": "We hebben een enorm woningtekort en er is actie nodig. Hoogbouw of aan de randen van Zandvoort of optoppen flats. Zo maken we goed gebruik van die schaarse, kostbare grond. In alle wijken behalve in Nieuw Noord. Dat is te dichtbebouwd met een te grote hoeveelheid aan sociale woonflats."
+        },
+        "127632": {
+          "position": "agree",
+          "explanation": "Geen uitbreiding parkeren op straat. Maar een ondergrondse parkeergarage Favaugeplein en omgeving Gasthuisplein en Raadhuisplein (icm woningbouw locatie Raadhuis) zorgt voor meer ruimte voor leefbaarheid en groen."
+        },
+        "127634": {
+          "position": "agree",
+          "explanation": "De overlast veroorzaakt door strandbezoekers en verblijfstoeristen moet worden teruggedrongen. Hiervoor is net als in de rest van Zandvoort ook in Bentveld betaald parkeren nodig."
+        },
+        "127635": {
+          "position": "agree",
+          "explanation": "De cijfers laten heel duidelijk zien: met een lagere maximumsnelheid wordt het verkeer in onze gemeente véél veiliger. Bovendien is het stiller op straat en wordt de lucht schoner."
+        },
+        "127637": {
+          "position": "agree",
+          "explanation": "De 120 dagen verhuur van je eigen huis wordt in 2027 teruggebracht naar 30 dagen om woningonttrekking tegen te gaan. Zimmer frei, een kamer verhuren, blijft altijd mogelijk."
+        }
+      }
+    },
+    {
+      "id": 127560,
+      "name": "CDA",
+      "fullName": "Christen-Democratisch Appèl",
+      "website": "https://www.cda.nl/noord-holland/zandvoort/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "127582": {
+          "position": "agree",
+          "explanation": "Wij zijn groot voorstander van zowel vrouwen als mannen in het College en meer in het algemeen meer vrouwen in de politiek. Los van de vraag man/vrouw is de basis voor ons altijd de kwaliteit van de kandidaten en de mogelijkheden die de partijen hebben om de juiste wethouder voor te dragen."
+        },
+        "127583": {
+          "position": "disagree",
+          "explanation": "Een referendum is een middel voor uitzonderlijke vraagstukken. Veel belangrijker voor meer alledaagse onderwerpen is een goed participatiebeleid en inwoners proactief te betrekken bij de besluitvorming over belangrijke onderwerpen dient er draagvlak gecreëerd te worden."
+        },
+        "127584": {
+          "position": "agree",
+          "explanation": "Overheid dient meer te faciliteren dan in uitvoering nemen. Dus sporthal via een stichting of vereniging regelen is een goede ontwikkeling. Buurten kunnen werken aan het versterken van hun eigen wijk door adoptie van b.v. een plantsoen."
+        },
+        "127587": {
+          "position": "agree",
+          "explanation": "Wij zijn voor de mogelijkheid van leningen met gunstig rentepercentage die in termijnen wordt terugbetaald. Zo kunnen veel meer mensen hiervan profiteren, want het is een fonds dat zichzelf telkens weer vult."
+        },
+        "127595": {
+          "position": "disagree",
+          "explanation": "We hebben goede regels. Handhaven vraagt meer aandacht."
+        },
+        "127596": {
+          "position": "disagree",
+          "explanation": "Dat behoort tot de verantwoordelijkheid van ondernemers. Wel dient de gemeente zelf het goede voorbeeld te geven in de openbare ruimte."
+        },
+        "127598": {
+          "position": "agree",
+          "explanation": "Wij hebben sport- en cultuurfonds ingericht waarmee dit is geregeld in Zandvoort."
+        },
+        "127599": {
+          "position": "disagree",
+          "explanation": "EXTRA geld is niet nodig nu, maar wij moeten er wel voor zorgen dat er voldoende geld beschikbaar is voor de lokale omroep."
+        },
+        "127601": {
+          "position": "agree",
+          "explanation": "Wij hebben sport- en cultuurfonds ingericht waarmee dit is geregeld in Zandvoort."
+        },
+        "127604": {
+          "position": "agree",
+          "explanation": "Zeker meer inzetten op integrale handhaving met mogelijkheden voor daadwerkelijk ingrijpen."
+        },
+        "127606": {
+          "position": "disagree",
+          "explanation": "Om het doel van een blijf-van-mijn-lijf-huis te vervullen is fysieke afstand tot daders nodig zolang deze niet zijn veroordeeld en daarvoor is Zandvoort simpelweg te klein. Wij werken in het kader van femicide samen met de regio en is er een actieplan."
+        },
+        "127607": {
+          "position": "agree",
+          "explanation": "Hebben een starterslening en die werkt goed."
+        },
+        "127610": {
+          "position": "neither",
+          "explanation": "Wij hebben op dit moment geen keuze. Wij zijn geheel omringd door Natura 2000-gebieden. De gemeente heeft daarover geen enkele zeggenschap."
+        },
+        "127611": {
+          "position": "agree",
+          "explanation": "Ontvangers van een bijstandsuitkering kiezen er doorgaans niet voor aanspraak te moeten maken op dit hulpmiddel. Afhankelijk van situatie en mogelijkheden van persoon is het wel goed dat men een bijdrage levert aan de samenleving, maar men moet oppassen dit niet als een 'straf' in te richten."
+        },
+        "127612": {
+          "position": "disagree",
+          "explanation": "Wij hebben goede regelingen en het is noodzakelijk dat deze inwoners extra ondersteund worden."
+        },
+        "127616": {
+          "position": "agree",
+          "explanation": "Op vele wegen is dit al regel maar wel dient de doorstroming gewaarborgd te worden."
+        },
+        "127617": {
+          "position": "disagree",
+          "explanation": "Gaat om de kwaliteit van de zorg. antwoord is dus nee."
+        },
+        "127620": {
+          "position": "agree",
+          "explanation": "Doordat de kosten jaarlijks stijgen is indexering gewenst."
+        },
+        "127621": {
+          "position": "disagree",
+          "explanation": "Helaas is er beperkte ruimte, zijn we een toeristen-gemeente en tegelijkertijd ook een woonplaats dus bij beperkt beschikbare ruimte kiezen wij liever voor meer woningen i.p.v. meer bedrijfsruimte."
+        },
+        "127623": {
+          "position": "disagree",
+          "explanation": "Verdelen de schaarste op gepaste wijze. dienen wel rekening te houden met de taakstelling van uit rijksoverheid."
+        },
+        "127627": {
+          "position": "disagree",
+          "explanation": "Er is een Zandvoorts dialect, maar dat wordt wel van ouder op kind overgedragen. Het is geen eigen taal."
+        },
+        "127630": {
+          "position": "disagree",
+          "explanation": "Onze huidige skyline is hoog genoeg. Wij kijken bovendien meer naar kwalitatief goed wonen in plaats van alleen naar kwantiteit."
+        },
+        "127632": {
+          "position": "disagree",
+          "explanation": "Is onvoldoende ruimte voor meer parkeerplaatsen ruimte. Zetten in op parkeren op de terreeinen aan de randen van het dorp."
+        },
+        "127634": {
+          "position": "disagree",
+          "explanation": "Als het nodig is om toeristen die daar parkeren te motiveren om op de centrale parkeerterreinen te parkeren, dan is het invoeren van betaald parkeren in Bentveld daartoe één mogelijk middel, maar dat moet eerst onderzocht worden, tezamen met alternatieve regels."
+        },
+        "127635": {
+          "position": "disagree",
+          "explanation": "De doorgaande route van uit Bloemdaal minimaal 50 Km houden is nodig om doorstroming en reistijds optimaal te houden"
+        },
+        "127637": {
+          "position": "agree",
+          "explanation": "Wordt per 1 januari 2027 ingevoerd."
+        }
+      }
+    },
+    {
+      "id": 127561,
+      "name": "OPZ",
+      "fullName": "Ouderen partij Zandvoort",
+      "website": "https://opzandvoort.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "127582": {
+          "position": "disagree",
+          "explanation": "Kwaliteit en betrouwbaarheid is belangrijker dan de sekse."
+        },
+        "127583": {
+          "position": "agree",
+          "explanation": "Raadgevend referendum past binnen participatie."
+        },
+        "127584": {
+          "position": "disagree",
+          "explanation": "Kleine onderdelen zoals het onderhouden van bijvoorbeeld een plantsoen of het groen rond een boom is prima, een sporthal is te verstrekkend."
+        },
+        "127587": {
+          "position": "disagree",
+          "explanation": "Ze moeten ondersteuning kunnen krijgen van de gemeente, maar niet financieel."
+        },
+        "127595": {
+          "position": "disagree",
+          "explanation": "Dit is al geregeld en tot stand gekomen via participatie met ondernemers en inwoners."
+        },
+        "127596": {
+          "position": "disagree",
+          "explanation": "Dit is geen taak van de gemeente bij particulier eigendom."
+        },
+        "127598": {
+          "position": "agree",
+          "explanation": "Hiervoor hebben we de ZandvoortPas en er zijn mogelijkheden via het sport- en cultuurfonds."
+        },
+        "127599": {
+          "position": "agree",
+          "explanation": "De gemeente ondersteunt de lokale omroep al financieel, maar als er extra nodig is dan kan het. "
+        },
+        "127601": {
+          "position": "disagree",
+          "explanation": "Voor kinderen waarvan de ouders dit financieel niet kunnen opbrengen, zijn er voldoende mogelijkheden om hen te ondersteunen."
+        },
+        "127604": {
+          "position": "agree",
+          "explanation": "Veiligheid en kwaliteit moeten we op 1 zetten. Als we daarom meer BOA's nodig hebben, zijn wij daar voor. Maar laten we eerst kijken of de huidige BOA's de taken niet beter kunnen verdelen. Wijkagenten ook weer terug in de wijk!"
+        },
+        "127606": {
+          "position": "disagree",
+          "explanation": "Dit is een regionale taak. We hebben daar geen ruimte voor. Er staan al jaren Zandvoorters op de wachtlijst voor een woning."
+        },
+        "127607": {
+          "position": "agree",
+          "explanation": "We hebben de starterslening. Wij willen graag dat die alleen voor Zandvoorters wordt ingezet, en niet voor mensen die van buiten komen."
+        },
+        "127610": {
+          "position": "disagree",
+          "explanation": "We zijn voor het bouwen buiten de grenzen. Maar Zandvoort is omgeven door Natura 2000-gebied. Hier mag van rijkswege niet gebouwd worden."
+        },
+        "127611": {
+          "position": "agree",
+          "explanation": "Ze mogen best een bijdrage leveren aan de samenleving, mits ze daar uiteraard toe in staat zijn. Vrijwilligers zijn heel belangrijk en nodig."
+        },
+        "127612": {
+          "position": "disagree",
+          "explanation": "We moeten mensen helpen die het echt nodig hebben."
+        },
+        "127616": {
+          "position": "disagree",
+          "explanation": "In de wijken is 30 km/u prima. De doorgaande wegen moeten 50 km/u blijven, ook voor de aanrijtijden van de hulpdiensten."
+        },
+        "127617": {
+          "position": "disagree",
+          "explanation": "Er zijn onvoldoende zorgverleners. Het kiezen voor iemand die bij je geloof, cultuur of levensovertuiging past is geen recht, maar een voorkeur."
+        },
+        "127620": {
+          "position": "disagree",
+          "explanation": "De toeristenbelasting is al hoog genoeg. Zandvoort moet zichzelf niet uit de markt prijzen."
+        },
+        "127621": {
+          "position": "disagree",
+          "explanation": "Zandvoort heeft behoefte aan woningen."
+        },
+        "127623": {
+          "position": "disagree",
+          "explanation": "Zandvoorters wachten al jaren op een woning. Zij krijgen ook geen voorrang."
+        },
+        "127627": {
+          "position": "disagree",
+          "explanation": "De cultuur en geschiedenis van Zandvoort is belangrijk. Extra aandacht voor het Zandvoorts is niet nodig. "
+        },
+        "127630": {
+          "position": "disagree",
+          "explanation": "Zandvoort moet geen Schalkwijk aan Zee worden. We moeten het dorpse karakter koesteren."
+        },
+        "127632": {
+          "position": "agree",
+          "explanation": "Er verdwijnen teveel parkeerplaatsen bij herinrichting."
+        },
+        "127634": {
+          "position": "neither",
+          "explanation": "We moeten in overleg met de bewoners van Bentveld om te vragen of zij overlast ervaren en welke oplossing zij het beste voor Bentveld vinden."
+        },
+        "127635": {
+          "position": "disagree",
+          "explanation": "Doorgaande wegen moeten 50 km/u blijven, ook vanwege de aanrijtijden van de hulpdiensten."
+        },
+        "127637": {
+          "position": "neither",
+          "explanation": "De leefbaarheid in de wijken is het meest belangrijk. Het verhuren van een heel huis is alleen toegestaan als je er zelf woont. Verhuren van een tweede woning voor de recreatie is verboden. Bed & Breakfast hoort bij Zandvoort. Wij zijn voorstander van een onderzoek naar het aantal dagen verhuur."
+        }
+      }
+    },
+    {
+      "id": 127562,
+      "name": "VVD",
+      "fullName": "Volkspartij voor Vrijheid en Democratie",
+      "website": "https://zandvoort.vvd.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "127582": {
+          "position": "disagree",
+          "explanation": "De VVD is voor diversiteit. Een sterk college bevat daarom een diversiteit aan kennis en expertise."
+        },
+        "127583": {
+          "position": "disagree",
+          "explanation": "Veel vraagstukken zijn complex en kunnen helaas niet met een simpele 'ja' of 'nee' beantwoord worden."
+        },
+        "127584": {
+          "position": "agree",
+          "explanation": "Maatschappelijke participatie en betrokkenheid vindt de Zandvoortse VVD belangrijk. Inwoners die de handen uit de mouwen willen steken, moeten die mogelijkheid krijgen."
+        },
+        "127587": {
+          "position": "disagree",
+          "explanation": "De gemeente staat positief tegenover een energiecoöperatie. De Zandvoortse VVD vindt dat de gemeente enkel moet faciliteren en niet moet financieren bij dergelijke initiatieven."
+        },
+        "127595": {
+          "position": "disagree",
+          "explanation": "De normen voor festivals en feesten zijn recentelijk in 2025 aangepast bij het vaststellen van het evenementenbeleid van Zandvoort. De Zandvoortse VVD ziet geen noodzaak om nu wijzigingen aan te brengen in de geluidnormen."
+        },
+        "127596": {
+          "position": "disagree",
+          "explanation": "De Zandvoortse VVD vindt dat ondernemers zelf beslissen hoe zij ondernemen. Toegankelijkheid voor alle klanten is vanzelfsprekend."
+        },
+        "127598": {
+          "position": "disagree",
+          "explanation": "De gemeente ondersteunt momenteel minima door de sportlessen van kinderen te betalen en er zijn regelingen met de Zandvoortpas. We zien geen noodzaak om dit uit te breiden."
+        },
+        "127599": {
+          "position": "disagree",
+          "explanation": "De Zandvoortse VVD is voor het ondersteunen van de lokale omroep. Op dit moment zien wij geen noodzaak om extra geld te besteden."
+        },
+        "127601": {
+          "position": "disagree",
+          "explanation": "De gemeente heeft op dit moment voldoende programma's om kinderen te ondersteunen als dat nodig is."
+        },
+        "127604": {
+          "position": "agree",
+          "explanation": "De Zandvoortse VVD is groot voorstander van een veilig Zandvoort. Dit betekent voldoende zichtbare handhaving op straat."
+        },
+        "127606": {
+          "position": "disagree",
+          "explanation": "Gemeente Zandvoort is te klein om deze faciliteiten op een juist niveau aan te kunnen bieden. We hebben daarom afspraken gemaakt met Haarlem."
+        },
+        "127607": {
+          "position": "agree",
+          "explanation": "De Zandvoortse VVD helpt graag alle inwoners om een woning te verkrijgen."
+        },
+        "127610": {
+          "position": "agree",
+          "explanation": "De bestaande dorpsgrenzen bestaan uit het duingebied (Natura2000). De Zandvoortse VVD is geen voorstander om het duingebied te gaan bebouwen."
+        },
+        "127611": {
+          "position": "agree",
+          "explanation": "De Zandvoortse VVD vindt het belangrijk dat iedereen meedoet. Dit is goed voor de eigenwaarde van haar inwoners."
+        },
+        "127612": {
+          "position": "agree",
+          "explanation": "De Zandvoortse VVD vindt dat iedereen die gebruik maakt van diensten, zoals het ophalen van afval, hier ook voor moet betalen zoals iedereen."
+        },
+        "127616": {
+          "position": "disagree",
+          "explanation": "De veiligheid moet voorop staan bij de snelheidskeuze van een weg. Wegen als de Van Lennepweg en de boulevard zijn niet geschikt voor 30 km/uur."
+        },
+        "127617": {
+          "position": "disagree",
+          "explanation": "Zorg die geleverd wordt moet passen bij de problemen en klachten van inwoners. De Zandvoortse VVD vindt niet dat andere criteria een rol moeten spelen bij de keuze van de beste zorg."
+        },
+        "127620": {
+          "position": "disagree",
+          "explanation": "De huidige toeristenbelasting is al enkele jaren niet verhoogd met de inflatie. De extra inkomsten vanuit de toeristenbelasting wil de Zandvoortse VVD gebruiken om de leefbaarheid in Zandvoort te vergroten en de kosten van de afvalstoffenheffing eerlijker te verdelen."
+        },
+        "127621": {
+          "position": "agree",
+          "explanation": "De Zandvoortse VVD is voorstander om bedrijven de ruimte te geven. We zien ook mogelijkheden om het bedrijventerrein in Nieuw-Noord uit te breiden langs het spoor."
+        },
+        "127623": {
+          "position": "disagree",
+          "explanation": "De Zandvoortse VVD is van mening dat Zandvoortse inwoners voorrang moeten krijgen op sociale huurwoningen."
+        },
+        "127627": {
+          "position": "agree",
+          "explanation": "De Zandvoortse VVD vindt het belangrijk dat alle kinderen leren over de omgeving waarin ze opgroeien. De Zandvoortse cultuur hoort daar ook bij."
+        },
+        "127630": {
+          "position": "disagree",
+          "explanation": "De Zandvoortse VVD vindt torenflats niet passend bij de karakter van het dorp."
+        },
+        "127632": {
+          "position": "agree",
+          "explanation": "De Zandvoortse VVD ziet graag een uitbreiding van het aantal (ondergrondse) parkeerplaatsen."
+        },
+        "127634": {
+          "position": "disagree",
+          "explanation": "De Zandvoortse VVD ziet geen aanleiding om betaald parkeren in te voeren in Bentveld."
+        },
+        "127635": {
+          "position": "disagree",
+          "explanation": "De Zandvoortse VVD wil de maximale snelheid van 60 km/uur op Boulevard Barnaart behouden."
+        },
+        "127637": {
+          "position": "agree",
+          "explanation": "De Zandvoortse VVD vindt dat de verhuur van de gehele woning beperkt moet worden tot maximaal 30 dagen. Zimmer Frei en B&B's moeten jaarrond mogelijk zijn."
+        }
+      }
+    },
+    {
+      "id": 127563,
+      "name": "PVV",
+      "fullName": "Partij voor de Vrijheid",
+      "website": "https://www.pvv.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "127582": {
+          "position": "disagree",
+          "explanation": "Gelijke kansen zijn belangrijk, maar verplichte quota niet. Het college moet worden samengesteld op basis van kwaliteit, geschiktheid en draagvlak. Dat moet altijd leidend zijn.\r\n\r\n "
+        },
+        "127583": {
+          "position": "agree",
+          "explanation": "Bij belangrijke besluiten over de toekomst van Zandvoort moeten inwoners hun stem kunnen laten horen. Participatie begint bij direct betrokkenen en kan trapsgewijs worden uitgebreid. Een referendum kan een helder democratisch instrument zijn bij grote en ingrijpende keuzes."
+        },
+        "127584": {
+          "position": "neither",
+          "explanation": "De gemeente moet inwoners ruimte geven om mee te denken en mee te doen. Maar publieke voorzieningen zoals een sporthal zijn geen experiment. De verantwoordelijkheid blijft bij de gemeente. Initiatief stimuleren ja, afschuiven van taken nee."
+        },
+        "127587": {
+          "position": "disagree",
+          "explanation": "Duurzaamheid is belangrijk, maar niet tegen elke prijs. De gemeente moet inwoners niet laten opdraaien voor financiële risico’s van energieprojecten. Ondersteunen waar nodig kan, maar geen blanco cheques."
+        },
+        "127595": {
+          "position": "disagree",
+          "explanation": "Zandvoort is een badplaats waar evenementen bij horen. De geluidsnormen zijn recent vastgesteld. Belangrijk is dat deze goed worden gehandhaafd. Nog strengere regels zijn niet nodig, duidelijke afspraken en naleving wel."
+        },
+        "127596": {
+          "position": "disagree",
+          "explanation": "Iedereen moet kunnen meedoen. Het toegankelijk maken van een gebouw is in eerste instantie de verantwoordelijkheid van de ondernemer. Tegelijk heeft de gemeente een duidelijke verantwoordelijkheid voor haar eigen gebouwen en de openbare ruimte. De gemeente moet het goede voorbeeld geven."
+        },
+        "127598": {
+          "position": "agree",
+          "explanation": "Sport is geen luxe, maar helpt mensen mee te doen in de samenleving. Ook inwoners met een bijstandsuitkering moeten kunnen sporten. Juist kinderen uit sociaal zwakkere gezinnen mogen niet buitenspel staan. Ondersteuning moet doelgericht en verantwoord zijn, zonder open-eindregeling.\r\n\r\n "
+        },
+        "127599": {
+          "position": "disagree",
+          "explanation": "Vrije en onafhankelijke lokale media zijn essentieel. Die rol erkennen wij volledig. Extra subsidie zonder duidelijke noodzaak is onverstandig. Steun waar nodig, maar geen blanco cheque. Media mogen niet afhankelijk worden van gemeentelijke financiële inzet"
+        },
+        "127601": {
+          "position": "disagree",
+          "explanation": "Muziekonderwijs is waardevol, maar een algemene subsidie voor iedereen is geen kerntaak van de gemeente. Ondersteuning moet gericht zijn op gezinnen die het echt nodig hebben. Gemeentelijke middelen moeten prioriteit krijgen bij veiligheid, zorg en wonen.\r\n\r\n "
+        },
+        "127604": {
+          "position": "agree",
+          "explanation": "Zichtbare handhaving is essentieel voor veiligheid en leefbaarheid. Wij willen structureel meer boa’s, zodat sneller kan worden opgetreden tegen overlast en regels beter worden nageleefd, het hele jaar door. Handhaven is nodig, maar bekeuren is geen doel op zich. Veiligheid en orde wel."
+        },
+        "127606": {
+          "position": "disagree",
+          "explanation": "Slachtoffers van huiselijk geweld moeten altijd direct veilig terecht kunnen. Dat staat voorop. In een kleine gemeente als Zandvoort is een eigen opvanglocatie niet altijd de veiligste oplossing. Daarom kiezen wij voor sterke regionale samenwerking met gespecialiseerde opvang en professionele begeleiding.\r\n\r\n "
+        },
+        "127607": {
+          "position": "neither",
+          "explanation": "Een starterslening klinkt aantrekkelijk, maar het maakt huizen niet goedkoper, het maakt schulden hoger. Wij kiezen voor échte oplossingen: sneller bouwen, betaalbare woningen en minder regels. Dáár help je starters echt mee."
+        },
+        "127610": {
+          "position": "disagree",
+          "explanation": "Woningnood vraagt om realisme, geen blokkades. Eerst bouwen binnen het dorp, maar niets bij voorbaat uitsluiten zolang natuur en wetgeving worden gerespecteerd. Daarbij moeten we de grenzen van de mogelijkheden zoeken en benutten. Zandvoorters hebben recht op perspectief op een woning."
+        },
+        "127611": {
+          "position": "agree",
+          "explanation": "Een uitkering is een vangnet, geen eindstation. Wie kan bijdragen, moet dat ook doen via maatschappelijk zinvol werk. Voor mensen die echt niet kunnen, geldt maatwerk. Meedoen moet de norm zijn."
+        },
+        "127612": {
+          "position": "neither",
+          "explanation": "Mensen die het echt nodig hebben, moeten geholpen worden. Tegelijk moet kwijtschelding geen automatisme zijn. Wij kiezen voor maatwerk: steun waar nodig en beleid dat werken en extra inkomen niet ontmoedigt."
+        },
+        "127616": {
+          "position": "disagree",
+          "explanation": "Een algemene verlaging naar 30 km/u in de hele bebouwde kom vinden wij niet verstandig. Veiligheid vraagt om maatwerk. In woonwijken kan 30 km/u logisch zijn, maar hoofdwegen en toegangswegen tot Zandvoort moeten goed bereikbaar en doorstromend blijven."
+        },
+        "127617": {
+          "position": "disagree",
+          "explanation": "Zorg moet draaien om kwaliteit, beschikbaarheid en toegankelijkheid. Extra eisen op basis van geloof of levensovertuiging mogen de toegang tot zorg niet beperken. Iedereen, en zeker kwetsbare gezinnen en kinderen, moet tijdig de juiste hulp kunnen krijgen."
+        },
+        "127620": {
+          "position": "disagree",
+          "explanation": "Toerisme is belangrijk voor Zandvoort en levert veel werkgelegenheid op. De toeristenbelasting is al op niveau en verdere verhoging kan onze concurrentiepositie schaden ten opzichte van het buitenland. De BTW op verblijf is al van 9% naar 21% gegaan."
+        },
+        "127621": {
+          "position": "disagree",
+          "explanation": "Zandvoort heeft schaarse ruimte. Die moet eerst worden ingezet voor woningen voor eigen inwoners en voor leefkwaliteit. Ondernemers zijn belangrijk, maar uitbreiding van bedrijventerreinen is nu geen prioriteit. Eerst bestaande locaties slimmer inrichten en beter verkavelen, bijvoorbeeld rond de gemeentelijke remise."
+        },
+        "127623": {
+          "position": "disagree",
+          "explanation": "Zandvoorters staan al jaren in de rij voor een sociale huurwoning. Extra voorrang voor één groep van buitenaf vergroot de druk op een toch al overspannen woningmarkt. Woningen zijn er om inwoners perspectief te geven, niet om nieuwe ongelijkheid en daarmee onrust in de samenleving te creëren."
+        },
+        "127627": {
+          "position": "disagree",
+          "explanation": "Trots op ons dorp? Zeker. Maar onderwijs moet geen politiek instrument worden. Scholen bepalen zelf hun lesinhoud. Aandacht voor lokale cultuur mag, maar de gemeente moet dit niet oplegge"
+        },
+        "127630": {
+          "position": "neither",
+          "explanation": "Wij zijn niet voor of tegen hoogbouw als principe. Woningbouw is nodig, maar moet passen bij de omgeving en het dorpskarakter. Slimme verdichting kan, bijvoorbeeld bij herstructurering in Nieuw Noord, mits zorgvuldig en passend.  Sneller bouwen, minder regels."
+        },
+        "127632": {
+          "position": "agree",
+          "explanation": "Een bereikbaar centrum is essentieel voor inwoners en ondernemers. Extra parkeerplaatsen, slim en verantwoord (half)ondergronds gerealiseerd, kunnen woonstraten ontlasten en zorgen voor een goede balans tussen bereikbaarheid en leefbaarheid.\r\n\r\n "
+        },
+        "127634": {
+          "position": "disagree",
+          "explanation": "Betaald parkeren mag geen automatisme worden. Als er overlast is, moet die gericht worden aangepakt. Extra lasten voor inwoners invoeren zonder duidelijke noodzaak is geen oplossing."
+        },
+        "127635": {
+          "position": "disagree",
+          "explanation": "30 km/u hoort in woonstraten, niet op een belangrijke verkeersader. Wij kiezen voor veilige oplossingen waar nodig, maar houden de kustroute bereikbaar voor inwoners, bezoekers en hulpdiensten."
+        },
+        "127637": {
+          "position": "disagree",
+          "explanation": "Wij zijn tegen een algemene 30-dagenbeperking. Particuliere verhuur is voor veel inwoners een legitieme inkomstenbron en Zandvoort is mede groot geworden door individuele verhuur. Overlast moet worden aangepakt met gerichte handhaving, niet met een collectieve maatregel voor iedereen. Vrijheid waar het kan, optreden waar het moet.\r\n\r\n "
+        }
+      }
+    },
+    {
+      "id": 127565,
+      "name": "D66",
+      "fullName": "D66",
+      "website": "https://d66.nl/zandvoort/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "127582": {
+          "position": "agree",
+          "explanation": "Waar mogelijk, uiteraard gaat D66 gewoon voor kwaliteit."
+        },
+        "127583": {
+          "position": "agree",
+          "explanation": "D66 heeft ook al een wetsvoorstel geschreven om te zorgen dat onderwerpen, welke belangrijk worden geacht door inwoners, verplicht te laten bespreken tijdens de raad."
+        },
+        "127584": {
+          "position": "agree",
+          "explanation": "Indien het de overheid niet lukt of inwoners het simpelweg beter kunnen."
+        },
+        "127587": {
+          "position": "agree",
+          "explanation": "D66 heeft door ook motie voor ingediend, welke is aangenomen, om energiecoöperaties zoveel mogelijk te ondersteunen."
+        },
+        "127595": {
+          "position": "disagree",
+          "explanation": "In Zandvoort is er al goede handhaving op geluidsnormen. Er is recent een nieuw voorstel vastgesteld in 2025."
+        },
+        "127596": {
+          "position": "disagree",
+          "explanation": "Ondernemers kunnen dat prima zelf."
+        },
+        "127598": {
+          "position": "agree",
+          "explanation": "D66 vindt dat mensen zoveel mogelijk bewegen. Dat helpt preventief en zorgt voor een goede mindset. Daarnaast biedt het mogelijkheden tot gelijke kansen en contact. Dat contact kan zorgen voor banen."
+        },
+        "127599": {
+          "position": "agree",
+          "explanation": "Waar nodig om te zorgen dat de inwoners van Zandvoort ook het lokale nieuws blijven ontvangen."
+        },
+        "127601": {
+          "position": "agree",
+          "explanation": "Kinderen kunnen hiermee nieuwe talenten ontwikkelen waarvan ze niet wisten dat het er was."
+        },
+        "127604": {
+          "position": "neither",
+          "explanation": "Meer Boa's helpt niet per definitie aan meer veiligheid. Wel slim inzetten van BOA's maar ook preventief aan de slag helpt veiligheid in de hand."
+        },
+        "127606": {
+          "position": "neither",
+          "explanation": "Dit laat D66 graag aan de experts over."
+        },
+        "127607": {
+          "position": "agree",
+          "explanation": "Dit heeft D66 ook gerealiseerd in Zandvoort."
+        },
+        "127610": {
+          "position": "disagree",
+          "explanation": "D66 vindt dat er gekeken moet worden naar brede oplossingen voor de krapte op de woningmarkt."
+        },
+        "127611": {
+          "position": "agree",
+          "explanation": "Dit is al bij wet geregeld."
+        },
+        "127612": {
+          "position": "disagree",
+          "explanation": "Kwijtschelden kan heel goed werken om iedereen een fatsoenlijk bestaan te geven. Daarnaast moet de gemeente meer aan de slag met preventie en inwoners goed voorlichten m.b.t. het nemen van leningen en hoe om te gaan met geld. Veel problematiek heeft andere oorzaken."
+        },
+        "127616": {
+          "position": "agree",
+          "explanation": "Dit zorgt voor minder druk, minder geluid, minder uitstoot en veiligheid. Dit allemaal om Zandvoort leefbaar te houden voor zijn inwoners."
+        },
+        "127617": {
+          "position": "agree",
+          "explanation": "Dit hoort ook bij een inclusieve samenleving. Wel moet het aanbod er zijn. Is dat er niet dan moet men dit aanbod wel accepteren."
+        },
+        "127620": {
+          "position": "disagree",
+          "explanation": "De belasting is op dit moment al voldoende verhoogd."
+        },
+        "127621": {
+          "position": "neither",
+          "explanation": "Op dit moment heeft de gemeenteraad gekozen voor een gemend bedrijventerrein, wonen en werken. Er is simpelweg weinig ruimte meer om verder uit te breiden."
+        },
+        "127623": {
+          "position": "agree",
+          "explanation": "Dit is ook per wet geregeld. Dezelfde rechten zijn dan ook van toepassing voor elke Nederlander."
+        },
+        "127627": {
+          "position": "agree",
+          "explanation": "Het is goed om te weten wat er vroeger in Zandvoort was. Uitleg en geschiedenis maakt het dorp bekender."
+        },
+        "127630": {
+          "position": "agree",
+          "explanation": "D66 denkt dat bouwen veelal in de hoogte moet. Wel passend binnen omgevingsplan en ruimtelijke uitstraling."
+        },
+        "127632": {
+          "position": "neither",
+          "explanation": "De vraag is of dit kan en moet. D66 denkt dat door slimme inrichting er meer groen kan komen en het aantal parkeerplaatsen niet hoeven af te nemen. Daarnaast zijn er mogelijkheden tot het uitbreiden van parkeergarages."
+        },
+        "127634": {
+          "position": "agree",
+          "explanation": "D66 heeft dit altijd aangegeven. Parkeerdruk werkt als een olievlek. Men beweegt zich meer naar de gratis opties."
+        },
+        "127635": {
+          "position": "agree",
+          "explanation": "Dit zorgt voor minder druk, minder geluid, minder uitstoot en veiligheid. Dit allemaal om Zandvoort leefbaar te houden voor zijn inwoners."
+        },
+        "127637": {
+          "position": "disagree",
+          "explanation": "D66 wil een minimale hoeveelheid van 60 dagen en een goede en adequate handhaving hierop."
+        }
+      }
+    },
+    {
+      "id": 127566,
+      "name": "ZEE",
+      "fullName": "Zandvoort echt voor een",
+      "website": "https://partij-zee.nl/over-ons/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "127582": {
+          "position": "disagree",
+          "explanation": "Gelijke kansen zijn essentieel, maar het afdwingen van gelijke uitkomsten niet. Zolang Zandvoorters inhoudelijk worden vertegenwoordigd, doet samenstelling er niet toe."
+        },
+        "127583": {
+          "position": "agree",
+          "explanation": "Het referendum is een speerpunt van ZEE. Wij geloven dat inwoners zelf het laatste woord moeten hebben bij ingrijpende besluiten, niet alleen de raad. We dienden er zelfs een voorstel voor in als enige partij. Opvallend genoeg stemden de partijen die zeggen voor referenda te zijn, tegen."
+        },
+        "127584": {
+          "position": "agree",
+          "explanation": "Het uitdaagrecht is al ingevoerd in Zandvoort en is terecht geen verkiezingsthema, omdat hier brede tevredenheid over bestaat. Als een inwoner het beter kan én wil, moeten wij die ruimte bieden."
+        },
+        "127587": {
+          "position": "disagree",
+          "explanation": "ZEE heeft het initiatief genomen om een energiecoöperatie te faciliteren, zodat inwoners zelf invloed houden op hun energie zonder dat dit leidt tot versnippering van projecten en kunnen juist mensen met een lager inkomen profiteren van lagere energielasten."
+        },
+        "127595": {
+          "position": "disagree",
+          "explanation": "Zandvoort is een dorp waar toerisme en evenementen centraal staan. Te strenge normen doen geen recht aan het karakter van ons dorp."
+        },
+        "127596": {
+          "position": "agree",
+          "explanation": "ZEE is voorstander van gemeentelijke ondersteuning bij advies over het rolstoelvriendelijk maken van winkels en restaurants, én van gezamenlijke inkoop van voorzieningen zoals rolstoeloprijplaten, zodat de kosten voor zowel ondernemers als gemeente lager uitvallen."
+        },
+        "127598": {
+          "position": "agree",
+          "explanation": "ZEE wilt dat sport toegankelijk is voor iedereen. Een lidmaatschap bevordert gezondheid, sociale verbinding en meedoen in de samenleving, juist voor mensen met een bijstandsuitkering."
+        },
+        "127599": {
+          "position": "agree",
+          "explanation": "ZEE is voorstander van het behoud van lokale media zoals radio, televisie en krant, met als voorwaarde dat zij onafhankelijk kunnen blijven opereren."
+        },
+        "127601": {
+          "position": "disagree",
+          "explanation": "ZEE vindt het belangrijk om hulp te bieden waar dat het hardst nodig is. Gezien de huidige hulpvragen achten wij het daarom niet verstandig om muziekles voor alle basisschoolkinderen te faciliteren."
+        },
+        "127604": {
+          "position": "agree",
+          "explanation": "ZEE wil ruimere inzet van beveiliging in de avond en nacht, met extra capaciteit bij evenementen. Daarbij willen we samen met horecaondernemers, op het strand en in het dorp, beveiliging gezamenlijk inkopen, zodat toezicht efficiënter is en kosten en verantwoordelijkheden eerlijk worden verdeeld."
+        },
+        "127606": {
+          "position": "agree",
+          "explanation": "Deze voorzieningen bestaan al en willen we behouden. Zandvoortse vrouwen kunnen hiervoor niet in hun eigen gemeente terecht en zijn afhankelijk van opvang elders. Door deze voorzieningen te blijven steunen, blijft ook voor onze inwoners passende opvang beschikbaar wanneer dat nodig is."
+        },
+        "127607": {
+          "position": "disagree",
+          "explanation": "ZEE vindt startersleningen onveilig omdat ze schulden stapelen zonder woningprijzen te verlagen. Wij kiezen voor sociale koop: woningen blijven structureel betaalbaar, risico’s zijn lager en doorstroming blijft mogelijk, terwijl Zandvoorters wél kans krijgen op eigenaarschap."
+        },
+        "127610": {
+          "position": "disagree",
+          "explanation": "Dit is in Zandvoort geen vraagstuk, omdat onze dorpsgrenzen worden bepaald door zwaar beschermd Natura 2000-gebied en de zee, waar bouwen simpelweg niet mogelijk is."
+        },
+        "127611": {
+          "position": "disagree",
+          "explanation": "ZEE moedigt maatschappelijk zinvol werk aan, maar niet alle mensen met een bijstandsuitkering zijn in staat om dit te doen, dus daarom willen we het niet verplichten."
+        },
+        "127612": {
+          "position": "disagree",
+          "explanation": "Het beëindigen van het kwijtschelden van deze kosten vergroot de financiële druk op mensen met een laag inkomen, terwijl dat niemand ten goede komt."
+        },
+        "127616": {
+          "position": "agree",
+          "explanation": "ZEE wil 30 km/uur als uitgangspunt op wegen binnen de bebouwde kom waar wonen, fietsen en oversteken samenkomen. Lagere snelheden zorgen voor minder file, ongevallen en geluidsoverlast en een prettiger straatbeeld. Wegen met 50 km/uur moeten aantoonbaar veilig zijn ingericht."
+        },
+        "127617": {
+          "position": "disagree",
+          "explanation": "Deze keuze bestaat nu al. Mensen kunnen zelf een zorgverlener kiezen die bij hen past. De stelling suggereert een probleem dat er in de praktijk niet is."
+        },
+        "127620": {
+          "position": "disagree",
+          "explanation": "Hotels hebben recent al te maken gekregen met hogere landelijke lasten en kosten. Een verdere verhoging van de toeristenbelasting legt extra druk op een sector die al onevenredig bijdraagt en schaadt de concurrentiepositie van Zandvoort."
+        },
+        "127621": {
+          "position": "neither",
+          "explanation": "Zandvoort moet zorgvuldig omgaan met de schaarse bouwgrond. Echter, om project Curiedex te realiseren en daarmee meer dan 600 woningen te bouwen, is een beperkte uitbreiding van het bedrijventerrein aan de noordzijde, langs het spoor, noodzakelijk voor de verplaatsing van opslag."
+        },
+        "127623": {
+          "position": "disagree",
+          "explanation": "ZEE is hier tegen. Door de woningnood is elke sociale huurwoning hard nodig voor Zandvoorters. Extra immigratie vergroot de druk op de woningmarkt en maakt het probleem groter in plaats van kleiner."
+        },
+        "127627": {
+          "position": "disagree",
+          "explanation": "ZEE is voorstander van aandacht en archivering van Zandvoortse cultuur en geschiedenis, maar dit hoort niet in het standaard lespakket thuis."
+        },
+        "127630": {
+          "position": "neither",
+          "explanation": "Voor ZEE is dat contextafhankelijk. Het centrum en boulevardgebied zouden we juist meer in een badplaats stijl zien met gemiddeld lagere bouw. Op andere locaties zoals de Noord-Boulevard zou dit evenredig aan de andere bebouwing wel kunnen en indien mooi zelfs hoger voor meer woningen."
+        },
+        "127632": {
+          "position": "agree",
+          "explanation": "In bepaalde wijken in Zandvoort blijkt een structureel tekort aan parkeerplaatsen te zijn. ZEE is daarom voorstander van het realiseren van meer parkeerplaatsen."
+        },
+        "127634": {
+          "position": "agree",
+          "explanation": "ZEE ziet de toenemende parkeerdruk in Bentveld als een direct gevolg van de parkeerproblematiek in Zandvoort. Daarom zijn wij voorstander van het samen met bewoners onderzoeken welke vorm van betaald parkeren het beste aansluit bij Bentveld."
+        },
+        "127635": {
+          "position": "disagree",
+          "explanation": "In dit gebied ontbreken geluidsoverlast en veel overstekend verkeer. Voor een goede doorstroming zijn 60 km/uur en wegverbreding noodzakelijk."
+        },
+        "127637": {
+          "position": "disagree",
+          "explanation": "De toeristische verhuur is nu al beperkt tot 30 dagen per jaar. ZEE was hier tegen. Overlast aanpakken is terecht, maar een verlaging van 120 naar 30 dagen straft bewoners onnodig en ontneemt hen inkomsten die juist ruimte geven voor ontspanning. ZEE pleit daarom voor 80 dagen."
+        }
+      }
+    }
+  ],
+  "statements": [
+    {
+      "id": 127637,
+      "index": 1,
+      "theme": "Woningverhuur",
+      "themeId": "woningverhuur",
+      "title": "Zandvoort moet de toeristische verhuur van woningen beperken tot 30 nachten per jaar.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127598,
+      "index": 2,
+      "theme": "Contributie sport",
+      "themeId": "contributie-sport",
+      "title": "De gemeente moet het lidmaatschap van een sportclub betalen voor mensen met een bijstandsuitkering.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127584,
+      "index": 3,
+      "theme": "Beheer door burgers",
+      "themeId": "beheer-door-burgers",
+      "title": "Inwoners moeten het beheer van bijvoorbeeld een sporthal of plantsoen kunnen overnemen van de gemeente.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127621,
+      "index": 4,
+      "theme": "Bedrijventerreinen",
+      "themeId": "bedrijventerreinen",
+      "title": "In Zandvoort mogen de bedrijventerreinen uitbreiden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127617,
+      "index": 5,
+      "theme": "Zorgkeuze",
+      "themeId": "zorgkeuze",
+      "title": "Mensen die zorg nodig hebben, moeten altijd kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of levensovertuiging.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127616,
+      "index": 6,
+      "theme": "Snelheid auto's",
+      "themeId": "snelheid-auto-s",
+      "title": "De maximumsnelheid binnen de bebouwde kom moet naar 30 km/u.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127604,
+      "index": 7,
+      "theme": "Handhavers",
+      "themeId": "handhavers",
+      "title": "In Zandvoort moeten meer gemeentelijke handhavers (boa’s) komen die zich met veiligheid bezighouden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127595,
+      "index": 8,
+      "theme": "Festivalgeluid",
+      "themeId": "festivalgeluid",
+      "title": "De geluidsnormen bij festivals en feesten moeten strenger worden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127587,
+      "index": 9,
+      "theme": "Duurzame energie",
+      "themeId": "duurzame-energie",
+      "title": "Inwoners die samen duurzame energie op willen wekken, moeten financiële steun krijgen van de gemeente.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127601,
+      "index": 10,
+      "theme": "Muziekles",
+      "themeId": "muziekles",
+      "title": "Elk basisschoolkind moet met subsidie van de gemeente muziekles kunnen krijgen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127630,
+      "index": 11,
+      "theme": "Woonflats",
+      "themeId": "woonflats",
+      "title": "In Zandvoort mogen meer hoge woonflats komen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127611,
+      "index": 12,
+      "theme": "Tegenprestatie voor uitkering",
+      "themeId": "tegenprestatie-voor-uitkering",
+      "title": "Mensen die een bijstandsuitkering krijgen, moeten in ruil daarvoor maatschappelijk zinvol werk doen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127596,
+      "index": 13,
+      "theme": "Toegankelijkheid gebouwen",
+      "themeId": "toegankelijkheid-gebouwen",
+      "title": "De gemeente moet ondernemers financieel helpen om hun gebouw toegankelijker te maken voor mensen met een beperking.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127583,
+      "index": 14,
+      "theme": "Referendum",
+      "themeId": "referendum",
+      "title": "De inwoners van Zandvoort moeten over belangrijke onderwerpen hun mening kunnen geven via een referendum.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127634,
+      "index": 15,
+      "theme": "Parkeren Bentveld",
+      "themeId": "parkeren-bentveld",
+      "title": "De gemeente moet betaald parkeren invoeren in Bentveld.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127606,
+      "index": 16,
+      "theme": "Geweld tegen vrouwen",
+      "themeId": "geweld-tegen-vrouwen",
+      "title": "In Zandvoort moet een blijf-van-mijn-lijf-huis komen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127610,
+      "index": 17,
+      "theme": "Woningbouw",
+      "themeId": "woningbouw",
+      "title": "De gemeente moet nieuwbouw buiten de bestaande dorpsgrenzen tegengaan.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127599,
+      "index": 18,
+      "theme": "Lokale media",
+      "themeId": "lokale-media",
+      "title": "De gemeente moet de lokale omroep ondersteunen met extra geld.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127620,
+      "index": 19,
+      "theme": "Toeristenbelasting",
+      "themeId": "toeristenbelasting",
+      "title": "De toeristenbelasting moet omhoog.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127623,
+      "index": 20,
+      "theme": "Voorrang voor vluchtelingen",
+      "themeId": "voorrang-voor-vluchtelingen",
+      "title": "De gemeente moet vluchtelingen met een verblijfsvergunning voorrang gaan geven op een sociale huurwoning.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127632,
+      "index": 21,
+      "theme": "Meer parkeerplaatsen",
+      "themeId": "meer-parkeerplaatsen",
+      "title": "Er moeten meer parkeerplaatsen komen in het centrum.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127627,
+      "index": 22,
+      "theme": "Streektaal",
+      "themeId": "streektaal",
+      "title": "De gemeente moet het mogelijk maken dat op alle basisscholen aandacht wordt besteed aan het Zandvoorts.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127582,
+      "index": 23,
+      "theme": "Burgemeester en college",
+      "themeId": "burgemeester-en-college",
+      "title": "In het nieuwe college van burgemeester en wethouders moet het aantal mannen en vrouwen gelijk zijn.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127607,
+      "index": 24,
+      "theme": "Starterslening",
+      "themeId": "starterslening",
+      "title": "Mensen die voor het eerst een huis willen kopen, moeten van de gemeente een starterslening kunnen krijgen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127612,
+      "index": 25,
+      "theme": "Kwijtschelding stoppen",
+      "themeId": "kwijtschelding-stoppen",
+      "title": "De gemeente moet stoppen met het kwijtschelden van de gemeentelijke belastingen voor inwoners met een laag inkomen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127635,
+      "index": 26,
+      "theme": "Maximumsnelheid",
+      "themeId": "maximumsnelheid",
+      "title": "De maximumsnelheid op de doorgaande route langs de kust van Zandvoort moet 30 km/u worden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    }
+  ]
+}

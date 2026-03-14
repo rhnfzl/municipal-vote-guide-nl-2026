@@ -1,0 +1,2549 @@
+{
+  "id": "GM0935",
+  "name": "Maastricht",
+  "slug": "maastricht",
+  "parties": [
+    {
+      "id": 230287,
+      "name": "Senioren StadsPartij Maastricht",
+      "fullName": "Senioren StadsPartij Maastricht",
+      "website": "https://seniorenpartijmaastricht.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "230320": {
+          "position": "disagree",
+          "explanation": "Onze partij steunt meer transparantie in de belangenbehartiging, maar een openbaar lobbyregister gaat te ver. SPM wil een proportioneel lobbyregister dat zich beperkt tot professionele lobbyisten en formele contacten met bewindspersonen en topambtenaren."
+        },
+        "230322": {
+          "position": "disagree",
+          "explanation": "Maastricht investeert met € 750.000 al fors in de burgerbegroting. In plaats van verhoging is verdeling per stadsdeel nodig, zodat alle inwoners profiteren en niet alleen mensen met een sterk netwerk, veel tijd of goede vaardigheden. Daardoor krijgen ook kleinere initiatieven een eerlijke kans."
+        },
+        "230324": {
+          "position": "disagree",
+          "explanation": "SPM is voor meer gezamenlijke besluitvorming en brede invloed van inwoners. Een referendum doet volgens ons onvoldoende recht aan de diversiteit van meningen. We kiezen liever voor experimenteerruimte met co-creatie en participatievormen waarin meer stemmen worden gehoord."
+        },
+        "230325": {
+          "position": "agree",
+          "explanation": "Investeren in de Brightlands Health Campus versterkt de werkgelegenheid voor alle Maastrichtenaren, maakt de stad aantrekkelijk voor talent, bindt studenten en trekt jonge gezinnen aan. Zo ontstaat economische groei en leefbaarheid waar niet alleen de campus, maar de hele stad van profiteert."
+        },
+        "230326": {
+          "position": "disagree",
+          "explanation": "SPM is niet voor een hogere ozb. Het is een eerlijk instrument waarbij sterkere schouders meer dragen, maar lastenverzwaring is geen doel op zich. Alleen als het echt nodig is om voorzieningen te beschermen en kansen voor mensen met een smalle beurs te behouden, is het bespreekbaar. "
+        },
+        "230329": {
+          "position": "agree",
+          "explanation": "Hondenbelasting is achterhaald en oneerlijk, omdat alleen hondenbezitters betalen voor algemene voorzieningen."
+        },
+        "230330": {
+          "position": "agree",
+          "explanation": "SPM steunt gerichte promotie van Maastricht als vestigingsstad voor bedrijven. Dat versterkt de Health Campus én andere sectoren. Wel moet promotie aansluiten bij de kwaliteiten van de stad en samengaan met investeringen in bereikbaarheid, talent en leefbaarheid, zodat heel Maastricht profiteert."
+        },
+        "230331": {
+          "position": "agree",
+          "explanation": "SPM staat open voor ruimere zondagopenstelling van supermarkten tot 22.00 uur. Het is geen verplichting, maar een mogelijkheid die past bij een verstedelijkend Maastricht en een diverse bevolking. Ondernemers houden zelf de keuze, met oog voor personeel en leefbaarheid."
+        },
+        "230333": {
+          "position": "disagree",
+          "explanation": "Statushouders zijn één van meerdere urgente groepen en krijgen geen automatische voorrang. Circa 6% van de sociale huurwoningen gaat naar statushouders. Eerlijke verdeling vraagt om maatwerk voor álle urgente woningzoekenden."
+        },
+        "230335": {
+          "position": "neither",
+          "explanation": "Taalcursussen aanbieden is een goed idee, maar het hoeft niet gratis. Wel voor degenen die het niet kunnen betalen."
+        },
+        "230336": {
+          "position": "disagree",
+          "explanation": "Bij een eerlijke verdeling hoeft de gemeente Maastricht niet meer op te vangen dan andere gemeenten. Dat is fair."
+        },
+        "230337": {
+          "position": "disagree",
+          "explanation": "Een verlaging naar €15 kan de afschrikkende werking verminderen, waardoor foutparkeren toeneemt. Het huidige tarief stimuleert naleving van regels en dekt kosten voor handhaving en opslag. Te lage kosten kunnen leiden tot meer overlast en hogere uitgaven voor de gemeente."
+        },
+        "230338": {
+          "position": "disagree",
+          "explanation": "SPM ziet geen noodzaak voor strengere handhaving bij verenigingen. Bewustwording werkt beter: duidelijke informatie, ondersteuning en bijeenkomsten helpen verenigingen om regels goed na te leven. Zo bevorderen we verantwoord alcoholgebruik zonder onnodige druk op vrijwilligers."
+        },
+        "230339": {
+          "position": "agree",
+          "explanation": "SPM steunt ruimte voor culturele vrijplaatsen zoals het Landbouwbelang. Deze initiatieven zijn fluïde en hebben geen vaste plek nodig, maar wél ruimte in de stad. Dat mag geld kosten, zolang het flexibel is en niet vastloopt in regels, zodat creativiteit en vernieuwing kunnen blijven ontstaan."
+        },
+        "230340": {
+          "position": "agree",
+          "explanation": "Passend binnen de mogelijkheden van het specifieke plan."
+        },
+        "230347": {
+          "position": "agree",
+          "explanation": "Elk jongere moet de mogelijkheid hebben cultuur te beoefenen. Dat is een voedingsbodem voor de rest van het leven."
+        },
+        "230348": {
+          "position": "disagree",
+          "explanation": "Er wordt al een te grote druk ervaren van evenementen op de leefbaarheid in de stad."
+        },
+        "230354": {
+          "position": "disagree",
+          "explanation": "Meer stallingen en bewustwording van overlast is effectiever."
+        },
+        "230355": {
+          "position": "disagree",
+          "explanation": "De camera's zijn belangrijk in het ervaren veiligheidsgevoel."
+        },
+        "230356": {
+          "position": "agree",
+          "explanation": "SPM is voor meer grootschalige studentenwoonlocaties."
+        },
+        "230359": {
+          "position": "disagree",
+          "explanation": "Er moeten meer betaalbare woningen komen, ook rond de 300.000 euro. Dat is niet te eisen bij elk bouwplan en er zijn condities nodig om dat mogelijk te maken (lagere grondprijzen, kleinere woningen of corporatiebouw)."
+        },
+        "230360": {
+          "position": "agree",
+          "explanation": "Dit is belangrijk in het kader van cohesie en verbondenheid met de stad, maar ook het behoud van het sociale netwerk."
+        },
+        "230361": {
+          "position": "disagree",
+          "explanation": "Uitbreiden is niet nodig. Er zijn voldoende bouwlocaties beschikbaar."
+        },
+        "230365": {
+          "position": "disagree",
+          "explanation": "Wel heel goed om te stimuleren, bijvoorbeeld middels een vrijwilligersvergoeding."
+        },
+        "230366": {
+          "position": "disagree",
+          "explanation": "Die mogelijkheden zijn er al in Maastricht. In het verleden is een pas uitgeprobeerd, dat bleek ook niet het ei van Columbus."
+        },
+        "230368": {
+          "position": "disagree",
+          "explanation": "Dat bouwt het aantal sociale huurwoningen af. Het blijkt vaak ook moeilijk voor kopers om de woningen te onderhouden."
+        },
+        "230369": {
+          "position": "disagree",
+          "explanation": "We werken toe naar autoluw Maastricht waarbij bezoekers parkeren op afstand en waar mogelijk bewoners ook."
+        },
+        "230370": {
+          "position": "agree",
+          "explanation": "Eens, niet op de doorgaande wegen."
+        },
+        "230373": {
+          "position": "disagree",
+          "explanation": "Snelbussen zijn gemakkelijker te organiseren. De tram is helaas mislukt."
+        },
+        "230380": {
+          "position": "agree",
+          "explanation": "Het is een groot probleem als mensen het niet kunnen betalen."
+        }
+      }
+    },
+    {
+      "id": 230292,
+      "name": "GroenLinks",
+      "fullName": "GroenLinks",
+      "website": "https://maastricht.groenlinks.nl/home",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "230320": {
+          "position": "agree",
+          "explanation": "Transparantie is een groot goed voor GroenLinks."
+        },
+        "230322": {
+          "position": "agree",
+          "explanation": "De burger weet het best wat er voor de stad/wijk gewenst is."
+        },
+        "230324": {
+          "position": "disagree",
+          "explanation": "Vraagstelling is erg belangrijk. Een referendum geeft niet voldoende mogelijkheden voor nuances."
+        },
+        "230325": {
+          "position": "agree",
+          "explanation": "Economische motor van Maastricht en regio."
+        },
+        "230326": {
+          "position": "agree",
+          "explanation": "Ozb mag omhoog, sterkste schouders mogen de zwaarste lasten dragen. "
+        },
+        "230329": {
+          "position": "disagree",
+          "explanation": "De vervuiler betaalt. De belasting moet geen melkkoe zijn maar de kosten dekken verbonden aan honden "
+        },
+        "230330": {
+          "position": "agree",
+          "explanation": "Bedrijven zijn de economische motor. Duurzaamheid moet wel een rol spelen in de keuzes."
+        },
+        "230331": {
+          "position": "disagree",
+          "explanation": "We hebben begrip voor mensen die 's avonds laat boodschappen willen doen. Van de andere kant hebben we ook begrip voor de kleine ondernemer en de avondrust. De balans gaat richting niet uitbreiden. "
+        },
+        "230333": {
+          "position": "disagree",
+          "explanation": "Statushouders zijn ook Nederlanders. We hebben veel begrip voor wat ze hebben meegemaakt. Het helpt bij snelle integratie."
+        },
+        "230335": {
+          "position": "agree",
+          "explanation": "Dit bevordert integratie."
+        },
+        "230336": {
+          "position": "agree",
+          "explanation": "We moeten ruimhartig een aandeel leveren. Een grote stad kan meer absorberen dan een klein dorp."
+        },
+        "230337": {
+          "position": "disagree",
+          "explanation": "Dit helpt tegen de stallingsproblemen in de stad."
+        },
+        "230338": {
+          "position": "agree",
+          "explanation": "Wet is wet. Bescherming jongeren tegen alcoholisme."
+        },
+        "230339": {
+          "position": "agree",
+          "explanation": "Er moet ruimte zijn voor iedereen, vooral gemarginaliseerde groepen.  "
+        },
+        "230340": {
+          "position": "agree",
+          "explanation": "Duurzaamheid is een belangrijk item voor de toekomst. Natuur inclusief bouwen draagt hiertoe bij. "
+        },
+        "230347": {
+          "position": "agree",
+          "explanation": "Jongeren zijn de toekomst. We willen ze behouden voor de stad."
+        },
+        "230348": {
+          "position": "agree",
+          "explanation": "Voorwaarde is wel dat dit buiten het Vrijthof plaats vindt, bv Geusselt, Radiumgebied en de Griend. "
+        },
+        "230354": {
+          "position": "agree",
+          "explanation": "Trottoirs dienen doorgankelijk te zijn voor minder mobiele mensen."
+        },
+        "230355": {
+          "position": "disagree",
+          "explanation": "Voortdurende afweging tussen veilig en privacy. De balans slaat door richting veiligheid. Er is wel meer nodig voor een optimale veiligheid. "
+        },
+        "230356": {
+          "position": "disagree",
+          "explanation": "Goede mix is nodig. Studenten zijn ook inwoner van de stad."
+        },
+        "230359": {
+          "position": "agree",
+          "explanation": "Woningen moeten betaalbaar zijn voor huurder en eigenaar-bewoner. De gemeente heeft hier deze taak want projectontwikkelaars streven doorgaans naar het hogere marktsegment "
+        },
+        "230360": {
+          "position": "agree",
+          "explanation": "Er moet daarnaast ook een mogelijkheid zijn voor voorrang voor cruciale beroepen van buiten en statushouders. "
+        },
+        "230361": {
+          "position": "disagree",
+          "explanation": "Niet uitbreiden, maar inbreiden."
+        },
+        "230365": {
+          "position": "disagree",
+          "explanation": "Willen we stimuleren. Geen verplichting."
+        },
+        "230366": {
+          "position": "agree",
+          "explanation": "Toegang tot sport, cultuur en cursussen moet niet afhankelijk zijn van je portemonnee."
+        },
+        "230368": {
+          "position": "disagree",
+          "explanation": "Er is al een groot tekort aan sociale huurwoningen."
+        },
+        "230369": {
+          "position": "disagree",
+          "explanation": "Maastricht moet autoluw zijn. Voorkeur voor STOMP (stappen, trappen, OV, deelauto en dan pas personenauto)."
+        },
+        "230370": {
+          "position": "agree",
+          "explanation": "Uitzondering voor OV-busbanen."
+        },
+        "230373": {
+          "position": "agree",
+          "explanation": "Goede OV-verbindingen in Euregio zijn cruciaal."
+        },
+        "230380": {
+          "position": "agree",
+          "explanation": "Staat in ons verkiezingsprogramma. Geld mag nooit een belemmering zijn voor de aanschaf van menstruatieproducten "
+        }
+      }
+    },
+    {
+      "id": 230293,
+      "name": "D66",
+      "fullName": "D66",
+      "website": "https://d66.nl/maastricht/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "230320": {
+          "position": "agree",
+          "explanation": "D66 vindt dat openheid het vertrouwen in onze stad versterkt. Daarom willen we een openbaar lobbyregister: iedereen kan zien wie met bestuurders spreekt en waarover."
+        },
+        "230322": {
+          "position": "agree",
+          "explanation": "Via de burgerbegroting geven we Maastrichtenaren echte invloed: samen kiezen we prioriteiten in onze wijken. Zo bouwen we aan vertrouwen en gezamenlijke verantwoordelijkheid."
+        },
+        "230324": {
+          "position": "agree",
+          "explanation": "D66 wil dat inwoners meer invloed krijgen. Een (raadgevend) referendum kan daarbij passen, met heldere spelregels en goede informatie. We combineren dit met burgerberaden en participatie."
+        },
+        "230325": {
+          "position": "agree",
+          "explanation": "D66 wil meer investeren in de campus en Brightlands, omdat het banen, kennis en economische winst voor onze regio oplevert. Bij voorkeur via een revolverend fonds, zodat elke euro op termijn weer terug kan vloeien naar onze stad."
+        },
+        "230326": {
+          "position": "disagree",
+          "explanation": "D66 wil dat deze belasting niet harder stijgt dan de inflatie. Nieuwe plannen vragen een duidelijke dekking; we schuiven geen rekeningen door naar de toekomst."
+        },
+        "230329": {
+          "position": "agree",
+          "explanation": "D66 Maastricht vindt de hondenbelasting een ouderwetse heffing. Veel geld gaat naar administratie en controle. Hondenvoorzieningen blijven belangrijk, maar die betalen we liever transparant via algemene middelen of gerichte afspraken."
+        },
+        "230330": {
+          "position": "agree",
+          "explanation": "D66 wil Maastricht bekender en geliefder maken als stad van kennis en om te wonen. Gerichte promotie kan helpen om bedrijven en talenten aan te trekken. We richten ons daarbij op de economie van de toekomst: groen, gezond, met kennis en innovatie, zoals bijvoorbeeld rondom de campus."
+        },
+        "230331": {
+          "position": "agree",
+          "explanation": "D66 wil dat ondernemers niet beperkt worden door onnodige regels maar zelf mogen beslissen over hun openingstijden. Meer keuze kan de levendigheid vergroten, zolang personeel en leefbaarheid goed worden beschermd."
+        },
+        "230333": {
+          "position": "disagree",
+          "explanation": "Het tekort aan sociale huurwoningen in Maastricht los je niet op door groepen tegenover elkaar te zetten, maar door meer te bouwen. Dat wil D66 dus vooral doen. De voorrang voor mensen in een kwetsbare positie met urgentie blijft daarbij behouden, ook voor statushouders."
+        },
+        "230335": {
+          "position": "agree",
+          "explanation": "Gratis of laagdrempelige taalcursussen helpen internationals meedoen en doorstromen naar werk. We willen dit als doorlopend aanbod, niet als tijdelijk project."
+        },
+        "230336": {
+          "position": "disagree",
+          "explanation": "D66 staat voor humane opvang, maar wel binnen wet en draagkracht. We gaan niet structureel verder dan de landelijke norm. Opvang moet veilig en goed georganiseerd zijn, met aandacht voor onderwijs, zorg en integratie, in samenwerking met de stad."
+        },
+        "230337": {
+          "position": "agree",
+          "explanation": "Een maatregel moet gedrag sturen, maar niet buitensporig zijn. Daarom willen we de kosten voor het ophalen van een fiets fors omlaag, gecombineerd met goede stallingen en duidelijke regels."
+        },
+        "230338": {
+          "position": "agree",
+          "explanation": "De veiligheid van iedereen, ook in het verenigingsleven staat wat D66 betreft voorop. We willen verenigingen en vrijwilligers niet onnodig belasten, maar werken samen aan duidelijke en haalbare regels, die breed gedragen worden en bij excessen of onveilig gedrag ook gehandhaafd."
+        },
+        "230339": {
+          "position": "agree",
+          "explanation": "Culturele vrijplaatsen geven ruimte aan makers, experiment en ontmoeting. We willen dat dit soort plekken in Maastricht kunnen blijven bestaan, met heldere afspraken over veiligheid en omgeving."
+        },
+        "230340": {
+          "position": "agree",
+          "explanation": "D66 wil dat nieuwbouw Maastricht groener en gezonder maakt. Natuurinclusief bouwen wordt de norm: groen, water en biodiversiteit vanaf het ontwerp. Alleen als het aantoonbaar niet kan, maken we een uitzondering."
+        },
+        "230347": {
+          "position": "agree",
+          "explanation": "Jongeren verdienen een sterk en betaalbaar cultuuraanbod. We investeren in plekken en programma’s waar zij kunnen maken, ontdekken en optreden, ook buiten het centrum."
+        },
+        "230348": {
+          "position": "agree",
+          "explanation": "Grote evenementen kunnen Maastricht versterken, mits ze passen bij de stad. We sturen op spreiding, bereikbaarheid en leefbaarheid, zodat bewoners er ook beter van worden."
+        },
+        "230354": {
+          "position": "agree",
+          "explanation": "Fout geparkeerde fietsen veroorzaken hinder en onveiligheid. We willen gerichter handhaven én zorgen voor genoeg goede stallingsplekken, zodat handhaving eerlijk en effectief is."
+        },
+        "230355": {
+          "position": "disagree",
+          "explanation": "Veiligheid in Maastricht vraagt soms cameratoezicht op hotspots. D66 wil dit gericht en tijdelijk inzetten, met strikte privacyregels en regelmatige evaluatie. Niet ‘minder om het minder’, maar slim waar het aantoonbaar werkt."
+        },
+        "230356": {
+          "position": "disagree",
+          "explanation": "Wij spelen student en stad niet tegen elkaar uit. Problemen los je op met betere spreiding, afspraken en extra studentencapaciteit (bij voorkeur op geschikte locaties), niet met een harde stop in wijken."
+        },
+        "230359": {
+          "position": "disagree",
+          "explanation": "D66 wil meer betaalbare woningen, maar een harde €280.000-eis in elk plan kan bouw blokkeren. We kiezen per locatie voor een mix van betaalbare huur en koop met heldere afspraken, zodat we sneller bouwen en doorstroming ontstaat."
+        },
+        "230360": {
+          "position": "disagree",
+          "explanation": "Maastrichtenaren verdienen perspectief, maar voor D66 blijven urgentie en kwetsbaarheid leidend. We kiezen niet voor harde postcode-voorrang. Woningnood los je op door te bouwen en doorstroming te versnellen, niet door groepen tegen elkaar op te zetten."
+        },
+        "230361": {
+          "position": "agree",
+          "explanation": "We bouwen zoveel mogelijk binnen de stad, maar als dat niet genoeg is, is uitbreiden op geschikte plekken nodig. Wel altijd met kwaliteit: groen, voorzieningen, ov-ontsluiting en betaalbaarheid vanaf het begin."
+        },
+        "230365": {
+          "position": "agree",
+          "explanation": "D66 wil dat wie kan, meedoet. Bijstand is een vangnet, maar we helpen mensen stappen zetten via zinvol werk, opleiding of vrijwilligerswerk. Altijd op maat, met vrijstelling bij ziekte, zorgtaken of beperkingen."
+        },
+        "230366": {
+          "position": "agree",
+          "explanation": "Iedereen moet kunnen meedoen aan sport, cultuur en cursussen. Een sociale pas kan dat simpel en zichtbaar maken, door regelingen te bundelen en de drempel te verlagen voor mensen met een laag inkomen."
+        },
+        "230368": {
+          "position": "disagree",
+          "explanation": "D66 wil snel meer sociale huurwoningen bouwen en dat vraagt om focus, ook bij corporaties. Sociale huurwoningen zijn schaars en bedoeld voor mensen voor wie koop vaak geen optie is. Tot er meer aanbod is, is verkoop geen ambitie, omdat het ook de sociale voorraad uit kan hollen."
+        },
+        "230369": {
+          "position": "disagree",
+          "explanation": "Meer parkeerplaatsen in het centrum trekken extra autoverkeer aan. D66 kiest juist voor een autoluwe binnenstad, betere OV- en fietsverbindingen en slimmer parkeren aan de randen van de stad."
+        },
+        "230370": {
+          "position": "agree",
+          "explanation": "Als D66 Maastricht kiezen we voor 30 km/u waar woonstraten daarom vragen. Dat maakt onze wijken veiliger en stiller. We combineren dit met een straatinrichting die het gedrag ondersteunt."
+        },
+        "230373": {
+          "position": "agree",
+          "explanation": "D66 Maastricht wil de treinverbinding met Hasselt: goed voor de Euregio en bereikbaarheid. Tegelijk moet de infrastructuur hoogwaterveilig zijn. Daarom zetten we in op een oplossing die de verbinding mogelijk maakt én de waterveiligheid verbetert, samen met partners."
+        },
+        "230380": {
+          "position": "agree",
+          "explanation": "Menstruatiearmoede mag in Maastricht geen drempel zijn. D66 wil dat de gemeente samen met partners dit probleem aanpakt. We streven naar gratis maandverband en tampons op meer plekken, bijvoorbeeld op scholen en in wijkvoorzieningen."
+        }
+      }
+    },
+    {
+      "id": 230294,
+      "name": "CDA",
+      "fullName": "CDA",
+      "website": "https://www.cdamaastricht.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "230320": {
+          "position": "agree",
+          "explanation": "Een verplicht lobbyregister kan bestuurlijke transparantie vergroten, maar alleen als het gebruiksvriendelijk, afdwingbaar en geëvalueerd wordt. Het CDA is daarom voor een pilot om de effecten te meten en het contact tussen inwoners, ondernemers en het openbaar bestuur laagdrempelig te houden."
+        },
+        "230322": {
+          "position": "disagree",
+          "explanation": "De burgerbegroting heeft veelal niet geleid tot structurele politieke betrokkenheid. Het patroon van ingediende voorstellen wijst erop dat gemeentelijke subsidies en voorwaarden vaak niet aansluiten op de lokale behoeften. De toegankelijkheid van subsidieregelingen moet daarom verbeterd worden."
+        },
+        "230324": {
+          "position": "disagree",
+          "explanation": "Lokale referenda zijn niet bindend - de gekozen gemeenteraad beslist uiteindelijk. Het CDA ziet er geen voordeel in: ze kosten veel tijd en geld en verbeteren de politieke betrokkenheid van inwoners op den duur niet."
+        },
+        "230325": {
+          "position": "agree",
+          "explanation": "Het behoud van voldoende werkgelegenheid in Maastricht en de regio is een grote uitdaging. De Campus creëert +1000 banen en is essentieel voor het versterken van onze economie en het vinden van oplossingen voor gezondheid, duurzaamheid en veiligheid."
+        },
+        "230326": {
+          "position": "disagree",
+          "explanation": "Ozb omhoog als eerste oplossing is te makkelijk. De lastendruk stijgt al jaren en raakt niet alleen de rijken, maar ook gezinnen met een krappe hypotheek en kleine ondernemers. Laat de gemeente eerst helder vaststellen welke taken echt bij hen horen voordat er meer belasting komt."
+        },
+        "230329": {
+          "position": "disagree",
+          "explanation": "De kostenneutrale hondenbelasting is gerechtvaardigd omdat de gemeente kosten maakt voor het opruimen van hondenpoep, het plaatsen en legen van hondenprullenbakken en het inrichten en onderhouden van losloopgebieden. Voor inwoners met financiële problemen bestaat de mogelijkheid tot kwijtschelding."
+        },
+        "230330": {
+          "position": "agree",
+          "explanation": "Alleen met een actieve acquisitiestrategie en een sterke promotie van Maastricht houden we genoeg banen in Maastricht en de regio. Banen voor iedereen die bestaanszekerheid bieden. Andere steden doen dit al - laten we niet achterblijven."
+        },
+        "230331": {
+          "position": "disagree",
+          "explanation": "Het CDA is terughoudend ten aanzien van een verdere 24‑uurs‑economie."
+        },
+        "230333": {
+          "position": "agree",
+          "explanation": "De voorrangsregel was een tijdelijke noodmaatregel toen het AZC overbelast raakte. De instroom van asielzoekers moet omlaag. De voorrangsregel vertraagt starters en jongeren op de sociale woningmarkt aanzienlijk. We kunnen dit niet langer vragen van starters en jongeren."
+        },
+        "230335": {
+          "position": "agree",
+          "explanation": "Wij vinden dat de gemeente actief Nederlands taalgebruik moet stimuleren. Internationale inwoners, onderwijsinstellingen en bedrijven kunnen financieel bijdragen zodat de kosten niet alleen bij de gemeente liggen. Voor de inwoner is de taalcursus dan gratis."
+        },
+        "230336": {
+          "position": "disagree",
+          "explanation": "Maastricht doet al veel. Wij willen dat alle gemeenten hun verantwoordelijkheid nemen. Het CDA staat voor een eerlijke verdeling en harde afspraken: iedereen draagt bij."
+        },
+        "230337": {
+          "position": "disagree",
+          "explanation": "Een boete van €50 voelt zwaar, maar zonder prikkel blijven fietsen dagenlang op straat staan en blokkeren ze rolstoel- en looproutes. Voor de bereikbaarheid en veiligheid van mindervaliden is ingrijpen onvermijdelijk."
+        },
+        "230338": {
+          "position": "disagree",
+          "explanation": "Strengere handhaving bij verenigingen is niet nodig en kan het vrijwilligerswerk en de sociale samenhang schaden. Behandel verenigingen gelijk aan horecazaken en ondersteun hun maatschappelijke rol."
+        },
+        "230339": {
+          "position": "agree",
+          "explanation": "Het CDA hecht aan alle culturele uitingen en wil dat iedereen in onze stad de ruimte krijgt om cultuur te beoefenen. Wij vinden wél dat de regels voor vrijplaatsen gelijk moeten zijn aan die voor het verenigingsleven: geen voorkeursbeleid."
+        },
+        "230340": {
+          "position": "agree",
+          "explanation": "We willen groen en biodiversiteit behouden zonder onnodige bureaucratie. Met minder onderzoekslast en een soortenmanagementplan maken we natuurvriendelijk bouwen toegankelijker voor iedereen."
+        },
+        "230347": {
+          "position": "agree",
+          "explanation": "Naast werkgelegenheid speelt ook het culturele aanbod een belangrijke rol voor jongeren die kiezen om in Maastricht te wonen of te blijven. Als we jongeren aan de stad willen binden, moeten we het culturele aanbod voor hen versterken."
+        },
+        "230348": {
+          "position": "disagree",
+          "explanation": "Maastricht heeft al veel grote evenementen. Het CDA wil wél een aantal grote sportevenementen terughalen. Zulke evenementen versterken duidelijk de middenstand en stimuleren gezondheid - een economisch en een maatschappelijk voordeel."
+        },
+        "230354": {
+          "position": "agree",
+          "explanation": "Foutgeparkeerde fietsen maken op veel plekken straten en stoepen onbereikbaar, vooral voor mindervaliden. Het CDA wil de APV aanpassen zodat fietsen sneller kunnen worden opgehaald, gecombineerd met het plaatsen van meer fietsenrekken."
+        },
+        "230355": {
+          "position": "disagree",
+          "explanation": "Minder cameratoezicht is geen doel op zich. Cameratoezicht vergroot vaak het gevoel van veiligheid, maar vervangt geen andere maatregelen zoals preventief fouilleren. Het CDA zet cameratoezicht in waar het nodig en proportioneel is."
+        },
+        "230356": {
+          "position": "agree",
+          "explanation": "Het CDA kiest voor evenwicht: studentenhuisvesting op de campus en in kleinschalige initiatieven verspreid door de stad, maar hun aanwezigheid mag niet leiden tot eenzijdige wijken of verdringing van bewoners."
+        },
+        "230359": {
+          "position": "disagree",
+          "explanation": "Het CDA wil sociale koop, waarbij de gemeente zelf geld bijlegt op de grondprijs, onderzoeken zodat er meer betaalbare woningen mogelijk worden. Het is onrealistisch dit bij elk bouwplan te eisen. Dat remt ontwikkeling of levert te kleine, en alsnog dure woningen op."
+        },
+        "230360": {
+          "position": "agree",
+          "explanation": "Het CDA vindt lokale binding leidend bij voorrang. Dat kan voortkomen uit geboorte in Maastricht, maar ook uit werk of studie in de stad; wie een sterke band heeft, krijgt voorrang."
+        },
+        "230361": {
+          "position": "disagree",
+          "explanation": "Het CDA is terughoudend met uitbreiding. We willen geen opoffering van groengebieden aan de stadsrand en vrezen dat uitbreiding later tot leegstand kan leiden. Daarom kiezen we bewust voor verdichting binnen het stedelijk gebied, zodat we ruimte besparen en een leefbare stad behouden."
+        },
+        "230365": {
+          "position": "agree",
+          "explanation": "Mensen die kunnen werken, moeten we zo snel mogelijk begeleiden naar vast werk. Het CDA wil dat doen door laagdrempelig werk in de eigen buurt aan te bieden: buurtbewoners ondersteunen of helpen bij lokale verenigingen. Een bijstandsuitkering is en blijft een recht, waar men beroep op kan doen."
+        },
+        "230366": {
+          "position": "disagree",
+          "explanation": "Voor minima bestaan al diverse voorzieningen om mee te kunnen doen aan sport en cultuur, zoals het Volwassenenfonds Sport & Cultuur, dat een deel van de contributie vergoedt. Het CDA wil voorkomen dat er nóg meer losse regelingen bijkomen. We kiezen voor eenvoud, overzicht en een duidelijke aanpak."
+        },
+        "230368": {
+          "position": "agree",
+          "explanation": "Huurders mogen hun corporatiewoning kopen onder redelijke voorwaarden. De opbrengst gaat naar nieuwbouw, verduurzaming en herstructurering."
+        },
+        "230369": {
+          "position": "disagree",
+          "explanation": "Om de logistieke drukte op piekmomenten in de binnenstad te verminderen, kiezen we voor parkeren buiten de binnenstad. Wél blijft het essentieel dat er voldoende parkeerplekken beschikbaar zijn voor vergunningshouders - dus voor bewoners van de binnenstad én ondernemers die er dagelijks moeten zijn."
+        },
+        "230370": {
+          "position": "agree",
+          "explanation": "Om de verkeersveiligheid in onze buurten te verbeteren, moet de snelheid op veel plekken omlaag - in woonstraten en gebieden waar veel voetgangers en fietsers komen. Ontsluitingswegen blijven wél 50 km/uur. Een duidelijke en logische scheiding."
+        },
+        "230373": {
+          "position": "agree",
+          "explanation": "Een snellere, directe treinverbinding tussen Aken, Maastricht en Hasselt is op de lange termijn noodzakelijk als we de werkgelegenheid en economie in de EU‑regio willen versterken. Dat is niet eenvoudig te realiseren. Het Rijk heeft andere prioriteiten en de samenwerking met de Belgen is complex."
+        },
+        "230380": {
+          "position": "disagree",
+          "explanation": "Voorzien in spullen voor persoonlijke hygiëne is geen kerntaak van de gemeente. Wanneer mensen tampons of maandverband niet kunnen betalen, is dat een signaal van onderliggende armoede. In zulke gevallen moet de gemeente inzetten op bestaande armoederegelingen, schuldhulp of inkomensondersteuning."
+        }
+      }
+    },
+    {
+      "id": 230295,
+      "name": "PvdA",
+      "fullName": "Partij van de Arbeid",
+      "website": "https://maastricht.pvda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "230320": {
+          "position": "agree",
+          "explanation": "Het is in het kader van openheid en transparantie goed dat de burger weet met wie de bestuurder spreekt en hoe een voorstel in de gemeente Maastricht tot stand komt."
+        },
+        "230322": {
+          "position": "agree",
+          "explanation": "De burgerbegroting is een mooi middel om mensen meer zeggenschap te geven over Maastricht of de eigen buurt. Om dat nog beter te kunnen doen zou het budget omhoog moeten en zou een burgerbegroting per stadsdeel wellicht een mooie optie zijn."
+        },
+        "230324": {
+          "position": "disagree",
+          "explanation": "Een referendum kent enkel een ja of nee als antwoord en geeft dus daarmee geen enkel inhoudelijk antwoord op het probleem dat wordt voorgelegd. Bovendien kan een gemeente mensen via inspraak gewoon betrekken bij besluitvorming en dat lijkt ons veel beter."
+        },
+        "230325": {
+          "position": "agree",
+          "explanation": "Maastricht moet een aantrekkelijke stad blijven om te wonen, werken en recreëren. Om dat ook in de toekomst te blijven zijn er toch echt banen nodig in Maastricht en regio. De Brightlands Campus kan prima die banenmotor zijn voor mensen met verschillende kwaliteiten en werkervaring."
+        },
+        "230326": {
+          "position": "disagree",
+          "explanation": "Maastricht heeft de financiën op dit moment prima op orde, dus een lastenverzwaring voor de burger is op dit moment niet aan de orde."
+        },
+        "230329": {
+          "position": "agree",
+          "explanation": "De hondenbelasting is eigenlijk niet meer van deze tijd en wordt in steeds meer gemeenten afgeschaft. Wat ons betreft volgt Maastricht hierin het voorbeeld van al die andere gemeenten."
+        },
+        "230330": {
+          "position": "disagree",
+          "explanation": "De gemeente moet geen promotiecampagne voeren want dat gaat helemaal niet zoveel brengen. De regio Zuid-Limburg moet meer de handen ineen slaan en beter in gezamenlijkheid lobbyen om bedrijven hier naartoe te krijgen."
+        },
+        "230331": {
+          "position": "disagree",
+          "explanation": "De vraag is wat de meerwaarde hiervan is voor de winkeliers. Winkelpersoneel hoeft voor de PvdA niet 12 uur per dag 7 dagen in de week te werken."
+        },
+        "230333": {
+          "position": "disagree",
+          "explanation": "Gemeenten hebben de wettelijke taak om asielzoekers die een verblijfsvergunning krijgen een plek te geven om te wonen. Het COA brengt mensen met een verblijfsvergunning in contact met de gemeenten. Daarna moet de gemeente zorgen voor een woning."
+        },
+        "230335": {
+          "position": "disagree",
+          "explanation": "De gemeente hoeft dat niet te doen, omdat bijvoorbeeld het kenniscentrum dat al doet, en omdat Humanitas taalmaatjes kent en de universiteit al beurzen voor studenten aanbiedt. Het komt dus al uit de maatschappij, laat de gemeente dat vooral ondersteunen waar de gemeente kan."
+        },
+        "230336": {
+          "position": "neither",
+          "explanation": "De gemeente Maastricht moet doen wat nodig is. Als er een verzoek vanuit de landelijke overheid komt voor extra opvang en wij hebben goede plekken waar ook gezinnen langere tijd kunnen verblijven, dan is de PvdA voor de solidaire stad. Wij helpen elkaar."
+        },
+        "230337": {
+          "position": "disagree",
+          "explanation": "Fietsen die overal in de stad geparkeerd staan, zijn een grote ergernis en vervelend voor ouderen met een rollator, kinderwagens en veel anderen. Voor ons geldt: zet je fiets waar die hoort en anders kost het geld."
+        },
+        "230338": {
+          "position": "neither",
+          "explanation": "Het is goed dat de gemeente regels maakt en handhaaft, maar het is wat de PvdA betreft OOK aan de verenigingen te zorgen dat jongeren geen alcohol drinken als ze dat nog niet mogen. Het lijkt ons de omgekeerde wereld dat de overheid dan strenger moet handhaven. Waar is de eigen verantwoordelijkheid?"
+        },
+        "230339": {
+          "position": "agree",
+          "explanation": "Zeker moeten er culturele vrijplaatsen blijven in Maastricht, daarom moet de gemeente ook hard aan de slag met alternatieven voor het Landbouwbelang."
+        },
+        "230340": {
+          "position": "neither",
+          "explanation": "Als we wonen aantrekkelijk en betaalbaar willen houden dan weten we dat dit onmogelijk als algemene regel kan gelden. Wel is het natuurlijk mooi wanneer het wel degelijk gebeurt."
+        },
+        "230347": {
+          "position": "agree",
+          "explanation": "De discussie over het Landbouwbelang en het gebrek aan een nachtvisie laten zien dat jongeren over het algemeen vinden dat er op het gebied van cultuur in de brede zin des woords te weinig te doen is. De gemeente moet daar dus meer geld in steken."
+        },
+        "230348": {
+          "position": "disagree",
+          "explanation": "Wat de PvdA betreft staat Maastricht op een kantelpunt en moeten we echt nadenken over wat voor stad we willen zijn. Willen we echt nog meer toeristen? Hebben we al niet meer dan genoeg evenementen en kan het wellicht gewoon een tandje minder?"
+        },
+        "230354": {
+          "position": "agree",
+          "explanation": "Foutgeparkeerde fietsen zijn een doorn in het oog en veroorzaken overlast voor bijvoorbeeld mensen die slecht ter been zijn. Wat de PvdA betreft gaat de gemeente dus strenger controleren, maar daarnaast ook meer fietsparkeerplekken maken; zodat je fiets ook echt goed gestald kan worden."
+        },
+        "230355": {
+          "position": "disagree",
+          "explanation": "Camera’s kunnen nuttig zijn, maar geven ook een gevoel van schijnveiligheid en dus investeert de PvdA liever in meer boa’s. We zouden echter niet begrijpen waarom je minder cameratoezicht wil, want de overlast in bijvoorbeeld Malberg laat zien dat het wel heel nuttig kan zijn rond het winkelcentrum."
+        },
+        "230356": {
+          "position": "agree",
+          "explanation": "We zien dat grootschalige campussen zoals op Randwijck prima werken en dat hierdoor meer lucht ontstaat in sommige buurten in Maastricht. Wat de PvdA betreft blijven we goed nadenken over de woonbalans in de stad om zo te zorgen dat de stad voor ons allemaal aantrekkelijk blijft."
+        },
+        "230359": {
+          "position": "agree",
+          "explanation": "We moeten zorgen dat Maastricht voor iedereen betaalbaar blijft en daarom zullen we ook koopwoningen tot 280.000 euro moeten bouwen."
+        },
+        "230360": {
+          "position": "disagree",
+          "explanation": "Maastricht is een open en tolerante stad. We hebben met elkaar regels voor woningtoewijzing afgesproken en het lijkt de PvdA verstandig dat we ons aan die regels houden."
+        },
+        "230361": {
+          "position": "disagree",
+          "explanation": "We kunnen onze stad niet zomaar even uitbreiden. We zullen dus goed moeten nadenken hoe we willen bouwen en waar."
+        },
+        "230365": {
+          "position": "disagree",
+          "explanation": "Wat de PvdA betreft hoeft dat enkel als mensen daartoe in staat zijn en dat echt willen. Het kan geen verplichting zijn."
+        },
+        "230366": {
+          "position": "agree",
+          "explanation": "Jaren geleden hadden we de Maastrichtpas met mooie en bruikbare kortingen. De PvdA vindt het een prima idee om deze Maastrichtpas weer in te voeren om lasten te verlichten en om te zorgen dat iedereen mee kan doen in Maastricht."
+        },
+        "230368": {
+          "position": "agree",
+          "explanation": "Het is een goed initiatief wanneer sociale huurders worden aangemoedigd om hun huis te kopen. Dat geeft meer zekerheid voor mensen en saamhorigheid in de buurt. We moeten daarnaast ook wel zorgen dat er voldoende huurwoningen blijven."
+        },
+        "230369": {
+          "position": "disagree",
+          "explanation": "Het centrum van Maastricht slibt letterlijk dicht, dus er moeten zeker niet meer parkeerplaatsen komen, maar minder. We moeten flink aan de slag met het maken van Park & Ride-zones aan de randen van de stad, zodat we het aantal parkeerplaatsen in het centrum kunnen afbouwen."
+        },
+        "230370": {
+          "position": "agree",
+          "explanation": "Wat de PvdA betreft wordt 30 de norm in woonwijken. Om te zorgen dat mensen ook daadwerkelijk 30 gaan rijden passen we de weginrichting zo aan dat mensen niet meer zo hard kunnen rijden. Daarnaast vergroenen we ook meteen de straten zodat het er echt anders uitziet. Ook dat helpt tegen hardrijders."
+        },
+        "230373": {
+          "position": "agree",
+          "explanation": "Maastricht is het hart van Europa en dat betekent dat Maastricht werk moet maken van internationale verbindingen."
+        },
+        "230380": {
+          "position": "disagree",
+          "explanation": "In Maastricht zijn er op plekken Menstruatieproducten Uitgifte Punten (MUP’s) gefaciliteerd via het Armoedefonds. Ook biedt de universiteit gratis menstruatieproducten aan en er zijn initiatieven in de stad waar mensen gratis voedsel en verzorgingsproducten kunnen halen. Geen probleem dus."
+        }
+      }
+    },
+    {
+      "id": 230288,
+      "name": "Partij Veilig Maastricht",
+      "fullName": "Partij Veilig Maastricht",
+      "website": "https://www.partijveiligmaastricht.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "230320": {
+          "position": "disagree",
+          "explanation": "Het werkt in sommige gevallen zelfs drempelverhogend."
+        },
+        "230322": {
+          "position": "disagree",
+          "explanation": "Het huidige budget is voldoende."
+        },
+        "230324": {
+          "position": "agree",
+          "explanation": "Dit is een goede manier om de mening van de burger te toetsen."
+        },
+        "230325": {
+          "position": "disagree",
+          "explanation": "De investeringen die de gemeente gedaan heeft, zijn op dit moment voldoende."
+        },
+        "230326": {
+          "position": "disagree",
+          "explanation": "De huidige ozb is hoog genoeg."
+        },
+        "230329": {
+          "position": "agree",
+          "explanation": "Het is een achterhaalde belasting."
+        },
+        "230330": {
+          "position": "agree",
+          "explanation": "Dit bevordert de werkgelegenheid."
+        },
+        "230331": {
+          "position": "disagree",
+          "explanation": "Wij als partij hebben ook oog voor het personeel."
+        },
+        "230333": {
+          "position": "agree",
+          "explanation": "Dezelfde voorwaarden als voor iedereen, gewoon achter aansluiten."
+        },
+        "230335": {
+          "position": "disagree",
+          "explanation": "Dit moet landelijk geregeld worden."
+        },
+        "230336": {
+          "position": "disagree",
+          "explanation": "We vangen al meer dan genoeg asielzoekers op."
+        },
+        "230337": {
+          "position": "disagree",
+          "explanation": "Foutief gestalde fietsen hoeven niet ten koste van de gemeente te gaan."
+        },
+        "230338": {
+          "position": "disagree",
+          "explanation": "De regels die nu gelden moeten gehandhaafd worden."
+        },
+        "230339": {
+          "position": "agree",
+          "explanation": "Maar met goede regulering."
+        },
+        "230340": {
+          "position": "agree",
+          "explanation": "Om de biodiversiteit te stimuleren."
+        },
+        "230347": {
+          "position": "agree",
+          "explanation": "Dit is nu veel te weinig."
+        },
+        "230348": {
+          "position": "agree",
+          "explanation": "Zolang ze toegankelijk zijn voor alle burgers."
+        },
+        "230354": {
+          "position": "agree",
+          "explanation": "Het is een grote ergernis van veel burgers."
+        },
+        "230355": {
+          "position": "disagree",
+          "explanation": "Cameratoezicht geeft de burgers een veilig gevoel."
+        },
+        "230356": {
+          "position": "agree",
+          "explanation": "Dit gaat een hoop overlast tegen."
+        },
+        "230359": {
+          "position": "agree",
+          "explanation": "Dit maakt de woningen voor een grotere groep kopers toegankelijk."
+        },
+        "230360": {
+          "position": "agree",
+          "explanation": "Omdat iedere Maastrichtenaar het recht moet krijgen om in zijn eigen stad te blijven wonen. Ook jongeren moeten kunnen blijven wonen in de stad waar ze zijn opgegroeid. "
+        },
+        "230361": {
+          "position": "agree",
+          "explanation": "Daar waar het mogelijk is."
+        },
+        "230365": {
+          "position": "agree",
+          "explanation": "Dit geeft deze mensen een doel."
+        },
+        "230366": {
+          "position": "disagree",
+          "explanation": "Hier zijn aangepaste regelingen voor."
+        },
+        "230368": {
+          "position": "disagree",
+          "explanation": "Er zijn al te weinig sociale huurwoningen."
+        },
+        "230369": {
+          "position": "disagree",
+          "explanation": "Er zijn al plaatsen genoeg."
+        },
+        "230370": {
+          "position": "agree",
+          "explanation": "Dit bevordert de veiligheid in de woonwijken."
+        },
+        "230373": {
+          "position": "disagree",
+          "explanation": "Er is al een goede busverbinding."
+        },
+        "230380": {
+          "position": "disagree",
+          "explanation": "Dit is al via diverse instanties gratis verkrijgbaar."
+        }
+      }
+    },
+    {
+      "id": 230296,
+      "name": "VVD",
+      "fullName": "VVD",
+      "website": "https://www.vvd.nl/gemeente-maastricht/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "230320": {
+          "position": "disagree",
+          "explanation": "De VVD is tegen het invoeren van een lobbyregister. Een lobbyregister verhoogt de drempel om met bestuurders te spreken. Daarnaast kost het veel geld en tijd om zo'n register bij te houden."
+        },
+        "230322": {
+          "position": "disagree",
+          "explanation": "De VVD wil dat het geld direct naar verenigingen en buurten gaat. Buurtinitiatieven zijn heel waardevol en moeten op inhoud beoordeeld worden wanneer het goede ideeën zijn. We willen een politiek die luistert naar haar inwoners, niet een politiek die buurten tegen elkaar laat concurreren voor geld."
+        },
+        "230324": {
+          "position": "disagree",
+          "explanation": "De VVD is tegen het invoeren van een referendum. Een referendum reduceert namelijk complexe vraagstukken in de maatschappij tot een simpele ja- of nee-keuze, waarbij de nuance verloren gaat. Burgers kiezen zelf hun democratische vertegenwoordiging in de gemeenteraad die voor hun belangen opkomt."
+        },
+        "230325": {
+          "position": "agree",
+          "explanation": "Bij de VVD krijgt de kenniseconomie rondom de Brightlands campus volop kansen wanneer meer investeringen nodig zijn om zich verder te ontwikkelen. Dankzij de VVD wordt de groene loper doorgetrokken en is er geld gereserveerd om parkeergarages in Randwyck te bouwen. Ook komt er een excellarator en ruimte voor start-ups en scale-ups."
+        },
+        "230326": {
+          "position": "disagree",
+          "explanation": "De VVD wil geen verhoging (buiten de inflatiecorrectie) van lokale lasten als de ozb. Daarom gaan we ervoor zorgen dat deze lasten voor zowel inwoners als ondernemers zo laag mogelijk blijven en kijken we altijd eerst of er binnen bestaand beleid ruimte gemaakt kan worden alvorens de ozb te verhogen."
+        },
+        "230329": {
+          "position": "agree",
+          "explanation": "De VVD pleit voor een verlaging of afschaffing van de hondenbelasting. Wij moeten blijven investeren in hondenparken en prullenbakken uit de begroting. Een hondenbelasting op zich blijft vreemd, we hebben ook geen specifieke cultuurbelasting om onze musea te betalen of sportbelasting voor gymzalen."
+        },
+        "230330": {
+          "position": "agree",
+          "explanation": "De VVD vindt het belangrijk om meer bedrijven naar Maastricht te trekken zodat onze kenniseconomie zich verder ontwikkelt. De VVD spant zich in om de voorwaarden voor bedrijven aantrekkelijker te maken. Veel hoogopgeleiden studeren af in Maastricht maar vinden geen baan en trekken naar de Randstad."
+        },
+        "230331": {
+          "position": "agree",
+          "explanation": "De VVD Maastricht wil de openingstijden van de supermarkten op zondag verruimen tot 22.00 uur. Er zijn steeds meer tweeverdieners en mensen die fulltime werken. Wij willen het voor hen gemakkelijker maken en de ondernemer zelf de kans te geven om te beslissen wanneer de supermarkt open is."
+        },
+        "230333": {
+          "position": "agree",
+          "explanation": "De VVD vindt dat de voorrang voor statushouders al jaren geleden had moeten worden afgeschaft. Statushouders kunnen gebruikmaken van flexwoningen als tijdelijke huisvesting, als eerste stap buiten het azc. Voor kwetsbare groepen, zoals alleenstaande moeders met kinderen blijft voorrang wel bestaan."
+        },
+        "230335": {
+          "position": "agree",
+          "explanation": "De VVD wil Nederlandse taallessen voor internationale studenten financieel ondersteunen. Dit draagt bij aan de vestiging van internationale studenten na hun studie en bevordert de kenniseconomie. Waar mogelijk vinden we dat dat voor alle internationale inwoners moet gelden."
+        },
+        "230336": {
+          "position": "disagree",
+          "explanation": "De instroom van asielzoekers moet landelijk omlaag. De VVD vindt dat de gemeente niet meer hoeft te doen dan ons vanuit de landelijke overheid opgedragen wordt."
+        },
+        "230337": {
+          "position": "disagree",
+          "explanation": "De VVD vindt dat iedereen zelf verantwoordelijk is voor het correct parkeren van de fiets. De huidige boete van 50 euro is om de kosten te dekken die de gemeente maakt om de overlast tegen te gaan."
+        },
+        "230338": {
+          "position": "disagree",
+          "explanation": "De VVD vindt dat iedereen de wettelijke regels moet volgen en dat verenigingen en bedrijven minderjarigen dus geen alcohol mogen schenken. Daarnaast is het belangrijk dat we verenigingen en hun vrijwilligers geen onnodige regelgeving opleggen."
+        },
+        "230339": {
+          "position": "disagree",
+          "explanation": "Krakers zoals Landbouwbelang zorgen voor oneerlijke concurrentie tegenover ondernemers. Waarom krijgt een groep die gebouwen bezet alles gratis en moeten onze ondernemers wel flink betalen voor vergunningen en faciliteiten?"
+        },
+        "230340": {
+          "position": "disagree",
+          "explanation": "Het is al ontzettend duur om nieuwe woningen te bouwen. De VVD wil daarom graag zo veel mogelijk bouwen zonder onnodige regels die de bouw vertragen en kostenverhogend zijn."
+        },
+        "230347": {
+          "position": "disagree",
+          "explanation": "De VVD pleit ervoor om meer jongeren bij de volkscultuur te betrekken zodat het Maastricht dialect in stand wordt gehouden. Geld voor dit soort initiatieven moet worden gezocht in de bestaande begroting."
+        },
+        "230348": {
+          "position": "disagree",
+          "explanation": "De VVD is trots op de huidige grote evenementen in de stad, maar vindt het belangrijk dat er rekening wordt gehouden met de leefbaarheid van de inwoners. In het geval van unieke evenementen die bijdragen aan de cohesie van de stad staat de VVD hiervoor open."
+        },
+        "230354": {
+          "position": "agree",
+          "explanation": "Fout geparkeerde fietsen leveren risicovolle situaties op voor onder andere slechtzienden en mensen die slecht ter been zijn."
+        },
+        "230355": {
+          "position": "disagree",
+          "explanation": "De VVD is voor meer cameratoezicht in Maastricht. Cameratoezicht vergroot de pakkans en biedt monitoring op risicoplekken. Daarnaast denken wij met cameratoezicht de veiligheid in enkele probleemwijken te verbeteren."
+        },
+        "230356": {
+          "position": "agree",
+          "explanation": "De VVD vindt dat studenten in beperkte mate in woonwijken kunnen wonen, maar dat het grootste gedeelte van de studenten beter op grootschalige campussen kan wonen zoals de Brightlands campus. Dit beperkt overlast en zorgt voor sociale cohesie onder studenten."
+        },
+        "230359": {
+          "position": "disagree",
+          "explanation": "De VVD pleit voor zoveel mogelijk betaalbare woningen. Onderzoek toont aan dat dit soort verplichtingen zorgen voor minder betaalbare woningen omdat het doorstroming belemmert. Met het voorgestelde beleid hebben minder mensen een betaalbare woning. Ook al klinkt het stoer, de werkelijkheid is anders."
+        },
+        "230360": {
+          "position": "agree",
+          "explanation": "Wanneer veel van onze woningen naar mensen van buiten de gemeente gaan vindt de VVD dat de gemeente moet kunnen ingrijpen om onze eigen mensen een eerlijke kans te geven. Het is belangrijk dat we de identiteit van onze stad beschermen."
+        },
+        "230361": {
+          "position": "agree",
+          "explanation": "De VVD is voor nieuwe woonwijken met goede faciliteiten. Wij pleiten voor leefbare en groene wijken waar de auto of de klusbus gewoon voor de deur kan worden geparkeerd."
+        },
+        "230365": {
+          "position": "agree",
+          "explanation": "Mensen die iets ontvangen van de samenleving mogen wat de VVD betreft ook iets terugdoen voor onze samenleving."
+        },
+        "230366": {
+          "position": "disagree",
+          "explanation": "De VVD wil de armoedeval verkleinen. Voordelen zoals een sociale pas zijn geen structurele oplossing en vervallen als mensen meer gaan verdienen. De VVD gebruikt het geld dus liever om mensen naar werk te begeleiden."
+        },
+        "230368": {
+          "position": "agree",
+          "explanation": "De VVD wil bewoners van sociale huurwoningen de kans geven de woning te kopen. Dit stimuleert doorstroming en biedt woningcorporaties de mogelijkheid om met de opbrengst nieuwe sociale huurwoningen te bouwen."
+        },
+        "230369": {
+          "position": "agree",
+          "explanation": "De VVD is voor meer parkeergelegenheid zodat inwoners die slecht ter been zijn of die geen andere reismogelijkheden hebben naar de stad kunnen komen. Daarnaast wil de VVD voor meer mensen park & walk-opties beschikbaar maken. Zoals ondergrondse parkeergarages dicht bij het centrum."
+        },
+        "230370": {
+          "position": "disagree",
+          "explanation": "De VVD houdt vast aan 50 km/u op doorgaande wegen, tenzij er sprake is van een unieke onveilige situatie. Verkeer behoort zich goed en veilig te kunnen verplaatsen. Veel doorgaande wegen zijn ingericht op 50 km/u en nodigen bij 30 km/u uit tot hard rijden, terwijl anderen dat niet meer verwachten."
+        },
+        "230373": {
+          "position": "disagree",
+          "explanation": "De Belgische partners hebben de stekker uit het tramproject getrokken. De VVD wil pas weer samenwerken als de inwoners van Maastricht hun geld terug hebben en er daadwerkelijk behoefte is aan deze verbinding."
+        },
+        "230380": {
+          "position": "disagree",
+          "explanation": "Menstruatieproducten gratis maken voor iedereen is een zeer kostbare maatregel en volgens de VVD niet nodig omdat de meeste mensen hier zelf in kunnen voorzien. Mensen met een laag inkomen zoals de bijstandsuitkering kunnen naar de Menstruatie Uitgiftepunten (MUP) gaan om gratis producten te krijgen"
+        }
+      }
+    },
+    {
+      "id": 230297,
+      "name": "Partij voor de Dieren",
+      "fullName": "Partij voor de Dieren",
+      "website": "https://maastricht.partijvoordedieren.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "230320": {
+          "position": "agree",
+          "explanation": "Openbaarheid van bestuur is een groot goed. Een transparant lobbyregister maakt de Maastrichtse bestuurscultuur begrijpelijker, transparanter en controleerbaarder. Een actieve openbaarmaking kan volgens de PvdD bijdragen aan het vergroten van het vertrouwen in de politiek."
+        },
+        "230322": {
+          "position": "agree",
+          "explanation": "Vormen van directe democratie zijn belangrijk om de kloof tussen politiek en inwoners te dichten. De PvdD wil dat burgers gemakkelijker initiatief kunnen nemen en meebeslissen. Positieve, concrete oplossingen van inwoners voor hun leefomgeving worden serieus genomen en actief ondersteunt."
+        },
+        "230324": {
+          "position": "agree",
+          "explanation": "Participatie gaat op de schop. In plaats van plannen maken voor inwoners, maakt de PvdD plannen mét inwoners. Het raadgevend referendum krijgt een plaats bij belangrijke besluiten, zoals grote bouwprojecten of een gemeentelijke herindeling. Ook willen we wijkreferenda mogelijk maken."
+        },
+        "230325": {
+          "position": "disagree",
+          "explanation": "Steeds meer economische groei is volgens de PvdD niet de oplossing, maar juist het probleem. Van groei komt geen eerlijkere economie, want de inkomensverschillen blijven. Daarnaast kan de PvdD geen projecten steunen waarbij nog proeven met dieren worden gedaan, op de campus is dit nog wel het geval."
+        },
+        "230326": {
+          "position": "disagree",
+          "explanation": "Een eerlijk belastingstelsel is de ruggengraat van een rechtvaardige samenleving. Daar hoort geen verhoogde ozb bij. De PvdD vindt dat inwoners die maatregelen nemen om hun eigen woning te verduurzamen, deze investeringen af moeten kunnen trekken van de OZB."
+        },
+        "230329": {
+          "position": "agree",
+          "explanation": "De PvdD wil de hondenbelasting afschaffen. Zolang dat niet is gebeurd, moet de opbrengst van die belasting gebruikt worden voor hondenvoorzieningen. Hondenbelasting is oneerlijk omdat die onderscheid maakt tussen bezitters van honden en andere huisdieren. En dat verschil is nergens op gebaseerd."
+        },
+        "230330": {
+          "position": "disagree",
+          "explanation": "Citymarketing en regiopromotie kosten veel geld dat beter aan duurzame doelen besteed kan worden. Als het aan de Partij voor de Dieren ligt, stopt Maastricht ermee hierin te investeren."
+        },
+        "230331": {
+          "position": "agree",
+          "explanation": "De Partij voor de Dieren is geen fan van de 24-uurs economie, maar vindt dat winkeliers, binnen de landelijke wetgeving zelf moeten kunnen beslissen wanneer zij wel of niet open gaan."
+        },
+        "230333": {
+          "position": "disagree",
+          "explanation": "De krapte op de Maastrichtse woningmarkt is niet te wijten aan vluchtelingen, maar aan jarenlang falend woonbeleid zoals de bezuinigingen op sociale huur. De PvdD pleit voor het voldoen aan de taakstelling huisvesting statushouders, en goede begeleiding zodat vluchtelingen snel mee kunnen doen."
+        },
+        "230335": {
+          "position": "disagree",
+          "explanation": "Taalonderwijs helpt vluchtelingen, internationale studenten en expats om goed mee te kunnen doen in Maastricht. Maar de PvdD vindt ook dat, waar mogelijk, mensen hiervoor zelf de kosten dragen. We bieden daarom alleen gratis taalcursussen aan voor nieuwkomers die deze zelf niet kunnen betalen."
+        },
+        "230336": {
+          "position": "disagree",
+          "explanation": "De Partij voor de Dieren wil dat Maastricht een eerlijk aandeel neemt in de opvang van asielzoekers. Dat houdt niet per se in dat we meer vluchtelingen op willen vangen. Opvang moet vooral goed geregeld zijn en nieuwkomers worden begeleid om zo snel mogelijk volwaardig mee te kunnen doen."
+        },
+        "230337": {
+          "position": "agree",
+          "explanation": "Voor veel Maastrichtenaren zijn de huidige kosten voor het ophalen van hun fiets bij het depot te hoog, waardoor daar veel fietsen blijven staan. De PvdD wil investeren in meer fietsenstallingen en deelfietsen om overlast door verkeerd geparkeerde fietsen tegen te gaan."
+        },
+        "230338": {
+          "position": "agree",
+          "explanation": "Uit onderzoek blijkt dat slechts 14,5% van de Maastrichtse sportverenigingen de regels rondom alcoholverstrekking aan minderjarigen naleeft. De PvdD wil jongeren al op jonge leeftijd meer en beter voorlichten over de schadelijke effecten van alcohol en streng handhaven op de leeftijdsgrens."
+        },
+        "230339": {
+          "position": "agree",
+          "explanation": "Culturele vrijplaatsen zoals het Landbouwbelang zijn essentieel voor onze stad. Rafelranden zijn een broedplaats voor talent, bieden plaats voor internationale student en Maastrichtenaar, jong en oud om elkaar te ontmoeten en ontspannen. De PvdD pleit daarom voor duurzame vestiging van het LBB."
+        },
+        "230340": {
+          "position": "agree",
+          "explanation": "De woningnood geldt niet alleen voor mensen, maar ook voor in onze stad levende dieren. Beschermde soorten zoals gierzwaluwen en vleermuizen hebben het moeilijk. We kunnen deze dieren helpen door natuurinclusieve maatregelen zoals nestkasten te integreren bij nieuwbouw en grootschalige renovatie."
+        },
+        "230347": {
+          "position": "agree",
+          "explanation": "Goed, inclusief en toegankelijk onderwijs, kunst en cultuur vormen het fundament van een vrije, democratische samenleving. De PvdD wil daarom investeren in kunst-, cultuur- en muzieklessen op school. Ook is er meer geld nodig voor toegankelijke, laagdrempelige cultuur voor jongeren en in de wijken."
+        },
+        "230348": {
+          "position": "disagree",
+          "explanation": "De Partij voor de Dieren wil grootschalige prestige evenementen juist ontmoedigen, zeker als ze bedoeld zijn om Maastricht op de kaart te zetten. We willen cultuurbudgetten juist inzetten voor de ondersteuning van laagdrempelige en toegankelijke cultuur, juist ook in de wijken."
+        },
+        "230354": {
+          "position": "agree",
+          "explanation": "De straat moet voor iedereen optimaal toegankelijk zijn. Daarom willen we streng handhaven op vrij toegankelijke stoepen en geleidelijnen. Daarnaast zorgen we voor voldoende gratis fietsenstallingen."
+        },
+        "230355": {
+          "position": "agree",
+          "explanation": "Camera’s bieden slechts schijnveiligheid en leiden tot verplaatsing van het probleem. De PvdD pleit daarom voor zeer terughoudend gebruik van cameratoezicht in de publieke ruimte. Het mag alleen tijdelijk en onder strikte voorwaarden worden ingezet. We pakken de echte oorzaken van problemen aan."
+        },
+        "230356": {
+          "position": "disagree",
+          "explanation": "De Partij voor de Dieren wil niet per se méér studentenhuizen in de wijk, maar juist wel een goede verdeling van woningcategorieën over de stad. In iedere straat komt voor ieder wat wils, zo voorkomen we segregatie en stimuleren we ontmoeting tussen verschillende Maastrichtse bevolkingsgroepen."
+        },
+        "230359": {
+          "position": "agree",
+          "explanation": "Huizen zijn om in te wonen, geen verdienmodel. De PvdD wil bij ieder bouwproject een goede verdeling van woningcategorieën en er komen plannen voor écht betaalbare koopwoningen voor starters of mensen met een kleine beurs."
+        },
+        "230360": {
+          "position": "disagree",
+          "explanation": "Een goede woning is een basisrecht. Om jongeren in hun eigen stad te kunnen laten blijven wonen pleit de PvdD voor een betere doorstroming naar passende huisvesting, meer (40%) sociale huurwoningen en een stop op de sloop en liberalisering van sociale huurwoningen. "
+        },
+        "230361": {
+          "position": "disagree",
+          "explanation": "Voordat we in Maastricht bijbouwen wil de PvdD bestaande gebouwen slimmer benutten. Dan pas kijken we naar verdichting, gepaard met extra groen. Als laatste optie bouwen we aan de rand van de stad. We bouwen alleen waar dat past in de omgeving en het niet ten koste gaat van groen of leefbaarheid."
+        },
+        "230365": {
+          "position": "disagree",
+          "explanation": "De PvdD is tegen de tegenprestatie van mensen met recht op bijstand. Niet alleen is het zeer onwenselijk dat mensen moeten werken zonder loon, het leidt ook tot verdringing van betaald werk. Bijstandsgerechtigden moeten zich kunnen richten op talentontwikkeling, en werk moet lonen."
+        },
+        "230366": {
+          "position": "agree",
+          "explanation": "In Maastricht moet iedereen mee kunnen doen, ongeacht hun financiële situatie. De PvdD wil mensen met inkomens tot 130% van het sociaal minimum ondersteunen met o.a. de kosten voor sport, cultuur en dierenarts. Om stigmatisering tegen te gaan, krijgen alle inwoners een pas."
+        },
+        "230368": {
+          "position": "disagree",
+          "explanation": "De verkoop van sociale huurwoningen belemmert doorstroming. De PvdD pleit ervoor geen sociale huurwoningen te verkopen, tenzij deze minstens een-op-een vervangen worden. Er is immers een tekort aan sociale huur. We letten daarbij op een goede spreiding van het aandeel sociale huurwoningen per buurt."
+        },
+        "230369": {
+          "position": "disagree",
+          "explanation": "PvdD wil juist minder parkeerplaatsen in het centrum. Bezoekers van de binnenstad worden aangemoedigd om met de fiets of het OV te komen. Wel staan we achter het aanleggen van P+R-voorzieningen aan de rand van de stad, waar bezoekers de auto kunnen parkeren en hun reis kunnen vervolgen met het OV."
+        },
+        "230370": {
+          "position": "agree",
+          "explanation": "Om leefbaarheid te verbeteren en ongevallen te voorkomen wil de PvdD in straten zonder vrijliggende fietspaden een maximumsnelheid van 30 km/u. Straten zonder trottoirs worden omgevormd tot (woon)erven, met een maximumsnelheid van 15 km/u. Dit geldt ook rondom scholen en kinderopvang."
+        },
+        "230373": {
+          "position": "agree",
+          "explanation": "Treinreizen is een goed en milieuvriendelijk alternatief voor autoreizen. De PvdD wil daarom dat Maastricht zich inzet voor een treinverbinding met Hasselt, en samen met de provincie optrekt om internationale treinverbindingen te stimuleren."
+        },
+        "230380": {
+          "position": "agree",
+          "explanation": "De toegang tot (herbruikbare) menstruatieproducten is niet altijd vanzelfsprekend en dit kan leiden tot groot ongemak. De PvdD vindt dat deze producten op openbare plekken beschikbaar moeten zijn voor hen die ze zich niet kunnen veroorloven, ze zijn vergeten of voor hen die onverwachts menstrueren."
+        }
+      }
+    },
+    {
+      "id": 230298,
+      "name": "Volt",
+      "fullName": "Volt",
+      "website": "https://www.voltmaastricht.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "230320": {
+          "position": "agree",
+          "explanation": "Een lobbyregister maakt politiek inzichtelijker en eerlijker. Burgers moeten kunnen zien met wie bestuurders afspraken inplannen, zodat het duidelijk is wie invloed uitoefent op het gemeentebestuur."
+        },
+        "230322": {
+          "position": "agree",
+          "explanation": "We zijn in principe een voorstander van alle vormen van burgerparticipatie, ook de burgerbegroting. Deze mag daarom op meer steun rekenen. Wel vindt Volt dat de burgerbegroting in de toekomst representatiever mag, zoals bij een ingeloot aantal burgers dat het Burgerberaad vertegenwoordigt."
+        },
+        "230324": {
+          "position": "agree",
+          "explanation": "Volt is onder strikte voorwaarden voor (p)referenda. De voorkeur gaat uit naar deliberatieve democratie. Inwoners komen onder begeleiding van experts tot bindende adviezen in een burgerraad. Met een burgerraad zijn referenda overbodig, die vraagstukken worden dan namelijk in de burgerraad behandeld."
+        },
+        "230325": {
+          "position": "agree",
+          "explanation": "In een onzekere wereld moet Europa investeren in haar industrieën. Europa is geen abstract kantoor in Brussel - Europa is ook Maastricht. Investeren in Brightlands versterkt onderwijs, innovatie en de regionale positie. Als knooppunt tussen drie landen trekt Maastricht zo talent en bedrijvigheid."
+        },
+        "230326": {
+          "position": "agree",
+          "explanation": "Volt wil de ozb licht verhogen, naar het niveau van vergelijkbare gemeenten, maar alleen als deze belasting op koopwoningen ingezet wordt om nieuwe woningen te bouwen. Een woning-voor-woning-belasting dus. Dit levert jaarlijks 7 miljoen op om betaalbare woningen te bouwen en bouwgrond te kopen."
+        },
+        "230329": {
+          "position": "disagree",
+          "explanation": "Om onze stad veilig en schoon te houden moet de gemeente geld uitgeven: aan schoonmakers, ordehandhaving en andere faciliteiten. Een van de manieren hoe we dat krijgen gedekt is door middel van hondenbelasting."
+        },
+        "230330": {
+          "position": "agree",
+          "explanation": "Maastricht moet geen geld meer uitgeven aan toerismepromotie. In plaats daarvan moet dat geld gaan naar het aantrekken en behouden van talenten en bedrijvigheid. Maastricht vergrijst namelijk snel en dat gaat op korte termijn een probleem vormen voor onze lokale samenleving."
+        },
+        "230331": {
+          "position": "agree",
+          "explanation": "Volt is voorstander van een ruimere openingstijd voor supermarkten, bakkers en dergelijke. Op dit moment trekken we al erg veel dagjestoeristen uit buurlanden. Kledingwinkels en andere niet-essentiële winkels hoeven niet tot zo laat op zondag open te zijn."
+        },
+        "230333": {
+          "position": "disagree",
+          "explanation": "Dit is een schijndiscussie: de voorrang van statushouders is wettelijk verankerd in Nederland. Maastricht kan dat niet veranderen. Daarnaast laat onderzoek zien dat het tekort aan woningen komt door jaren politiek stilzitten in de woningbouw. Voorrang afschaffen kan niet en heeft nauwelijks effect."
+        },
+        "230335": {
+          "position": "agree",
+          "explanation": "Taalvaardigheid helpt alle Maastrichtenaren om mee te doen in onze grensregio. Dit is goed voor de binding en de arbeidsmarkt. Volt wil niet alleen gratis taalcursussen Nederlands aanbieden aan internationale inwoners, maar ook Frans en Duits voor grenswerkers, en Limburgs voor andere nieuwkomers."
+        },
+        "230336": {
+          "position": "agree",
+          "explanation": "Wanneer opvang nodig is, moet Maastricht solidair bijdragen en humane opvang garanderen. Waar mogelijk willen we mensen meer opvangen in welvarende wijken en minder in wijken met veel sociale uitdagingen. Europa moet een thuis blijven voor mensen die oorlog ontvluchten."
+        },
+        "230337": {
+          "position": "agree",
+          "explanation": "Het is nu aantrekkelijker voor mensen om een nieuwe tweedehandsfiets te kopen dan deze op te halen bij het depot. Daardoor blijven veel fietsen staan op het depot. De boete moet kostendekkend zijn voor de gemeente en niet disproportioneel hoog."
+        },
+        "230338": {
+          "position": "disagree",
+          "explanation": "Handhaving moet proportioneel, professioneel en respectvol optreden. Strenger handhaven kan alleen als er sprake is van concrete overtredingen en risico’s. Daarnaast moet de gemeente veel actiever in gesprek gaan met verenigingen om preventie van alcoholmisbruik te benadrukken."
+        },
+        "230339": {
+          "position": "agree",
+          "explanation": "Culturele vrijplaatsen versterken creativiteit, ontmoeting en experiment. Dit hoort bij een levendige en diverse cultuurstad en jonge gemeenschap."
+        },
+        "230340": {
+          "position": "agree",
+          "explanation": "Natuurinclusief bouwen helpt tegen hitte, wateroverlast en biodiversiteitsverlies. Het maakt buurten leefbaarder zonder extra schaarse ruimte in te nemen. Daarnaast wil Volt dat Maastricht met haar Belgische grensgemeenten (Lanaken en Visé) een ambitieuzere groene visie opzet voor de Euregio."
+        },
+        "230347": {
+          "position": "agree",
+          "explanation": "Volt wil de sport- en cultuurbegroting fors laten groeien en later verdubbelen. Sport en cultuur helpen jongeren preventief, soms beter dan traditionele jeugdzorg. Daarnaast trekt een sterk cultuurbeleid jong talent aan. Zo wordt Maastricht een bruisende, jonge en toegankelijke cultuurstad."
+        },
+        "230348": {
+          "position": "neither",
+          "explanation": "Het hangt af welk soort evenementen wordt bedoeld. We zijn tegen extra Vrijthof-events met nóg meer dagjestoerisme. We zijn wel voor meer wijk­evenementen met gemeentelijke steun, en meer congressen die kennis en talent in de grensregio verbinden, zoals een jaarlijks Smart Meuse-Rhine congres."
+        },
+        "230354": {
+          "position": "agree",
+          "explanation": "Foutgeparkeerde fietsen hinderen voetgangers en vooral mensen met een fysieke beperking. Handhaving hoort bij een veilige, toegankelijke fietsstad, maar moet gepaard gaan met meer fietsstallingen en het verminderen van straatparkeerplaatsen voor toeristen in het centrum."
+        },
+        "230355": {
+          "position": "disagree",
+          "explanation": "Cameratoezicht moet proportioneel en doelgericht zijn. Een veilige stad, bijvoorbeeld tijdens het nachtleven voor vrouwen, is van groot belang. Hoewel camera’s niet altijd de oplossing zijn, is een vermindering van cameratoezicht onwenselijk."
+        },
+        "230356": {
+          "position": "disagree",
+          "explanation": "Studentenkamers vallen onder kamerverhuur-, splitsings- en leefbaarheidstoetsen. Gemeenten mogen niet op identiteit (“student”) weren. Volt wil inzetten op meer wooncampussen, onder andere in Randwyck, zodat de woninglast van studenten beter kan worden verspreid over de hele stad en niet geconcentreerd in bepaalde woonwijken."
+        },
+        "230359": {
+          "position": "agree",
+          "explanation": "De woningmarkt moet betaalbaar blijven voor starters en middeninkomens. Daarom wil Volt dat bij nieuwe bouwplannen de meerderheid naar betaalbare huur- en koopwoningen en sociale huur gaat."
+        },
+        "230360": {
+          "position": "disagree",
+          "explanation": "Voorrang op basis van postcode of herkomst is wettelijk vrijwel niet mogelijk. Wachtlijsten voor sociale huur volgen al de inschrijfduur: dat zijn vooral mensen met binding aan Maastricht. Het woningtekort komt door jarenlang te weinig sociale woningbouw; voorrang wijzigen heeft nauwelijks effect."
+        },
+        "230361": {
+          "position": "disagree",
+          "explanation": "Volt wil vooral binnenstedelijk bouwen: (midden)hoogbouw in moderne wijken als Randwyck, ondertunneling van ‘t spoor en verdichting van braakliggende delen. Uitbreiding naar het noorden kan, maar Volt is fel tegen bouwen achter de Molenweg en andere plekken waar bouw ten koste gaat van de natuur."
+        },
+        "230365": {
+          "position": "disagree",
+          "explanation": "Participatie moet worden gestimuleerd via scholing en begeleiding, niet via dwang of straf. Volt wil dat mensen duurzaam mee kunnen doen, niet verplicht onbetaald werk verrichten. Evaluaties van gemeenten die deze experimenten hebben gedaan tonen beperkte effectiviteit en negatieve neveneffecten."
+        },
+        "230366": {
+          "position": "agree",
+          "explanation": "Iedereen moet mee kunnen doen aan sport en cultuur, ook met een laag inkomen. Een sociale pas verlaagt drempels en bevordert verbinding. Op basis van succesvolle passen zoals die van Den Haag en Brussel, stelt Volt in haar programma een Maastrichtse sociale pas voor: ‘t Peske."
+        },
+        "230368": {
+          "position": "disagree",
+          "explanation": "Het Weense model laat zien hoe belangrijk gemeentelijke regie is bij het tegengaan van de woningcrisis. De verkoop van sociale huur verkleint de betaalbare voorraad. Volt wil die juist vergroten en starters via andere routes aan betaalbare koop helpen in plaats van de sociale voorraad uit te dunnen."
+        },
+        "230369": {
+          "position": "disagree",
+          "explanation": "Volt kiest voor een autoluw centrum met meer ruimte voor groen, voetgangers en fietsers. Toeristen parkeren aan de rand bij goed verbonden P+R, waardoor in de binnenstad juist meer plek ontstaat voor inwoners, ondernemers, personeel en mantelzorgers zonder extra parkeerplaatsen toe te voegen."
+        },
+        "230370": {
+          "position": "agree",
+          "explanation": "Een lagere maximumsnelheid maakt straten veiliger voor voetgangers en fietsers. Dit verbetert de leefbaarheid in woonwijken. Bovendien maakt het de verkeersregels overzichtelijker als bijna de hele stad een 30 km-zone wordt, behalve daar waar het onveilig zou zijn (zoals de Singels)."
+        },
+        "230373": {
+          "position": "agree",
+          "explanation": "Een betere treinverbinding met Hasselt versterkt de Euregio Maas-Rijn. Dat is goed voor bereikbaarheid, economie en onderwijs. Het is dus van belang dat de huidige spoorbrug wordt vernieuwd, een Maastrichtse verbinding met Vlaanderen wordt hersteld en er betere verbindingen komen met Luik en Aken."
+        },
+        "230380": {
+          "position": "agree",
+          "explanation": "Toegang tot menstruatieproducten is een basisbehoefte."
+        }
+      }
+    },
+    {
+      "id": 230299,
+      "name": "SP",
+      "fullName": "SP",
+      "website": "https://maastricht.sp.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "230320": {
+          "position": "agree",
+          "explanation": "In Maastricht weten projectontwikkelaars, lobbyclubs en grote ondernemers de weg naar de wethouders blindelings te vinden, vaak achter gesloten deuren. Dit leidt tot vriendjespolitiek en ondermijnt het vertrouwen dat besluiten eerlijk tot stand komen. De SP kiest voor maximale transparantie."
+        },
+        "230322": {
+          "position": "disagree",
+          "explanation": "De Burgerbegroting is gewoon schijnparticipatie: vooral mondige en goed georganiseerde inwoners profiteren ervan en het aanvragen is onnodig ingewikkeld gemaakt. De SP is daarom voor wijkbudgetten per wijk, waarbij bewoners zélf beslissen over hun geld. Zij weten het beste wat hun wijk nodig heeft."
+        },
+        "230324": {
+          "position": "agree",
+          "explanation": "Bij echt belangrijke onderwerpen moeten Maastrichtenaren zélf het laatste woord hebben. Daarom wil de SP een laagdrempelig referendum als democratische handrem. En als de uitslag duidelijk is, dan mag het stadsbestuur dat niet opzij schuiven, maar dan moet het plan terug naar de tekentafel."
+        },
+        "230325": {
+          "position": "disagree",
+          "explanation": "Brightlands moet op eigen benen staan: innovatie is goed, maar niet ten koste van de leefbaarheid en de kansen van alle Maastrichtenaren. Maak de campus snel financieel onafhankelijk, luister naar de gewone inwoners en laat de stem van bewoners leidend zijn voor een groenere, leefbare wijk."
+        },
+        "230326": {
+          "position": "disagree",
+          "explanation": "De ozb hoeft niet automatisch omhoog. De SP vindt dat die hooguit jaarlijks geïndexeerd mag worden. Alleen als Maastricht anders harde keuzes moet maken - zoals het sluiten van buurthuizen of bezuinigen op voorzieningen - kun je een tijdelijke extra verhoging overwegen."
+        },
+        "230329": {
+          "position": "agree",
+          "explanation": "De SP vindt de hondenbelasting oneerlijk en niet meer van deze tijd. Een hond is voor veel mensen een maatje en een onmisbare steun in de strijd tegen eenzaamheid, geen overbodige luxe die je moet belasten."
+        },
+        "230330": {
+          "position": "disagree",
+          "explanation": "De SP wil geen geld steken in promotiepraatjes voor bedrijven. Dat geld verdwijnt te vaak in marketingpraat en levert weinig op voor de gemiddelde Maastrichtenaar. Investeer liever in betaalbare woningen, goede banen, sterke wijken en voorzieningen, dan vestigen bedrijven zich vanzelf."
+        },
+        "230331": {
+          "position": "disagree",
+          "explanation": "De SP wil de zondagsrust zoveel mogelijk in ere houden. Dat is de dag voor jezelf, je familie en vrienden, maar ook voor zaken als de voetbalclub en de verenigingen die Maastricht draaiende houden. Niet elk uur van de week hoeft in het teken te staan van shoppen en omzet draaien."
+        },
+        "230333": {
+          "position": "disagree",
+          "explanation": "Statushouders geen voorrang geven lost de woningnood niet op, en iedereen die beweert dat dat wél zo is, liegt. Zij zijn niet het probleem, en door dit te doen belanden gezinnen op straat. Het échte probleem is dat er decennialang veel te weinig sociale huurwoningen zijn gebouwd voor ons allemaal."
+        },
+        "230335": {
+          "position": "disagree",
+          "explanation": "Gratis taalcursussen voor internationale inwoners zijn geen gemeentelijke taak. De universiteit, de hogeschool en werkgevers bieden dit al aan hun studenten en werknemers. Dat geld kan de gemeente beter inzetten voor wonen, zorg en voorzieningen waar álle Maastrichtenaren direct iets aan hebben."
+        },
+        "230336": {
+          "position": "disagree",
+          "explanation": "Maastricht vangt nu al iets meer asielzoekers op dan verplicht is, en dat gaat over het algemeen heel goed. Maar nóg 'meer dan verplicht' is niet eerlijk als andere gemeenten achterover leunen. Wij willen een eerlijke spreiding én goede, menswaardige opvang die voor iedereen goed vol te houden is."
+        },
+        "230337": {
+          "position": "agree",
+          "explanation": "Vijftig euro is gewoon buitensporig voor je fiets soms even verkeerd parkeren. Voor veel Maastrichtenaren is de fiets geen luxe, maar broodnodig om naar werk, school of zorg te komen. Met 15 euro blijft er een prikkel en kun je handhaven, zonder mensen met een kleine portemonnee te pakken."
+        },
+        "230338": {
+          "position": "disagree",
+          "explanation": "Verenigingen draaien op vrijwilligers en betrokken ouders, niet op boa’s en extra regels. De SP wil sportclubs en buurthuizen steunen, niet opzadelen met nog meer controle en administratie. Opvoeden is in de eerste plaats de verantwoordelijkheid van ouders, niet van de vrijwilligers achter de bar."
+        },
+        "230339": {
+          "position": "agree",
+          "explanation": "Culturele vrijplaatsen zoals het Landbouwbelang zijn onmisbaar voor een levendige stad. Ze geven ruimte aan experiment, ontmoeting en tegencultuur. De SP heeft zich hier jarenlang voor ingezet en wil ze beschermen: geen ontruiming zonder volwaardig alternatief en blijvende plek voor vrije cultuur."
+        },
+        "230340": {
+          "position": "agree",
+          "explanation": "Natuurinclusief bouwen is geen luxe, maar bittere noodzaak. Het helpt tegen hittestress, zorgt voor koelere wijken en is beter voor gezondheid en welzijn. Goede woningen beschermen mensen tegen hitte en maken buurten leefbaar, vooral voor wie geen tuin of airco heeft."
+        },
+        "230347": {
+          "position": "agree",
+          "explanation": "Jongerencultuur is geen bijproduct, het is een essentiële basisvoorziening. Als je geld hebt kun je altijd wel ergens terecht, maar als je krap zit, val je nu te vaak buiten de boot. De SP wil dat elke jongere in Maastricht kan maken, repeteren en optreden - in de wijk, betaalbaar en toegankelijk."
+        },
+        "230348": {
+          "position": "disagree",
+          "explanation": "Grote evenementen zijn vaak onbetaalbaar voor de gewone Maastrichtenaar, en zorgen voor overlast en drukte in de stad. De SP kiest liever voor kleinschalige, toegankelijke evenementen en volkscultuur, in de wijken en voor iedereen. Dat is beter voor leefbaarheid en de échte ontmoetingen in de stad."
+        },
+        "230354": {
+          "position": "agree",
+          "explanation": "Fout geparkeerde fietsen blokkeren stoepen, straten en inritten. Daardoor kunnen ouderen, rolstoelgebruikers en mensen met een rollator of kinderwagen er vaak letterlijk niet langs. De SP wil daarom strenger controleren en handhaven, zodat de openbare ruimte weer voor iedereen toegankelijk is."
+        },
+        "230355": {
+          "position": "agree",
+          "explanation": "De SP wil een veilige stad, maar geen stad waar je overal gevolgd wordt. Cameratoezicht is een zwaar middel dat onze privacy aantast en lang niet altijd bewezen effectief is. De SP kiest liever voor zichtbaarheid op straat: meer boa’s en een wijkgerichte aanpak, in plaats van meer controlecamera’s."
+        },
+        "230356": {
+          "position": "agree",
+          "explanation": "Studenten horen bij Maastricht, maar woonwijken moeten wel leefbaar blijven. Als te veel huizen verkameren, verdwijnen gezinswoningen en verdwijnt de balans in de buurt. Wij willen ruimte voor studenten én voor bewoners: stop groei in overbelaste straten en zorg voor een passende plek voor studenten"
+        },
+        "230359": {
+          "position": "agree",
+          "explanation": "Wonen is recht, geen luxe. In elk bouwplan moeten betaalbare koopwoningen tot €280.000 zitten, zodat mensen met een normaal inkomen hier kunnen blijven wonen. Geen dure bouw voor beleggers, maar echte woningen voor starters, jonge gezinnen en Maastrichtenaren die hier hun leven willen opbouwen."
+        },
+        "230360": {
+          "position": "disagree",
+          "explanation": "De SP vindt dat een sociale huurwoning er is voor alle mensen die hier leven, werken en meedoen, en niet alleen voor wie toevallig binnen de gemeentegrens is geboren. Binding met Maastricht gaat over werk, familie, liefde, mantelzorg of verenigingsleven. Wonen is een recht, geen kwestie van afkomst."
+        },
+        "230361": {
+          "position": "agree",
+          "explanation": "Maastricht moet meer betaalbare woningen bouwen, en dat kán betekenen dat de stad uitbreidt. Maar voor de SP is één ding helder: niet ten koste van ons groen en landschap. Wij kiezen voor uitbreiding alleen waar dat verantwoord kan en nodig is, zonder schade aan natuur, leefbaarheid en gezondheid."
+        },
+        "230365": {
+          "position": "disagree",
+          "explanation": "De SP gelooft in meedoen, maar niet in dwang. Niet iedereen in de bijstand kán maatschappelijk werk doen door gezondheid, stress of thuissituatie. Moeten werkt dan averechts. Wie wíl en kán bijdragen, moet daartoe de kans, met hulp waar nodig. En dat vanuit vertrouwen, niet vanuit straffen."
+        },
+        "230366": {
+          "position": "agree",
+          "explanation": "De SP wil een Maastrichtse stadspas invoeren, zoals andere steden die ook al hebben, zodat mensen met een laag inkomen gratis of met korting kunnen meedoen. Een keertje naar de film of naar MVV horen bij een fijn en gelukkig leven. Niemand mag buitenspel staan omdat de portemonnee te leeg is."
+        },
+        "230368": {
+          "position": "disagree",
+          "explanation": "De sociale huurvoorraad is nu al veel te klein. De afgelopen jaren zijn er massaal sociale huurwoningen verkocht, met ellelange wachtlijsten tot gevolg. De SP wil juist meer goede en ECHT betaalbare sociale huurwoningen, zodat iedereen betaalbaar kan wonen - niet nóg minder door ze uit te verkopen."
+        },
+        "230369": {
+          "position": "disagree",
+          "explanation": "De SP wil een echt autoluwe binnenstad. Meer parkeerplaatsen trekken juist extra auto’s aan en maken de stad drukker en ongezonder. We kiezen voor meer ruimte voor groen, voetgangers en fietsers, met parkeerruimte vooral voor mensen die de auto écht nodig hebben."
+        },
+        "230370": {
+          "position": "agree",
+          "explanation": "30 km/u-zones maken woonwijken veiliger en leefbaarder. Minder hard rijden betekent minder ongelukken, minder lawaai en meer ruimte voor kinderen om buiten te spelen en ouderen om zich veilig te verplaatsen. Wijken zijn om in te wonen, niet om doorheen te scheuren."
+        },
+        "230373": {
+          "position": "agree",
+          "explanation": "Maastricht ligt midden in de Euregio. Een treinverbinding met Hasselt maakt het voor Maastrichtenaren makkelijker om te werken, familie te bezoeken en boodschappen te doen in België. Goed en betaalbaar openbaar vervoer over de grens is essentieel, zeker voor mensen zonder auto."
+        },
+        "230380": {
+          "position": "agree",
+          "explanation": "Menstruatiearmoede is voor steeds meer meiden en vrouwen een echt probleem: maandverband of tampons zijn duur en niet iedereen kan dat elke maand zomaar missen. Niemand zou zich ervoor moeten schamen of naar noodoplossingen moeten grijpen. Gewoon gratis tampons en maandverband, net als WC-papier."
+        }
+      }
+    },
+    {
+      "id": 230302,
+      "name": "PVV",
+      "fullName": "PVV",
+      "website": "https://www.maastricht.pvv.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "230320": {
+          "position": "agree",
+          "explanation": "Wij als PVV vinden dat de bestuurders open en eerlijk moeten zijn over met wie zij spreken. Inwoners moeten kunnen zijn wie er aan de knoppen draait in onze gemeente."
+        },
+        "230322": {
+          "position": "agree",
+          "explanation": "De burger dient meer inspraak te kunnen geven."
+        },
+        "230324": {
+          "position": "agree",
+          "explanation": "De stad is van de inwoners. Niet van bestuurders, ambtenaren of actiegroepen. Te vaak worden ingrijpende besluiten genomen over de hoofden van Maastrichtenaren heen. Een referendum zorgt ervoor dat het gemeentebestuur moet luisteren naar wat de meerderheid van de inwoners echt wil."
+        },
+        "230325": {
+          "position": "disagree",
+          "explanation": "Wij vinden dat er geen extra belastinggeld naar grote, dure projecten zoals Brightlands moet gaan. Eerst moeten basiszaken voor inwoners op orde zijn: betaalbare woningen, veilige wijken, goede zorg voor ouderen en minder bureaucratie en verspilling."
+        },
+        "230326": {
+          "position": "disagree",
+          "explanation": "De ozb moet juist minder worden. Inwoners van Maastricht hebben al te maken met stijgende kosten voor wonen, energie, boodschappen en zorg. Een hogere ozb betekent opnieuw extra lasten voor hardwerkende burgers, gezinnen en ouderen."
+        },
+        "230329": {
+          "position": "agree",
+          "explanation": "Steeds meer gemeentes schaffen de hondenbelasting af. Laten wij als hoofdstad dan ook het goede voorbeeld geven."
+        },
+        "230330": {
+          "position": "disagree",
+          "explanation": "We moeten eerst de focus leggen op de ondernemers in Maastricht zelf."
+        },
+        "230331": {
+          "position": "agree",
+          "explanation": "Mensen hebben steeds drukkere weken. Door op zondagavond boodschappen te kunnen doen krijgen inwoners meer keuzevrijheid om hun eigen tijd in te delen."
+        },
+        "230333": {
+          "position": "agree",
+          "explanation": "Onze stad is VOL. De Maastrichtse burger staat jarenlang op de wachtlijst. Daarom hoort de Maastrichtenaar voorrang te krijgen en NIET de statushouder."
+        },
+        "230335": {
+          "position": "disagree",
+          "explanation": "Gratis taalcursussen aanbieden betekent dat de Maastrichtse belastingbetaler opdraait voor een verantwoordelijkheid die bij de betrokkene zelf ligt. Wie ervoor kiest om in Maastricht te wonen, mag ook zelf de inspanning leveren om de Nederlandse taal te spreken."
+        },
+        "230336": {
+          "position": "disagree",
+          "explanation": "Onze stad is vol. Tot hier en niet verder. Woningen zijn schaars, voorzieningen staan onder druk, de straten worden steeds onveiliger. Er is geen ruimte meer."
+        },
+        "230337": {
+          "position": "agree",
+          "explanation": "Wij steunen een verlaging zodat inwoners niet onnodig worden belast en de drempel om een fiets op te halen lager wordt."
+        },
+        "230338": {
+          "position": "disagree",
+          "explanation": "Verenigingen zijn de ruggengraat van onze Maastrichtse gemeenschap. Zij draaien grotendeels op vrijwilliger en worden nu al overladen met regels en controles. Er moet vooral vertrouwen zijn in onze verenigingen zolang zij verantwoordelijk omgaan met alcohol en jongeren beschermen. De gemeente moet ondersteunen, niet bestraffen. "
+        },
+        "230339": {
+          "position": "disagree",
+          "explanation": "De gemeente moet kiezen voor veiligheid en leefbaarheid, niet voor het subsidiëren of beschermen van vrijplaatsen. Cultuur is prima, maar zonder uitzonderingen: overal geldt dezelfde wet- en regelgeving en iedereen houdt zich aan dezelfde regels. "
+        },
+        "230340": {
+          "position": "disagree",
+          "explanation": "Dit verhoogt kosten en bemoeilijkt bouwen. Wij willen sneller en betaalbaar bouwen zonder extra regels zodat Maastrichtenaren sneller een woning krijgen."
+        },
+        "230347": {
+          "position": "disagree",
+          "explanation": "De gemeente besteedt al veel aan cultuur. Extra investeringen zijn niet nodig. Prioriteit moet liggen bij basisvoorzieningen voor jongeren zoals ontmoetingsplekken en sport."
+        },
+        "230348": {
+          "position": "disagree",
+          "explanation": "Wij willen ons meer focussen op bestaande Maastrichtse feesten, lokale tradities en initiatieven van bestaande ondernemers in Maastricht."
+        },
+        "230354": {
+          "position": "agree",
+          "explanation": "De gemeente moet inderdaad strenger optreden tegen fout geparkeerde fietsen. Ze zorgen voor veel overlast. Strakkere handhaving houdt Maastricht netjes en toegankelijke. "
+        },
+        "230355": {
+          "position": "disagree",
+          "explanation": "Er moet juist meer cameratoezicht komen."
+        },
+        "230356": {
+          "position": "agree",
+          "explanation": "De druk en overlast in woonwijken zijn sterk toegenomen. Inwoners, vooral ouderen en gezinnen, zien leefbaarheid en veiligheid afnemen door de groei van studentenhuizen. Studenten zijn welkom, maar niet ten koste van onze inwoners; zij verdienen voorrang op een veilige en leefbare buurt. "
+        },
+        "230359": {
+          "position": "agree",
+          "explanation": "Door in elk bouwproject betaalbare woningen tot 280.000 op te nemen krijgen starters en gezinnen meer kansen en wordt de woningmarkt toegankelijker."
+        },
+        "230360": {
+          "position": "agree",
+          "explanation": "De Maastrichtse burger die al jarenlang op de wachtlijst staat hoort altijd voorrang te krijgen."
+        },
+        "230361": {
+          "position": "agree",
+          "explanation": "Ja alleen waar het echt nodig is en verantwoord kan - altijd de Maastrichtse burger op 1."
+        },
+        "230365": {
+          "position": "agree",
+          "explanation": "PVV Maastricht vindt dat wie een bijstandsuitkering ontvangt, waar mogelijk een maatschappelijke tegenprestatie moet leveren. Dit geeft structuur, draagt bij aan de samenleving en houdt de bijstand eerlijk voor iedereen die het echt nodig heeft."
+        },
+        "230366": {
+          "position": "agree",
+          "explanation": "PVV steunt een sociale pas voor inwoners met een laag inkomen. Zo kunnen zij gratis of met korting deelnemen. Dit versterkt gezondheid en meedoen in Maastricht zonder hoge kosten voor inwoners."
+        },
+        "230368": {
+          "position": "agree",
+          "explanation": "PVV Maastricht vindt dat sociale huurders waar mogelijk de kans moeten krijgen hun woning te kopen. Dit vergroot eigenaarschap en doorstroom. De gemeente mag corporaties hierin stimuleren zolang het betaalbaar blijft voor inwoners van Maastricht."
+        },
+        "230369": {
+          "position": "agree",
+          "explanation": "Het centrum heeft te weinig (betaalbare!) parkeercapaciteit. Dit belemmert de bereikbaarheid voor inwoners en bezoekers."
+        },
+        "230370": {
+          "position": "disagree",
+          "explanation": "Veel straten zijn al veilig genoeg en extra zones zorgen voor nog meer frustratie en onnodige vertraging. Wij kiezen voor gerichte handhaving in echte probleemstraten."
+        },
+        "230373": {
+          "position": "disagree",
+          "explanation": "Wij zijn tegen wanneer de kosten bij Maastricht liggen. Eerst investeren in veiligheid, leefbaarheid en bereikbaarheid binnen onze eigen stad."
+        },
+        "230380": {
+          "position": "disagree",
+          "explanation": "De PVV Maastricht vindt dat de gemeente geen extra taken en kosten moet oppakken die niet tot haar kerntaken behoren. Gratis menstruatieproducten leiden tot structurele kosten en extra regels; voor mensen met geldproblemen bestaan al gerichte regelingen waarin beter kan worden geïnvesteerd. "
+        }
+      }
+    },
+    {
+      "id": 230300,
+      "name": "50PLUS",
+      "fullName": "50PLUS",
+      "website": "https://maastricht50plus.nl/nl",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "230320": {
+          "position": "agree",
+          "explanation": "Gezien de recente ervaringen merken we dat dit nodig is. Transparantie is absoluut noodzakelijk! "
+        },
+        "230322": {
+          "position": "disagree",
+          "explanation": "Er mag meer geld beschikbaar zijn voor inwoners om over de eigen prioriteiten te beschikken, maar de huidige werkwijze van de burgerbegroting lijkt niet de beste wijze."
+        },
+        "230324": {
+          "position": "agree",
+          "explanation": "Het referendum moet dan bindend zijn conform het Zwitserse model. De keuze moet helder gedefinieerd zijn."
+        },
+        "230325": {
+          "position": "disagree",
+          "explanation": "Er zijn besluiten genomen om Brightlands te ontwikkelen en er zijn geen extra middelen nodig."
+        },
+        "230326": {
+          "position": "disagree",
+          "explanation": "Een verhoging van de ozb komt ook terecht bij inwoners die al moeite hebben om de eindjes aan elkaar te knopen. Financiële uitdagingen primair zoeken in het beperken van de uitgaven."
+        },
+        "230329": {
+          "position": "disagree",
+          "explanation": "50PLUS vindt het goed dat de kosten van het hondenbezit voor de gemeente gefinancierd worden door de hondenbelasting."
+        },
+        "230330": {
+          "position": "disagree",
+          "explanation": "Meer geld steken in het aantrekkelijk maken van Maastricht als vestigingsplaats door goede faciliteiten te bieden, in plaats van nog meer promotie."
+        },
+        "230331": {
+          "position": "disagree",
+          "explanation": "50PLUS is altijd tegen de verruiming geweest. Dit gaat zeker ten koste van het verenigingsleven, de kleine ondernemer die dan noodgedwongen mee moet."
+        },
+        "230333": {
+          "position": "agree",
+          "explanation": "50PLUS is van mening is dat hier sprake is van discriminatie van de eigen bevolking. Er zijn oplossingen nodig voor het woonprobleem, maar dat wordt niet opgelost door de eigen bevolking achter te stellen."
+        },
+        "230335": {
+          "position": "disagree",
+          "explanation": "Er bestaan geen gratis cursussen. De verantwoordelijkheid ligt primair bij de AZC's en onderwijsinstellingen of andere organisaties."
+        },
+        "230336": {
+          "position": "disagree",
+          "explanation": "50PLUS vindt aan de wettelijke eisen voldoende. De asielopvang van Eijsden-Margraten is net buiten de stadsgrenzen van de Maastricht gefaciliteerd en hier hebben de inwoners van Maastricht ook mee te maken."
+        },
+        "230337": {
+          "position": "disagree",
+          "explanation": "50PLUS constateert dat verkeerde gestalde fietsen de veiligheid van ouderen en inwoners met een beperking in gevaar brengen. Het is gewoon fatsoen dat je de fiets op de goede plek neerzet. Het is een groot probleem dat aangepakt moet worden."
+        },
+        "230338": {
+          "position": "disagree",
+          "explanation": "De regels voor horeca en verenigingen horen op dezelfde wijze gehandhaafd te worden, dus hoeft niet strenger."
+        },
+        "230339": {
+          "position": "disagree",
+          "explanation": "50PLUS ziet hier niet de toegevoegde waarde van."
+        },
+        "230340": {
+          "position": "agree",
+          "explanation": "Het is beter en goedkoper en makkelijker om dit meteen bij de nieuwbouw op te nemen. Op termijn moet de natuur beschermd worden willen we deze goed overdragen naar de volgende generaties."
+        },
+        "230347": {
+          "position": "disagree",
+          "explanation": "Er is meer dan voldoende aanbod voor jongeren."
+        },
+        "230348": {
+          "position": "disagree",
+          "explanation": "Er zijn in Maastricht voldoende grote evenementen. Het MECC is zelf verantwoordelijk om hun evenementen te organiseren en aan te trekken."
+        },
+        "230354": {
+          "position": "agree",
+          "explanation": "Controleren en effectieve maatregelen nemen door het verwijderen van fietsen. Deze fout geparkeerde fietsen brengen de veiligheid van ouderen en inwoners met beperkingen in gevaar."
+        },
+        "230355": {
+          "position": "disagree",
+          "explanation": "In deze tijd moeten de technische mogelijkheden gebruikt worden om de stad te verbeteren. Het gebruik van slimme camera's die voor meerdere doeleinden zijn te gebruiken is aan te bevelen."
+        },
+        "230356": {
+          "position": "agree",
+          "explanation": "Het levensritme van studenten en andere inwoners loopt in het algemeen niet gelijk. Daarom is nog meer vermenging tussen de groepen niet wenselijk."
+        },
+        "230359": {
+          "position": "agree",
+          "explanation": "50PLUS geeft daarbij de voorkeur aan levensbestendige woningen die de doorstroom kunnen bevorderen om zo de woningproblematiek mede op te lossen."
+        },
+        "230360": {
+          "position": "agree",
+          "explanation": "50PLUS begrijpt heel goed dat de eigen inwoners graag in de stad willen wonen en 50PLUS wil ze ook de mogelijkheid geven om dit te realiseren."
+        },
+        "230361": {
+          "position": "disagree",
+          "explanation": "Niet nodig en lijkt ook moeilijk realiseerbaar. Er zijn nog voldoende mogelijkheden om ook in de hoogte uit te breiden. Goed beoordelen welke woningen noodzakelijk zijn in de toekomst."
+        },
+        "230365": {
+          "position": "agree",
+          "explanation": "50PLUS vindt wel dat dit bij de persoon moet passen. Er zijn genoeg maatschappelijke opgaven waar de nodige hulp ontbreekt, maar het mag niet leiden tot verdringen van arbeidsplaatsen."
+        },
+        "230366": {
+          "position": "agree",
+          "explanation": "50PLUS wil niet dat inwoners om financiële redenen aan de kant moeten blijven staan. Wel moet ervoor gewaakt worden dat men niet meer wil meedoen aan het arbeidsproces omdat men faciliteiten kwijtraakt."
+        },
+        "230368": {
+          "position": "agree",
+          "explanation": "Maar hier moet wel gewaakt worden voor speculatie en dat deze woningen op korte termijn verkocht worden."
+        },
+        "230369": {
+          "position": "disagree",
+          "explanation": "50PLUS pleit voor een autoluwe binnenstad met Park en Ride aan de randen van de stad met goede verbindingen"
+        },
+        "230370": {
+          "position": "agree",
+          "explanation": "De tijdwinst voor automobilisten of andere weggebruikers is minimaal en beperking van de snelheid vergroot enorm de veiligheid in de buurten. Hierdoor krijgen kinderen ook betere mogelijkheden om buiten te spelen."
+        },
+        "230373": {
+          "position": "agree",
+          "explanation": "Er is nu een trein Maastricht- Visé-Luik-Tongeren-Hasselt. Dat is absurd. In plaats van juridisch te bakkeleien moet de verbinding tussen de twee hoofdsteden van Limburg en twee universiteiten verbeteren. En ook de verbinding naar Vlaanderen. Het behoud van de Spoorbrug is essentieel hierin."
+        },
+        "230380": {
+          "position": "disagree",
+          "explanation": "50PLUS wil dat inwoners goed geïnformeerd zijn waar men terecht kan. Het aantal plekken voldoet en hier is ook een belangrijke taak weggelegd voor de onderwijsinstellingen."
+        }
+      }
+    },
+    {
+      "id": 230290,
+      "name": "Sociaal Actieve Burgerpartij",
+      "fullName": "Sociaal Actieve Burgerpartij",
+      "website": "https://www.sab-maastricht.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "230320": {
+          "position": "agree",
+          "explanation": "De Sociaal Actieve Burgerpartij (SAB) is voor transparantie in het bestuur, maar tegen onnodige bureaucratie. Een lobbyregister kan waardevol zijn, mits het praktisch is ingericht en echt bijdraagt aan inzicht voor inwoners."
+        },
+        "230322": {
+          "position": "disagree",
+          "explanation": "De Sociaal Actieve Burgerpartij vindt burgerparticipatie belangrijk, maar ziet de burgerbegroting niet als doel op zich. Eerst moet blijken dat het huidige budget alle wijken bereikt en echt resultaat oplevert. Meer geld is alleen zinvol als het aantoonbaar werkt."
+        },
+        "230324": {
+          "position": "disagree",
+          "explanation": "SAB vindt inspraak van inwoners belangrijk, maar ziet referenda niet als standaardinstrument. Bij complexe onderwerpen kiest SAB voor goede participatie, wijkgesprekken en duidelijke besluitvorming door de raad, zodat belangen"
+        },
+        "230325": {
+          "position": "disagree",
+          "explanation": "SAB ziet het belang van Brightlands Maastricht Health Campus, maar vindt dat extra gemeentelijk geld alleen verantwoord is bij aantoonbare meerwaarde voor werkgelegenheid, zorg en inwoners. Eerst resultaat en transparantie, dan pas extra middelen."
+        },
+        "230326": {
+          "position": "disagree",
+          "explanation": "SAB vindt dat de ozb de afgelopen jaren al fors is gestegen. In een tijd waarin veel inwoners financieel onder druk staan, is verdere verhoging onwenselijk. SAB kiest voor kostenbeheersing en kritisch kijken naar uitgaven, niet naar hogere lasten. BSGW moet omlaag als de gemeente geld over houdt."
+        },
+        "230329": {
+          "position": "agree",
+          "explanation": "SAB vindt de hondenbelasting oneerlijk en achterhaald. Hondenbezitters betalen al voor zorg en voorzieningen, terwijl de opbrengst niet direct ten goede komt aan hondenbeleid. Afschaffing is eerlijker en past bij lagere lokale lasten."
+        },
+        "230330": {
+          "position": "disagree",
+          "explanation": "SAB vindt dat Maastricht aantrekkelijk wordt door goede bereikbaarheid, betaalbare ruimte en duidelijke regels, niet door dure promotiecampagnes. Eerst investeren in randvoorwaarden voor ondernemers; promotie volgt vanzelf als de basis op orde is."
+        },
+        "230331": {
+          "position": "agree",
+          "explanation": "SAB vindt dat zondagen en feestdagen ruimte moeten bieden voor rust en familie. Verplichte verruiming van openingstijden zet druk op personeel en kleine ondernemers. Keuzevrijheid voor ondernemers is prima, maar geen verdere verruiming afdwingen."
+        },
+        "230333": {
+          "position": "agree",
+          "explanation": "SAB vindt dat sociale huurwoningen eerlijk moeten worden verdeeld op basis van wachttijd en urgentie. Voorrang voor statushouders is niet rechtvaardig tegenover andere woningzoekenden. Wel blijft humane, tijdelijke opvang noodzakelijk."
+        },
+        "230335": {
+          "position": "agree",
+          "explanation": "SAB vindt dat taal de sleutel is tot meedoen. Gratis taalcursussen helpen internationale inwoners sneller integreren, werk vinden en contact leggen in Maastricht. Dat versterkt sociale samenhang en zelfredzaamheid."
+        },
+        "230336": {
+          "position": "disagree",
+          "explanation": "SAB vindt dat Maastricht moet voldoen aan landelijke verplichtingen, maar niet méér dan dat. Extra opvang legt druk op wonen en voorzieningen. Wel staat SAB voor humane, tijdelijke opvang binnen duidelijke en haalbare grenzen."
+        },
+        "230337": {
+          "position": "agree",
+          "explanation": "SAB vindt €50 buitensporig en onevenredig. Een lager tarief van €15 is eerlijker, voorkomt dat fietsen blijven liggen en houdt handhaving proportioneel. De maatregel moet corrigeren, niet straffen."
+        },
+        "230338": {
+          "position": "disagree",
+          "explanation": "SAB vindt dat bestaande alcoholregels zorgvuldig en consequent moeten worden gehandhaafd, vooral ter bescherming van jongeren. Extra streng handhaven of nieuwe controles is niet nodig; focus op duidelijke regels, preventie en samenwerking met verenigingen."
+        },
+        "230339": {
+          "position": "agree",
+          "explanation": "SAB heeft geen expliciet standpunt over vrijplaatsen, maar staat wel voor ruimte voor lokale initiatieven, cultuur van onderop en sociale ontmoeting. Culturele vrijplaatsen passen daarbij, mits veilig, haalbaar en in balans met de stad."
+        },
+        "230340": {
+          "position": "agree",
+          "explanation": "SAB vindt dat nieuwbouw toekomstbestendig moet zijn. Natuurinclusief bouwen, zoals nestkasten en groen, versterkt biodiversiteit en leefkwaliteit. Dit past bij praktisch en verantwoord bouwen, mits het betaalbaar en uitvoerbaar blijft."
+        },
+        "230347": {
+          "position": "agree",
+          "explanation": "SAB vindt cultuur belangrijk voor ontwikkeling en ontmoeting van jongeren. Meer aandacht voor betaalbaar en toegankelijk cultuuraanbod versterkt talent, sociale samenhang en perspectief. Wel gericht inzetten, dichtbij jongeren en met zichtbaar resultaat."
+        },
+        "230348": {
+          "position": "disagree",
+          "explanation": "SAB vindt dat evenementen moeten passen bij de draagkracht van de stad. Niet méér om het aantal, maar de juiste evenementen die leefbaarheid, veiligheid en kosten in balans houden. Kwaliteit en spreiding gaat boven groei om groei."
+        },
+        "230354": {
+          "position": "agree",
+          "explanation": "Foutgeparkeerde fietsen zijn al vele jaren een doorn in het oog van de Maastrichtse bevolking en moet streng gehandhaaft worden. Echter, tegelijkertijd moeten er ook voldoende en betaalbare  fietsenstallingen worden gerealiseerd. "
+        },
+        "230355": {
+          "position": "disagree",
+          "explanation": "SAB wil meer en snellere inzet cameratoezicht op plaatsen waar veel overlast plaats vindt en extra inzet mobiele camera's, ook in de wijken."
+        },
+        "230356": {
+          "position": "agree",
+          "explanation": "SAB vindt dat woonwijken in de eerste plaats leefbaar moeten blijven voor bewoners. Ongebreidelde groei van studentenhuizen leidt tot overlast en verdringing. Kies voor balans: studentenhuisvesting concentreren op passende locaties, niet in elke woonwijk."
+        },
+        "230359": {
+          "position": "disagree",
+          "explanation": "SAB wil betaalbare koopwoningen stimuleren, maar is tegen een verplichte norm in elk bouwplan. De woningmarkt verschilt per locatie. Kies voor maatwerk, mix van woningtypen en betaalbaarheid via slimme afspraken, niet rigide regels."
+        },
+        "230360": {
+          "position": "agree",
+          "explanation": "SAB vindt het redelijk dat inwoners van Maastricht die hier wonen en wachten, zoveel mogelijk voorrang krijgen bij sociale huur. Dat bevordert eerlijkheid en draagvlak, binnen landelijke regels en met oog voor urgentie."
+        },
+        "230361": {
+          "position": "neither",
+          "explanation": "SAB vindt dat woningbouw nodig is, maar uitbreiding van Maastricht is geen vanzelfsprekendheid. Eerst inzetten op inbreiding, hergebruik en verdichting waar dat kan. Uitbreiding alleen als dit zorgvuldig, haalbaar en landschappelijk verantwoord is."
+        },
+        "230365": {
+          "position": "disagree",
+          "explanation": "SAB is tegen een algemene werkplicht in de bijstand. Wie nog geen re-integratietraject volgt, kan worden gestimuleerd tot vrijwillige, zinvolle activiteiten. Maatwerk, begeleiding en perspectief staan voorop, geen dwang."
+        },
+        "230366": {
+          "position": "agree",
+          "explanation": "SAB vindt dat meedoen niet mag afhangen van inkomen. Een sociale pas maakt sport, cultuur en cursussen toegankelijk voor mensen met een laag inkomen en versterkt gezondheid, ontwikkeling en sociale samenhang. Echter, de pas mag niet stigmatiserend werken dus eerder een soort kortingspas tot 100%."
+        },
+        "230368": {
+          "position": "agree",
+          "explanation": "SAB vindt dat sociale huurders die dat willen en kunnen, de kans moeten krijgen hun woning te kopen. Dit vergroot woonzekerheid en eigenaarschap. Wel moet de sociale huurvoorraad op peil blijven en verkoop verantwoord gebeuren."
+        },
+        "230369": {
+          "position": "disagree",
+          "explanation": "SAB vindt dat parkeren in het centrum van Maastricht in balans moet zijn met leefbaarheid en bereikbaarheid. Niet méér of minder als uitgangspunt, maar maatwerk per gebied, met goede alternatieven en duidelijke keuzes."
+        },
+        "230370": {
+          "position": "agree",
+          "explanation": "SAB vindt verkeersveiligheid belangrijk, en wil meer 30-km/u in woonwijken. De situatie verschilt per buurt. Kies voor maatwerk: 30 km/u waar het de veiligheid echt verbetert."
+        },
+        "230373": {
+          "position": "agree",
+          "explanation": "Belangrijk vanwege de verbinding tussen de universiteiten van Maastricht en Hasselt. \r\n"
+        },
+        "230380": {
+          "position": "agree",
+          "explanation": "SAB vindt dat menstruatieproducten basisvoorzieningen zijn. Gratis verstrekking voorkomt armoede en uitsluiting, vooral bij jongeren en mensen met een laag inkomen, en draagt bij aan gezondheid, waardigheid en gelijke kansen."
+        }
+      }
+    },
+    {
+      "id": 230291,
+      "name": "M:OED",
+      "fullName": "M:OED",
+      "website": "https://stemvoormoed.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "230320": {
+          "position": "agree",
+          "explanation": "Openheid is een belangrijke waarde voor goed bestuur."
+        },
+        "230322": {
+          "position": "disagree",
+          "explanation": "M:OED pleit voor meer directe democratie om inwoners te betrekken, de burgerbegroting draagt daar niet aan bij omdat deze vaak slechts een kleine groep bereikt en achtergestelde groepen niet helpt. Extra geld kan beter worden ingezet voor democratische vernieuwing zoals een studentenraad."
+        },
+        "230324": {
+          "position": "disagree",
+          "explanation": "Om een mening vragen is goed. Een referendum is niet de oplossing."
+        },
+        "230325": {
+          "position": "agree",
+          "explanation": "Dit geld kan ingezet worden voor jongeren om een bedrijf te starten, of voor sociale en studentenhuisvesting in een bruisend gebied."
+        },
+        "230326": {
+          "position": "disagree",
+          "explanation": "Dit leidt voor (onder andere) huurders tot hogere woonlasten, die al hoog genoeg zijn."
+        },
+        "230329": {
+          "position": "disagree",
+          "explanation": "Hondenbelasting is een belangrijke inkomstenbron voor de gemeente."
+        },
+        "230330": {
+          "position": "agree",
+          "explanation": "Er is een groot en divers aanbod in werkgelegenheid nodig voor jonge mensen om hen in Maastricht te houden."
+        },
+        "230331": {
+          "position": "agree",
+          "explanation": "Het is niet uit te leggen dat de supermarkten om 18.00 uur al dichtgaan. Langere openingstijden kunnen een gezondere en duurzamere levensstijl bevorderen. M:OED heeft hier altijd voor gepleit."
+        },
+        "230333": {
+          "position": "disagree",
+          "explanation": "Er moet op worden gelet dat iedereen een eerlijke kans heeft om een woning te krijgen. Maar als de noden heel hoog zijn, moeten sommige asielzoekers voorrang kunnen krijgen."
+        },
+        "230335": {
+          "position": "agree",
+          "explanation": "Het is goed als iedereen die Nederlands wil leren dat ook kan, zeker als dit de werkgelegenheid bevordert."
+        },
+        "230336": {
+          "position": "disagree",
+          "explanation": "Iedere stad moet haar deel bijdragen. Maastricht hoeft zich daarvoor niet extra in te zetten."
+        },
+        "230337": {
+          "position": "agree",
+          "explanation": "Maastricht is buitensporig duur in vergelijking met andere steden. Het wordt nu onnodig moeilijk gemaakt om je fiets op te halen, terwijl een fiets een essentieel vervoersmiddel is. M:OED wil een fietsvriendelijk Maastricht."
+        },
+        "230338": {
+          "position": "disagree",
+          "explanation": "Verenigingen zijn belangrijke plaatsen van verbinding. Die moet je steunen, in plaats van het hun lastiger te maken."
+        },
+        "230339": {
+          "position": "agree",
+          "explanation": "M:OED vindt dat er meer (alternatieve) cultuur moet zijn voor jongeren. Het Landbouwbelang is daar een mooi voorbeeld van."
+        },
+        "230340": {
+          "position": "agree",
+          "explanation": "Natuurinclusief bouwen hoeft niet duurder te zijn. Het zorgt voor gezondheidseffecten en een bewezen toename in woongenot. Vergroening is de toekomst; het helpt ook tegen hittestress."
+        },
+        "230347": {
+          "position": "agree",
+          "explanation": "M:OED vindt dat er te weinig cultuur is voor de jongere leeftijdsgroep. Jongeren moeten gefaciliteerd worden om zelf dingen te organiseren."
+        },
+        "230348": {
+          "position": "agree",
+          "explanation": "Ja, maar M:OED vindt dat dit dan moet gaan om evenementen voor jongeren, zoals bijvoorbeeld een festival."
+        },
+        "230354": {
+          "position": "disagree",
+          "explanation": "De gemeente moet zorgen voor meer fietsenstallingen. M:OED wil fietsers niet straffen voor het gebrek hieraan."
+        },
+        "230355": {
+          "position": "disagree",
+          "explanation": "Zolang de balans tussen privacy en veiligheid in de gaten wordt gehouden, is het niet nodig om minder cameratoezicht te hebben."
+        },
+        "230356": {
+          "position": "disagree",
+          "explanation": "Er moeten meer woningen voor studenten in de binnenstad komen. De gemeente moet niet alleen saaie studiocomplexen bouwen. Er is te veel regelgeving die de aanpak van het huisvestingsprobleem bemoeilijkt."
+        },
+        "230359": {
+          "position": "agree",
+          "explanation": "Het is belangrijk dat jongeren aan een betaalbare woning kunnen komen."
+        },
+        "230360": {
+          "position": "disagree",
+          "explanation": "Als je de kenniseconomie naar de stad wilt brengen, moeten mensen van buiten de stad een gelijke kans krijgen op een woning."
+        },
+        "230361": {
+          "position": "agree",
+          "explanation": "Het is belangrijk dat er voldoende betaalbare woningen voor jongeren zijn."
+        },
+        "230365": {
+          "position": "agree",
+          "explanation": "Het is goed als iedereen die daartoe in staat is, op de een of andere manier een bijdrage aan de samenleving levert, ook middels vrijwilligerswerk."
+        },
+        "230366": {
+          "position": "agree",
+          "explanation": "M:OED vindt dat het voor iedereen beschikbaar moet zijn. Het is belangrijk dat studenten en andere mensen met een laag inkomen hiervan gebruik kunnen maken. Dit is een kans om studenten te integreren in het Maastrichtse leven."
+        },
+        "230368": {
+          "position": "disagree",
+          "explanation": "Dit zorgt voor een afname van het aanbod aan sociale huurwoningen. Corporaties moeten juist meer voor studenten en jongeren gaan bouwen."
+        },
+        "230369": {
+          "position": "disagree",
+          "explanation": "Maastricht moet naar een autoluw centrum toe met minder autoparkeerplaatsen en meer ruimte voor fietsers, voetgangers en vergroening."
+        },
+        "230370": {
+          "position": "agree",
+          "explanation": "Dit draagt bij aan de veiligheid en maakt de straat prettiger."
+        },
+        "230373": {
+          "position": "agree",
+          "explanation": "Het is van belang dat Maastricht goede treinverbindingen krijgt en kan fungeren als de poort naar Europa. Een treinverbinding naar Hasselt verbetert de ontsluiting naar steden als Brussel en Antwerpen."
+        },
+        "230380": {
+          "position": "agree",
+          "explanation": "Menstruatiearmoede is een bloedserieus probleem. Menstruatie mag geen reden zijn om thuis te moeten blijven. Het gratis aanbieden van deze producten is essentieel voor de kansengelijkheid."
+        }
+      }
+    },
+    {
+      "id": 257716,
+      "name": "Liberale Partij Maastricht",
+      "fullName": "Liberale Partij Maastricht",
+      "website": "https://liberalepartijmaastricht.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "230320": {
+          "position": "agree",
+          "explanation": "De gemeente moet transparant zijn."
+        },
+        "230322": {
+          "position": "disagree",
+          "explanation": "Omdat het bij een burgerbegroting niet om belangrijke zaken gaat is de invloed niet groot. Het gaat er hier meer om om groepen een idee te geven dat ze invloed uitoefenen. Het gaat om kleine zaken in de buurt te doen. Bv een bank, of een watertappunt."
+        },
+        "230324": {
+          "position": "agree",
+          "explanation": "Geef de burger een stem, vooral bij belangrijke zaken."
+        },
+        "230325": {
+          "position": "disagree",
+          "explanation": "De burger weet waarschijnlijk niet dat er al miljoenen in Brightlands wordt geïnvesteerd. Als er ergens geld over is, valt Brightlands meestal nog eens in de prijzen."
+        },
+        "230326": {
+          "position": "disagree",
+          "explanation": "Nee, deze is al heel hoog in Maastricht."
+        },
+        "230329": {
+          "position": "agree",
+          "explanation": "De meeste gemeenten hebben de hondenbelasting al afgeschaft. Maastricht moet nu ook volgen."
+        },
+        "230330": {
+          "position": "disagree",
+          "explanation": "De afdeling economie moet stoppen met geld aan advertenties en promotie uit te geven, ze moeten eindelijk weer eens actief acquisitie voeren om bedrijven hier naar toe te halen die vaste goedbetaalde banen opleveren die aansluiten op het aanbod van mensen die zonder werk zitten. Dus actief aan de slag."
+        },
+        "230331": {
+          "position": "disagree",
+          "explanation": "Personeel moet ook vrije dagen hebben. Er zijn genoeg mogelijkheden om te winkelen."
+        },
+        "230333": {
+          "position": "agree",
+          "explanation": "De massa-immigratie moet stoppen en de Spreidingswet faciliteert deze alleen maar. We hebben al een tekort aan woningen, ruimte en natuur voor de eigen bevolking dus meer asielzoekers en statushouders opnemen is een slechte zaak. We zijn tegen voorkeursbehandeling van deze groep."
+        },
+        "230335": {
+          "position": "disagree",
+          "explanation": "De universiteit moet dat doen."
+        },
+        "230336": {
+          "position": "disagree",
+          "explanation": "We moeten de massa-immigratie niet faciliteren."
+        },
+        "230337": {
+          "position": "disagree",
+          "explanation": "Er is voor miljoenen een fietsenstalling bij het station gebouwd, maar fietsen worden nog steeds op stoepen en pleinen gestald. Dat is egoïstisch. Daarom moet de boete van 50 euro blijven gelden, ook voor studenten. Soms is een financiële prikkel nodig om gedrag te veranderen."
+        },
+        "230338": {
+          "position": "agree",
+          "explanation": "Als het gaat om drankmisbruik met slechte afloop wegens alcoholvergiftingen en vernielingen bij studentenverenigingen bijvoorbeeld."
+        },
+        "230339": {
+          "position": "agree",
+          "explanation": "Goed als er een alternatief wordt geboden."
+        },
+        "230340": {
+          "position": "agree",
+          "explanation": "Er moeten ook wel grasvelden en parkjes aangelegd worden."
+        },
+        "230347": {
+          "position": "agree",
+          "explanation": "Er zou weer een muziekschool moeten komen voor jongeren die ook kunnen doorstromen naar het conservatorium. De lessen bij Kumulus in schilderen, toneel et cetera zouden in prijs kunnen dalen."
+        },
+        "230348": {
+          "position": "disagree",
+          "explanation": "De evenementenkalender is propvol en we moeten de leefbaarheid in de stad niet helemaal aantasten. Elk weekend is er al veel te doen."
+        },
+        "230354": {
+          "position": "agree",
+          "explanation": "De gemeente weet waar de fietsensalami zich manifesteert, maar handhaving krijgt de instructie weinig op te treden. Zachte maatregelen zoals charmeoffensieven werken niet. Alleen direct opruimen helpt. Het probleem is oplosbaar, maar handhaving wordt afgeschaald en prioriteit ontbreekt."
+        },
+        "230355": {
+          "position": "disagree",
+          "explanation": "Om daders te betrappen om meer veiligheid moeten meer camera’s komen."
+        },
+        "230356": {
+          "position": "agree",
+          "explanation": "Studentencampussen moeten er gebouwd worden, dan komen gezinswoningen vrij. Overmaze is een goede locatie voor een studentencampus"
+        },
+        "230359": {
+          "position": "agree",
+          "explanation": "De Liberale Partij Maastricht heeft in 2020 de motie 'meer betaalbare woningen' gemaakt en binnengehaald voor de Maastrichtenaar zonder riant salaris maar met gewoon salaris. Ook zij moeten hier een woning kunnen kopen. We zijn voor de belangen van de mensen en niet voor de portemonnee van de investeerder."
+        },
+        "230360": {
+          "position": "agree",
+          "explanation": "De eigen bevolking moet altijd voorrang krijgen op statushouders."
+        },
+        "230361": {
+          "position": "disagree",
+          "explanation": "Een analyse naar de echte behoefte waarbij rekening gehouden wordt met afnemende vergrijzing en de lage aanwas van de eigen bevolking. De massa-immigratie moet stoppen, het zet ons land onder enorme druk. Er is tekort aan ruimte en woningen, huisvesting. Er zijn nu al meer dan 1000 woningen bijgebouwd."
+        },
+        "230365": {
+          "position": "agree",
+          "explanation": "Als er een tekort aan arbeid is dan zijn wij voor een betaalde baan in plaats van vrijwilligerswerk. Is dat onhaalbaar, dan vrijwilligerswerk."
+        },
+        "230366": {
+          "position": "disagree",
+          "explanation": "Wat deze sociale pas wil regelen, is al mogelijk. Er zijn regelingen waar men al jaren beroep op kan doen, die juist in die zaken voorzien."
+        },
+        "230368": {
+          "position": "disagree",
+          "explanation": "De voorraad moet op peil blijven."
+        },
+        "230369": {
+          "position": "agree",
+          "explanation": "Omdat er namelijk heel veel bijgebouwd wordt in het centrum."
+        },
+        "230370": {
+          "position": "agree",
+          "explanation": "Er wordt veel te hard gereden."
+        },
+        "230373": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "230380": {
+          "position": "disagree",
+          "explanation": ""
+        }
+      }
+    },
+    {
+      "id": 230301,
+      "name": "Forum voor Democratie",
+      "fullName": "Forum voor Democratie",
+      "website": "https://fvd.nl/gemeentes/maastricht",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "230320": {
+          "position": "agree",
+          "explanation": "Een openbaar lobbyregister bevordert de transparantie. FVD Maastricht is voorstander van openheid en transparantie."
+        },
+        "230322": {
+          "position": "disagree",
+          "explanation": "FVD Maastricht ziet liever directe inspraak in de vorm van lokale referenda bij belangrijke onderwerpen. In de praktijk zien we dat het budget van de burgerbegroting vaak gaat naar mensen en organisaties met een groot netwerk en goede connecties. Wat ons betreft is dat niet het ideale scenario."
+        },
+        "230324": {
+          "position": "agree",
+          "explanation": "Democratie is meer dan eens in de vier jaar stemmen. Bij belangrijke lokale onderwerpen, zoals de plaatsing van AZC's, het afvalbeleid of invoering van autovrije zones, dient de Maastrichtse bevolking te worden geraadpleegd."
+        },
+        "230325": {
+          "position": "disagree",
+          "explanation": "De gemeente steekt momenteel al ongelooflijk veel geld in Brightlands. Het heeft de Maastrichtse belastingbetaler alleen al 150.000 euro gekost om de naam te wijzigen van station Maastricht Randwyck naar station Maastricht Brightlands. Dit is exemplarisch voor de verkwisting omtrent dit gebied."
+        },
+        "230326": {
+          "position": "disagree",
+          "explanation": "De ozb is een van de meest onrechtvaardige vormen van belasting. Deze moet fors omlaag en absoluut niet omhoog."
+        },
+        "230329": {
+          "position": "agree",
+          "explanation": "Het hebben van een huisdier zou geen melkkoe van de gemeente Maastricht moeten zijn. FVD Maastricht is groot voorstander van de afschaffing van hondenbelasting."
+        },
+        "230330": {
+          "position": "disagree",
+          "explanation": "Het geld zou beter geïnvesteerd kunnen worden in het daadwerkelijk aantrekkelijker maken van Maastricht als vestigingsplaats voor bedrijven, in plaats van enkel een promotiecampagne."
+        },
+        "230331": {
+          "position": "agree",
+          "explanation": "De ondernemer dient vrij te zijn om te beslissen over zijn of haar eigen openingstijden."
+        },
+        "230333": {
+          "position": "agree",
+          "explanation": "Het is op geen enkele manier uit te leggen dat mensen die hier recent zijn gekomen, voorrang krijgen op geboren en getogen Maastrichtenaren die jaren op een wachtlijst staan."
+        },
+        "230335": {
+          "position": "disagree",
+          "explanation": "Gratis bestaat niet. Een 'gratis taalcursus' betekent in de praktijk dat de gemeente en dus de Maastrichtse belastingbetaler het betaalt. Er zijn tegenwoordig voldoende toegankelijke middelen (Duolingo bijvoorbeeld) om een nieuwe taal te leren."
+        },
+        "230336": {
+          "position": "disagree",
+          "explanation": "De gemeente moet geen asielzoekers meer opvangen, om de simpele redenen dat er geen woonruimte beschikbaar is en dat het leidt tot frictie met de lokale bevolking."
+        },
+        "230337": {
+          "position": "disagree",
+          "explanation": "Er worden voldoende waarschuwingen afgegeven om te voorkomen dat een fiets überhaupt bij het fietsendepot belandt."
+        },
+        "230338": {
+          "position": "disagree",
+          "explanation": "De gemeente dient verenigingen niet onnodig dwars te zitten."
+        },
+        "230339": {
+          "position": "disagree",
+          "explanation": "Het Landbouwbelang heeft twee decennia kosteloos kunnen verblijven in een pand door deze te kraken. De autoriteiten zijn in dat kader ontzettend coulant geweest. Als het Landbouwbelang zelf een locatie vindt en kan bekostigen is dat prima, maar hier ligt geen verantwoordelijkheid voor de gemeente."
+        },
+        "230340": {
+          "position": "disagree",
+          "explanation": "Nieuwbouw moet vooral realistisch zijn en aansluiten op de bestaande Maastrichtse architectuur."
+        },
+        "230347": {
+          "position": "agree",
+          "explanation": "FVD Maastricht wil graag meer aandacht voor Maastrichtse cultuur voor alle leeftijdsgroepen. Dit geldt dus ook voor jongeren."
+        },
+        "230348": {
+          "position": "agree",
+          "explanation": "Grote evenementen geven de stad extra allure en zijn goed voor de Maastrichtse economie."
+        },
+        "230354": {
+          "position": "agree",
+          "explanation": "FVD Maastricht is van mening dat de wildgroei aan fout geparkeerde fietsen moet worden bestreden."
+        },
+        "230355": {
+          "position": "agree",
+          "explanation": "Het is onnodig om overal camera's te plaatsen. Bovendien is het een schending van de privacy."
+        },
+        "230356": {
+          "position": "disagree",
+          "explanation": "Het volledig stoppen van de groei van studentenhuizen is te rigoureus en tast het eigendomsrecht aan. Overlast moet worden aangepakt waar die ontstaat; studentenhuizen moeten niet vooraf worden verboden."
+        },
+        "230359": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "230360": {
+          "position": "agree",
+          "explanation": "Het is bijzonder triest dat in deze tijd steeds meer mensen geen woning kunnen vinden in hun eigen woonplaats. De gemeente dient hierin te faciliteren voor zover mogelijk."
+        },
+        "230361": {
+          "position": "agree",
+          "explanation": "Maastricht kampt met een woningtekort. Het toevoegen van woningen is een van de oplossingen van het probleem."
+        },
+        "230365": {
+          "position": "agree",
+          "explanation": "Mensen met een bijstandsuitkering kunnen prima bijdragen aan de maatschappij."
+        },
+        "230366": {
+          "position": "disagree",
+          "explanation": "FVD Maastricht staat voor een gelijke behandeling voor iedere inwoner."
+        },
+        "230368": {
+          "position": "neither",
+          "explanation": "Hoewel FVD Maastricht de gedachte aantrekkelijk vindt, dient deze keuze uiteindelijk aan de woningcorporatie te zijn."
+        },
+        "230369": {
+          "position": "agree",
+          "explanation": "FVD Maastricht is voorstander van voldoende parkeerplaatsen in heel Maastricht, dat geldt dus ook voor het centrum."
+        },
+        "230370": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "230373": {
+          "position": "agree",
+          "explanation": "Een goede verbinding met nabijgelegen steden is essentieel."
+        },
+        "230380": {
+          "position": "disagree",
+          "explanation": "Gratis bestaat niet. De Maastrichtse belastingbetaler betaalt in dit geval de rekening. Bovendien, waar trekken we de grens? Waarom wel tampons en maandverband, maar geen tandpasta en toiletpapier?"
+        }
+      }
+    },
+    {
+      "id": 230289,
+      "name": "MAASTRICHT van NU",
+      "fullName": "MAASTRICHT van NU ",
+      "website": "https://www.maastrichtvannu.nl/",
+      "hasSeats": false,
+      "participates": true,
+      "positions": {
+        "230320": {
+          "position": "agree",
+          "explanation": "Bestuur hoort open kaart te spelen. Als hoge ambtenaren en wethouders vergaderen met lobbyisten, dan mag Maastricht weten wie er aan tafel zat en wat er besproken is. Geen achterkamertjespolitiek, maar eerlijk bestuur. Dat is het minste wat inwoners verdienen."
+        },
+        "230322": {
+          "position": "disagree",
+          "explanation": "Bewoners mogen meedenken, maar de gemeente moet zélf verantwoordelijkheid nemen. Niet alles afschuiven op inwoners. Wij zien het als onze taak om actief te investeren in buurten, zonder dat mensen eerst zelf moeten lobbyen voor elk bankje of zebrapad."
+        },
+        "230324": {
+          "position": "agree",
+          "explanation": "Een referendum kan waardevol zijn, maar is niet genoeg. Inwoners serieus nemen betekent voortdurend luisteren, uitleggen en bijsturen. De gemeente moet de wijk in en het gesprek aangaan – niet alleen een vraag stellen, maar écht samenwerken aan oplossingen."
+        },
+        "230325": {
+          "position": "agree",
+          "explanation": "Investeren in Brightlands is investeren in de toekomst van Maastricht. Het trekt talent én zorgt voor banen op elk niveau van onderzoekers tot ondersteunend personeel. Zo krijgen alle inwoners meer kansen. Slimme groei begint bij brede welvaart."
+        },
+        "230326": {
+          "position": "disagree",
+          "explanation": "Huiseigenaren extra belasten is geen eerlijk beleid. MAASTRICHT van NU wil inwoners niet straffen voor hun huis. We kijken naar andere oplossingen: hogere toeristenbelasting, aanpak van leegstand en slimmer omgaan met geld. Meer opbrengst, zonder de inwoner te raken."
+        },
+        "230329": {
+          "position": "agree",
+          "explanation": "Hondenbelasting is achterhaald en oneerlijk. Het straft dierenliefhebbers terwijl andere huisdieren gratis zijn. MAASTRICHT van NU wil gelijke behandeling én minder onzinnige heffingen. Weg met deze symbolische belasting. Het is tijd voor eerlijker beleid."
+        },
+        "230330": {
+          "position": "disagree",
+          "explanation": "Maastricht verkoopt zichzelf wel. MAASTRICHT van NU steekt geld liever in wat bedrijven écht aantrekt: goede bereikbaarheid, betaalbare werkruimte en een gezonde stad. Geen dure campagnes, maar investeren in wat werkt – voor ondernemers én inwoners."
+        },
+        "230331": {
+          "position": "agree",
+          "explanation": "Supermarkten langer open op zondag mag, maar het moet wel zin hebben. De extra uren zijn geen probleem, zolang ondernemer én medewerker er samen achter staan. MAASTRICHT van NU kiest voor maatwerk: vrijheid waar het werkt, geen druk waar het niet hoeft."
+        },
+        "230333": {
+          "position": "agree",
+          "explanation": "Woningnood raakt álle inwoners. MAASTRICHT van NU vindt dat iedereen gelijke kansen moet krijgen op een sociale huurwoning. Geen automatische voorrang – wél eerlijk kijken naar situatie, gezinssamenstelling en urgentie. Wonen is een recht, geen privilege."
+        },
+        "230335": {
+          "position": "agree",
+          "explanation": "Wie hier woont, moet mee kunnen doen. Taal is de sleutel tot werk, contact en meedoen in de wijk. MAASTRICHT van NU wil dat iedereen de kans krijgt om Nederlands te leren – laagdrempelig en gratis. Dat is geen kostenpost, maar een investering in samenleven."
+        },
+        "230336": {
+          "position": "disagree",
+          "explanation": "Maastricht heeft al genoeg op haar bord. MAASTRICHT van NU vindt dat we ons houden aan de landelijke afspraken. Meer opvang dan verplicht is, legt extra druk op woningen, voorzieningen en draagvlak. Eerst zorgen voor onze eigen inwoners."
+        },
+        "230337": {
+          "position": "neither",
+          "explanation": "€15 is te weinig, €50 te veel. Bij te lage kosten blijft de overlast, bij te hoge laten mensen hun fiets in het depot staan. MAASTRICHT van NU kiest voor een eerlijke middenweg: €25 is redelijk, stimuleert ophalen én houdt de stad op orde. Handhaven met gezond verstand."
+        },
+        "230338": {
+          "position": "disagree",
+          "explanation": "Verenigingen verdienen vertrouwen, geen overmatige controle. MAASTRICHT van NU wil dat handhaving gericht is op echte misstanden, niet op standaard betutteling. Stimuleer eigen verantwoordelijkheid en geef ruimte. Regels zijn er, maar handhaven moet met gezond verstand."
+        },
+        "230339": {
+          "position": "agree",
+          "explanation": "Culturele vrijplaatsen horen bij een levendige stad. MAASTRICHT van NU steunt ruimte voor creativiteit en initiatief van onderop – zolang er duidelijke regels zijn. Geen wildgroei, geen gesubsidieerde concurrentie voor ondernemers. Vrijheid ja, maar wel eerlijk en verantwoord."
+        },
+        "230340": {
+          "position": "disagree",
+          "explanation": "Natuur is belangrijk, maar betaalbaar wonen staat op één. Verplichte nestkasten en groendaken drijven de kosten op, terwijl starters en gezinnen al moeite hebben een woning te vinden. Stimuleer het waar het kan, maar maak het geen plicht. Je kunt geen nestkast kopen zonder dak boven je hoofd."
+        },
+        "230347": {
+          "position": "agree",
+          "explanation": "Cultuur is geen bijzaak – het geeft jongeren een stem, uitlaatklep en kansen. MAASTRICHT van NU wil meer investeren in cultuur waar jongeren wél op afkomen: muziek, dans, streetart, film. Minder subsidie voor elitaire zalen, meer ruimte voor jong talent van de straat."
+        },
+        "230348": {
+          "position": "disagree",
+          "explanation": "MAASTRICHT van NU is tevreden met de huidige aanpak. We hoeven niet koste wat het kost nóg meer grote evenementen. Liever kwaliteit dan kwantiteit, met oog voor leefbaarheid en draagvlak. De stad is er voor de inwoners – niet alleen voor dagjespubliek."
+        },
+        "230354": {
+          "position": "agree",
+          "explanation": "Fout geparkeerde fietsen zorgen voor chaos en hinderen voetgangers, vooral ouderen en mensen met een beperking. MAASTRICHT van NU wil dat handhaving zichtbaar, eerlijk en doelgericht gebeurt. Geen fietsendump op de stoep. De stad is van iedereen."
+        },
+        "230355": {
+          "position": "disagree",
+          "explanation": "Camera’s lossen niet alles op, maar ze helpen wel bij veiligheid en opsporing. MAASTRICHT van NU wil geen Big Brother, maar wél toezicht waar het nodig is: op overlastlocaties, bij dumpingen en in uitgaansgebieden. Minder camera’s is geen betere stad."
+        },
+        "230356": {
+          "position": "agree",
+          "explanation": "Woonwijken zijn er om in te leven, niet om te verkameren. MAASTRICHT van NU wil de balans terug: geen wildgroei aan studentenhuizen ten koste van gezinnen en buurtgevoel. Studenten welkom, maar spreiding en duidelijke grenzen zijn nodig voor leefbare wijken."
+        },
+        "230359": {
+          "position": "disagree",
+          "explanation": "Niet elk bouwplan is hetzelfde. MAASTRICHT van NU vindt dat je moet kijken naar de behoefte per locatie. Soms is betaalbare koop logisch, soms sociale huur of juist zorgwoningen. Eén norm voor alles werkt niet – maatwerk wel. Bouwen doe je voor wat echt nodig is."
+        },
+        "230360": {
+          "position": "agree",
+          "explanation": "Wie hier opgroeit, moet hier kunnen blijven wonen. MAASTRICHT van NU wil voorrang voor woningzoekenden uit eigen stad. Zo blijven buurten levendig, verenigingen sterk en families dichtbij elkaar."
+        },
+        "230361": {
+          "position": "agree",
+          "explanation": "MAASTRICHT van NU wil ruimte maken voor nieuwe woningen, ook aan de randen van de stad als dat nodig is. De druk op de woningmarkt is te groot om niets te doen. Uitbreiden kan, mits slim, betaalbaar en met oog voor groen en leefbaarheid. Bouwen voor de toekomst, niet voor de bühne."
+        },
+        "230365": {
+          "position": "agree",
+          "explanation": "Wie kan werken, moet iets terugdoen voor de samenleving. MAASTRICHT van NU vindt dat bijstand geen eindstation is. Zinvol werk geeft ritme, trots en perspectief. Meedoen naar vermogen, met goede begeleiding en aandacht voor wat iemand wél kan. "
+        },
+        "230366": {
+          "position": "agree",
+          "explanation": "Meedoen mag geen luxe zijn. MAASTRICHT van NU wil een sociale pas voor mensen met een laag inkomen, zodat ook zij kunnen sporten, leren en van cultuur genieten. Gelijke kansen beginnen bij toegang – niet bij het prijskaartje. Dít is investeren in inclusie."
+        },
+        "230368": {
+          "position": "agree",
+          "explanation": "Wie wil en kan, moet zijn huurwoning kunnen kopen. MAASTRICHT van NU wil dat corporaties dit actief mogelijk maken. Het versterkt eigenaarschap, doorstroming en buurtbinding. Bovendien levert het extra inkomsten op voor de corporaties om weer in nieuwe sociale woningen te investeren."
+        },
+        "230369": {
+          "position": "disagree",
+          "explanation": "Meer parkeerplaatsen in het centrum lossen niks op en zorgen juist voor extra drukte, vervuiling en minder ruimte voor voetgangers en fietsers. MAASTRICHT van NU kiest voor slimme mobiliteit: goede bereikbaarheid, maar met oog voor leefbaarheid en ruimte in de stad."
+        },
+        "230370": {
+          "position": "agree",
+          "explanation": "Veilig verkeer begint met snelheid. MAASTRICHT van NU wil op meer plekken in woonwijken 30 km/u invoeren. Vooral waar veel kinderen, ouderen en fietsers zijn. Leefbaarheid en veiligheid gaan voor haast."
+        },
+        "230373": {
+          "position": "agree",
+          "explanation": "Een treinverbinding met Hasselt versterkt de regio, verbindt mensen en biedt duurzame mobiliteit. MAASTRICHT van NU ziet dit als een slimme investering in bereikbaarheid, economie en samenwerking over de grens. Meer verbinding, minder file – dat is vooruitgang."
+        },
+        "230380": {
+          "position": "neither",
+          "explanation": "MAASTRICHT van NU erkent het probleem van menstruatiearmoede, maar wil gerichte hulp waar het echt nodig is. Niet overal gratis uitdelen, wél zorgen dat wie het nodig heeft makkelijk toegang krijgt via scholen, hulpverlening of wijkpunten. Praktisch en doelgericht."
+        }
+      }
+    }
+  ],
+  "statements": [
+    {
+      "id": 230329,
+      "index": 1,
+      "theme": "Hondenbelasting",
+      "themeId": "hondenbelasting",
+      "title": "De gemeente moet de hondenbelasting afschaffen.",
+      "moreInfo": "In Maastricht moeten inwoners met een hond hondenbelasting betalen. De gemeente kan de opbrengst van de hondenbelasting gebruiken voor voorzieningen voor honden, zoals hondenveldjes, en voor het opruimen van hondenpoep, maar de gemeente kan de opbrengst ook gebruiken voor andere zaken. In 2026 is de hondenbelasting in Maastricht € 77,52 voor de eerste hond.",
+      "pro": "Hondenbelasting is oneerlijk. Voor andere huisdieren is er geen belasting.Veel geld gaat naar administratie en controle.De hondenbelasting is ouderwets. In veel gemeenten is er geen hondenbelasting meer.",
+      "con": "Hondenbelasting levert geld op voor de gemeente.Met dit geld betaalt de gemeente kosten voor honden.Wie vervuilt, moet daarvoor betalen.",
+      "isShootout": false
+    },
+    {
+      "id": 230337,
+      "index": 2,
+      "theme": "Ophalen fiets",
+      "themeId": "ophalen-fiets",
+      "title": "De kosten voor het ophalen van een fiets bij het fietsendepot moeten omlaag naar € 15. Dit kost nu € 50.",
+      "moreInfo": "De gemeente Maastricht haalt fietsen weg die kapot zijn, lang ongebruikt staan of fout geparkeerd zijn. Dit gebeurt om ruimte vrij te houden in fietsenrekken en stallingen. In het centrum worden ook fietsen weggehaald die op de stoep staan of buiten de vakken en rekken zijn geparkeerd. Weggehaalde fietsen worden naar het fietsendepot aan de Gerardusweg 39 gebracht. Eigenaren kunnen hun fiets daar ophalen. Hiervoor betalen zij nu € 50.",
+      "pro": "€ 50 is te hoog voor het ophalen van een fiets.Bij een lager bedrag halen mensen hun fiets sneller op.Een lagere prijs past bij een stad die fietsen stimuleert.",
+      "con": "Een hoger bedrag zorgt dat mensen zich beter aan de regels houden.Een lage prijs kan zorgen voor meer overlast door fout geparkeerde fietsen.De boete van € 50 dekt de kosten van de gemeente.",
+      "isShootout": false
+    },
+    {
+      "id": 230335,
+      "index": 3,
+      "theme": "Gratis taalcursussen",
+      "themeId": "gratis-taalcursussen",
+      "title": "De gemeente moet gratis taalcursussen aanbieden aan internationale inwoners.",
+      "moreInfo": "Maastricht telt veel internationale inwoners, zoals studenten, expats en mensen met een verblijfsvergunning. De gemeente kan besluiten om taalcursussen gratis aan te bieden aan internationale inwoners. Voor sommige groepen is taalles al verplicht. Mensen met een verblijfsvergunning moeten volgens de wet een taalcursus volgen. Voor asielzoekers in een asielzoekerscentrum is taalles niet verplicht, maar er worden wel lessen aangeboden. Studenten kunnen via hun school of universiteit taalles volgen. Zij kiezen zelf of zij hieraan meedoen. Expats kunnen vrijwillig deelnemen aan taalcursussen of taalinitiatieven in de stad.",
+      "pro": "Taal helpt internationale inwoners om mee te doen in de samenleving.Met taalcursussen kunnen mensen sneller werk vinden.Een taal leren maakt contact met anderen makkelijker.",
+      "con": "Taalcursussen moeten landelijk worden geregeld, niet door de gemeente.Gratis cursussen zijn niet voor iedereen nodig.Mensen die het kunnen betalen, kunnen zelf een cursus volgen.",
+      "isShootout": false
+    },
+    {
+      "id": 230320,
+      "index": 4,
+      "theme": "Lobbyregister",
+      "themeId": "lobbyregister",
+      "title": "De gemeente Maastricht moet een openbaar lobbyregister invoeren. In een lobbyregister staat wie met bestuurders spreekt en waarover.",
+      "moreInfo": "Bestuurders van de gemeente, zoals wethouders en de burgemeester, spreken regelmatig met organisaties, bedrijven en belangenverenigingen. Dit wordt ook wel lobbyen genoemd. In een openbaar lobbyregister staat wie met bestuurders heeft gesproken en waarover dat gesprek ging. Inwoners kunnen dit register bekijken.",
+      "pro": "Een lobbyregister zorgt voor meer openheid in het bestuur. Inwoners kunnen zien wie invloed probeert uit te oefenen. Openheid vergroot het vertrouwen in de gemeente.",
+      "con": "Het kan een drempel zijn voor mensen en organisaties om contact te zoeken met de gemeente. Het bijhouden van een lobbyregister kost veel tijd en geld. Een openbaar lobbyregister gaat te ver.",
+      "isShootout": false
+    },
+    {
+      "id": 230330,
+      "index": 5,
+      "theme": "Promotie vestiging bedrijven",
+      "themeId": "promotie-vestiging-bedrijven",
+      "title": "De gemeente moet meer geld steken in een promotiecampagne voor Maastricht als aantrekkelijke vestigingsplaats voor bedrijven.",
+      "moreInfo": "Gemeenten kunnen bedrijven aantrekken door te laten zien wat zij te bieden hebben. Dit kan bijvoorbeeld met een promotiecampagne. Het doel is om bedrijven te overtuigen zich in de gemeente te vestigen.",
+      "pro": "Een promotiecampagne helpt om bedrijven en talent naar Maastricht te trekken. Een promotiecampagne kan zorgen voor meer werkgelegenheid. Meer bedrijven kunnen bijdragen aan de economische groei van de stad.",
+      "con": "Maastricht is al aantrekkelijk genoeg voor bedrijven. Het geld kan beter worden besteed aan bereikbaarheid en betaalbare werkruimte. Goede voorwaarden voor ondernemers zijn belangrijker dan reclame.",
+      "isShootout": false
+    },
+    {
+      "id": 230348,
+      "index": 6,
+      "theme": "Grote evenementen",
+      "themeId": "grote-evenementen",
+      "title": "De gemeente moet proberen om meer grote evenementen aan te trekken.",
+      "moreInfo": "In Maastricht worden elk jaar grote evenementen georganiseerd, zoals beurzen, concerten en sport- en cultuurevenementen. Deze evenementen trekken vaak veel bezoekers van binnen en buiten de stad. Er is sprake van een actieve rol van de gemeente om, in samenwerking met externe partners, het aanbod aan grotere evenementen te actualiseren en te versterken.",
+      "pro": "Grote evenementen trekken veel bezoekers naar de stad.Evenementen zorgen voor meer inkomsten voor ondernemers.Evenementen maken de stad levendiger en aantrekkelijker.",
+      "con": "Grote evenementen kunnen zorgen voor overlast voor inwoners.Ze leggen druk op de leefbaarheid, zoals drukte en geluid.De stad moet letten op kwaliteit en draagvlak, niet alleen op de hoeveelheid evenementen.",
+      "isShootout": false
+    },
+    {
+      "id": 230355,
+      "index": 7,
+      "theme": "Cameratoezicht",
+      "themeId": "cameratoezicht",
+      "title": "In de gemeente Maastricht moet minder cameratoezicht komen.",
+      "moreInfo": "De gemeente gebruikt cameratoezicht om overlast en criminaliteit te volgen. Camera’s hangen in de openbare ruimte en maken beelden van wat daar gebeurt. De meldkamer kijkt mee om de veiligheid te vergroten.  In Maastricht hangen camera’s vooral in het centrum, Wyck, het uitgaansgebied en rond voetbalstadion De Geusselt. De gemeente breidt het cameratoezicht uit naar de hele binnenstad en aangrenzende wijken. In totaal gaat het om ongeveer 110 vaste camera’s. Daarnaast zijn er camera’s op de toegangswegen naar de binnenstad, onder andere om te controleren of er auto’s rijden die er niet mogen komen omdat ze teveel schadelijke stoffen uitstoten. Bij evenementen of op plekken met veel overlast kan de gemeente ook tijdelijke camera’s plaatsen.",
+      "pro": "Cameratoezicht gaat ten koste van de privacy van inwoners. Camera’s lossen de problemen niet op, maar verplaatsen ze alleen. Het is niet nodig om overal camera’s te plaatsen.",
+      "con": "Camera’s zorgen voor een veiliger gevoel. Camera’s zijn nodig op plekken met veel overlast. Cameratoezicht helpt bij het opsporen van problemen.",
+      "isShootout": false
+    },
+    {
+      "id": 230333,
+      "index": 8,
+      "theme": "Voorrang statushouders",
+      "themeId": "voorrang-statushouders",
+      "title": "Statushouders mogen geen voorrang krijgen op sociale huurwoningen.",
+      "moreInfo": "Statushouders zijn mensen die asiel hebben aangevraagd en een verblijfsvergunning hebben gekregen. Zij mogen in Nederland blijven. De rijksoverheid bepaalt elk half jaar hoeveel statushouders een gemeente moet huisvesten. Dit aantal is gebaseerd op het aantal inwoners van de gemeente. Gemeenten mogen zelf bepalen wie voorrang krijgt bij een sociale huurwoning. Statushouders hebben niet automatisch voorrang. Dit hangt af van de regels van de gemeente. In Maastricht komen elk jaar ongeveer 1.100 sociale huurwoningen vrij. Daarvan wordt zo’n 5 tot 6 procent met voorrang toegewezen aan statushouders.",
+      "pro": "Iedereen moet dezelfde kans hebben op een sociale huurwoning.Door de voorrangsregel moeten starters en jongeren langer wachten op een woning.Statushouders kunnen tijdelijk in flexwoningen wonen, waardoor voorrang op sociale huur niet nodig is.",
+      "con": "Een vaste woning helpt statushouders om mee te doen in de samenleving.De gemeente is volgens de wet verplicht om statushouders een woning te geven.Het woningtekort komt niet door vluchtelingen, maar door het woonbeleid van de afgelopen jaren.",
+      "isShootout": false
+    },
+    {
+      "id": 230373,
+      "index": 9,
+      "theme": "Treinverbinding",
+      "themeId": "treinverbinding",
+      "title": "Maastricht moet zich inzetten voor een treinverbinding met Hasselt in België.",
+      "moreInfo": "Maastricht en Hasselt liggen dicht bij elkaar, maar er rijdt geen trein tussen deze steden. Reizen kan nu met de bus of via een omweg met de trein. Een rechtstreekse treinverbinding kan zorgen voor beter openbaar vervoer over de grens. De gemeente kan zich samen met andere overheden inzetten voor zo’n verbinding.In het verleden waren er plannen voor een tramverbinding tussen Maastricht en Hasselt. Dit project is stopgezet. Daarover loopt nog een juridische procedure tussen overheden in Nederland en België.",
+      "pro": "Een treinverbinding versterkt de samenwerking in de regio.Een trein naar Hasselt maakt het makkelijker om verder te reizen naar steden als Brussel en Antwerpen.Reizen met de trein is duurzaam en goed voor het openbaar vervoer.",
+      "con": "Er is al een goede busverbinding tussen Maastricht en Hasselt.Een treinverbinding kost veel geld.De Belgische partners zijn gestopt met het tramproject. Zonder zekerheid over de kosten is een nieuw project niet verstandig.",
+      "isShootout": false
+    },
+    {
+      "id": 230331,
+      "index": 10,
+      "theme": "Verruiming openingstijden",
+      "themeId": "verruiming-openingstijden",
+      "title": "De gemeente moet toestaan dat supermarkten op zondag tot 22.00 uur open zijn.",
+      "moreInfo": "De gemeente Maastricht bepaalt de regels voor openingstijden van winkels. Deze regels gelden als kaders. Winkeliers zijn niet verplicht om open te zijn op koopavonden of koopzondagen. Voor supermarkten gelden andere tijden dan voor andere winkels. Op zondag mogen supermarkten in Maastricht nu open zijn van 08.00 tot 18.00 uur.",
+      "pro": "Inwoners krijgen meer vrijheid om zelf te kiezen wanneer zij boodschappen doen.Voor mensen die fulltime werken, wordt het makkelijker om boodschappen te doen.Ondernemers moeten zelf kunnen beslissen wanneer hun supermarkt open is.",
+      "con": "Zondag moet voor rust, gezin en vrije tijd blijven.Kleine ondernemers kunnen deze verruiming vaak niet bijbenen.Extra openingstijden zorgen voor meer werkdruk voor personeel.",
+      "isShootout": false
+    },
+    {
+      "id": 230340,
+      "index": 11,
+      "theme": "Natuurinclusief bouwen",
+      "themeId": "natuurinclusief-bouwen",
+      "title": "Nieuwbouw moet voortaan natuurinclusief zijn. Dat betekent dat een woning bijdraagt aan de ontwikkeling van de natuur door bijvoorbeeld ingebouwde nestkasten.",
+      "moreInfo": "De gemeente kan eisen stellen aan nieuwbouw. Bij natuurinclusief bouwen wordt rekening gehouden met natuur en biodiversiteit. Denk aan nestkasten voor vogels en vleermuizen, groene daken of ruimte voor planten en insecten. In Maastricht is natuurinclusief bouwen nu nog niet verplicht. Wel geeft de gemeente bouwers advies over natuurinclusieve maatregelen. In de plannen voor de toekomst staat dat Maastricht wil toewerken naar nieuwbouw die standaard rekening houdt met de natuur.",
+      "pro": "Natuurinclusief bouwen helpt planten en dieren in de stad.Groene woonwijken zorgen voor een gezondere leefomgeving.Het maakt wijken beter bestand tegen hitte en wateroverlast.",
+      "con": "Natuurinclusief bouwen kan woningen duurder maken.Extra regels kunnen bouwprojecten vertragen.Nieuwbouw moet vooral passen bij de bestaande gebouwen in Maastricht.",
+      "isShootout": false
+    },
+    {
+      "id": 230369,
+      "index": 12,
+      "theme": "Parkeerplaatsen",
+      "themeId": "parkeerplaatsen",
+      "title": "Er moeten meer parkeerplaatsen komen in het centrum van Maastricht.",
+      "moreInfo": "De gemeente Maastricht bepaalt het parkeerbeleid in de stad. In het centrum is de ruimte beperkt en wordt deze verdeeld tussen auto’s, fietsers, voetgangers, groen en terrassen.",
+      "pro": "Zo blijft het centrum goed bereikbaar voor bezoekers en ondernemers.Mensen die afhankelijk zijn van de auto krijgen meer mogelijkheden om te parkeren.Door nieuwe bouwprojecten zijn extra parkeerplaatsen nodig.",
+      "con": "Meer parkeerplaatsen zorgen voor meer verkeer en drukte in de stad.In het centrum moet meer ruimte zijn om te lopen en te fietsen, en minder voor auto’s.Parkeerplaatsen kunnen beter aan de rand van de stad komen.",
+      "isShootout": false
+    },
+    {
+      "id": 230347,
+      "index": 13,
+      "theme": "Cultuur voor jongeren",
+      "themeId": "cultuur-voor-jongeren",
+      "title": "De gemeente moet meer geld steken in het cultuuraanbod voor jongeren.",
+      "moreInfo": "De gemeente kan geld geven aan culturele activiteiten voor jongeren, zoals muziek, dans, film en andere creatieve projecten. Dit kan gaan om activiteiten die jongeren zelf organiseren of om aanbod van culturele instellingen.De afgelopen jaren had Maastricht speciale regelingen voor jongeren, zoals subsidies voor jongerencultuur en muziekprojecten op scholen. Ook voeren culturele instellingen die geld van de gemeente krijgen activiteiten uit voor jongeren.",
+      "pro": "Cultuur helpt jongeren om hun talent te ontwikkelen.Culturele activiteiten geven jongeren een plek om elkaar te ontmoeten.Er is te weinig cultuuraanbod dat past bij jongeren.",
+      "con": "De gemeente geeft al veel geld uit aan cultuur. Extra geld is niet nodig.Er is al genoeg cultureel aanbod voor jongeren.Het geld kan beter worden gebruikt voor sport en plekken waar jongeren elkaar kunnen ontmoeten.",
+      "isShootout": false
+    },
+    {
+      "id": 230361,
+      "index": 14,
+      "theme": "Uitbreiding stad",
+      "themeId": "uitbreiding-stad",
+      "title": "De gemeente moet de stad uitbreiden om meer woningen te kunnen bouwen.",
+      "moreInfo": "De gemeente kan nieuwe woningen bouwen op plekken binnen de stad, zoals lege terreinen of oude bedrijventerreinen. De gemeente kan ook buiten de stad bouwen. Dit heet het uitbreiden van de stad.In Maastricht is het plan om eerst binnen de stad nieuwe woningen te bouwen. Dat kan bijvoorbeeld in grotere ontwikkelgebieden en in bestaande wijken, vooral dicht bij voorzieningen. Als bouwen binnen de stad niet genoeg is, kan de gemeente kijken naar uitbreiding aan de rand van de stad. De gemeente bepaalt waar en hoe dit gebeurt.",
+      "pro": "Zo kunnen er meer woningen komen. Dit kan helpen tegen het tekort aan woningen. Er kunnen betaalbare woningen voor jongeren worden gebouwd.",
+      "con": "Er is binnen de stad nog ruimte om te bouwen. Bouwen buiten de stad gaat ten koste van groene gebieden. Uitbreiding van de stad kan later leiden tot leegstand.",
+      "isShootout": false
+    },
+    {
+      "id": 230370,
+      "index": 15,
+      "theme": "Snelheid auto's",
+      "themeId": "snelheid-auto-s",
+      "title": "Op meer plekken in woonwijken moet een maximumsnelheid gelden van 30 km/u.",
+      "moreInfo": "De bebouwde kom is het gebied binnen de stad of het dorp waar mensen wonen, werken en winkelen. Daar geldt nu vaak een maximumsnelheid van 50 km/u, maar op sommige straten is dit al 30 km/u.",
+      "pro": "30 km/u maakt woonwijken veiliger. Langzamer rijden is beter voor kinderen en ouderen. 30 km/u maakt straten rustiger en prettiger om in te wonen.",
+      "con": "Extra 30-km-zones zorgen voor frustratie en vertraging. Doorgaande wegen zijn gemaakt voor 50 km/u en zijn vaak al veilig genoeg. Het is beter om alleen te handhaven op straten waar echt problemen zijn.",
+      "isShootout": false
+    },
+    {
+      "id": 230325,
+      "index": 16,
+      "theme": "Brightlands",
+      "themeId": "brightlands",
+      "title": "De gemeente moet meer geld steken in Brightlands Maastricht Health Campus.",
+      "moreInfo": "Brightlands Maastricht Health Campus is een plek in het stadsdeel Randwyck waar wordt gewerkt aan gezondheid, zorg en innovatie. Er zitten bedrijven, onderzoekers en onderwijsinstellingen.",
+      "pro": "Meer geld voor Brightlands zorgt voor meer banen in Maastricht. De campus trekt talent en bedrijven naar de stad. Investeringen kunnen zorgen voor economische groei voor de hele stad.",
+      "con": "De gemeente heeft al genoeg geld uitgegeven aan Brightlands. Extra geld heeft alleen zin als het duidelijk iets oplevert. Geld van de gemeente kan beter worden gebruikt voor andere plannen in de stad.",
+      "isShootout": false
+    },
+    {
+      "id": 230336,
+      "index": 17,
+      "theme": "Asielzoekerscentrum",
+      "themeId": "asielzoekerscentrum",
+      "title": "De gemeente moet meer dan het landelijk verplichte aantal asielzoekers opvangen.",
+      "moreInfo": "Mensen die vluchten kunnen asiel aanvragen. De Immigratie- en Naturalisatiedienst (IND) beslist of zij in Nederland mogen blijven. Tijdens deze procedure moeten asielzoekers worden opgevangen.  Volgens landelijke afspraken moet Maastricht minimaal 493 asielzoekers opvangen. De gemeente vangt op dit moment meer mensen op dan verplicht. In totaal zijn er meer dan 800 opvangplekken, waaronder een vast asielzoekerscentrum (azc) en tijdelijke noodopvang.",
+      "pro": "Een grote stad kan meer asielzoekers opvangen dan een klein dorp.Extra opvang helpt om het tekort aan opvangplekken in Nederland te verkleinen.We moeten een veilige plek bieden voor mensen die vluchten voor oorlog.",
+      "con": "Maastricht moet zich houden aan het aantal dat landelijk is afgesproken.Meer opvang zorgt voor extra druk op woningen.De stad heeft al een groot asielzoekerscentrum en vangt al veel mensen op.",
+      "isShootout": false
+    },
+    {
+      "id": 230354,
+      "index": 18,
+      "theme": "Handhaving fietsen",
+      "themeId": "handhaving-fietsen",
+      "title": "De gemeente moet strenger controleren op fout geparkeerde fietsen.",
+      "moreInfo": "Soms staan fietsen op plekken waar dat niet mag, zoals op stoepen of bij ingangen. Dit kan zorgen voor hinder of onveilige situaties. De gemeente kan hierop controleren en fietsen weghalen of een boete geven. De gemeente haalt fietsen weg die kapot zijn of lang ongebruikt lijken. Een kapotte fiets heet een fietswrak. Een fiets die lang op dezelfde plek staat, heet een weesfiets. Ook fietsen die fout geparkeerd staan, bijvoorbeeld buiten de vakken of op de stoep, kunnen worden weggehaald. In het centrum en rond het station wordt extra gecontroleerd. Weggehaalde fietsen worden bewaard in het fietsdepot aan de Gerardusweg. Fietswrakken worden niet bewaard. De gemeente bepaalt hoe streng zij controleert.",
+      "pro": "Fout geparkeerde fietsen zorgen voor problemen voor voetgangers. Vooral ouderen en mensen met een beperking hebben hier last van. Strengere controle hoort bij een veilige en toegankelijke fietsstad.",
+      "con": "Er zijn te weinig fietsenstallingen in de stad. Strenger controleren straft fietsers voor een gebrek aan plekken. Bewustwording en betere stallingen werken beter dan boetes.",
+      "isShootout": false
+    },
+    {
+      "id": 230326,
+      "index": 19,
+      "theme": "Belasting op gebouwen",
+      "themeId": "belasting-op-gebouwen",
+      "title": "De onroerendezaakbelasting (ozb) moet omhoog.",
+      "moreInfo": "De onroerendezaakbelasting (ozb) is een belasting die mensen betalen als zij een woning of ander pand hebben. Hoeveel je betaalt, hangt af van de waarde van je huis of pand en de percentages die de gemeente vaststelt. De opbrengst van de ozb gebruikt de gemeente voor zaken zoals wegen, groen en ondersteuning van inwoners.",
+      "pro": "Mensen met een duurder huis kunnen meer belasting betalen dan mensen met een goedkoper huis.De ozb in Maastricht is lager dan in vergelijkbare gemeenten en kan daarom iets omhoog.Een hogere ozb kan worden gebruikt om nieuwe en betaalbare woningen te bouwen.",
+      "con": "Een hogere ozb zorgt voor hogere woonlasten voor inwoners.De ozb is de afgelopen jaren al omhooggegaan. De gemeente moet eerst besparen op uitgaven.",
+      "isShootout": false
+    },
+    {
+      "id": 230324,
+      "index": 20,
+      "theme": "Referendum",
+      "themeId": "referendum",
+      "title": "De gemeente moet de inwoners van Maastricht bij belangrijke onderwerpen om hun mening vragen via een referendum.",
+      "moreInfo": "De gemeente Maastricht heeft een referendumverordening vastgesteld. Hierin staat dat de gemeenteraad kan besluiten om een referendum te houden. Een referendum is een manier waarop inwoners hun mening kunnen geven over een belangrijk onderwerp. Een referendum kan alleen plaatsvinden als een meerderheid van de gemeenteraad hiermee instemt voor een bepaald onderwerp. De uitslag van een referendum is in Nederland niet bindend. Dat betekent dat de gemeenteraad een ander besluit kan nemen.",
+      "pro": "Een referendum is een goede manier om de mening van inwoners te vragen. Bij belangrijke onderwerpen moeten inwoners het laatste woord hebben. Een referendum zorgt ervoor dat het gemeentebestuur beter luistert naar inwoners.",
+      "con": "Een referendum geeft alleen een ja-of-nee-antwoord en laat weinig ruimte voor nuance. Bij ingewikkelde onderwerpen werkt overleg en participatie beter dan een referendum. Referenda kosten veel tijd en geld en leveren weinig op.",
+      "isShootout": false
+    },
+    {
+      "id": 230360,
+      "index": 21,
+      "theme": "Voorrang bij woningtoewijzing",
+      "themeId": "voorrang-bij-woningtoewijzing",
+      "title": "Maastricht moet woningzoekenden uit de eigen gemeente zoveel mogelijk voorrang geven bij de toewijzing van een sociale huurwoning.",
+      "moreInfo": "Gemeenten mogen zelf regels maken voor de verdeling van sociale huurwoningen. Deze regels staan in een huisvestingsverordening. Daarin kan de gemeente bepalen welke woningzoekenden voorrang krijgen. Sommige groepen kunnen voorrang krijgen, zoals mantelzorgers of mensen die tijdelijk in een opvang wonen. Sinds 2017 krijgen mensen met een verblijfsvergunning niet automatisch voorrang. Gemeenten mogen zelf beslissen of zij deze groep voorrang geven. Gemeenten mogen ook andere groepen aanwijzen, bijvoorbeeld mensen die een sterke band hebben met de gemeente. In Maastricht wordt nu minimaal 45 procent van de sociale huurwoningen die vrijkomen toegewezen aan woningzoekenden uit Maastricht.",
+      "pro": "Inwoners die al lang op de wachtlijst staan, moeten voorrang krijgen. Mensen die in Maastricht zijn opgegroeid, moeten hier kunnen blijven wonen. Lokale voorrang zorgt voor sterke buurten en sociale netwerken.",
+      "con": "Mensen van buiten Maastricht moeten ook een gelijke kans krijgen op een woning. Woningnood los je op door meer te bouwen, niet door andere regels voor voorrang. Sociale huurwoningen zijn er voor iedereen die hier leeft en meedoet, niet alleen voor inwoners van Maastricht.",
+      "isShootout": false
+    },
+    {
+      "id": 230366,
+      "index": 22,
+      "theme": "Sociale pas",
+      "themeId": "sociale-pas",
+      "title": "De gemeente moet een sociale pas invoeren waarmee mensen met een laag inkomen gratis of met korting kunnen deelnemen aan sport, cultuur en cursussen.",
+      "moreInfo": "De gemeente kan inwoners met een laag inkomen helpen om mee te doen aan sport, cultuur en cursussen. Dit kan met een sociale pas. Met zo’n pas kunnen mensen gratis of met korting deelnemen aan activiteiten, zoals sporten, naar het theater gaan of een cursus volgen. In Maastricht bestaan al regelingen waarmee inwoners gratis of tegen lage kosten kunnen meedoen, zoals het Jeugdfonds Sport en Cultuur en het Volwassenenfonds Sport en Cultuur. De gemeente kan besluiten om deze hulp uit te breiden met een sociale pas.",
+      "pro": "Met een sociale pas kunnen mensen met een laag inkomen meedoen aan sport, cultuur en cursussen. Meedoen mag niet afhangen van geld. Iedereen moet dezelfde kansen krijgen. De sociale pas verlaagt drempels en maakt meedoen makkelijker.",
+      "con": "Er zijn al regelingen waarmee mensen met een laag inkomen kunnen meedoen. Nog een extra regeling maakt het systeem onoverzichtelijker. Een sociale pas is eerder geprobeerd en werkte toen niet goed.",
+      "isShootout": false
+    },
+    {
+      "id": 230359,
+      "index": 23,
+      "theme": "Betaalbare koopwoningen",
+      "themeId": "betaalbare-koopwoningen",
+      "title": "In elk bouwplan moeten koopwoningen tot 280.000 euro worden opgenomen.",
+      "moreInfo": "Bij nieuwbouw maakt de gemeente afspraken met projectontwikkelaars over wat voor woningen er worden gebouwd. Dit kan gaan om huurwoningen, koopwoningen of een mix daarvan. De gemeente kan eisen stellen aan de prijs van koopwoningen, bijvoorbeeld door een maximumprijs vast te leggen. Met koopwoningen tot 280.000 euro worden relatief betaalbare woningen bedoeld.  In Maastricht geldt nu dat bij bouwplannen van 10 of meer woningen minimaal 60 procent betaalbaar moet zijn. Dit betekent sociale huurwoningen (met een huur tot maximaal € 932,93 per maand) of betaalbare koopwoningen (met een prijs tot maximaal € 480.000).",
+      "pro": "Met betaalbare koopwoningen kunnen meer mensen een huis kopen. Starters en jonge gezinnen krijgen zo meer kansen op de woningmarkt. Wonen moet betaalbaar blijven voor mensen met een normaal inkomen.",
+      "con": "Een vaste eis in elk bouwplan kan ervoor zorgen dat er minder woningen worden gebouwd. Niet elke plek is geschikt voor dezelfde soort woningen; er is maatwerk per locatie nodig. Door vaste regels kan de doorstroming op de woningmarkt juist langzamer gaan.",
+      "isShootout": false
+    },
+    {
+      "id": 230338,
+      "index": 24,
+      "theme": "Handhaving alcoholregels",
+      "themeId": "handhaving-alcoholregels",
+      "title": "De gemeente moet de alcoholregels bij verenigingen strenger handhaven.",
+      "moreInfo": "Voor het schenken van alcohol gelden strenge regels. Deze regels staan in landelijke wetten en in regels van de gemeente. Ze gelden ook voor verenigingen, zoals sportclubs. Zo mogen verenigingen geen alcohol schenken aan jongeren tot 18 jaar. De gemeente controleert of verenigingen zich aan deze regels houden.  In Maastricht doen boa’s (handhavers van de gemeente) dit. Zij voeren controles uit, vooral op drukke dagen en bij evenementen. Dan wordt extra gelet op alcoholgebruik door minderjarigen. Bij evenementen van verenigingen is er altijd controle. Bij gewone clubavonden is er meestal alleen controle als er meldingen binnenkomen, bijvoorbeeld van omwonenden.",
+      "pro": "De regels zijn er om jongeren te beschermen. Die regels moeten worden nageleefd. Strenge controle helpt om alcohol drinken onder de 18 jaar te voorkomen. Handhaving is nodig bij gevaarlijk gedrag, zoals alcoholvergiftiging.",
+      "con": "Verenigingen draaien op vrijwilligers en mogen niet extra worden belast. De gemeente moet verenigingen ondersteunen en vertrouwen, niet straffen. Handhaving moet alleen plaatsvinden bij echte problemen of overtredingen.",
+      "isShootout": false
+    },
+    {
+      "id": 230365,
+      "index": 25,
+      "theme": "Tegenprestatie voor uitkering",
+      "themeId": "tegenprestatie-voor-uitkering",
+      "title": "Mensen die een bijstandsuitkering krijgen, moeten in ruil daarvoor maatschappelijk zinvol werk doen.",
+      "moreInfo": "Mensen met een bijstandsuitkering krijgen geld van de gemeente omdat zij geen of te weinig inkomen hebben. Zij hebben vaak ook plichten, zoals het zoeken naar werk of het volgen van begeleiding. Sommige gemeenten laten mensen met een bijstandsuitkering maatschappelijk zinvol werk doen. Dit is werk dat nuttig is voor de samenleving, zoals helpen in een buurthuis, groenonderhoud of ondersteuning bij activiteiten. Het gaat meestal niet om betaald werk. De gemeente kan ervoor kiezen om dit soort werk verplicht te maken voor mensen met een bijstandsuitkering.",
+      "pro": "Wie kan werken, moet iets terugdoen voor de samenleving. Maatschappelijk werk geeft structuur en ritme. Zinvol werk helpt mensen op weg naar betaald werk.",
+      "con": "Niet iedereen in de bijstand kan maatschappelijk werk doen. Verplicht werken zonder loon is niet wenselijk. Vrijwillig meedoen met begeleiding werkt beter dan dwang.",
+      "isShootout": false
+    },
+    {
+      "id": 230322,
+      "index": 26,
+      "theme": "Burgerbegroting",
+      "themeId": "burgerbegroting",
+      "title": "De gemeente moet meer geld uittrekken voor de burgerbegroting. Bij deze begroting beslissen inwoners van Maastricht samen waar een deel van het gemeentegeld aan uitgegeven wordt.",
+      "moreInfo": "De gemeente Maastricht maakt elk jaar een begroting. In die begroting staat hoeveel geld de gemeente ontvangt en waaraan dat geld wordt besteed. Bij een burgerbegroting beslissen inwoners zelf mee over een deel van het gemeentegeld. De gemeente stelt daarvoor een bedrag beschikbaar en inwoners kiezen samen waar dat geld aan wordt besteed. In Maastricht bestaat al een burgerbegroting. Inwoners kunnen voorstellen indienen en samen stemmen over welke ideeën worden uitgevoerd. In 2025 was er in totaal € 750.000 beschikbaar voor de burgerbegroting.",
+      "pro": "Inwoners weten zelf het beste wat nodig is in hun wijk of stad. Met een burgerbegroting krijgen inwoners echte invloed op het gemeentegeld. Samen beslissen over geld zorgt voor meer vertrouwen.",
+      "con": "Het huidige budget voor de burgerbegroting is al hoog genoeg. De burgerbegroting bereikt vooral mensen met tijd en een groot netwerk. Extra geld kan beter direct naar wijken en verenigingen gaan.",
+      "isShootout": false
+    },
+    {
+      "id": 230356,
+      "index": 27,
+      "theme": "Studentenhuizen",
+      "themeId": "studentenhuizen",
+      "title": "De gemeente moet de groei van het aantal studentenhuizen in woonwijken stoppen.",
+      "moreInfo": "In Maastricht wonen veel studenten. Sommige studenten wonen samen in gewone woonwijken, in zogenoemde studentenhuizen. In het woonbeleid van Maastricht staan regels voor studentenhuisvesting. Deze regels gaan bijvoorbeeld over het splitsen van huizen in losse kamers.",
+      "pro": "Te veel studentenhuizen zorgen voor overlast in woonwijken. Woonwijken moeten leefbaar blijven voor bewoners. Studenten kunnen beter wonen op campussen dan in woonwijken.",
+      "con": "Een volledige stop is te streng en niet nodig. Studenten zijn ook inwoners van de stad en horen erbij. Een goede mix van woningen in de stad is beter dan een harde scheiding.",
+      "isShootout": false
+    },
+    {
+      "id": 230339,
+      "index": 28,
+      "theme": "Culturele vrijplaatsen",
+      "themeId": "culturele-vrijplaatsen",
+      "title": "De gemeente moet ervoor zorgen dat er ruimte blijft voor culturele vrijplaatsen in de stad, zoals het Landbouwbelang.",
+      "moreInfo": "Culturele vrijplaatsen zijn plekken waar mensen samen cultuur maken, zoals muziek en kunst. Dit gebeurt vaak vrijwillig en zonder winst. Deze plekken geven ruimte aan nieuwe ideeën en aan mensen die ergens anders geen plek vinden. De gemeente kan helpen door ruimte te geven of regels aan te passen. De gemeente kiest of en hoe zij deze plekken ondersteunt.",
+      "pro": "Culturele vrijplaatsen zorgen voor een levendige stad.Ze geven ruimte aan creativiteit en nieuwe ideeën.Ze zijn belangrijk voor ontmoeting tussen verschillende mensen.",
+      "con": "De gemeente is niet verantwoordelijk voor het betalen van vrijplaatsen.Vrijplaatsen mogen geen oneerlijke concurrentie zijn voor ondernemers.Voor iedereen moeten dezelfde regels gelden, ook voor culturele vrijplaatsen.",
+      "isShootout": false
+    },
+    {
+      "id": 230368,
+      "index": 29,
+      "theme": "Huurwoning kopen",
+      "themeId": "huurwoning-kopen",
+      "title": "De gemeente moet woningcorporaties aanmoedigen om sociale huurders de mogelijkheid te geven om hun woning te kopen.",
+      "moreInfo": "Sociale huur is een huurvorm voor mensen met een laag inkomen. Sommige sociale huurders willen hun huurwoning kopen. In Nederland kan dat vaak via de Wet bevordering eigen woningbezit. Dit betekent dat een huurder de woning kan kopen als de verhuurder (bijvoorbeeld een woningcorporatie) dat toestaat.",
+      "pro": "Het kopen van de woning geeft inwoners meer zekerheid.Het vergroot de betrokkenheid bij de buurt.De opbrengst kan worden gebruikt voor nieuwe sociale huurwoningen.",
+      "con": "De voorraad sociale huurwoningen is nu al te klein.Door verkoop van sociale huur worden de wachtlijsten langer.Sociale huurwoningen zijn bedoeld voor mensen die niet kunnen kopen.",
+      "isShootout": false
+    },
+    {
+      "id": 230380,
+      "index": 30,
+      "theme": "Gratis menstruatieproducten",
+      "themeId": "gratis-menstruatieproducten",
+      "title": "De gemeente moet op meer plekken gratis tampons en maandverband verspreiden.",
+      "moreInfo": "Menstruatieproducten zijn basisbenodigdheden die vrouwen en meisjes nodig hebben tijdens hun menstruatie. Niet iedereen kan deze producten altijd goed betalen of makkelijk krijgen. In de gemeente Maastricht zijn er al uitgiftepunten voor menstruatieproducten, zoals tampons en maandverband. Deze punten worden momenteel beheerd door het Armoedefonds, een organisatie die mensen helpt die weinig geld hebben. De gemeente kan ervoor kiezen om op meer plekken gratis tampons en maandverband te verspreiden, bijvoorbeeld bij openbare gebouwen, sportlocaties of scholen.",
+      "pro": "Menstruatieproducten zijn basisbenodigdheden en moeten voor iedereen beschikbaar zijn. Niet iedereen kan tampons en maandverband goed betalen. Zo hoeven meiden en vrouwen niet thuis te blijven door hun menstruatie.",
+      "con": "Gratis menstruatieproducten zijn al op verschillende plekken verkrijgbaar. Het aanbieden van deze producten is geen taak van de gemeente. Gratis producten zorgen voor extra kosten voor de gemeente.",
+      "isShootout": false
+    }
+  ]
+}

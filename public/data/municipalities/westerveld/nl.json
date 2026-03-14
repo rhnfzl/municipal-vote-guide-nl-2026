@@ -1,0 +1,927 @@
+{
+  "id": "GM1701",
+  "name": "Westerveld",
+  "slug": "westerveld",
+  "parties": [
+    {
+      "id": 167422,
+      "name": "CDA",
+      "fullName": "Christen-Democratisch Appel",
+      "website": "https://www.cda.nl/drenthe/westerveld",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "167433": {
+          "position": "agree",
+          "explanation": "Alhoewel het een optie is in uitzonderlijke gevallen, is de optie van een referendum eventueel beschikbaar. In normale omstandigheden zal de gemeenteraad als volksvertegenwoordigers de verschillende meningen en standpunten meenemen in de overwegingen."
+        },
+        "167437": {
+          "position": "agree",
+          "explanation": "Het verplichtende kun je ter discussie stellen maar CDA Westerveld vindt de benaderbaarheid van bestuurders belangrijk."
+        },
+        "167439": {
+          "position": "disagree",
+          "explanation": "Er is in de (vergrijzende) gemeente Westerveld veel behoefte aan praktisch geschoolde mensen in tuin- en bouwkundig onderhoud. Hier hoeft de gemeente echter geen actieve invloed op uit te oefenen. De kleinschalige bedrijven ontwikkelen zichzelf naar behoefte en mogelijkheden."
+        },
+        "167440": {
+          "position": "agree",
+          "explanation": "De huidige bedrijventerreinen zijn vol. 'Meer' en/of 'uitbreiding' van bestaande bedrijventerreinen stimuleert het vestigen van nieuwe of groeiende bedrijven."
+        },
+        "167442": {
+          "position": "disagree",
+          "explanation": "Het kan financieel aantrekkelijk zijn om samen te werken, maar het is vaak een eigen lokaal initiatief. De gemeente kan niet ieder project financieel steunen. Mogelijk is er vanuit provinciale subsidie een bijdrage mogelijk."
+        },
+        "167443": {
+          "position": "agree",
+          "explanation": "Een bewoner krijgt voor eigen gebruik toestemming voor kleinschalig zon-op-land. Grootschalig (commercieel) zon-op-land is op dit moment nog niet toegestaan in Westerveld. CDA Westerveld wil de reeds vergunde zon-op-water projecten afwachten voordat we naar zon-op-land gaan kijken."
+        },
+        "167445": {
+          "position": "disagree",
+          "explanation": "We respecteren elkaars bestuursverantwoordelijkheid."
+        },
+        "167446": {
+          "position": "disagree",
+          "explanation": "CDA Westerveld is tevreden met de huidige biologische en duurzame overwegingen in maaibeleid. Dat resulteert al in minder vaak maaien. Dat hoeft niet extra."
+        },
+        "167448": {
+          "position": "disagree",
+          "explanation": "Het verwerken van afval kost geld. Wie veel afval brengt, draagt nu ook financieel bij met een kleine vergoeding."
+        },
+        "167450": {
+          "position": "agree",
+          "explanation": "CDA Westerveld vindt dat we mogen genieten en recreëren in al onze natuurgebieden."
+        },
+        "167452": {
+          "position": "agree",
+          "explanation": "CDA Westerveld is blij met de positieve gemeentelijke insteek bij de opvang van vluchtelingen en statushouders. Hoe sneller de integratie verloopt, hoe beter de aansluiting in buurt en samenleving. Dat mag meer geld kosten."
+        },
+        "167454": {
+          "position": "disagree",
+          "explanation": "Het gaat niet om het aantal. We moeten gewoon onze bijdrage aan de landelijke en Drentse opgave leveren."
+        },
+        "167456": {
+          "position": "agree",
+          "explanation": "Als het een tijdelijk probleem betreft, dan wil het CDA Westerveld (financieel) helpen. Als er sprake is van een langdurig groot probleem, dan moet een vereniging ook reëel zijn in de toekomst."
+        },
+        "167459": {
+          "position": "disagree",
+          "explanation": "Er is voor CDA Westerveld nog geen aanleiding om extra boa's aan te stellen."
+        },
+        "167462": {
+          "position": "disagree",
+          "explanation": "Er zijn een aantal doorgaande (school)fietsroutes die je mag heroverwegen, maar verder is het juist een gemeentelijke kracht om donker te zijn."
+        },
+        "167463": {
+          "position": "disagree",
+          "explanation": "Het gebruik van gewasbeschermingsmiddelen of bestrijdingsmiddelen valt binnen de bedrijfsvoering van een ondernemer. Daar moeten we ons niet financieel mee bemoeien. Als de gemeente het met regels oplegt, dan moeten ze dat compenseren."
+        },
+        "167464": {
+          "position": "disagree",
+          "explanation": "We willen graag extra sociale huurwoningen maar in onze dorpen is meer behoefte aan specifieke betaalbare ouderen- en/of kleine gezinswoningen, die niet per se een sociale huurwoning hoeven te zijn."
+        },
+        "167465": {
+          "position": "agree",
+          "explanation": "In de dorpen in een plattelandsgemeente als Westerveld passen geen hoge woongebouwen. Twee verdiepingen boven een winkellaag of multifunctionele locatie is al hoog voor een dorp."
+        },
+        "167466": {
+          "position": "agree",
+          "explanation": "In bijzondere situaties kan een vakantiehuis een korte periode als vast huisadres dienen. Op de lange duur blijft een vakantiehuis bedoeld voor recreatie. Voor korte periodes kan de gemeente tijdelijke ontheffing verlenen om in een behoefte te voorzien."
+        },
+        "167470": {
+          "position": "agree",
+          "explanation": "We zien dat de behoefte aan zorg zal gaan stijgen vanwege het grotere aantal ouderen in onze gemeente. We moeten voorzien in zorgwoningen in combinatie met het versterken van de samen-redzame samenleving."
+        },
+        "167473": {
+          "position": "agree",
+          "explanation": "\"In ruil voor\" is niet het goede begrip, maar het helpt mensen in een actieve gemeenschap mee te doen. Groei in sociale contacten vermindert eenzaamheid en bevordert het noaberschap in de samenleving."
+        },
+        "167474": {
+          "position": "disagree",
+          "explanation": "Als gemeente mogen we omkijken naar de mensen die het moeilijk hebben. In sommige gevallen mogen we belastingen kwijtschelden.  Dat helpt bij het verminderen van de financiële zorgen."
+        },
+        "167479": {
+          "position": "agree",
+          "explanation": "Dit is grotendeels al het geval in de kerndorpen. In buitengebied is er bij enkele delen in bebouwde kom nog sprake van 50km/u."
+        },
+        "167480": {
+          "position": "agree",
+          "explanation": "De vele fietsende recreanten en schoolkinderen vragen om het respect van de automobilist. Dit gaat vaak al goed in de dorpen."
+        },
+        "167483": {
+          "position": "agree",
+          "explanation": "Het zware werkverkeer kiest nu al de meest passende route buitenom, maar er zijn een paar (provinciale) verbindingswegen door de dorpskernen."
+        },
+        "167485": {
+          "position": "agree",
+          "explanation": "Duidelijke voorlichting door onze beweegcoach helpt bij een gezonde oude dag als inwoner van Westerveld."
+        },
+        "167486": {
+          "position": "agree",
+          "explanation": "Het belangrijkste is dat er passende zorg op een hulpvraag wordt aangeboden. De rekening volgt als tweede. Eventuele financiële tekorten moeten wel aangevuld worden."
+        },
+        "167487": {
+          "position": "agree",
+          "explanation": "CDA Westerveld verwacht in elk voorzieningdorp een bibliotheekfunctie en pleit voor ondersteunende aanbodmogelijkheden in andere dorpen zoals bijvoorbeeld in buurthuizen of via bibliobus. ."
+        }
+      }
+    },
+    {
+      "id": 167423,
+      "name": "VVD",
+      "fullName": "Volkspartij Vrijheid en Democratie",
+      "website": "https://westerveld.vvd.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "167433": {
+          "position": "agree",
+          "explanation": "VVD Westerveld ondersteunt een gestructureerde participatieaanpak, passend bij schaal en impact. Kanttekening: VVD Westerveld vindt referenda ongeschikt voor complexe besluitvorming: alle nuances worden teruggebracht tot een simpele ja/nee. Dat past niet binnen een vertegenwoordigende democratie."
+        },
+        "167437": {
+          "position": "agree",
+          "explanation": "VVD Westerveld onderschrijft een toegankelijk en structureel contactmomenten van wethouders met inwoners, als cruciale stap naar meer transparantie en burgerbetrokkenheid."
+        },
+        "167439": {
+          "position": "agree",
+          "explanation": "VVD Westerveld wil investeren in promotie om bedrijven aan te trekken die banen creëren voor praktisch opgeleide inwoners, als onderdeel van een bredere visie op economische groei en inclusieve werkgelegenheid."
+        },
+        "167440": {
+          "position": "agree",
+          "explanation": "VVD Westerveld wil dat er meer bedrijventerreinen komen in de gemeente en bestaande kunnen uitbreiden. Zo krijgen bedrijven ruimte om zich te vestigen. Dat zorgt voor meer banen en een sterkere lokale economie. De gemeente moet hiervoor actief plannen maken, maar wel rekening houden met de omgeving."
+        },
+        "167442": {
+          "position": "disagree",
+          "explanation": "VVD Westerveld wil dat de gemeente actief burgers ondersteunt die zelf duurzame energie willen produceren, met name via kleinschalige projecten, zodat burgerparticipatie en duurzaamheid hand in hand gaan. Hierbij is de gemeente niet de financier van lokale energie initiatieven."
+        },
+        "167443": {
+          "position": "disagree",
+          "explanation": "VVD Westerveld wil zonneparken op landbouwgrond toestaan mits de toepassing niet enkelvoudig is (waterberging, begrazing en energie-opwek). Daarnaast ook inzetten op duurzame energie via daken en bebouwing en niet windmolens."
+        },
+        "167445": {
+          "position": "agree",
+          "explanation": "VVD Westerveld is positief over kleinschalige, lokaal passende energieopwekking, maar niet over grootschalige windparken, zeker niet bij de gemeentegrens en helemaal niet binnen de gemeentegrens."
+        },
+        "167446": {
+          "position": "disagree",
+          "explanation": "VVD Westerveld benadrukt dat dit maatwerk vergt en dat andere belangen zoals veiligheid, netheid en lokale initiatieven behouden moeten blijven. VVD Westerveld staat - als hieraan voldaan wordt - niet negatief tegenover ecologisch maaibeheer."
+        },
+        "167448": {
+          "position": "disagree",
+          "explanation": "VVD Westerveld is niet standaard voor gratis afvalinlevering, tenzij er een duidelijke financiële dekking en milieuwinst is. Het volledig gratis maken van afvalinlevering kan leiden tot hogere gemeentelijke kosten, wat niet past bij het streven naar gezonde financiën."
+        },
+        "167450": {
+          "position": "agree",
+          "explanation": "De VVD Westerveld wil toerisme en recreatie spreiden en toegankelijk maken, zodat inwoners en bezoekers kunnen genieten van de natuur. Dit idee past bij ons streven naar een aantrekkelijke leefomgeving. Westerveld mag geen natuurmuseum worden."
+        },
+        "167452": {
+          "position": "disagree",
+          "explanation": "VVD Westerveld is voorstander van een humane crisis- en reguliere opvang van asielzoekers. Iedere gemeente moet een bijdrage leveren. De bestaande inzet van Westerveld vinden we passend."
+        },
+        "167454": {
+          "position": "disagree",
+          "explanation": "VVD Westerveld vindt dat er al een wettelijke verplichting is en aan voldaan wordt om opvang te bieden, maar ziet geen noodzaak voor twee permanente azc’s. Wij pleiten eerder voor kleinschalige of tijdelijke oplossingen in plaats van grote, vaste centra."
+        },
+        "167456": {
+          "position": "agree",
+          "explanation": "VVD Westerveld vindt dat verenigingen primair zelf verantwoordelijk zijn voor hun financiën. De gemeente kan helpen met faciliteiten of tijdelijke steun in uitzonderlijke gevallen, maar is daar niet toe verplicht. Geen structurele subsidies, maar wel oog voor het belang van sport in de samenleving."
+        },
+        "167459": {
+          "position": "agree",
+          "explanation": "VVD Westerveld is voor meer handhaving en preventief aanwezig zijn. Dit betekent betere controle op overlast en naleving. Daarnaast ontlasten de boa's de politie bij lokale taken. De extra boa's moeten wel passen binnen een verantwoord budget."
+        },
+        "167462": {
+          "position": "agree",
+          "explanation": "VVD Westerveld vindt veiligheid belangrijk waardoor we voorstander zijn van verlichting op gevaarlijke plekken of routes. Vanuit kostenbewustzijn kan dit niet overal, maar waar het echt nodig is. Ook dienen we rekening te houden met balans met natuur zodat er geen overmatige lichtvervuiling is."
+        },
+        "167463": {
+          "position": "disagree",
+          "explanation": "VVD Westerveld vindt dat de gemeente geen structurele subsidies moet geven. De verantwoordelijkheid ligt bij markt of landelijke overheid. Duurzaamheid is belangrijk, maar stimulering via kennis, vergunningen en samenwerking, niet via gemeentelijke betalingen."
+        },
+        "167464": {
+          "position": "disagree",
+          "explanation": "VVD Westerveld vindt een vast percentage niet passend en pleit voor bouwen naar lokale behoefte. Het draait om balans: voldoende sociale huur voor betaalbaarheid en doorstroming, ruimte voor koop- en middenhuurwoningen. Sociale huur levert minder rendement op. Dat kan leiden tot afstel van projecten."
+        },
+        "167465": {
+          "position": "agree",
+          "explanation": "VVD Westerveld is niet voor gebouwen hoger dan vier verdiepingen. Hiermee beschermen we het open, groene landschap en voorkomen we verstedelijking. Wel dienen we blijvend de afweging te maken tussen landelijke identiteit versus het efficiënt benutten van schaarse ruimte\r\n"
+        },
+        "167466": {
+          "position": "disagree",
+          "explanation": "VVD Westerveld is geen voorstander van permanente bewoning van vakantieparken. Hierdoor zijn er minder recreatieve voorzieningen beschikbaar. Daarnaast vraagt permanente bewoning om betere wegen, riolering en infrastructuur."
+        },
+        "167470": {
+          "position": "agree",
+          "explanation": "VVD Westerveld vindt het belangrijk dat er voldoende geschikte woningen zijn, zodat zorgbehoevenden niet onnodig in dure zorginstellingen terechtkomen en ouderen hun eigen woning kunnen verlaten voor een passende woonvorm. Het is een afweging tussen financiële lasten en maatschappelijke baten."
+        },
+        "167473": {
+          "position": "agree",
+          "explanation": "VVD Westerveld vindt: bijstand is een vangnet, geen hangmat. Bijstand is bedoeld als tijdelijke hulp en dat mensen die deze ontvangen, iets terug moeten doen voor de gemeenschap. Het gaat om sociale activering en het voorkomen van passiviteit en sociaal isolement."
+        },
+        "167474": {
+          "position": "agree",
+          "explanation": "VVD Westerveld vindt dat iedereen bijdraagt aan gemeentelijke voorzieningen. Kwijtschelding is niet eerlijk. Wij vinden dat het principe van gelijke behandeling belangrijker is dan inkomensafhankelijke vrijstelling. Belasting is een bijdrage die iedereen moet leveren."
+        },
+        "167479": {
+          "position": "agree",
+          "explanation": "Lagere snelheid vermindert het risico op ernstige ongelukken, vooral voor voetgangers en fietsers en geeft minder geluidsoverlast en een veiliger gevoel in woonwijken. Het mag echter niet ten koste gaan van de doorstroming van het verkeer."
+        },
+        "167480": {
+          "position": "disagree",
+          "explanation": "VVD Westerveld vindt het onnodig beperkend voor automobilisten en de doorstroming van verkeer. Er zijn al voldoende regels zijn om fietsers te beschermen. Wel kijken naar snelle en veilige fietsroutes."
+        },
+        "167483": {
+          "position": "disagree",
+          "explanation": "VVD Westerveld steunt efficiënt landbouwverkeer, maar ook veiligheid en leefbaarheid. Onze voorkeur gaat uit naar pragmatische oplossingen zoals omleidingen en betere infrastructuur, niet naar een totaalverbod."
+        },
+        "167485": {
+          "position": "disagree",
+          "explanation": "VVD Westerveld ziet gezondheid als een persoonlijke verantwoordelijkheid van inwoners. Niet als iets waar de gemeente geld of middelen aan moet besteden. De overheid moet niet onnodig taken op zich nemen die burgers zelf kunnen uitvoeren en zich richten op haar kerntaken."
+        },
+        "167486": {
+          "position": "disagree",
+          "explanation": "VVD Westerveld vindt dat het Rijk verantwoordelijk is voor voldoende financiering en dat gemeenten niet structureel moeten bijpassen, omdat dit ten koste gaat van andere voorzieningen. Belangrijk dat er efficiënt gewerkt wordt en betere samenwerking ontstaat tussen zorgpartijen en overheid."
+        },
+        "167487": {
+          "position": "disagree",
+          "explanation": "Extra gemeentelijke uitgaven voor boeken uitleen in elk dorp is overbodig, omdat een bibliotheek als instelling al in de basisvoorziening voorziet. De gemeente moet niet onnodig uitbreiden in zaken die al adequaat geregeld zijn binnen bestaande structuren."
+        }
+      }
+    },
+    {
+      "id": 167424,
+      "name": "GL/PvdA/PW",
+      "fullName": "GroenLinks/Partij van de Arbeid/Progressief Westerveld",
+      "website": "https://samenwesterveld.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "167433": {
+          "position": "agree",
+          "explanation": "Inwoners moeten kunnen meepraten over belangrijke besluiten. Dat kan ook via een referendum. Wel vinden wij dat dit alleen onder duidelijke voorwaarden gebeurt, zodat het zorgvuldig, eerlijk en goed voorbereid is."
+        },
+        "167437": {
+          "position": "agree",
+          "explanation": "Wethouders, gemeenteraadsleden en ambtenaren moeten zichtbaar en benaderbaar zijn voor inwoners. Wethouders kunnen dit doen door regelmatig spreekuren te houden in de verschillende dorpen, zodat inwoners makkelijk contact kunnen leggen."
+        },
+        "167439": {
+          "position": "agree",
+          "explanation": "Wij willen waardevol werk in een eerlijke economie. Dat is een economie die duurzaam en circulair is. Daarvoor zijn praktisch en theoretisch geschoolde mensen nodig met werk dat past bij Westerveld."
+        },
+        "167440": {
+          "position": "disagree",
+          "explanation": "De huidige bedrijventerreinen kunnen beter worden benut. Grotere bedrijven buiten bedrijventerreinen zorgen nu vaak voor veel en zwaar verkeer, wat de leefbaarheid aantast. Dat vraagt om betere keuzes in vestiging."
+        },
+        "167442": {
+          "position": "agree",
+          "explanation": "Bewoners die samen duurzame energie willen opwekken, verdienen steun van de gemeente. Energiecoöperaties zorgen ervoor dat opbrengsten lokaal blijven en dat meer mensen kunnen meedoen aan de energietransitie."
+        },
+        "167443": {
+          "position": "agree",
+          "explanation": "Landbouwgrond willen wij niet gebruiken voor zonnepanelen. Deze grond is nodig voor extensieve, duurzame en biologische landbouw. Zonnepanelen plaatsen we vooral op daken, langs wegen en op industrieterreinen."
+        },
+        "167445": {
+          "position": "disagree",
+          "explanation": "Wij willen schone energie. Westerveld moet samen met buurgemeentes bepalen op welke manier windenergie mogelijk is in de regio. Daarbij moet aandacht zijn voor zorgvuldige aanpassing, afstand tot woningen en de hoogte van windmolens."
+        },
+        "167446": {
+          "position": "agree",
+          "explanation": "Minder vaak maaien van bermen is goed voor bijen, insecten en biodiversiteit. Daarbij houden we rekening met verkeersveiligheid en toegankelijkheid. Bermen zijn een aanvulling, maar compenseren niet het verlies van biodiversiteit in de ruim 30.000 hectare natuur in Westerveld."
+        },
+        "167448": {
+          "position": "disagree",
+          "explanation": "Wij willen een circulaire economie met minder afval. Door sommige afvalstromen niet gratis te houden, stimuleren we afvalscheiding en hergebruik. Dat is beter voor het milieu en houdt de kosten eerlijk."
+        },
+        "167450": {
+          "position": "neither",
+          "explanation": "De prachtige natuur van Westerveld is ons visitekaartje dat toegankelijk moet zijn voor inwoners en toeristen via wandel- en fietspaden. Ook dieren hebben ruimte nodig. Bijvoorbeeld vogels tijdens het broedseizoen. Daarom willen wij dat de kern- en rustgebieden niet toegankelijk zijn voor mensen."
+        },
+        "167452": {
+          "position": "agree",
+          "explanation": "Wij willen een samenleving waarin iedereen mee kan doen. Investeren in integratie helpt nieuwkomers sneller hun plek te vinden en versterkt de samenhang in dorpen en wijken. Geld steken in taal, onderwijs, participatie en sociaaleconomische kansen zijn essentieel voor succesvolle participatie."
+        },
+        "167454": {
+          "position": "agree",
+          "explanation": "Wij zien opvang van vluchtelingen als een menselijke plicht. Mensen die vluchten voor oorlog of geweld moeten veilig worden opgevangen. Daarom willen wij twee kleinschalige, permanente locaties van maximaal 150 personen. Dat geeft rust en maakt integratie via school, sport en werk makkelijker."
+        },
+        "167456": {
+          "position": "disagree",
+          "explanation": "De gemeente denkt mee in oplossingen voor sportverenigingen. Financiële steun is niet altijd de juiste oplossing. Soms zijn samenwerking of andere vormen van ondersteuning beter voor de toekomst."
+        },
+        "167459": {
+          "position": "agree",
+          "explanation": "Extra inzet en zichtbaarheid van boa’s is nodig, zeker nu er minder politie is. Zo kunnen regels beter worden gehandhaafd en voelen inwoners zich veiliger."
+        },
+        "167462": {
+          "position": "disagree",
+          "explanation": "Lichtvervuiling moeten we tegengaan. In het buitengebied is donkerte belangrijk voor natuur en landschap. We willen alleen veelgebruikte routes en kruispunten gericht en innovatief verlichten, waar de veiligheid dit vraagt."
+        },
+        "167463": {
+          "position": "disagree",
+          "explanation": "Boeren moeten een passend loon krijgen voor wat zij wél doen, zoals het plaatsen van heggen en overstappen op biologische en natuurinclusieve landbouw, niet voor het laten van schadelijke praktijken."
+        },
+        "167464": {
+          "position": "agree",
+          "explanation": "Het aandeel sociale huur in Westerveld is nu ongeveer 16%. Dat is te laag. Door bij nieuwbouw minimaal 33% sociale huur te realiseren, zorgen we voor meer betaalbare woningen voor starters en mensen met een lager inkomen."
+        },
+        "167465": {
+          "position": "agree",
+          "explanation": "Hogere gebouwen passen niet bij het karakter van Westerveld. Hoogbouw kan alleen in dorpen of bij verbouwing van bestaande hoge gebouwen, als dit goed wordt ingepast in de omgeving."
+        },
+        "167466": {
+          "position": "agree",
+          "explanation": "Het bestaande beleid Vitale Vakantieparken is leidend. Op parken die niet vitaal zijn, zou permanente bewoning onder voorwaarden kunnen voor inwoners die anders geen kant op kunnen."
+        },
+        "167470": {
+          "position": "disagree",
+          "explanation": "De gemeente investeert niet zelf in wooncomplexen. Wel is de gemeente verantwoordelijk voor voldoende woningen voor alle inwonergroepen, ook voor mensen die zorg nodig hebben. We sturen daarop via afspraken met partners."
+        },
+        "167473": {
+          "position": "disagree",
+          "explanation": "Bijstand is een recht. Mensen die kunnen en willen werken, stimuleren en begeleiden we naar waardevol en passend werk. Verplicht werk als tegenprestatie past daar niet bij en houdt geen rekening met iemands situatie."
+        },
+        "167474": {
+          "position": "disagree",
+          "explanation": "Het kwijtschelden van gemeentelijke belastingen moet mogelijk blijven als de situatie daarom vraagt. Dat voorkomt dat problemen groter worden."
+        },
+        "167479": {
+          "position": "agree",
+          "explanation": "Een maximumsnelheid van 30 km/u vergroot de verkeersveiligheid. De weginrichting moet hierop worden aangepast, zodat verkeer vanzelf rustiger rijdt. Zo kunnen kinderen veilig en zelfstandig naar school en voelen ook voetgangers en fietsers zich veiliger."
+        },
+        "167480": {
+          "position": "agree",
+          "explanation": "Door fietsers vaker voorrang te geven en wegen hierop in te richten, maken we verkeer veiliger en stimuleren we duurzaam vervoer. Wij kiezen voor het STOMP-principe: eerst stappen, dan trappen, openbaar vervoer en pas daarna de auto."
+        },
+        "167483": {
+          "position": "agree",
+          "explanation": "Landbouwverkeer kan in dorpen zorgen voor onveilige situaties. Waar mogelijk zoeken we naar oplossingen buiten de dorpen, zoals alternatieve routes of verkeersmaatregelen, zodat dorpen veilig en leefbaar blijven."
+        },
+        "167485": {
+          "position": "agree",
+          "explanation": "De gemeente kan bijdragen aan een gezondere leefstijl. Zij kan meer aandacht besteden aan gezond eten en het aanbod van ongezonde voeding beperken. Ook spelen sport- en beweegcoaches een belangrijke rol bij het stimuleren van gezond gedrag."
+        },
+        "167486": {
+          "position": "disagree",
+          "explanation": "Het Rijk bepaalt de regels voor de jeugdzorg, maar de gemeente moet betalen. Dat is niet goed. De gemeente moet weer grip krijgen op de jeugdzorg. Jeugdhulp moet laagdrempelig en snel beschikbaar zijn. Door problemen eerder te signaleren is zwaardere en langdurige zorg minder vaak nodig."
+        },
+        "167487": {
+          "position": "agree",
+          "explanation": "Boeken lenen in het eigen dorp is belangrijk voor ontmoeting, leesplezier en ontwikkeling. Door te investeren in bibliotheken en uitleenpunten zorgen we dat kennis en cultuur voor iedereen toegankelijk blijven. We regelen thuisbezorging van boeken voor iedereen die niet fysiek naar de bieb kan."
+        }
+      }
+    },
+    {
+      "id": 167425,
+      "name": "LSW",
+      "fullName": "Lokaal Sociaal Westerveld",
+      "website": "https://lokaalsociaalwesterveld.nl/",
+      "hasSeats": false,
+      "participates": true,
+      "positions": {
+        "167433": {
+          "position": "agree",
+          "explanation": "Een referendum inzetten alleen bij onderwerpen waarvan de inwoners aangeven dat ze belangrijk zijn. Wij denken dat het behouden van de zwembaden zo’n onderwerp is."
+        },
+        "167437": {
+          "position": "neither",
+          "explanation": "Als wethouders zelf aangeven dat ze een spreekuur willen, zijn we hier voor. We vinden het echter geen verplichting."
+        },
+        "167439": {
+          "position": "agree",
+          "explanation": "Er is nu genoeg werk voor praktisch geschoolden, maar we vermoeden dat dit in de (nabije) toekomst verandert. Door strengere milieueisen of minder financieringsmogelijkheden voor bedrijven en door de instroom van praktisch geschoolde nieuwkomers."
+        },
+        "167440": {
+          "position": "disagree",
+          "explanation": "De huidige bedrijventerreinen moeten kunnen uitbreiden als dat nodig is, maar er moeten geen nieuwe bedrijventerreinen bij komen."
+        },
+        "167442": {
+          "position": "disagree",
+          "explanation": "De gemeente overweegt zelf welke projecten voor het opwekken van duurzame energie financiering nodig hebben en welke niet."
+        },
+        "167443": {
+          "position": "disagree",
+          "explanation": "Zonnepanelen op landbouwgrond kan wel als er een dubbelfunctie is. Voorbeelden van zo'n dubbelfunctie zijn zonnepanelen in combinatie met vee, akkerbouw en/of waterberging."
+        },
+        "167445": {
+          "position": "agree",
+          "explanation": "Nieuwe windmolens aan onze gemeentegrens willen we niet. Er moet eerst meer onderzocht worden welke gevolgen windmolens hebben voor de gezondheid van mens en dier."
+        },
+        "167446": {
+          "position": "agree",
+          "explanation": "Minder maaien vergroot de biodiversiteit, wat beter is voor de natuur in Westerveld."
+        },
+        "167448": {
+          "position": "agree",
+          "explanation": "Gratis inleveren van afval in Havelte stimuleert het goed scheiden en zo bewust omgaan met afval. Afval kan weer gebruikt worden als grondstof."
+        },
+        "167450": {
+          "position": "disagree",
+          "explanation": "We willen zo veel mogelijk natuurgebieden openstellen voor wandelaars, maar niet alle. Niet in gebieden waardoor de natuur verstoord kan worden door wandelaars."
+        },
+        "167452": {
+          "position": "agree",
+          "explanation": "Door geld te investeren in integratie zorgt de gemeente ervoor dat mensen een waardig bestaan kunnen opbouwen, mee kunnen doen in de maatschappij en de normen en waarden van Westerveld meekrijgen."
+        },
+        "167454": {
+          "position": "agree",
+          "explanation": "Vaste azc's bieden voordelen als vaste banen voor Westervelders, snellere integratie en arbeidskrachten vanuit het azc. Vaste opvangplekken betekent ook dat je als inwoner weet waar je aan toe bent."
+        },
+        "167456": {
+          "position": "agree",
+          "explanation": "De gemeente moet de mogelijkheid hebben sportclubs financieel te steunen. De gemeente moet daarin wel een afweging kunnen maken."
+        },
+        "167459": {
+          "position": "agree",
+          "explanation": "Voor een groot gebied als Westerveld zijn 2 gemeentelijke handhavers te weinig. Meer boa’s betekent meer zichtbaarheid op straat en meer aandacht voor de leefbaarheid en dit vergroot het gevoel van veiligheid."
+        },
+        "167462": {
+          "position": "neither",
+          "explanation": "Op een aantal plekken in het buitengebied is donker beter, maar op plekken waar veel mensen langskomen, is meer verlichting gewenst."
+        },
+        "167463": {
+          "position": "neither",
+          "explanation": "Er worden gewasbeschermingsmiddelen gebruikt, waarvan de ene wel giftige bestanddelen bevat en de andere niet. Kunstmest moet gebruikt worden, omdat er minder organische mest mag worden uitgereden. Het is daarom lastig te bepalen wanneer de gemeente wel of niet financieel zou moeten bijdragen."
+        },
+        "167464": {
+          "position": "agree",
+          "explanation": "We hebben meer sociale huurwoningen nodig voor de eigen jeugd en ouderen. Er is nu geen goede doorstroming en een te kleine kans op het vinden van een betaalbare woning. Het percentage sociale woningen mag hiervoor in Westerveld hoger liggen dan het landelijk percentage."
+        },
+        "167465": {
+          "position": "disagree",
+          "explanation": "Als een hoger woongebouw inpasbaar is in het landschap of dorp, kan het zorgen voor gewenste goedkopere wooneenheden. Er moet wel voldoende draagvlak zijn bij de omwonenden. We vinden dit draagvlak belangrijker dan een oordeel van de Welstandscommissie."
+        },
+        "167466": {
+          "position": "agree",
+          "explanation": "Voldoen de vakantiewoningen aan de woonnorm voor vaste bewoning, dan moeten het vaste woonadressen kunnen worden. Hiermee zorg je voor extra woonruimte zonder te hoeven bouwen en meer kans op doorstroming op de woningmarkt."
+        },
+        "167470": {
+          "position": "agree",
+          "explanation": "Geld steken in wooncomplexen met zorg kan plannen realiseren die al jaren in voorbereiding zijn, maar niet van de grond komen. We denken dat hier een grote behoefte aan is, zeker bij de ouder wordende Westervelder. We zijn ook voorstander van het weer bouwen van bejaardenhuizen."
+        },
+        "167473": {
+          "position": "disagree",
+          "explanation": "Zinvol werk doen naast een bijstandsuitkering kan. Dit moet wel maatwerk zijn en in overleg gebeuren. Dwang motiveert niet. We zijn wel van mening dat meer mensen van nut kunnen zijn voor de samenleving."
+        },
+        "167474": {
+          "position": "disagree",
+          "explanation": "Kwijtschelding van gemeentelijke belastingen kan grotere financiële problemen voorkomen en daardoor ook maatschappelijke problemen voorkomen. Liever kwijtschelding dan dat mensen denken te moeten gaan stelen."
+        },
+        "167479": {
+          "position": "disagree",
+          "explanation": "Wij vinden dat de maximumsnelheid al goed is geregeld in Westerveld: 30 km/u waar het moet, 50 km/u waar het kan."
+        },
+        "167480": {
+          "position": "disagree",
+          "explanation": "We denken niet dat vaker voorrang voor fietsers meer veiligheid op de weg oplevert, tenzij er meer verkeerslichten komen. Dit brengt extra kosten met zich mee. De vraag is of deze kosten zich positief verhouden tot het doel."
+        },
+        "167483": {
+          "position": "disagree",
+          "explanation": "Tractoren zijn verkeersdeelnemers en mogen rijden waar het is toegestaan, ook in dorpskernen."
+        },
+        "167485": {
+          "position": "agree",
+          "explanation": "Meer voorlichting over gezond leven is goed, al doet de gemeente daar al veel aan vinden wij. Denk aan financiën voor de beweegcoaches en voor werkgroepen van betrokken Westervelders die voorlichting geven over gezond leven."
+        },
+        "167486": {
+          "position": "agree",
+          "explanation": "Voor ons staat het welzijn van de persoon voorop. Als er geld te weinig is voor jeugdzorg vanuit het Rijk, dan moet er bijgelegd worden door de gemeente."
+        },
+        "167487": {
+          "position": "neither",
+          "explanation": "Boeken kunnen lenen lijkt ons al goed geregeld met bibliotheken in de grotere dorpen en minibibliotheken op andere plekken. Mocht er meer behoefte zijn, dan kan dat besproken worden."
+        }
+      }
+    },
+    {
+      "id": 167426,
+      "name": "DSW/GBW",
+      "fullName": "Duurzaam Sterk Westerveld & Gemeente Belangen Westerveld",
+      "website": "",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "167433": {
+          "position": "disagree",
+          "explanation": "Wij zijn niet voor een referendum. Bij de verkiezingen kiezen inwoners zelf hun vertegenwoordigers. Wel kunnen besluiten zo belangrijk zijn dat je inwoners extra invloed wil geven door ze vroeg mee laten denken over plannen die hen aangaan. Inwoners kunnen ons ook altijd tussentijds benaderen om hun"
+        },
+        "167437": {
+          "position": "disagree",
+          "explanation": "Wij zijn niet voor een wekelijks verplicht spreekuur. Wethouders zijn er voor onze inwoners en moeten benaderbaar zijn. Inwoners kunnen hiervoor een afspraak maken. Ook verwachten wij van wethouders een open houding en dat zij zelf ook het gesprek in de samenleving opzoeken."
+        },
+        "167439": {
+          "position": "neither",
+          "explanation": "Wij willen via de Regio Zwolle actief inzetten op nieuwe banen in Westerveld. Het is belangrijk dat jonge mensen hier kunnen blijven wonen én ook leuk werk kunnen vinden, bijvoorbeeld in de zorg, techniek, defensie, landbouw, onderwijs of gespecialiseerde bedrijven."
+        },
+        "167440": {
+          "position": "agree",
+          "explanation": "Ja, indien de bestaande bedrijventerreinen zijn volgebouwd. Bedrijventerreinen zijn bedoeld voor Westerveldse bedrijven die uit hun jasje groeien. De bestaande bedrijventerreinen moeten kunnen meegroeien met de behoefte."
+        },
+        "167442": {
+          "position": "agree",
+          "explanation": "Wij willen het opwekken van duurzame energie zeker blijven stimuleren, bijvoorbeeld via kleinschalige energiecoöperaties."
+        },
+        "167443": {
+          "position": "agree",
+          "explanation": "Via landelijke wetgeving is het plaatsen van zonnepanelen op grond met landbouwbestemming verboden. Dit is dus in Westerveld niet mogelijk."
+        },
+        "167445": {
+          "position": "agree",
+          "explanation": "Wij zijn geen voorstander van grootschalige windmolenparken in, of aan de rand van Westerveld. Bij plaatsing van windmolens in buurgemeentes willen wij dat de zichtlijnen in Westerveld zo min mogelijk verstoord worden."
+        },
+        "167446": {
+          "position": "neither",
+          "explanation": "Wij willen een aantrekkelijke en veilige openbare ruimte. Duurzaamheid en biodiversiteit zijn onderdeel van beleid. Bij de keuze wel/niet maaien willen we dat omwonenden een stem krijgen."
+        },
+        "167448": {
+          "position": "disagree",
+          "explanation": "Het principe dat ´de vervuiler betaalt´ levert op het afvalbrengstation een eerlijke verdeling op van de afvoerkosten. Inwoners rekenen hier per kilo af wat zij inleveren. Dit is kostendekkend."
+        },
+        "167450": {
+          "position": "agree",
+          "explanation": "Natuurgebieden moeten gratis toegankelijk blijven voor inwoners en toeristen. Mensen moeten kunnen genieten van onze natuur. Dit geeft ook draagvlak voor onderhoud, kosten en instandhouding. Tijdelijke maatregelen voor kwetsbare soorten als broedende kraanvogels moeten kunnen."
+        },
+        "167452": {
+          "position": "disagree",
+          "explanation": "Er is nu al genoeg geld voor opvang, integratie en meedoen in de samenleving. Daarbij werken Centraal Orgaan opvang asielzoekers en de gemeente samen. Ook zijn er veel vrijwilligers die bijvoorbeeld als taalhulp of maatje meehelpen."
+        },
+        "167454": {
+          "position": "disagree",
+          "explanation": "Wij vinden dat we nu al voldoende kleinschalige opvang aanbieden en zien niet de noodzaak om grotere azc´s binnen te halen. Onze gemeente leent zich het beste voor kleinschalige opvang."
+        },
+        "167456": {
+          "position": "agree",
+          "explanation": "Sport is belangrijk en willen we behouden. Daarin hebben verenigingen ook zelf een verantwoordelijkheid. Bij problemen en veranderde wetgeving moet de gemeente kijken naar levensvatbaarheid van de verenigingen en soms een helpende hand bieden."
+        },
+        "167459": {
+          "position": "disagree",
+          "explanation": "We krijgen geen signalen dat de boa´s hun werk niet aan kunnen. Indien het door toenemende problemen wel nodig is dan beoordelen wij dat op basis van klachten of gebeurtenissen of hier meer geld voor nodig is. Wel zien wij dat bij de aanpak van ondermijning extra inzet veel op kan leveren."
+        },
+        "167462": {
+          "position": "disagree",
+          "explanation": "Als de veiligheid in het geding is, kunnen lantaarnpalen verbetering geven. Een voorbeeld hiervan is de verlichting van Havelte naar Meppel op het donkere stuk langs de vaart. Duisternis is niet bij voorbaat onveilig en biedt ook rust voor dieren."
+        },
+        "167463": {
+          "position": "disagree",
+          "explanation": "Boeren zijn ondernemers en hebben te maken met wettelijke kaders en hun eigen bedrijfsvoering. Het is geen gemeentelijke taak om hierin compensatie te geven."
+        },
+        "167464": {
+          "position": "disagree",
+          "explanation": "Voor de grootste woningbouwvereniging in Westerveld is 33% sociale huur financieel en organisatorisch onhaalbaar. Wij willen graag onderzoeken wat een tweede coöperatie daarin kan betekenen."
+        },
+        "167465": {
+          "position": "agree",
+          "explanation": "Meer dan vier lagen vinden wij in Westerveld niet passend. Meerlaagswoningen kunnen de woningnood wel helpen oplossen. Gebouwen moeten passend zijn in de omgeving. Blokkendozen zien wij liever niet in onze gemeente."
+        },
+        "167466": {
+          "position": "agree",
+          "explanation": "De minister stelt dit verplicht in bepaalde gevallen. Toch willen wij in Westerveld onze vakantieparken ook voor recreatie behouden. Daar waar rechten opgebouwd zijn voor permanent wonen, zien wij graag zonering in het park, waardoor wonen en recreatie uit elkaar wordt gehouden."
+        },
+        "167470": {
+          "position": "disagree",
+          "explanation": "Het is belangrijk dat mensen die zorg nodig hebben in de gemeente kunnen blijven wonen. De gemeente moet initiatieven ondersteunen, bijvoorbeeld door afspraken met woningcorporaties. Zorgwoningen kunnen nooit alleen door de gemeente worden opgezet. Dit vraagt om een samenspel met zorgorganisaties."
+        },
+        "167473": {
+          "position": "neither",
+          "explanation": "Een tegenprestatie wordt wel gevraagd, maar is niet altijd mogelijk. Wij willen niet dat mensen met een bijstandsuitkering een stigma krijgen. Waardigheid is van belang."
+        },
+        "167474": {
+          "position": "disagree",
+          "explanation": "Nee, want deze kwijtschelding is van groot belang voor mensen met een kleine beurs. Wij willen dit behouden."
+        },
+        "167479": {
+          "position": "neither",
+          "explanation": "Verkeer in de kernen moet veilig zijn en passen bij de plaatselijke situatie. Belangrijk is vooral overzicht en duidelijkheid."
+        },
+        "167480": {
+          "position": "neither",
+          "explanation": "Fietsers zijn kwetsbare verkeersdeelnemers en moeten vooral veilig kunnen fietsen. Duidelijkheid, overzicht en verlichting vinden wij daarin belangrijker dan voorrang."
+        },
+        "167483": {
+          "position": "disagree",
+          "explanation": "Tractoren horen bij onze plattelandsgemeente. Op sommige plaatsen kunnen grote landbouwvoertuigen onveilige situaties veroorzaken. Dit vraagt om maatwerk en knelpunten moeten per geval worden bekeken. "
+        },
+        "167485": {
+          "position": "agree",
+          "explanation": "Gezondheid en welbevinden is voor onze inwoners belangrijk. Daarom zien wij de meerwaarde van de beweegcoaches. Zij stimuleren bewegen en een gezonde leefstijl. Dit moet behouden blijven."
+        },
+        "167486": {
+          "position": "agree",
+          "explanation": "Voorop staat dat jongeren altijd die hulp moeten krijgen die zij nodig hebben. Als de Rijksbijdrage hier niet voldoende voor is, moet dit uit de eigen middelen van de gemeente worden betaald. Jongeren hebben recht op een goede basis."
+        },
+        "167487": {
+          "position": "disagree",
+          "explanation": "Een bibliotheek is een belangrijke voorziening, die meer doet dan boeken verstrekken. Denk aan hulp bij laaggeletterdheid en computervaardigheid. Dit helpt mensen om mee te kunnen (blijven) doen in de samenleving. De huidige bibliotheken moeten we behouden en moeten toegankelijk blijven voor iedereen. Extra bibliotheken zijn niet nodig.  "
+        }
+      }
+    }
+  ],
+  "statements": [
+    {
+      "id": 167442,
+      "index": 1,
+      "theme": "Duurzame energie",
+      "themeId": "duurzame-energie",
+      "title": "Inwoners die samen duurzame energie op willen wekken, moeten financiële steun krijgen van de gemeente.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167483,
+      "index": 2,
+      "theme": "Tractoren",
+      "themeId": "tractoren",
+      "title": "Tractoren mogen niet door dorpskernen rijden, tenzij dit de enige route is.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167439,
+      "index": 3,
+      "theme": "Bedrijven voor praktisch geschoolden",
+      "themeId": "bedrijven-voor-praktisch-geschoolden",
+      "title": "De gemeente moet geld steken in een promotiecampagne om bedrijven aan te trekken waar veel praktisch geschoolden werken.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167446,
+      "index": 4,
+      "theme": "Minder maaien",
+      "themeId": "minder-maaien",
+      "title": "De gemeente moet bermen en grasvelden minder vaak maaien, zodat de natuur meer ruimte krijgt.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167470,
+      "index": 5,
+      "theme": "Woonzorgcomplexen",
+      "themeId": "woonzorgcomplexen",
+      "title": "De gemeente moet geld steken in de bouw van wooncomplexen voor mensen die zorg nodig hebben.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167440,
+      "index": 6,
+      "theme": "Bedrijventerreinen",
+      "themeId": "bedrijventerreinen",
+      "title": "In Westerveld moeten meer bedrijventerreinen komen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167452,
+      "index": 7,
+      "theme": "Integratie nieuwkomers",
+      "themeId": "integratie-nieuwkomers",
+      "title": "De gemeente moet meer geld uitgeven aan integratie van nieuwkomers in de maatschappij.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167433,
+      "index": 8,
+      "theme": "Referendum",
+      "themeId": "referendum",
+      "title": "De inwoners van Westerveld moeten over belangrijke onderwerpen hun mening kunnen geven via een referendum.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167443,
+      "index": 9,
+      "theme": "Zonnepanelen op landbouwgrond",
+      "themeId": "zonnepanelen-op-landbouwgrond",
+      "title": "De gemeente moet zonnepanelen op landbouwgrond verbieden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167454,
+      "index": 10,
+      "theme": "Asielzoekerscentrum",
+      "themeId": "asielzoekerscentrum",
+      "title": "In onze gemeente moeten twee permanente asielzoekerscentra (azc's) komen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167448,
+      "index": 11,
+      "theme": "Afvalbrengstation",
+      "themeId": "afvalbrengstation",
+      "title": "Het inleveren van alle soorten afval bij het afvalbrengstation in Havelte moet gratis worden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167445,
+      "index": 12,
+      "theme": "Windmolens",
+      "themeId": "windmolens",
+      "title": "Westerveld moet er bij aangrenzende gemeenten op aandringen dat zij geen nieuwe windmolens bij de gemeentegrens plaatsen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167464,
+      "index": 13,
+      "theme": "Sociale huurwoningen",
+      "themeId": "sociale-huurwoningen",
+      "title": "Van de nieuw te bouwen woningen in Westerveld moet minimaal 33% een sociale huurwoning zijn. In Nederland is nu 28% van de woningen een sociale huurwoning.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167465,
+      "index": 14,
+      "theme": "Hoge gebouwen",
+      "themeId": "hoge-gebouwen",
+      "title": "In Westerveld mogen geen gebouwen van meer dan vier verdiepingen komen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167450,
+      "index": 15,
+      "theme": "Toegankelijke natuurgebieden",
+      "themeId": "toegankelijke-natuurgebieden",
+      "title": "Alle natuurgebieden in Westerveld moeten toegankelijk zijn voor wandelaars.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167479,
+      "index": 16,
+      "theme": "Snelheid auto's",
+      "themeId": "snelheid-auto-s",
+      "title": "De maximumsnelheid binnen de bebouwde kom moet naar 30 km/u.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167485,
+      "index": 17,
+      "theme": "Gezondheidsvoorlichting",
+      "themeId": "gezondheidsvoorlichting",
+      "title": "De gemeente moet inwoners meer voorlichting geven over gezond leven.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167459,
+      "index": 18,
+      "theme": "Handhavers",
+      "themeId": "handhavers",
+      "title": "In Westerveld moeten vier gemeentelijke handhavers (boa’s) komen. Nu zijn dat er twee.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167480,
+      "index": 19,
+      "theme": "Voorrang voor fietsers",
+      "themeId": "voorrang-voor-fietsers",
+      "title": "Fietsers moeten vaker voorrang krijgen op automobilisten.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167437,
+      "index": 20,
+      "theme": "Spreekuur voor wethouders",
+      "themeId": "spreekuur-voor-wethouders",
+      "title": "Iedere wethouder moet wekelijks een spreekuur voor inwoners houden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167462,
+      "index": 21,
+      "theme": "Lantaarnpalen",
+      "themeId": "lantaarnpalen",
+      "title": "De gemeente moet meer lantaarnpalen in het buitengebied plaatsen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167486,
+      "index": 22,
+      "theme": "Jeugdzorg",
+      "themeId": "jeugdzorg",
+      "title": "De gemeente moet meer geld uitgeven aan jeugdzorg dan wat ze daarvoor krijgt van het Rijk.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167463,
+      "index": 23,
+      "theme": "Biologische landbouw",
+      "themeId": "biologische-landbouw",
+      "title": "Als boeren geen gewasbescherming en kunstmest gebruiken, moet de gemeente hen daarvoor financiële steun geven.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167473,
+      "index": 24,
+      "theme": "Tegenprestatie voor uitkering",
+      "themeId": "tegenprestatie-voor-uitkering",
+      "title": "Mensen die een bijstandsuitkering krijgen, moeten in ruil daarvoor maatschappelijk zinvol werk doen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167487,
+      "index": 25,
+      "theme": "Bibliotheek",
+      "themeId": "bibliotheek",
+      "title": "De gemeente moet er met extra geld voor zorgen dat inwoners in hun eigen dorpen boeken kunnen lenen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167474,
+      "index": 26,
+      "theme": "Kwijtschelding",
+      "themeId": "kwijtschelding",
+      "title": "De gemeente moet stoppen met het kwijtschelden van de gemeentelijke belastingen voor inwoners met een laag inkomen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167456,
+      "index": 27,
+      "theme": "Sportverenigingen",
+      "themeId": "sportverenigingen",
+      "title": "Als sportverenigingen het moeilijk hebben, moet de gemeente financieel bijdragen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 167466,
+      "index": 28,
+      "theme": "Vakantiehuisjes",
+      "themeId": "vakantiehuisjes",
+      "title": "De gemeente moet toestaan dat vakantiewoningen worden gebruikt als vast woonadres.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    }
+  ]
+}

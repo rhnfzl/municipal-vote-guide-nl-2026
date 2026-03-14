@@ -30,11 +30,19 @@ yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
 
-# env files (can opt-in for committing if needed)
+# env files
 .env*
+.env_openai
 
 # vercel
 .vercel
+
+# project management (persistent across sessions, not public)
+PROJECT_PLAN.md
+AGENTS.md
+
+# source data (too large for git, generated from scraper)
+/data/
 
 # typescript
 *.tsbuildinfo

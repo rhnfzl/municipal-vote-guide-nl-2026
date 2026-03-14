@@ -1,0 +1,2029 @@
+{
+  "id": "GM0301",
+  "name": "Zutphen",
+  "slug": "zutphen",
+  "parties": [
+    {
+      "id": 261790,
+      "name": "GROENLINKS / Partij van de Arbeid (PvdA)",
+      "fullName": "GROENLINKS / Partij van de Arbeid (PvdA)",
+      "website": "https://zutphen.groenlinkspvda.nl",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "261816": {
+          "position": "disagree",
+          "explanation": "De gemeente besluit hierover per geval. Wat GroenLinks-PvdA betreft blijft dit zo en steunen we groen ondernemerschap waar dit kan."
+        },
+        "261817": {
+          "position": "agree",
+          "explanation": "GroenLinks-PvdA vindt dat de gemeente zorg moet dragen voor schone en gezonde lucht voor haar inwoners. Daarom steunen wij een verbod op houtstook bij slechte weersomstandigheden."
+        },
+        "261822": {
+          "position": "disagree",
+          "explanation": "GroenLinks-PvdA is terughoudend met het inzetten van cameratoezicht. De burgemeester kan in Zutphen cameratoezicht toepassen waar nodig. In Zutphen hebben we afgesproken dat cameratoezicht pas wordt ingezet als alle andere middelen ontoereikend gebleken zijn."
+        },
+        "261823": {
+          "position": "agree",
+          "explanation": "GroenLinks-PvdA zet in op verbinding. Asociaal gedrag in het verkeer hoort daar niet bij."
+        },
+        "261825": {
+          "position": "disagree",
+          "explanation": "GroenLinks-PvdA vindt dat een wapenstok kan leiden tot geweld."
+        },
+        "261826": {
+          "position": "agree",
+          "explanation": "De binnenstad van Zutphen is veel leefbaarder wanneer de markten en het 's-Gravenhof autoluw zijn. We zetten daarom in op parkeren aan de rand van het centrum. Zo blijft het centrum autoluw en goed bereikbaar."
+        },
+        "261827": {
+          "position": "agree",
+          "explanation": "Wij zetten vol in op meer betaalbare woningen. Daarom is GroenLinks-PvdA voor minimaal 35% sociale huurwoningen bij nieuwbouw."
+        },
+        "261831": {
+          "position": "agree",
+          "explanation": "GroenLinks-PvdA wil meer ruimte voor fietsen en wandelen. Als er langzamer gereden wordt, is dit stiller, schoner en veiliger."
+        },
+        "261832": {
+          "position": "neither",
+          "explanation": "GroenLinks-PvdA vindt dat inwoners een stem moeten hebben bij ingrijpende besluiten. Wij geven wel de voorkeur aan inwonerberaden omdat deze voor verbinding zorgen, terwijl referenda vaak uitlopen op polarisatie. Wij kiezen voor verbinding."
+        },
+        "261833": {
+          "position": "agree",
+          "explanation": "GroenLinks-PvdA wil dat ook de jongste generatie een stem krijgt."
+        },
+        "261834": {
+          "position": "agree",
+          "explanation": "Vergaderingen in de wijken zijn laagdrempeliger. Zo brengen we politiek dichter bij de inwoner."
+        },
+        "261836": {
+          "position": "disagree",
+          "explanation": "GroenLinks-PvdA vindt deze maatregel te algemeen. Gerichte ondersteuning is wat ons betreft veel effectiever."
+        },
+        "261838": {
+          "position": "disagree",
+          "explanation": "We geven geen voorrang, maar zetten wel in op nog snellere afhandeling van vergunningsaanvragen"
+        },
+        "261840": {
+          "position": "neither",
+          "explanation": "In overleg met de betreffende horeca en per evenement zou van de normale tijden afgeweken kunnen worden."
+        },
+        "261841": {
+          "position": "disagree",
+          "explanation": "Als GroenLinks-PvdA staan we voor een open en gastvrije stad. Mocht Zutphen worden gevraagd om extra opvang te faciliteren, dan willen we dat voorleggen aan onze inwoners middels een inwonersberaad. Zo werken we aan een passende oplossing voor iedereen."
+        },
+        "261843": {
+          "position": "agree",
+          "explanation": "GroenLinks-PvdA vindt dat uiterst kwetsbare groepen zoals financieel kwetsbare alleenstaande ouders, slachtoffers van huiselijk geweld en vluchtelingen zonder sociaal netwerk voorrang mogen krijgen."
+        },
+        "261848": {
+          "position": "disagree",
+          "explanation": "Alleen waar het echt niet anders kan zou een grijze bak moeten kunnen blijven staan. GroenLinks-PvdA wil meer inzetten op afvalscheiding en vermindering van restafval."
+        },
+        "261851": {
+          "position": "agree",
+          "explanation": "Wij willen het Schone Lucht Akkoord uitvoeren, dat betekent dat we streven naar altijd schone lucht voor iedereen. Paasvuren passen daar niet in. Het is sinds 2011 al verboden."
+        },
+        "261853": {
+          "position": "disagree",
+          "explanation": "De plannen voor een nieuw Hanzehof zijn al in volle gang. Daarnaast verdient Zutphen een volwaardig cultureel centrum met mooie voorstellingen voor iedereen en cultuurlessen voor jong en oud."
+        },
+        "261856": {
+          "position": "disagree",
+          "explanation": "Een hbo is niet realistisch voor Zutphen. Apeldoorn, Deventer, Velp en Arnhem zijn te dichtbij. Wij willen inzetten op het versterken van mbo-opleidingen in Zutphen samen met het bedrijfsleven. Ambacht en vakmanschap hebben een lange traditie in Zutphen en doen niet onder voor Hoger Onderwijs."
+        },
+        "261859": {
+          "position": "disagree",
+          "explanation": "Wij bouwen eerst verder aan Leesten-Oost en De Hoven Noord."
+        },
+        "261860": {
+          "position": "disagree",
+          "explanation": "Een eigen woonbedrijf vinden we onverstandig. We zijn voor nauwe samenwerking met bestaande woningcorporaties om zodoende te kunnen sturen op betaalbaarheid, duurzaamheid en kwaliteit. Dit sluit aan bij onze keuze om te bouwen voor bewoners, niet voor de markt."
+        },
+        "261863": {
+          "position": "disagree",
+          "explanation": "Wij vinden een verhuispremie een te algemene en kostbare maatregel. In plaats van verhuispremies zetten wij in op passende woningen, woningdelen, inwoning en levensloopbestendig wonen. Zo verbeteren we de doorstroming zonder dwang en met respect voor ieders woonsituatie."
+        },
+        "261864": {
+          "position": "agree",
+          "explanation": "Meergeneratiewoningen en mantelzorgwoningen passen bij onze visie op zorg, verbondenheid en gemeenschappen waarin mensen naar elkaar omkijken. Door dit structureel mee te nemen in grote nieuwbouwprojecten, spelen we in op veranderende woonwensen en versterken we de sociale samenhang in buurten."
+        },
+        "261867": {
+          "position": "agree",
+          "explanation": "GroenLinks-PvdA wil dat huurders in Zutphen terechtkunnen bij een toegankelijk en zichtbaar huurteam. Dit team helpt bij klachten over te hoge huren, achterstallig onderhoud, discriminatie en andere misstanden. Zo beschermen we huurders en zorgen we voor fatsoenlijk wonen."
+        },
+        "261868": {
+          "position": "agree",
+          "explanation": "Vertrouwen moet centraal staan. Bij problematische schulden willen wij dat inwoners zo snel mogelijk rust en overzicht krijgen. Door schulden over te nemen en te werken met één schuld en één aanspreekpunt, verkleinen we stress en vergroten we de kans op een succesvolle toekomst zonder schulden."
+        },
+        "261869": {
+          "position": "agree",
+          "explanation": "Om succesvol onderdeel te worden van onze Zutphense samenleving is het belangrijk dat inwoners het hoofd boven water kunnen houden. Daarom zijn wij voor het investeren in lessen in het verstandig omgaan met geld."
+        },
+        "261873": {
+          "position": "agree",
+          "explanation": "Het ‘s Gravenhof is een bijzondere plek in de Zutphense geschiedenis, en het moet ook in het Zutphen van nu een bijzondere plek worden. Wij zijn dan ook voor het autovrij maken van het ‘s Gravenhof. Dit doen wij samen met de Zutphense ondernemers en binnenstadbewoners."
+        },
+        "261874": {
+          "position": "agree",
+          "explanation": "Een goed gebit is voor iedereen heel belangrijk voor een goede gezondheid. Helaas is het niet voor iedereen vanzelfzelfsprekend dat je zomaar naar de tandarts kan. Wij willen daarom een tandartsbus die langs scholen rijdt."
+        },
+        "261876": {
+          "position": "agree",
+          "explanation": "GroenLinks-PvdA wil meer jongerenwerkers want zij zijn hard nodig in het tegengaan van mentale problemen van jongeren."
+        }
+      }
+    },
+    {
+      "id": 261789,
+      "name": "Burgerbelang",
+      "fullName": "Burgerbelang",
+      "website": "https://burgerbelang.nl",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "261816": {
+          "position": "agree",
+          "explanation": "De lokale economie stimuleren is goed voor de gemeente, de inwoners en de boeren zelf."
+        },
+        "261817": {
+          "position": "disagree",
+          "explanation": "We zullen altijd moeten zoeken naar een balans tussen gezonde lucht en longen en de knisperende gezelligheid van een haardvuur. Dit beperkt ook barbecue en vuurkorf. Handhaving is onmogelijk, voorlichting is beter. Een houtkachelverbod voor nieuwbouwhuizen en kwetsbare monumenten is wel logisch."
+        },
+        "261822": {
+          "position": "agree",
+          "explanation": "Burgerbelang pleit al jaren voor bredere inzet van camera's. Het onveiligheidgevoel is groot en de politie heeft nu te weinig middelen. Cameratoezicht zou ook moeten gelden voor het gehele uitgaansgebied."
+        },
+        "261823": {
+          "position": "disagree",
+          "explanation": "Burgerbelang ziet onveilig en asociaal gedrag met allerlei soorten voertuigen. Discrimineren op enkel fatbikes is niet slim en wettelijk niet mogelijk. Burgerbelang pleit voor handhaving op al het asociale gedrag in het verkeer."
+        },
+        "261825": {
+          "position": "disagree",
+          "explanation": "Dat kan alleen als de boa daarvoor goed opgeleid is en dat geldt nu niet voor de meeste boa's."
+        },
+        "261826": {
+          "position": "agree",
+          "explanation": "Vergrijzing betekent ook dat er steeds meer mensen slecht ter been zijn en afhankelijk zijn van een auto. Daarnaast moeten ook toeristen onze stad comfortabel per auto kunnen bezoeken. Burgerbelang pleit dan ook voor een betere bewegwijzering voor de aanwezige parkeerplaatsen."
+        },
+        "261827": {
+          "position": "disagree",
+          "explanation": "Er is een gebrek aan betaalbare koophuizen en aan huurwoningen boven de huursubsidiegrens voor middeninkomens. Ook voor ouderen moet gebouwd worden. 30% is voor nu voor Burgerbelang voldoende."
+        },
+        "261831": {
+          "position": "agree",
+          "explanation": "In woonstraten mag de snelheid omlaag. Dit is al in veel straten het geval en levert alleen maar voordelen op."
+        },
+        "261832": {
+          "position": "disagree",
+          "explanation": "Uitgebreide inspraak en enquêtes zijn beter dan een eenzijdige ja/nee-uitspraak via een referendum."
+        },
+        "261833": {
+          "position": "disagree",
+          "explanation": "Het idee is leuk, maar blijkt in veel gemeentes toch niet te werken zoals bedoeld: namelijk jongeren meer betrekken. Het is voor het betreffende kind ook pittig om aan te gaan. Een actieve jongerenraad werkt beter."
+        },
+        "261834": {
+          "position": "agree",
+          "explanation": "Dat helpt om de raad dichter bij de mensen te brengen, mits er dan ook ruimte voor de buurtbewoners wordt gecreëerd. In dat geval kan het ook meerdere keren per jaar."
+        },
+        "261836": {
+          "position": "disagree",
+          "explanation": "De gemeente kan zeker startende ondernemers stimuleren, maar het kwijtschelden ozb op specifieke voorwaarden is complex en onuitvoerbaar. Gerichte subsidies en vrijstellingen werken veel beter."
+        },
+        "261838": {
+          "position": "disagree",
+          "explanation": "Alle vergunningsaanvragen moeten snel en efficiënt worden afgehandeld."
+        },
+        "261840": {
+          "position": "agree",
+          "explanation": "Wij zijn het eens met de stelling omdat dankzij Burgerbelang er al jaren een gezellig en succesvol terrassenbeleid is, terrassen mogen nu tot 1 uur 's nachts open blijven. Wij zijn blij met deze verruiming. Bij verdere verruiming komt de leefbaarheid en veiligheid in het geding."
+        },
+        "261841": {
+          "position": "agree",
+          "explanation": "Als gemeente doen we al meer dan we verplicht zijn vanuit de Spreidingswet. Daarom vindt Burgerbelang dat we het hierbij willen houden. De ons omringende gemeenten moeten nu ook hun verantwoordelijkheid nemen."
+        },
+        "261843": {
+          "position": "neither",
+          "explanation": "De gemeente heeft een inspanningsverplichting van het Rijk. Daar houden wij ons aan. We willen vooral kijken naar een eerlijker toewijzingssysteem voor jongeren en anderen die al heel lang op de wachtlijst staan."
+        },
+        "261848": {
+          "position": "agree",
+          "explanation": "Mensen betalen extra voor het laten legen van de bak, dus de vervuiler betaalt. Dat is een prima regeling en prettig voor diegenen die slecht ter been zijn. De containers stimuleren mensen ook om bewuster afval te scheiden."
+        },
+        "261851": {
+          "position": "disagree",
+          "explanation": "Op dit moment heeft Zutphen ten hoogste één paasvuur binnen de gemeentegrenzen. Deze traditie is te overzien. Over nieuwe aanvragen zullen wij kritischer zijn."
+        },
+        "261853": {
+          "position": "disagree",
+          "explanation": "Burgerbelang vindt dat de boel niet verder moet verloederen. De financiën moeten wel echt strak in de hand gehouden worden."
+        },
+        "261856": {
+          "position": "agree",
+          "explanation": "Burgerbelang ziet graag een school, zowel mbo als hbo. Voor de gemeente Zutphen liggen er veel kansen voor technische en zorgopleidingen."
+        },
+        "261859": {
+          "position": "agree",
+          "explanation": "Gezien de woningnood en de beperkte ruimte binnen onze gemeente is dit een zeer goede locatie."
+        },
+        "261860": {
+          "position": "disagree",
+          "explanation": "De gemeente heeft op dit moment breedgedragen en actieve woningcorporaties. Een woonbedrijf zou daar weinig aan toevoegen. Een woningontwikkelbedrijf zou beter zijn dat zich richt op het stimuleren van woningbouw voor iedereen, zowel koop als huur."
+        },
+        "261863": {
+          "position": "agree",
+          "explanation": "Ouderen willen vaak best verhuizen, maar er zijn geen geschikte huizen. Ook zijn voor veel huurders de hogere huurkosten een belemmering. Daar zouden het Rijk, woningbouwcorporaties en gemeente anders mee moeten omgaan."
+        },
+        "261864": {
+          "position": "agree",
+          "explanation": "Als er vraag is naar dit soort kangoeroewoningen, dan is dit zeker wenselijk. Wij willen bouwen naar behoefte."
+        },
+        "261867": {
+          "position": "disagree",
+          "explanation": "Daar zijn al diverse instanties voor."
+        },
+        "261868": {
+          "position": "agree",
+          "explanation": "Wij zetten ons in om mensen in de gemeente met problematische schulden snel te ondersteunen. Een pilot of proeftraject waarbij de schuld over wordt genomen kan hierbij helpen. Hier moeten wel duidelijke afspraken over komen."
+        },
+        "261869": {
+          "position": "disagree",
+          "explanation": "Verstandig omgaan met geld voor alle bewoners is een belangrijk voorlichtingsonderwerp voor een gemeente. Er zijn echter al heel veel initiatieven in de samenleving om vluchtelingen op dit gebied te ondersteunen. Een brede voorlichtingscampagne zou doeltreffender zijn."
+        },
+        "261873": {
+          "position": "disagree",
+          "explanation": "Het 's Gravenhof kan pas autovrij gemaakt worden als er in de directe omgeving voldoende (ondergrondse) parkeermogelijkheden zijn."
+        },
+        "261874": {
+          "position": "neither",
+          "explanation": "Burgerbelang staat altijd open voor het verhogen van het welzijn van kwetsbare groepen. Of de gemeente de aangewezen instantie is om een dergelijk initiatief op te zetten is nog niet duidelijk. Zorgverzekeraars zouden hier beter een rol in hebben."
+        },
+        "261876": {
+          "position": "agree",
+          "explanation": "Gezien de drugsproblematiek en de kwalijke gevolgen van sociale media is er zeker behoefte aan meer hulp voor de jeugd in Zutphen."
+        }
+      }
+    },
+    {
+      "id": 261791,
+      "name": "D66",
+      "fullName": "D66",
+      "website": "https://d66.nl/zutphen",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "261816": {
+          "position": "agree",
+          "explanation": "Boerderijen moeten de ruimte krijgen om te ondernemen met bijvoorbeeld een winkel of camping. De gemeente moet per locatie afwegen of dit past bij de omgeving, natuur, leefbaarheid in verband met verkeer, eerlijke concurrentie en natuur en milieu."
+        },
+        "261817": {
+          "position": "agree",
+          "explanation": "Houtstook kan slecht zijn voor de gezondheid. Bij ongeschikt weer mag de gemeente ingrijpen om de lucht schoner te houden."
+        },
+        "261822": {
+          "position": "agree",
+          "explanation": "D66 is voorzichtig met cameratoezicht vanwege de privacy. In de Schupstoel hebben andere maatregelen tegen ernstige overlast nog niet genoeg geholpen. Tijdelijk en gericht cameratoezicht kan dan helpen, met duidelijke doelen en regelmatige evaluatie."
+        },
+        "261823": {
+          "position": "agree",
+          "explanation": "Gevaarlijk gedrag op fatbikes moet worden aangepakt om anderen te beschermen. Het is van groot belang dat de verkeersveiligheid hoge prioriteit heeft."
+        },
+        "261825": {
+          "position": "disagree",
+          "explanation": "Boa’s moeten problemen rustig oplossen door gezag en gesprek. Een wapenstok past daar niet bij. Boa's zijn toezichthouders en geen politie."
+        },
+        "261826": {
+          "position": "agree",
+          "explanation": "De binnenstad is vooral bedoeld om te lopen, te fietsen en te verblijven. Auto’s blijven welkom, maar zijn niet leidend. Voor ondernemers en een levendige binnenstad is goede bereikbaarheid belangrijk. Daarom zetten wij in op ondergrondse parkeergarages."
+        },
+        "261827": {
+          "position": "agree",
+          "explanation": "Er zijn te weinig betaalbare woningen en de wachttijd is lang. Sociale huur in alle wijken is hard nodig."
+        },
+        "261831": {
+          "position": "agree",
+          "explanation": "Voor de verkeersveiligheid en leefbaarheid in de wijken is 30 km/u belangrijk. Zo kunnen kinderen vanaf 8 jaar veilig en zelfstandig naar school fietsen. Langzamer verkeer maakt straten rustiger en geeft voorrang aan lopen, fietsen, stadsbusjes en openbaar vervoer."
+        },
+        "261832": {
+          "position": "agree",
+          "explanation": "Een referendum kan een goed middel zijn als inwoners goed en neutraal worden geïnformeerd en vooraf duidelijk is wat de uitslag betekent. Een fusie heeft grote gevolgen, daarom moeten inwoners hierover kunnen meedenken."
+        },
+        "261833": {
+          "position": "agree",
+          "explanation": "Kinderen leren zo al jong hoe democratie werkt."
+        },
+        "261834": {
+          "position": "agree",
+          "explanation": "Vergaderen in de wijk maakt de gemeenteraad zichtbaarder en makkelijker bereikbaar. Dat kan vaker dan één keer per jaar. Ook kan het Sprekersplein voor insprekers steeds in een andere wijk plaatsvinden."
+        },
+        "261836": {
+          "position": "agree",
+          "explanation": "Starters verdienen steun, zolang deze tijdelijk en duidelijk is."
+        },
+        "261838": {
+          "position": "disagree",
+          "explanation": "Vergunningen moeten eerlijk en zorgvuldig worden behandeld. Alle vergunningaanvragen moeten sneller behandeld worden, het duurt nu zowel voor particulieren als voor ondernemers veel te lang voor een vergunning wordt verstrekt."
+        },
+        "261840": {
+          "position": "disagree",
+          "explanation": "D66 is tegen het verlengen van openingstijden van terrassen omdat dit de leefbaarheid en nachtrust van omwonenden aantast. Horeca kan 's avonds binnen open blijven; de openbare ruimte is geen verlengstuk van de nachtelijke horeca."
+        },
+        "261841": {
+          "position": "agree",
+          "explanation": "Er is met de inwoners van Zutphen in het verleden vastgelegd dat er niet meer dan max. 740 asielzoekers gehuisvest worden. D66 staat voor een betrouwbare overheid."
+        },
+        "261843": {
+          "position": "agree",
+          "explanation": "Gemeenten moeten statushouders met een verblijfsvergunning voorrang geven om te voldoen aan de wettelijke taak. Zolang die taak bestaat, is die voorrang nodig."
+        },
+        "261848": {
+          "position": "agree",
+          "explanation": "Afvalbeleid moet duidelijk en uitvoerbaar zijn voor inwoners. Als mensen willen kiezen voor een grijze bak, moet dat mogelijk blijven."
+        },
+        "261851": {
+          "position": "agree",
+          "explanation": "Paasvuren zijn slecht voor het milieu, mens en dier."
+        },
+        "261853": {
+          "position": "disagree",
+          "explanation": "Cultuur verdient een sterke en goede plek in de stad. Het Hanzehuis is belangrijk voor Zutphen. Cultuur zorgt voor leven in de binnenstad en versterkt de lokale economie."
+        },
+        "261856": {
+          "position": "agree",
+          "explanation": "Hoger onderwijs biedt kansen voor jongeren en maakt de stad sterker. We zouden graag hbo-onderwijs in Zutphen zien."
+        },
+        "261859": {
+          "position": "agree",
+          "explanation": "Zutphen kan weinig uitbreiden, maar deze locatie is geschikt. Door de woningnood zijn nieuwe woonplekken nodig, met respect voor de natuur."
+        },
+        "261860": {
+          "position": "disagree",
+          "explanation": "Woningcorporaties zijn niet gericht op winst. Zij werken al met duidelijke prestatieafspraken met de gemeente."
+        },
+        "261863": {
+          "position": "agree",
+          "explanation": "Verhuizen helpt ouderen aan een passende woning en zorgt voor doorstroming. Zo komen grotere woningen vrij voor andere gezinnen. Veel ouderen vinden verhuizen lastig door alles wat erbij komt kijken. Daarom is ondersteuning en financiële hulp belangrijk."
+        },
+        "261864": {
+          "position": "agree",
+          "explanation": "Woningen die geschikt zijn voor inwonende grootouders maken samenleven en zorg makkelijker. Er is grote behoefte aan gevarieerde woonvormen."
+        },
+        "261867": {
+          "position": "agree",
+          "explanation": "Huurders moeten worden beschermd tegen misstanden. Door de Wet betaalbare huur is de gemeente verplicht huurders te helpen bij een te hoge huur."
+        },
+        "261868": {
+          "position": "agree",
+          "explanation": "Dit kan veel stress en problemen voorkomen bij mensen en gezinnen met schulden. Eén schuld bij de gemeente geeft rust en overzicht en helpt de financiële zelfredzaamheid te herstellen."
+        },
+        "261869": {
+          "position": "agree",
+          "explanation": "D66 steunt dit omdat het schulden helpt voorkomen. Leren omgaan met geld geeft mensen gelijke kansen en helpt hen actief mee te doen. Financiële kennis voorkomt problemen."
+        },
+        "261873": {
+          "position": "agree",
+          "explanation": "'s Gravenhof is bedoeld om te verblijven en elkaar te ontmoeten. In onze visie wordt het ’s Gravenhof een groen en aantrekkelijk plein in het museumkwartier van de stad."
+        },
+        "261874": {
+          "position": "agree",
+          "explanation": "Bij sommige groepen kinderen is tandartszorg een groot probleem. Met preventieve zorg bereiken we kinderen op tijd. Vroege hulp voorkomt grotere problemen later."
+        },
+        "261876": {
+          "position": "agree",
+          "explanation": "Vroege ondersteuning helpt jongeren beter. Het is van groot belang dat er in de jongerencentra laagdrempelig jongerenwerkers beschikbaar zijn voor de ondersteuning van jongeren."
+        }
+      }
+    },
+    {
+      "id": 261792,
+      "name": "VVD",
+      "fullName": "VVD",
+      "website": "https://www.vvd.nl/gemeente-zutphen/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "261816": {
+          "position": "agree",
+          "explanation": "De VVD staat voor vrijheid van ondernemerschap."
+        },
+        "261817": {
+          "position": "disagree",
+          "explanation": "Mensen zijn goed in staat met elkaar overlast op te lossen. Een niet te handhaven verbod over wat er achter de voordeur gebeurt, is een symboolmaatregel."
+        },
+        "261822": {
+          "position": "agree",
+          "explanation": "Cameratoezicht verhoogt de pakkans en verhoogt het veiligheidsgevoel. De VVD wil cameratoezicht toepassen op meerdere plekken in de gemeente."
+        },
+        "261823": {
+          "position": "agree",
+          "explanation": "De VVD vindt dat de gemeente alle vormen van verkeersaso's moet aanpakken. Overlast op fatbikes verminderen is daar zeker een onderdeel van."
+        },
+        "261825": {
+          "position": "neither",
+          "explanation": "De VVD wil cameratoezicht en bodycams gebruiken om de veiligheid te vergroten. Een wapenstok kan in de toekomst onderdeel zijn van de uitrusting om de taken uit te voeren."
+        },
+        "261826": {
+          "position": "agree",
+          "explanation": "Je moet zelf kunnen bepalen hoe je van A naar B komt. Een bereikbare binnenstad is van groot belang voor zowel inwoners als de ondernemers."
+        },
+        "261827": {
+          "position": "disagree",
+          "explanation": "De VVD wil het huidige percentage op peil houden en meer focus op doorstroming."
+        },
+        "261831": {
+          "position": "neither",
+          "explanation": "Er zijn straten waar de wegen aangepast kunnen en moeten worden. De VVD vindt dat de prioriteit moet liggen bij handhaven."
+        },
+        "261832": {
+          "position": "disagree",
+          "explanation": "De gemeente moet in gesprek gaan met inwoners en hun mening zwaar wegen. Voor het uiteindelijke besluit bestaat de gekozen volksvertegenwoordiging."
+        },
+        "261833": {
+          "position": "agree",
+          "explanation": "Een kinderburgemeester draagt bij aan het betrekken van jongeren bij de politiek en zorgt dat jongeren gehoord worden."
+        },
+        "261834": {
+          "position": "disagree",
+          "explanation": "Op verschillende locaties vergaderen is verwarrend en verspilling van belastinggeld. Het gemeentehuis is van iedereen."
+        },
+        "261836": {
+          "position": "agree",
+          "explanation": "Startende ondernemers zorgen voor banen en nemen een risico. Zij verdienen een steuntje in de rug."
+        },
+        "261838": {
+          "position": "disagree",
+          "explanation": "Vergunningen moeten sowieso sneller vergeven worden. De VVD wil overbodige regels schrappen en het vergunningsproces versnellen voor iedereen."
+        },
+        "261840": {
+          "position": "agree",
+          "explanation": "Langere openingstijden zorgt dat terrassen en cafés aantrekkelijker worden voor jongeren."
+        },
+        "261841": {
+          "position": "agree",
+          "explanation": "Met het bestaande azc en de opvang voor Oekraïners voldoet Zutphen al ruimschoots aan de normen en de maatschappelijke verantwoordelijkheid."
+        },
+        "261843": {
+          "position": "disagree",
+          "explanation": "Zutphen moet voldoen aan de taakstelling, voorrang geven is oneerlijk en onnodig."
+        },
+        "261848": {
+          "position": "agree",
+          "explanation": "Voor wie dat wil blijft de grijze bak bestaan. Zo kunnen mensen zelf bepalen hoe ze van hun afval af komen."
+        },
+        "261851": {
+          "position": "disagree",
+          "explanation": "De gemeente moet zich niet bemoeien met tradities als paasvuren die netjes en veilig plaatsvinden. De gemeente heeft andere prioriteiten."
+        },
+        "261853": {
+          "position": "disagree",
+          "explanation": "De VVD staat kritisch tegenover de hoge kosten van het Hanzehuis en volgt de kosten zeer nauwlettend. Wel is het van belang om een toekomstbestendige schouwburg te realiseren."
+        },
+        "261856": {
+          "position": "agree",
+          "explanation": "Een hbo-instelling en uitbreiding van de mbo-opleidingen brengt veel voordelen voor ondernemers en behoudt meer jongeren in onze gemeente."
+        },
+        "261859": {
+          "position": "agree",
+          "explanation": "Doordat de woningen niet meer gebruikt worden voor vakantie maar vaker voor wonen is Bronsbergen al een woonwijk. De VVD vindt wel dat de gemeente niet voor de kosten kan opdraaien als Bronsbergen een woonwijk wordt."
+        },
+        "261860": {
+          "position": "disagree",
+          "explanation": "Dit is een taak voor woningcorporaties en particulieren. Een gemeente die het wiel opnieuw gaat uitvinden zorgt alleen maar voor meer vertraging van het bouwen van woningen."
+        },
+        "261863": {
+          "position": "disagree",
+          "explanation": "Het probleem zit in het tekort aan levensloopbestendige woningen. Een premie om mensen hun huis uit te jagen kan beter gestoken worden in het bouwen van deze woningen."
+        },
+        "261864": {
+          "position": "disagree",
+          "explanation": "Er moet gebouwd worden naar behoeften. Wie een mantelzorgwoning wil realiseren moet dat makkelijker kunnen doen."
+        },
+        "261867": {
+          "position": "disagree",
+          "explanation": "De huurcommissie bestaat al. Een extra orgaan in het leven roepen is overbodig."
+        },
+        "261868": {
+          "position": "agree",
+          "explanation": "Dit is al bestaand beleid. Met één schuldeiser is er meer overzicht. De VVD staat wel kritisch tegenover terugkerende schulden en wil meer inzetten op preventie."
+        },
+        "261869": {
+          "position": "disagree",
+          "explanation": "Deze taak behoort bij scholen en organisaties die vluchtelingen helpen met integreren."
+        },
+        "261873": {
+          "position": "disagree",
+          "explanation": "Er bestaat nog geen goed alternatief voor de huidige parkeerplaatsen. Zonder goed alternatief nabij kunnen parkeerplaatsen nog niet opgeheven worden. De binnenstad moet goed bereikbaar blijven."
+        },
+        "261874": {
+          "position": "disagree",
+          "explanation": "Voor tandzorg ligt er geen taak bij de gemeente."
+        },
+        "261876": {
+          "position": "disagree",
+          "explanation": "De gemeente moet samen met scholen en jeugdzorg meer inzetten op preventie, het tegengaan van onder andere pesten en bouwen aan de weerbaarheid van jongeren. Meer jongerenwerkers is niet de oplossing."
+        }
+      }
+    },
+    {
+      "id": 261793,
+      "name": "SP (Socialistische Partij)",
+      "fullName": "SP (Socialistische Partij)",
+      "website": "https://zutphen.sp.nl",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "261816": {
+          "position": "agree",
+          "explanation": "Kleine boerenbedrijven hebben het zwaar omdat ze steeds méér moeten produceren om hun hoofd boven water te houden. Tegelijkertijd kunnen ze zorgen voor betaalbaar plezier door het openen van een kleine camping. Zo houden we betaalbaar recreëren in ons buitengebied toegankelijk voor iedereen."
+        },
+        "261817": {
+          "position": "disagree",
+          "explanation": "We zijn tegen morele betutteling vanuit de gemeente over hoe mensen hun leven moeten leven. Wij zijn ook tegen onnodige en ongezonde fijnstof in de lucht. Er zijn gemakkelijke manieren om overlast te voorkomen in de buurt zonder houtstook te verbieden, zoals goed hout en de juiste stooktechniek."
+        },
+        "261822": {
+          "position": "disagree",
+          "explanation": "Cameratoezicht breekt in op de privacy van mensen en is schijnveiligheid. Bovendien mag cameratoezicht alleen gebruikt worden als andere middelen niet hebben gewerkt. Wij hebben recht op privacy in de openbare ruimte. Ook op de Schupstoel."
+        },
+        "261823": {
+          "position": "agree",
+          "explanation": "Onze gemeente hoort een veilige plek te zijn. Asociaal en gevaarlijk gedrag op ieder vervoersmiddel – fatbike of niet – is niet normaal. Het is de verantwoordelijkheid van ons allemaal om elkaar daarop aan te spreken. Daar waar het nuttig en effectief is, kan de politie extra controleren."
+        },
+        "261825": {
+          "position": "disagree",
+          "explanation": "Tekorten bij de politie mogen geen reden zijn om boa’s in te zetten voor taken waarvoor ze niet zijn opgeleid. Het gebruiken van geweld is het uiterste middel en hoort bij de politie."
+        },
+        "261826": {
+          "position": "agree",
+          "explanation": "Onze stad moet toegankelijk zijn voor iedereen. Mensen die slecht ter been zijn, zijn vaak afhankelijk van een auto. Een bereikbare stad is ook een betaalbare stad. Als de parkeerkosten nog verder omhooggaan, is parkeren in binnenstad alleen voor de allerrijksten mogelijk."
+        },
+        "261827": {
+          "position": "agree",
+          "explanation": "Dure huizen zijn er genoeg gebouwd. Daar is ook grof aan verdiend door projectontwikkelaars en grondspeculanten. Het is de hoogste tijd om te kiezen voor meer betaalbare sociale huurwoningen. De gemeente kan vandaag nog starten met het leegstaande Baudartiusgebouw ombouwen naar sociale huur."
+        },
+        "261831": {
+          "position": "disagree",
+          "explanation": "In woonwijken moeten bewoners zelf kunnen beslissen over verlaging van de maximumsnelheid in hun wijk. Voor de verkeersveiligheid is het belangrijker om de aso's aan te pakken, die op de wegen flink harder dan 50 rijden waar 50 gereden mag worden."
+        },
+        "261832": {
+          "position": "agree",
+          "explanation": "Een fusie met een andere gemeente raakt aan de identiteit van onze gemeenschap. Daarvoor moet naar de mening van inwoners gevraagd worden. Niet alleen de mening van bestuurders en politici telt. Inwoners ervaren de gevolgen namelijk in het dagelijks leven."
+        },
+        "261833": {
+          "position": "disagree",
+          "explanation": "Wij zien geen toegevoegde waarde van een kinderburgemeester. Kinderen moeten vooral vrij en ongedwongen kunnen spelen. Vallen en fouten kunnen maken. De symbolische rol van kinderburgemeester legt een te grote druk op de schouders van een kind dat nog opgroeit."
+        },
+        "261834": {
+          "position": "agree",
+          "explanation": "De Zutphense volksvertegenwoordiging hoort geworteld te zijn in de gemeenschap, zichtbaar en onder de mensen. Bij SP-raadsleden kun je daarvan op aan, maar veel andere raadsleden zijn vooral goed in vergaderen en horen niet wat er leeft. Daarom is het goed om ze naar alle buurten toe te slepen."
+        },
+        "261836": {
+          "position": "disagree",
+          "explanation": "Iedereen in onze gemeente betaalt ozb naar vermogen. Met het geld dat hiermee binnenkomt houden wij onze straten schoon en zorgen we voor belangrijke gemeenschappelijke voorzieningen waar ondernemers ook voordeel van hebben. Aan nieuwe inwoners vragen we de eerste drie jaar ook gewoon belasting."
+        },
+        "261838": {
+          "position": "disagree",
+          "explanation": "Iedere vergunningsaanvraag moet snel afgehandeld worden. Aanvragers moeten snel weten waar ze aan toe zijn, daar zijn geen ingewikkelde voorrangsregels voor nodig."
+        },
+        "261840": {
+          "position": "agree",
+          "explanation": "Een levendige binnenstad is een leuke binnenstad. Daar is de binnenstad ook voor bedoeld."
+        },
+        "261841": {
+          "position": "agree",
+          "explanation": "Zutphen is al een zorgzame gemeente voor mensen die zorg en opvang nodig hebben. Denk aan vluchtelingenopvang en geestelijke gezondheidszorg. We doen al 3x zoveel als wat ons wordt verplicht. Rijke gemeenten die jarenlang hun snor hebben gedrukt, zijn nu aan zet voor hun deel van de opvang."
+        },
+        "261843": {
+          "position": "disagree",
+          "explanation": "De gemeente moet zorgen dat niemand voorrang nodig heeft en niemand hoeft voor te dringen. Dat kan als er genoeg sociale huurwoningen gebouwd zouden worden. Minimaal 50% bij alle nieuwbouwprojecten. Dan pak je het probleem bij de oorzaak aan."
+        },
+        "261848": {
+          "position": "agree",
+          "explanation": "De gemeente moet zorgen dat inwoners goed en gemakkelijk van hun afval af komen. De grijze container die bij huis wordt opgehaald is daarbij van groot belang en onmisbaar. Afschaffen daarvan maakt het voor inwoners moeilijker en vergroot de kans op zwerfafval. Daar hebben we allemaal last van."
+        },
+        "261851": {
+          "position": "disagree",
+          "explanation": "Een paasvuur is een eeuwenoude traditie en een essentieel onderdeel van onze volksidentiteit in de Achterhoek. Het vergroot samenhorigheid en sociale samenhang. Daarnaast vinden wij dat mensen zelf over de toekomst en invulling van tradities gaan. Dat is niet aan de politiek."
+        },
+        "261853": {
+          "position": "agree",
+          "explanation": "Het Hanzehuis is een prestigeproject om mee te pronken bij buurgemeenten. Onze stad heeft een cultuurpaleis van meer dan 30 miljoen niet nodig. Dat geld kun je beter besteden, door te zorgen dat er betaalbare woningen komen, bijvoorbeeld in het Baudartiusgebouw en andere leegstaande gebouwen."
+        },
+        "261856": {
+          "position": "agree",
+          "explanation": "Zutphen heeft goed basis- en voortgezet onderwijs, maar het aanbod beroepsonderwijs is mager. Hbo zou een goede toevoeging zijn. Wel vinden we dat onderwijsgeld naar onderwijs moet gaan en niet naar campagnes."
+        },
+        "261859": {
+          "position": "agree",
+          "explanation": "Recreatiepark Bronsbergen wordt vanaf dag 1 permanent bewoond. Door een naïef gemeentebestuur heeft de projectontwikkelaar daar flink op kunnen cashen. Als er al nieuw gebouwd wordt, moeten het betaalbare woningen voor Zutphenaren worden, niet voor recreatie en niet voor rijke westerlingen."
+        },
+        "261860": {
+          "position": "agree",
+          "explanation": "Om echt betaalbare woningen te kunnen bouwen, is een lokaal woonbedrijf nodig zonder winstoogmerk, in handen van ons allemaal. Dan hoeven ook de huren niet fors te stijgen, zoals woningcorporaties en huisjesmelkers ieder jaar doen. De wooncrisis wordt nooit opgelost met dit huidige slappe beleid."
+        },
+        "261863": {
+          "position": "agree",
+          "explanation": "Ouderen beslissen zelf met eigen overwegingen of zij hun woning verlaten. Als ze dat doen is dat een hele stap en levert dat nieuwe woonruimte op voor al die mensen die op zoek zijn. Dan kan een geldbedrag heel welkom zijn om de verhuizing goed te regelen en voor een fijne start in het nieuwe huis."
+        },
+        "261864": {
+          "position": "agree",
+          "explanation": "Als grootouders niet zelfstandig kunnen of willen wonen, vindt de SP zorgbuurthuizen de beste oplossing. Maar woningen die voor meerdere generaties geschikt zijn, zijn natuurlijk ook nodig."
+        },
+        "261867": {
+          "position": "agree",
+          "explanation": "Huurhuizen hebben naast hoge huur vaak nog veel meer problemen, zoals schimmel, slechte isolatie en tocht. Het is belangrijk dat bij de gemeente een huurteam persoonlijk bereikbaar is om te helpen deze problemen op te lossen. Iedereen is gebaat bij goed onderhouden en betaalbare woningen."
+        },
+        "261868": {
+          "position": "agree",
+          "explanation": "Deze regeling geeft veel rust en overzicht bij mensen met schulden. Het maakt het ook mogelijk goede hulp te krijgen van de gemeente. Zo stoppen we met het uitbesteden van deze hulp aan bedrijven die hier winst op schulden willen maken."
+        },
+        "261869": {
+          "position": "disagree",
+          "explanation": "Als statushouders nog geen woning hebben en in een azc wonen is het COA hiervoor verantwoordelijk. Wonen statushouders in onze gemeente dan kunnen zij gebruikmaken van huidige bestaande voorzieningen die voor iedereen gelden."
+        },
+        "261873": {
+          "position": "disagree",
+          "explanation": "Onze binnenstad moet toegankelijk voor iedereen blijven. Mensen die slecht ter been zijn, worden zonder voldoende parkeerplekken de stad uitgedreven."
+        },
+        "261874": {
+          "position": "agree",
+          "explanation": "Een gezond gebit is voor kinderen belangrijk. Ieder kind verdient goede mondzorg, ongeacht de dikte van de portemonnee van de ouders."
+        },
+        "261876": {
+          "position": "agree",
+          "explanation": "Jongerenwerkers zouden de centrale figuren moeten zijn als het gaat om begeleiden van jongeren buiten het gezin om. Aan alle scholen in Zutphen zou een jongerenwerker verbonden moeten zijn. Deze jongerenwerker heeft contacten met jeugdzorg, buurtagenten, leerkrachten en ouders."
+        }
+      }
+    },
+    {
+      "id": 261794,
+      "name": "Partij voor de Dieren",
+      "fullName": "Partij voor de Dieren",
+      "website": "https://zutphen.partijvoordedieren.nl",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "261816": {
+          "position": "disagree",
+          "explanation": "We moeten boeren helpen om over te schakelen naar biologische landbouw. Als een camping of winkel daarbij hoort, is dat prima. Als het bijdraagt aan het in stand houden van het systeem van de bio-industrie, dan is de Partij voor de Dieren daar tegen."
+        },
+        "261817": {
+          "position": "agree",
+          "explanation": "Iedereen heeft recht op schone lucht. Houtstook veroorzaakt veel luchtvervuiling en verergert gezondheidsklachten. Bij ongeschikte weersomstandigheden is een verbod noodzakelijk."
+        },
+        "261822": {
+          "position": "disagree",
+          "explanation": "Cameratoezicht tast privacy aan en biedt vooral schijnveiligheid. Wij geven de voorkeur aan preventie, sociale aanwezigheid en een goed ingerichte openbare ruimte."
+        },
+        "261823": {
+          "position": "disagree",
+          "explanation": "We willen dat de politie beter toezicht houdt op de verkeersveiligheid in het algemeen."
+        },
+        "261825": {
+          "position": "disagree",
+          "explanation": "Boa’s zijn er voor toezicht en preventie. De-escalatie en vertrouwen passen beter bij hun rol dan verdere bewapening. In Zutphen zijn er ook geen signalen waaruit blijkt dat dit nodig is."
+        },
+        "261826": {
+          "position": "disagree",
+          "explanation": "De binnenstad moet leefbaar, groen en veilig zijn. Voetgangers, fietsers en het openbaar vervoer krijgen voorrang boven de auto."
+        },
+        "261827": {
+          "position": "agree",
+          "explanation": "Betaalbaar wonen is een basisrecht. Meer sociale huur is noodzakelijk om de wooncrisis eerlijk aan te pakken. Wij zijn voor minimaal 40% socialehuur-woningen bij nieuwbouw."
+        },
+        "261831": {
+          "position": "agree",
+          "explanation": "Lagere snelheden zorgen voor minder ongelukken, minder lawaai en een veiligere omgeving voor mens en dier."
+        },
+        "261832": {
+          "position": "agree",
+          "explanation": "Zo’n ingrijpende beslissing vraagt directe inspraak van inwoners. We zijn voor raadgevende referenda bij belangrijke besluiten."
+        },
+        "261833": {
+          "position": "agree",
+          "explanation": "Kinderen verdienen een stem. Dit versterkt betrokkenheid en democratisch bewustzijn op jonge leeftijd."
+        },
+        "261834": {
+          "position": "agree",
+          "explanation": "Politiek moet zichtbaar en toegankelijk zijn, dicht bij inwoners. Daarnaast willen we het aantrekkelijk maken om raadsvergaderingen bij te wonen."
+        },
+        "261836": {
+          "position": "disagree",
+          "explanation": "Zowel inwoners als bedrijven dragen via belastingen bij aan onze samenleving. Starters vrijstellen van ozb zorgt voor oneerlijke concurrentie. De Partij voor de Dieren staat voor een eerlijk speelveld. Dit is wettelijk ook niet mogelijk."
+        },
+        "261838": {
+          "position": "disagree",
+          "explanation": "Vergunningen moeten zorgvuldig en eerlijk worden beoordeeld, met oog voor natuur, dieren en omwonenden."
+        },
+        "261840": {
+          "position": "disagree",
+          "explanation": "Levendigheid is belangrijk, maar niet ten koste van rust, gezondheid van omwonenden en dieren. Zutphen biedt al ruime openingstijden voor terrassen."
+        },
+        "261841": {
+          "position": "disagree",
+          "explanation": "Andere gemeenten nemen hun verantwoordelijkheid vaak onvoldoende. Daarom moet Zutphen zich niet krampachtig vastleggen op een maximum van 740, maar vanuit mededogen en solidariteit mensen op de vlucht menswaardig blijven opvangen."
+        },
+        "261843": {
+          "position": "agree",
+          "explanation": "Een woning is essentieel voor een veilige start en goede integratie. Wonen is een basisrecht. Vluchtelingen kunnen zich niet van tevoren als woningzoekende inschrijven en komen anders achter in de rij."
+        },
+        "261848": {
+          "position": "neither",
+          "explanation": "Afvalbeleid moet vooral gericht zijn op minder afval en beter scheiden. Het systeem moet inwoners helpen om afval te verminderen. We zijn benieuwd naar de uitkomsten van de pilot die hiermee gedaan is."
+        },
+        "261851": {
+          "position": "agree",
+          "explanation": "Paasvuren zorgen voor veel rook en schadelijke luchtvervuiling, juist in het voorjaar wanneer veel dieren actief zijn of jongen hebben. In houtstapels schuilen egels en andere dieren die dan levend verbranden. Hoe begrijpelijk de traditie ook is, dierenleed en gezondheidsschade wegen zwaarder."
+        },
+        "261853": {
+          "position": "disagree",
+          "explanation": "Cultuur verbindt, inspireert en biedt ruimte voor ontmoeting, educatie en creativiteit. Het Hanzehuis kan plek bieden aan podiumkunsten, maatschappelijke activiteiten en makers. Voor de Partij voor de Dieren is het essentieel dat dit gebouw natuurinclusief wordt ontworpen."
+        },
+        "261856": {
+          "position": "agree",
+          "explanation": "Zutphen vergrijst. Om aantrekkelijk en levendig te blijven, moeten we jongeren iets bieden. Een hbo-instelling of dependance, bijvoorbeeld in zorg, welzijn of antroposofie, past bij Zutphen. Meer jongeren versterkt ook het verenigingsleven en maken cultuur en uitgaan rendabel, in Zutphen en Warnsveld. "
+        },
+        "261859": {
+          "position": "disagree",
+          "explanation": "Bronsbergen is een waardevol, groen en waterrijk gebied. Wij denken dat andere locaties geschikter zijn voor woningbouw. Woningbouw hoeft niet ten koste te gaan van natuur en landschap."
+        },
+        "261860": {
+          "position": "agree",
+          "explanation": "Woningbouw wordt nu vaak gestuurd door winst, waardoor geld bepaalt wie er kan wonen en winsten naar grote bedrijven gaan. Wonen is een recht, geen verdienmodel. Met een gemeentelijk woonbedrijf krijgt Zutphen meer grip op betaalbare woningen en komt het geld ten goede aan de samenleving."
+        },
+        "261863": {
+          "position": "disagree",
+          "explanation": "We willen geen verhuisvergoeding. Wel willen we hulp bieden bij het vinden van een passende woning. Zo komt er ruimte voor gezinnen en ontstaat een evenwichtige samenstelling van wijken."
+        },
+        "261864": {
+          "position": "disagree",
+          "explanation": "Bij dit voorstel worden er meer grotere huizen gebouwd. Wij bouwen liever meer woningen. Tegelijkertijd bieden mantelzorgwoningen meer flexibiliteit. Deze oplossing biedt een oplossing voor een grotere groep mensen."
+        },
+        "261867": {
+          "position": "agree",
+          "explanation": "In de huursector komen helaas misstanden voor. Veel huurders weten niet hoe ze dit moeten aanpakken, wat stress en onzekerheid veroorzaakt. Een huurteam biedt laagdrempelige hulp en vergroot het welzijn. De gemeente Zutphen moet er zijn voor iedereen en staan voor een rechtvaardige samenleving."
+        },
+        "261868": {
+          "position": "agree",
+          "explanation": "Mensen kunnen buiten hun schuld in de schulden komen, bijvoorbeeld door ziekte of scheiding. Schulden zorgen voor veel stress en onzekerheid. Vanuit mededogen en zorg voor het welzijn van inwoners moet de gemeente snel rust en perspectief bieden, zeker nu schuldsanering te vaak een verdienmodel is."
+        },
+        "261869": {
+          "position": "neither",
+          "explanation": "De gemeente moet mensen die moeite hebben met het omgaan met geld helpen. Het maakt niet uit of je vluchteling bent of niet. Iedereen moet passende hulp krijgen."
+        },
+        "261873": {
+          "position": "agree",
+          "explanation": "Door het ’s Gravenhof autovrij te maken ontstaat ruimte voor groen, schone lucht en biodiversiteit. Het plein wordt veiliger en aantrekkelijker om te verblijven, met ruimte voor ontmoeting en spel. Dat is goed voor mens, dier en klimaat. De binnenstad wordt dan nog aantrekkelijker voor toeristen."
+        },
+        "261874": {
+          "position": "agree",
+          "explanation": "Goede mondzorg voorkomt veel andere gezondheidsproblemen en medische kosten. Een slecht gebit kan pijn, schaamte en sociale uitsluiting veroorzaken. Met een tandartsbus maken we tandzorg laagdrempelig, zodat elk kind gezond kan opgroeien en volwaardig kan meedoen."
+        },
+        "261876": {
+          "position": "agree",
+          "explanation": "Steeds meer jongeren hebben last van stress en mentale problemen. Jongerenwerkers zijn laagdrempelig en dichtbij. Vroege ondersteuning voorkomt zwaardere problemen later en vergroot welzijn en veerkracht."
+        }
+      }
+    },
+    {
+      "id": 261795,
+      "name": "KIES BEWUST LOKAAL",
+      "fullName": "Kies Bewust Lokaal",
+      "website": "https://kiesbewustlokaal.nl",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "261816": {
+          "position": "agree",
+          "explanation": "Kies Bewust Lokaal stimuleert ondernemen. Vergunningaanvraag eenvoudig maken, zodat ondernemers sneller kunnen starten en groeien. Lokale producten verkopen we dicht bij de maker. Toerisme is er voor iedereen, van tent tot hotel. Boerderijwinkels en boerencampings versterken de lokale economie."
+        },
+        "261817": {
+          "position": "agree",
+          "explanation": "Soms kan het nodig zijn om bij bepaald weer 'nee' te zeggen. Wij zijn TEGEN een VERBOD op houtkachels en haarden. Inwoners houden keuzevrijheid. Filters en beter stoken zijn beter dan verbieden. Sommige inwoners zijn afhankelijk van een houtkachel. Gas is duur, energiearmoede willen wij tegengaan."
+        },
+        "261822": {
+          "position": "agree",
+          "explanation": "Cameratoezicht kan wél worden ingezet op gevaarlijke plekken om de veiligheid van inwoners, politie en beveiligers te waarborgen. Het is zorgelijk dat cameratoezicht nodig is omdat bepaalde mensen zich niet gedragen en er onveilige situaties ontstaan. Niet inzetten voor het beperken van vrijheid!"
+        },
+        "261823": {
+          "position": "agree",
+          "explanation": "Kies Bewust Lokaal is van mening dat iedere weggebruiker met ongewenst gedrag in het verkeer hierop aangesproken dient te worden. Er moet vaker worden gecontroleerd."
+        },
+        "261825": {
+          "position": "disagree",
+          "explanation": "Wat de boa's terug hebben gegeven is dat zij tevreden zijn met een bodycamera. Zij willen geen wapenstok. Zij zijn van toezicht en handhaven. De politie is er om (in uitzondering) gepast een wapenstok in te zetten."
+        },
+        "261826": {
+          "position": "agree",
+          "explanation": "Of je loopt, fietst, met de auto gaat of het openbaar vervoer gebruikt, die keuze is persoonlijk. Het is de taak van de gemeente om deze voorzieningen goed te organiseren, niet om ze te blokkeren of mensen uit te sluiten. Autoluw = geen autoloos centrum (voldoende parkeerruimte noodzakelijk)."
+        },
+        "261827": {
+          "position": "agree",
+          "explanation": "In de woondeal staat beschreven welke afspraken er landelijk en in de provincie zijn gemaakt. Kies Bewust Lokaal wil zeker meer betaalbare jongerenwoningen en ouderenwoningen. 1.900 inwoners wachten op een (andere) sociale huurwoning. Dit moet prioriteit krijgen. Dan krijgt het middensegment ook ruimte."
+        },
+        "261831": {
+          "position": "disagree",
+          "explanation": "De snelheid aanpassen moet geen doel op zich zijn. Als de veiligheid verbeterd wordt kan de snelheid omlaag. Altijd in overleg met de huidige bewoners van de betreffende straat en de gebruikers van de straat. Ook moet de ring rond het centrum toegankelijk blijven voor al het vervoer."
+        },
+        "261832": {
+          "position": "agree",
+          "explanation": "Inwoners moeten vroeg en op de juiste manier worden betrokken. Niet pas aan het einde voor de vorm maar vanaf het begin. Bij grote veranderingen, zoals een fusie, hebben inwoners het recht om hun mening te geven en om die zwaar mee te laten wegen in de besluitvorming. Een referendum is dan het beste."
+        },
+        "261833": {
+          "position": "agree",
+          "explanation": "Het is altijd goed om kinderen jong te betrekken bij de politiek. Wel moeten wij waken dat het echt iets bijdraagt aan de samenleving."
+        },
+        "261834": {
+          "position": "agree",
+          "explanation": "Om de kloof/afstand tussen inwoners en gemeentebestuur te verkleinen. Mag wat Kies Bewust Lokaal betreft vaker. Wel beloofd, de afgelopen vier jaar door de coalitie maar niet nagekomen. Wij gaan dit direct inzetten! Inwoners echt betrekken. Politiek dichtbij!"
+        },
+        "261836": {
+          "position": "agree",
+          "explanation": "Kies Bewust Lokaal zet in op lokaal ondernemen. Dat is goed voor onze economie en werkgelegenheid. Wel moeten wij kijken, hoe dat gecontroleerd moet gaan worden. Je hebt ook verzamelgebouwen waar zowel starters als gevestigde ondernemers zitten."
+        },
+        "261838": {
+          "position": "neither",
+          "explanation": "Momenteel moet je een evenementenvergunning uiterlijk 12 weken vóór het evenement aanvragen. Dat heeft te maken met wet- en regelgeving en veiligheidsmaatregelen. Kies Bewust Lokaal vindt het van belang dat het zorgvuldig gebeurt en niet langer dan noodzakelijk. Het moet efficiënt en veilig."
+        },
+        "261840": {
+          "position": "agree",
+          "explanation": "Horeca zorgt voor levendigheid en economie. Eén vaste tijd (7 dagen per week) het terras open hebben zodat iedereen weet waar ze aan toe zijn. Mits de horeca actief overlast voorkomt en rekening houdt met omwonenden."
+        },
+        "261841": {
+          "position": "agree",
+          "explanation": "Onze gemeente is al jarenlang een van de zwaarst belaste gemeenten in de regio. Zutphen herbergt voor 740 bewoners een azc, tijdelijke opvang voor Oekraïners, meerdere ggz-instellingen, verslavingszorg, een gevangenis en reclassering, beschermd wonen en maatschappelijke opvang. Genoeg is genoeg!"
+        },
+        "261843": {
+          "position": "disagree",
+          "explanation": "Wij zetten in op bewoners die er al langer wonen en lange wachttijden hebben. Geen eerlijke situatie als wij hen voorrang geven. 1.900 inwoners van onze gemeente wachten al jaren op een woning. Met de instroom van vele vluchtelingen krijgen zij nooit een woning. Den Haag lost dit maar op."
+        },
+        "261848": {
+          "position": "agree",
+          "explanation": "Afval hoort bij het dagelijks leven. Daarom moet afvalbeleid logisch, duidelijk en eerlijk zijn. De grijze container blijft aan huis, zonder extra kosten. Inwoners hebben de vrije keuze."
+        },
+        "261851": {
+          "position": "disagree",
+          "explanation": "Blijf af van de tradities. Paasvuur is eenmaal per jaar. Wel dient er gekeken te worden naar het weer en de veiligheid. Het zorgt voor verbinding en ontmoeting tussen inwoners en is een traditie waar wij trots op mogen zijn."
+        },
+        "261853": {
+          "position": "neither",
+          "explanation": "Hanzehuis kan een sterke culturele plek worden waar theater, muziekonderwijs en de bibliotheek samenwerken. Cultuur is belangrijk, investeringen zijn goed maar moeten wel eerlijk, transparant en verstandig zijn. Het college ('18-'22) had een plan voor 15 miljoen, door een nieuw plan is het ruim verdubbeld. Bizar. Kies Bewust Lokaal gaat er niet meer dan 35 miljoen voor uitgeven.\r\n"
+        },
+        "261856": {
+          "position": "agree",
+          "explanation": "Niet alleen moeten wij investeren in een hbo, ook in ambachtsscholen en leerlingen welke uitvallen. Onderwijs naar Zutphen halen zorgt er ook voor dat jongeren zich meer gaan vestigen en zal een aantrekking geven op ondernemers welke voor jongeren stage, werk, ontmoeten en het uitgaan stimuleren."
+        },
+        "261859": {
+          "position": "disagree",
+          "explanation": "Een hele nieuwe wijk gaat er niet komen. Kies Bewust Lokaal is van mening dat het landschappelijke karakter behouden moet blijven. Er is ook sprake om van recreatiepark Bronsbergen een wijk te maken. Dit is nu gedoogd. Wij willen duidelijkheid, ja mits alle kosten voor rekening eigenaren komen."
+        },
+        "261860": {
+          "position": "disagree",
+          "explanation": "Wij hebben voldoende woonbedrijven binnen de gemeente. Met afspraken uit de aangenomen woonvisie kunnen wij inzetten op voldoende betaalbare woningen. Zorg dat het vergunningsbeleid ook aangepakt wordt, zodat het makkelijk is om goedkopere duurzame woningen te realiseren voor woonbedrijven."
+        },
+        "261863": {
+          "position": "agree",
+          "explanation": "Wat Kies Bewust Lokaal wil bereiken, is dat de doorstroom op gang komt. Of alleen geld geven de oplossing is, is de vraag. Eerst moet voor deze doelgroep meer en betaalbaar gebouwd moeten worden, ook grondgebonden woningen. Verhuizen op vrijwillige basis. Dezelfde woonlasten behouden is belangrijker."
+        },
+        "261864": {
+          "position": "agree",
+          "explanation": "Wij zetten in op mantelzorgwoningen welke flexibel zijn. Als de wens er is moet het wel mogelijk zijn maar niet verplicht. Woningen welke wij bouwen moeten toekomstbestendig zijn en eventueel te splitsen."
+        },
+        "261867": {
+          "position": "agree",
+          "explanation": "Dit is wettelijk al geregeld. Vanaf 1 januari 2025 zijn verhuurders verplicht om bij een nieuw huurcontract een puntentelling op te nemen. Ook moeten gemeenten vanaf nu handhaven op te hoge huurprijzen."
+        },
+        "261868": {
+          "position": "agree",
+          "explanation": "Het werkt momenteel goed. Moet wel getoetst worden of er een gedegen reden aan ten grondslag liggen. En er zit een limiet op. Zorg dat ze niet terugvallen in schulden, pak het hele systeem aan voor de betreffende inwoner anders vallen ze terug en begin je opnieuw. Dat moet voorkomen worden."
+        },
+        "261869": {
+          "position": "disagree",
+          "explanation": "Dit moet georganiseerd worden voor alle inwoners van Zutphen. Ook onder jongeren, gezinnen en ouderen. Juist om schulden en de schuldsanering te voorkomen. Kwaliteit i.p.v. kwantiteit."
+        },
+        "261873": {
+          "position": "neither",
+          "explanation": "Alleen als je eerst investeert in parkeren (parkeergarages). Dankzij een van onze moties gaan wij hier nu mee aan de slag. Ook voor fietsers om veilig hun fiets te stallen. Ondergrondsparkeren = bovengronds bouwen en ruimte met groen. Je ontlast de parkeerdruk, dit dient betaalbaar te zijn."
+        },
+        "261874": {
+          "position": "disagree",
+          "explanation": "Via de gemeente kunnen inwoners met een laag inkomen een zorgverzekering met tandartsvergoeding afsluiten. Zo kies je zelf je tandarts. Baas in eigen mond."
+        },
+        "261876": {
+          "position": "disagree",
+          "explanation": "Jongerenwerkers zijn er niet om echte mentale problemen op te lossen. Daar is gespecialiseerde zorg voor nodig. Wel wil Kies Bewust Lokaal het jongerenwerk in elke wijk sterker maken. Jongeren moeten veilige ontmoetingsplekken hebben waar ze zichzelf kunnen zijn."
+        }
+      }
+    },
+    {
+      "id": 261796,
+      "name": "STADSPARTIJ Zutphen Warnsveld",
+      "fullName": "STADSPARTIJ Zutphen Warnsveld",
+      "website": "https://stadspartijzutphen.nl",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "261816": {
+          "position": "disagree",
+          "explanation": "We willen boeren ruimte geven om hun bedrijf toekomstbestendig te maken, bijvoorbeeld met een winkel of kleinschalige recreatie. Maar dit moet passen bij het landschap, de omgeving en de leefbaarheid. Geen automatische toestemming, wel maatwerk."
+        },
+        "261817": {
+          "position": "agree",
+          "explanation": "Bij ongunstige weersomstandigheden kan houtstook leiden tot ernstige luchtvervuiling en gezondheidsklachten. De gemeente mag dan ingrijpen om kwetsbare inwoners te beschermen, met duidelijke regels en goede voorlichting."
+        },
+        "261822": {
+          "position": "disagree",
+          "explanation": "Permanent cameratoezicht past niet bij een open en leefbare gemeente. Alleen bij aantoonbare overlast kan tijdelijk cameratoezicht worden ingezet, proportioneel en met respect voor privacy."
+        },
+        "261823": {
+          "position": "disagree",
+          "explanation": "De politie moet zich richten op ernstige veiligheid en criminaliteit. Asociaal gedrag in het verkeer vraagt vooral om opvoeding, bewustwording en gerichte inzet van handhavers, niet om extra politietoezicht."
+        },
+        "261825": {
+          "position": "agree",
+          "explanation": "De wapenstok mag alleen gebruikt worden om zichzelf te kunnen beschermen. Boa’s gebruiken geen geweld om te handhaven; dat is en blijft een taak van de politie. De inzet moet strikt gereguleerd en goed getraind zijn."
+        },
+        "261826": {
+          "position": "agree",
+          "explanation": "Wij staan voor een autoluwe, maar goed bereikbare binnenstad. Parkeren aan de randen en slim gebruik van bestaande voorzieningen zorgen ervoor dat de auto niet wordt geweerd, terwijl de binnenstad leefbaar blijft."
+        },
+        "261827": {
+          "position": "disagree",
+          "explanation": "Betaalbaar wonen is essentieel, maar een vast percentage sociale huur is niet altijd de beste oplossing. Wij kiezen voor minimaal 70% betaalbare woningen, met een mix van sociale huur, middenhuur en betaalbare koop, passend bij de wijk en de behoefte."
+        },
+        "261831": {
+          "position": "agree",
+          "explanation": "Lagere snelheden vergroten de veiligheid in woonwijken, dorpen en het centrum. Goede doorstroming op doorgaande wegen moeten we behouden."
+        },
+        "261832": {
+          "position": "disagree",
+          "explanation": "Een fusie is een ingrijpend besluit, waarbij inwoners vroeg en serieus betrokken moeten worden. Een referendum is daarbij niet het enige of beste instrument. Wij kiezen voor brede participatie, open besluitvorming en een duidelijke rol voor de gemeenteraad."
+        },
+        "261833": {
+          "position": "agree",
+          "explanation": "Een kinderburgemeester helpt om kinderen vroeg te betrekken bij onze gemeente. Het is een laagdrempelige manier om meepraten en betrokkenheid te stimuleren."
+        },
+        "261834": {
+          "position": "disagree",
+          "explanation": "De gemeenteraad moet zichtbaar en aanspreekbaar zijn in wijken en dorpen. Dat bereik je beter met wijkbezoeken, gesprekken en spreekuren en niet met een formele raadsvergadering buiten het stadhuis."
+        },
+        "261836": {
+          "position": "agree",
+          "explanation": "Startende ondernemers moeten de ruimte krijgen om hun bedrijf op te bouwen en door te groeien. Een tijdelijke vrijstelling van ozb helpt daarbij en versterkt de lokale economie."
+        },
+        "261838": {
+          "position": "disagree",
+          "explanation": "Vergunningaanvragen moeten eerlijk en transparant worden behandeld. Feesten en festivals zijn belangrijk, maar mogen niet automatisch voorrang krijgen boven andere aanvragen. Gelijke regels voor iedereen zorgen voor duidelijkheid en vertrouwen."
+        },
+        "261840": {
+          "position": "disagree",
+          "explanation": "Terrassen zijn belangrijk voor de levendigheid van de stad, maar verruiming van openingstijden kan overlast geven voor omwonenden. De gemeente moet per locatie een zorgvuldige afweging maken, met oog voor leefbaarheid en rust."
+        },
+        "261841": {
+          "position": "disagree",
+          "explanation": "Zutphen neemt al verantwoordelijkheid in de opvang van asielzoekers. Verdere opvang vraagt om een eerlijke landelijke verdeling en spreiding over gemeenten. Nieuwe opvang in Zutphen kan alleen in overleg met inwoners en met voldoende draagvlak."
+        },
+        "261843": {
+          "position": "disagree",
+          "explanation": "Bij de toewijzing van sociale huurwoningen moet iedereen gelijk worden behandeld. Voorrang op basis van status past daar niet bij. Wel moet goede begeleiding en huisvesting voor vluchtelingen onderdeel zijn van het reguliere woonbeleid."
+        },
+        "261848": {
+          "position": "agree",
+          "explanation": "De grijze bak voor restafval moet blijven. Tegelijk blijven we zoeken naar andere manieren om afval te verminderen en beter te scheiden."
+        },
+        "261851": {
+          "position": "agree",
+          "explanation": "Paasvuren brengen risico’s met zich mee voor natuur, luchtkwaliteit en veiligheid. De gemeente moet deze daarom verbieden en inzetten op veilige en passende alternatieven voor ontmoeting en traditie."
+        },
+        "261853": {
+          "position": "disagree",
+          "explanation": "Het Hanzehuis mag geen prestigeproject worden maar bundeling van culturele functies is wel nodig. Door ook de uitleenfunctie van de bibliotheek hier ook onder te brengen vanuit de Broederenkerk kunnen functies worden gebundeld en kosten worden bespaard."
+        },
+        "261856": {
+          "position": "disagree",
+          "explanation": "In de regio is al voldoende hbo-aanbod. In plaats van een kostbare campagne zetten wij liever in op samenwerking met bestaande hbo-onderwijsinstellingen in de regio en op voorzieningen die jongeren aan Zutphen binden."
+        },
+        "261859": {
+          "position": "disagree",
+          "explanation": "In Bronsbergen wordt permanent wonen nu gedoogd, maar het ombouwen tot een volwaardige woonwijk kost veel geld en ligt te ver van de bestaande bebouwing van Zutphen. Dat maakt het geen geschikte locatie voor een nieuwe woonwijk."
+        },
+        "261860": {
+          "position": "disagree",
+          "explanation": "Het bouwen en verhuren van woningen is geen kerntaak van de gemeente. Die rol hoort bij woningcorporaties. De gemeente moet sturen op voorwaarden, samenwerking en regie, niet zelf woningverhuurder worden."
+        },
+        "261863": {
+          "position": "disagree",
+          "explanation": "Doorstroming bereik je niet met geld, maar door betaalbare en passende woningen te bieden. De gemeente moet zorgen voor geschikte woonvormen voor ouderen, zodat verhuizen aantrekkelijk en logisch wordt."
+        },
+        "261864": {
+          "position": "disagree",
+          "explanation": "Wonen met of nabij familie kan waardevol zijn, maar dit moet passen bij de behoefte en de wijk. De gemeente moet dit mogelijk maken bij nieuwbouw, niet verplicht stellen bij elk project."
+        },
+        "261867": {
+          "position": "disagree",
+          "explanation": "Ondersteuning van huurders is belangrijk, maar het oprichten van een gemeentelijk huurteam is geen directe taak van de gemeente. De gemeente moet zorgen voor goede doorverwijzing naar bestaande instanties en toezien op handhaving waar dat nodig is."
+        },
+        "261868": {
+          "position": "agree",
+          "explanation": "Snelle en duidelijke schuldhulp voorkomt dat problemen verergeren. De gemeente kan hierin een regierol nemen door schulden zoveel mogelijk te bundelen, zodat inwoners overzicht krijgen en aan één regeling kunnen werken."
+        },
+        "261869": {
+          "position": "disagree",
+          "explanation": "Het leren omgaan met geld is belangrijk, maar deze begeleiding hoort primair bij organisaties als COA en Vluchtelingenwerk. De gemeente moet zorgen voor goede samenwerking en doorverwijzing, niet zelf deze taak overnemen."
+        },
+        "261873": {
+          "position": "agree",
+          "explanation": "Het ’s Gravenhof kan als autovrij plein uitgroeien tot een prettige ontmoetingsplek met uitstraling voor Zutphen. Minder auto’s geeft meer ruimte voor verblijf, evenementen en de kwaliteit van de historische binnenstad."
+        },
+        "261874": {
+          "position": "disagree",
+          "explanation": "Tandartszorg voor kinderen tot 18 jaar zit in het basispakket van de zorgverzekering. Een tandartsbus is daarom geen taak van de gemeente. Wel kunnen de gemeente en scholen inzetten op goede voorlichting over mondzorg."
+        },
+        "261876": {
+          "position": "agree",
+          "explanation": "Mentale problemen onder jongeren vragen om aandacht dichtbij. Jongerenwerkers kunnen signaleren, ondersteunen en doorverwijzen. Dit is een belangrijk onderdeel van ons verkiezingsprogramma en van preventief jeugdbeleid."
+        }
+      }
+    },
+    {
+      "id": 261797,
+      "name": "CDA",
+      "fullName": "CDA",
+      "website": "https://cda.nl/gelderland/zutphen",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "261816": {
+          "position": "agree",
+          "explanation": "Het CDA is voorstander van meer ruimte voor andere bedrijvigheid rondom boerenbedrijven."
+        },
+        "261817": {
+          "position": "disagree",
+          "explanation": "Een verbod op het gebruik van open haarden en houtkachels levert veel regeldruk op en is moeilijk te handhaven. Wel willen we goede voorlichting over de gevolgen van houtstook bij ongeschikt weer."
+        },
+        "261822": {
+          "position": "agree",
+          "explanation": "Het CDA wil meer cameratoezicht op plekken met overlast. Naast de Schupstoel is dit ook het stationsgebied."
+        },
+        "261823": {
+          "position": "agree",
+          "explanation": "Als er sprake is van overlast van mensen op fatbikes, dan vinden wij dat hierop gehandhaafd moet worden."
+        },
+        "261825": {
+          "position": "disagree",
+          "explanation": "Naar ons oordeel is dit op dit moment niet nodig."
+        },
+        "261826": {
+          "position": "agree",
+          "explanation": "Een goede bereikbaarheid van de binnenstad met de auto is van levensbelang voor onze lokale economie."
+        },
+        "261827": {
+          "position": "disagree",
+          "explanation": "Op de meeste plekken in Zutphen en Warnsveld moet 25 tot 40% van de nieuwe woningen een sociale huurwoning zijn. Wij vinden dat voldoende. Daarnaast willen we ook genoeg betaalbare koopwoningen kunnen bouwen."
+        },
+        "261831": {
+          "position": "disagree",
+          "explanation": "Het CDA wil de maximumsnelheid alleen verlagen als het wegdek bij de snelheidsgrens past."
+        },
+        "261832": {
+          "position": "disagree",
+          "explanation": "De toekomst van onze gemeente is te belangrijk om terug te dringen tot een ja of nee vraag. We betrekken inwoners liever op manieren waarop ze meer uitgebreid hun mening kunnen geven."
+        },
+        "261833": {
+          "position": "agree",
+          "explanation": "Een kinderburgemeester betrekt leeftijdsgenoten (groep 7 en 8) bij de politiek en leert ze indirect over de werking van onze democratie."
+        },
+        "261834": {
+          "position": "agree",
+          "explanation": "Het CDA wil dat de gemeenteraad meer zichtbaar wordt in de wijken, onder andere door soms in de wijken te vergaderen."
+        },
+        "261836": {
+          "position": "agree",
+          "explanation": "Als dit juridisch mogelijk is, dan vinden wij dit een goede manier om werkgelegenheid en ondernemerschap te stimuleren."
+        },
+        "261838": {
+          "position": "agree",
+          "explanation": "We willen meer evenementen in Zutphen. We zijn voor werkende maatregelen die hieraan bijdragen. "
+        },
+        "261840": {
+          "position": "agree",
+          "explanation": "Als dit verantwoord kan, wil het CDA dat terrassen langer open blijven. Zo houden we een bruisende binnenstad."
+        },
+        "261841": {
+          "position": "agree",
+          "explanation": "Zutphen vangt momenteel drie keer zoveel asielzoekers op als wettelijk verplicht. Daarom is extra permanente opvang nu niet aan de orde. Als onze huidige opvang in de toekomst niet meer genoeg is, dan nemen we natuurlijk onze verantwoordelijkheid."
+        },
+        "261843": {
+          "position": "neither",
+          "explanation": "De gemeente is verplicht om vluchtelingen met een verblijfsvergunning (statushouders) een woning te geven. Wel vinden we dat statushouders geen voorrang zouden moeten hebben ten opzichte van andere kwetsbare groepen, zoals daklozen of gescheiden ouders."
+        },
+        "261848": {
+          "position": "agree",
+          "explanation": "Zo voorkomen we meer zwerfafval. Ook is de grijze bak beter voor mensen die minder goed ter been zijn dan 250 meter lopen naar een centraal punt."
+        },
+        "261851": {
+          "position": "disagree",
+          "explanation": "Paasvuren komen weinig voor in onze gemeente, een verbod is dus onnodig. Het CDA wil daarnaast de regeldruk in de samenleving verminderen."
+        },
+        "261853": {
+          "position": "disagree",
+          "explanation": "We vinden dat de huidige Hanzehof aan een renovatie toe is. Wel vinden we de huidige plannen voor renovatie (meer dan 30 miljoen) te veel. Daarom willen we het maximale eruit halen door onder andere ook de bibliotheek volledig te plaatsen in het Hanzehuis."
+        },
+        "261856": {
+          "position": "agree",
+          "explanation": "Het CDA heeft zich hier met succes voor ingezet. Daarnaast willen we ook dat er meer mbo-opleidingen in onze gemeente komen."
+        },
+        "261859": {
+          "position": "disagree",
+          "explanation": "Het buurtschap Bronsbergen is een plek waar natuur en landbouw samenkomen, dat willen we graag behouden. Wel willen we meer bouwen in de hoogte, in De Hoven en in Noordveen."
+        },
+        "261860": {
+          "position": "disagree",
+          "explanation": "We vinden dat woningbouwverenigingen heel goed zijn in het bouwen en verhuren van betaalbare huurwoningen. Dit is geen taak voor de gemeente."
+        },
+        "261863": {
+          "position": "disagree",
+          "explanation": "Gezinswoningen worden vaak met grote overwaarde verkocht, het CDA vindt een bonus dus niet nodig. Wel willen we dat senioren die sociaal huren kunnen verhuizen naar een kleinere woning, met behoud van de oude, lagere huur."
+        },
+        "261864": {
+          "position": "agree",
+          "explanation": "Zorgen voor elkaar moet makkelijker worden. Voor mensen die dat willen, moet het mogelijk zijn om ouders of grootouders in te laten wonen met behoud van privacy."
+        },
+        "261867": {
+          "position": "agree",
+          "explanation": "Een huurteam, zoals bestaat in Zwolle en Den Haag, kan ervoor zorgen dat huurders gemakkelijker ondersteuning kunnen krijgen."
+        },
+        "261868": {
+          "position": "agree",
+          "explanation": "Het hebben van 1 schuldeiser geeft meer rust en overzicht."
+        },
+        "261869": {
+          "position": "agree",
+          "explanation": "Het CDA wil inzetten op een goede en liefdevolle integratie van vluchtelingen die in Nederland mogen blijven. Daar hoort naast verstandig omgaan met geld ook hulp bij het vinden van passend werk bij."
+        },
+        "261873": {
+          "position": "disagree",
+          "explanation": "Het CDA wil geen parkeerplaatsen in de binnenstad weghalen zolang er geen goed alternatief is."
+        },
+        "261874": {
+          "position": "disagree",
+          "explanation": "Tandzorg is al gratis voor kinderen, veel ouders weten dit echter niet. Het CDA wil zorgen voor voorlichting, zodat meer ouders weten dat hun kind gratis naar de tandarts kan."
+        },
+        "261876": {
+          "position": "agree",
+          "explanation": "Het CDA vindt jongerenwerkers heel belangrijk. Naast hulp bij mentale problemen, helpen jongerenwerkers ook bij het voorkomen van criminaliteit en drugsverslaving."
+        }
+      }
+    },
+    {
+      "id": 261798,
+      "name": "ChristenUnie",
+      "fullName": "ChristenUnie",
+      "website": "https://zutphen.christenunie.nl",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "261816": {
+          "position": "agree",
+          "explanation": "De ChristenUnie geeft boeren graag ruimte. Wel moet wat in de winkel verkocht wordt in verband staan met het boerenbedrijf. De winkel of de camping moeten ook passen in de natuur, het landschap en de omgeving."
+        },
+        "261817": {
+          "position": "agree",
+          "explanation": "Schone lucht is van levensbelang voor iedereen, vindt de ChristenUnie. Zutphen is aangesloten bij het Schone Lucht Akkoord. Inwoners kunnen de stookwijzer-app downloaden om te controleren of het moment geschikt is voor het aansteken van de kachel of open haard."
+        },
+        "261822": {
+          "position": "agree",
+          "explanation": "Juist rond de Schupstoel voelen veel mensen zich 's avonds onveilig. Een camera kan dan helpen. De ChristenUnie vindt wel dat zo'n camera een tijdelijke oplossing is."
+        },
+        "261823": {
+          "position": "agree",
+          "explanation": "De ChristenUnie vindt verkeersveiligheid erg belangrijk. Als verkeersdeelnemers zich niet aan de regels houden, moet daar een boete voor uitgeschreven worden."
+        },
+        "261825": {
+          "position": "disagree",
+          "explanation": "Boa's hebben de taak om aan te spreken en te handhaven waar het misgaat. Ze kunnen hun noodknop gebruiken als dat nodig is. Verdere bewapening lokt, volgens de ChristenUnie, meer uit tot escalatie."
+        },
+        "261826": {
+          "position": "agree",
+          "explanation": "Bereikbaarheid blijft altijd belangrijk, vindt de ChristenUnie. De binnenstad moet meer ruimte bieden aan voetgangers en fietsers, en toegankelijk blijven voor mindervaliden. Met dit in het achterhoofd willen wij ons inzetten voor de bouw van een parkeergarage in het centrum."
+        },
+        "261827": {
+          "position": "disagree",
+          "explanation": "Dertig procent is heel normaal, Zutphen zit al op 31%. De ChristenUnie wil scheefwonen tegengaan en meer inzetten op betaalbare koopwoningen. Zo wordt de doorstroom bevorderd."
+        },
+        "261831": {
+          "position": "agree",
+          "explanation": "Dit vergroot de verkeersveiligheid en leefbaarheid in de woonwijken. De ChristenUnie is hier een warm voorstander van."
+        },
+        "261832": {
+          "position": "disagree",
+          "explanation": "Inwoners moeten op tijd betrokken worden, maar een referendum is hierbij niet het beste middel. De ChristenUnie wil over dit soort grote zaken liever het gesprek aangaan met de inwoners. Zo komen we tot een goede afweging."
+        },
+        "261833": {
+          "position": "agree",
+          "explanation": "Kinderen betrekken bij het stadsbestuur versterkt burgerschap en betrokkenheid. Jong geleerd is oud gedaan, vindt de ChristenUnie."
+        },
+        "261834": {
+          "position": "agree",
+          "explanation": "De ChristenUnie brengt graag de politiek dichter bij de inwoners. Daar is dit bij uitstek een geschikt middel voor. Wij zien ernaar uit om inwoners op deze manier te ontmoeten."
+        },
+        "261836": {
+          "position": "disagree",
+          "explanation": "Startende ondernemers verdienen de steun van de gemeente. Daarom wil de ChristenUnie dat zij het eerste jaar worden gevrijwaard van ozb. Na dit eerste jaar betalen ze wel."
+        },
+        "261838": {
+          "position": "disagree",
+          "explanation": "Vergunningen moeten eerlijk en zorgvuldig worden behandeld."
+        },
+        "261840": {
+          "position": "disagree",
+          "explanation": "Eigenaren van cafés en restaurants krijgen al veel ruimte van de gemeente om hun terrassen open te houden. De ChristenUnie vindt de leefbaarheid van bewoners in het centrum ook belangrijk."
+        },
+        "261841": {
+          "position": "disagree",
+          "explanation": "De ChristenUnie kan en wil verantwoordelijkheid nemen binnen redelijke en humane grenzen. Het is hierbij erg belangrijk dat inwoners worden meegenomen in de voorbereiding en besluitvorming rond nieuwe huisvesting."
+        },
+        "261843": {
+          "position": "disagree",
+          "explanation": "Er is een landelijke opgelegde regeling met een quotum waar de gemeenten aan moeten voldoen. De ChristenUnie is trots op Zutphen dat wij al jaren dat quotum op jaarbasis halen."
+        },
+        "261848": {
+          "position": "disagree",
+          "explanation": "De pilot in de Zuidwijken liet zien dat mensen minder grijs afval hadden, als ze gebruik maakten van de ondergrondse container. Goed scheiden van afval wordt dan noodzakelijker. De ChristenUnie ziet nog een voordeel, namelijk dat buurtbewoners elkaar kunnen helpen."
+        },
+        "261851": {
+          "position": "agree",
+          "explanation": "Paasvuren zijn in Zutphen verboden. Veiligheid en natuur gaan voor. Dat is de ChristenUnie op het lijf geschreven."
+        },
+        "261853": {
+          "position": "disagree",
+          "explanation": "Cultuur en ontmoeting verdienen een plek in de stad. Het Hanzehuis moet alle generaties bij elkaar brengen. Samen cultuur beleven draagt bij aan verbinding, vindt de ChristenUnie."
+        },
+        "261856": {
+          "position": "disagree",
+          "explanation": "Dit is al vaker geprobeerd en het is nooit gelukt. De ChristenUnie vindt het niet reëel om hier opnieuw geld in te investeren. Saxion, de HAN en Windesheim liggen op korte treinafstand van Zutphen. Wij willen liever investeren in bedrijven die bijvoorbeeld een meester-gezel opleiding aanbieden."
+        },
+        "261859": {
+          "position": "agree",
+          "explanation": "De woonwijk is al opgenomen in de omgevingsvisie van Zutphen als verdichtingslocatie. Dat wil zeggen dat er al woningen gepland staan."
+        },
+        "261860": {
+          "position": "disagree",
+          "explanation": "Dit zorgt voor veel werk en drukt op de gemeentelijke begroting. Het is maar de vraag of de huren daardoor lager worden. Bovendien vindt de ChristenUnie dat de gemeente geen bedrijf is of moet worden."
+        },
+        "261863": {
+          "position": "agree",
+          "explanation": "Deze maatregel zou doorstroming op de woningmarkt kunnen stimuleren. De ChristenUnie is heel blij met de verhuiscoach in Zutphen. Ook die kan ouderen stimuleren en ondersteunen te verhuizen naar een kleinere woning."
+        },
+        "261864": {
+          "position": "agree",
+          "explanation": "Samenwonen versterkt zorg en sociale samenhang. Dit is een speerpunt van de ChristenUnie. Wij vinden dat bij nieuwbouwprojecten vooral gebouwd moet worden voor alternatieve samenlevingsvormen."
+        },
+        "261867": {
+          "position": "agree",
+          "explanation": "Huurders moeten beschermd worden tegen misstanden. In Warnsveld is het huurdersoverleg Warnsveld-Zutphen actief. Dit huurteam zou uitgebreid kunnen worden naar Zutphen om zo alle huurders van de gemeente terzijde te staan. De gemeente moet dat faciliteren."
+        },
+        "261868": {
+          "position": "disagree",
+          "explanation": "De inwoner is verantwoordelijk voor het eigen huishoudboekje. De gemeente wil in een aantal gevallen de gesaneerde schuld (na afstemming met alle schuldeisers) overnemen. De inwoner betaalt sowieso deze schuld aan de gemeente terug en is verplicht met een Budgetbuddy te werken."
+        },
+        "261869": {
+          "position": "agree",
+          "explanation": "De ChristenUnie is blij dat dit al gebeurt. Statushouders krijgen een introductieprogramma waarbij alle ins en outs van Nederlandse financiële verplichtingen worden uitgelegd. Goede financiële begeleiding voorkomt problemen."
+        },
+        "261873": {
+          "position": "agree",
+          "explanation": "Het 's Gravenhof moet een plein worden met veel groen en verkoeling, waar we elkaar kunnen ontmoeten. Laten we als eerste dit mooiste plein van Zutphen autovrij maken, het staat nu vol met blik."
+        },
+        "261874": {
+          "position": "agree",
+          "explanation": "Goede mondzorg is belangrijk. Alle kinderen hebben sowieso recht op gratis mondzorg. Veel ouders gaan niet uit angst voor mogelijke kosten. Met een tandartsbus zijn alle kinderen gewoon aan de beurt. Preventie zorgt voor minder kosten op latere leeftijd."
+        },
+        "261876": {
+          "position": "agree",
+          "explanation": "Preventie en nabijheid zijn erg belangrijk voor het welzijn van jongeren. We maken ons zorgen over het hoge aantal zelfdodingen onder jongeren en vooral jonge vrouwen. De gemeente stimuleert het werken met ervaringsdeskundigen. Juist die inzet vindt de ChristenUnie erg belangrijk."
+        }
+      }
+    },
+    {
+      "id": 261801,
+      "name": "Forum voor Democratie",
+      "fullName": "Forum voor Democratie",
+      "website": "https://fvd.nl/gemeentes/zutphen",
+      "hasSeats": false,
+      "participates": true,
+      "positions": {
+        "261816": {
+          "position": "agree",
+          "explanation": "Wij willen ruimte voor boeren, ondernemerschap, en lokale producten"
+        },
+        "261817": {
+          "position": "disagree",
+          "explanation": "Wij willen geen stookverbod in de gemeente. Dit laten we aan inwoners zelf."
+        },
+        "261822": {
+          "position": "disagree",
+          "explanation": "Wij denken dat fysieke aanwezigheid van agenten of handhaving gewenst is boven cameratoezicht."
+        },
+        "261823": {
+          "position": "agree",
+          "explanation": "Fatbikes zijn verantwoordelijk voor veel overlast, dus deze mogen ook strenger gecontroleerd worden."
+        },
+        "261825": {
+          "position": "disagree",
+          "explanation": "Wij houden het geweldsmonopolie bij de politie."
+        },
+        "261826": {
+          "position": "agree",
+          "explanation": "Wij gaan niet akkoord met autoluw beleid."
+        },
+        "261827": {
+          "position": "disagree",
+          "explanation": "Wij streven naar een huurmarkt waarin vraag en aanbod beter op elkaar aansluiten, met voldoende ruimte voor middenhuur en particuliere verhuur. Sociale huur moet een vangnet blijven voor wie dat nodig heeft, geen permanente afhankelijkheid."
+        },
+        "261831": {
+          "position": "disagree",
+          "explanation": "Wij zijn tegen onnodige snelheidsbeperkingen. Ruim baan voor de auto."
+        },
+        "261832": {
+          "position": "agree",
+          "explanation": "Wij zijn tegen gemeentefusies, maar als dit plan op tafel ligt, dan moeten inwoners zich bindend kunnen uitspreken."
+        },
+        "261833": {
+          "position": "disagree",
+          "explanation": "Wij zien geen toegevoegde waarde in een kinderburgemeester."
+        },
+        "261834": {
+          "position": "agree",
+          "explanation": "Vergaderen op locatie is goed voor het contact met de inwoners."
+        },
+        "261836": {
+          "position": "agree",
+          "explanation": "Wij willen ondernemerschap en bedrijvigheid stimuleren, en dit is een uitgekozen manier om dit te doen."
+        },
+        "261838": {
+          "position": "disagree",
+          "explanation": "Vergunningen moeten gelijk behandeld worden."
+        },
+        "261840": {
+          "position": "agree",
+          "explanation": "Wij willen ruim baan voor ondernemers om zelf over dit soort tijden te beslissen."
+        },
+        "261841": {
+          "position": "agree",
+          "explanation": "Wij willen geen asielzoekers opvangen in de gemeente."
+        },
+        "261843": {
+          "position": "disagree",
+          "explanation": "Wij willen de voorrang voor statushouders direct afschaffen."
+        },
+        "261848": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "261851": {
+          "position": "disagree",
+          "explanation": "Paasvuren zijn een belangrijke traditie die we moeten koesteren en absoluut niet verbieden."
+        },
+        "261853": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "261856": {
+          "position": "disagree",
+          "explanation": "Wij denken niet dat dit nodig voor de stad."
+        },
+        "261859": {
+          "position": "disagree",
+          "explanation": "Wij zien dit niet als een uitgekozen locatie voor woningbouw."
+        },
+        "261860": {
+          "position": "disagree",
+          "explanation": "Woningbouw kunnen we overlaten aan de markt."
+        },
+        "261863": {
+          "position": "disagree",
+          "explanation": "Wij willen ouderen die kleiner gaan wonen graag faciliteren, maar directe giften lijkt ons een verkeerde keuze."
+        },
+        "261864": {
+          "position": "disagree",
+          "explanation": "Het moet geen verplichting zijn, maar wij zien veel potentie in dergelijke woonvormen.  "
+        },
+        "261867": {
+          "position": "disagree",
+          "explanation": "Dit is geen taak voor de gemeente."
+        },
+        "261868": {
+          "position": "disagree",
+          "explanation": "Dit is geen taak van de gemeente."
+        },
+        "261869": {
+          "position": "disagree",
+          "explanation": "Dit is een eigen verantwoordelijkheid van deze mensen."
+        },
+        "261873": {
+          "position": "disagree",
+          "explanation": "Wij zijn tegen autoluw beleid."
+        },
+        "261874": {
+          "position": "disagree",
+          "explanation": "Dit is geen taak van de gemeente."
+        },
+        "261876": {
+          "position": "agree",
+          "explanation": "Geestelijke gezondheid van jongeren is heel belangrijk, en dit moeten we goed aanpakken."
+        }
+      }
+    },
+    {
+      "id": 261800,
+      "name": "HOI Zutphen",
+      "fullName": "HOI Zutphen",
+      "website": "https://hoizutphen.nl",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "261816": {
+          "position": "disagree",
+          "explanation": "Boeren verdienen ruimte om hun bedrijf toekomstbestendig te maken, maar niet automatisch. Het moet passen bij omgeving, verkeer en leefbaarheid. Maatwerk per locatie."
+        },
+        "261817": {
+          "position": "agree",
+          "explanation": "Gezondheid gaat voor. Bij slechte luchtkwaliteit moet de gemeente kunnen ingrijpen."
+        },
+        "261822": {
+          "position": "agree",
+          "explanation": "Bij structurele overlast is cameratoezicht nodig, gericht, tijdelijk en met duidelijke privacyregels."
+        },
+        "261823": {
+          "position": "agree",
+          "explanation": "Gevaarlijk en asociaal gedrag moet altijd worden aangepakt, ongeacht het vervoermiddel."
+        },
+        "261825": {
+          "position": "agree",
+          "explanation": "Boa's krijgen steeds vaker te maken met agressie. Wie handhaaft namens de gemeente, moet zichzelf kunnen beschermen."
+        },
+        "261826": {
+          "position": "agree",
+          "explanation": "De binnenstad moet bereikbaar blijven voor bewoners, zorg, ondernemers en bezoekers."
+        },
+        "261827": {
+          "position": "disagree",
+          "explanation": "Wij kiezen niet voor een vast percentage, maar voor voldoende betaalbare woningen per project, passend bij de wijk."
+        },
+        "261831": {
+          "position": "agree",
+          "explanation": "30 km/u in woonstraten en bij scholen, niet automatisch overal."
+        },
+        "261832": {
+          "position": "agree",
+          "explanation": "Zo'n besluit neem je niet zonder inwoners. Eerst draagvlak, dan pas besluiten."
+        },
+        "261833": {
+          "position": "agree",
+          "explanation": "Een kinderburgemeester kan bijdragen aan betrokkenheid van kinderen bij hun gemeente en politiek."
+        },
+        "261834": {
+          "position": "agree",
+          "explanation": "Politiek hoort zichtbaar en dicht bij inwoners te zijn."
+        },
+        "261836": {
+          "position": "agree",
+          "explanation": "Starters moeten kunnen groeien zonder extra lasten."
+        },
+        "261838": {
+          "position": "disagree",
+          "explanation": "Evenementen zijn belangrijk, maar zorgvuldigheid en veiligheid blijven leidend."
+        },
+        "261840": {
+          "position": "agree",
+          "explanation": "Natuurlijk moet de horeca de ruimte krijgen, maar we moeten ook rekening houden met omwonenden."
+        },
+        "261841": {
+          "position": "agree",
+          "explanation": "Zutphen levert al een grote bijdrage en voldoet ruimschoots aan haar verplichtingen. De opvang moet eerlijk over Nederland verdeeld worden."
+        },
+        "261843": {
+          "position": "disagree",
+          "explanation": "Door de grote woningnood geven we voorrang aan inwoners van Zutphen. Dat zorgt voor rust en eerlijkheid in de woningmarkt."
+        },
+        "261848": {
+          "position": "agree",
+          "explanation": "Afvalbeleid moet praktisch blijven."
+        },
+        "261851": {
+          "position": "disagree",
+          "explanation": "Tradities kunnen blijven, mits veilig. Bij slechte luchtkwaliteit moet de gemeente kunnen ingrijpen."
+        },
+        "261853": {
+          "position": "agree",
+          "explanation": "Het Hanzehuis is een groot en duur project dat weinig toevoegt aan het dagelijks leven in de wijken. Dat geld kan beter ingezet worden voor kleinschalige voorzieningen dichtbij inwoners, zoals ontmoetingsplekken, cultuur en activiteiten in de wijk zelf."
+        },
+        "261856": {
+          "position": "disagree",
+          "explanation": "Zutphen is te klein voor een volwaardig en breed hbo-aanbod. Jongeren hebben meer aan goed bereikbare opleidingen in Arnhem en Deventer. Daarom investeren we liever in betere bereikbaarheid dan in een campagne zonder realistische kans van slagen."
+        },
+        "261859": {
+          "position": "agree",
+          "explanation": "Woningbouw kan, maar alleen als natuur behouden blijft, de ontsluiting goed is geregeld en voorzieningen meegroeien. Geen geïsoleerde wijk, maar passend bij Zutphen."
+        },
+        "261860": {
+          "position": "disagree",
+          "explanation": "Een nieuw woonbedrijf lost de woningnood niet op. Zet liever in op sneller bouwen via bestaande partijen en minder bureaucratie."
+        },
+        "261863": {
+          "position": "agree",
+          "explanation": "Bevordert de doorstroming."
+        },
+        "261864": {
+          "position": "agree",
+          "explanation": "Bij grote nieuwbouwprojecten moeten levensloopgeschikte woningen en gezinswoningen met ruimte voor mantelzorg een vast onderdeel zijn van het totaalplan, zonder verplichte aantallen per blok."
+        },
+        "261867": {
+          "position": "agree",
+          "explanation": "Huurteam biedt bescherming tegen misstanden."
+        },
+        "261868": {
+          "position": "disagree",
+          "explanation": "Deze maatregel is te algemeen. Het kan helpen, maar alleen als er voldoende maatwerk is."
+        },
+        "261869": {
+          "position": "agree",
+          "explanation": "Het voorkomt schulden en bevordert zelfstandigheid."
+        },
+        "261873": {
+          "position": "disagree",
+          "explanation": "Volledig autovrij maken schaadt bereikbaarheid voor bewoners, ondernemers en zorg."
+        },
+        "261874": {
+          "position": "agree",
+          "explanation": "Voorkomen is beter dan genezen."
+        },
+        "261876": {
+          "position": "agree",
+          "explanation": "Vroege en laagdrempelige hulp voorkomt dat lichte mentale problemen uitgroeien tot zware zorg en uitval."
+        }
+      }
+    },
+    {
+      "id": 261799,
+      "name": "LEF - Voor de Nieuwe Generatie",
+      "fullName": "LEF - Voor de Nieuwe Generatie",
+      "website": "https://www.lef.nl",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "261816": {
+          "position": "agree",
+          "explanation": "Wij geloven in een lokaal gedreven economie en korte voedselketens, waarbij boerderijwinkels lokaal voedsel gemakkelijk verkrijgbaar maken. Kleinschalig kamperen geeft boeren extra inkomsten en versterkt de kwaliteit van het buitengebied."
+        },
+        "261817": {
+          "position": "agree",
+          "explanation": "Houtkachels kunnen ademhalingsproblemen veroorzaken, vooral bij verkeerd gebruik en ongunstige stookmomenten. Daarom zijn goede voorlichting en duidelijke regels noodzakelijk."
+        },
+        "261822": {
+          "position": "disagree",
+          "explanation": "Dit is overbodig en een inbreuk op de privacy. Wij zijn er voor om eerst de sociale controle te versterken voor we overgaan op dit soort maatregelen."
+        },
+        "261823": {
+          "position": "agree",
+          "explanation": "Tegelijkertijd moeten fatbikes uit de binnenstad worden geweerd via de Algemeen Plaatselijke Verordening (APV). LEF Zutphen wil ook meer controleren om te kijken of fatbikes en e-bikes opgevoerd zijn."
+        },
+        "261825": {
+          "position": "disagree",
+          "explanation": "Het is onnodig om de geweldsspiraal te versterken. Boa’s moeten daarom meer sociale vaardigheden ontwikkelen, zoals de-escalerend werken, verbinding zoeken en bemiddelen. Wij willen dat handhavers sterker worden in hun rol als hulpverlener. Dit bevordert harmonie en maakt hun werk effectiever."
+        },
+        "261826": {
+          "position": "disagree",
+          "explanation": "Wij vinden dat de auto ondergeschikt moet zijn aan fietsverkeer, zeker in de binnenstad waar meer mensen per fiets komen dan met de auto. Tegelijk moet er in beperkte mate ruimte blijven voor de auto, voor minder mobiele mensen die geen alternatief hebben en voor ondernemers."
+        },
+        "261827": {
+          "position": "agree",
+          "explanation": "Meer sociale huur is noodzakelijk. Wij steunen daarnaast het huidige beleid van gemengd bouwen, waarbij koop en sociale huur worden gecombineerd. Dit versterkt de sociale samenhang en de leefbaarheid van de gemeente."
+        },
+        "261831": {
+          "position": "agree",
+          "explanation": "Onthaasting is iets waar LEF een groot voorstander van is. Zutphen leent zich prima voor rustig rijden, de gemeente is klein genoeg om met 30 km /uur overal te komen. Dan is met de fiets gaan vaak sneller en gezonder."
+        },
+        "261832": {
+          "position": "neither",
+          "explanation": "LEF is niet voor het fuseren met andere gemeentes, schaalvergroting zal veel afstand tussen de politiek en inwoners creëren. Samenwerken met andere gemeentes levert iedereen meer op."
+        },
+        "261833": {
+          "position": "agree",
+          "explanation": "Meer inspraak en meer aanwezigheid bij het maken van beleid door de jongere generaties, dat is waar LEF voor staat. Een kinderburgemeester is daar zeker een onderdeel van."
+        },
+        "261834": {
+          "position": "agree",
+          "explanation": "Of nog vaker. Ook de vele commissievergaderingen kunnen vaker op diverse locaties plaats vinden. Dit geeft meer binding tussen de lokale overheid en de inwoners."
+        },
+        "261836": {
+          "position": "agree",
+          "explanation": "Voor ons is het erg belangrijk dat startende ondernemers ondersteund worden, dat kan op verschillende manieren. Natuurlijk ook door dit soort kortingsregelingen."
+        },
+        "261838": {
+          "position": "agree",
+          "explanation": "Eigenlijk moeten vergunningen sowieso snel afgehandeld worden en zou de één geen voorrang op de ander hoeven te hebben. Echter heb je bij feesten en festivals te maken met een definitieve deadline en is snel handelen dus noodzaak."
+        },
+        "261840": {
+          "position": "agree",
+          "explanation": "De terrascultuur in Zutphen bloeit en voorziet in een duidelijke behoefte. Wel moet geluidsoverlast worden beperkt, bijvoorbeeld door terrasgrootte te reguleren en geluidsisolerend glas in woningen te stimuleren via gemeentelijke subsidie."
+        },
+        "261841": {
+          "position": "disagree",
+          "explanation": "Een bepaald aantal asielzoekers kan niet een vaste regel zijn."
+        },
+        "261843": {
+          "position": "agree",
+          "explanation": "Iedereen met urgentie heeft recht op voorrang, ook vluchtelingen. Ook zijn er te weinig opvangplekken voor hen. Slechts 8% van de vrijkomende sociale huurwoningen gaat naar een statushouder. Vluchtelingen zijn niet het probleem, een stagnerende woningbouw wel."
+        },
+        "261848": {
+          "position": "agree",
+          "explanation": "Eenvoud in het inzamelsysteem is wat het meest bijdraagt aan goede afvalscheiding."
+        },
+        "261851": {
+          "position": "disagree",
+          "explanation": "Wanneer het niet de intentie is om het grootste paasvuur te maken, staan wij positief tegenover activiteiten die mensen verbinden. Ook een paasvuur kan daar onderdeel van zijn."
+        },
+        "261853": {
+          "position": "disagree",
+          "explanation": "Het Hanzehuis kan een grote bijdrage leveren aan de cultuur in Zutphen, waarbij ook de derde, kleinere zaal van grote waarde is. Hoe het Hanzehuis sterker onderdeel kan worden van de hele gemeente bespreken wij graag, met behoud van steun voor andere culturele initiatieven in de gemeente Zutphen."
+        },
+        "261856": {
+          "position": "agree",
+          "explanation": "Voor LEF is dit heel belangrijk. Hoewel natuurlijk variatie in elke onderwijsvorm een verbetering van de leefbaarheid voor jongeren creëert. Het is belangrijk dat wij de uitstroom en vergrijzing tegengaan, een hbo is een deel van de oplossing hiervoor."
+        },
+        "261859": {
+          "position": "disagree",
+          "explanation": "Bronsbergen is een mooi uitloopgebied voor Zutphen met mooie natuur en moestuinen. Dat mag ook gekoesterd worden."
+        },
+        "261860": {
+          "position": "agree",
+          "explanation": "Een eigen woonbedrijf in Zutphen maakt betaalbare woningen mogelijk, houdt huren in publieke handen en doorbreekt de macht van investeerders en huisjesmelkers. Zo sturen we op sociale rechtvaardigheid, duurzaamheid en echte volkshuisvesting."
+        },
+        "261863": {
+          "position": "disagree",
+          "explanation": "Wanneer er genoeg betaalbare kleinere woningen zijn, is het niet nodig om als gemeente daaraan bij te dragen. Doorstroom faciliteren is zeker nodig, maar alleen geld geven gaat niet werken als er geen geschikte woningen zijn."
+        },
+        "261864": {
+          "position": "agree",
+          "explanation": "Door meer met coöperatieve woonvormen te bouwen, stimuleren we dat ouderen en jongeren gemengd wonen, zoals grootouders en kleinkinderen in dezelfde buurt. Woningen moeten daarbij flexibel meebewegen met verschillende levensfasen."
+        },
+        "261867": {
+          "position": "agree",
+          "explanation": "Wij zijn erg voor goede bescherming voor huurders. Zeker als de huisbaas in overtreding gaat van wetten rondom goed verhuurderschap. Of een gemeentelijk huurteam genoeg is, is nog de vraag."
+        },
+        "261868": {
+          "position": "agree",
+          "explanation": "Lage inkomens raken vaak structureel in problematische schulden, wat sociale uitsluiting en hoge maatschappelijke kosten veroorzaakt. LEF Zutphen pleit daarom voor het waar mogelijk kwijtschelden van schulden, zodat mensen weer volwaardig kunnen meedoen."
+        },
+        "261869": {
+          "position": "agree",
+          "explanation": "Dit zou een standaard onderdeel moeten zijn van maatschappelijke participatie en emancipatie, en zou net zo vanzelfsprekend thuishoren in het voortgezet onderwijs."
+        },
+        "261873": {
+          "position": "agree",
+          "explanation": "Het is onbegrijpelijk dat een stad die prat gaat op geschiedenis en erfgoed, van een van de oudste nog bestaande pleinen van Nederland, een parkeerplaats heeft gemaakt. Daarom steunen wij de zoektocht naar parkeerplekken elders en een waardige invulling van dit prachtige plein."
+        },
+        "261874": {
+          "position": "agree",
+          "explanation": "Deze toegankelijke tandzorg bereikt juist kinderen die anders buiten de zorg vallen. Preventie en vroegsignalering versterken gelijke kansen en verminderen latere zorgkosten"
+        },
+        "261876": {
+          "position": "agree",
+          "explanation": "Preventie en signalering door oprecht betrokken jongerenwerkers is effectief, goedkoop en een geweldige investering in de gemeenschap. Wij willen zowel ervaringsdeskundigen als jongerenwerkers inzetten op straat en binnen onderwijsinstellingen om jongeren te ondersteunen in het dagelijks leven."
+        }
+      }
+    }
+  ],
+  "statements": [
+    {
+      "id": 261826,
+      "index": 1,
+      "theme": "Binnenstad bereikbaar",
+      "themeId": "binnenstad-bereikbaar",
+      "title": "De binnenstad moet ook met de auto goed bereikbaar blijven.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 261823,
+      "index": 2,
+      "theme": "Fatbikes",
+      "themeId": "fatbikes",
+      "title": "De gemeente moet de politie vragen vaker mensen die op fatbikes rijden te controleren op asociaal gedrag.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 261827,
+      "index": 3,
+      "theme": "Sociale huurwoningen",
+      "themeId": "sociale-huurwoningen",
+      "title": "Van de nieuw te bouwen woningen in de gemeente Zutphen moet minimaal 35% een sociale huurwoning zijn. In de gemeente Zutphen is dat nu 30%.",
+      "moreInfo": "Op dit moment moet bij elk nieuwbouwproject in Zutphen minsten 30% van de woningen een sociale huurwoning zijn.",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 261832,
+      "index": 4,
+      "theme": "Referendum",
+      "themeId": "referendum",
+      "title": "De gemeente moet voor een fusie met een andere gemeente eerst een referendum houden.",
+      "moreInfo": "Bij een referendum legt een overheid een vraag over één onderwerp voor aan kiezers. Die kunnen voor of tegen stemmen. Bij een landelijk referendum mogen alle Nederlanders stemmen die 18 jaar of ouder zijn. Bij een gemeentelijk referendum mogen alle inwoners van die gemeente stemmen die 18 jaar of ouder zijn. Zowel de gemeenteraad als gewone burgers kunnen een referendum aanvragen. Als burgers een referendum willen, moeten ze daar handtekeningen voor verzamelen van anderen. In de regels van de gemeente staat hoeveel handtekeningen minimaal nodig zijn. In Nederland is de uitslag van een referendum niet bindend, dat wil zeggen dat een overheid de uitslag niet hoeft te volgen en een ander besluit kan nemen.",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 261859,
+      "index": 5,
+      "theme": "Bronsbergen",
+      "themeId": "bronsbergen",
+      "title": "In Bronsbergen moet een nieuwe woonwijk komen.",
+      "moreInfo": "Bronsbergen is een landelijk gebied en een buurtschap. Het hoort bij de Zuidwijken.",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 261831,
+      "index": 6,
+      "theme": "Snelheid auto's",
+      "themeId": "snelheid-auto-s",
+      "title": "De maximumsnelheid moet in meer straten naar 30 km/u.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 261816,
+      "index": 7,
+      "theme": "Boeren",
+      "themeId": "boeren",
+      "title": "De gemeente moet boeren altijd toestaan om bij hun boerenbedrijf bijvoorbeeld een winkel of een camping te openen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 261860,
+      "index": 8,
+      "theme": "Gemeentelijk woonbedrijf",
+      "themeId": "gemeentelijk-woonbedrijf",
+      "title": "De gemeente Zutphen moet een eigen woonbedrijf oprichten om woningen te bouwen en verhuren.",
+      "moreInfo": "In Zutphen verhuren woningcorporaties zoals Ieder-1 en Sint Elisabeth woningen. Zij zijn zelfstandig, maar zij maken wel afspraken met de gemeente over doelen die ze willen bereiken. De gemeente Zutphen kan ook zelf een woningcorporatie (of woningbedrijf) oprichten.Hoewel het mag, is het oprichten van een nieuw gemeentelijk woningbedrijf juridisch en financieel complex, en is het vaak niet de eerste keuze vergeleken met samenwerking met bestaande woningcorporaties. Er zijn gemeentes in Nederland die een eigen woningbedrijf hebben.",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 261833,
+      "index": 9,
+      "theme": "Kinderburgemeester",
+      "themeId": "kinderburgemeester",
+      "title": "Er moet een kinderburgemeester komen in de gemeente Zutphen.",
+      "moreInfo": "Een kinderburgemeester komt op voor de belangen van kinderen. De kinderburgemeester vertelt de gemeenteraad wat kinderen belangrijk vinden:  wat zijn hun ideeën om de  gemeente veilig en gezond te maken? Een kinderburgemeester wordt meestal voor één jaar aangesteld en zit in groep 7 of 8.",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 261838,
+      "index": 10,
+      "theme": "Vergunning festival",
+      "themeId": "vergunning-festival",
+      "title": "Een aanvraag voor een vergunning voor een feest of festival moet voorrang krijgen boven andere vergunningaanvragen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 261863,
+      "index": 11,
+      "theme": "Verhuispremie",
+      "themeId": "verhuispremie",
+      "title": "De gemeente moet geld geven aan ouderen die verhuizen uit een grote gezinswoning.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 261868,
+      "index": 12,
+      "theme": "Schuldhulpverlening",
+      "themeId": "schuldhulpverlening",
+      "title": "Van inwoners die schuldhulp krijgen moet de gemeente zo snel mogelijk alle schulden overnemen. Inwoners hoeven dan alleen bij de gemeente een schuld af te betalen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 261848,
+      "index": 13,
+      "theme": "Grijze bak restafval",
+      "themeId": "grijze-bak-restafval",
+      "title": "De grijze bak voor restafval moet blijven in Zutphen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 261856,
+      "index": 14,
+      "theme": "Hbo",
+      "themeId": "hbo",
+      "title": "De gemeente moet geld steken in een campagne om een hbo-school naar Zutphen te halen.",
+      "moreInfo": "Op dit moment is er geen hbo-opleiding in Zutphen. De dichtstbijzijnde hbo's zijn in Deventer, Apeldoorn en Arnhem.",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 261822,
+      "index": 15,
+      "theme": "Cameratoezicht",
+      "themeId": "cameratoezicht",
+      "title": "Er moet cameratoezicht komen in de Schupstoel.",
+      "moreInfo": "Op de Schupstoel, een straat in het centrum van Zutphen, komen diverse straten met café's uit, zoals de Vaaltstraat en de Beukerstraat. Sommige mensen voelen zich er s'avonds onveilig. Cameratoezicht is één van de mogeijkheden om het gevoel van veiligheid te vergroten.",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 261867,
+      "index": 16,
+      "theme": "Hulp voor huurders",
+      "themeId": "hulp-voor-huurders",
+      "title": "De gemeente moet een huurteam krijgen dat huurders helpt bij problemen met hun huisbaas, zoals een te hoge huur.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 261864,
+      "index": 17,
+      "theme": "Meergeneratiewoning",
+      "themeId": "meergeneratiewoning",
+      "title": "Bij grote nieuwbouwprojecten moeten altijd ook woningen komen die geschikt zijn voor inwonende grootouders.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 261840,
+      "index": 18,
+      "theme": "Openingstijden terras",
+      "themeId": "openingstijden-terras",
+      "title": "De gemeente moet cafés en restaurants toestaan om hun terras langer open te houden.",
+      "moreInfo": "In de gemeente Zutphen mogen terrassen elke dag open zijn van 08:00 tot 24:00 uur. Een terras in de binnenstad mag van april tot oktober tot 01:00 uur open zijn.",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 261876,
+      "index": 19,
+      "theme": "Jongerenwerk",
+      "themeId": "jongerenwerk",
+      "title": "De gemeente moet meer jongerenwerkers in dienst nemen die jongeren met mentale problemen helpen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 261869,
+      "index": 20,
+      "theme": "Financiële educatie",
+      "themeId": "financile-educatie",
+      "title": "De gemeente moet geld steken in lessen over verstandig omgaan met geld aan vluchtelingen die in Nederland mogen blijven.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 261825,
+      "index": 21,
+      "theme": "Handhavers",
+      "themeId": "handhavers",
+      "title": "De boa's die in de gemeente Zutphen controleren op veiligheid moeten een wapenstok krijgen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 261874,
+      "index": 22,
+      "theme": "Tandartsbus",
+      "themeId": "tandartsbus",
+      "title": "De gemeente moet zorgen voor een tandartsbus die langs scholen rijdt.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 261843,
+      "index": 23,
+      "theme": "Toewijzing woning asielzoekers",
+      "themeId": "toewijzing-woning-asielzoekers",
+      "title": "De gemeente moet vluchtelingen met een verblijfsvergunning voorrang geven op een sociale huurwoning.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 261853,
+      "index": 24,
+      "theme": "Hanzehuis",
+      "themeId": "hanzehuis",
+      "title": "De gemeente moet afzien van de bouw van cultureel centrum het Hanzehuis.",
+      "moreInfo": "Het Hanzehuis is de nieuwe naam voor de Hanzehof. Dat is nu een theater. De gemeente wil de Hanzehof verbouwen en uitbreiden. In het Hanzehuis komt ook de bibliotheek. Verder zal er meer ruimte zijn voor muziekoptredens, lezingen en tentoonstellingen.",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 261873,
+      "index": 25,
+      "theme": "s' Gravenhof",
+      "themeId": "s-gravenhof",
+      "title": "Het 's Gravenhof moet autovrij worden.",
+      "moreInfo": "Het 's Gravenhof is een plein bij het stadhuis waar mensen hun auto kunnen parkeren.",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 261836,
+      "index": 26,
+      "theme": "OZB",
+      "themeId": "ozb",
+      "title": "De gemeente moet de eerste drie jaar geen onroerendezaakbelasting (OZB) vragen voor het bedrijfsgebouw van startende ondernemingen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 261817,
+      "index": 27,
+      "theme": "Houtstook",
+      "themeId": "houtstook",
+      "title": "De gemeente moet het gebruik van houtkachels en open haarden verbieden als het weer daar ongeschikt voor is.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 261841,
+      "index": 28,
+      "theme": "Asielzoekerscentrum",
+      "themeId": "asielzoekerscentrum",
+      "title": "Er mogen in de gemeente Zutphen niet meer asielzoekers worden opgevangen dan de 740 die er nu zijn.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 261834,
+      "index": 29,
+      "theme": "Raadsvergadering in de wijk",
+      "themeId": "raadsvergadering-in-de-wijk",
+      "title": "De gemeenteraad moet eens per jaar in een wijk- of buurthuis vergaderen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 261851,
+      "index": 30,
+      "theme": "Paasvuren",
+      "themeId": "paasvuren",
+      "title": "De gemeente Zutphen moet paasvuren verbieden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    }
+  ]
+}

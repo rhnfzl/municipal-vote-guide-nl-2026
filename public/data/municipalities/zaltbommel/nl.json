@@ -1,0 +1,1379 @@
+{
+  "id": "GM0297",
+  "name": "Zaltbommel",
+  "slug": "zaltbommel",
+  "parties": [
+    {
+      "id": 127477,
+      "name": "ZVV",
+      "fullName": "Zaltbommel Veranderen met Visie",
+      "website": "https://www.zvvzaltbommel.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "127501": {
+          "position": "neither",
+          "explanation": "Dit hoeft geen uitgangspunt te zijn."
+        },
+        "127502": {
+          "position": "disagree",
+          "explanation": "De inwoners krijgen bij de meeste onderwerpen al een mogelijkheid tot inspreken."
+        },
+        "127505": {
+          "position": "agree",
+          "explanation": "Alleen als dat binnen de opties ligt en kan"
+        },
+        "127508": {
+          "position": "agree",
+          "explanation": "Het huidige beleid doorzetten waar dit al in is geregeld."
+        },
+        "127510": {
+          "position": "agree",
+          "explanation": "Als gemeente niet te belerend omgaan hiermee."
+        },
+        "127512": {
+          "position": "agree",
+          "explanation": "Zodra het vuurwerkverbod in gaat dan is dit een wens."
+        },
+        "127513": {
+          "position": "neither",
+          "explanation": "De huidige mogelijkheden voldoen."
+        },
+        "127514": {
+          "position": "neither",
+          "explanation": "Alle festivals voldoen aan de vergunning die de gemeente verstrekt."
+        },
+        "127519": {
+          "position": "neither",
+          "explanation": "Muziekles is waardevol, maar is niet in eerste instantie een taak van de gemeente. "
+        },
+        "127523": {
+          "position": "agree",
+          "explanation": "Alleen waar dat echt nodig is."
+        },
+        "127528": {
+          "position": "disagree",
+          "explanation": "Niet in elk geval. Het beeld van criminaliteit is hier aanwezig."
+        },
+        "127529": {
+          "position": "neither",
+          "explanation": "Niet tegen elke prijs."
+        },
+        "127530": {
+          "position": "agree",
+          "explanation": "Als dat lichamelijk mogelijk is ja."
+        },
+        "127531": {
+          "position": "neither",
+          "explanation": "Of gedeeltelijk is ook een overweging."
+        },
+        "127532": {
+          "position": "agree",
+          "explanation": "Meebewegen met het minimum inkomen."
+        },
+        "127534": {
+          "position": "agree",
+          "explanation": "Er komen steeds EV’s bij hierop kun je wel participeren."
+        },
+        "127535": {
+          "position": "neither",
+          "explanation": "Dit mag niet altijd."
+        },
+        "127536": {
+          "position": "neither",
+          "explanation": "Denk dat mensen heel blij zijn met elke ondersteuning die ze krijgen ongescht geloof of overtuiging."
+        },
+        "127539": {
+          "position": "disagree",
+          "explanation": "Van deze belasting bekostigen we ook de opruimkosten hiervan."
+        },
+        "127542": {
+          "position": "disagree",
+          "explanation": "Nee, eigen inwoners genieten de voorkeur."
+        },
+        "127543": {
+          "position": "agree",
+          "explanation": "Dit is het grootendeels al maar het moet ook geen vrijbrief worden voor allerlei soorten afvalstromen."
+        },
+        "127545": {
+          "position": "neither",
+          "explanation": "Momenteel volstaat nog de huidige locatie."
+        },
+        "127547": {
+          "position": "disagree",
+          "explanation": "Nee! Dit trekt doorgaans mensen die je niet wilt."
+        },
+        "127548": {
+          "position": "disagree",
+          "explanation": "Wij bouwen naar behoefte."
+        },
+        "127551": {
+          "position": "neither",
+          "explanation": "Dit gaat niet overal. Pas als er een parkeergarage is gerealiseerd."
+        },
+        "127552": {
+          "position": "agree",
+          "explanation": "168 maximaal."
+        },
+        "127553": {
+          "position": "disagree",
+          "explanation": "Nee laten we het dorpsw karakter behouden."
+        },
+        "127554": {
+          "position": "neither",
+          "explanation": "Groei heb je niet altijd in de hand."
+        },
+        "127555": {
+          "position": "neither",
+          "explanation": "Innovatief zoals ze zijn heeft men naar wat wij weten ruimte over."
+        },
+        "127557": {
+          "position": "disagree",
+          "explanation": "Groen moet niet de rode lijn worden"
+        }
+      }
+    },
+    {
+      "id": 127478,
+      "name": "SGP",
+      "fullName": "Staatkundig Gereformeerde Partij",
+      "website": "https://zaltbommel.sgp.nl/home",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "127501": {
+          "position": "disagree",
+          "explanation": "Dit is geen must. Kwaliteit staat voorop."
+        },
+        "127502": {
+          "position": "disagree",
+          "explanation": "Gemeenteraadsleden worden gekozen om beslissingen te nemen."
+        },
+        "127505": {
+          "position": "agree",
+          "explanation": "De mogelijkheden in Zaltbommel zijn nu beperkt. Die kunnen best wat ruimer worden om agrarische bedrijven toekomst te bieden."
+        },
+        "127508": {
+          "position": "agree",
+          "explanation": "De huisvesting van arbeidsmigranten bij de werkgevers is een verademing. Minder overlast in de kernen. En fatsoenlijke huisvesting voor de werknemers."
+        },
+        "127510": {
+          "position": "agree",
+          "explanation": "Zelfredzaamheid is een groot goed. We moeten niet over reguleren."
+        },
+        "127512": {
+          "position": "disagree",
+          "explanation": "Dit is niet aan de gemeente zelf."
+        },
+        "127513": {
+          "position": "agree",
+          "explanation": "Er wordt teveel afval gedumpt. Zou mooi zijn als het gratis ophalen van grofvuil weer mogelijk wordt."
+        },
+        "127514": {
+          "position": "agree",
+          "explanation": "Dit is één van de grootste ergernissen als het gaat om evenementen."
+        },
+        "127519": {
+          "position": "agree",
+          "explanation": "Het is goed om hieraan bij te dragen als gemeente."
+        },
+        "127523": {
+          "position": "agree",
+          "explanation": "Toelichting ontbreekt "
+        },
+        "127528": {
+          "position": "neither",
+          "explanation": "Deze optie moet niet worden uitgesloten. Maar het is niet zo dat dit altijd kan worden toegestaan."
+        },
+        "127529": {
+          "position": "disagree",
+          "explanation": "Groei van het aantal inwoners betekent behoefte aan meer woningen. Dat moeten we mogelijk blijven maken."
+        },
+        "127530": {
+          "position": "agree",
+          "explanation": "Toelichting ontbreekt"
+        },
+        "127531": {
+          "position": "neither",
+          "explanation": "Dit geeft in sommige gevallen lucht. Maar het lijkt er soms wel op dat de gemeente altijd als laatste aan de beurt is."
+        },
+        "127532": {
+          "position": "disagree",
+          "explanation": "Toelichting ontbreekt"
+        },
+        "127534": {
+          "position": "disagree",
+          "explanation": "Er zijn al heel veel mogelijkheden in de gemeente Zaltbommel. Dit gaat ten koste voor parkeerplekken voor brandstof auto's. Zo ontstaat al heel snel een soort van discriminatie. Als je in staat bent Elektrisch te kopen heb je plek. Anders niet."
+        },
+        "127535": {
+          "position": "neither",
+          "explanation": "Dit is al het geval, tenzij het een ontsluiting betreft."
+        },
+        "127536": {
+          "position": "agree",
+          "explanation": "Keuze vrijheid is een groot goed."
+        },
+        "127539": {
+          "position": "disagree",
+          "explanation": "Toelichting ontbreekt"
+        },
+        "127542": {
+          "position": "disagree",
+          "explanation": "Dit is een grote zorg voor veel inwoners. Er wordt veel gebouwd. Maar is het wel voor de eigen inwoners."
+        },
+        "127543": {
+          "position": "neither",
+          "explanation": "Inleveren van afval moet gestimuleerd worden en daarom niet te duur zijn. Maar helemaal gratis is niet nodig."
+        },
+        "127545": {
+          "position": "neither",
+          "explanation": "Er moet iets gebeuren in Brakel en de andere dorpen. Zaltbommel is niet de enige plek waar voorzieningen moeten komen. Maar dat hoeft niet per definitie een nieuw sportpark te zijn."
+        },
+        "127547": {
+          "position": "disagree",
+          "explanation": "Toelichting ontbreekt"
+        },
+        "127548": {
+          "position": "disagree",
+          "explanation": "Het uitgangspunt is nu 30%. Dat is prima. Meer moeten we niet willen."
+        },
+        "127551": {
+          "position": "disagree",
+          "explanation": "Toelichting ontbreekt"
+        },
+        "127552": {
+          "position": "neither",
+          "explanation": "Toelichting ontbreekt"
+        },
+        "127553": {
+          "position": "disagree",
+          "explanation": "Toelichting ontbreekt"
+        },
+        "127554": {
+          "position": "disagree",
+          "explanation": "Zaltbommel moet organisch groeien. Daar hoort geen limiet bij."
+        },
+        "127555": {
+          "position": "agree",
+          "explanation": "Toelichting ontbreekt"
+        },
+        "127557": {
+          "position": "agree",
+          "explanation": "Er kan altijd een tandje bij als het gaat om groen onderhoud."
+        }
+      }
+    },
+    {
+      "id": 127479,
+      "name": "VVD",
+      "fullName": "Volkspartij voor Vrijheid en Democratie",
+      "website": "https://bommelerwaard.vvd.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "127501": {
+          "position": "disagree",
+          "explanation": "De VVD staat voor gelijke kansen voor iedereen. De samenstelling van het college moet gebaseerd zijn op kwaliteit en geschiktheid, niet op vaste quota. Bestuur vraagt om de beste mensen op de juiste plek."
+        },
+        "127502": {
+          "position": "neither",
+          "explanation": "De VVD hecht groot belang aan inspraak en participatie. Inwoners moeten vroeg en goed worden betrokken bij belangrijke besluiten. Tegelijk blijft de gemeenteraad verantwoordelijk voor zorgvuldige afwegingen en besluitvorming. Participatie is breder dan alleen een referendum."
+        },
+        "127505": {
+          "position": "disagree",
+          "explanation": "De VVD ziet kansen voor nevenactiviteiten bij agrarische bedrijven, maar niet zonder voorwaarden. Ruimte voor ondernemerschap vraagt om maatwerk, passend binnen het landschap, de omgeving en geldende regels. ‘Altijd toestaan’ past daar niet bij."
+        },
+        "127508": {
+          "position": "agree",
+          "explanation": "De VVD vindt dat werkgevers verantwoordelijk zijn voor goede huisvesting van arbeidsmigranten. Dat voorkomt extra druk op woonwijken en zorgt voor duidelijke afspraken, toezicht en kwaliteit."
+        },
+        "127510": {
+          "position": "agree",
+          "explanation": "De VVD vindt dat houtstook toegestaan moet blijven. Overlast en gezondheidsklachten moeten worden aangepakt, maar een algemeen verbod gaat te ver. Voorlichting en handhaving bij overlast zijn effectiever."
+        },
+        "127512": {
+          "position": "neither",
+          "explanation": "De VVD staat open voor alternatieven voor consumentenvuurwerk, maar een verplichte gemeentelijke vuurwerkshow is geen vanzelfsprekendheid. De keuze hangt af van kosten, veiligheid en draagvlak onder inwoners."
+        },
+        "127513": {
+          "position": "disagree",
+          "explanation": "De VVD wil afval goed en netjes inzamelen, maar gratis ophalen aan huis leidt tot hogere kosten voor iedereen. Afvalscheiding en het gebruik van de milieustraat hebben de voorkeur, gecombineerd met toezicht en handhaving tegen dumpingen."
+        },
+        "127514": {
+          "position": "disagree",
+          "explanation": "De VVD wil ruimte voor evenementen en levendigheid in Zaltbommel. Overlast moet worden beperkt, maar strengere algemene normen zijn niet nodig. Goede afspraken, maatwerk en handhaving zijn effectiever."
+        },
+        "127519": {
+          "position": "disagree",
+          "explanation": "De VVD vindt cultuur en muziek belangrijk, maar is tegen een generieke subsidie voor ieder kind. De gemeente kan muziekonderwijs stimuleren via scholen en gerichte projecten. Keuzevrijheid en doelmatige inzet van middelen staan voorop."
+        },
+        "127523": {
+          "position": "agree",
+          "explanation": "De VVD zet cameratoezicht in waar dat bijdraagt aan veiligheid en het voorkomen van criminaliteit. Het is een effectief middel naast politie en handhaving, met respect voor privacy."
+        },
+        "127528": {
+          "position": "agree",
+          "explanation": "De VVD wil leegstand tegengaan en bestaande woonruimte beter benutten. Permanent wonen in vakantiewoningen kan helpen bij de woningnood, mits dit goed wordt gereguleerd en past bij de omgeving."
+        },
+        "127529": {
+          "position": "disagree",
+          "explanation": "De VVD wil het landschap beschermen, maar sluit uitbreiding aan de randen van dorpen en wijken niet uit. Soms is bouwen buiten de bestaande grenzen nodig om voldoende en passende woningen te realiseren. Dat vraagt om maatwerk, niet om een verbod."
+        },
+        "127530": {
+          "position": "agree",
+          "explanation": "De VVD vindt dat wie kan meedoen, ook meedoet. Een tegenprestatie vergroot eigenwaarde, houdt mensen actief en versterkt de samenleving. Dit moet passend zijn bij iemands mogelijkheden en nooit leiden tot verdringing van regulier werk."
+        },
+        "127531": {
+          "position": "disagree",
+          "explanation": "De VVD wil dat gemeentelijke lasten betaalbaar blijven voor iedereen. Voor inwoners met een laag inkomen is kwijtschelding soms noodzakelijk om problemen te voorkomen. Ondersteuning moet gericht zijn op wie het echt nodig heeft."
+        },
+        "127532": {
+          "position": "neither",
+          "explanation": "De VVD wil inwoners helpen die het echt nodig hebben. Het verhogen van inkomensgrenzen kan schrijnende situaties voorkomen, maar vraagt zorgvuldigheid. Hulp moet gericht blijven en werken moet lonen."
+        },
+        "127534": {
+          "position": "agree",
+          "explanation": "De VVD wil voldoende laadmogelijkheden voor elektrische auto’s waar de vraag toeneemt. Uitbreiding van laadplekken is logisch als de behoefte er is, met oog voor parkeerdruk en bereikbaarheid."
+        },
+        "127535": {
+          "position": "agree",
+          "explanation": "De VVD wil veilige straten, vooral in woonwijken. Een maximumsnelheid van 30 km/u kan bijdragen aan verkeersveiligheid waar dat nodig is. De inrichting van de straat blijft leidend; maatwerk per locatie."
+        },
+        "127536": {
+          "position": "disagree",
+          "explanation": "De VVD staat voor keuzevrijheid in de zorg, maar ‘altijd kunnen kiezen’ is niet realistisch. Zorg moet vooral beschikbaar, betaalbaar en van goede kwaliteit zijn. Persoonlijke wensen wegen mee waar dat verantwoord kan."
+        },
+        "127539": {
+          "position": "agree",
+          "explanation": "De VVD vindt hondenbelasting een verouderde en oneerlijke belasting. Het bezit van een hond mag geen extra straf zijn. Afschaffing is mogelijk als dit financieel verantwoord is en kosten transparant worden opgevangen."
+        },
+        "127542": {
+          "position": "disagree",
+          "explanation": "De VVD vindt dat sociale huurwoningen eerlijk moeten worden verdeeld. Statushouders hebben recht op huisvesting, maar structurele voorrang is niet uitlegbaar voor inwoners die vaak al jaren wachten. Gelijke regels en transparantie zijn nodig."
+        },
+        "127543": {
+          "position": "agree",
+          "explanation": "De VVD wil afvaldumping voorkomen en afvalscheiding stimuleren. Gratis inleveren bij de milieustraat verlaagt drempels en helpt zwerfafval verminderen, mits de kosten beheersbaar blijven voor de gemeente."
+        },
+        "127545": {
+          "position": "agree",
+          "explanation": "De VVD wil goede sportvoorzieningen in alle kernen. Als een nieuw sportpark in Brakel nodig is en wordt gedragen door verenigingen en inwoners, wil de VVD dit mogelijk maken binnen een verantwoord financieel kader."
+        },
+        "127547": {
+          "position": "disagree",
+          "explanation": "De VVD stelt veiligheid en leefbaarheid voorop. Een coffeeshop trekt mogelijk extra overlast aan en past niet bij het karakter van Zaltbommel. Handhaving en openbare orde vragen al voldoende aandacht; dit risico willen wij niet vergroten."
+        },
+        "127548": {
+          "position": "disagree",
+          "explanation": "De VVD wil bouwen voor alle inkomens, maar is tegen vaste quota. De juiste woningmix verschilt per wijk en kern. Door maatwerk ontstaat doorstroming en blijven wijken leefbaar. Percentages mogen geen doel op zich worden."
+        },
+        "127551": {
+          "position": "neither",
+          "explanation": "De VVD staat open voor autoluwe maatregelen waar die werken. In 2022 pleitten wij al voor een autovrije Waterstraat in de weekenden om de horeca te versterken. Geen volledig autovrij centrum, maar maatwerk per straat en moment."
+        },
+        "127552": {
+          "position": "agree",
+          "explanation": "De VVD neemt verantwoordelijkheid voor opvang, zoals de wet van gemeenten vraagt. Maar opvang moet passen bij de schaal, draagkracht en leefbaarheid van Zaltbommel. Niet meer dan verplicht, met regie bij de raad en oog voor draagvlak."
+        },
+        "127553": {
+          "position": "neither",
+          "explanation": "De VVD staat open voor verdichting waar dat past bij de omgeving. Kleinschalige hoogbouw kan helpen bij de woningopgave, maar is geen doel op zich. Per locatie moet worden gekeken wat ruimtelijk en maatschappelijk verantwoord is."
+        },
+        "127554": {
+          "position": "disagree",
+          "explanation": "De VVD wil geen harde groeigrens. Zaltbommel moet gecontroleerd kunnen groeien, passend bij voorzieningen, bereikbaarheid en leefbaarheid. Een vast plafond is te star en doet geen recht aan toekomstige woningbehoefte."
+        },
+        "127555": {
+          "position": "neither",
+          "explanation": "De VVD ziet glastuinbouw als een sterke en innovatieve sector. Vernieuwing en verduurzaming hebben prioriteit boven uitbreiding. Door herstructurering en clustering blijft de sector toekomstbestendig, met oog voor landschap en leefbaarheid."
+        },
+        "127557": {
+          "position": "agree",
+          "explanation": "De VVD wil een verzorgde en veilige openbare ruimte. Goed groenonderhoud versterkt leefbaarheid in wijken en dorpen. Verbeteren waar nodig, met slimme uitvoering en binnen een verantwoord budget, zonder automatische lastenverhoging."
+        }
+      }
+    },
+    {
+      "id": 127482,
+      "name": "GroenLinks-PvdA",
+      "fullName": "GroenLinks - Partij van de Arbeid",
+      "website": "https://zaltbommel.pvda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "127501": {
+          "position": "agree",
+          "explanation": "Het gemeentebestuur hoort een goede afspiegeling te zijn van de mensen die in onze gemeente wonen. Het is goed als er evenveel mannen als vrouwen in zitten. Dat geldt zowel voor de raad als voor het college. Geslacht mag echter niet het enige criterium zijn."
+        },
+        "127502": {
+          "position": "agree",
+          "explanation": "We willen in onze gemeente naast de mogelijkheid van referenda ervaringen opdoen met een vorm van Burgerberaad. De afstand tussen beleid en de dagelijkse praktijk moet kleiner. We willen dat veel meer mensen weer aanhaken in plaats van afhaken bij ons democratisch bestuur."
+        },
+        "127505": {
+          "position": "agree",
+          "explanation": "De landbouw moet flink duurzamer worden, maar we willen ook dat boeren geld kunnen verdienen met hun bedrijf. Een winkel met goede producten van eigen land of een mooie camping kunnen daarbij helpen. Daarom willen we deze opties graag mogelijk maken."
+        },
+        "127508": {
+          "position": "agree",
+          "explanation": "Huisvesting moet op eigen bedrijfsterrein plaatsvinden. Goede regels voor en handhaving bij de huisvesting van arbeidsmigranten blijven belangrijk om misstanden te voorkomen."
+        },
+        "127510": {
+          "position": "agree",
+          "explanation": "Wij zijn niet voor het verbieden van het gebruik. Maar de gemeente dient gebruikers wel regelmatig te wijzen op de Stookwijzer app die aangeeft wanneer - vanwege de weersomstandigheden - het zaak is geen open haard of houtkachel te gebruiken."
+        },
+        "127512": {
+          "position": "agree",
+          "explanation": "Het mooiste nieuwjaarsfeest vier je met z'n allen samen, met vuurwerkshows in de stad en dorpen die in samenwerking met de gemeente worden georganiseerd. Zo houden we het veilig en kunnen we samen genieten van een gezellige oudejaarsavond."
+        },
+        "127513": {
+          "position": "agree",
+          "explanation": "Grofvuil, oude matrassen en andere rommel op straat zijn vervelend, onveilig en ongezond. Naast de mogelijkheid deze spullen naar de milieustraat te brengen, is het goed wanneer het mogelijk is grofvuil gratis te laten ophalen."
+        },
+        "127514": {
+          "position": "neither",
+          "explanation": "Het aanbod aan evenementen mag in Zaltbommel worden uitgebreid. Dat kan tot geluidsoverlast leiden. Door strikte afspraken te maken met de organisatoren en actief toezicht door boa´s en politie wordt dit tot een minimum beperkt. De (geluids)normen dienen in ieder geval strikt te worden nageleefd."
+        },
+        "127519": {
+          "position": "agree",
+          "explanation": "Als kind sta je onder druk van verslavende sociale media tot prestatiedruk op school. Muziek is de perfecte uitlaatklep. Wij willen dat muziekles niet alleen toegankelijk is voor kinderen met rijke ouders. Waar nodig springt de gemeente bij. Zo bieden we ieder kind gelijke kansen."
+        },
+        "127523": {
+          "position": "neither",
+          "explanation": "We zetten in op preventie: problemen aanpakken vóórdat ze uitgroeien tot veiligheidsrisico’s. Dat vraagt om betrokken inwoners, actief buurtwerk, zichtbare wijkagenten en buurtboa’s. Waar sprake is van structurele overlast, kunnen camera’s worden ingezet. Wel rekening houdend met privacywetgeving."
+        },
+        "127528": {
+          "position": "agree",
+          "explanation": "Vakantiewoningen zijn geen permanente oplossing voor het woningtekort. Maar zo lang de nood hoog is, kunnen sommige mensen er wel terecht. Het is belangrijk dat ze de vakantiewoning als vast adres kunnen gebruiken zolang het nodig is."
+        },
+        "127529": {
+          "position": "disagree",
+          "explanation": "Wij willen vooral bouwen in de bestaande wijken en dorpskernen. Het groene buitengebied ontzien we zoveel mogelijk. Nieuwe wijken komen bijvoorbeeld op verouderde industrie- en glastuinbouwterreinen of op lege plekken binnen de gemeentelijke bebouwing."
+        },
+        "127530": {
+          "position": "neither",
+          "explanation": "Mensen zitten niet in de bijstand omdat ze geen zin hebben om te werken. Zij hebben behoefte aan een stabiele basis, een betaalbare woning en vertrouwen vanuit de gemeente. Met extra eisen zorg je juist voor meer onzekerheid. Motiveren tot maatschappelijk zinvol werk is natuurlijk wel prima."
+        },
+        "127531": {
+          "position": "disagree",
+          "explanation": "We voeren een gemeentelijk armoede-offensief: we verhogen de inkomensondersteuning. Hierbij hebben we extra aandacht voor gezinnen met kinderen en voor inwoners met een stapeling van problemen."
+        },
+        "127532": {
+          "position": "agree",
+          "explanation": "We voeren een gemeentelijk armoede-offensief: we verhogen de inkomensondersteuning. Hierbij hebben we extra aandacht voor gezinnen met kinderen en voor inwoners met een stapeling van problemen."
+        },
+        "127534": {
+          "position": "agree",
+          "explanation": "Elektrisch rijden zorgt voor minder uitstoot in onze dorpen en steden. Daarom willen we meer laadpalen plaatsen — ook voor mensen zonder eigen oprit. Zo kan iedereen dichtbij huis of op straat zijn auto laden."
+        },
+        "127535": {
+          "position": "agree",
+          "explanation": "Binnen de bebouwde kom mag maximaal 30 km per uur worden gereden. De cijfers laten heel duidelijk zien: met een lagere maximumsnelheid wordt het verkeer véél veiliger. Voor fietsende kinderen en ouderen die slecht ter been zijn is dit een wereld van verschil."
+        },
+        "127536": {
+          "position": "disagree",
+          "explanation": "Iedereen heeft recht op goede zorg. Religie en levensovertuiging mogen daar geen rol bij spelen."
+        },
+        "127539": {
+          "position": "disagree",
+          "explanation": "Het lijkt ons redelijker als pas vanaf een tweede hond wordt belast. Maar administratief is dat erg lastig. Daarom kunnen we ons vinden in de huidige regeling."
+        },
+        "127542": {
+          "position": "agree",
+          "explanation": "Zaltbommel moet zijn eerlijke aandeel leveren bij de opvang van vluchtelingen en statushouders, samen met andere gemeenten. Statushouders zijn niet de enigen die voorrang krijgen; ook bijvoorbeeld bij zorggerelateerde inwoners en bij scheidingen kan voorrang nodig zijn."
+        },
+        "127543": {
+          "position": "agree",
+          "explanation": "Een groot deel van het in te leveren afval bij de milieustraat is al gratis!"
+        },
+        "127545": {
+          "position": "agree",
+          "explanation": "Wij vragen speciale aandacht voor lokale sportverenigingen en hun accommodaties, zoals de voetbalvereniging in Brakel (nu de Mulitfunctionel accommodatie in Brakel niet doorgaat) en de velden van de voetbalvereniging in Gameren."
+        },
+        "127547": {
+          "position": "disagree",
+          "explanation": "Zaltbommel kent al 25 jaar een zogenaamd nuloptiebeleid en staat daarmee vestiging van een coffeeshop niet toe. Wij zien op dit moment geen aanleiding om dit beleid te wijzigen."
+        },
+        "127548": {
+          "position": "agree",
+          "explanation": "Wij zetten in op minimaal 40% sociale huur in de nieuwbouw. Ook in de dure wijken. We bouwen meer sociale huurwoningen door de woningcorporaties in positie te brengen en duidelijke eisen aan projectontwikkelaars te stellen. Zo wordt de zoektijd voor een sociale huurwoning weer acceptabel."
+        },
+        "127551": {
+          "position": "neither",
+          "explanation": "Niet alleen om de veiligheid, maar ook om het voor het  winkelend en recreërend publiek prettiger te maken kiezen we voor een autoluwe binnenstad van Zaltbommel. "
+        },
+        "127552": {
+          "position": "disagree",
+          "explanation": "Zaltbommel moet zijn eerlijke aandeel leveren bij de opvang van vluchtelingen en statushouders, samen met andere gemeenten. Deze mensen moeten snel mee kunnen doen in de samenleving, met taallessen en werk(ervaringsplaatsen). De gemeente moet hierbij samenwerken met scholen en bedrijven."
+        },
+        "127553": {
+          "position": "disagree",
+          "explanation": "Met woningbouwcorporaties en ontwikkelaars moeten harde afspraken worden gemaakt over soort nieuwbouw: kleiner en vooral bestemd voor starters en ouderen. Daarbij is hoogbouw niet uitgesloten, mits passend bij de schaal van de betreffende wijk. Vijf verdiepingen vinden we daarbij een reële grens."
+        },
+        "127554": {
+          "position": "neither",
+          "explanation": "Zaltbommel groeit naar verwachting naar ongeveer 35.850 inwoners in 2050. Voor GroenLinks-PvdA is er geen aanleiding om nu een grens op te leggen voor over 25 jaar. Wel is het zaak dat passende woningbouw wordt gerealiseerd voor alle inwoners van onze gemeente."
+        },
+        "127555": {
+          "position": "disagree",
+          "explanation": "De gemeente moet de groei van intensieve veehouderij en glastuinbouw stoppen. Oude vergunningen die niet worden gebruikt, worden ingetrokken. Nieuwe uitbreidingen mogen alleen als ze bijdragen aan duurzaamheid. Bedrijven die stoppen, kunnen hulp krijgen bij het afbreken van hun stallen of kassen."
+        },
+        "127557": {
+          "position": "neither",
+          "explanation": "Veel inwoners willen groen waar bijen en vlinders van profiteren, maar het moet er ook netjes uitzien. Als bewoners samen met de gemeente aan de slag gaan wordt het openbaar groen afwisselender én mooier. Het aanbestedingstraject voor het openbaar groenonderhoud verdient aandacht."
+        }
+      }
+    },
+    {
+      "id": 127480,
+      "name": "ChristenUnie",
+      "fullName": "ChristenUnie",
+      "website": "https://zaltbommel.christenunie.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "127501": {
+          "position": "disagree",
+          "explanation": "Voor de ChristenUnie is het belangrijk dat iedereen zich vertegenwoordigd voelt in het college. We vinden diversiteit waardevol, maar het moet vooral gaan om geschiktheid en betrokkenheid. Een verplichte gelijke verdeling tussen mannen en vrouwen kan te strak zijn."
+        },
+        "127502": {
+          "position": "disagree",
+          "explanation": "De ChristenUnie wil inwoners actief betrekken bij belangrijke besluiten, maar referenda passen niet bij onze visie. Ze maken onderwerpen vaak te zwart-wit en leiden tot polarisatie. Wij kiezen voor andere vormen van participatie, zoals inspraakavonden."
+        },
+        "127505": {
+          "position": "disagree",
+          "explanation": "De ChristenUnie ziet kansen voor boeren om hun bedrijf te verbreden, omdat dit de lokale economie en gemeenschap kan versterken. Tegelijk moet er oog zijn voor leefbaarheid en praktische haalbaarheid. Daarom beoordelen we dit per situatie en niet altijd zonder voorwaarden."
+        },
+        "127508": {
+          "position": "neither",
+          "explanation": "De ChristenUnie vindt goede huisvesting voor arbeidsmigranten belangrijk. Huisvesting op het eigen terrein van werkgevers kan een goede oplossing zijn, maar werknemers moeten altijd keuzevrijheid hebben en de gemeente moet toezien dat er passende en menswaardige huisvesting is."
+        },
+        "127510": {
+          "position": "agree",
+          "explanation": "De ChristenUnie vindt dat dit toegestaan moet blijven. Het hoort bij de wooncultuur en geeft warmte en gezelligheid. Tegelijkertijd vinden wij de energietransitie belangrijk en willen we dat inwoners gestimuleerd worden om duurzamere alternatieven te kiezen waar dat mogelijk is."
+        },
+        "127512": {
+          "position": "disagree",
+          "explanation": "De ChristenUnie vindt een centrale vuurwerkshow in Zaltbommel niet haalbaar vanwege de vele kernen. Wel zien wij kansen voor kleinere shows per kern, georganiseerd vanuit de lokale gemeenschap. Zo blijft het feestelijk, veilig en verbonden, zonder de overlast van particulier vuurwerk."
+        },
+        "127513": {
+          "position": "disagree",
+          "explanation": "De ChristenUnie wil illegale dumping van grofvuil voorkomen en de gemeente schoon en leefbaar houden. Gratis ophalen aan huis gaat echter te ver. We kiezen voor toegankelijke en betaalbare voorzieningen, zodat inwoners hun grofvuil netjes kunnen afvoeren zonder overlast te veroorzaken."
+        },
+        "127514": {
+          "position": "agree",
+          "explanation": "De ChristenUnie vindt dat geluidsnormen bij festivals en feesten strenger moeten worden. Overmatige herrie tast kan schadelijk zijn voor gezondheid, denk bijvoorbeeld aan gehoorschade, en natuur. We kiezen voor feestelijke evenementen die passen bij de omgeving, met respect voor bewoners."
+        },
+        "127519": {
+          "position": "neither",
+          "explanation": "De ChristenUnie vindt muziekonderwijs belangrijk voor de ontwikkeling van kinderen. Tegelijkertijd is het niet haalbaar dat de gemeente voor alle kinderen muziekles subsidieert. We kiezen voor ondersteuning waar nodig en samenwerking met scholen en verenigingen om muziek toegankelijk te maken."
+        },
+        "127523": {
+          "position": "agree",
+          "explanation": "De ChristenUnie vindt dat er in Zaltbommel meer cameratoezicht moet komen. Dit kan bijdragen aan veiligheid en het voorkomen van overlast en criminaliteit. Tegelijk willen we zorgvuldig omgaan met privacy en kiezen we voor inzet van camera’s waar dat echt nodig en effectief is."
+        },
+        "127528": {
+          "position": "neither",
+          "explanation": "De ChristenUnie vindt dat vakantiewoningen hun eigen bestemming hebben en niet zomaar als vaste woning gebruikt moeten worden. Tegelijk zien we dat er woningnood is. Daarom willen we maatwerk: alleen toestaan waar het verantwoord is en waar dit echt bijdraagt aan de woonopgave."
+        },
+        "127529": {
+          "position": "neither",
+          "explanation": "De ChristenUnie wil zorgvuldig omgaan met woningbouw. Nieuwbouw buiten dorpsgrenzen tast landschap en leefbaarheid aan, maar er is ook woningnood. Daarom kiezen we voor maatwerk: vooral bouwen binnen de dorpen, maar beperkte uitbreiding kan als dat echt nodig en verantwoord is."
+        },
+        "127530": {
+          "position": "neither",
+          "explanation": "De ChristenUnie vindt dat mensen met een bijstandsuitkering zoveel mogelijk moeten meedoen in de samenleving. Maatschappelijk zinvol werk kan daarbij helpen, maar het mag geen verplicht ruilmiddel zijn. We kiezen voor ondersteuning en stimulans, zodat mensen naar vermogen kunnen bijdragen."
+        },
+        "127531": {
+          "position": "disagree",
+          "explanation": "De ChristenUnie vindt het belangrijk dat inwoners met een laag inkomen niet in financiële problemen komen door gemeentelijke belastingen. Het kwijtschelden helpt kwetsbare huishoudens om rond te komen en voorkomt schulden. Stoppen zou juist leiden tot meer armoede en zorgen."
+        },
+        "127532": {
+          "position": "agree",
+          "explanation": "De ChristenUnie vindt dat de inkomensgrens om hulp te krijgen bij armoede moet worden verhoogd. Veel mensen met een bescheiden inkomen vallen nu buiten de boot, terwijl zij wel moeite hebben om rond te komen. Door de grens te verruimen krijgen meer inwoners passende steun."
+        },
+        "127534": {
+          "position": "agree",
+          "explanation": "De ChristenUnie vindt dat de gemeente meer parkeerplaatsen moet aanwijzen als oplaadplekken voor elektrische auto’s. Dit stimuleert duurzaam vervoer, maakt elektrisch rijden toegankelijker en draagt bij aan een schonere leefomgeving. Zo bouwen we samen aan een toekomstbestendige mobiliteit."
+        },
+        "127535": {
+          "position": "agree",
+          "explanation": "De ChristenUnie vindt dat de maximumsnelheid binnen de bebouwde kom naar 30 km/u moet. Dit vergroot de verkeersveiligheid, vooral voor fietsers en voetgangers, en vermindert geluidsoverlast en uitstoot. Zo maken we de leefomgeving veiliger en gezonder voor alle inwoners."
+        },
+        "127536": {
+          "position": "neither",
+          "explanation": "De ChristenUnie vindt dat mensen die zorg nodig hebben zoveel mogelijk moeten kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of levensovertuiging. Maar in tijden van schaarste is dit niet altijd realistisch en moet maatwerk worden geleverd."
+        },
+        "127539": {
+          "position": "disagree",
+          "explanation": "De ChristenUnie vindt dat de hondenbelasting niet moet worden afgeschaft. Deze belasting draagt bij aan de kosten voor het schoonhouden en onderhouden van de openbare ruimte. Het is een manier om eerlijk bij te dragen aan voorzieningen die door alle inwoners worden gebruikt."
+        },
+        "127542": {
+          "position": "agree",
+          "explanation": "De ChristenUnie vindt dat vluchtelingen met een verblijfsvergunning voorrang moeten blijven krijgen op een sociale huurwoning. Zij hebben recht op een veilige plek om hun leven opnieuw op te bouwen. Tegelijk blijft het belangrijk dat er voldoende woningen beschikbaar zijn voor alle woningzoekenden."
+        },
+        "127543": {
+          "position": "neither",
+          "explanation": "De ChristenUnie vindt dat de huidige situatie rondom het inleveren van afval bij de milieustraat goed is. Het meeste afval kan al gratis worden ingeleverd. Zo wordt verantwoord afvalscheiden gestimuleerd zonder dat de gemeente onnodig extra kosten hoeft te maken."
+        },
+        "127545": {
+          "position": "neither",
+          "explanation": "De ChristenUnie staat in principe positief tegenover een nieuw sportpark of MFA in Brakel, maar alleen binnen duidelijke kaders. Het moet financieel haalbaar zijn, passen bij de behoefte van verenigingen en inwoners, en zorgvuldig worden afgewogen met andere investeringen."
+        },
+        "127547": {
+          "position": "disagree",
+          "explanation": "Een coffeeshop kan leiden tot meer overlast, gezondheidsrisico’s en druk op de leefomgeving. We kiezen voor een veilige en gezonde gemeenschap, waarin preventie en ondersteuning centraal staan in plaats van het normaliseren van drugsgebruik."
+        },
+        "127548": {
+          "position": "neither",
+          "explanation": "Het percentage sociale huurwoningen hoeft niet omhoog moet naar 35%, wij houden vast aan de huidige norm van 30%. Dat is een realistische ondergrens die zorgt voor voldoende betaalbare woningen, zonder dat projecten financieel onuitvoerbaar worden. Zo blijft er ruimte voor een gezonde mix."
+        },
+        "127551": {
+          "position": "disagree",
+          "explanation": "Een volledig autovrij centrum past niet bij de bereikbaarheid die bewoners en ondernemers nodig hebben. Wel staat de ChristenUnie open voor een autoluw centrum als dat helpt om de leefbaarheid en duurzaamheid te verbeteren, zolang het praktisch uitvoerbaar blijft."
+        },
+        "127552": {
+          "position": "agree",
+          "explanation": "De ChristenUnie staat voor een barmhartige en rechtvaardige opvang. We willen doen wat nodig is om mensen in nood te helpen, maar wel op een manier die past bij de draagkracht van onze gemeente: kleinschalig. Hierbij houden we ons aan de wettelijke taakstelling, zoals vastgelegd in de Spreidingswet."
+        },
+        "127553": {
+          "position": "disagree",
+          "explanation": "De ChristenUnie ziet de behoefte aan woningen, maar hoge flats passen niet direct bij het karakter en van onze kernen en komen de leefbaarheid niet ten goede. We staan open voor slimme verdichting waar dat verantwoord is, maar kiezen niet automatisch voor hoogbouw boven vijf lagen."
+        },
+        "127554": {
+          "position": "neither",
+          "explanation": "Groei is nodig om betaalbare woningen, voorzieningen en leefbaarheid op peil te houden. Tegelijk willen we dat groei past bij de schaal en draagkracht van onze kernen. Een harde grens van 35.000 inwoners is echter niet passend; we sturen liever op zorgvuldige, evenwichtige groei."
+        },
+        "127555": {
+          "position": "disagree",
+          "explanation": "De ChristenUnie ziet het belang van glastuinbouw, maar uitbreiding van kassen vraagt om zorgvuldige afweging. Nieuwe kassen moeten passen bij het landschap, de omgeving en de beschikbare ruimte. Daarom kiezen we niet voor méér ruimte, maar voor ontwikkeling binnen duidelijke en duurzame kaders."
+        },
+        "127557": {
+          "position": "agree",
+          "explanation": "De ChristenUnie hecht sterk aan een schone, groene en leefbare omgeving. Goed onderhoud van openbaar groen voorkomt achteruitgang, versterkt biodiversiteit en draagt bij aan een prettige en veilige leefruimte voor inwoners."
+        }
+      }
+    },
+    {
+      "id": 127483,
+      "name": "D66",
+      "fullName": "D66",
+      "website": "https://d66.nl/bommelerwaard/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "127501": {
+          "position": "agree",
+          "explanation": "D66 vindt dat besturen en raden een afspiegeling moeten zijn van de samenleving. Dat houdt in dat er aandacht is voor een goede balans tussen mannen en vrouwen."
+        },
+        "127502": {
+          "position": "agree",
+          "explanation": "D66 ziet lokale referenda als een waardevol instrument om inwoners meer invloed te geven, vooral adviserend en gekoppeld aan burgerparticipatie."
+        },
+        "127505": {
+          "position": "disagree",
+          "explanation": "D66 is over het algemeen positief over het idee dat boeren extra activiteiten kunnen ontplooien, zoals een winkel of een camping, mits dit duurzaam en zorgvuldig gebeurt. Kortom: ja, toestaan, maar niet “altijd” zonder voorwaarden. Het moet duurzaam, kleinschalig en in overleg gebeuren."
+        },
+        "127508": {
+          "position": "disagree",
+          "explanation": "Voor statushouders en arbeidsmigranten realiseren we fatsoenlijke, zelfstandige huisvesting die niet aan werkgevers is gekoppeld."
+        },
+        "127510": {
+          "position": "neither",
+          "explanation": "D66 Zaltbommel zal het gebruik van open haarden en houtkachels niet zonder meer willen verbieden, maar stelt leefbaarheid en gezondheid voorop. Bij overlast of gezondheidsproblemen kan de gemeente strengere regels of beperkingen invoeren."
+        },
+        "127512": {
+          "position": "disagree",
+          "explanation": "In ons verkiezingsprogramma staat dat D66 Zaltbommel georganiseerde vuurwerkshows op veilige locaties wil stimuleren, zodat de jaarwisseling rustiger en veiliger wordt voor mens en dier. Dit hoeft dus niet per se door de gemeente georganiseerd te worden. Kan ook door verenigingen, dorpshuizen, etc."
+        },
+        "127513": {
+          "position": "agree",
+          "explanation": "ONEENS, graag correctie toepassen! D66 Zaltbommel zal gratis grofvuil ophalen niet actief stimuleren, maar kiest voor beleid dat afval vermindert en hergebruik bevordert."
+        },
+        "127514": {
+          "position": "disagree",
+          "explanation": "D66 Zaltbommel kiest voor een balans: evenementen zijn belangrijk, maar mogen niet tot overlast leiden. Strengere geluidsnormen kunnen lokaal worden overwogen als de leefbaarheid in het geding is, maar er is geen standaard pleidooi voor strengere regels."
+        },
+        "127519": {
+          "position": "agree",
+          "explanation": "D66 Zaltbommel is voorstander van gemeentelijke subsidie zodat alle basisschoolkinderen muziekles kunnen volgen, als onderdeel van gelijke kansen en brede talentontwikkeling."
+        },
+        "127523": {
+          "position": "disagree",
+          "explanation": "D66 Zaltbommel staat open voor cameratoezicht als het bijdraagt aan veiligheid en het aanpakken van overlast, maar wil dit alleen inzetten waar het echt nodig is en met respect voor privacy. Maar omdat het volgens de stelling MOET, zijn we het oneens."
+        },
+        "127528": {
+          "position": "disagree",
+          "explanation": "Wij zijn terughoudend met het toestaan van vakantiewoningen als vast woonadres. We kiezen voor voldoende betaalbare woningen binnen de kernen en willen voorkomen dat recreatiewoningen structureel als reguliere woonruimte worden gebruikt."
+        },
+        "127529": {
+          "position": "disagree",
+          "explanation": "EENS, graag correctie toepassen! D66 Zaltbommel wil nieuwbouw zoveel mogelijk binnen de bestaande dorpsgrenzen houden en uitbreiding naar buiten tegengaan, om het landschap en de identiteit van de dorpen te beschermen."
+        },
+        "127530": {
+          "position": "disagree",
+          "explanation": "D66 Zaltbommel stimuleert maatschappelijke participatie, maar wil geen verplichte tegenprestatie voor bijstand. We kiezen voor maatwerk en ondersteuning, zodat iedereen op eigen kracht kan meedoen."
+        },
+        "127531": {
+          "position": "disagree",
+          "explanation": "Wij willen niet stoppen met het kwijtschelden van gemeentelijke belastingen voor inwoners met een laag inkomen. We vinden het belangrijk dat iedereen kan meedoen en willen financiële drempels voor kwetsbare groepen juist verlagen."
+        },
+        "127532": {
+          "position": "disagree",
+          "explanation": "D66 Zaltbommel is voorstander van het verhogen van de inkomensgrens, zodat meer inwoners in aanmerking komen voor hulp bij armoede en niemand buiten de boot valt."
+        },
+        "127534": {
+          "position": "agree",
+          "explanation": "Wij willen meer parkeerplaatsen aanwijzen als oplaadplekken voor elektrische auto's. Zo stimuleren we elektrisch rijden en maken we de overstap naar duurzame mobiliteit makkelijker voor inwoners."
+        },
+        "127535": {
+          "position": "agree",
+          "explanation": "Wij zijn voorstander van het verlagen van de maximumsnelheid naar 30 km/u waar dit de verkeersveiligheid en leefbaarheid verbetert, vooral in woonwijken en bij scholen. We willen maatwerk toepassen en samen met inwoners en experts bepalen waar deze maatregel het meeste effect heeft."
+        },
+        "127536": {
+          "position": "disagree",
+          "explanation": "EENS, graag correctie toepassen. Wij vinden dat mensen die zorg nodig hebben altijd moeten kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of levensovertuiging. Zo zorgen we voor passende, respectvolle en inclusieve zorg voor iedereen."
+        },
+        "127539": {
+          "position": "disagree",
+          "explanation": "De vervuiler betaald in dit geval."
+        },
+        "127542": {
+          "position": "disagree",
+          "explanation": "EENS, graag correctie toepassen. Wij vinden dat vluchtelingen met een verblijfsvergunning voorrang moeten blijven krijgen op een sociale huurwoning, zodat zij snel kunnen integreren en een nieuw leven kunnen opbouwen."
+        },
+        "127543": {
+          "position": "agree",
+          "explanation": "Wij willen afvalinzameling zo toegankelijk mogelijk maken en stimuleren hergebruik en recycling. Gratis inleveren bij de milieustraat kan bijdragen aan minder zwerfafval."
+        },
+        "127545": {
+          "position": "agree",
+          "explanation": "Met verenigingen blijven we in gesprek over hun toekomst. Zoals met BZC’14, die al veel te lang wacht op een oplossing. We willen zo snel mogelijk een adequate oplossing: een sportpark."
+        },
+        "127547": {
+          "position": "agree",
+          "explanation": "Wij staan open voor het toestaan van een coffeeshop, mits dit gebeurt onder strikte voorwaarden en met oog voor volksgezondheid, veiligheid en leefbaarheid in de gemeente."
+        },
+        "127548": {
+          "position": "agree",
+          "explanation": "We hanteren een harde norm van 40% sociale huur en zorgen dat betaalbare koop- en middenhuurwoningen onderdeel zijn van elke wijk."
+        },
+        "127551": {
+          "position": "agree",
+          "explanation": "Wij willen het centrum van Zaltbommel autoluw maken, met meer ruimte voor voetgangers en leefbaarheid. Wat ons betreft gaat het om de Waterstraat en (een deel van) de Markt, maar we kiezen niet voor een volledig autovrij centrum."
+        },
+        "127552": {
+          "position": "disagree",
+          "explanation": "We nemen actief onze verantwoordelijkheid voor een eerlijke en menselijke opvang in Zaltbommel. Uit diverse onderzoeken blijkt dat een locatie van 300 asielzoekers de beste resultaten oplevert voor asielzoekers, inwoners en gemeente. We kiezen voor de beste oplossing: 300 asielzoekers."
+        },
+        "127553": {
+          "position": "agree",
+          "explanation": "We willen toewerken naar een structurele toename van betaalbare woningen, onder meer door splitsen en optoppen eenvoudiger te maken. Daarnaast staan we hoogbouw tot acht verdiepingen toe waar dat ruimtelijk past."
+        },
+        "127554": {
+          "position": "disagree",
+          "explanation": "Wij willen dat Zaltbommel duurzaam en verantwoord groeit, afgestemd op de behoeften van inwoners en de draagkracht van de gemeente. Een harde grens van 35.000 inwoners stellen wij niet voor."
+        },
+        "127555": {
+          "position": "disagree",
+          "explanation": "Wij zijn tegen ongebreidelde uitbreiding van kassen. We willen alleen meer ruimte geven aan nieuwe kassen als dit duurzaam gebeurt en past binnen de ruimtelijke en milieukaders van onze gemeente. Balans met natuur en leefbaarheid staat voorop."
+        },
+        "127557": {
+          "position": "agree",
+          "explanation": "Wij willen investeren in het openbaar groen en zijn bereid daar meer geld voor uit te trekken als dat nodig is voor een aantrekkelijke, gezonde en klimaatbestendige leefomgeving."
+        }
+      }
+    },
+    {
+      "id": 127481,
+      "name": "CDA",
+      "fullName": "Christen-Democratisch Appèl",
+      "website": "https://www.cda.nl/gelderland/zaltbommel/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "127501": {
+          "position": "agree",
+          "explanation": "wij staan voor gemeenschapszin en gedeelde verantwoordelijkheid en dat moet dan ook in uitdrukking komen in de verdeling man en vrouw"
+        },
+        "127502": {
+          "position": "disagree",
+          "explanation": "bij belangrijke beslissingen spelen veel invalshoeken en belangen en dat vertrouwen we toe aan de gekozen volksvertegenwoordigers"
+        },
+        "127505": {
+          "position": "disagree",
+          "explanation": "niet altijd alleen als dat binnen de gestelde kaders kan."
+        },
+        "127508": {
+          "position": "neither",
+          "explanation": "gedeelde verantwoordelijkheid"
+        },
+        "127510": {
+          "position": "neither",
+          "explanation": "langzaam afbouwen"
+        },
+        "127512": {
+          "position": "agree",
+          "explanation": "dat voorkomt andere incidenten"
+        },
+        "127513": {
+          "position": "neither",
+          "explanation": "gedeelde verantwoordelijkheid"
+        },
+        "127514": {
+          "position": "disagree",
+          "explanation": "aantal dagen gelimiteerd maar we moeten van elkaar iets kunnen verdragen"
+        },
+        "127519": {
+          "position": "agree",
+          "explanation": "cultuur bevorderen"
+        },
+        "127523": {
+          "position": "agree",
+          "explanation": "veiligheid bevorderen in onveilige gebieden"
+        },
+        "127528": {
+          "position": "neither",
+          "explanation": "Dat hangt van veel zaken af. Wat waren de afspraken welke voorzieningen zijn daar en ligt het b.v. in een kwetsbaar gebied."
+        },
+        "127529": {
+          "position": "disagree",
+          "explanation": "dat kan niet altijd. bij het zoeken van nieuwe locaties kunnen die grenzen overschreden worden"
+        },
+        "127530": {
+          "position": "agree",
+          "explanation": "gedeelde verantwoordelijkheid"
+        },
+        "127531": {
+          "position": "disagree",
+          "explanation": "kwetsbaren moeten we helpen"
+        },
+        "127532": {
+          "position": "disagree",
+          "explanation": "kwetsbaren moeten we helpen"
+        },
+        "127534": {
+          "position": "agree",
+          "explanation": "duurzaamheid bevorderen en mogelijk maken"
+        },
+        "127535": {
+          "position": "agree",
+          "explanation": "veiligheid"
+        },
+        "127536": {
+          "position": "disagree",
+          "explanation": "zorg is een publieke zaak"
+        },
+        "127539": {
+          "position": "agree",
+          "explanation": "partijstandpunt"
+        },
+        "127542": {
+          "position": "agree",
+          "explanation": "anders loopt de keten vast en blijven vluchtelingen op een verkeerde plek zitten."
+        },
+        "127543": {
+          "position": "disagree",
+          "explanation": "gedeelde verantwoordelijkheid"
+        },
+        "127545": {
+          "position": "agree",
+          "explanation": "overleggen met betrokkenen. Verenigingen ondersteunen Was al toegezegd"
+        },
+        "127547": {
+          "position": "disagree",
+          "explanation": "partijstandpunt"
+        },
+        "127548": {
+          "position": "agree",
+          "explanation": "te weinig om aan de vraag te voldoen"
+        },
+        "127551": {
+          "position": "agree",
+          "explanation": "veiligheid en uitstraling worden daarmee opgelost. aantrekkelijkheid bevorderen"
+        },
+        "127552": {
+          "position": "neither",
+          "explanation": "kan eventueel meer als daar goede afspraken en voorwaarden bij horen"
+        },
+        "127553": {
+          "position": "disagree",
+          "explanation": "blijft een plattelandsgemeente waar geen flats in passen"
+        },
+        "127554": {
+          "position": "disagree",
+          "explanation": "hangt af van de beschikbare woningen en uitbreidingsplannen"
+        },
+        "127555": {
+          "position": "disagree",
+          "explanation": "alleen hulp bij innovaties en verduurzaming"
+        },
+        "127557": {
+          "position": "disagree",
+          "explanation": "gedeelde verantwoordelijkheid"
+        }
+      }
+    },
+    {
+      "id": 127485,
+      "name": "BVNL",
+      "fullName": "BVNL Belang van Nederland",
+      "website": "https://belangvanzaltbommel.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "127501": {
+          "position": "disagree",
+          "explanation": "De individuele kwaliteiten en vaardigheden van mensen zijn altijd leidend. BVNL is tegen \"positieve\" discriminatie. Discriminatie blijft discriminatie en is daarmee onwenselijk. Wat BVNL wel wil is dat ook wethouders op z'n minst in de gemeente wonen."
+        },
+        "127502": {
+          "position": "agree",
+          "explanation": "BVNL is voor een bindend referendum. Wanneer de politiek besluit over ingrijpende regelgeving of grote projecten moeten inwoners de mogelijkheid hebben om via een referendum hun stem te laten horen. Als veel inwoners het oneens zijn met een besluit, moet er een democratische ‘noodrem’ bestaan."
+        },
+        "127505": {
+          "position": "agree",
+          "explanation": "BVNL bevordert ondernemerschap en initiatief nemen. Wat BVNL betreft maken we zulke nevenactiviteiten voor boeren en tuinders zo makkelijk mogelijk, dat is ook goed voor onze lokale economie."
+        },
+        "127508": {
+          "position": "agree",
+          "explanation": "BVNL is voor hoogwaardige kleinschalige huisvestiging bij eigen bedrijf. Dit beleid werkt goed, dus wat BVNL betreft gaan we geen grootschalige huisvesting voor arbeidsmigranten realiseren."
+        },
+        "127510": {
+          "position": "agree",
+          "explanation": "BVNL is geen voorstander van verboden. Wel is het goed om te kijken wat we kunnen doen in situaties waarin buren veel overlast hebben van houtkachels. Dat kan namelijk wel de vrijheid van een ander beperken."
+        },
+        "127512": {
+          "position": "agree",
+          "explanation": "Als vuurwerk wordt verboden moet er een alternatief tegen overstaan, ook juist in de dorpen. BVNL wil ook dat de gemeente groepen faciliteert om een vuurwerkshow in hun dorp of wijk te organiseren inclusief een financiële bijdrage (landelijke wetgeving moet natuurlijk wel die ruimte bieden)."
+        },
+        "127513": {
+          "position": "disagree",
+          "explanation": "BVNL is van het uitgangspunt de vervuiler betaald. Gratis kan niet, want het moet hoe dan ook betaald worden. Zij het direct door de inwoner, zij het indirect via belastingen."
+        },
+        "127514": {
+          "position": "disagree",
+          "explanation": "BVNL staat voor een bruisende gemeente waarin veel te doen is, ook voor jongeren. Daar past een strikte geluidsnorm niet bij. Met slimme technische oplossingen is geluidsoverlast sterk te beperken, zonder dat dit ten koste gaat van een bruisende gemeente."
+        },
+        "127519": {
+          "position": "disagree",
+          "explanation": "BVNL ziet niet in waarom hier subsidie voor nodig zou zijn."
+        },
+        "127523": {
+          "position": "agree",
+          "explanation": "Op sommige plaatsen in onze gemeente kan het uitbreiden van cameratoezicht goed zijn om misdaad te bestrijden. Tegelijkertijd vinden wij dat de privacy van inwoners altijd zwaar moet wegen. Cameratoezicht mag daarom niet zomaar overal worden ingezet en transparantie is hierbij zeer belangrijk."
+        },
+        "127528": {
+          "position": "agree",
+          "explanation": "In de huidige overspannen woningmarkt kan dit voor mensen uitkomst bieden. Legaliseer het en regel het goed, in plaats van het in een grijs gebied te laten hangen."
+        },
+        "127529": {
+          "position": "disagree",
+          "explanation": "Wat BVNL betreft moeten we alle kansen benutten om te bouwen naar de lokale woonbehoefte. Dat betekent dus zowel het beter benutten van bestaande ruimte binnen de dorpen, als uitbreiding."
+        },
+        "127530": {
+          "position": "agree",
+          "explanation": "BVNL vindt dat de samenleving van mensen met een uitkering een tegenprestatie mag verwachten. Dat gaat om eenvoudig maar waardevol werk, zoals spelletjes doen met ouderen in een verzorgingstehuis of helpen bij een sportvereniging. Uiteraard houden we rekening met de persoonlijke situatie."
+        },
+        "127531": {
+          "position": "agree",
+          "explanation": "Dat is wat BVNL betreft oneerlijk richting andere inwoners en niet de manier om armoede te voorkomen."
+        },
+        "127532": {
+          "position": "disagree",
+          "explanation": "Wat BVNL betreft volgen we de armoedegrens van het Nibud."
+        },
+        "127534": {
+          "position": "agree",
+          "explanation": "Het landelijke beleid jaagt mensen uit hun brandstofauto, dus dan moet de infrastructuur voor elektrische auto's ook op orde zijn. BVNL wil het daarbij ook makkelijker maken voor inwoners om te laden met stroom uit eigen zonnepanelen door kabelgoottegels toe te staan."
+        },
+        "127535": {
+          "position": "disagree",
+          "explanation": "Op sommige plekken in onze gemeente is het verstandig de maximumsnelheid te verlagen naar 30 km/u omdat dit de verkeersveiligheid aanzienlijk verbetert. Maar in de hele bebouwde kom is dat niet nodig. De maximumsnelheid behoort passend te zijn voor de verkeerssituatie."
+        },
+        "127536": {
+          "position": "agree",
+          "explanation": "We staan voor maximale individuele vrijheid en dus ook voor keuzevrijheid in de zorg. Tot een zeker niveau vinden we dus dat dit mogelijk moet zijn. Belangrijk is wel dat het te organiseren blijft en dat de kosten binnen de perken blijven."
+        },
+        "127539": {
+          "position": "agree",
+          "explanation": "Deze belasting is niet te rechtvaardigen en kost ook veel geld om te innen. Daarom dat we deze belasting afschaffen."
+        },
+        "127542": {
+          "position": "disagree",
+          "explanation": "Het is zeer oneerlijk richting eigen inwoners, die soms al meer dan 5 jaar wachten op een woning, om statushouders voorrang te geven. BVNL wil dat statushouders gewoon worden behandeld als normale woningzoekenden."
+        },
+        "127543": {
+          "position": "disagree",
+          "explanation": "BVNL is van het uitgangspunt de vervuiler betaald. Volledig gratis kan niet, want het moet hoe dan ook betaald worden. Zij het direct door de inwoner, zij het indirect via belastingen."
+        },
+        "127545": {
+          "position": "agree",
+          "explanation": "Wat BVNL betreft moet er zo snel mogelijk een goede oplossing komen voor voetbalvereniging BZC'14 na het MFA-debacle. De vereniging is gedwongen door de gemeente gefuseerd en zit nu met de gebakken peren."
+        },
+        "127547": {
+          "position": "disagree",
+          "explanation": "Een coffeeshop vinden we niet passend bij onze gemeente."
+        },
+        "127548": {
+          "position": "disagree",
+          "explanation": "BVNL is niet voor een strikt percentage sociale huur. We willen zo veel mogelijk woningen realiseren in het betaalbare segment (sociale huur, betaalbare koop en middenhuur), die aansluiten bij de lokale behoefte."
+        },
+        "127551": {
+          "position": "disagree",
+          "explanation": "Het centrum van Zaltbommel volledig autovrij maken vinden we geen goed idee, ook wegens het tekort aan parkeerplaatsen. Wel wil BVNL van de Waterstraat een autoluwe nog gezelligere straat met meer ruimte voor horeca maken."
+        },
+        "127552": {
+          "position": "agree",
+          "explanation": "BVNL is in de basis tegen de komst van een asielzoekerscentrum (AZC) in onze gemeente. Zolang de Spreidingswet in de huidige vorm van kracht is, ontkomen we er echter niet aan het opgelegde aantal asielzoekers op te vangen."
+        },
+        "127553": {
+          "position": "agree",
+          "explanation": "BVNL vindt dat in de nieuwbouwwijken van Zaltbommel appartementencomplexen best wat hoger mogen worden gebouwd. Dat past prima in het stadsbeeld en maakt het mogelijk om op minder kostbare grond meer broodnodige woningen te realiseren."
+        },
+        "127554": {
+          "position": "disagree",
+          "explanation": "Groei brengt uitdagingen met zich mee en het is natuurlijk de vraag in hoeverre je moet willen groeien als gemeente. Maar wij zien niet in hoe je als gemeente op zo'n harde grens het aantal inwoners moet gaan beperken."
+        },
+        "127555": {
+          "position": "disagree",
+          "explanation": "BVNL wil dat de ruimte in de vastgelegde tuinbouwclusters zo efficiënt mogelijk wordt ingezet. Grond in onze gemeente is schaars, waardoor we zorgvuldig moeten omgaan met de beschikbare ruimte en scherpe keuzes moeten maken. Dit vereist een beoordeling per situatie in goed overleg."
+        },
+        "127557": {
+          "position": "agree",
+          "explanation": "Voor BVNL is duidelijk dat het openbare groenonderhoud gewoon op orde moet zijn. Door beter te beoordelen op kwaliteit van het geleverde werk van de groenvoorziening en het slim aan te pakken moet dit kunnen zonder dat het veel meer kost."
+        }
+      }
+    }
+  ],
+  "statements": [
+    {
+      "id": 127554,
+      "index": 1,
+      "theme": "Aantal inwoners",
+      "themeId": "aantal-inwoners",
+      "title": "De groei van de gemeente Zaltbommel moet stoppen bij 35.000 inwoners.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127501,
+      "index": 2,
+      "theme": "Burgemeester en college",
+      "themeId": "burgemeester-en-college",
+      "title": "In het nieuwe college van burgemeester en wethouders moet het aantal mannen en vrouwen gelijk zijn.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127512,
+      "index": 3,
+      "theme": "Vuurwerk",
+      "themeId": "vuurwerk",
+      "title": "De gemeente moet op oudejaarsavond een vuurwerkshow organiseren.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127505,
+      "index": 4,
+      "theme": "Boerencampings",
+      "themeId": "boerencampings",
+      "title": "De gemeente moet boeren altijd toestaan om bij hun boerenbedrijf bijvoorbeeld een winkel of een camping te openen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127519,
+      "index": 5,
+      "theme": "Muziekles",
+      "themeId": "muziekles",
+      "title": "Elk basisschoolkind moet met subsidie van de gemeente muziekles kunnen krijgen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127553,
+      "index": 6,
+      "theme": "Hoogbouw",
+      "themeId": "hoogbouw",
+      "title": "In de gemeente Zaltbommel moeten ook flats van meer dan vijf verdiepingen komen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127552,
+      "index": 7,
+      "theme": "Opvang asielzoekers",
+      "themeId": "opvang-asielzoekers",
+      "title": "Zaltbommel moet alleen het verplichte aantal asielzoekers opvangen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127551,
+      "index": 8,
+      "theme": "Autovrij",
+      "themeId": "autovrij",
+      "title": "Het centrum van Zaltbommel moet autovrij worden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127513,
+      "index": 9,
+      "theme": "Grofvuil",
+      "themeId": "grofvuil",
+      "title": "Grofvuil moet gratis aan huis worden afgehaald.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127530,
+      "index": 10,
+      "theme": "Tegenprestatie voor uitkering",
+      "themeId": "tegenprestatie-voor-uitkering",
+      "title": "Mensen die een bijstandsuitkering krijgen, moeten in ruil daarvoor maatschappelijk zinvol werk doen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127542,
+      "index": 11,
+      "theme": "Voorrang voor vluchtelingen",
+      "themeId": "voorrang-voor-vluchtelingen",
+      "title": "De gemeente moet vluchtelingen met een verblijfsvergunning voorrang blijven geven op een sociale huurwoning.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127529,
+      "index": 12,
+      "theme": "Woningbouw",
+      "themeId": "woningbouw",
+      "title": "De gemeente moet nieuwbouw buiten de bestaande dorpsgrenzen tegengaan.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127532,
+      "index": 13,
+      "theme": "Armoedebestrijding",
+      "themeId": "armoedebestrijding",
+      "title": "De gemeente moet de inkomensgrens om hulp te krijgen bij armoede verhogen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127510,
+      "index": 14,
+      "theme": "Houtstook",
+      "themeId": "houtstook",
+      "title": "In Zaltbommel moet het gebruik van open haarden en houtkachels toegestaan blijven.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127528,
+      "index": 15,
+      "theme": "Vakantiewoningen",
+      "themeId": "vakantiewoningen",
+      "title": "De gemeente moet toestaan dat vakantiewoningen gebruikt worden als vast woonadres.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127508,
+      "index": 16,
+      "theme": "Huisvesting buitenlandse werknemers",
+      "themeId": "huisvesting-buitenlandse-werknemers",
+      "title": "Werkgevers in de land- en tuinbouw moeten zelf zorgen voor de huisvesting van seizoenarbeiders op hun eigen bedrijfsterrein.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127536,
+      "index": 17,
+      "theme": "Zorgkeuze",
+      "themeId": "zorgkeuze",
+      "title": "Mensen die zorg nodig hebben, moeten altijd kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of levensovertuiging.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127531,
+      "index": 18,
+      "theme": "Kwijtschelding stoppen",
+      "themeId": "kwijtschelding-stoppen",
+      "title": "De gemeente moet stoppen met het kwijtschelden van de gemeentelijke belastingen voor inwoners met een laag inkomen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127535,
+      "index": 19,
+      "theme": "Snelheid auto's",
+      "themeId": "snelheid-auto-s",
+      "title": "De maximumsnelheid binnen de bebouwde kom moet naar 30 km/u.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127539,
+      "index": 20,
+      "theme": "Hondenbelasting",
+      "themeId": "hondenbelasting",
+      "title": "De gemeente moet de hondenbelasting afschaffen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127514,
+      "index": 21,
+      "theme": "Festivalgeluid",
+      "themeId": "festivalgeluid",
+      "title": "De geluidsnormen bij festivals en feesten moeten strenger worden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127547,
+      "index": 22,
+      "theme": "Coffeeshop",
+      "themeId": "coffeeshop",
+      "title": "De gemeente moet de vestiging van een coffeeshop toestaan.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127534,
+      "index": 23,
+      "theme": "Elektrische laadpalen",
+      "themeId": "elektrische-laadpalen",
+      "title": "De gemeente moet meer parkeerplaatsen aanwijzen als oplaadplekken voor elektrische auto's.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127557,
+      "index": 24,
+      "theme": "Openbaar groen",
+      "themeId": "openbaar-groen",
+      "title": "Zaltbommel moet meer geld steken in onderhoud van het openbaar groen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127545,
+      "index": 25,
+      "theme": "Sportpark Brakel",
+      "themeId": "sportpark-brakel",
+      "title": "Zaltbommel moet een nieuw sportpark aanleggen in Brakel.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127523,
+      "index": 26,
+      "theme": "Cameratoezicht",
+      "themeId": "cameratoezicht",
+      "title": "In Zaltbommel moet meer cameratoezicht komen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127543,
+      "index": 27,
+      "theme": "Milieustraat",
+      "themeId": "milieustraat",
+      "title": "Het inleveren van afval bij de milieustraat moet gratis worden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127502,
+      "index": 28,
+      "theme": "Referendum",
+      "themeId": "referendum",
+      "title": "De inwoners van Zaltbommel moeten over belangrijke onderwerpen hun mening kunnen geven via een referendum.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127548,
+      "index": 29,
+      "theme": "Sociale huurwoningen",
+      "themeId": "sociale-huurwoningen",
+      "title": "Van de nieuw te bouwen woningen in Zaltbommel moet minimaal 35% een sociale huurwoning zijn. In Nederland is nu 28% van de woningen een sociale huurwoning.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127555,
+      "index": 30,
+      "theme": "Glastuinbouw",
+      "themeId": "glastuinbouw",
+      "title": "De glastuinbouw in de gemeente moet meer ruimte krijgen voor het bouwen van nieuwe kassen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    }
+  ]
+}

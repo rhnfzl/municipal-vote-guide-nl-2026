@@ -1,0 +1,1639 @@
+{
+  "id": "GM1709",
+  "name": "Moerdijk",
+  "slug": "moerdijk",
+  "parties": [
+    {
+      "id": 119533,
+      "name": "Onafhankelijk Moerdijk",
+      "fullName": "Onafhankelijk Moerdijk",
+      "website": "https://onafhankelijkmoerdijk.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "119553": {
+          "position": "disagree",
+          "explanation": "Vakbekwaamheid is de belangrijkste voorwaarde."
+        },
+        "119554": {
+          "position": "agree",
+          "explanation": "Alleen grootschalige thema's die alle inwoners binnen de gemeente raken."
+        },
+        "119555": {
+          "position": "agree",
+          "explanation": "We zijn voor participatie maar wel via een rechtsvorm indien het vastgoed betreft."
+        },
+        "119557": {
+          "position": "agree",
+          "explanation": "Mits aan alle voorwaarden volgens de provincie en omgevingswet wordt voldaan."
+        },
+        "119561": {
+          "position": "agree",
+          "explanation": "Mits menswaardige woonvoorzieningen worden geplaatst en de door de gemeente vastgestelde aantallen."
+        },
+        "119562": {
+          "position": "agree",
+          "explanation": "Bomen zijn de longen van de natuur."
+        },
+        "119563": {
+          "position": "agree",
+          "explanation": "Er moet wel beleid zijn om overlast te voorkomen."
+        },
+        "119567": {
+          "position": "neither",
+          "explanation": "De Algemene Plaatselijke Verordening voldoet hieraan."
+        },
+        "119568": {
+          "position": "disagree",
+          "explanation": "Dit is de verantwoordelijkheid van de ondernemers."
+        },
+        "119572": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "119573": {
+          "position": "neither",
+          "explanation": "Er zijn diverse regelingen om de bekostiging te regelen."
+        },
+        "119575": {
+          "position": "disagree",
+          "explanation": "Het is belangrijk dat monumenten en cultuur behouden blijven."
+        },
+        "119577": {
+          "position": "agree",
+          "explanation": "Veiligheid is belangrijk voor de leefbaarheid."
+        },
+        "119578": {
+          "position": "neither",
+          "explanation": "Eerst maar goed gebruik maken van de huidige camera's."
+        },
+        "119581": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "119583": {
+          "position": "agree",
+          "explanation": "Op dit moment zeker gezien de krapte op de woningmarkt."
+        },
+        "119585": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "119586": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "119589": {
+          "position": "neither",
+          "explanation": "We volgen de vastgestelde laadvisie."
+        },
+        "119590": {
+          "position": "neither",
+          "explanation": "Afwaarderen waar mogelijk."
+        },
+        "119591": {
+          "position": "disagree",
+          "explanation": "Mensen moeten de beschikbare hulp aanvaarden."
+        },
+        "119593": {
+          "position": "agree",
+          "explanation": "Alleen inflatiecorrectie."
+        },
+        "119597": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "119602": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "119604": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "119606": {
+          "position": "disagree",
+          "explanation": "We zijn een landelijke gemeente."
+        },
+        "119607": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "119608": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "119609": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "119611": {
+          "position": "agree",
+          "explanation": ""
+        }
+      }
+    },
+    {
+      "id": 119539,
+      "name": "VVD",
+      "fullName": "Volkspartij voor Vrijheid en Democratie",
+      "website": "https://www.vvd.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "119553": {
+          "position": "agree",
+          "explanation": "Een evenwichtig college bestaat uit mensen die elkaar aanvullen. Dat kan nooit helemaal precies maar je moet streven naar een goede verdeling."
+        },
+        "119554": {
+          "position": "disagree",
+          "explanation": "De VVD meent dat onderwerpen niet terug te brengen zijn tot een vraagstuk waar je simpel voor of tegen bent. Referenda versterken het vertrouwen in het openbaar bestuur niet."
+        },
+        "119555": {
+          "position": "neither",
+          "explanation": "Als inwoners volgens de zelfde uitgangspunten het beheer willen en kunnen uitvoeren staan we daarvoor open maar het is nu al moeilijk genoeg om vrijwilligers te vinden dus zal het meestal niet de oplossing zijn."
+        },
+        "119557": {
+          "position": "agree",
+          "explanation": "Of het altijd op elke plek kan, hangt af van de locatie en de kern moet wel blijven dat het een agrarisch buitengebied is waar de hoofdactiviteit agrarische bedrijfsvoering is. Maar iedere aanvraag moeten we met een positieve grondhouding behandelen."
+        },
+        "119561": {
+          "position": "agree",
+          "explanation": "Dat mag als het voldoet aan de eisen van fatsoenlijk huisvesten en alleen voor echt seizoenswerk."
+        },
+        "119562": {
+          "position": "agree",
+          "explanation": "Dat is staand beleid en dat zetten we voort en waar het kan plaatsen we extra bomen."
+        },
+        "119563": {
+          "position": "agree",
+          "explanation": "We gaan uit van eigen verantwoordelijkheid van mensen met een houtkachel. Zij moeten geen overlast veroorzaken aan hun buren."
+        },
+        "119567": {
+          "position": "disagree",
+          "explanation": "De geluidsnormen zijn vastgelegd en indien nodig wordt er gehandhaafd. Strenger is wat ons betreft niet nodig."
+        },
+        "119568": {
+          "position": "disagree",
+          "explanation": "Ondernemers zijn zelf verantwoordelijk voor hun gebouw. De gemeente is dat voor alle publieke gebouwen."
+        },
+        "119572": {
+          "position": "agree",
+          "explanation": "Er moet in de komende periode behoorlijk wat gebouwd worden, in bijna alle kernen zijn scholen aan vervanging toe."
+        },
+        "119573": {
+          "position": "agree",
+          "explanation": "Wat ons betreft zelfs tot aan het 18e levensjaar"
+        },
+        "119575": {
+          "position": "disagree",
+          "explanation": "De gemeente ondersteunt monumenten met leningen en dat kan zo blijven, die betalen zich weer terug. Onze eigen monumenten moeten we keurig in stand houden."
+        },
+        "119577": {
+          "position": "agree",
+          "explanation": "Zichtbaar aanwezige handhavers helpen om overlast te voorkomen en in te grijpen waar nodig. Ze zijn de oren en ogen in onze wijken. Dragen bij aan de veiligheid."
+        },
+        "119578": {
+          "position": "agree",
+          "explanation": "In uitgaansgebieden helpen camera's om de veiligheid te verbeteren, ook zijn wij voor cameratoezicht bij bijv. ondergrondse containers en gebieden waar veel overlast wordt gemeld."
+        },
+        "119581": {
+          "position": "agree",
+          "explanation": "We zijn voorstander van voorrang voor mensen met sociale binding met een kern. Daarom hebben we een huisvestingsverordening gemaakt die dat regelt."
+        },
+        "119583": {
+          "position": "disagree",
+          "explanation": "Als vakantiewoningen voor permanente bewoning worden gebruikt worden recreatieparken overgenomen door arbeidsmigranten en mensen die niet meedoen in de woonkernen. Ze ondermijnen de toeristische functie van parken. Voor een noodgeval is tijdelijk wel bespreekbaar."
+        },
+        "119585": {
+          "position": "agree",
+          "explanation": "Wij verwachten dat mensen meedoen met de samenleving en gestimuleerd worden om als vrijwilliger zich in te zetten in bijvoorbeeld de zorg."
+        },
+        "119586": {
+          "position": "disagree",
+          "explanation": "Als het nodig is dan worden deze lasten door de gemeente overgenomen. We willen voorkomen dat mensen problematische schulden krijgen."
+        },
+        "119589": {
+          "position": "neither",
+          "explanation": "Dat hangt af van de behoefte, we willen niet dat straks niemand meer kan parkeren. Terwijl er lege oplaadplaatsen zijn."
+        },
+        "119590": {
+          "position": "disagree",
+          "explanation": "30km/u is in de woonwijk, gebiedsontsluitingswegen met goede fietspaden kunnen 50km/u blijven"
+        },
+        "119591": {
+          "position": "disagree",
+          "explanation": "Levensovertuiging dient geen rol te spelen bij zorg die wordt verleend."
+        },
+        "119593": {
+          "position": "disagree",
+          "explanation": "De OZB is al jaren stabiel, de VVD is tegen verhogen van de OZB"
+        },
+        "119597": {
+          "position": "agree",
+          "explanation": "Winkeliers bepalen zelf hun winkeltijden, niets is verplicht maar iedere zondag mogen zij de deuren openen."
+        },
+        "119602": {
+          "position": "disagree",
+          "explanation": "Wij zijn voor gratis zwemmen voor de jeugd. We vinden zwemles belangrijk maar snappen dat scholen daar geen tijd voor kunnen maken. Mensen die geen zwemles kunnen betalen worden ondersteund."
+        },
+        "119604": {
+          "position": "agree",
+          "explanation": "Wij zijn niet tegen het gebruik van cannabis maar menen wel dat een coffeeshop risico op overlast met zich meebrengt. Dus pas als een initiatiefnemer in staat is om zonder overlast te werken zouden we daaraan meewerken."
+        },
+        "119606": {
+          "position": "neither",
+          "explanation": "Er zijn plaatsen waar er iets hoger gebouwd kan worden maar Moerdijk is en blijft een gemeente met een landelijk karakter."
+        },
+        "119607": {
+          "position": "agree",
+          "explanation": "Het verhuren van losse kamers leidt tot overlast en uitbuiting in wijken."
+        },
+        "119608": {
+          "position": "disagree",
+          "explanation": "Het centrum moet voor de klanten en bewoners met de auto bereikbaar blijven. We zetten wel in op verkeersveiligheid met autoluwe en zelfs autovrije straten."
+        },
+        "119609": {
+          "position": "disagree",
+          "explanation": "Ook de industrie heeft perspectief nodig. We zien toe op steeds schonere industrie en daar zijn ook vergunningen voor nodig."
+        },
+        "119611": {
+          "position": "agree",
+          "explanation": "We willen een evenwichtige spreiding over de gemeente in goede locaties aan de randen van onze kernen."
+        }
+      }
+    },
+    {
+      "id": 119532,
+      "name": "Moerdijk Lokaal",
+      "fullName": "Moerdijk Lokaal",
+      "website": "https://moerdijk-lokaal.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "119553": {
+          "position": "neither",
+          "explanation": "Moerdijk Lokaal prefereert kwaliteit van collegeleden boven gender."
+        },
+        "119554": {
+          "position": "disagree",
+          "explanation": "Moerdijk Lokaal is voorstander van de gemandateerde democratie. We willen groepen inwoners samenstellen die de gemeenteraad advies geven over belangrijke onderwerpen. Zo horen we wat er leeft in de gemeenschap en kunnen we besluiten nemen die beter aansluiten bij wat inwoners belangrijk vinden."
+        },
+        "119555": {
+          "position": "agree",
+          "explanation": "Moerdijk Lokaal is een voorstander van het principe right to challenge. Hiermee kunnen inwoners de gemeente uitdagen om de gemeentelijke taken (en budget) over te nemen. Samen verzorgen zij samen bijvoorbeeld: een plantsoen, een speeltuin of het groen in de straat."
+        },
+        "119557": {
+          "position": "agree",
+          "explanation": "Ondernemerschap moet plaats kunnen vinden, mits dit voldoet aan de geldende wet- en regelgeving. Dit zorgt voor een duurzame en leefbare gemeente waarin ondernemen en wonen hand in hand gaan."
+        },
+        "119561": {
+          "position": "neither",
+          "explanation": "Moerdijk Lokaal is voorstander van kleinschalige gespreide locaties van woonvoorzieningen voor arbeidsmigranten die de balans van een kern niet verstoren. Nieuwe locaties die gerealiseerd worden dienen beheerd te worden door -op hun maatschappelijke verantwoordelijkheid aanspreekbare- exploitanten"
+        },
+        "119562": {
+          "position": "agree",
+          "explanation": "Dit is staand beleid binnen de gemeente Moerdijk wat Moerdijk Lokaal graag wil handhaven."
+        },
+        "119563": {
+          "position": "disagree",
+          "explanation": "Er zijn voor Moerdijk Lokaal op dit moment belangrijkere standpunten: Door te kijken naar collectieve warmtesystemen kunnen we beter bepalen welke wijken geschikt zijn voor alternatieve warmtebronnen, en hoe dit betaalbaar en haalbaar kan worden ingericht voor onze inwoners."
+        },
+        "119567": {
+          "position": "disagree",
+          "explanation": "Doorgeslagen regelingen voor het organiseren van evenementen legt een onevenredige druk op de kleine lokale buurtfeesten en evenementen. Moerdijk Lokaal wil voor dit soort evenementen vrijstelling van ingewikkelde procedurele vergunningsprocedures en volstaan met een meldingsplicht."
+        },
+        "119568": {
+          "position": "agree",
+          "explanation": "Toegankelijkheid is een essentieel onderdeel van een inclusieve samenleving. Moerdijk Lokaal wil ervoor zorgen dat openbare gelegenheden, infrastructuur en voorzieningen toegankelijk zijn voor iedereen."
+        },
+        "119572": {
+          "position": "agree",
+          "explanation": "Dit is staand beleid binnen de gemeente Moerdijk wat Moerdijk Lokaal graag wil handhaven. Dit is het integraal huisvestingsplan. Dit loopt nog de komende 12 jaar."
+        },
+        "119573": {
+          "position": "agree",
+          "explanation": "Dit is staand beleid binnen de gemeente Moerdijk wat Moerdijk Lokaal graag wil handhaven."
+        },
+        "119575": {
+          "position": "agree",
+          "explanation": "Moerdijk Lokaal wil (cultureel) erfgoedbehoud waarborgen."
+        },
+        "119577": {
+          "position": "agree",
+          "explanation": "Wij pleiten ervoor om boa’s een bredere taak te geven. Niet alleen handhaven, maar ook zichtbaar bijdragen aan veiligheid en leefbaarheid in onze wijken en dorpen – met verschillende middelen en interventies, waarvan handhaving er slechts één is."
+        },
+        "119578": {
+          "position": "agree",
+          "explanation": "Moerdijk Lokaal is voorstander van meer cameratoezicht. Met als hoofddoel toezicht houden mits er zorgvuldig met de beelden zal worden omgegaan."
+        },
+        "119581": {
+          "position": "agree",
+          "explanation": "De overheid biedt gemeenten steeds meer mogelijkheden om, binnen wettelijke grenzen, nieuwbouwwoningen toe te wijzen aan eigen inwoners. Wanneer deze instrumenten beschikbaar zijn, wil Moerdijk Lokaal ze verantwoord en juridisch houdbaar toepassen."
+        },
+        "119583": {
+          "position": "disagree",
+          "explanation": "Moerdijk Lokaal is geen voorstander van permanente bewoning van vakantiewoningen."
+        },
+        "119585": {
+          "position": "neither",
+          "explanation": "Goede en passende en regelingen wanneer het even tegenzit zijn een essentieel vangnet maar geen hangmat. Uiteraard is het de bedoeling men zo kort mogelijk van een uitkering geniet."
+        },
+        "119586": {
+          "position": "disagree",
+          "explanation": "Goede en passende en regelingen wanneer het even tegenzit zijn een essentieel vangnet maar geen hangmat. Daar waar nodig is moeten diegene met een laag inkomen altijd geholpen worden."
+        },
+        "119589": {
+          "position": "agree",
+          "explanation": "per 1-1-2035 mag in de EU mogen alleen nog elektrische auto's op de markt komen.. Moerdijk Lokaal vindt dat we daarom nu bij infrastructurele werken in de openbare ruimte daar nu al rekening mee moeten houden. In de toekomstvisie moeten we beschrijven hoe hiermee om te gaan."
+        },
+        "119590": {
+          "position": "agree",
+          "explanation": "We vinden het belangrijk dat inwoners kunnen meedenken en praten over wat er gebeurd in hun omgeving, als 30km/h hun buurt verbetert moeten we dit mogelijk maken."
+        },
+        "119591": {
+          "position": "neither",
+          "explanation": "Het is voor een ieder mogelijk om te kiezen welke zorgaanbieders zij wensen te contracteren."
+        },
+        "119593": {
+          "position": "disagree",
+          "explanation": "De OZB wordt indien mogelijk bevroren m.u.v. de inflatiecorrectie. Mochten er financiële meevallers zijn dan is dat altijd een aangename verrassing. Het biedt dan de mogelijkheid om dit geld wat feitelijk over is, in te zetten voor andere doeleinden die ten gunste zijn van de inwoners."
+        },
+        "119597": {
+          "position": "neither",
+          "explanation": "Dit is staand beleid binnen de gemeente Moerdijk wat Moerdijk Lokaal graag wil handhaven."
+        },
+        "119602": {
+          "position": "disagree",
+          "explanation": "Op dit moment is het mogelijk om zwemles te volgen via het jeugdfonds sport en cultuur. Als financiën een probleem zijn."
+        },
+        "119604": {
+          "position": "disagree",
+          "explanation": "Zolang landelijke wetgeving softdrugs niet legaliseert is een coffeeshop niet aan de orde."
+        },
+        "119606": {
+          "position": "neither",
+          "explanation": "Moerdijk Lokaal staat open voor alle woonvormen, De vorm van woningbouw moet passend zijn bij het karakter van het dorp of stad. We ondersteunen initiatieven waarbij bewoners samen hun eigen wijk realiseren."
+        },
+        "119607": {
+          "position": "neither",
+          "explanation": "Dit is staand beleid binnen de gemeente Moerdijk. Geen kamergewijze verhuur en er geldt al een zelfbewoningsplicht."
+        },
+        "119608": {
+          "position": "disagree",
+          "explanation": "De diverse grotere kernen zouden wel autoluw gemaakt moeten worden zonder dat dit afbreuk doet aan de bereikbaarheid van de lokale ondernemers. Wij zijn van mening dat dit de veiligheid in centra ten goede komt"
+        },
+        "119609": {
+          "position": "neither",
+          "explanation": "De gemeente Moerdijk gaat meestal niet over het uitbreiden van de industrie. De gemeente gaat alleen over kleine bedrijven en minder complexe activiteiten die in het omgevingsplan vallen. Rijk en provincie gaan over ingrijpende en risicovolle bedrijven."
+        },
+        "119611": {
+          "position": "disagree",
+          "explanation": "Moerdijk Lokaal is voorstander van kleinschalige gespreide locaties van woonvoorzieningen voor arbeidsmigranten die de balans van een kern niet verstoren. Deze moet logisch geplaatst zijn ten opzichte van de arbeidslocatie."
+        }
+      }
+    },
+    {
+      "id": 119531,
+      "name": "Burger Belangen Moerdijk",
+      "fullName": "Burger Belangen Moerdijk",
+      "website": "https://boerburgerbeweging.nl/bbbondgenoot/burger-belangen-moerdijk/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "119553": {
+          "position": "disagree",
+          "explanation": "Het zou mooi zijn als het zo is, maar het is geen must. Daarbij hebben wij daar geen invloed op: de stemmer bepaalt."
+        },
+        "119554": {
+          "position": "agree",
+          "explanation": "Alleen over majeure onderwerpen en toespitsen op kern(en) waar het over gaat. Mensen moeten mee kunnen stemmen over eigen leefomgeving."
+        },
+        "119555": {
+          "position": "agree",
+          "explanation": "Bestaat al. Is een aangenomen motie van BBM en OM: \"Right to challenge\"."
+        },
+        "119557": {
+          "position": "agree",
+          "explanation": "Minder regels, meer vrijheid om te ondernemen. Al helemaal nu de landelijke overheid een gezond verdienmodel lastiger maakt."
+        },
+        "119561": {
+          "position": "neither",
+          "explanation": "Het zou onze voorkeur genieten, maar is geen must als we het elders op een goede manier samen met de omgeving kunnen regelen. Dit zou dan ook moeten gelden voor andere sectoren."
+        },
+        "119562": {
+          "position": "agree",
+          "explanation": "Liefst twee...."
+        },
+        "119563": {
+          "position": "agree",
+          "explanation": "Wij gaan uit van gezond verstand van de gebruikers, rekening houdend met omgeving."
+        },
+        "119567": {
+          "position": "disagree",
+          "explanation": "Zijn streng genoeg"
+        },
+        "119568": {
+          "position": "agree",
+          "explanation": "Onder voorwaarden; moet geen gratis geld loket worden."
+        },
+        "119572": {
+          "position": "agree",
+          "explanation": "Gebeurt al."
+        },
+        "119573": {
+          "position": "disagree",
+          "explanation": "Sympathiek gedachte, maar waarom alleen muziekles? Wat wel en wat niet?"
+        },
+        "119575": {
+          "position": "disagree",
+          "explanation": "Bestaande beleid is goed. Zuinig zijn op erfgoed."
+        },
+        "119577": {
+          "position": "agree",
+          "explanation": "Veel belangrijker is zichtbaarheid op straat."
+        },
+        "119578": {
+          "position": "agree",
+          "explanation": "Op cruciale punten sowieso."
+        },
+        "119581": {
+          "position": "agree",
+          "explanation": "En zelfs verder toespitsen op kernniveau"
+        },
+        "119583": {
+          "position": "agree",
+          "explanation": "Eens onder voorwaarden."
+        },
+        "119585": {
+          "position": "agree",
+          "explanation": "Binnen mogelijkheden bijdragen aan de samenleving."
+        },
+        "119586": {
+          "position": "agree",
+          "explanation": "Inkomenspolitiek hoort op landelijk niveau, niet lokaal."
+        },
+        "119589": {
+          "position": "agree",
+          "explanation": "Gebeurt al en gaat meer gebeuren (Laadvisie)."
+        },
+        "119590": {
+          "position": "neither",
+          "explanation": "Is reeds -mede op voorspraak van BBM/BBB- in gang gezet. In de wijken prima, niet de doorgaande wegen."
+        },
+        "119591": {
+          "position": "disagree",
+          "explanation": "stelsel is ok. Geen flauwekul."
+        },
+        "119593": {
+          "position": "disagree",
+          "explanation": "Bestaande situatie cq. berekening is prima."
+        },
+        "119597": {
+          "position": "disagree",
+          "explanation": "In Moerdijk is iedere zondag al een koopzondag. Meer lijkt ons lastig."
+        },
+        "119602": {
+          "position": "agree",
+          "explanation": "In een waterrijke omgeving moeten alle kinderen in staat gesteld worden een A diploma te halen."
+        },
+        "119604": {
+          "position": "agree",
+          "explanation": "Waarom niet? Liever dit als in de illegaliteit."
+        },
+        "119606": {
+          "position": "disagree",
+          "explanation": "Past niet in het landelijk karakter en is niet nodig."
+        },
+        "119607": {
+          "position": "disagree",
+          "explanation": "Mits binnen wet- en regelgeving moet het mogelijk blijven. (hospita's, pension)."
+        },
+        "119608": {
+          "position": "neither",
+          "explanation": "Autoluw. Helemaal autovrij geeft teveel beperking voor bewoners in het centrum."
+        },
+        "119609": {
+          "position": "agree",
+          "explanation": "Na LPM en Powerport is het weleens welletjes."
+        },
+        "119611": {
+          "position": "agree",
+          "explanation": "Afhankelijk van verblijfsduur faciliteiten aanpassen."
+        }
+      }
+    },
+    {
+      "id": 119536,
+      "name": "CDA",
+      "fullName": "Christen-Democratisch Appèl",
+      "website": "https://www.cda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "119553": {
+          "position": "disagree",
+          "explanation": "Wij vinden dat kwaliteit altijd voorop moet staan. Een verplichte verdeling van mannen en vrouwen beperkt de vrijheid om te kiezen op basis van kennis en ervaring. Het risico is dat mensen worden geselecteerd om hun geslacht, niet om hun talent. Dat helpt niemand."
+        },
+        "119554": {
+          "position": "neither",
+          "explanation": "Inwoners van Moerdijk moeten betrokken zijn bij grote besluiten. Een referendum geeft vaak slechts een ja/nee-keuze. Wij geloven in dialoog en samenwerking. Daarom zien wij meer in een burgerberaad: inwoners die samen met experts tot gedragen adviezen komen."
+        },
+        "119555": {
+          "position": "agree",
+          "explanation": "Inwoners moeten de kans krijgen om het beheer van een sporthal of plantsoen over te nemen. Dat kan, mits duidelijke voorwaarden en goede begeleiding vanuit de gemeente zijn geregeld. Zo versterken we samen verantwoordelijkheid en betrokkenheid in Moerdijk."
+        },
+        "119557": {
+          "position": "agree",
+          "explanation": "Boeren moeten de ruimte krijgen om bij hun bedrijf een winkel of camping te openen. Dit versterkt het platteland en biedt kansen voor lokale economie en toerisme. Wij zijn het hier volledig mee eens: ondernemerschap verdient steun, niet belemmering."
+        },
+        "119561": {
+          "position": "agree",
+          "explanation": "Werkgevers in de land- en tuinbouw moeten zelf zorgen voor huisvesting van seizoenarbeiders op hun eigen terrein. Dat werkt goed en geeft duidelijkheid. Zo blijven verantwoordelijkheid en kwaliteit bij de ondernemer, en houden we het netjes geregeld."
+        },
+        "119562": {
+          "position": "neither",
+          "explanation": "Voor elke gekapte boom een nieuwe planten klinkt logisch, maar wij vinden dat dit situatieafhankelijk moet zijn. Soms is herplant niet passend of zijn andere maatregelen beter. De gemeente moet per geval zorgvuldig afwegen wat het beste is voor natuur en omgeving."
+        },
+        "119563": {
+          "position": "disagree",
+          "explanation": "Het toestaan van open haarden en houtkachels is geen lokaal vraagstuk, maar een landelijk issue. Regels moeten landelijk worden afgestemd voor gezondheid en milieu."
+        },
+        "119567": {
+          "position": "disagree",
+          "explanation": "Strengere geluidsnormen zijn niet nodig, mits het geluid beheersbaar blijft en het aantal festivals en feesten beperkt is. Evenementen zorgen voor verbinding en plezier, maar moeten wel in balans blijven met leefbaarheid."
+        },
+        "119568": {
+          "position": "neither",
+          "explanation": "Ondernemers hebben ook een eigen verantwoordelijkheid om hun gebouwen toegankelijk te maken. De gemeente kan ondersteunen met advies, maar financiële hulp is niet vanzelfsprekend. Samen zorgen we voor een inclusieve samenleving."
+        },
+        "119572": {
+          "position": "disagree",
+          "explanation": "Niet alle schoolgebouwen komen in aanmerking voor verbetering. Sommige moeten worden gesloopt en opnieuw opgebouwd. De gemeente moet zorgvuldig investeren: waar renovatie kan, doen we dat; waar nieuwbouw nodig is, kiezen we voor toekomstbestendige oplossingen."
+        },
+        "119573": {
+          "position": "agree",
+          "explanation": "Wij zijn het eens: elk basisschoolkind moet met subsidie muziekles kunnen krijgen. Dit regelen we via de jeugdpas, zodat kinderen hun talenten kunnen ontwikkelen en cultuur voor iedereen toegankelijk blijft. Samen investeren we in een rijke toekomst."
+        },
+        "119575": {
+          "position": "disagree",
+          "explanation": "bezuinigen op monumentenzorg is geen goede keuze. Monumenten vertellen ons verhaal en geven Moerdijk karakter. We moeten deze waardevolle gebouwen behouden en onderhouden, zodat geschiedenis en identiteit voor toekomstige generaties zichtbaar blijven."
+        },
+        "119577": {
+          "position": "disagree",
+          "explanation": "Wij zijn het oneens: liever investeren in meer politieagenten dan extra boa’s. Politie zorgt voor bredere inzet en betere veiligheid. De gemeente moet samenwerken met politie voor een sterke en betrouwbare handhaving in Moerdijk."
+        },
+        "119578": {
+          "position": "neither",
+          "explanation": "Meer cameratoezicht in Moerdijk moet zorgvuldig worden ingezet. Voor sommige gebieden, zoals industrieterreinen, is het nuttig voor veiligheid. Op andere plekken niet nodig. De gemeente moet per locatie afwegen wat effectief en proportioneel is."
+        },
+        "119581": {
+          "position": "agree",
+          "explanation": "Wij zijn het eens, maar bij toewijzing van sociale huurwoningen moet voorrang niet gelden voor de hele gemeente, maar voor woningzoekenden uit de eigen kern. Zo versterken we lokale binding en zorgen we dat mensen in hun vertrouwde omgeving kunnen blijven wonen."
+        },
+        "119583": {
+          "position": "disagree",
+          "explanation": "Veel vakantiewoningen en terreinen zijn niet geschikt om permanent in te wonen. Dat leidt vaak tot verloedering en onveilige situaties. Wij willen zorgen voor gezonde en leefbare plekken voor iederee"
+        },
+        "119585": {
+          "position": "neither",
+          "explanation": "Maatschappelijk zinvol werk is altijd een goed idee, of je nu een bijstandsuitkering krijgt of niet."
+        },
+        "119586": {
+          "position": "disagree",
+          "explanation": "Kwijtschelding helpt inwoners met een laag inkomen om rond te komen. Zo voorkomen we schulden en zorgen we dat iedereen mee kan doen. Dat is eerlijk en sociaal."
+        },
+        "119589": {
+          "position": "disagree",
+          "explanation": "Onze gemeente heeft al een duidelijke laadvisie. Die zorgt voor genoeg oplaadpunten op de juiste plekken. Extra aanwijzen is niet nodig en beperkt het aantal gewone parkeerplaatsen. Zo houden we de ruimte efficiënt."
+        },
+        "119590": {
+          "position": "agree",
+          "explanation": "30 km/u binnen de bebouwde kom maakt het verkeer veel veiliger. Het voorkomt ernstige ongelukken en geeft kinderen, fietsers en voetgangers meer ruimte. Zo zorgen we samen voor een rustige, leefbare en veilige omgeving voor iedereen."
+        },
+        "119591": {
+          "position": "disagree",
+          "explanation": "Het is praktisch niet haalbaar om altijd een zorgverlener te bieden die past bij geloof of cultuur. Wij zetten in op goede, toegankelijke zorg voor iedereen, met respect voor ieders achtergrond."
+        },
+        "119593": {
+          "position": "disagree",
+          "explanation": "De ozb zorgt voor inkomsten om onze gemeente mooi, veilig en leefbaar te houden. Verlaging betekent minder geld voor onderhoud, voorzieningen en groen. Wij kiezen voor kwaliteit en een fijne omgeving voor iedereen."
+        },
+        "119597": {
+          "position": "neither",
+          "explanation": "Ondernemers moeten zelf kunnen bepalen of ze op zondag open gaan. Zo geven we ruimte aan vrijheid en ondernemerschap, zonder dat de gemeente extra regels oplegt."
+        },
+        "119602": {
+          "position": "disagree",
+          "explanation": "Met de jeugdpas kunnen we het leren zwemmen stimuleren op een manier die flexibel en betaalbaar is. Zo zorgen we dat kinderen toch veilig leren zwemmen, zonder hoge kosten voor schoolzwemmen."
+        },
+        "119604": {
+          "position": "disagree",
+          "explanation": "Een coffeeshop past niet in een gemeente als Moerdijk. Het brengt risico op overlast en problemen met zich mee. Wij kiezen voor een veilige en leefbare omgeving, zonder extra druk op onze dorpen."
+        },
+        "119606": {
+          "position": "agree",
+          "explanation": "Hoge woonflats kunnen helpen om meer woningen te realiseren, maar dit is sterk afhankelijk van de locatie. De gemeente moet per plek een zorgvuldige afweging maken, zodat leefbaarheid en ruimtelijke kwaliteit behouden blijven."
+        },
+        "119607": {
+          "position": "disagree",
+          "explanation": "Wij geloven dat het verbieden van kamerhuur geen oplossing is voor het woningtekort. Samen zetten wij ons in voor betaalbare woonruimte voor iedereen. Jij verdient een plek waar je kunt wonen en leven."
+        },
+        "119608": {
+          "position": "agree",
+          "explanation": "Wij vinden dat een autovrij centrum Zevenbergen leefbaarder maakt. De haven wordt mooier en veiliger voor iedereen. Bewoners en leveranciers blijven welkom met de auto. Samen zorgen we voor een prettig centrum waar jij graag komt."
+        },
+        "119609": {
+          "position": "disagree",
+          "explanation": "Het volledig stoppen met vergunningen voor industriële uitbreiding klinkt eenvoudig, maar het kan niet. Moerdijk is een belangrijke economische motor. Bedrijven zorgen voor werk en inkomsten. Wij zetten ons in voor groei die duurzaam en veilig is. Zo houden we balans tussen economie, leefbaarheid en"
+        },
+        "119611": {
+          "position": "agree",
+          "explanation": "Wij vinden dat huisvesting van arbeidsmigranten eerlijk verdeeld moet worden over alle kernen. Arbeidsmigratie is nodig voor onze economie. Samen zorgen we dat de lasten niet op één plek komen, maar dat elke kern bijdraagt aan een goede oplossing."
+        }
+      }
+    },
+    {
+      "id": 119540,
+      "name": "GroenLinks-PvdA",
+      "fullName": "Groenlinks - Partij van de Arbeid",
+      "website": "https://groenlinkspvda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "119553": {
+          "position": "disagree",
+          "explanation": "Onze voorkeur gaat uit naar een gelijke verdeling, maar het is geen eis, het gaat om de beschikbare kandidaten."
+        },
+        "119554": {
+          "position": "agree",
+          "explanation": "Inwoners hebben het recht om mee te beslissen via een raadgevend referendum."
+        },
+        "119555": {
+          "position": "agree",
+          "explanation": "Het beheer overnemen moet kunnen wel onder voorwaarden."
+        },
+        "119557": {
+          "position": "neither",
+          "explanation": "Vaak toestaan, maar wel rekening houden met de omgeving en het milieu."
+        },
+        "119561": {
+          "position": "agree",
+          "explanation": "De gemeente moet toezien op goede werk- en woonomstandigheden van de arbeiders."
+        },
+        "119562": {
+          "position": "agree",
+          "explanation": "Bomen zijn onmisbaar voor zowel het klimaat als voor de mens."
+        },
+        "119563": {
+          "position": "neither",
+          "explanation": "Geen verbod, maar zeker ook geen stimulering en inwoners moeten gestimuleerd worden om de stookwijzer te raadplegen."
+        },
+        "119567": {
+          "position": "agree",
+          "explanation": "Vooral in de woonwijken dienen de geluidsnormen verlaagd te worden. Ook hierop moet meer gehandhaafd worden."
+        },
+        "119568": {
+          "position": "agree",
+          "explanation": "Mensen met een beperking moeten op een makkelijke manier overal toegang hebben. Indien ondernemers hierbij geholpen moeten worden moet dit mogelijk zijn."
+        },
+        "119572": {
+          "position": "agree",
+          "explanation": "Schoolgebouwen dienen altijd goed onderhouden te worden. Verbeteren waar nodig."
+        },
+        "119573": {
+          "position": "agree",
+          "explanation": "Zodra een kind muziekles wil hebben dan moet dit mogelijk zijn."
+        },
+        "119575": {
+          "position": "neither",
+          "explanation": "De gemeente moet per monument bekijken of hulp passend is of niet. Een monument moet maatschappelijke waarde hebben."
+        },
+        "119577": {
+          "position": "agree",
+          "explanation": "Inwoners moeten zo min mogelijk overlast ervaren en zich nooit onveilig hoeven voelen."
+        },
+        "119578": {
+          "position": "neither",
+          "explanation": "In bepaalde delen moet cameratoezicht zijn. Wel moet privacy gewaarborgd zijn."
+        },
+        "119581": {
+          "position": "agree",
+          "explanation": "Voorrang geven aan jongeren die graag in de gemeente willen blijven wonen."
+        },
+        "119583": {
+          "position": "agree",
+          "explanation": "Zolang er een woningtekort is zijn alle woningen nodig."
+        },
+        "119585": {
+          "position": "neither",
+          "explanation": "Iedere inwoner dient gestimuleerd te worden naar een betaalde baan. Indien werk tijdelijk niet mogelijk is dan geen verplichting."
+        },
+        "119586": {
+          "position": "disagree",
+          "explanation": "Inwoners met een laag inkomen dienen geholpen te worden."
+        },
+        "119589": {
+          "position": "neither",
+          "explanation": "De hoeveelheid oplaadplekken moet in verhouding staan tot het aantal elektrische auto's binnen de gemeente."
+        },
+        "119590": {
+          "position": "disagree",
+          "explanation": "Binnen woonwijken 30 km per uur, op doorgaande wegen gewoon 50 km."
+        },
+        "119591": {
+          "position": "disagree",
+          "explanation": "Er zijn weinig zorgverleners beschikbaar en zorgvragers laten kiezen is discrimerend."
+        },
+        "119593": {
+          "position": "neither",
+          "explanation": "De huidige regeling functioneert goed, de gemeente moet uiteindelijk toch budget hebben."
+        },
+        "119597": {
+          "position": "agree",
+          "explanation": "Als een ondernemer geopend wil zijn dan moet dit mogelijk zijn."
+        },
+        "119602": {
+          "position": "agree",
+          "explanation": "Alle inwoners dienen te leren zwemmen en indien zij daarbij financiele hulp nodig hebben dient dit mogelijk te zijn. Het gaat niet alleen om schoolzwemmen, maar om alle leeftijden. Kunnen zwemmen is in Nederland van levensbelang."
+        },
+        "119604": {
+          "position": "neither",
+          "explanation": "Gezien de afzetmarkt zien wij geen noodzaak."
+        },
+        "119606": {
+          "position": "disagree",
+          "explanation": "Hoge woonflats passen niet in deze gemeente."
+        },
+        "119607": {
+          "position": "disagree",
+          "explanation": "Meerdere woonconcepten moeten mogelijk zijn, wel met een goede onderbouwing."
+        },
+        "119608": {
+          "position": "agree",
+          "explanation": "Wel met een ontheffing voor mensen met een invalideparkeerkaart. Ook dient er rekening te worden gehouden met laden en lossen voor de ondernemers."
+        },
+        "119609": {
+          "position": "agree",
+          "explanation": "Er is al meer dan genoeg industrie in onze gemeente."
+        },
+        "119611": {
+          "position": "agree",
+          "explanation": "Overlast voorkom je door de arbeidsmigranten juist te verspreiden over de kernen."
+        }
+      }
+    },
+    {
+      "id": 119537,
+      "name": "ChristenUnie",
+      "fullName": "ChristenUnie",
+      "website": "https://www.christenunie.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "119553": {
+          "position": "neither",
+          "explanation": "De ChristenUnie vindt het vooral van belang dat er een capabel college is, ongeacht geslacht."
+        },
+        "119554": {
+          "position": "disagree",
+          "explanation": "De gemeenteraad is gekozen als volksvertegenwoordiging van de inwoners van Moerdijk, een referendum is niet nodig."
+        },
+        "119555": {
+          "position": "agree",
+          "explanation": "Als inwoners een taak beter kunnen uitvoeren dan de gemeente, mogen ze het 'right to challenge' toepassen."
+        },
+        "119557": {
+          "position": "agree",
+          "explanation": "De boer moet ruimte krijgen om te ondernemen. Als die ruimte er nu niet is, moeten boeren die krijgen onder dezelfde voorwaarden als voor andere winkels en/of campings."
+        },
+        "119561": {
+          "position": "neither",
+          "explanation": "Huisvesting kan feitelijk plaatsvinden op grond van de werkgever, maar de (financiële) constructie moet er niet toe leiden dat huisvesting wordt ingezet als 'misbruikmogelijkheid' door de werk- of opdrachtgever voor personen die alleen seizoensarbeid komen doen."
+        },
+        "119562": {
+          "position": "agree",
+          "explanation": "De ChristenUnie wil zorgen voor een groene en gezonde leefomgeving. Dat doen we om opwarming van de aarde te voorkomen en onze leefomgeving klaar te maken voor extreme weersomstandigheden."
+        },
+        "119563": {
+          "position": "agree",
+          "explanation": "De geldende regels voor overlast zijn al voldoende."
+        },
+        "119567": {
+          "position": "agree",
+          "explanation": "Een feest is leuk, maar niet alle inwoners hoeven ervan mee te genieten. Door de geluidsnormen strenger te maken, hebben minder inwoners er last van en wordt het gehoor van feestgangers beschermd."
+        },
+        "119568": {
+          "position": "disagree",
+          "explanation": "Ondernemers zijn zelf verantwoordelijk voor de toegankelijkheid van hun gebouw."
+        },
+        "119572": {
+          "position": "agree",
+          "explanation": "Veel schoolgebouwen binnen de gemeente zijn dringend aan nieuwbouw of renovatie toe."
+        },
+        "119573": {
+          "position": "agree",
+          "explanation": "De huidige subsidieregeling moet behouden blijven."
+        },
+        "119575": {
+          "position": "disagree",
+          "explanation": "Cultureel erfgoed is van groot belang, hier dient zorgvuldig mee om te worden gegaan."
+        },
+        "119577": {
+          "position": "disagree",
+          "explanation": "Er moet vooral voorkomen worden dat onveiligheid ontstaat, in plaats van te handhaven als er al onveiligheid is. Als voorkomen niet lukt, moet er wel meer gehandhaafd worden."
+        },
+        "119578": {
+          "position": "disagree",
+          "explanation": "De ChristenUnie is voorstander van het voorkomen van onveilige situaties in plaats van het achteraf handhaven via camera’s. Als dat niet werkt, is de plaatsing van camera's mogelijk."
+        },
+        "119581": {
+          "position": "agree",
+          "explanation": "Inwoners die graag in de gemeente Moerdijk willen blijven, krijgen voorrang op woningen. Maar nieuwe inwoners zijn ook welkom, zo behouden we een gezonde bevolkingsopbouw."
+        },
+        "119583": {
+          "position": "disagree",
+          "explanation": "Door dit toe te staan (al dan niet tijdelijk) verdwijnt het recreatieve karakter en worden het op termijn woonwijken. Daarvoor zijn ze niet bedoeld."
+        },
+        "119585": {
+          "position": "agree",
+          "explanation": "We willen iedereen die kan werken aan het werk krijgen. Vrijwilligers zijn een pijler van het maatschappelijk leven en door tekorten, o.a. in de zorg, steeds belangrijker. Daarom moeten we vrijwilligerswerk stimuleren voor jong en oud: meedoen houdt mensen actief, betrokken en gezond."
+        },
+        "119586": {
+          "position": "disagree",
+          "explanation": "De ChristenUnie kiest voor een barmhartig armoedebeleid waarin de sterkste schouders de zwaarste lasten dragen."
+        },
+        "119589": {
+          "position": "agree",
+          "explanation": "Er komen steeds meer elektrische auto's; de gemeente moet dit maximaal faciliteren."
+        },
+        "119590": {
+          "position": "agree",
+          "explanation": "Dat draagt bij aan verkeersveiligheid."
+        },
+        "119591": {
+          "position": "neither",
+          "explanation": "Inwoners moeten waar mogelijk kunnen kiezen voor een zorgverlener die past bij hun identiteit, maar dat is niet altijd mogelijk."
+        },
+        "119593": {
+          "position": "neither",
+          "explanation": "De OZB is een belangrijke inkomstenbron van de gemeente. Met de inkomsten uit de OZB kan een fonds worden gecreëerd om daarmee (niet rendabel)e aanpassingen aan gebouwen te financieren ten behoeve van klimaatadaptatie of het omzetten van niet-woningen naar woningen."
+        },
+        "119597": {
+          "position": "disagree",
+          "explanation": "Een moment van rust is belangrijk, koopzondagen horen daar niet bij. Er zouden minder openstellingen moeten zijn."
+        },
+        "119602": {
+          "position": "disagree",
+          "explanation": "Voor mensen die dit niet zelf kunnen betalen, is een regeling."
+        },
+        "119604": {
+          "position": "disagree",
+          "explanation": "Het gebruik van (soft)drugs is een groot maatschappelijk probleem. Een coffeeshop vestigen binnen de gemeente stimuleert en normaliseert drugsgebruik en dat is onwenselijk."
+        },
+        "119606": {
+          "position": "neither",
+          "explanation": "Woonflats zijn een effectieve manier om de woningnood te verminderen. Wel moet gekeken worden hoe hoog flats mogen zijn in verhouding tot de rest van de omgeving."
+        },
+        "119607": {
+          "position": "disagree",
+          "explanation": "Als aan de regels wordt voldaan, is het verhuren van losse kamers mogelijk en biedt het een oplossing voor woningnood."
+        },
+        "119608": {
+          "position": "agree",
+          "explanation": "De ChristenUnie wil een proef doen met “auto te gast” in centra. Bezoekers kunnen naast het centrum parkeren waardoor er in de centra zelf geen overlast ontstaat."
+        },
+        "119609": {
+          "position": "agree",
+          "explanation": "De grenzen zijn bereikt qua ruimte en arbeidspotentieel. Binnen de bestaande grenzen kan ontwikkeld en geschoven worden."
+        },
+        "119611": {
+          "position": "neither",
+          "explanation": "We zorgen voor zelfstandige woonruimte voor arbeidsmigranten zodat ze niet afhankelijk zijn van hun werkgever of uitzendbureau. Arbeidsmigranten worden geclusterd ondergebracht; met de juiste voorzieningen en dichtbij een kern."
+        }
+      }
+    },
+    {
+      "id": 119538,
+      "name": "D66",
+      "fullName": "D66",
+      "website": "https://d66.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "119553": {
+          "position": "disagree",
+          "explanation": "Gelijke kansen zijn belangrijk, maar een verplicht quotum voor het college is niet haalbaar en kan kwaliteit beperken. D66 wil diversiteit stimuleren en talent laten tellen, met oog voor representatie en gelijke kansen."
+        },
+        "119554": {
+          "position": "disagree",
+          "explanation": "Referenda lijken democratisch, maar werken vaak niet goed bij complexe onderwerpen. D66 kiest liever voor inspraak en participatie, zodat inwoners echt invloed hebben op besluiten."
+        },
+        "119555": {
+          "position": "agree",
+          "explanation": "Als inwoners een sporthal of plantsoen willen beheren, moet dat kunnen, mits er goede afspraken komen. D66 wil dat de gemeente dit faciliteert en inwoners ondersteunt waar nodig."
+        },
+        "119557": {
+          "position": "disagree",
+          "explanation": "D66 wil ruimte voor ondernemerschap, maar niet zonder regels. We kijken naar veiligheid, leefbaarheid en natuur, zodat plannen passen bij de omgeving."
+        },
+        "119561": {
+          "position": "disagree",
+          "explanation": "Goede huisvesting is belangrijk, maar niet alleen op bedrijfsterreinen. D66 kiest voor spreiding en kwaliteit, zodat leefbaarheid en veiligheid voor iedereen gewaarborgd blijven."
+        },
+        "119562": {
+          "position": "disagree",
+          "explanation": "D66 wil groen behouden, maar één-op-één herplant is niet altijd haalbaar. We kiezen voor slimme vergroening en biodiversiteit in de hele gemeente."
+        },
+        "119563": {
+          "position": "agree",
+          "explanation": "D66 wil vrijheid voor inwoners, maar met oog voor gezondheid en milieu. Voorlichting en bewust gebruik zijn belangrijk om overlast te beperken."
+        },
+        "119567": {
+          "position": "disagree",
+          "explanation": "D66 wil ruimte voor evenementen, maar met balans. Strengere normen zijn niet nodig; handhaving van bestaande regels en overleg met organisatoren wel."
+        },
+        "119568": {
+          "position": "disagree",
+          "explanation": "D66 wil toegankelijkheid stimuleren, maar niet met blanco subsidies. We kiezen voor samenwerking en advies, zodat gebouwen stap voor stap toegankelijker worden."
+        },
+        "119572": {
+          "position": "disagree",
+          "explanation": "D66 wil goede schoolgebouwen, maar niet alles tegelijk. We kiezen voor prioriteit waar het echt nodig is en samenwerking met schoolbesturen."
+        },
+        "119573": {
+          "position": "disagree",
+          "explanation": "D66 wil cultuur en muziek stimuleren, maar niet via een vaste subsidie voor iedereen. We kiezen voor samenwerking met scholen en maatwerk waar het nodig is."
+        },
+        "119575": {
+          "position": "disagree",
+          "explanation": "D66 wil erfgoed behouden. Bezuinigen schaadt cultuur en identiteit. We kiezen voor zorgvuldig beheer en verduurzaming van monumenten."
+        },
+        "119577": {
+          "position": "agree",
+          "explanation": "D66 pakt onveiligheid aan bij de bron: preventie waar het kan, meer wijkagenten en steun voor buurtpreventie. Boa’s helpen bij toezicht en handhaving. Samen zorgen we voor veilige kernen."
+        },
+        "119578": {
+          "position": "disagree",
+          "explanation": "D66 kiest voor veiligheid met respect voor privacy. Cameratoezicht alleen waar het echt nodig is, niet overal."
+        },
+        "119581": {
+          "position": "disagree",
+          "explanation": "We willen geen strikte regel, omdat dat niet altijd eerlijk of haalbaar is. Soms kan een deel van de woningen of een speciale regeling helpen om lokale inwoners sneller een huis te geven."
+        },
+        "119583": {
+          "position": "disagree",
+          "explanation": "D66 wil duidelijkheid en leefbaarheid. Vakantiewoningen zijn niet bedoeld als permanente woningen. We kiezen voor oplossingen binnen bestaande woongebieden."
+        },
+        "119585": {
+          "position": "disagree",
+          "explanation": "D66 wil participatie stimuleren, maar niet via dwang. We kiezen voor maatwerk en begeleiding, zodat mensen naar vermogen mee kunnen doen."
+        },
+        "119586": {
+          "position": "disagree",
+          "explanation": "D66 wil dat mensen met een laag inkomen niet in de knel komen. Kwijtschelding blijft nodig om armoede te voorkomen."
+        },
+        "119589": {
+          "position": "disagree",
+          "explanation": "D66 wil verduurzaming, maar niet door parkeerplaatsen massaal om te zetten. We kiezen voor slimme spreiding en laadplekken op logische locaties."
+        },
+        "119590": {
+          "position": "disagree",
+          "explanation": "D66 wil verkeersveiligheid, maar niet overal 30 km/u. We kiezen voor maatwerk: waar het nodig is, passen we snelheid aan."
+        },
+        "119591": {
+          "position": "disagree",
+          "explanation": "D66 wil keuzevrijheid, maar niet als dat zorg vertraagt of beperkt. We kiezen voor kwaliteit en toegankelijkheid voor iedereen."
+        },
+        "119593": {
+          "position": "disagree",
+          "explanation": "D66 wil gezonde gemeentefinanciën. Verlaging van OZB beperkt investeringen in voorzieningen en duurzaamheid. We kiezen voor stabiele lasten en verantwoord beleid."
+        },
+        "119597": {
+          "position": "neither",
+          "explanation": "D66 wil ruimte voor ondernemers én balans voor inwoners. Er zijn al koopzondagen mogelijk. We kiezen voor maatwerk: afspraken die passen bij lokale behoefte, niet meer regels."
+        },
+        "119602": {
+          "position": "disagree",
+          "explanation": "Scholen hebben aangegeven dat zij schoolzwemmen niet kunnen faciliteren. D66 kiest voor samenwerking met verenigingen en ouders, niet voor een vaste gemeentelijke regeling."
+        },
+        "119604": {
+          "position": "agree",
+          "explanation": "Een gereguleerde coffeeshop helpt bij controle en veiligheid. Zo voorkomen we illegale verkoop en overlast. De gemeente stelt duidelijke regels voor locatie en toezicht."
+        },
+        "119606": {
+          "position": "agree",
+          "explanation": "Verdichting helpt om ruimte te besparen en natuur te beschermen. Flats kunnen op geschikte plekken, met aandacht voor leefbaarheid, groen en voorzieningen."
+        },
+        "119607": {
+          "position": "agree",
+          "explanation": "Kamerverhuur mag niet leiden tot overlast of slechte woonkwaliteit. We willen duidelijke regels en handhaving om misstanden te voorkomen en leefbaarheid te beschermen."
+        },
+        "119608": {
+          "position": "neither",
+          "explanation": "Autovrij kan bijdragen aan een aantrekkelijk centrum, maar bereikbaarheid blijft belangrijk. We kiezen voor een goede balans: minder auto’s, meer ruimte voor voetgangers en fietsers."
+        },
+        "119609": {
+          "position": "disagree",
+          "explanation": "Industrie is belangrijk voor werk en economie, maar uitbreiding moet duurzaam en veilig. We stellen strenge eisen voor milieu, energie en gezondheid."
+        },
+        "119611": {
+          "position": "agree",
+          "explanation": "Spreiding voorkomt concentratie en overlast. Huisvesting moet veilig en netjes zijn, met goede afspraken met bedrijven en bewoners."
+        }
+      }
+    },
+    {
+      "id": 119534,
+      "name": "VOORUIT!",
+      "fullName": "Moerdijk Vooruit",
+      "website": "https://www.moerdijkvooruit.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "119553": {
+          "position": "disagree",
+          "explanation": "VOORUIT! vindt: NEE! De beste mensen moeten wethouder worden. Man of vrouw maakt niet uit. VOORUIT! vindt het belangrijk dat verschillende mensen meedoen en dat kwaliteit voorop staat, maar geen verplichte verdeling man/vrouw. De inwoners moeten goed worden vertegenwoordigd."
+        },
+        "119554": {
+          "position": "agree",
+          "explanation": "VOORUIT! vindt: JA! Bij grote beslissingen en belangrijke onderwerpen moeten inwoners hun mening kunnen geven via een referendum. Echte democratie betekent dat mensen echt meedenken, meedoen en meebeslissen. Niet alleen iedere vier jaar bij de verkiezingen. Jullie stem telt."
+        },
+        "119555": {
+          "position": "disagree",
+          "explanation": "VOORUIT! vindt: NEE! Een sporthal of plantsoen beheren is de TAAK VAN DE GEMEENTE! Daar betalen inwoners belasting voor. Inwoners mogen dit van de gemeente verwachten. De gemeente mag haar verantwoordelijkheid niet afschuiven. Wel kunnen inwoners natuurlijk meedenken over het gebruik."
+        },
+        "119557": {
+          "position": "disagree",
+          "explanation": "VOORUIT! vindt: NIET ALTIJD! We helpen boeren graag met extra inkomsten. Maar een winkel is iets anders dan een camping. De gemeente moet kijken naar veiligheid, overlast voor buren en de omgeving. Goede afspraken zijn belangrijk voor iedereen. En maatwerk is belangrijk."
+        },
+        "119561": {
+          "position": "agree",
+          "explanation": "VOORUIT! vindt: JA! Wie seizoenarbeiders inhuurt, moet voor huisvesting zorgen op het eigen bedrijfsterrein. Dit hoort bij ondernemen. En Moerdijk hoeft ook geen arbeidsmigranten op te vangen die elders werken. Zo blijven woningen beschikbaar voor eigen inwoners en dorpen leefbaar."
+        },
+        "119562": {
+          "position": "agree",
+          "explanation": "VOORUIT! vindt: JA! Voor elke gekapte boom moet minstens één nieuwe boom worden geplant. Liever zelfs twee dan één. Groen is belangrijk voor leefbare dorpen. Als het echt niet kan, moet de gemeente goed uitleggen waarom niet."
+        },
+        "119563": {
+          "position": "agree",
+          "explanation": "VOORUIT! vindt: JA! Pak liever de grote vervuilers aan en laat inwoners met rust. Kijk naar de echte vervuilers: industrieterrein Moerdijk, PowerPort, snelwegen en schepen. Houtkachels zijn een druppel op de gloeiende plaat. De gemeente heeft trouwens geen capaciteit om te handhaven."
+        },
+        "119567": {
+          "position": "disagree",
+          "explanation": "VOORUIT! vindt: NEE! De huidige normen zijn voldoende. Festivals en feesten horen bij leefbare dorpen en brengen mensen samen. De normen moeten wel worden gehandhaafd. Niet alles hoeft strenger. Laat mensen samen leuke dingen organiseren en geniet ervan."
+        },
+        "119568": {
+          "position": "disagree",
+          "explanation": "VOORUIT! vindt: NEE! Ondernemers moeten dit zelf willen regelen, dit hoort bij ondernemen. Toegankelijkheid is belangrijk, maar de gemeente hoeft dit niet altijd te betalen. Ondernemers zijn zelf verantwoordelijk voor hun pand en klanten. Dit is geen taak voor belastinggeld."
+        },
+        "119572": {
+          "position": "agree",
+          "explanation": "VOORUIT! vindt: JA! Investeer waar dit nodig is. Veiligheid en kwaliteit zijn belangrijk voor kinderen. De gemeente moet prioriteiten stellen en eerst scholen aanpakken die het hardst toe zijn aan nieuwbouw onderhoud of verbetering."
+        },
+        "119573": {
+          "position": "agree",
+          "explanation": "VOORUIT! vindt: JA! De huidige subsidieregeling voor muziekles moet blijven. Dit is belangrijk voor ontwikkeling van kinderen. De gemeente geeft nu al subsidie voor alle kinderen tot 21 jaar. Gezinnen met een laag inkomen kunnen ook nog het Jeugdfonds gebruiken. Dit moet zo blijven."
+        },
+        "119575": {
+          "position": "disagree",
+          "explanation": "VOORUIT! vindt: NEE! De bestaande regelingen voor monumentenzorg moeten blijven. Monumenten zijn belangrijk voor onze geschiedenis en dorpen. De gemeente moet hiervoor een duidelijk plan opstellen, waarin alle monumenten van alle kernen zijn opgenomen."
+        },
+        "119577": {
+          "position": "disagree",
+          "explanation": "VOORUIT! vindt: NEE! Meer boa's is niet de oplossing. De huidige boa's moeten efficiënter werken en prioriteiten beter stellen. Dit kost gemeentegeld terwijl we eerst moeten kijken of het huidige aantal effectiever kan werken. Veiligheid is belangrijk, maar meer mensen is niet altijd het antwoord."
+        },
+        "119578": {
+          "position": "disagree",
+          "explanation": "VOORUIT! vindt: NEE! Cameratoezicht lost niet alle problemen op en kost veel gemeentegeld. Privacy van inwoners staat voorop. We moeten eerst kijken naar andere oplossingen zoals betere verlichting, meer sociale controle en aanpak van oorzaken. Camera's zijn geen wondermiddel voor veiligheid."
+        },
+        "119581": {
+          "position": "agree",
+          "explanation": "VOORUIT! vindt: JA! Inwoners van Moerdijk moeten voorrang krijgen bij sociale huurwoningen. Dit zijn onze inwoners en zij moeten hier kunnen blijven wonen. De gemeente moet de wettelijke mogelijkheden maximaal benutten om voorrang voor eigen inwoners te regelen. Woningen zijn er voor Moerdijkers."
+        },
+        "119583": {
+          "position": "disagree",
+          "explanation": "VOORUIT! vindt: NEE! Recreatiegebieden zijn aangewezen voor recreatie en niet voor permanente bewoning. Dit verstoort de balans van de leefomgeving. De gemeente moet zorgen dat dit niet nodig is door voldoende reguliere woningen te bouwen. Vakantiewoningen horen voor vakanties."
+        },
+        "119585": {
+          "position": "agree",
+          "explanation": "VOORUIT! vindt: JA, als het zinvol is! Werken geeft structuur, zelfrespect en helpt mensen terug naar de arbeidsmarkt. Het moet wel passend werk zijn dat echt bijdraagt aan de samenleving. Niet zinloos werk, maar werk dat mensen helpt groeien. En als het kan, ook de gemeente ten goede komt."
+        },
+        "119586": {
+          "position": "disagree",
+          "explanation": "VOORUIT! vindt: NEE! Kwijtschelding voor mensen met een laag inkomen moet blijven. Zij hebben dit nodig. Maar de huidige regels moeten gehandhaafd blijven en niet ruimer worden."
+        },
+        "119589": {
+          "position": "disagree",
+          "explanation": "VOORUIT! vindt: NEE! Dit verstoort de leefbaarheid in de kernen door verlies van parkeerplaatsen. Oplaadpunten zijn een marktontwikkeling en de techniek gaat snel. We zijn eerder voor laadpleinen bij tankstations. De gemeente hoeft dit niet overal in de dorpen te regelen. Laat de markt dit oplossen."
+        },
+        "119590": {
+          "position": "disagree",
+          "explanation": "VOORUIT! vindt: NEE, niet overal 30 km/u. Alleen daar waar het echt nodig is voor de veiligheid, zoals bij scholen en in smalle woonstraten. Op doorgaande wegen moet 50 km/u blijven voor goede doorstroming. Maatwerk werkt beter dan een algemene regel. Niet alles hoeft hetzelfde."
+        },
+        "119591": {
+          "position": "disagree",
+          "explanation": "VOORUIT! vindt: NEE! De gemeente moet zorgen voor kwalitatief goede zorg tegen de juiste kosten. Mensen kunnen kiezen uit een lijst met zorgaanbieders. Speciale wensen op basis van geloof of cultuur moeten inwoners zelf regelen. De gemeente kan niet alles bieden voor iedereen."
+        },
+        "119593": {
+          "position": "disagree",
+          "explanation": "VOORUIT! vindt: NEE! Moerdijk heeft al een lage OZB vergeleken met andere gemeenten. De opbrengst van bestaande woningen gaat alleen mee met de prijsindex. Door verlaging van de OZB gaan voorzieningen verdwijnen, omdat er geen geld meer voor is. Dit is voor VOORUIT! niet acceptabel."
+        },
+        "119597": {
+          "position": "disagree",
+          "explanation": "VOORUIT! vindt: NEE! Ondernemers hebben al de ruime vrijheid om open te zijn wanneer zij dit willen. De regeling voor koopzondagen geeft hiervoor op alle zondagen en feestdagen ruimte en dit moet zo blijven. Dit geeft vrijheid voor ondernemers én mogelijkheid voor rust."
+        },
+        "119602": {
+          "position": "agree",
+          "explanation": "VOORUIT! vindt: JA! Zwemles redt levens. Moerdijk heeft veel water rondom. Ieder kind krijgt € 600 voor muziekles, dit kan en moet ook voor zwemles. De gemeente regelt schoolzwemmen diploma A en betaalt mee voor alle kinderen. Veiligheid is het geld waard."
+        },
+        "119604": {
+          "position": "disagree",
+          "explanation": "VOORUIT! vindt: NEE! Moerdijk heeft geen coffeeshops en dit moet zo blijven. Dit past niet bij het karakter van onze dorpen. De gemeente beslist hier zelf over en hoeft niets toe te staan. We focussen op échte problemen: behoud van Moerdijk-dorp, leefbaarheid kernen, transparantie van bestuur."
+        },
+        "119606": {
+          "position": "disagree",
+          "explanation": "VOORUIT! vindt: NEE! Moerdijk is geen stad, maar een verzameling van mooie dorpen. Hoge woonflats horen daar niet, maar appartementencomplexen met maximaal 5 woonlagen wel. Op deze manier bieden we woningen. En we behouden kleinschaligheid en menselijke maat voor leefbare kernen."
+        },
+        "119607": {
+          "position": "disagree",
+          "explanation": "VOORUIT! vindt: NEE! Door woningnood zijn kamers nodig. Verbieden helpt niet. Mensen zoeken verschillende woonvormen. Wel goede regels tegen overlast: vergunning, maximum bewoners, kwaliteitseisen, parkeerplekken en handhaving. Reguleer goed, verbied niet."
+        },
+        "119608": {
+          "position": "agree",
+          "explanation": "VOORUIT! vindt: JA! Autovrij centrum maakt Zevenbergen veiliger. Bewoners parkeren dichtbij hun huis, bezoekers en mindervaliden nabij (100-200m), bevoorrading is goed geregeld. Haal de parkeergarage uit het masterplan centrum terug of zorg voor een goed alternatief."
+        },
+        "119609": {
+          "position": "agree",
+          "explanation": "VOORUIT! vindt: JA! Moerdijk heeft 16x meer industrieterrein per inwoner dan gemiddeld. Huidige ruimte is voldoende, herbestemmen kan. Verdere uitbreiding betekent meer gevaar, overlast en schade. Leefbaarheid gaat voor. PowerPort toont: industrie vernietigt dorpen. Genoeg is genoeg!"
+        },
+        "119611": {
+          "position": "agree",
+          "explanation": "VOORUIT! vindt: JA! Huisvesting in één kern leidt tot overlast en belemmert integratie. Spreiding maakt het beheersbaar en bevordert contact. Ondernemers moeten de huisvesting regelen. Onder goede voorwaarden: kwaliteit huisvesting, maximaal aantal per plek, parkeren geregeld, handhaving overlast."
+        }
+      }
+    },
+    {
+      "id": 203235,
+      "name": "FvD",
+      "fullName": "Forum voor Democratie",
+      "website": "https://fvd.nl/",
+      "hasSeats": false,
+      "participates": true,
+      "positions": {
+        "119553": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "119554": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "119555": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "119557": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "119561": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "119562": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "119563": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "119567": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "119568": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "119572": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "119573": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "119575": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "119577": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "119578": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "119581": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "119583": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "119585": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "119586": {
+          "position": "neither",
+          "explanation": ""
+        },
+        "119589": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "119590": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "119591": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "119593": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "119597": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "119602": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "119604": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "119606": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "119607": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "119608": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "119609": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "119611": {
+          "position": "disagree",
+          "explanation": ""
+        }
+      }
+    }
+  ],
+  "statements": [
+    {
+      "id": 119609,
+      "index": 1,
+      "theme": "Uitbreiding industrie",
+      "themeId": "uitbreiding-industrie",
+      "title": "Moerdijk moet stoppen met vergunningen voor uitbreiding van de industrie.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119583,
+      "index": 2,
+      "theme": "Vakantiewoningen",
+      "themeId": "vakantiewoningen",
+      "title": "De gemeente moet toestaan dat vakantiewoningen gebruikt worden als vast woonadres.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119572,
+      "index": 3,
+      "theme": "Verbeteren schoolgebouwen",
+      "themeId": "verbeteren-schoolgebouwen",
+      "title": "De gemeente moet in de komende raadsperiode geld steken in het verbeteren van alle schoolgebouwen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119563,
+      "index": 4,
+      "theme": "Houtstook",
+      "themeId": "houtstook",
+      "title": "In Moerdijk moet het gebruik van open haarden en houtkachels toegestaan blijven.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119561,
+      "index": 5,
+      "theme": "Huisvesting buitenlandse werknemers",
+      "themeId": "huisvesting-buitenlandse-werknemers",
+      "title": "Werkgevers in de land- en tuinbouw moeten zelf zorgen voor de huisvesting van seizoenarbeiders op hun eigen bedrijfsterrein.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119555,
+      "index": 6,
+      "theme": "Beheer door burgers",
+      "themeId": "beheer-door-burgers",
+      "title": "Inwoners moeten het beheer van bijvoorbeeld een sporthal of plantsoen kunnen overnemen van de gemeente.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119604,
+      "index": 7,
+      "theme": "Coffeeshop",
+      "themeId": "coffeeshop",
+      "title": "De gemeente moet de vestiging van een coffeeshop toestaan.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119557,
+      "index": 8,
+      "theme": "Boerencampings",
+      "themeId": "boerencampings",
+      "title": "De gemeente moet boeren altijd toestaan om bij hun boerenbedrijf bijvoorbeeld een winkel of een camping te openen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119562,
+      "index": 9,
+      "theme": "Bomen",
+      "themeId": "bomen",
+      "title": "Voor elke gekapte boom in de gemeente moet een nieuwe worden geplant.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119575,
+      "index": 10,
+      "theme": "Monumenten",
+      "themeId": "monumenten",
+      "title": "De gemeente moet bezuinigen op de monumentenzorg.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119591,
+      "index": 11,
+      "theme": "Zorgkeuze",
+      "themeId": "zorgkeuze",
+      "title": "Mensen die zorg nodig hebben, moeten altijd kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of levensovertuiging.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119577,
+      "index": 12,
+      "theme": "Handhavers",
+      "themeId": "handhavers",
+      "title": "In Moerdijk moeten meer gemeentelijke handhavers (boa’s) komen die zich met veiligheid bezighouden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119589,
+      "index": 13,
+      "theme": "Elektrische laadpalen",
+      "themeId": "elektrische-laadpalen",
+      "title": "De gemeente moet meer parkeerplaatsen aanwijzen als oplaadplekken voor elektrische auto's.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119585,
+      "index": 14,
+      "theme": "Tegenprestatie voor uitkering",
+      "themeId": "tegenprestatie-voor-uitkering",
+      "title": "Mensen die een bijstandsuitkering krijgen, moeten in ruil daarvoor maatschappelijk zinvol werk doen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119573,
+      "index": 15,
+      "theme": "Muziekles",
+      "themeId": "muziekles",
+      "title": "Elk basisschoolkind moet met subsidie van de gemeente muziekles kunnen krijgen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119581,
+      "index": 16,
+      "theme": "Voorrang huisvesting",
+      "themeId": "voorrang-huisvesting",
+      "title": "Bij de toewijzing van een sociale huurwoning moeten woningzoekenden uit de eigen gemeente voorrang krijgen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119553,
+      "index": 17,
+      "theme": "Burgemeester en college",
+      "themeId": "burgemeester-en-college",
+      "title": "In het nieuwe college van burgemeester en wethouders moet het aantal mannen en vrouwen gelijk zijn.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119578,
+      "index": 18,
+      "theme": "Cameratoezicht",
+      "themeId": "cameratoezicht",
+      "title": "In Moerdijk moet meer cameratoezicht komen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119568,
+      "index": 19,
+      "theme": "Toegankelijkheid gebouwen",
+      "themeId": "toegankelijkheid-gebouwen",
+      "title": "De gemeente moet ondernemers financieel helpen om hun gebouw toegankelijker te maken voor mensen met een beperking.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119606,
+      "index": 20,
+      "theme": "Woonflats",
+      "themeId": "woonflats",
+      "title": "In Moerdijk mogen hoge woonflats komen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119590,
+      "index": 21,
+      "theme": "Snelheid auto's",
+      "themeId": "snelheid-auto-s",
+      "title": "De maximumsnelheid binnen de bebouwde kom moet naar 30 km/u.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119586,
+      "index": 22,
+      "theme": "Kwijtschelding stoppen",
+      "themeId": "kwijtschelding-stoppen",
+      "title": "De gemeente moet stoppen met het kwijtschelden van de gemeentelijke belastingen voor inwoners met een laag inkomen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119567,
+      "index": 23,
+      "theme": "Festivalgeluid",
+      "themeId": "festivalgeluid",
+      "title": "De geluidsnormen bij festivals en feesten moeten strenger worden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119593,
+      "index": 24,
+      "theme": "Belasting op gebouwen",
+      "themeId": "belasting-op-gebouwen",
+      "title": "De onroerendezaakbelasting (ozb) moet omlaag.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119602,
+      "index": 25,
+      "theme": "Schoolzwemmen",
+      "themeId": "schoolzwemmen",
+      "title": "De gemeente moet geld beschikbaar stellen voor schoolzwemmen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119607,
+      "index": 26,
+      "theme": "Verkamering",
+      "themeId": "verkamering",
+      "title": "De gemeente moet verbieden dat verhuurders losse kamers verhuren in plaats van hele huizen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119554,
+      "index": 27,
+      "theme": "Referendum",
+      "themeId": "referendum",
+      "title": "De inwoners van Moerdijk moeten over belangrijke onderwerpen hun mening kunnen geven via een referendum.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119608,
+      "index": 28,
+      "theme": "Autovrij",
+      "themeId": "autovrij",
+      "title": "Het centrum van Zevenbergen moet autovrij worden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119597,
+      "index": 29,
+      "theme": "Koopzondagen",
+      "themeId": "koopzondagen",
+      "title": "De gemeente moet meer koopzondagen toelaten.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 119611,
+      "index": 30,
+      "theme": "Arbeidsmigranten",
+      "themeId": "arbeidsmigranten",
+      "title": "Moerdijk moet de huisvesting van arbeidsmigranten spreiden over alle kernen in de gemeente.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    }
+  ]
+}

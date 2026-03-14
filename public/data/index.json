@@ -1,0 +1,2066 @@
+[
+  {
+    "id": "GM0014",
+    "name": "Groningen",
+    "slug": "groningen",
+    "numParties": 15,
+    "numStatements": 30,
+    "hasOfficialEnglish": true
+  },
+  {
+    "id": "GM0034",
+    "name": "Almere",
+    "slug": "almere",
+    "numParties": 19,
+    "numStatements": 28,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0047",
+    "name": "Veendam",
+    "slug": "veendam",
+    "numParties": 10,
+    "numStatements": 28,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0050",
+    "name": "Zeewolde",
+    "slug": "zeewolde",
+    "numParties": 7,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0059",
+    "name": "Achtkarspelen",
+    "slug": "achtkarspelen",
+    "numParties": 10,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0072",
+    "name": "Harlingen",
+    "slug": "harlingen",
+    "numParties": 8,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0080",
+    "name": "Leeuwarden",
+    "slug": "leeuwarden",
+    "numParties": 15,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0090",
+    "name": "Smallingerland",
+    "slug": "smallingerland",
+    "numParties": 10,
+    "numStatements": 29,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0098",
+    "name": "Weststellingwerf",
+    "slug": "weststellingwerf",
+    "numParties": 9,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0109",
+    "name": "Coevorden",
+    "slug": "coevorden",
+    "numParties": 5,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0114",
+    "name": "Emmen",
+    "slug": "emmen",
+    "numParties": 13,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0118",
+    "name": "Hoogeveen",
+    "slug": "hoogeveen",
+    "numParties": 9,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0141",
+    "name": "Almelo",
+    "slug": "almelo",
+    "numParties": 18,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0147",
+    "name": "Borne",
+    "slug": "borne",
+    "numParties": 7,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0148",
+    "name": "Dalfsen",
+    "slug": "dalfsen",
+    "numParties": 7,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0150",
+    "name": "Deventer",
+    "slug": "deventer",
+    "numParties": 13,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0153",
+    "name": "Enschede",
+    "slug": "enschede",
+    "numParties": 17,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0158",
+    "name": "Haaksbergen",
+    "slug": "haaksbergen",
+    "numParties": 6,
+    "numStatements": 27,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0160",
+    "name": "Hardenberg",
+    "slug": "hardenberg",
+    "numParties": 10,
+    "numStatements": 27,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0164",
+    "name": "Hengelo (O.)",
+    "slug": "hengelo-o",
+    "numParties": 14,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0168",
+    "name": "Losser",
+    "slug": "losser",
+    "numParties": 6,
+    "numStatements": 26,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0171",
+    "name": "Noordoostpolder",
+    "slug": "noordoostpolder",
+    "numParties": 8,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0173",
+    "name": "Oldenzaal",
+    "slug": "oldenzaal",
+    "numParties": 7,
+    "numStatements": 29,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0177",
+    "name": "Raalte",
+    "slug": "raalte",
+    "numParties": 7,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0180",
+    "name": "Staphorst",
+    "slug": "staphorst",
+    "numParties": 6,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0183",
+    "name": "Tubbergen",
+    "slug": "tubbergen",
+    "numParties": 4,
+    "numStatements": 20,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0184",
+    "name": "Urk",
+    "slug": "urk",
+    "numParties": 8,
+    "numStatements": 24,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0189",
+    "name": "Wierden",
+    "slug": "wierden",
+    "numParties": 6,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0193",
+    "name": "Zwolle",
+    "slug": "zwolle",
+    "numParties": 12,
+    "numStatements": 29,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0197",
+    "name": "Aalten",
+    "slug": "aalten",
+    "numParties": 6,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0200",
+    "name": "Apeldoorn",
+    "slug": "apeldoorn",
+    "numParties": 15,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0202",
+    "name": "Arnhem",
+    "slug": "arnhem",
+    "numParties": 15,
+    "numStatements": 29,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0209",
+    "name": "Beuningen",
+    "slug": "beuningen",
+    "numParties": 7,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0213",
+    "name": "Brummen",
+    "slug": "brummen",
+    "numParties": 6,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0214",
+    "name": "Buren",
+    "slug": "buren",
+    "numParties": 8,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0216",
+    "name": "Culemborg",
+    "slug": "culemborg",
+    "numParties": 9,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0221",
+    "name": "Doesburg",
+    "slug": "doesburg",
+    "numParties": 6,
+    "numStatements": 29,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0222",
+    "name": "Doetinchem",
+    "slug": "doetinchem",
+    "numParties": 11,
+    "numStatements": 25,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0225",
+    "name": "Druten",
+    "slug": "druten",
+    "numParties": 6,
+    "numStatements": 29,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0226",
+    "name": "Duiven",
+    "slug": "duiven",
+    "numParties": 8,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0228",
+    "name": "Ede",
+    "slug": "ede",
+    "numParties": 15,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0230",
+    "name": "Elburg",
+    "slug": "elburg",
+    "numParties": 6,
+    "numStatements": 27,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0232",
+    "name": "Epe",
+    "slug": "epe",
+    "numParties": 9,
+    "numStatements": 26,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0233",
+    "name": "Ermelo",
+    "slug": "ermelo",
+    "numParties": 7,
+    "numStatements": 27,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0243",
+    "name": "Harderwijk",
+    "slug": "harderwijk",
+    "numParties": 7,
+    "numStatements": 28,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0244",
+    "name": "Hattem",
+    "slug": "hattem",
+    "numParties": 7,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0246",
+    "name": "Heerde",
+    "slug": "heerde",
+    "numParties": 6,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0252",
+    "name": "Heumen",
+    "slug": "heumen",
+    "numParties": 6,
+    "numStatements": 27,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0262",
+    "name": "Lochem",
+    "slug": "lochem",
+    "numParties": 8,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0263",
+    "name": "Maasdriel",
+    "slug": "maasdriel",
+    "numParties": 7,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0267",
+    "name": "Nijkerk",
+    "slug": "nijkerk",
+    "numParties": 7,
+    "numStatements": 29,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0268",
+    "name": "Nijmegen",
+    "slug": "nijmegen",
+    "numParties": 13,
+    "numStatements": 28,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0269",
+    "name": "Oldebroek",
+    "slug": "oldebroek",
+    "numParties": 7,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0273",
+    "name": "Putten",
+    "slug": "putten",
+    "numParties": 7,
+    "numStatements": 28,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0274",
+    "name": "Renkum",
+    "slug": "renkum",
+    "numParties": 8,
+    "numStatements": 25,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0275",
+    "name": "Rheden",
+    "slug": "rheden",
+    "numParties": 10,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0279",
+    "name": "Scherpenzeel",
+    "slug": "scherpenzeel",
+    "numParties": 7,
+    "numStatements": 23,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0281",
+    "name": "Tiel",
+    "slug": "tiel",
+    "numParties": 8,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0285",
+    "name": "Voorst",
+    "slug": "voorst",
+    "numParties": 8,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0289",
+    "name": "Wageningen",
+    "slug": "wageningen",
+    "numParties": 8,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0293",
+    "name": "Westervoort",
+    "slug": "westervoort",
+    "numParties": 5,
+    "numStatements": 25,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0294",
+    "name": "Winterswijk",
+    "slug": "winterswijk",
+    "numParties": 9,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0296",
+    "name": "Wijchen",
+    "slug": "wijchen",
+    "numParties": 7,
+    "numStatements": 29,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0297",
+    "name": "Zaltbommel",
+    "slug": "zaltbommel",
+    "numParties": 8,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0299",
+    "name": "Zevenaar",
+    "slug": "zevenaar",
+    "numParties": 10,
+    "numStatements": 28,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0301",
+    "name": "Zutphen",
+    "slug": "zutphen",
+    "numParties": 13,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0302",
+    "name": "Nunspeet",
+    "slug": "nunspeet",
+    "numParties": 7,
+    "numStatements": 25,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0303",
+    "name": "Dronten",
+    "slug": "dronten",
+    "numParties": 7,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0307",
+    "name": "Amersfoort",
+    "slug": "amersfoort",
+    "numParties": 18,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0308",
+    "name": "Baarn",
+    "slug": "baarn",
+    "numParties": 8,
+    "numStatements": 29,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0310",
+    "name": "De Bilt",
+    "slug": "de-bilt",
+    "numParties": 11,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0312",
+    "name": "Bunnik",
+    "slug": "bunnik",
+    "numParties": 4,
+    "numStatements": 28,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0321",
+    "name": "Houten",
+    "slug": "houten",
+    "numParties": 10,
+    "numStatements": 27,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0331",
+    "name": "Lopik",
+    "slug": "lopik",
+    "numParties": 5,
+    "numStatements": 25,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0335",
+    "name": "Montfoort",
+    "slug": "montfoort",
+    "numParties": 7,
+    "numStatements": 27,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0339",
+    "name": "Renswoude",
+    "slug": "renswoude",
+    "numParties": 5,
+    "numStatements": 25,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0340",
+    "name": "Rhenen",
+    "slug": "rhenen",
+    "numParties": 9,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0342",
+    "name": "Soest",
+    "slug": "soest",
+    "numParties": 12,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0344",
+    "name": "Utrecht",
+    "slug": "utrecht",
+    "numParties": 20,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0345",
+    "name": "Veenendaal",
+    "slug": "veenendaal",
+    "numParties": 9,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0352",
+    "name": "Wijk bij Duurstede",
+    "slug": "wijk-bij-duurstede",
+    "numParties": 8,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0353",
+    "name": "IJsselstein",
+    "slug": "ijsselstein",
+    "numParties": 6,
+    "numStatements": 23,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0355",
+    "name": "Zeist",
+    "slug": "zeist",
+    "numParties": 10,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0356",
+    "name": "Nieuwegein",
+    "slug": "nieuwegein",
+    "numParties": 10,
+    "numStatements": 28,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0362",
+    "name": "Amstelveen",
+    "slug": "amstelveen",
+    "numParties": 11,
+    "numStatements": 29,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0363",
+    "name": "Amsterdam",
+    "slug": "amsterdam",
+    "numParties": 35,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0375",
+    "name": "Beverwijk",
+    "slug": "beverwijk",
+    "numParties": 11,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0377",
+    "name": "Bloemendaal",
+    "slug": "bloemendaal",
+    "numParties": 8,
+    "numStatements": 25,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0384",
+    "name": "Diemen",
+    "slug": "diemen",
+    "numParties": 6,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0385",
+    "name": "Edam-Volendam",
+    "slug": "edam-volendam",
+    "numParties": 11,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0388",
+    "name": "Enkhuizen",
+    "slug": "enkhuizen",
+    "numParties": 9,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0392",
+    "name": "Haarlem",
+    "slug": "haarlem",
+    "numParties": 17,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0394",
+    "name": "Haarlemmermeer",
+    "slug": "haarlemmermeer",
+    "numParties": 16,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0396",
+    "name": "Heemskerk",
+    "slug": "heemskerk",
+    "numParties": 7,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0400",
+    "name": "Den Helder",
+    "slug": "den-helder",
+    "numParties": 17,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0405",
+    "name": "Hoorn",
+    "slug": "hoorn",
+    "numParties": 16,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0415",
+    "name": "Landsmeer",
+    "slug": "landsmeer",
+    "numParties": 8,
+    "numStatements": 29,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0420",
+    "name": "Medemblik",
+    "slug": "medemblik",
+    "numParties": 7,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0431",
+    "name": "Oostzaan",
+    "slug": "oostzaan",
+    "numParties": 5,
+    "numStatements": 25,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0432",
+    "name": "Opmeer",
+    "slug": "opmeer",
+    "numParties": 6,
+    "numStatements": 24,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0437",
+    "name": "Ouder-Amstel",
+    "slug": "ouder-amstel",
+    "numParties": 7,
+    "numStatements": 29,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0451",
+    "name": "Uithoorn",
+    "slug": "uithoorn",
+    "numParties": 5,
+    "numStatements": 28,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0453",
+    "name": "Velsen",
+    "slug": "velsen",
+    "numParties": 10,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0473",
+    "name": "Zandvoort",
+    "slug": "zandvoort",
+    "numParties": 8,
+    "numStatements": 26,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0479",
+    "name": "Zaanstad",
+    "slug": "zaanstad",
+    "numParties": 14,
+    "numStatements": 30,
+    "hasOfficialEnglish": true
+  },
+  {
+    "id": "GM0482",
+    "name": "Alblasserdam",
+    "slug": "alblasserdam",
+    "numParties": 6,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0484",
+    "name": "Alphen aan den Rijn",
+    "slug": "alphen-aan-den-rijn",
+    "numParties": 13,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0489",
+    "name": "Barendrecht",
+    "slug": "barendrecht",
+    "numParties": 8,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0498",
+    "name": "Drechterland",
+    "slug": "drechterland",
+    "numParties": 5,
+    "numStatements": 25,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0502",
+    "name": "Capelle aan den IJssel",
+    "slug": "capelle-aan-den-ijssel",
+    "numParties": 10,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0503",
+    "name": "Delft",
+    "slug": "delft",
+    "numParties": 13,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0505",
+    "name": "Dordrecht",
+    "slug": "dordrecht",
+    "numParties": 16,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0512",
+    "name": "Gorinchem",
+    "slug": "gorinchem",
+    "numParties": 9,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0513",
+    "name": "Gouda",
+    "slug": "gouda",
+    "numParties": 14,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0518",
+    "name": "'s-Gravenhage",
+    "slug": "s-gravenhage",
+    "numParties": 20,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0523",
+    "name": "Hardinxveld-Giessendam",
+    "slug": "hardinxveld-giessendam",
+    "numParties": 5,
+    "numStatements": 26,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0531",
+    "name": "Hendrik-Ido-Ambacht",
+    "slug": "hendrik-ido-ambacht",
+    "numParties": 8,
+    "numStatements": 29,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0537",
+    "name": "Katwijk",
+    "slug": "katwijk",
+    "numParties": 10,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0542",
+    "name": "Krimpen aan den IJssel",
+    "slug": "krimpen-aan-den-ijssel",
+    "numParties": 7,
+    "numStatements": 27,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0546",
+    "name": "Leiden",
+    "slug": "leiden",
+    "numParties": 11,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0556",
+    "name": "Maassluis",
+    "slug": "maassluis",
+    "numParties": 7,
+    "numStatements": 29,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0569",
+    "name": "Nieuwkoop",
+    "slug": "nieuwkoop",
+    "numParties": 6,
+    "numStatements": 25,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0575",
+    "name": "Noordwijk",
+    "slug": "noordwijk",
+    "numParties": 11,
+    "numStatements": 29,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0589",
+    "name": "Oudewater",
+    "slug": "oudewater",
+    "numParties": 5,
+    "numStatements": 28,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0590",
+    "name": "Papendrecht",
+    "slug": "papendrecht",
+    "numParties": 11,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0597",
+    "name": "Ridderkerk",
+    "slug": "ridderkerk",
+    "numParties": 10,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0599",
+    "name": "Rotterdam",
+    "slug": "rotterdam",
+    "numParties": 21,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0603",
+    "name": "Rijswijk (ZH.)",
+    "slug": "rijswijk-zh",
+    "numParties": 9,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0606",
+    "name": "Schiedam",
+    "slug": "schiedam",
+    "numParties": 12,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0610",
+    "name": "Sliedrecht",
+    "slug": "sliedrecht",
+    "numParties": 7,
+    "numStatements": 29,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0622",
+    "name": "Vlaardingen",
+    "slug": "vlaardingen",
+    "numParties": 13,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0626",
+    "name": "Voorschoten",
+    "slug": "voorschoten",
+    "numParties": 7,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0627",
+    "name": "Waddinxveen",
+    "slug": "waddinxveen",
+    "numParties": 6,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0629",
+    "name": "Wassenaar",
+    "slug": "wassenaar",
+    "numParties": 9,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0632",
+    "name": "Woerden",
+    "slug": "woerden",
+    "numParties": 9,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0637",
+    "name": "Zoetermeer",
+    "slug": "zoetermeer",
+    "numParties": 13,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0638",
+    "name": "Zoeterwoude",
+    "slug": "zoeterwoude",
+    "numParties": 5,
+    "numStatements": 26,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0642",
+    "name": "Zwijndrecht",
+    "slug": "zwijndrecht",
+    "numParties": 7,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0654",
+    "name": "Borsele",
+    "slug": "borsele",
+    "numParties": 7,
+    "numStatements": 29,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0664",
+    "name": "Goes",
+    "slug": "goes",
+    "numParties": 8,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0668",
+    "name": "West Maas en Waal",
+    "slug": "west-maas-en-waal",
+    "numParties": 8,
+    "numStatements": 24,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0677",
+    "name": "Hulst",
+    "slug": "hulst",
+    "numParties": 9,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0678",
+    "name": "Kapelle",
+    "slug": "kapelle",
+    "numParties": 7,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0687",
+    "name": "Middelburg (Z.)",
+    "slug": "middelburg-z",
+    "numParties": 11,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0703",
+    "name": "Reimerswaal",
+    "slug": "reimerswaal",
+    "numParties": 6,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0715",
+    "name": "Terneuzen",
+    "slug": "terneuzen",
+    "numParties": 15,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0716",
+    "name": "Tholen",
+    "slug": "tholen",
+    "numParties": 9,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0717",
+    "name": "Veere",
+    "slug": "veere",
+    "numParties": 8,
+    "numStatements": 29,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0718",
+    "name": "Vlissingen",
+    "slug": "vlissingen",
+    "numParties": 14,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0736",
+    "name": "De Ronde Venen",
+    "slug": "de-ronde-venen",
+    "numParties": 9,
+    "numStatements": 25,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0737",
+    "name": "Tytsjerksteradiel",
+    "slug": "tytsjerksteradiel",
+    "numParties": 7,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0743",
+    "name": "Asten",
+    "slug": "asten",
+    "numParties": 5,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0744",
+    "name": "Baarle-Nassau",
+    "slug": "baarle-nassau",
+    "numParties": 4,
+    "numStatements": 28,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0748",
+    "name": "Bergen op Zoom",
+    "slug": "bergen-op-zoom",
+    "numParties": 13,
+    "numStatements": 29,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0753",
+    "name": "Best",
+    "slug": "best",
+    "numParties": 8,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0757",
+    "name": "Boxtel",
+    "slug": "boxtel",
+    "numParties": 7,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0758",
+    "name": "Breda",
+    "slug": "breda",
+    "numParties": 12,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0762",
+    "name": "Deurne",
+    "slug": "deurne",
+    "numParties": 8,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0765",
+    "name": "Pekela",
+    "slug": "pekela",
+    "numParties": 5,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0770",
+    "name": "Eersel",
+    "slug": "eersel",
+    "numParties": 5,
+    "numStatements": 27,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0772",
+    "name": "Eindhoven",
+    "slug": "eindhoven",
+    "numParties": 17,
+    "numStatements": 30,
+    "hasOfficialEnglish": true
+  },
+  {
+    "id": "GM0777",
+    "name": "Etten-Leur",
+    "slug": "etten-leur",
+    "numParties": 8,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0779",
+    "name": "Geertruidenberg",
+    "slug": "geertruidenberg",
+    "numParties": 7,
+    "numStatements": 27,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0794",
+    "name": "Helmond",
+    "slug": "helmond",
+    "numParties": 13,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0796",
+    "name": "'s-Hertogenbosch",
+    "slug": "s-hertogenbosch",
+    "numParties": 18,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0798",
+    "name": "Hilvarenbeek",
+    "slug": "hilvarenbeek",
+    "numParties": 3,
+    "numStatements": 26,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0809",
+    "name": "Loon op Zand",
+    "slug": "loon-op-zand",
+    "numParties": 5,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0824",
+    "name": "Oisterwijk",
+    "slug": "oisterwijk",
+    "numParties": 8,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0826",
+    "name": "Oosterhout",
+    "slug": "oosterhout",
+    "numParties": 8,
+    "numStatements": 29,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0828",
+    "name": "Oss",
+    "slug": "oss",
+    "numParties": 10,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0840",
+    "name": "Rucphen",
+    "slug": "rucphen",
+    "numParties": 6,
+    "numStatements": 28,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0847",
+    "name": "Someren",
+    "slug": "someren",
+    "numParties": 6,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0848",
+    "name": "Son en Breugel",
+    "slug": "son-en-breugel",
+    "numParties": 6,
+    "numStatements": 23,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0851",
+    "name": "Steenbergen",
+    "slug": "steenbergen",
+    "numParties": 11,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0852",
+    "name": "Waterland",
+    "slug": "waterland",
+    "numParties": 5,
+    "numStatements": 28,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0855",
+    "name": "Tilburg",
+    "slug": "tilburg",
+    "numParties": 15,
+    "numStatements": 30,
+    "hasOfficialEnglish": true
+  },
+  {
+    "id": "GM0858",
+    "name": "Valkenswaard",
+    "slug": "valkenswaard",
+    "numParties": 8,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0861",
+    "name": "Veldhoven",
+    "slug": "veldhoven",
+    "numParties": 8,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0865",
+    "name": "Vught",
+    "slug": "vught",
+    "numParties": 7,
+    "numStatements": 29,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0866",
+    "name": "Waalre",
+    "slug": "waalre",
+    "numParties": 6,
+    "numStatements": 26,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0867",
+    "name": "Waalwijk",
+    "slug": "waalwijk",
+    "numParties": 8,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0873",
+    "name": "Woensdrecht",
+    "slug": "woensdrecht",
+    "numParties": 6,
+    "numStatements": 27,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0879",
+    "name": "Zundert",
+    "slug": "zundert",
+    "numParties": 6,
+    "numStatements": 28,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0888",
+    "name": "Beek (L.)",
+    "slug": "beek-l",
+    "numParties": 5,
+    "numStatements": 25,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0889",
+    "name": "Beesel",
+    "slug": "beesel",
+    "numParties": 4,
+    "numStatements": 25,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0907",
+    "name": "Gennep",
+    "slug": "gennep",
+    "numParties": 6,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0917",
+    "name": "Heerlen",
+    "slug": "heerlen",
+    "numParties": 13,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0935",
+    "name": "Maastricht",
+    "slug": "maastricht",
+    "numParties": 17,
+    "numStatements": 30,
+    "hasOfficialEnglish": true
+  },
+  {
+    "id": "GM0946",
+    "name": "Nederweert",
+    "slug": "nederweert",
+    "numParties": 4,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0957",
+    "name": "Roermond",
+    "slug": "roermond",
+    "numParties": 9,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0971",
+    "name": "Stein (L.)",
+    "slug": "stein-l",
+    "numParties": 5,
+    "numStatements": 29,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0981",
+    "name": "Vaals",
+    "slug": "vaals",
+    "numParties": 7,
+    "numStatements": 27,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0983",
+    "name": "Venlo",
+    "slug": "venlo",
+    "numParties": 12,
+    "numStatements": 28,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0984",
+    "name": "Venray",
+    "slug": "venray",
+    "numParties": 9,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0988",
+    "name": "Weert",
+    "slug": "weert",
+    "numParties": 7,
+    "numStatements": 29,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM0995",
+    "name": "Lelystad",
+    "slug": "lelystad",
+    "numParties": 15,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1509",
+    "name": "Oude IJsselstreek",
+    "slug": "oude-ijsselstreek",
+    "numParties": 9,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1525",
+    "name": "Teylingen",
+    "slug": "teylingen",
+    "numParties": 9,
+    "numStatements": 28,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1581",
+    "name": "Utrechtse Heuvelrug",
+    "slug": "utrechtse-heuvelrug",
+    "numParties": 8,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1586",
+    "name": "Oost Gelre",
+    "slug": "oost-gelre",
+    "numParties": 7,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1621",
+    "name": "Lansingerland",
+    "slug": "lansingerland",
+    "numParties": 8,
+    "numStatements": 27,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1652",
+    "name": "Gemert-Bakel",
+    "slug": "gemert-bakel",
+    "numParties": 6,
+    "numStatements": 25,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1655",
+    "name": "Halderberge",
+    "slug": "halderberge",
+    "numParties": 7,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1658",
+    "name": "Heeze-Leende",
+    "slug": "heeze-leende",
+    "numParties": 6,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1667",
+    "name": "Reusel-De Mierden",
+    "slug": "reusel-de-mierden",
+    "numParties": 5,
+    "numStatements": 26,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1669",
+    "name": "Roerdalen",
+    "slug": "roerdalen",
+    "numParties": 6,
+    "numStatements": 20,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1674",
+    "name": "Roosendaal",
+    "slug": "roosendaal",
+    "numParties": 12,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1676",
+    "name": "Schouwen-Duiveland",
+    "slug": "schouwen-duiveland",
+    "numParties": 8,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1695",
+    "name": "Noord-Beveland",
+    "slug": "noord-beveland",
+    "numParties": 8,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1700",
+    "name": "Twenterand",
+    "slug": "twenterand",
+    "numParties": 8,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1701",
+    "name": "Westerveld",
+    "slug": "westerveld",
+    "numParties": 5,
+    "numStatements": 28,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1705",
+    "name": "Lingewaard",
+    "slug": "lingewaard",
+    "numParties": 9,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1708",
+    "name": "Steenwijkerland",
+    "slug": "steenwijkerland",
+    "numParties": 11,
+    "numStatements": 29,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1709",
+    "name": "Moerdijk",
+    "slug": "moerdijk",
+    "numParties": 10,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1714",
+    "name": "Sluis",
+    "slug": "sluis",
+    "numParties": 9,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1719",
+    "name": "Drimmelen",
+    "slug": "drimmelen",
+    "numParties": 8,
+    "numStatements": 27,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1721",
+    "name": "Bernheze",
+    "slug": "bernheze",
+    "numParties": 6,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1723",
+    "name": "Alphen-Chaam",
+    "slug": "alphen-chaam",
+    "numParties": 5,
+    "numStatements": 29,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1724",
+    "name": "Bergeijk",
+    "slug": "bergeijk",
+    "numParties": 4,
+    "numStatements": 25,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1728",
+    "name": "Bladel",
+    "slug": "bladel",
+    "numParties": 6,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1729",
+    "name": "Gulpen-Wittem",
+    "slug": "gulpen-wittem",
+    "numParties": 5,
+    "numStatements": 27,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1734",
+    "name": "Overbetuwe",
+    "slug": "overbetuwe",
+    "numParties": 9,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1735",
+    "name": "Hof van Twente",
+    "slug": "hof-van-twente",
+    "numParties": 7,
+    "numStatements": 29,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1740",
+    "name": "Neder-Betuwe",
+    "slug": "neder-betuwe",
+    "numParties": 6,
+    "numStatements": 29,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1773",
+    "name": "Olst-Wijhe",
+    "slug": "olst-wijhe",
+    "numParties": 4,
+    "numStatements": 25,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1774",
+    "name": "Dinkelland",
+    "slug": "dinkelland",
+    "numParties": 5,
+    "numStatements": 27,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1783",
+    "name": "Westland",
+    "slug": "westland",
+    "numParties": 10,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1842",
+    "name": "Midden-Delfland",
+    "slug": "midden-delfland",
+    "numParties": 6,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1859",
+    "name": "Berkelland",
+    "slug": "berkelland",
+    "numParties": 6,
+    "numStatements": 28,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1876",
+    "name": "Bronckhorst",
+    "slug": "bronckhorst",
+    "numParties": 8,
+    "numStatements": 26,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1884",
+    "name": "Kaag en Braassem",
+    "slug": "kaag-en-braassem",
+    "numParties": 6,
+    "numStatements": 28,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1891",
+    "name": "Dantumadiel",
+    "slug": "dantumadiel",
+    "numParties": 7,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1892",
+    "name": "Zuidplas",
+    "slug": "zuidplas",
+    "numParties": 10,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1894",
+    "name": "Peel en Maas",
+    "slug": "peel-en-maas",
+    "numParties": 6,
+    "numStatements": 28,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1896",
+    "name": "Zwartewaterland",
+    "slug": "zwartewaterland",
+    "numParties": 6,
+    "numStatements": 25,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1901",
+    "name": "Bodegraven-Reeuwijk",
+    "slug": "bodegraven-reeuwijk",
+    "numParties": 8,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1904",
+    "name": "Stichtse Vecht",
+    "slug": "stichtse-vecht",
+    "numParties": 11,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1916",
+    "name": "Leidschendam-Voorburg",
+    "slug": "leidschendam-voorburg",
+    "numParties": 10,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1924",
+    "name": "Goeree-Overflakkee",
+    "slug": "goeree-overflakkee",
+    "numParties": 9,
+    "numStatements": 29,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1926",
+    "name": "Pijnacker-Nootdorp",
+    "slug": "pijnacker-nootdorp",
+    "numParties": 11,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1930",
+    "name": "Nissewaard",
+    "slug": "nissewaard",
+    "numParties": 14,
+    "numStatements": 29,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1931",
+    "name": "Krimpenerwaard",
+    "slug": "krimpenerwaard",
+    "numParties": 10,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1942",
+    "name": "Gooise Meren",
+    "slug": "gooise-meren",
+    "numParties": 7,
+    "numStatements": 25,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1945",
+    "name": "Berg en Dal",
+    "slug": "berg-en-dal",
+    "numParties": 6,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1948",
+    "name": "Meierijstad",
+    "slug": "meierijstad",
+    "numParties": 11,
+    "numStatements": 28,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1949",
+    "name": "Waadhoeke",
+    "slug": "waadhoeke",
+    "numParties": 7,
+    "numStatements": 27,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1950",
+    "name": "Westerwolde",
+    "slug": "westerwolde",
+    "numParties": 10,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1955",
+    "name": "Montferland",
+    "slug": "montferland",
+    "numParties": 9,
+    "numStatements": 28,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1959",
+    "name": "Altena",
+    "slug": "altena",
+    "numParties": 8,
+    "numStatements": 26,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1960",
+    "name": "West Betuwe",
+    "slug": "west-betuwe",
+    "numParties": 10,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1961",
+    "name": "Vijfheerenlanden",
+    "slug": "vijfheerenlanden",
+    "numParties": 9,
+    "numStatements": 25,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1969",
+    "name": "Westerkwartier",
+    "slug": "westerkwartier",
+    "numParties": 8,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1970",
+    "name": "Noardeast-Fryslân",
+    "slug": "noardeast-frysln",
+    "numParties": 10,
+    "numStatements": 29,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1978",
+    "name": "Molenlanden",
+    "slug": "molenlanden",
+    "numParties": 6,
+    "numStatements": 27,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1979",
+    "name": "Eemsdelta",
+    "slug": "eemsdelta",
+    "numParties": 8,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1980",
+    "name": "Dijk en Waard",
+    "slug": "dijk-en-waard",
+    "numParties": 12,
+    "numStatements": 29,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1991",
+    "name": "Maashorst",
+    "slug": "maashorst",
+    "numParties": 9,
+    "numStatements": 27,
+    "hasOfficialEnglish": false
+  },
+  {
+    "id": "GM1992",
+    "name": "Voorne aan Zee",
+    "slug": "voorne-aan-zee",
+    "numParties": 13,
+    "numStatements": 30,
+    "hasOfficialEnglish": false
+  }
+]

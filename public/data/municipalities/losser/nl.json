@@ -1,0 +1,979 @@
+{
+  "id": "GM0168",
+  "name": "Losser",
+  "slug": "losser",
+  "parties": [
+    {
+      "id": 118649,
+      "name": "Burgerforum",
+      "fullName": "Burgerforum",
+      "website": "https://www.burgerforum.com/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "118663": {
+          "position": "disagree",
+          "explanation": "Kwaliteit staat voorop. Bij gelijke geschiktheid heeft het een voorkeur voor een evenredige man-vrouwverhouding"
+        },
+        "118664": {
+          "position": "agree",
+          "explanation": "Een referendum kan inwoners op een goede manier betrekken bij belangrijke besluiten. Dit werkt alleen als het zorgvuldig wordt georganiseerd én de uitslag ook daadwerkelijk wordt meegenomen."
+        },
+        "118666": {
+          "position": "disagree",
+          "explanation": "Het verhogen van leges is geen doel op zich. Wel moeten vergunningen zoveel mogelijk kostendekkend zijn, zodat de gemeente financieel gezond blijft."
+        },
+        "118668": {
+          "position": "neither",
+          "explanation": "Burgerforum is wel voor Lokale energie coöperaties en we ondersteunen initiatieven die zelf willen investeren in oplossingen, naast bestaande subsidiemogelijkheden."
+        },
+        "118670": {
+          "position": "agree",
+          "explanation": "Werkgevers moeten zelf zorgen voor goede huisvesting van seizoenarbeiders, zodat dit niet te koste gaat van de woningvoorraad voor onze inwoners."
+        },
+        "118674": {
+          "position": "neither",
+          "explanation": "Het carbid schieten behoort tot ons immaterieel erfgoed en dit hebben wij ook vastgelegd in onze Omgevingsvisie."
+        },
+        "118675": {
+          "position": "neither",
+          "explanation": "Gratis afval bestaat niet. De kosten worden altijd doorberekend via de afvalstoffenheffing. Wel vinden wij dat Losser een volwaardig afvalbrengpunt behoudt."
+        },
+        "118678": {
+          "position": "neither",
+          "explanation": "We sluiten deze mogelijkheid niet uit, zolang locatie en omgeving bepalend zijn en dit aansluit bij onze groeiambitie."
+        },
+        "118679": {
+          "position": "agree",
+          "explanation": "Een sterke, onafhankelijke lokale omroep is essentieel voor democratie en lokale betrokkenheid. Daarom vinden wij extra ondersteuning belangrijk."
+        },
+        "118685": {
+          "position": "neither",
+          "explanation": "Boa's hebben alleen zin als ze effectief en doelgericht worden ingezet."
+        },
+        "118686": {
+          "position": "agree",
+          "explanation": "Cameratoezicht kan een bijdrage leveren om bijv. afvaldumping tegen te gaan en het veiligheidsgevoel te vergroten."
+        },
+        "118687": {
+          "position": "disagree",
+          "explanation": "Dit is regionaal geregeld. De schaal van de gemeente Losser is te klein om dit zelfstandig te organiseren."
+        },
+        "118690": {
+          "position": "neither",
+          "explanation": "Burgerforum is voorstander om te kijken naar zoveel mogelijk mogelijkheden om de woningnood aan te pakken. Het moet wel passen binnen onze Omgevingsvisie en onze groei-ambitie."
+        },
+        "118694": {
+          "position": "agree",
+          "explanation": "De inkomensgrens hebben we al verhoogd in deze collegeperiode. Wij blijven inzetten op ondersteuning, vooral voor gezinnen met kinderen."
+        },
+        "118697": {
+          "position": "neither",
+          "explanation": "Op bepaalde plekken en binnen het centrum wel, maar binnen de gehele bebouwde kom is niet zinvol en niet haalbaar, want de wegen moeten hierop ook aangepast worden."
+        },
+        "118698": {
+          "position": "disagree",
+          "explanation": "Zorg moet voor iedereen gelijk zijn zonder onderscheid van cultuur of levensovertuiging."
+        },
+        "118702": {
+          "position": "agree",
+          "explanation": "Uitbreiding blijkt na onderzoek gewenst en noodzakelijk en dit in combinatie met revitalisering van de bedrijventerreinen."
+        },
+        "118704": {
+          "position": "disagree",
+          "explanation": "Voorrang voor vergunninghouders is niet eerlijk tegenover woningzoekenden uit onze eigen gemeente."
+        },
+        "118706": {
+          "position": "agree",
+          "explanation": "We investeren in kunst, cultuur en ontmoeting, onder andere via de ontwikkeling van de Aloysiuslocatie."
+        },
+        "118708": {
+          "position": "disagree",
+          "explanation": "Dat krijg je van huis vaak al mee en wat echt als Twents gezien wordt, verschilt vaak per dorp."
+        },
+        "118711": {
+          "position": "agree",
+          "explanation": "Dit willen we toestaan (o.a. hospita-verhuur) maar wel onder strikte voorwaarden."
+        },
+        "118713": {
+          "position": "neither",
+          "explanation": "Huidige aantal moet gehandhaafd blijven en winkels moeten goed bereikbaar blijven."
+        },
+        "118714": {
+          "position": "disagree",
+          "explanation": "Een volledig autovrij centrum zou schadelijk zijn voor de ondernemers in ons centrum."
+        },
+        "118715": {
+          "position": "disagree",
+          "explanation": "Een permanent AZC is geen lokaal uitgangspunt en afhankelijk van landelijk beleid. We voldoen aan wat wettelijk verplicht is, maar maken voorlopig pas op de plaats."
+        },
+        "118716": {
+          "position": "disagree",
+          "explanation": "Onze strijd tegen de windturbines gaat door, ook tegen de windprojecten op Duits grondgebied pal aan onze grens."
+        },
+        "118717": {
+          "position": "agree",
+          "explanation": "Nieuwbouw moet de beeldbepalende Oale Toren respecteren en niet uit het zich laten verdwijnen."
+        }
+      }
+    },
+    {
+      "id": 118650,
+      "name": "CDA",
+      "fullName": "Christen-Democratisch Appèl",
+      "website": "https://www.cda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "118663": {
+          "position": "neither",
+          "explanation": "We willen graag mannen en vrouwen gelijk verdelen, maar geschiktheid is het belangrijkst."
+        },
+        "118664": {
+          "position": "agree",
+          "explanation": "Een referendum is goed, zolang de vraag duidelijk is en iedereen het aangaat."
+        },
+        "118666": {
+          "position": "disagree",
+          "explanation": "Vergunningen moeten niet meer kosten dan nodig; beter regels verminderen."
+        },
+        "118668": {
+          "position": "agree",
+          "explanation": "Lokale duurzame energieprojecten verdienen steun."
+        },
+        "118670": {
+          "position": "neither",
+          "explanation": "Tijdelijke huisvesting op het eigen terrein kan als het goed past."
+        },
+        "118674": {
+          "position": "agree",
+          "explanation": "We willen samenwerken aan kleinschalige vuurwerkshows per dorp; tradities moeten worden gestimuleerd."
+        },
+        "118675": {
+          "position": "disagree",
+          "explanation": "Grofvuil gratis ophalen kost de gemeenschap geld in plaats van de vervuiler. Gratis bestaat niet."
+        },
+        "118678": {
+          "position": "disagree",
+          "explanation": "Er zijn beperkte mogelijkheden voor bouwen op boerenland, verstening moet beperkt blijven."
+        },
+        "118679": {
+          "position": "agree",
+          "explanation": "Lokale omroep is belangrijk, maar bereik telt ook."
+        },
+        "118685": {
+          "position": "neither",
+          "explanation": "Losser is veilig, meer camera’s kan helpen voordat we extra boa’s aannemen."
+        },
+        "118686": {
+          "position": "agree",
+          "explanation": "Camera’s zijn goed als ze echt helpen."
+        },
+        "118687": {
+          "position": "agree",
+          "explanation": "Er moet opvang zijn voor mensen die vluchten voor dit soort geweld als hier sprake van is."
+        },
+        "118690": {
+          "position": "disagree",
+          "explanation": "Vakantiewoningen zijn tijdelijk, in specifieke gevallen mag permanent worden gewoond."
+        },
+        "118694": {
+          "position": "agree",
+          "explanation": "Iedereen moet menswaardig kunnen leven; maatwerk blijft nodig."
+        },
+        "118697": {
+          "position": "agree",
+          "explanation": "Snelheid omlaag is goed, behalve op hoofdwegen."
+        },
+        "118698": {
+          "position": "disagree",
+          "explanation": "Zorg moet goed zijn; in specifieke/uiterste gevallen zal dergelijke inzet van deze medewerkers worden afgestemd op geloof/cultuur."
+        },
+        "118702": {
+          "position": "agree",
+          "explanation": "Nieuwe bedrijventerreinen zijn nodig door tekort."
+        },
+        "118704": {
+          "position": "disagree",
+          "explanation": "Statushouders hebben niet meer rechten als eigen inwoners; soms krijgt iemand voorrang."
+        },
+        "118706": {
+          "position": "neither",
+          "explanation": "Cultuur is belangrijk; eerst kijken wat er al is voordat er nieuw gebouwd wordt. Een nieuw cultureel centrum kan dus ook op een bestaande locatie."
+        },
+        "118708": {
+          "position": "agree",
+          "explanation": "Twents is cultuur en moet ondersteund worden."
+        },
+        "118711": {
+          "position": "disagree",
+          "explanation": "We vinden kamerhuur geen goed idee; wonen is meer dan een kamer."
+        },
+        "118713": {
+          "position": "neither",
+          "explanation": "Onderzoek moet uitwijzen of er echt meer parkeerplekken nodig zijn."
+        },
+        "118714": {
+          "position": "disagree",
+          "explanation": "Het centrum moet bereikbaar blijven; doorgaand verkeer weren kan wel."
+        },
+        "118715": {
+          "position": "neither",
+          "explanation": "We willen opvang voor mensen met een verblijfsstatus. Opvang van asielzoekers gebeurt bij voorkeur op kleinschalig niveau en verspreid binnen de gemeente."
+        },
+        "118716": {
+          "position": "disagree",
+          "explanation": "Geen grote windmolens, eventueel kleine erfmolens."
+        },
+        "118717": {
+          "position": "neither",
+          "explanation": "De nieuwbouw moet passend zijn in de omgeving en moet voldoen aan de criteria van goede ruimtelijke ordening. Er moet worden getoetst aan de geldende normen. De regels veranderen tijdens de wedstrijd kan niet."
+        }
+      }
+    },
+    {
+      "id": 118651,
+      "name": "D66",
+      "fullName": "D66",
+      "website": "https://d66.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "118663": {
+          "position": "neither",
+          "explanation": "D66 vindt diversiteit belangrijk maar kwaliteit van bestuurders moet voorop staaan."
+        },
+        "118664": {
+          "position": "disagree",
+          "explanation": "Inwoners kunnen nu al op veel verschillende manieren meepraten over de onderwerpen die hen aan gaan. Voor belangrijke onderwerpen is een referendum vaak te beperkt. D66 wil de rol van belanghebbenden in besluitvorming beter vastleggen zodat iedereen weet waar hij of zij aan toe is"
+        },
+        "118666": {
+          "position": "disagree",
+          "explanation": "D66 is voorstander van leges die zoveel mogelijk kostendekkend zijn."
+        },
+        "118668": {
+          "position": "agree",
+          "explanation": "Verdere verduurzaming en lokale energieopwekking moet gestimuleerd worden. De gemeente kan daar een belangrijke rol in spelen."
+        },
+        "118670": {
+          "position": "disagree",
+          "explanation": "Als er betere alternatieven zijn, kies dan daarvoor. Dit voorkomt ook verrommeling van het platteland."
+        },
+        "118674": {
+          "position": "neither",
+          "explanation": "Gezien het inwoneraantal en verspreiding van inwoners over platteland en (kleine) kernen, zal een vuurwerkshow in één bepaalde kern door een beperkt aantal mensen bezocht worden."
+        },
+        "118675": {
+          "position": "disagree",
+          "explanation": "Gratis afval bestaat niet. Dit zou namelijk betekenen dat de afvalstoffenheffing ook verhoogd zal worden voor mensen die geen afval aanbieden."
+        },
+        "118678": {
+          "position": "agree",
+          "explanation": "De bestaande voorschriften laten dit ook al voldoende toe."
+        },
+        "118679": {
+          "position": "neither",
+          "explanation": "RTV Losser ontvangt nu al subsidie van de gemeente om hun werk goed uit te kunnen voeren"
+        },
+        "118685": {
+          "position": "agree",
+          "explanation": "Voor veiligheid en toezicht in zowel de kernen als in het buitengebied. Wel moeten we oppassen dat we niet opdraaien voor taken die de Rijksoverheid van af schuift."
+        },
+        "118686": {
+          "position": "disagree",
+          "explanation": "In de praktijk blijkt dat cameratoezicht niet zorgt voor minder overlast."
+        },
+        "118687": {
+          "position": "neither",
+          "explanation": "Voor veiligheid en toezicht in zowel de kernen als in het buitengebied. Wel moeten we oppassen dat we niet opdraaien voor taken die de Rijksoverheid van afschuift."
+        },
+        "118690": {
+          "position": "disagree",
+          "explanation": "Dit lost de huidige woningnood niet en niet alle woningen zijn geschikt voor permanente bewoning. Daarnaast gaat dit ten koste van de recreatiesector."
+        },
+        "118694": {
+          "position": "neither",
+          "explanation": "Losser hanteert al een ruimere grens dan in veel andere gemeenten"
+        },
+        "118697": {
+          "position": "disagree",
+          "explanation": "Op doorgaande wegen in de kern niet. Daarbuiten in wijken wel. Dit is nu al grotendeels het geval in de dorpen van Losser."
+        },
+        "118698": {
+          "position": "disagree",
+          "explanation": "Iedereen heeft recht op dezelfde zorg, ongeacht geloof, cultuur of levensovertuiging. Wil je het anders? Dan kan je daar voor kiezen en betalen."
+        },
+        "118702": {
+          "position": "agree",
+          "explanation": "Naar bewezen behoefte een beperkte uitbreiding. Daarnaast moeten we ook goed kijken hoe we de huidige bedrijventerreinen kunnen verbeteren."
+        },
+        "118704": {
+          "position": "neither",
+          "explanation": "De gemeente dient de wettelijke taken met betrekking tot het huisvesten van bijzondere doelgroepen (waaronder onder andere statushouders) uit te voeren."
+        },
+        "118706": {
+          "position": "neither",
+          "explanation": "Alleen als het kostendekkend kan, de behoefte groot genoeg is bij verenigingen en clubs en het centrum niet andere culturele centra leegtrekt doordat verenigingen en clubs naar het nieuwe centrum gaan."
+        },
+        "118708": {
+          "position": "neither",
+          "explanation": "Prima om het aan te bieden maar het moet geen verplichting worden."
+        },
+        "118711": {
+          "position": "neither",
+          "explanation": "De voorkeur gaat uit naar verhuur door woningcorporaties omdat zij wettelijk verplicht zijn om prestatieafspraken te maken met gemeenten. Op particuliere kamerverhuur is beperkt zicht wat wantoestanden in de hand kan werken/"
+        },
+        "118713": {
+          "position": "neither",
+          "explanation": "Het aantal parkeerplaatsen moet naar (toekomstige) behoefte zijn."
+        },
+        "118714": {
+          "position": "disagree",
+          "explanation": "Het centum van Losser mag autoluw zijn maar niet autovrij."
+        },
+        "118715": {
+          "position": "agree",
+          "explanation": "De spreidingswet is een goede oplossing om de benodigde opvangcapaciteit eerlijk te verdelen. Losser moet daar, naar rato, haar steentje aan bijdragen."
+        },
+        "118716": {
+          "position": "agree",
+          "explanation": "We werken mee aan een duurzame oplossing voor windenergie op een plaats die de minste overlast oplevert."
+        },
+        "118717": {
+          "position": "neither",
+          "explanation": "Een lager apartementencomplex maakt de bouw wellicht onhaalbaar. Dus ja als het kan, en nee als het niet haalbaar is."
+        }
+      }
+    },
+    {
+      "id": 215484,
+      "name": "PvdA",
+      "fullName": "Partij van de Arbeid",
+      "website": "https://losser.pvda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "118663": {
+          "position": "disagree",
+          "explanation": "Belangrijk is dat er kwaliteit wordt geleverd en of dat nu door een man of vrouw wordt geleverd is voor ons minder belangrijk."
+        },
+        "118664": {
+          "position": "disagree",
+          "explanation": "Belangrijk is dat inwoners mee kunnen praten. Wij zien participatie als vervanger voor een referendum. Participatie vind al plaats maar kan wat ons betreft nog beter worden ingezet."
+        },
+        "118666": {
+          "position": "agree",
+          "explanation": "Als vergunningen niet kostendekkend zijn moet worden gekeken of deze op onderdelen wel verhoogd kunnen worden. Dit zal wel geleidelijk moeten gaan."
+        },
+        "118668": {
+          "position": "agree",
+          "explanation": "Verduurzaming is belangrijk voor iedereen en wie dit niet kan betalen zal een financiële ondersteuning moeten kunnen krijgen."
+        },
+        "118670": {
+          "position": "agree",
+          "explanation": "De verantwoordelijkheid ligt in eerste instantie bij de werkgever van de seizoenarbeider."
+        },
+        "118674": {
+          "position": "agree",
+          "explanation": "Nu er een landelijk vuurwerkverbod is moet de gemeente een alternatief aanbieden."
+        },
+        "118675": {
+          "position": "disagree",
+          "explanation": "De vervuiler betaald in onze optiek dus ook voor het ophalen van grofvuil."
+        },
+        "118678": {
+          "position": "agree",
+          "explanation": "De agrariër beschikt over grond en woningbouw vinden wij belangrijk ook in het buitengebied. Denk aan rood voor rood of ontwikkelen van generatie erven. Dit zou de agrariër zelf mogen ontwikkelen."
+        },
+        "118679": {
+          "position": "disagree",
+          "explanation": "Lokale omroepen zijn belangrijk maar in eerste instantie ligt de verantwoordelijkheid hiervoor in Den Haag. Incidenteel kan gekeken worden waar de gemeente kan bijspringen."
+        },
+        "118685": {
+          "position": "disagree",
+          "explanation": "Wij zetten in op preventie en niet op repressie."
+        },
+        "118686": {
+          "position": "disagree",
+          "explanation": "Hier wordt de indruk gewekt dat op veel locaties camera's moet komen hangen i.v.m. veiligheid. Echter levert dit schijnveiligheid op. Voor bepaalde plekken ivm evenementen zijn we voorstander. Daarnaast zijn we voor meer actieve controles en preventieve maatregelen."
+        },
+        "118687": {
+          "position": "disagree",
+          "explanation": "dit is een taak voor een centrumgemeente zoals Enschede. Wel zullen wij hierin moeten participeren maar niet een eigen blijf van mijn lijf huis realiseren."
+        },
+        "118690": {
+          "position": "disagree",
+          "explanation": "vakantiewoningen zijn geen reguliere woningen die vaak ook niet aan de eisen van het bouwbesluit (veiligheid)voldoen."
+        },
+        "118694": {
+          "position": "agree",
+          "explanation": "Het is belangrijk dat iedereen moet kunnen deelnemen in onze samenleving en zich ook financieel kunne onderhouden en zich hierin gesteund voelen."
+        },
+        "118697": {
+          "position": "agree",
+          "explanation": "Dit bevorderd de verkeersveiligheid binnen de kernen en daar zijn wij een groot voorstander van."
+        },
+        "118698": {
+          "position": "disagree",
+          "explanation": "Dit maakt zorgverlening onnodig complex. Zorg is al moeilijk te organiseren en dan is kiezen wie zorg mag verlenen onnodig bureaucratisch."
+        },
+        "118702": {
+          "position": "agree",
+          "explanation": "Economische ontwikkeling is belangrijk voor Losser. Hierbij hoort ook uitbreiding van bedrijventerrein zodat bedrijven kunne uitbreiden of er nieuw gaan vestigen."
+        },
+        "118704": {
+          "position": "agree",
+          "explanation": "We hebben een taakstelling en deze mensen hebben ook recht op een woning. Om dit te realiseren moet Losser meer woningen bouwen voor iedereen."
+        },
+        "118706": {
+          "position": "agree",
+          "explanation": "Dat moet er zeker komen. Verschillende culturele verenigen hebben gebrek aan huisvesting. Cultuur maakt een belangrijk deel uit van onze samenleving en daaro moeten deze verenigingen goed huisvesting krijgen waar ze activiteiten kunnen ontplooien."
+        },
+        "118708": {
+          "position": "agree",
+          "explanation": "Twents maakt deel uit van onze cultuur wij vinden dat dit bewaard blijft. Dus jongeren zullen hiermee in aanraking moeten komen en blijven."
+        },
+        "118711": {
+          "position": "agree",
+          "explanation": "Dit kan onder bepaalde voorwaarden een oplossing zijn voor het huidige woning tekort."
+        },
+        "118713": {
+          "position": "disagree",
+          "explanation": "Er zijn parkeerplaatsen genoeg in en vooral rondom het centrum."
+        },
+        "118714": {
+          "position": "agree",
+          "explanation": "In het kader van verkeersveiligheid zou dit goed zijn. Wel zal hier en goed overleg moeten worden gevoerd met de ondernemers in het centrum."
+        },
+        "118715": {
+          "position": "agree",
+          "explanation": "Deze wettelijke verplichting hebben we en daar moeten we niet voor weglopen."
+        },
+        "118716": {
+          "position": "neither",
+          "explanation": "Er is een bestaande situatie, bevoegd gezag is de provincie. De gemeente speelt een beperktrol. Wel is belangrijk dat de gemeente zorgt voor lokaal eigendom zodat de bevolking ervan kan profiteren. Bij nieuwe ontwikkelingen zullen wij zorgvuldig alle belangen afwegen."
+        },
+        "118717": {
+          "position": "disagree",
+          "explanation": "Het plan dat nu voorligt is zodanig dat het is aangepast aan de omgeving en de Oale Toarn nog duidelijk zichtbaar is op grote afstand."
+        }
+      }
+    },
+    {
+      "id": 118653,
+      "name": "VVD",
+      "fullName": "Volkspartij voor Vrijheid en Democratie",
+      "website": "https://www.vvd.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "118663": {
+          "position": "disagree",
+          "explanation": "Diversiteit heeft voorkeur, maar niet enkel in gender. Uiteindelijk gaat het om de goede kennis en een team dat samen kan werken. Elke partij moet bovendien zijn/haar wethouder van voorkeur naar voren kunnen schuiven."
+        },
+        "118664": {
+          "position": "disagree",
+          "explanation": "VVD is kritisch tov referenda. Volksvertegenwoordigers zijn gekozen om belangen af te wegen en besluiten te nemen. Door beperkte opkomst, en doordat kwesties vaak niet tot simpele ja/nee vragen zijn terug te brengen draagt het volgens de VVD niet per se bij aan betere democratie."
+        },
+        "118666": {
+          "position": "disagree",
+          "explanation": "VVD is tegen een algehele verhoging. Wel weten we in Losser dat sommige leges omhoog moeten, omdat zij verre van kostendekkend zijn."
+        },
+        "118668": {
+          "position": "disagree",
+          "explanation": "Financiële steun, -subsidie- is niet het eerste waar de VVD aan denkt. Wel kan de gemeente op andere vlakken ondersteuning bieden waardoor realisatie makkelijker gaat."
+        },
+        "118670": {
+          "position": "agree",
+          "explanation": "Werkgevers zijn verantwoordelijk voor fatsoenlijke huisvesting. En het liefst op eigen terrein of bedrijfsterreinen in de buurt. Dat moet voorkomen dat werknemers via derden in slechte en onveilige woonomstandigheden belanden."
+        },
+        "118674": {
+          "position": "disagree",
+          "explanation": "De gemeente hoeft dit niet te doen. Het belastinggeld kan op meer verstandige manieren gebruikt worden."
+        },
+        "118675": {
+          "position": "disagree",
+          "explanation": "De VVD vindt het eerlijkst dat de vervuiler betaalt. Dus grof vuil is niet gratis op te halen."
+        },
+        "118678": {
+          "position": "agree",
+          "explanation": "Ja, de VVD is positief over het versoepelen van regels om op agrarische grond te bouwen als dat helpt om woningen te realiseren. De eigenaar moet kunnen besluiten om te ontwikkelen, mits dit zorgvuldig gebeurt en past in de omgeving."
+        },
+        "118679": {
+          "position": "agree",
+          "explanation": "Inwoners hebben recht op goede, onafhankelijke lokale informatie via de media. VVD vindt dat belangrijk. Dat daar enige financiële steun tegenover staat, is evident."
+        },
+        "118685": {
+          "position": "agree",
+          "explanation": "Veiligheid is een van de kerntaken van de gemeente. Boa’s moeten voldoende toezicht en handhaving kunnen uitvoeren, zodat overlast, criminaliteit ondermijning en onveiligheidsgevoelens kunnen worden aangepakt."
+        },
+        "118686": {
+          "position": "agree",
+          "explanation": "De VVD staat positief tegenover cameratoezicht, maar altijd doelgericht, proportioneel en bedoeld om veiligheid te vergroten en overlast te voorkomen. Eerder wilden wij graag cameratoezicht om bv dumpingen bij ondergrondse afvalcontainers aan te pakken."
+        },
+        "118687": {
+          "position": "disagree",
+          "explanation": "Dat is goed geregeld op Twentse schaal."
+        },
+        "118690": {
+          "position": "disagree",
+          "explanation": "De infrastructuur en voorzieningen zijn er niet op ingericht. Bovendien gelden voor recreatiewoningen andere belastingregels."
+        },
+        "118694": {
+          "position": "disagree",
+          "explanation": "Er zijn meer mogelijkheden om hulp te krijgen in een financieel kwetsbare positie, dan het verhogen van de inkomensgrens. In Losser is de hulp aan financieel kwetsbaren met diverse voorzieningen al zeer goed geregeld. Nog een extra verhoging is niet nodig."
+        },
+        "118697": {
+          "position": "disagree",
+          "explanation": "In woonwijken is de regel al dat 30 km/u moet. Om hardrijden tegen te gaan moet de focus meer liggen op snelheidscontroles en handhaving. Hulpdiensten ervaren hinder van 30 km/u en de bijbehorende infrastructurele voorzieningen, waardoor zij er langer over doen. Dat is niet wenselijk."
+        },
+        "118698": {
+          "position": "agree",
+          "explanation": "Voor de VVD staat keuzevrijheid centraal. Zorg moet dichtbij, mensgericht en passend bij ieders leven zijn."
+        },
+        "118702": {
+          "position": "disagree",
+          "explanation": "Er is op dit moment voldoende ruimte voor bedrijven. De ruimte die vrij is of komt moet allereerst besteed worden aan woningbouw."
+        },
+        "118704": {
+          "position": "disagree",
+          "explanation": "Betaalbare woningen zijn er allereerst voor starters, jongeren en doorstromers uit de eigen gemeente. Vluchtelingen met een verblijfsstatus helpen we gericht en tijdelijk,- de gemeente moet statushouders huisvesten- maar altijd met oog voor onze lokale woningmarkt en in overleg met de corporatie."
+        },
+        "118706": {
+          "position": "disagree",
+          "explanation": "De VVD wil dat beter en in samenhang gekeken wordt naar het huidige aanbod. Dat biedt voldoende mogelijkheden. Er moet geen nieuwe culturele voorziening komen die gaat concurreren met andere voorzieningen of waar de gemeente (veel) extra geld bij moet doen."
+        },
+        "118708": {
+          "position": "disagree",
+          "explanation": "Er moet volgens de VVD goed regulier onderwijs op basisvaardigheden zijn. Aandacht voor Twentse taal en cultuur is vrijwillig en aanvullend en geen extra verplichte belasting voor scholen of ouders."
+        },
+        "118711": {
+          "position": "agree",
+          "explanation": "Als dit de druk op de woningmarkt kan verlichten, dan moet kamerverhuur onder goede condities en controle op/handhaving van regels een optie zijn."
+        },
+        "118713": {
+          "position": "agree",
+          "explanation": "De huidige hoeveelheid parkeerplaatsen moet minimaal behouden blijven en de uitbreiding naar extra plaatsen voor het laden van elektrische auto’s mag niet ten koste van de bestaande capaciteit gaan."
+        },
+        "118714": {
+          "position": "disagree",
+          "explanation": "De VVD hecht waarde aan haar ondernemers in het centrum. Losser is een boodschappendorp en om ondernemers te kunnen bereiken is het nodig met de auto in het centrum te kunnen komen en nabij te parkeren."
+        },
+        "118715": {
+          "position": "disagree",
+          "explanation": "Kleinschalige tijdelijke opvang verdient bij de VVD de voorkeur. Een permanent AZC legt druk op de voorzieningen en op de veiligheid. Er is bovendien geen verplichting tot een permanent AZC, wel heeft de gemeente een plicht in het tijdelijk opvangen van een aantal statushouders en vluchtelingen."
+        },
+        "118716": {
+          "position": "disagree",
+          "explanation": "De VVD wil geen landschapvervuilende hoge windmolens, zeker niet zo lang de gezondheidseffecten niet bekend zijn."
+        },
+        "118717": {
+          "position": "agree",
+          "explanation": "De VVD wil graag een hoogte die past bij het aangezicht, maar dit mag niet ten kosten gaan van de algehele woning bouw-ontwikkeling op die plek die we echt noodzakelijk vinden."
+        }
+      }
+    },
+    {
+      "id": 212122,
+      "name": "GroenLinks",
+      "fullName": "GroenLinks",
+      "website": "https://groenlinks.nl/home ",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "118663": {
+          "position": "agree",
+          "explanation": "Natuurlijk vinden we het belangrijk dat het bestuur een goede afspiegeling is van de samenleving. Zo krijg je de beste beslissingen. Vrouwen worden nog altijd op een andere manier beoordeeld dan mannen. Het is goed om je daar bewust van te zijn bij de selectie van kandidaten."
+        },
+        "118664": {
+          "position": "agree",
+          "explanation": "Het is goed dat inwoners over belangrijke zaken, die hen direct raken, hun mening kunnen geven door middel van een raadgevend referendum. Zo stimuleren we de lokale democratie."
+        },
+        "118666": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "118668": {
+          "position": "agree",
+          "explanation": "Het is geweldig als inwoners samen energie opwekken. Goed voor de portemonnee, het milieu en de sociale samenhang. Er is al veel ervaring opgedaan met lokale energiecoöperaties. De gemeente kan deze kennis delen met inwoners en hen actief ondersteunen."
+        },
+        "118670": {
+          "position": "agree",
+          "explanation": "Mensen die hier tijdelijk komen werken, moeten een fatsoenlijk onderkomen krijgen. De gemeente moet meer inzetten op handhaving. We willen afhankelijkheid en uitbuiting van arbeiders voorkomen."
+        },
+        "118674": {
+          "position": "agree",
+          "explanation": "We zien een mooie show voor ons met vuurwerk en lasers. Veilig en gezellig om samen naar te kijken. Daarbij moet de gemeente het algemene vuurwerkverbod gaan handhaven."
+        },
+        "118675": {
+          "position": "agree",
+          "explanation": "Dit is de makkelijkste oplossing voor rommel aan de straat. Deze dienst is ook belangrijk voor ouderen en hulpbehoevenden met een beperkt netwerk."
+        },
+        "118678": {
+          "position": "agree",
+          "explanation": "Wanneer agrariërs een woning willen bouwen voor bijvoorbeeld hun ouders om op het erf te kunnen blijven wonen, is dat een charmante oplossing voor iedereen. Dit mag op een bouwvlak, niet op landbouwgrond. Via rood-voor-rood regelingen kunnen agrariërs een stal afbreken in ruil voor een woning."
+        },
+        "118679": {
+          "position": "neither",
+          "explanation": "Lokale media zijn belangrijk en leuk. Maar er hoeft niet altijd meer geld bij. Wanneer er nood aan de man is, kan er een beroep worden gedaan op de gemeente."
+        },
+        "118685": {
+          "position": "neither",
+          "explanation": "De wijkagent is als bekend gezicht en verbinder de eerste die ingezet kan worden voor veiligheid. Boa's zijn er voor handhaving van gemeentelijke regels. Daar kan wel extra op ingezet worden."
+        },
+        "118686": {
+          "position": "disagree",
+          "explanation": "We hebben geen Big Brother nodig in Losser"
+        },
+        "118687": {
+          "position": "disagree",
+          "explanation": "Allereerst willen we meer inzetten op het uithuisplaatsen van de veroorzaker in plaats van de slachtoffers. Als dit niet lukt, betekent de onveiligheid vaak dat opvang in een andere plaats of regio noodzakelijk is, bijvoorbeeld Enschede of Zwolle. Hierover zijn regionale afspraken gemaakt."
+        },
+        "118690": {
+          "position": "agree",
+          "explanation": "Voor zolang als dit nodig is. We moeten natuurlijk zorgen voor meer betaalbare woningen. Bij vaste bewoning van vakantiewoningen, moeten enkele regels aangepast worden, waaronder de belastingregels. Ook is er toezicht van de gemeente nodig om misstanden tegen te gaan."
+        },
+        "118694": {
+          "position": "agree",
+          "explanation": "Door toenemende energiekosten en stijgende prijzen is het moeilijker geworden rond te komen. De gemeente moet kunnen helpen als dat nodig is, ook als de inkomsten van een gezin iets hoger zijn dan de inkomensgrens. Dit is maatwerk."
+        },
+        "118697": {
+          "position": "agree",
+          "explanation": "Voor fietsers en voor mensen die slecht ter been zijn, maakt 30 een enorm verschil. Minder ongelukken, makkelijker oversteken, schonere lucht."
+        },
+        "118698": {
+          "position": "neither",
+          "explanation": "Dit is helaas niet haalbaar gezien de inkoop van zorgvoorzieningen door gemeenten. Teveel aanbieders zorgt ook voor onvoldoende toezicht op kwaliteit. Mensen met een PGB kunnen wel zelf zorg inkopen."
+        },
+        "118702": {
+          "position": "agree",
+          "explanation": "Dit kan op bescheiden schaal, voor zover dit past binnen de ambities en ontwikkelingsplannen van de gemeente."
+        },
+        "118704": {
+          "position": "disagree",
+          "explanation": "Landelijk is dit losgelaten. Er zijn ook andere doelgroepen waar urgentie van toepassing is, deze mogen we niet uitsluiten."
+        },
+        "118706": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "118708": {
+          "position": "agree",
+          "explanation": "Het is mooi om de Twentse taal, cultuur en ook de geschiedenis levendig te houden. Het is goed hier enige aandacht aan te besteden op de basisscholen. Dit mag niet ten koste gaan van onderwijs in de Nederlandse taal, maar moet een waardevolle aanvulling zijn."
+        },
+        "118711": {
+          "position": "agree",
+          "explanation": "Zo kunnen jongeren die uit huis willen een start maken. De gemeente moet wel toezicht houden op de veiligheid. Hiervoor is meer inzet van handhaving nodig."
+        },
+        "118713": {
+          "position": "disagree",
+          "explanation": "Er mogen wel wat meer fietsparkeerplaatsen bij. Wanneer de parkeerdruk voor auto's in het centrum hoog is, is er nog voldoende plek bij de Fakkel. In het centrum zouden er nog enkele extra plekken voor mindervaliden gereserveerd kunnen worden, zodat er voor hen altijd plek dichtbij is."
+        },
+        "118714": {
+          "position": "neither",
+          "explanation": "GroenLinks wil een aantrekkelijk en gezellig centrum. Gedeelten afsluiten voor autoverkeer kan een middel zijn om ruimte te maken. Dan kun je pleinen zoals rondom de Martinustoren en voor het Lossers Hoes mooier inrichten met terrasjes, meer groen en beter zicht op onze karakteristieke gebouwen."
+        },
+        "118715": {
+          "position": "neither",
+          "explanation": "Een AZC is in prinicipe tijdelijk. Wanneer er vanuit het COA een beroep op onze gemeente wordt gedaan, denken we mee over een passende locatie. Het is belangrijk dat er rekening wordt gehouden met de leefbaarheid en veiligheid van iedereen, inclusief de vluchtelingen."
+        },
+        "118716": {
+          "position": "agree",
+          "explanation": "Voldoende duurzame energie opwekken maakt ons toekomstbestendig. Meewerken bekent ook meedenken over de beste plek. De opbrengst moet ten goede komen aan de inwoners."
+        },
+        "118717": {
+          "position": "disagree",
+          "explanation": "We willen de woningnood oplossen"
+        }
+      }
+    }
+  ],
+  "statements": [
+    {
+      "id": 118717,
+      "index": 1,
+      "theme": "Nieuwbouw bij Oale Toarn",
+      "themeId": "nieuwbouw-bij-oale-toarn",
+      "title": "De nieuwbouw van appartementen rond de Oale Toarn in Losser moet lager worden dan gepland.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 118685,
+      "index": 2,
+      "theme": "Handhavers",
+      "themeId": "handhavers",
+      "title": "In Losser moeten meer gemeentelijke handhavers (boa’s) komen die zich met veiligheid bezighouden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 118663,
+      "index": 3,
+      "theme": "Burgemeester en college",
+      "themeId": "burgemeester-en-college",
+      "title": "In het nieuwe college van burgemeester en wethouders moet het aantal mannen en vrouwen gelijk zijn.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 118674,
+      "index": 4,
+      "theme": "Vuurwerk",
+      "themeId": "vuurwerk",
+      "title": "De gemeente moet op oudejaarsavond een vuurwerkshow organiseren.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 118704,
+      "index": 5,
+      "theme": "Voorrang voor vluchtelingen",
+      "themeId": "voorrang-voor-vluchtelingen",
+      "title": "De gemeente moet vluchtelingen met een verblijfsvergunning voorrang blijven geven op een sociale huurwoning.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 118702,
+      "index": 6,
+      "theme": "Bedrijventerreinen",
+      "themeId": "bedrijventerreinen",
+      "title": "In Losser mogen de bedrijventerreinen uitbreiden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 118679,
+      "index": 7,
+      "theme": "Lokale media",
+      "themeId": "lokale-media",
+      "title": "De gemeente moet de lokale omroep ondersteunen met extra geld.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 118686,
+      "index": 8,
+      "theme": "Cameratoezicht",
+      "themeId": "cameratoezicht",
+      "title": "In Losser moet meer cameratoezicht komen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 118697,
+      "index": 9,
+      "theme": "Snelheid auto's",
+      "themeId": "snelheid-auto-s",
+      "title": "De maximumsnelheid binnen de bebouwde kom moet naar 30 km/u.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 118666,
+      "index": 10,
+      "theme": "Gemeentelijke vergunningen",
+      "themeId": "gemeentelijke-vergunningen",
+      "title": "De prijzen van gemeentelijke vergunningen moeten omhoog.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 118715,
+      "index": 11,
+      "theme": "Asielzoekerscentrum",
+      "themeId": "asielzoekerscentrum",
+      "title": "In Losser moet een permanent asielzoekerscentrum (azc) komen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 118698,
+      "index": 12,
+      "theme": "Zorgkeuze",
+      "themeId": "zorgkeuze",
+      "title": "Mensen die zorg nodig hebben, moeten altijd kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of levensovertuiging.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 118711,
+      "index": 13,
+      "theme": "Verkamering",
+      "themeId": "verkamering",
+      "title": "De gemeente moet toestaan dat verhuurders losse kamers verhuren in plaats van hele huizen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 118708,
+      "index": 14,
+      "theme": "Streektaal",
+      "themeId": "streektaal",
+      "title": "De gemeente moet het mogelijk maken dat op alle basisscholen aandacht wordt besteed aan het Twents.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 118713,
+      "index": 15,
+      "theme": "Meer parkeerplaatsen",
+      "themeId": "meer-parkeerplaatsen",
+      "title": "Er moeten meer parkeerplaatsen komen in het centrum van Losser.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 118664,
+      "index": 16,
+      "theme": "Referendum",
+      "themeId": "referendum",
+      "title": "De inwoners van Losser moeten over belangrijke onderwerpen hun mening kunnen geven via een referendum.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 118678,
+      "index": 17,
+      "theme": "Bouwen op landbouwgrond",
+      "themeId": "bouwen-op-landbouwgrond",
+      "title": "Het moet mogelijk worden voor boeren om zelf huizen te bouwen op hun land.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 118694,
+      "index": 18,
+      "theme": "Armoedebestrijding",
+      "themeId": "armoedebestrijding",
+      "title": "De gemeente moet de inkomensgrens om hulp te krijgen bij armoede verhogen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 118690,
+      "index": 19,
+      "theme": "Vakantiewoningen",
+      "themeId": "vakantiewoningen",
+      "title": "De gemeente moet toestaan dat vakantiewoningen gebruikt worden als vast woonadres.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 118706,
+      "index": 20,
+      "theme": "Cultureel centrum",
+      "themeId": "cultureel-centrum",
+      "title": "In Losser moet een nieuw cultureel centrum komen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 118675,
+      "index": 21,
+      "theme": "Grofvuil",
+      "themeId": "grofvuil",
+      "title": "Grofvuil moet gratis aan huis worden afgehaald.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 118714,
+      "index": 22,
+      "theme": "Autovrij",
+      "themeId": "autovrij",
+      "title": "Het centrum van Losser moet autovrij worden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 118668,
+      "index": 23,
+      "theme": "Duurzame energie",
+      "themeId": "duurzame-energie",
+      "title": "Inwoners die samen duurzame energie op willen wekken, moeten financiële steun krijgen van de gemeente.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 118670,
+      "index": 24,
+      "theme": "Huisvesting buitenlandse werknemers",
+      "themeId": "huisvesting-buitenlandse-werknemers",
+      "title": "Werkgevers in de land- en tuinbouw moeten zelf zorgen voor de huisvesting van seizoenarbeiders op hun eigen bedrijfsterrein.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 118687,
+      "index": 25,
+      "theme": "Geweld tegen vrouwen",
+      "themeId": "geweld-tegen-vrouwen",
+      "title": "In Losser moet een blijf-van-mijn-lijf-huis komen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 118716,
+      "index": 26,
+      "theme": "Windmolens",
+      "themeId": "windmolens",
+      "title": "Losser moet meewerken aan de plaatsing van windmolens.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    }
+  ]
+}

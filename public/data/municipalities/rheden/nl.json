@@ -1,0 +1,1639 @@
+{
+  "id": "GM0275",
+  "name": "Rheden",
+  "slug": "rheden",
+  "parties": [
+    {
+      "id": 122461,
+      "name": "GroenLinks-PvdA",
+      "fullName": "Groenlinks - Partij van de Arbeid",
+      "website": "https://groenlinkspvda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "122486": {
+          "position": "agree",
+          "explanation": "Diversiteit is belangrijk en de gemeente moet het goede voorbeeld geven. In de top-10 van onze kandidatenlijst is het aantal mannen en vrouwen dan ook gelijk. Dit is een gezamenlijke opdracht voor het nieuw te vormen college."
+        },
+        "122487": {
+          "position": "disagree",
+          "explanation": "Inwoners moeten inspraak hebben in het beleid van de gemeente. Een referendum is daarvoor niet het middel. Een simpel ja of nee doet geen recht aan nuances en de volledige mening van de inwoners. GroenLinks-PvdA wil liever betere participatie, zodat inwoners beter vertegenwoordigd worden."
+        },
+        "122490": {
+          "position": "neither",
+          "explanation": "De gemeente moet boeren helpen die andere manieren van geld verdienen willen in plaats van landbouw. Maar wel onder voorwaarden: landschappelijke waarden moeten ook beschermd worden door de gemeente. De gemeente moet initiatieven van boeren met een open houding tegemoet treden."
+        },
+        "122493": {
+          "position": "agree",
+          "explanation": "Ook de gemeente Rheden moet bijdragen aan de opvang van asielzoekers. De gemeente Rheden is altijd een gastvrije gemeente geweest. Met de al geplande opvanglocaties in de nieuwe wijken draagt Rheden haar steentje al bij."
+        },
+        "122494": {
+          "position": "agree",
+          "explanation": "Werkgevers dienen te zorgen voor het welzijn van werknemers, dus goede huisvesting is een must. Tegelijk moet voor buitenlandse arbeiders de afhankelijkheid van hun werkgever verminderd worden. Er moeten dus meer mogelijkheden zijn dan alleen bij een bedrijf gehuisvest worden."
+        },
+        "122496": {
+          "position": "neither",
+          "explanation": "De gemeente moet staan voor schone lucht. Houtstook zorgt voor gezondheidsproblemen en voor beperking van de leefruimte van mensen met longproblemen. Daarom moeten we naar een stookbeleid dat recht doet aan de gezondheid van bewoners en de vrijheid van individuen die willen stoken."
+        },
+        "122498": {
+          "position": "disagree",
+          "explanation": "Het is geen taak van de gemeente om vuurwerkshows te organiseren. Wel zou de gemeente initiatieven voor vuurwerkshows uit de samenleving kunnen ondersteunen."
+        },
+        "122500": {
+          "position": "agree",
+          "explanation": "Toegankelijkheid is voor mensen met een beperking van groot belang. Veel plekken zijn nog niet goed toegankelijk, bijvoorbeeld voor iemand met een rolstoel. Ondernemers kunnen zo'n aanpassing vaak niet zomaar betalen. Daarom vinden wij dat de gemeente moet bijspringen."
+        },
+        "122506": {
+          "position": "neither",
+          "explanation": "De gemeente moet zorg dragen voor een gevarieerd sportaanbod in de gemeente. Dat betekent dat de gemeente moet zorgen voor sportparken en sporthallen. Wanneer een vereniging het financieel moeilijk heeft, moet de gemeente op basis van de individuele situatie bepalen of ondersteuning wenselijk is."
+        },
+        "122508": {
+          "position": "disagree",
+          "explanation": "Veiligheid is primair een taak van de politie. GroenLinks-PvdA zet liever in op preventie en leefbaarheid door geld te besteden aan armoede, woningbouw, jongerenwerkers en het in stand houden van voorzieningen. Dit draagt structureler bij aan veiligheid."
+        },
+        "122509": {
+          "position": "disagree",
+          "explanation": "Cameratoezicht is geen oplossing op zich. GroenLinks-Pvda is alleen voor cameratoezicht onder strikte voorwaarden. Daarmee voorkomen we schijnveiligheid en schending van privacy."
+        },
+        "122511": {
+          "position": "agree",
+          "explanation": "We zitten in een wooncrisis. Vooral voor starters is het niet makkelijk om een huis te vinden. Daarom moet de gemeente maatregelen treffen in de vorm van een lening. De structurele oplossing zit in meer woningen bouwen, zoals is ingezet op Haveland en Velp-zuid."
+        },
+        "122512": {
+          "position": "agree",
+          "explanation": "De gemeente moet zorgen dat iedereen kan een woning kan vinden. Mensen die in een dorp of in de regio zijn opgegroeid hebben al binding met het dorp. Daarom zouden zij voorrang moeten krijgen. De gemeente moet vooral bouwen naar behoefte van inwoners."
+        },
+        "122517": {
+          "position": "disagree",
+          "explanation": "GroenLinks-PvdA staat er voor dat iedereen mee kan doen in de samenleving. Mensen met een laag inkomen verdienen extra steun van de gemeente. Wij staan ervoor dat de sterkste schouders de zwaarste lasten dragen."
+        },
+        "122518": {
+          "position": "agree",
+          "explanation": "GroenLinks-PvdA staat er voor dat iedereen mee kan doen in de samenleving. Mensen met een laag inkomen verdienen extra steun van de gemeente. Extra investeren zorgt dat er meer rust komt in huishoudens met een laag inkomen waardoor ze meer kunnen bijdragen aan de samenleving en zelfstandig uit de armoede kunnen komen. "
+        },
+        "122520": {
+          "position": "agree",
+          "explanation": "De gemeente wil in 2040 CO2-neutraal zijn. Elektrische auto's dragen hier aan bij. De gemeente moet de omschakeling stimuleren door oplaadplekken voor elektrische auto’s te regelen. Deze laadplekken kunnen we tegelijk inzetten om netcongestie op het elektriciteitsnetwerk tegen te gaan."
+        },
+        "122521": {
+          "position": "agree",
+          "explanation": "Dorpen moeten zo veilig mogelijk. Er moet ruimte zijn voor voetgangers en fietsers. Om verkeersdeelnemers zo veilig mogelijk met elkaar in dezelfde ruimte te laten zijn, is een snelheid van 30 km/u in de bebouwde kom beter."
+        },
+        "122522": {
+          "position": "disagree",
+          "explanation": "Zorgverleners hebben als doel gezondheid en welzijn van hun cliënten optimaal na te streven. Daarbij maken zij geen onderscheid naar geloof, cultuur of levensovertuiging van hun cliënten, maar hebben daar wel oog voor. Cliënten zouden hier dan ook geen individuele keuze in hoeven te maken."
+        },
+        "122523": {
+          "position": "disagree",
+          "explanation": "Zorg moet goed geleverd worden, zeker voor kwetsbare groepen zoals jongeren. Goede ondersteuning zorgt dat jongeren volwaardig kunnen meedoen in de samenleving en helpt problemen in een vroeg stadium voorkomen. Goede jeugdzorg versterkt jongeren en hen helpt hun plek in de samenleving te vinden."
+        },
+        "122524": {
+          "position": "disagree",
+          "explanation": "Onze gemeente heeft een OZB die onder het Gelders gemiddelde ligt. De focus moet liggen op de juiste zorg leveren, landschap behouden en voorzieningen in stand houden. De hoogte van de OZB moet geen doel op zich zijn."
+        },
+        "122525": {
+          "position": "disagree",
+          "explanation": "De gemeente geeft de hondenbelasting uit aan voorzieningen voor hondenbezitters, zoals hondenveldjes en prullenbakken. Dit is het hoofddoel van de hondenbelasting. Als we de hondenbelasting afschaffen, kunnen we deze voorzieningen niet meer garanderen."
+        },
+        "122526": {
+          "position": "disagree",
+          "explanation": "Net als inwoners maken toeristen gebruik van voorzieningen van onze gemeente. Ook genieten ze van het landschap dat wij in stand houden. Daarvoor mag een bijdrage worden gevraagd."
+        },
+        "122529": {
+          "position": "agree",
+          "explanation": "Vluchtelingen hebben geen wachttijd op kunnen bouwen, dus om een eerlijke kans op een woning te krijgen is er voorrang nodig. Voorrang op sociale huur is nodig voor snelle integratie: wonen maakt taal, werk en onderwijs mogelijk."
+        },
+        "122530": {
+          "position": "disagree",
+          "explanation": "Afval verwerken kost geld en daar moet de gebruiker aan meebetalen. Wel kunnen hernieuwbare grondstoffen gratis worden ingeleverd. Hiermee stimuleren we betere afvalscheiding en meer hergebruik."
+        },
+        "122532": {
+          "position": "agree",
+          "explanation": "Elk kind moet leren zwemmen. Nederland is een waterland. Het gevaar van water is overal, daarom zijn zwemlessen van groot belang. Dit hoeft niet perse via schoolzwemmen maar kan ook via geld beschikbaar stellen voor zwemlessen."
+        },
+        "122533": {
+          "position": "disagree",
+          "explanation": "Softdrugs zijn in Nederland toegestaan en er is geen reden om dit specifiek in onze gemeente te verbieden. Als er plannen voor een coffeeshop komen in Rheden, moeten deze bekeken worden zoals bij alle plannen. Wel kan de gemeente aandacht vragen voor preventie en gezondheid."
+        },
+        "122534": {
+          "position": "agree",
+          "explanation": "In onze gemeente is vooral behoefte aan betaalbare woningen. Dit geldt voor sociale huur en goedkope koop. Een groot deel van de nieuwbouw sociale huur maken zorgt er ook voor dat in andere wijken er meer ruimte voor middeldure woningen kan komen. Hiermee maken we het woningbestand diverser."
+        },
+        "122535": {
+          "position": "agree",
+          "explanation": "Ons landschap is een kernkwaliteit. Tegelijk zien we dat de woningnood hoog is. GroenLinks-PvdA kiest voor bouwen in de dorpskernen, dus ook voor hoogbouw."
+        },
+        "122537": {
+          "position": "agree",
+          "explanation": "Bij een fusie moet wel de inwoner centraal blijven staan. Wij denken dat via een fusie de gemeente betere dienstverlening kan leveren en meer slagkracht kan krijgen in de regio en Den Haag. Wel moeten we voor een fusie de juiste randvoorwaarden opstellen."
+        },
+        "122539": {
+          "position": "disagree",
+          "explanation": "Om plek te maken in onze gemeente voor woningbouw en te zorgen voor arbeidsplaatsen moeten wij onze bedrijventerreinen optimaal benutten. Dit betekent dat wij ervoor kiezen om bedrijventerreinen in te zetten voor bedrijven die bijdragen aan duurzaamheid en bedrijven met veel medewerkers."
+        }
+      }
+    },
+    {
+      "id": 122462,
+      "name": "D66",
+      "fullName": "D66",
+      "website": "https://d66.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "122486": {
+          "position": "neither",
+          "explanation": "Diversiteit leidt tot betere besluitvorming en een gemeente die herkenbaar is voor iedereen. D66 vindt een goede vrouw-man verdeling in het college zeer wenselijk. Maar ook andere vormen van diversiteit in het college zijn belangrijk, zoals achtergrond, leeftijd en woonplaats van collegeleden."
+        },
+        "122487": {
+          "position": "neither",
+          "explanation": "In principe hebben gemeenteraadsleden, door inwoners gekozen, de taak om de mening van inwoners een plek te geven in afwegingen die over belangrijke onderwerpen gemaakt moeten worden. D66 vindt wel dat inwoners, met voldoende handtekeningen, een correctief bindend referendum mogen aanvragen."
+        },
+        "122490": {
+          "position": "neither",
+          "explanation": "'Altijd' is een groot woord, het moet wel overeenstemming zijn met doelen als natuurbehoud en omwonenden moeten kunnen meedenken over de plannen. Maar D66 is wel voor een 'ja, mits' benadering van initiatieven in plaats van 'nee, tenzij'."
+        },
+        "122493": {
+          "position": "agree",
+          "explanation": "Er zijn al asielzoekerscentra in gemeente Rheden. Om ook structureel opvangplekken voor asielzoekers te bieden komen er twee nieuwe woonbuurten met o.a. 70-80 woningen voor asielzoekers, die met de juiste ondersteuning in de buurt in 'gewone huizen' worden opgevangen. D66 steunt deze keuze volledig."
+        },
+        "122494": {
+          "position": "disagree",
+          "explanation": "In gemeente Rheden zijn al ruim voldoende woningen beschikbaar voor arbeidsmigranten, slechts een deel daarvan werkt in onze gemeente. Ondernemers in de land- en tuinbouw kunnen niet altijd de juiste huisvestingsfaciliteiten bieden op hun eigen bedrijventerrein."
+        },
+        "122496": {
+          "position": "neither",
+          "explanation": "Houtstook kan schadelijk zijn voor de luchtkwaliteit, gezondheidsschade veroorzaken en overlast opleveren. D66 kiest voor duidelijke regels die vervuiling en overlast fors beperken, zonder mensen die al schoon stoken onnodig te belasten. Moderne houtkachels blijven toegestaan, open haarden niet."
+        },
+        "122498": {
+          "position": "disagree",
+          "explanation": "Een goede, professionele vuurwerkshow kost ongeveer evenveel als het jaarbudget voor een dorpshuis. Het heeft voor D66 geen prioriteit om in de verschillende dorpen vuurwerkshows te organiseren met gemeentelijk geld."
+        },
+        "122500": {
+          "position": "neither",
+          "explanation": "D66 vindt het zeer belangrijk dat voorzieningen, gebouwen en digitale diensten toegankelijk zijn voor iedereen. Als gemeente moeten we zorgen voor dorpscentra die goed toegankelijk zijn voor mensen met een beperking. Dit heeft voor ons prioriteit boven het subsidiëren van ondernemers."
+        },
+        "122506": {
+          "position": "agree",
+          "explanation": "D66 Rheden ziet sport en bewegen als essentieel voor gezondheid, welzijn en sociale verbinding. Het is een taak van de gemeente om te borgen dat er voldoende en betaalbare sportfaciliteiten zijn in de gemeente, zodat er een diversiteit aan sporten beoefend kunnen blijven worden in onze gemeente."
+        },
+        "122508": {
+          "position": "neither",
+          "explanation": "Boa's hebben de belangrijke taak om te handhaven en op te treden in onveilige situaties die dagelijks voorkomen. Er is op dit moment te weinig onderbouwing voor de stelling dat we te weinig boa's hebben, maar als onderzoek aantoont dat dit zo is zullen we uitbreiding van de capaciteit steunen."
+        },
+        "122509": {
+          "position": "disagree",
+          "explanation": "Het respecteren van ieders privacy is een belangrijk uitgangspunt voor D66 Rheden. We willen geen camera’s die de openbare ruimte vastleggen als daar geen noodzaak voor bestaat vanuit het oogpunt van veiligheid."
+        },
+        "122511": {
+          "position": "agree",
+          "explanation": "D66 Rheden wil een inclusieve woningmarkt waarin wonen als sociaal grondrecht wordt gezien. Ook voor starters moeten er voldoende mogelijkheden zijn een passende woning te kopen. Een starterslening maakt dit mogelijk, maar we moeten ook meer betaalbare koopwoningen bouwen voor starters."
+        },
+        "122512": {
+          "position": "agree",
+          "explanation": "D66 is voorstander van de (reeds aanwezige) regel dat 50% van de vrijkomende sociale huurwoningen toegewezen worden aan woningzoekenden uit de eigen gemeente."
+        },
+        "122517": {
+          "position": "disagree",
+          "explanation": "Het kwijtschelden van de gemeentelijke belastingen is een van de maatregelen waarmee de gemeente bijdraagt aan de mogelijkheden voor minima om rond te komen. Dit willen we minima niet afnemen."
+        },
+        "122518": {
+          "position": "disagree",
+          "explanation": "De huidige inkomensgrenzen voor de verschillende minimaregelingen zorgen ervoor dat de hulp terecht komt bij de inwoners die dat het hardst nodig hebben. Gemeente Rheden hanteert een hogere inkomensgrens voor hulp aan gezinnen met kinderen: dit moet wat ons betreft zo blijven."
+        },
+        "122520": {
+          "position": "agree",
+          "explanation": "De mogelijkheid elektrisch te rijden moet er niet alleen zijn aan inwoners met een eigen oprit, dus het aantal openbare laadpalen moet groeien, afgestemd op de behoefte. D66 wil daarbij dat de gemeente de komst van elektrische deelauto's beter faciliteert."
+        },
+        "122521": {
+          "position": "agree",
+          "explanation": "We zien woonstraten en -erven primair als plek om te spelen en te verblijven, en secundair om doorheen te rijden en te parkeren. In het verkeer staat de veiligheid voorop: binnen de bebouwde kom wordt de maximumsnelheid overal waar dat kan 30 kilometer per uur."
+        },
+        "122522": {
+          "position": "agree",
+          "explanation": "D66 Rheden vindt de keuzevrijheid van inwoners een groot goed. Dit geldt ook voor de vrije keuze van een zorgverlener die past bij geloof, cultuur of levensovertuiging."
+        },
+        "122523": {
+          "position": "disagree",
+          "explanation": "Het gebruik en de kosten van jeugdzorg zijn sinds de decentralisatie geëxplodeerd. De oplossing ligt niet in het goedkoper inkopen, maar in het voorkomen van zwaardere zorg door preventie en vroegsignalering. Voor kinderen die jeugdzorg nodig hebben moet die toegankelijk en van hoge kwaliteit zijn."
+        },
+        "122524": {
+          "position": "disagree",
+          "explanation": "De ozb geeft inkomsten die bijvoorbeeld nodig zijn voor het in stand houden van dorpshuizen en de bieb. Een lagere ozb betekent minder voorzieningen. De huidige ozb is nu gelijk aan het Gelderse gemiddelde. Bovendien is de ozb een sociale belasting: de sterkste schouders dragen de zwaarste lasten."
+        },
+        "122525": {
+          "position": "neither",
+          "explanation": "De hondenbelasting is een heel inefficiënte belasting, ongeveer een derde ervan gaat op aan de kosten van het innen en handhaven ervan. Als er weer wat meer ruimte is in de begroting is het beter deze belasting af te schaffen. Zolang dat niet past zou er een vast tarief per hond moeten gelden."
+        },
+        "122526": {
+          "position": "disagree",
+          "explanation": "Toerisme en recreatie zijn belangrijk voor onze economie. Maar toeristen maken ook gebruik van onze voorzieningen en infrastructuur. Het is niet meer dan redelijk dat toeristen daar via de toeristenbelasting een passende bijdrage aan leveren."
+        },
+        "122529": {
+          "position": "agree",
+          "explanation": "Elke gemeente in Nederland, ook de onze, heeft een taakstelling in het huisvesten van statushouders. Door een deel van de vrijkomende sociale huurwoningen voor statushouders te bestemmen geven we invulling aan onze verantwoordelijkheid statushouders een woning te bieden."
+        },
+        "122530": {
+          "position": "neither",
+          "explanation": "'Gratis' afvalinzameling bestaat niet, u betaalt per kilo bij de milieustraat of via de afvalstoffenheffing voor de kosten. Een nadeel van betalen per kilo is dat dit de kans op afvaldumping vergroot. D66 vindt het een goed idee te evalueren of een groter aantal gratis kilo's afvaldumping voorkomt."
+        },
+        "122532": {
+          "position": "neither",
+          "explanation": "Hoewel wij dit erg graag zouden willen, heeft de gemeente niet de financiële middelen om het behalen van een zwemdiploma binnen het basisonderwijs mogelijk te maken. D66 biedt scholen wel graag de mogelijkheid gratis gebruik te maken van de zwembaden van de gemeente."
+        },
+        "122533": {
+          "position": "disagree",
+          "explanation": "Het is nu niet aan de orde, maar D66 Rheden heeft geen principiële bezwaren tegen de vestiging van een coffeeshop in onze gemeente. We zijn wel voor het 'afstandscriterium': de minimale afstand tussen een coffeeshop en een school moet 250 meter zijn."
+        },
+        "122534": {
+          "position": "disagree",
+          "explanation": "D66 vindt het belangrijk dat we bouwen voor alle woningzoekenden. Er is te weinig sociale huur, maar ook voor koopstarters en doorstromers is te weinig aanbod binnen de gemeente. Met de huidige norm van 30% sociale huur is een nieuwbouwproject eerder winstgevend en daardoor kansrijker."
+        },
+        "122535": {
+          "position": "agree",
+          "explanation": "Er is een groot tekort aan woningen in gemeente Rheden, en we moeten onze ruimte optimaal gebruiken. D66 is daarom voor hoogbouw die passend is voor de locatie van een nieuwbouwproject. Op sommige plekken is een hoge woonflat beter passend dan op andere plekken."
+        },
+        "122537": {
+          "position": "agree",
+          "explanation": "Gemeente Brummen en gemeente Rheden hebben een vergelijkbare identiteit, en vergelijkbare prioriteiten. Door samen een nieuwe gemeente te vormen kunnen de belangen van inwoners op de langere termijn beter worden gediend."
+        },
+        "122539": {
+          "position": "agree",
+          "explanation": "Modelbouwclub EVMC zit al 40 jaar op de Beemd met een, in de regio, unieke faciliteit. Verhuizing is geen realistische optie. De club is bereid een marktconforme prijs te betalen voor hun huidige terrein. Het economisch belang voor de gemeente van één extra bedrijf op deze plek is zeer gering."
+        }
+      }
+    },
+    {
+      "id": 122463,
+      "name": "VVD",
+      "fullName": "Volkspartij voor Vrijheid en Democratie",
+      "website": "https://www.vvd.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "122486": {
+          "position": "disagree",
+          "explanation": "De VVD kiest voor kwaliteit en geschiktheid. Daarom stellen wij wethouders aan op basis van ervaring, deskundigheid en draagvlak, niet op basis van een vast quotum."
+        },
+        "122487": {
+          "position": "neither",
+          "explanation": "De VVD vindt dat de gemeente gewoon goed moet werken en daarbij altijd het gesprek met inwoners aangaat. In Rheden betekent dit dat wij besluiten nemen en uitvoeren, zodat inwoners zich daar niet steeds zorgen over hoeven te maken."
+        },
+        "122490": {
+          "position": "agree",
+          "explanation": "De VVD wil boeren en ondernemers zo min mogelijk belemmeren. Als een boer wil ondernemen met een winkel of camping, moet dat in principe gewoon kunnen."
+        },
+        "122493": {
+          "position": "disagree",
+          "explanation": "De VVD vindt dat we moeten doen wat wettelijk verplicht is, maar niet meer dan dat. Onze gemeente vangt al meer op dan nodig is volgens de spreidingswet. Als er te veel mensen worden opgevangen, sluiten wij locaties."
+        },
+        "122494": {
+          "position": "agree",
+          "explanation": "De VVD vindt dat werkgevers verantwoordelijkheid moeten nemen voor hun personeel. Huisvesting op of bij het bedrijf kan een goede oplossing zijn, zolang het netjes gebeurt en past bij de omgeving van onze dorpen."
+        },
+        "122496": {
+          "position": "agree",
+          "explanation": "De VVD gelooft dat verantwoord stoken en schonere lucht prima samen kunnen gaan. Betuttelende verboden helpen niet: wij kiezen eigen verantwoordelijkheid en het stimuleren van schonere technieken."
+        },
+        "122498": {
+          "position": "agree",
+          "explanation": "De VVD vindt nu dat er een landelijk vuurwerkverbod is, de gemeente moet helpen met het organiseren van vuurwerkshows."
+        },
+        "122500": {
+          "position": "disagree",
+          "explanation": "De VVD vindt het belangrijk dat iedereen mee kan doen in onze dorpen. Ondernemers hebben de verantwoordelijkheid hun gebouw toegankelijk te maken en wij als gemeente doen dit voor de omgeving."
+        },
+        "122506": {
+          "position": "neither",
+          "explanation": "De VVD vindt verenigingen de ruggengraat van onze dorpen. Samen kijken we met verenigingen eerst naar hoe ze hun eigen verantwoordelijkheid beter kunnen invullen."
+        },
+        "122508": {
+          "position": "agree",
+          "explanation": "De VVD wil dat iedereen zich veilig kan voelen in onze dorpen. Daarom willen wij meer zichtbare boa’s op straat, die snel kunnen ingrijpen bij overlast en samenwerken met de politie."
+        },
+        "122509": {
+          "position": "agree",
+          "explanation": "De VVD wil dat iedereen zich veilig kan voelen in onze dorpen. Cameratoezicht zetten wij gericht in op plekken waar het nodig is, om overlast en criminaliteit tegen te gaan en het veiligheidsgevoel te vergroten."
+        },
+        "122511": {
+          "position": "disagree",
+          "explanation": "De VVD wil meer koopwoningen en meer doorstroming realiseren. Dit zodat starters een eerlijke kans maken op een woning."
+        },
+        "122512": {
+          "position": "agree",
+          "explanation": "De VVD vindt dat mensen uit onze dorpen ook in hun eigen omgeving moeten kunnen blijven wonen. Tegelijk zetten wij vol in op doorstroming, zodat mensen die zijn doorgegroeid de stap kunnen maken naar huur of koop en sociale woningen vrijkomen voor wie ze echt nodig heeft."
+        },
+        "122517": {
+          "position": "neither",
+          "explanation": "De VVD vindt dat mensen die het echt nodig hebben steun moeten krijgen. Maatwerk is hierbij nodig. Maar we maken lokaal geen regels die het verschil tussen werken en een uitkering kleiner maken."
+        },
+        "122518": {
+          "position": "disagree",
+          "explanation": "De VVD vindt dat hulp terecht moet komen bij mensen die het echt nodig hebben. We maken lokaal geen regels die het verschil tussen werken en een uitkering kleiner maken."
+        },
+        "122520": {
+          "position": "agree",
+          "explanation": "De VVD wil meer oplaadplekken realiseren. Hierdoor maken wij elektrisch rijden makkelijker, zonder dat dit ten koste gaat van bereikbaarheid en parkeren in onze dorpen."
+        },
+        "122521": {
+          "position": "agree",
+          "explanation": "De VVD kiest voor 30 km/u waar dat de veiligheid echt verbetert."
+        },
+        "122522": {
+          "position": "neither",
+          "explanation": "De VVD vindt dat goede zorg zoveel mogelijk moet aansluiten bij de persoon. Tegelijk moet zorg beschikbaar, betaalbaar en van goede kwaliteit blijven, daarom kijken wij per situatie wat mogelijk en passend is."
+        },
+        "122523": {
+          "position": "disagree",
+          "explanation": "De VVD vindt dat goede jeugdhulp draait om kwaliteit en resultaat, niet om de laagste prijs. Slechte of te goedkope zorg kost later juist meer en helpt kinderen en gezinnen niet."
+        },
+        "122524": {
+          "position": "agree",
+          "explanation": "De VVD wil de verspilling van jouw belastinggeld tegengaan. Hierdoor ontstaat ruimte om de OZB te verlagen."
+        },
+        "122525": {
+          "position": "agree",
+          "explanation": "De VVD wil de verspilling van jouw belastinggeld tegengaan. Daarbovenop vinden wij dat de hondenbelasting niet meer bij deze tijd past. Daarom maken wij vanaf 2027 de eerste hond gratis en schaffen we de hondenbelasting stap voor stap af."
+        },
+        "122526": {
+          "position": "agree",
+          "explanation": "De VVD wil onze dorpen aantrekkelijk houden voor bezoekers en ondernemers. Door de toeristenbelasting laag te houden, blijft recreatie betaalbaar en versterken we horeca, dorpscentra en werkgelegenheid."
+        },
+        "122529": {
+          "position": "disagree",
+          "explanation": "De VVD vindt dat sociale huur bedoeld is voor mensen die hier wonen en dringend een woning nodig hebben. Door voorrang te geven aan inwoners uit onze dorpen en sterk in te zetten op doorstroming, houden we sociale woningen beschikbaar voor wie ze nodig heeft."
+        },
+        "122530": {
+          "position": "agree",
+          "explanation": "De VVD wil het inwoners makkelijk maken om afval netjes weg te brengen. Door de milieustraat gratis toegankelijk te maken, voorkomen we illegale dumping en zorgen we voor schone en nette dorpen."
+        },
+        "122532": {
+          "position": "disagree",
+          "explanation": "De VVD vindt dat ouders in de eerste plaats verantwoordelijk zijn voor zwemles. Waar kinderen dreigen buiten de boot te vallen, bieden wij gerichte ondersteuning, maar wij kiezen niet voor een algemene gemeentelijke regeling voor schoolzwemmen."
+        },
+        "122533": {
+          "position": "neither",
+          "explanation": "De VVD zet veiligheid altijd op één. Een coffeeshop brengt extra risico’s op overlast en criminaliteit met zich mee en past niet bij onze dorpen."
+        },
+        "122534": {
+          "position": "disagree",
+          "explanation": "De VVD wil koopwoningen bouwen. Dat zorgt voor doorstroming en maakt sociale huur weer beschikbaar voor mensen die dat echt nodig hebben."
+        },
+        "122535": {
+          "position": "neither",
+          "explanation": "De VVD wil bouwen om het woningtekort op te lossen, vooral door meer koopwoningen en doorstroming te realiseren. Soms kan dat hoger op logische plekken, maar altijd passend bij onze dorpen."
+        },
+        "122537": {
+          "position": "agree",
+          "explanation": "De VVD staat open voor samenwerking als dat onze dorpen sterker maakt. Een fusie is geen doel op zich: alleen als inwoners erop vooruitgaan en onze identiteit behouden blijft, kan dit een goede stap zijn."
+        },
+        "122539": {
+          "position": "disagree",
+          "explanation": "De VVD vindt verenigingen belangrijk en willen ze ruimte geven. Tegelijk willen we bedrijventerreinen gebruiken waarvoor ze bedoeld zijn."
+        }
+      }
+    },
+    {
+      "id": 122464,
+      "name": "GPR Burgerbelangen",
+      "fullName": "Groep Pieper Rook Burgerbelangen",
+      "website": "https://www.gprburgerbelangen.com/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "122486": {
+          "position": "disagree",
+          "explanation": "Burgerbelangen vindt dat bestuurders aangesteld moeten worden op basis van hun vaardigheden. Wij geloven dat geslacht geen rol speelt in de kwaliteit van een bestuurder. Quota waarbij enkel naar persoonlijke kenmerken als geslacht wordt gekeken zijn wij geen voorstander van."
+        },
+        "122487": {
+          "position": "agree",
+          "explanation": "Niet ieder onderwerp is geschikt voor een referendum. Echter in beginsel zijn wij er voorstander van om de stem van de inwoner maximaal mee te nemen in besluitvorming. Voor enkele zeer fundamentele en belangrijke onderwerpen denken wij dat een referendum een goed idee zou kunnen zijn."
+        },
+        "122490": {
+          "position": "agree",
+          "explanation": "Wij vinden dat de gemeente boeren moet ondersteunen om hun bedrijf levensvatbaar te houden. Alleen zo is het mogelijk om boeren lokaal perspectief te bieden. Een winkel of een camping zijn daarvoor goede methoden die de omgeving minimaal belasten."
+        },
+        "122493": {
+          "position": "disagree",
+          "explanation": "Rheden voldoet al aan de spreidingswet. Daarmee nemen wij verantwoordelijkheid voor het eerlijk opvangen van asielzoekers. Wij zijn geen voorstander van meer asielzoekerscentra."
+        },
+        "122494": {
+          "position": "neither",
+          "explanation": "Het gaat erom dat dat op een fatsoenlijke manier gebeurt en dat onze inwoners daar geen last van ondervinden. De gemeente moet harde afspraken maken met huisvesters van arbeidsmigranten om fatsoenlijke huisvesting te regelen en hard ingrijpen als er toch overlast wordt veroorzaakt."
+        },
+        "122496": {
+          "position": "agree",
+          "explanation": "Burgerbelangen is tegen een verbod op houtstook. Verder pleiten wij voor landelijk beleid."
+        },
+        "122498": {
+          "position": "disagree",
+          "explanation": "Wij zien het niet als taak van de gemeente om een vuurwerkshow te organiseren. Binnen de mogelijkheden van de wet moet de gemeente wel ruimte geven aan inwoners, dorpsverenigingen en anderen om iets dergelijks te organiseren."
+        },
+        "122500": {
+          "position": "disagree",
+          "explanation": "De toegankelijkheid van gebouwen is primair een verantwoordelijkheid van de eigenaar van het gebouw. Verder heeft Rheden het geld helemaal niet om dit te kunnen betalen. Dit is daarom niet eens mogelijk."
+        },
+        "122506": {
+          "position": "disagree",
+          "explanation": "De gemeente moet geen financiële bijdrage gaan leveren aan sportverenigingen. We kunnen natuurlijk wel flexibel omgaan met bijvoorbeeld zaalhuur."
+        },
+        "122508": {
+          "position": "agree",
+          "explanation": "Wij vinden het belangrijk dat regels ook gehandhaafd kunnen worden. Meer gemeentelijke handhavers mag echter niet ten koste gaan van de nu al beperkte politie-inzet."
+        },
+        "122509": {
+          "position": "agree",
+          "explanation": "Alleen op die plekken waar overlast wordt ervaren die met cameratoezicht opgelost zou kunnen worden. Als er geen overlast is, dan ook geen camera's ophangen. "
+        },
+        "122511": {
+          "position": "agree",
+          "explanation": "Wij willen het graag makkelijker maken om als starter een woning te kopen. Eerste prioriteit is meer woningen bouwen. Daarmee lossen we het probleem structureel op. Op korte termijn zouden startersleningen kunnen helpen."
+        },
+        "122512": {
+          "position": "agree",
+          "explanation": "Wij vinden het belangrijk dat mensen in hun eigen omgeving een woning kunnen vinden. Zo kun je ook je netwerk behouden. Onze woningmarkt pakken we regionaal aan. Zo kan dus iemand uit Velp net zo makkelijk in Arnhem gaan wonen als andersom. Een sociaal netwerk houdt zich niet aan gemeentegrenzen."
+        },
+        "122517": {
+          "position": "disagree",
+          "explanation": "Door te stoppen met kwijtschelden zouden deze inwoners in financiële problemen komen. Daarmee worden de problemen alleen maar groter en de maatschappelijke problemen ook. We schieten er dus niets op. Voor deze inwoners en de gemeente als geheel is het beter om de kwijtschelding niet te stoppen."
+        },
+        "122518": {
+          "position": "disagree",
+          "explanation": "Hulp bij armoede moet alleen terecht komen bij mensen in armoede. Het verhogen van de grens betekent dat meer mensen recht krijgen op iets waar geen noodzaak voor is. Ook kost dit de gemeente veel geld. Dat heeft Rheden niet. Het is financieel niet mogelijk om dit uit te voeren."
+        },
+        "122520": {
+          "position": "disagree",
+          "explanation": "De meeste parkeerplaatsen hebben al aangewezen oplaadplekken voor elektrische auto's. Meer plekken aanwijzen voor elektrische auto's betekent minder plek voor andere auto's."
+        },
+        "122521": {
+          "position": "disagree",
+          "explanation": "Op veel plekken is dat al het geval en dat gaan we ook niet veranderen. Wij zijn tegen het verlagen van de snelheid op de hoofdwegen die door onze dorpen heen lopen. Dit zou er voor zorgen dat hulpdiensten langere aanrijtijden hebben en buslijnen wellicht verdwijnen."
+        },
+        "122522": {
+          "position": "disagree",
+          "explanation": "Bij zorg gaat het om kwaliteit, niet om geloofsovertuiging. Het kan soms helpen als een zorgverlener bepaalde culturen goed kent en zijn zorgverlening hierop heeft aangepast, maar uiteindelijk zijn we er als overheid voor verantwoordelijk dat je goede zorg krijgt."
+        },
+        "122523": {
+          "position": "disagree",
+          "explanation": "Als je bij zorg alleen naar prijs kijkt, dan wordt goedkoop duurkoop. Wij willen dat jeugdzorg op een goede manier wordt opgepakt, zodat jongeren het zorgtraject op termijn kunnen verlaten. Dat leidt op korte termijn wellicht tot kosten, maar levert op lange termijn veel meer op."
+        },
+        "122524": {
+          "position": "agree",
+          "explanation": "Op dit moment is het niet betaalbaar voor Rheden om de ozb te verlagen. Daarvoor ontbreekt het geld, dus zou er bezuinigd moeten worden. We hebben de afgelopen jaren al hard bezuinigd. Een verlaging zit er nu niet in. Als er wel geld beschikbaar is, dan zouden wij de ozb zeker willen verlagen."
+        },
+        "122525": {
+          "position": "agree",
+          "explanation": "Burgerbelangen is tegen de hondenbelasting. Echter levert het nu geld op. Dat betekent dat we dat geld ergens anders moeten zoeken, bijvoorbeeld in verder bezuinigingen of verhoging van de ozb. Daar zijn wij geen voorstander van. Op dit moment is de hondenbelasting kostendekkend."
+        },
+        "122526": {
+          "position": "disagree",
+          "explanation": "De afgelopen jaren heeft Rheden veel gevraagd van de inwoner door de ozb te verhogen. Het is niet meer dan eerlijk dat toeristen daar ook voor meebetalen. Daarom is burgerbelangen tegen het verlagen van de toeristenbelasting. "
+        },
+        "122529": {
+          "position": "disagree",
+          "explanation": "Voor het behoud van het eigen sociale netwerk vinden wij het belangrijk dat onze eigen inwoners voorrang krijgen. Vluchtelingen moeten gehuisvest worden, maar dat mag niet ten koste gaan van onze eigen inwoners."
+        },
+        "122530": {
+          "position": "disagree",
+          "explanation": "Als dit financieel zou kunnen zouden we het graag willen, maar op dit moment is dit niet realistisch. Bovendien vinden we het niet gek dat mensen die meer afval wegbrengen ook meer betalen. "
+        },
+        "122532": {
+          "position": "disagree",
+          "explanation": "Als gemeenten hier geld voor zouden krijgen, zouden wij dit graag terugbrengen. Maar op dit moment is het voor Rheden niet betaalbaar en daarom ook niet realistisch."
+        },
+        "122533": {
+          "position": "disagree",
+          "explanation": "Onder strikte voorwaarden, bijvoorbeeld omtrent overlast, zouden wij een coffeeshop accepteren. Het mag echter niet leiden tot overlast in de buurt."
+        },
+        "122534": {
+          "position": "disagree",
+          "explanation": "We hanteren nu regionaal een percentage van 30% sociale huur. Dat vinden wij voldoende. Door het percentage te verhogen naar 40% worden veel projecten onrendabel. Dat zorgt er uiteindelijk alleen maar voor dat er minder gebouwd gaat worden."
+        },
+        "122535": {
+          "position": "agree",
+          "explanation": "Om het woningtekort op te lossen is bouwen in de hoogte onvermijdelijk. We moeten goed kijken waar we dat doen en hoe hoog we toestaan. Bij een project zoals het IJsseldistrict in Velp kan hoogbouw prima in de omgeving passen."
+        },
+        "122537": {
+          "position": "neither",
+          "explanation": "Wij zijn niet tegen een fusie met Brummen. Brummen lijkt op Rheden: een paar grote kernen met kleinere dorpen daaromheen. Daartussen natuur en agrarisch landschap. Een fusie mag niet ten koste gaan van Rheden. Geen onverantwoorde (financiële) risico's. Wel samenwerken met de regio Arnhem."
+        },
+        "122539": {
+          "position": "disagree",
+          "explanation": "We hebben onze bedrijventerreinen nodig voor het huisvesten van bedrijven waar onze inwoners kunnen werken. Het kan niet zo zijn dat bedrijven (en werkplekken) geen plek kunnen vinden omdat onze bedrijventerreinen bezet worden door verenigingen met vooral leden van buiten Rheden."
+        }
+      }
+    },
+    {
+      "id": 122465,
+      "name": "CDA",
+      "fullName": "Christen-Democratisch Appèl",
+      "website": "https://www.cda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "122486": {
+          "position": "disagree",
+          "explanation": "Een evenwichtige verdeling vinden we belangrijk, maar het is niet leidend."
+        },
+        "122487": {
+          "position": "agree",
+          "explanation": "Mits het onderwerp zich daarvoor leent en de keuze eenvoudig terug te brengen is tot een voor of tegen standpunt."
+        },
+        "122490": {
+          "position": "agree",
+          "explanation": "We zijn er voor dat aan boeren extra mogelijkheden voor inkomsten worden geboden, maar er moet wel rekening worden gehouden met de omgeving."
+        },
+        "122493": {
+          "position": "agree",
+          "explanation": "We vinden het positief dat in onze gemeente al erkende vluchtelingen worden opgevangen in een AZC. Tegelijk moeten we oog houden voor de behoeften van alle inwoners."
+        },
+        "122494": {
+          "position": "disagree",
+          "explanation": "We zijn voor goede huisvesting, maar dat hoeft niet per se op eigen bedrijfsterrein."
+        },
+        "122496": {
+          "position": "agree",
+          "explanation": "Maar wel met aangepaste uitstootnormen."
+        },
+        "122498": {
+          "position": "disagree",
+          "explanation": "Lastig te organiseren om iedereen in alle dorpen er van te laten genieten."
+        },
+        "122500": {
+          "position": "agree",
+          "explanation": "De gemeente kan een financiële bijdrage verstrekken, waar de ondernemer dit niet helemaal zelf kan betalen."
+        },
+        "122506": {
+          "position": "disagree",
+          "explanation": "Als gemeente kun je wel kijken hoe je op andere manieren kunt ondersteunen (bijv. garant staan bij een lening)."
+        },
+        "122508": {
+          "position": "disagree",
+          "explanation": "Hier zien we op dit moment geen aanleiding voor."
+        },
+        "122509": {
+          "position": "disagree",
+          "explanation": "Op dit moment zien we hier geen aanleiding voor."
+        },
+        "122511": {
+          "position": "agree",
+          "explanation": "Als de gemeente het financieel kan dragen."
+        },
+        "122512": {
+          "position": "agree",
+          "explanation": "Wel moet voorkomen worden dat mensen uit onze gemeente vanwege deze regeling niet meer in andere gemeenten terecht kunnen."
+        },
+        "122517": {
+          "position": "disagree",
+          "explanation": "We zien hier op dit moment geen aanleiding voor."
+        },
+        "122518": {
+          "position": "disagree",
+          "explanation": "We zien hier geen aanleiding voor om dit te wijzigen."
+        },
+        "122520": {
+          "position": "agree",
+          "explanation": "Als die vraag er is."
+        },
+        "122521": {
+          "position": "disagree",
+          "explanation": "Op veel wegen in de dorpen zijn we voor 30 km per uur, maar de doorgaande wegen willen we 50 km behouden."
+        },
+        "122522": {
+          "position": "disagree",
+          "explanation": "Het is fijn als dat mogelijk is, maar het is geen vanzelfsprekendheid."
+        },
+        "122523": {
+          "position": "disagree",
+          "explanation": "Kwaliteit is minstens zo belangrijk."
+        },
+        "122524": {
+          "position": "agree",
+          "explanation": "De OZB is de afgelopen jaren wel erg veel verhoogd en zou volgens ons wel weer wat omlaag kunnen."
+        },
+        "122525": {
+          "position": "agree",
+          "explanation": "Mits daar voldoende andere inkomsten tegenover staan."
+        },
+        "122526": {
+          "position": "disagree",
+          "explanation": "We zijn ervoor het te laten zoals het nu is, dus ook niet verhogen."
+        },
+        "122529": {
+          "position": "disagree",
+          "explanation": "Er moet sprake zijn van een eerlijke verdeling."
+        },
+        "122530": {
+          "position": "disagree",
+          "explanation": "Hier zien we op dit moment geen aanleiding voor."
+        },
+        "122532": {
+          "position": "disagree",
+          "explanation": "We zien meer in ondersteuning van die kinderen, die niet de mogelijkheid voor zwemles hebben."
+        },
+        "122533": {
+          "position": "agree",
+          "explanation": "Dit past niet bij een veilige en gezonde gemeente."
+        },
+        "122534": {
+          "position": "disagree",
+          "explanation": "Als CDA zijn we voor minimaal 30% sociale huurwoningen."
+        },
+        "122535": {
+          "position": "disagree",
+          "explanation": "Het dorpse groene karakter van de gemeente willen we behouden. Daar passen geen hoge woonflats bij."
+        },
+        "122537": {
+          "position": "agree",
+          "explanation": "Dit biedt volgens ons wel mogelijkheden."
+        },
+        "122539": {
+          "position": "agree",
+          "explanation": "Als de club daarvoor een marktconforme prijs kan betalen."
+        }
+      }
+    },
+    {
+      "id": 122466,
+      "name": "Volkspartij Politiek Rheden",
+      "fullName": "Volkspartij Politiek Rheden",
+      "website": "https://politiekrheden.blogspot.com/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "122486": {
+          "position": "disagree",
+          "explanation": "Het belangrijkste is dat de beste mensen op de juiste plek zitten. Het maakt niet uit of dat mannen of vrouwen zijn."
+        },
+        "122487": {
+          "position": "agree",
+          "explanation": "Wij vertrouwen op de kracht van onze inwoners. Bij een grote keuze verdienen de Rhedense inwoners een referendum, geen besluit dat er doorheen wordt gejast of dat achter gesloten deuren wordt genomen"
+        },
+        "122490": {
+          "position": "agree",
+          "explanation": "Boeren hebben het met alle milieumaatregelen en beperkingen al moeilijk en krijgen het steeds moeilijker. Zij moeten de ruimte krijgen om hun bedrijfsvoering winstgevend te houden, rekening houdend met omgeving en leefbaarheid."
+        },
+        "122493": {
+          "position": "disagree",
+          "explanation": "Wij willen helemaal geen AZC. Er zijn al twee asielopvangcentra in de gemeente. Dat zijn er twee te veel. Wij blijven ons met kracht verzetten tegen dit beleid. Er worden nu meer dan 400 asielzoekers opgevangen. Dat zijn er al 150 meer dan wettelijk vereist. Dit aantal moet omlaag."
+        },
+        "122494": {
+          "position": "agree",
+          "explanation": "Er zijn in Velp enkele dicht bij elkaar gelegen locaties waar een grote groep arbeidsmigranten in groepsverband woont. Dat heeft negatieve gevolgen voor de veiligheid en leefbaarheid van de omgeving. Werkgevers moeten zorgen voor fatsoenlijke huisvesting op eigen terrein, ook na ontslag."
+        },
+        "122496": {
+          "position": "agree",
+          "explanation": "Open haarden en houtkachels horen bij het leven in onze dorpen. Beperken of een verbod is onzinnig en gaat veel te ver. De gemeente moet zich richten op het aanpakken van echte overlast, niet op het beperken van normaal en verantwoord gebruik door inwoners."
+        },
+        "122498": {
+          "position": "disagree",
+          "explanation": "Een gemeentelijke vuurwerkshow klinkt mooi, maar kost veel geld en lost de overlast rond oud en nieuw niet vanzelf op. De gemeente moet eerst inzetten op veiligheid, handhaving en duidelijke regels. Een show kan alleen overwogen worden als het betaalbaar is en echt iets toevoegt voor inwoners."
+        },
+        "122500": {
+          "position": "disagree",
+          "explanation": "Toegankelijkheid is belangrijk, maar financiële steun van de gemeente moet geen automatisme zijn. Ondernemers zijn zelf verantwoordelijk voor een toegankelijk gebouw. De gemeente kan ondersteunen met duidelijke regels, advies en maatwerk, maar geen brede subsidieregelingen"
+        },
+        "122506": {
+          "position": "agree",
+          "explanation": "De gemeente moet sportverenigingen helpen als de problemen buiten hun schuld ontstaan. Geen blanco cheques, wel steun om onze dorpen vitaal te houden."
+        },
+        "122508": {
+          "position": "agree",
+          "explanation": "Rheden verdient zichtbare handhaving. We versterken het boa‑team zodat elke kern en het buitengebied veilig en leefbaar blijft. Bijv. handhaven tegen overlast, vervuiling, overhangend groen. Geen gedoe, gewoon doen."
+        },
+        "122509": {
+          "position": "agree",
+          "explanation": "Overlast, vandalisme en incidenten concentreren zich op een aantal herkenbare plekken: stations, winkelgebieden en parkeerlocaties. Bewoners en ondernemers geven al langer aan dat zij zich daar niet altijd veilig voelen. Daarom meer cameratoezicht op plekken waar structurele overlast plaatsvindt."
+        },
+        "122511": {
+          "position": "disagree",
+          "explanation": "Wij zouden dit wel willen maar dit is niet realistisch. Rheden had wel een starterslening maar die is al in 2010 beëindigd omdat rijk en provincie stopten met meebetalen. De gemeente kan deze kosten onmogelijk alleen dragen."
+        },
+        "122512": {
+          "position": "agree",
+          "explanation": "Wie in Rheden leeft, werkt en bijdraagt, hoort niet aan de zijlijn te staan. Wij kiezen ervoor om mensen met lokale wortels écht voorrang te geven bij sociale huurwoningen, zodat onze gemeenschap niet uit elkaar groeit."
+        },
+        "122517": {
+          "position": "disagree",
+          "explanation": "Kwijtschelding van gemeentelijke belastingen is een essentieel instrument om armoede te bestrijden. Het voorkomt schulden, beschermt kwetsbare huishoudens en draagt bij aan een sociaal rechtvaardig lokaal beleid"
+        },
+        "122518": {
+          "position": "disagree",
+          "explanation": "Als de inkomensgrens wordt verhoogd dan verwatert de hulp voor de mensen die het zwaarst getroffen worden. De middelen moeten worden ingezet waar de nood het hoogst is, niet steeds breder uitwaaieren. Voorkomen moet worden dat regelingen onbetaalbaar worden en dat ondersteuning versnipperd raakt."
+        },
+        "122520": {
+          "position": "agree",
+          "explanation": "Wij willen voldoen aan de groeiende vraag naar laadinfrastructuur en een evenwichtige spreiding van laadpunten in alle dorpen. Door tijdig te investeren in voldoende capaciteit blijft de openbare ruimte toegankelijk en toekomstbestendig."
+        },
+        "122521": {
+          "position": "disagree",
+          "explanation": "De maximumsnelheid binnen de bebouwde kom moet naar 30 km/uur waar dat nodig is voor veiligheid, maar 50 km/uur moet blijven waar dat verantwoord kan. Zo houden we onze dorpen veilig voor voetgangers en fietsers, zonder onnodige vertraging voor inwoners die onderweg zijn."
+        },
+        "122522": {
+          "position": "disagree",
+          "explanation": "Nee! Iedereen moet zich aanpassen aan de Nederlandse waarden en normen. Het kiezen van zorgverleners op basis van geloof, cultuur of levensovertuiging staat hier haaks op. Zorg is voor iedereen gelijk en we houden vast aan gedeelde Nederlandse waarden in plaats van aparte systemen naast elkaar."
+        },
+        "122523": {
+          "position": "disagree",
+          "explanation": "Goedkoop is vaak duurkoop. Prijs mag nooit het leidende criterium zijn bij de inkoop van jeugdhulp. De gemeente moet sturen op kwaliteit, deskundigheid en effectiviteit. Een te sterke focus op kosten leidt tot versnippering, wisselingen van aanbieders en uiteindelijk hogere maatschappelijke kosten."
+        },
+        "122524": {
+          "position": "agree",
+          "explanation": "De OZB is in vier jaar met meer dan 75% gestegen. De gemeentelijke dienstverlening is niet in dezelfde mate verbeterd. Tekorten moeten niet altijd worden gedekt door belastingverhoging maar eerst worden opgevangen binnen de eigen organisatie. Een lagere OZB zorgt voor een eerlijker belastingniveau."
+        },
+        "122525": {
+          "position": "agree",
+          "explanation": "Hondenbelasting is achterhaald. Het belast één groep inwoners zonder duidelijke reden. Honden hebben (vooral bij ouderen) ook een sociale functie. Honden bestrijden eenzaamheid, zijn goed voor de fysieke en geestelijke gezondheid en bevorderen sociale contacten en vriendschappen."
+        },
+        "122526": {
+          "position": "disagree",
+          "explanation": "De toeristenbelasting hoeft niet omlaag. Het is een eerlijke bijdrage van bezoekers aan de voorzieningen die zij gebruiken. Met deze inkomsten kan de gemeente investeren in onderhoud en leefbaarheid zonder de lasten voor inwoners te verhogen."
+        },
+        "122529": {
+          "position": "disagree",
+          "explanation": "Voorrang voor statushouders ondermijnt het vertrouwen in de samenleving en de overheid. Mensen staan vaak vele jaren op een wachtlijst en zien nieuwkomers met voorrang een woning krijgen. Statushouders moeten aansluiten in de rij en wachten op hun beurt."
+        },
+        "122530": {
+          "position": "agree",
+          "explanation": "Wie afval netjes wegbrengt, moet niet worden afgestraft met extra kosten. Gratis inleveren is logisch, effectief en voorkomt rommel in de openbare ruimte."
+        },
+        "122532": {
+          "position": "agree",
+          "explanation": "Zwemveiligheid is belangrijk. Het voorkomt ongelukken, verkleint ongelijkheid en bespaart op de lange termijn maatschappelijke kosten.De gemeente moet financieel bijdragen aan schoolzwemmen zodat ieder kind kan leren zwemmen."
+        },
+        "122533": {
+          "position": "agree",
+          "explanation": "Een coffeeshop hoort niet in onze dorpen. Het zorgt voor overlast en aantasting van de leefomgeving."
+        },
+        "122534": {
+          "position": "disagree",
+          "explanation": "40% is te veel. Maximaal 30% sociale huur voorkomt scheefgroei. Rheden heeft ook betaalbare koop en middenhuur nodig, anders loopt de woningmarkt vast."
+        },
+        "122535": {
+          "position": "neither",
+          "explanation": "Niet persé. In Rheden bouwen we voor onze inwoners, maar zonder de menselijke maat te verliezen. Hoge flats zijn geen vanzelfsprekendheid. Wonen moet betaalbaar blijven, maar niet ten koste van het dorpse karakter."
+        },
+        "122537": {
+          "position": "agree",
+          "explanation": "Rheden kan het nog aan, maar het kraakt in zijn voegen. Als we niets doen raken we de regie kwijt. Door onze krachten te bundelen met Brummen versterken we de organisatie en houden we de dienstverlening op peil. Wij willen wel dat onze inwoners nauw worden betrokken. Liefst via een referendum."
+        },
+        "122539": {
+          "position": "agree",
+          "explanation": "De Velpse modelbouwclub moet een kans krijgen om op bedrijventerrein De Beemd kunnen blijven. Deze club is een plek waar techniek, creativiteit en gemeenschap samenkomen. Zij verdient stabiliteit, geen onzekerheid over de toekomst."
+        }
+      }
+    },
+    {
+      "id": 122467,
+      "name": "ChristenUnie",
+      "fullName": "ChristenUnie",
+      "website": "https://www.christenunie.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "122486": {
+          "position": "neither",
+          "explanation": "Een betrouwbare overheid is herkenbaar en representatief. Daarom is het goed om aandacht te hebben voor diversiteit binnen de gemeenteraad, het college en de ambtelijke organisatie, bijvoorbeeld op het gebied van leeftijd, gender, beperkingen, achtergrond en opleidingsniveau."
+        },
+        "122487": {
+          "position": "disagree",
+          "explanation": "Referenda zijn geen oplossing bij complexe politieke vraagstukken. Een (brede) enquête is een betere vervanging in die gevallen waarin de gemeente de mening van inwoners wil betrekken. Het lokaal bestuur blijft eindverantwoordelijk."
+        },
+        "122490": {
+          "position": "agree",
+          "explanation": "Wij willen ruimte geven aan boeren om op hun erf een paar woningen te bouwen, of andere (recreatieve) activiteiten te realiseren. Ook willen we het makkelijker maken om verbrede landbouw toe te passen, zoals zorglandbouw en landwinkels."
+        },
+        "122493": {
+          "position": "agree",
+          "explanation": "Elke gemeente heeft een verantwoordelijkheid in de opvang van asielzoekers, zodat er een landelijke spreiding is en daar werken we aan mee. We staan voor kleinschalige opvang. We gaan met maatschappelijke organisaties in gesprek hoe georganiseerd kan worden."
+        },
+        "122494": {
+          "position": "disagree",
+          "explanation": "De gemeente past strikte handhaving toe op goede woonomstandigheden. We werken samen met inspectiediensten en maatschappelijke organisaties om misstanden bij werkgevers en huisbazen te signaleren en aan te pakken."
+        },
+        "122496": {
+          "position": "disagree",
+          "explanation": "De ChristenUnie zet zich in voor het afbouwen van de houtstook in de komende jaren en tegelijkertijd willen we voorkomen dat inwoners die houtstook gebruiken voor verwarming van hun woning in de kou komen te staan. Er zijn goede overgangsregelingen nodig en meer metingen van luchtkwaliteit."
+        },
+        "122498": {
+          "position": "neither",
+          "explanation": "Niets over vastgelegd in het verkiezingsprogramma. In principe willen we vanuit zorg voor de schepping overlast en schade aan de natuur voorkomen, tegelijkertijd dragen dergelijke evenementen bij aan saamhorigheid en gemeeschapszin en is het veiliger dan zelf afsteken."
+        },
+        "122500": {
+          "position": "disagree",
+          "explanation": "Dit is een verantwoordelijkheid van ondernemers zelf. De gemeente heeft haar rol bij het herinrichten van de openbare omgeving om de toegankelijkheid voor meerdere doelgroepen, waaronder kinderen, jongeren, ouderen en mindervalide mensen te vergroten."
+        },
+        "122506": {
+          "position": "disagree",
+          "explanation": "Sportverenigingen fungeren vaak als cement in de samenleving en verdienen steun. We stimuleren de breedtesport in de gemeente Rheden, voor iedereen moet sport beschikbaar zijn. Daarom is het nodig om ook voor de toekomst voldoende sportfaciliteiten te hebben, daar zien wij onze rol."
+        },
+        "122508": {
+          "position": "disagree",
+          "explanation": "We versterken de samenwerking tussen winkeliers, handhavers en politie om winkelcriminaliteit en overlast aan te pakken. Dit doen we concreet door middel van regulier overleg tussen de winkeliersverenigingen in de dorpen en de overheidsdiensten."
+        },
+        "122509": {
+          "position": "neither",
+          "explanation": "De ChristenUnie staat op voor een weerbare samenleving als beste voorbereiding in een wankele wereld. In de toenemende zorgen over veiligheid door globalisering is de oplossing niet ‘ieder voor zich’, maar kan een samenleving waarin mensen naar elkaar omzien het verschil maken."
+        },
+        "122511": {
+          "position": "disagree",
+          "explanation": "Wij willen vooral inzetten op voldoende betaalbare koop- en huurwoningen, voor starters en anderen met een kleine portemonnee en mensen met een zorgbehoefte. Wij vragen bij nieuwbouwprojecten met koopwoningen aandacht voor aanbod tot 300.000 euro."
+        },
+        "122512": {
+          "position": "disagree",
+          "explanation": "We volgen de toewijzingsregels die we in de woonregio Arnhem-Nijmegen afspreken met zowel de buurgemeenten als de woningcorporaties."
+        },
+        "122517": {
+          "position": "disagree",
+          "explanation": "Gemeente Rheden past bij het innen van gemeentelijke belastingen en heffingen een sociaal kwijtscheldings- en incassobeleid toe om problematische schulden te voorkomen."
+        },
+        "122518": {
+          "position": "disagree",
+          "explanation": "We blijven actief samenwerken met woningcorporaties, energiemaatschappijen en zorgverzekeraars om betalingsachterstanden vroegtijdig op te merken en hulp aan te bieden. De gemeente blijft samenwerken met organisaties voor vrijwillige schuldhulpverlening en draagt voldoende financieel bij."
+        },
+        "122520": {
+          "position": "agree",
+          "explanation": "Het aantal laadpalen wordt uitgebreid conform de NAL norm. Inwoners krijgen de mogelijkheid de eigen auto op te laden via een kabel over de stoep of een klein geultje tussen de tegels, mits voldoende voorzorgsmaatregelen zijn genomen."
+        },
+        "122521": {
+          "position": "agree",
+          "explanation": "Alleen op wegen met openbaar vervoer en verbindingswegen geldt waar mogelijk 50 kilometer per uur. Dat kan uitsluitend wanneer er losliggende fietspaden zijn."
+        },
+        "122522": {
+          "position": "neither",
+          "explanation": "We zetten ons er daarom voor in dat ook in Rheden mensen naar elkaar omzien. Dat kan alleen als mensen elkaar kennen en zich betrokken voelen. De gemeente kan daarbij voorzien in wat er nodig is om elkaar te leren kennen en door ruimte te geven aan initiatieven vanuit bewoners en organisaties."
+        },
+        "122523": {
+          "position": "disagree",
+          "explanation": "Een belangrijke uitdaging voor de gemeente Rheden is om te zorgen dat jeugdhulp voor kwetsbare kinderen en jongeren toegankelijk blijft. Dat vraagt volgens de ChristenUnie allereerst: investeren in gezinnen en gemeenschappen. Waaronder ook ondersteuning bij relatieproblemen."
+        },
+        "122524": {
+          "position": "disagree",
+          "explanation": "Niets realistisch gezien de huidige begrotingen en de druk op de gemeentelijke taken."
+        },
+        "122525": {
+          "position": "disagree",
+          "explanation": "Niets over opgenomen in het verkiezingsprogramma."
+        },
+        "122526": {
+          "position": "disagree",
+          "explanation": "Niets over opgenomen in het verkiezingsprogramma."
+        },
+        "122529": {
+          "position": "agree",
+          "explanation": "De gemeente heeft een verantwoordelijkheid om te zorgen dat statushouders mee kunnen draaien in de maatschappij. Een eigen plek is daarvoor essentieel. Integratie werkt het best als mensen zo vroeg mogelijk (volwaardig) mee kunnen draaien in de samenleving."
+        },
+        "122530": {
+          "position": "agree",
+          "explanation": "Bewoners kunnen minimaal 1x per jaar kosteloos grof afval aanbieden, wat op afroep opgehaald wordt met de kraakwagen, met een maximum van 3 m3 per keer. Het storten bij het Recyleplein moet betaalbaar blijven voor alle inwoners, met speciale aandacht voor minima."
+        },
+        "122532": {
+          "position": "agree",
+          "explanation": "De ChristenUnie investeert in gezinnen gemeenschappen: onder meer door in te blijven zetten op budget voor de Gelrepas en Stichting Leergeld."
+        },
+        "122533": {
+          "position": "agree",
+          "explanation": "De ChristenUnie is tegen de aanwezigheid van coffeeshops en/of het telen van wiet door gemeenten. Drugsgebruik wordt niet langer genormaliseerd. De gemeente doet meer tegen het toenemende gebruik en de groeiende acceptatie van synthetische drugs."
+        },
+        "122534": {
+          "position": "disagree",
+          "explanation": "Bouwen doen we in alle prijsklassen. Zo zorgen we voor een gezonde mix van goedkope en duurdere woningen in al onze wijken en dorpskernen. We kiezen bij woningbouwprojecten voor een verdeling van tweederde van alle nieuw te bouwen woningen in het betaalbare segment, waarvan 30% in de sociale huur."
+        },
+        "122535": {
+          "position": "agree",
+          "explanation": "We schrikken niet terug voor woningbouwprojecten met hoogbouw, indien die passend in de dorpskernen en de omgeving kunnen worden opgenomen en bijdragen aan voorgenoemde doelstellingen."
+        },
+        "122537": {
+          "position": "agree",
+          "explanation": "Rheden is groter dan Brummen, maar wij denken dat we over enkele jaren hetzelfde probleem hebben. Daarom willen wij fuseren. Gemeenschappelijk met de gemeente Brummen is dat wij één gemeente zijn met veel dorpen. En in die lokale gemeenschappen gebeurt het, die moeten we sterk houden."
+        },
+        "122539": {
+          "position": "neither",
+          "explanation": "Wij vinden dat de modelbouwclub niet op De Beemd kan blijven, omdat het terrein gebruikt moet worden voor bedrijven in een hogere milieucategorie. Tegelijkertijd koesteren wij verenigingen en dient voor de modelbouwclub een alternatief beschikbaar te komen."
+        }
+      }
+    },
+    {
+      "id": 208708,
+      "name": "50Plus",
+      "fullName": "50Plus",
+      "website": "https://www.50pluspartij.nl/rheden/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "122486": {
+          "position": "disagree",
+          "explanation": "Een inclusief college is een mooi streven, maar niet op voorhand verplichten. Kennis en ervaring is even belangrijk."
+        },
+        "122487": {
+          "position": "disagree",
+          "explanation": "Inspraak is zeer gewenst en moet goed worden begeleid, besluitvorming aan de raad laten."
+        },
+        "122490": {
+          "position": "agree",
+          "explanation": "Zolang het kleinschalig blijft en vooral eigen producten worden verkocht is dat een prima idee."
+        },
+        "122493": {
+          "position": "disagree",
+          "explanation": "De gemeente Rheden doet al voldoende voor de opvang van asielzoekers, ten opzichte van het aantal inwoners. Nu eerst nieuwe seniorenwoningen bouwen voor de zo benodigde doorstroming."
+        },
+        "122494": {
+          "position": "disagree",
+          "explanation": "Alle huisvesting valt onder de omgevingswet. Het is onwenselijk om de seizoensarbeiders te afhankelijk te maken van deze werkgevers."
+        },
+        "122496": {
+          "position": "agree",
+          "explanation": "Met goede voorlichting is heel veel overlast te voorkomen. Geen complexe regelingen optuigen die handhaving achter de voordeur moet controleren."
+        },
+        "122498": {
+          "position": "disagree",
+          "explanation": "Het vuurwerkverbod gaat komend jaar in. Maar eens afwachten hoe de inwoners de avond gaan invullen."
+        },
+        "122500": {
+          "position": "disagree",
+          "explanation": "Voor haar eigen gemeentelijke gebouwen wel (ook tijdens een verbouwing). Ondernemers zullen zelf moeten investeren. Gemeente kan wel investeren in meer openbare toiletten in de centra."
+        },
+        "122506": {
+          "position": "disagree",
+          "explanation": "Een vereniging heeft leden. Die zijn als eerste aan de beurt om hun vereniging te redden. Een uitzondering kan altijd worden gemaakt bij hele uitzonderlijke gebeurtenissen."
+        },
+        "122508": {
+          "position": "agree",
+          "explanation": "Veiligheid op straat (en online) heel belangrijk. Wel zorgen dat de boa's echt op straat zijn en niet achter de laptop."
+        },
+        "122509": {
+          "position": "agree",
+          "explanation": "Met name in de kernen, om oplichting van ouderen te voorkomen."
+        },
+        "122511": {
+          "position": "disagree",
+          "explanation": "De gemeente is geen hypotheekbank. Schoenmaker blijf bij je leest."
+        },
+        "122512": {
+          "position": "agree",
+          "explanation": "Bij nieuwbouw verplicht 10% seniorenwoningen in de sociale huur voor woningzoekende ouderen uit de gemeente. Ook 10% seniorenwoningen bij koop plannen. Dat levert doorstroming op (uiteindelijk ten gunste van jongeren)."
+        },
+        "122517": {
+          "position": "agree",
+          "explanation": "Het kwijtschelden helpt iemand op lange termijn niet. Als mensen financiële hulp krijgen, dat ook koppelen aan uitgaven cursussen. Wel voorkomen dat door boetes de belastingen veel hoger worden."
+        },
+        "122518": {
+          "position": "disagree",
+          "explanation": "Dit is veelal landelijk beleid, dat als gemeente volgen."
+        },
+        "122520": {
+          "position": "agree",
+          "explanation": "Hierbij de ontwikkelingen van het wagenpark in Nederland volgen."
+        },
+        "122521": {
+          "position": "agree",
+          "explanation": "Dit geldt met name voor de kernen zelf, zodat ouderen veilig kunnen oversteken. Of de grens de hele bebouwde kom moet zijn is nog te bespreken."
+        },
+        "122522": {
+          "position": "disagree",
+          "explanation": "Dit behoort bij landelijk beleid."
+        },
+        "122523": {
+          "position": "agree",
+          "explanation": "Er gaan miljoenen Euro's om in Rheden richting jeugdhulp. De aandacht in de raad mag wel wat meer naar een doelmatige besteding van gelden. Ook (of juist) als de financiering regionaal wordt betaald (nieuwe wet)."
+        },
+        "122524": {
+          "position": "agree",
+          "explanation": "50PLUS wil zich sterk maken voor (lokale) belastingen die niet meer stijgen dan de indexatie van de AOW en/of de pensioenen. Voor Rheden betekent dit allereerst een verlaging van de OZB komende vier jaar."
+        },
+        "122525": {
+          "position": "agree",
+          "explanation": "Mits bij het afschaffen ook wordt bezuinigd op de uitgaven en strenger wordt gehandhaafd op loslopende honden die een gevaar vormen voor ouderen."
+        },
+        "122526": {
+          "position": "disagree",
+          "explanation": "De gemeente Rheden is in trek bij toeristen. De belasting gelijk houden met landelijke ontwikkelingen in drukke gebieden."
+        },
+        "122529": {
+          "position": "disagree",
+          "explanation": "De urgentie (voorrang) op sociale huurwoningen is al georganiseerd. Veel nieuw bouwen en eerlijk verdelen onder alle woningzoekenden. Geen extra uitzonderingen maken."
+        },
+        "122530": {
+          "position": "agree",
+          "explanation": "Het inleveren wel koppelen aan een identiteitsbewijs."
+        },
+        "122532": {
+          "position": "agree",
+          "explanation": "Zwemles van groot belang voor iedereen."
+        },
+        "122533": {
+          "position": "agree",
+          "explanation": "Zolang drugs nog niet volledig legaal zijn (leveren en verkopen) het gebruik ervan niet eenvoudiger maken met coffeeshops."
+        },
+        "122534": {
+          "position": "disagree",
+          "explanation": "30% is voldoende, waarvan 10% levensloopbestendige woningen voor ouderen."
+        },
+        "122535": {
+          "position": "agree",
+          "explanation": "Niet in heel Rheden en zeker geen wolkenkrabbers. Wat er waar kan wordt geregeld in het Omgevingsplan. Daar is inspraak op mogelijk."
+        },
+        "122537": {
+          "position": "agree",
+          "explanation": "Mits het per inwoner vanaf het begin lagere belastingen oplevert en de informatiepunten in de dorpskernen weer terug komen. Bijvoorbeeld één keer per week."
+        },
+        "122539": {
+          "position": "disagree",
+          "explanation": "De grond is van de gemeente en kan worden verkocht (hoogste opbrengst is gewenst voor de begroting). Het is verder juridisch complex en we laten dat graag aan de rechter over."
+        }
+      }
+    },
+    {
+      "id": 122471,
+      "name": "PvdD",
+      "fullName": "Partij voor de Dieren",
+      "website": "https://www.partijvoordedieren.nl/",
+      "hasSeats": false,
+      "participates": true,
+      "positions": {
+        "122486": {
+          "position": "agree",
+          "explanation": "Verschillende groepen mensen moeten goed vertegenwoordigd worden. We streven in het nieuwe college naar een diverse, inclusieve samenstelling."
+        },
+        "122487": {
+          "position": "agree",
+          "explanation": "We zorgen dat inwoners invloed hebben op belangrijke keuzes. Met raadgevende referenda en wijkreferenda geven we iedereen in de gemeente een stem."
+        },
+        "122490": {
+          "position": "agree",
+          "explanation": "Een boerderijwinkel of camping biedt nieuwe kansen voor een stoppende veeboer. Samen kijken we wat past in de omgeving, met bescherming van natuur en rust."
+        },
+        "122493": {
+          "position": "agree",
+          "explanation": "We heten vluchtelingen welkom. Rheden neemt haar verantwoordelijkheid. Wij kiezen voor kleinschalige en menselijke opvang die ervoor zorgt dat asielzoekers sneller integreren."
+        },
+        "122494": {
+          "position": "disagree",
+          "explanation": "We willen eerlijke huisvesting voor arbeidsmigranten. Werkgevers moeten verantwoordelijkheid nemen, maar huisvesting op het eigen terrein maakt arbeiderimmigranten te afhankelijk van hun werkgever."
+        },
+        "122496": {
+          "position": "disagree",
+          "explanation": "We willen een schone en gezonde lucht in Rheden. Houtstook zorgt voor fijnstof en gezondheidsschade, daarom bouwen we het gebruik van open haarden en houtkachels af."
+        },
+        "122498": {
+          "position": "disagree",
+          "explanation": "We zorgen voor een jaarwisseling zonder angst en vervuiling. Geen vuurwerk bij evenementen, wel creatieve en diervriendelijke alternatieven, zoals een drone-show."
+        },
+        "122500": {
+          "position": "disagree",
+          "explanation": "We zorgen dat toegankelijkheid de norm wordt. Nieuwe gebouwen moeten voor iedereen geschikt zijn en bestaande gebouwen pakken we aan vanuit de voorbeeldrol van de gemeente, niet met subsidies voor ondernemers."
+        },
+        "122506": {
+          "position": "agree",
+          "explanation": "We kiezen voor een sterk verenigingsleven. Daarom helpt de gemeente sportverenigingen wanneer dat nodig is."
+        },
+        "122508": {
+          "position": "agree",
+          "explanation": "Rheden investeert in meer straatmedewerkers, buurtouders, BOA’s en wijkagenten, de ogen en oren van de buurt. Dankzij hun inzet kunnen mogelijke problemen in de buurt al in een vroeg stadium worden gesignaleerd, voordat ze ontsporen."
+        },
+        "122509": {
+          "position": "disagree",
+          "explanation": "We kiezen niet voor meer cameratoezicht. Camera’s geven vaak schijnveiligheid en tasten de privacy van inwoners van Rheden aan."
+        },
+        "122511": {
+          "position": "disagree",
+          "explanation": "We willen starters graag helpen, want wonen is een basisrecht. Maar de starterslening is niet het juiste instrument, want het heeft een prijsopdrijvende werking en zadelt mensen met hoge schulden op. De gemeente moet specifiek voor deze groep betaalbaar bouwen."
+        },
+        "122512": {
+          "position": "disagree",
+          "explanation": "Iedereen heeft recht op een betaalbare woning. We moeten extra aandacht hebben voor mensen die het het hardst nodig hebben, zoals mensen zonder huis. Mensen uitsluiten op basis van waar ze eerder woonden, maakt de woningnood alleen maar groter."
+        },
+        "122517": {
+          "position": "disagree",
+          "explanation": "We willen mensen met een laag inkomen ontzien. We breiden de criteria voor kwijtschelding uit: huishoudens tot 130% van het sociaal minimum krijgen recht op kwijtschelding van gemeentelijke heffingen."
+        },
+        "122518": {
+          "position": "agree",
+          "explanation": "Niemand zou elke maand de eindjes aan elkaar moeten knopen met de stress of er wel genoeg is voor de boodschappen. Wij verhogen daarom de grens voor ondersteuning naar 130% van het sociaal minimum. Zo geven we weer meer huishoudens financiële ademruimte."
+        },
+        "122520": {
+          "position": "agree",
+          "explanation": "We willen de overstap naar schoon vervoer makkelijker maken. Daarom zorgen we voor voldoende laadplekken op groene stroom voor privé- en deelauto's."
+        },
+        "122521": {
+          "position": "agree",
+          "explanation": "We kiezen voor veilige straten en schone lucht. Daarom maken we 30 km/u de norm in de bebouwde kom (en 15 km/u in woonerven en bij scholen), en richten we straten daarop in."
+        },
+        "122522": {
+          "position": "agree",
+          "explanation": "We kiezen voor zorg die aansluit bij de mens. Waar dat redelijk is, houden zorgverleners rekening met geloof, cultuur en identiteit."
+        },
+        "122523": {
+          "position": "disagree",
+          "explanation": "We willen dat jongeren echt wat vooruit komen door de hulp die ze krijgen. Daarom letten we bij jeugdhulp vooral op kwaliteit in plaats van de kosten."
+        },
+        "122524": {
+          "position": "disagree",
+          "explanation": "Rheden blijft investeren in mens, dier en natuur. Een ozb-verlaging zou deze ambities ondermijnen."
+        },
+        "122525": {
+          "position": "agree",
+          "explanation": "We willen de oneerlijke hondenbelasting afschaffen. Tot die tijd gebruiken we de opbrengst alleen voor goede hondenvoorzieningen."
+        },
+        "122526": {
+          "position": "disagree",
+          "explanation": "We kiezen ervoor om toeristenbelasting in te zetten voor duurzaamheid. Een verlaging levert geen extra overnachtingen op, maar wel minder geld voor natuur en leefomgeving."
+        },
+        "122529": {
+          "position": "agree",
+          "explanation": "Vluchtelingen met een verblijfsvergunning willen wij helpen aan een woning. Om dat te kunnen doen en inwoners van Rheden te huisvestten willen wij meer betaalbare huizen bouwen en leegstand tegengaan."
+        },
+        "122530": {
+          "position": "disagree",
+          "explanation": "We willen minder afval en meer hergebruik. Daarom houden we het ophalen van 1 m³ grofvuil gratis en stimuleren we repaircafe's, kringloopwinkels en hergebruik."
+        },
+        "122532": {
+          "position": "agree",
+          "explanation": "We willen dat ieder kind veilig leert zwemmen. Met schoolzwemmen zorgen we voor gelijke kansen en veiligheid."
+        },
+        "122533": {
+          "position": "disagree",
+          "explanation": "We kiezen voor een gezondheidsgerichte aanpak. Een legale en goed gereguleerde coffeeshop verbieden we niet, maar we blijven alert op de risico’s."
+        },
+        "122534": {
+          "position": "agree",
+          "explanation": "We zorgen dat wonen betaalbaar blijft. Met harde afspraken zorgen we dat minstens 40% van nieuwe woningen sociale huur is en dat dit zo blijft."
+        },
+        "122535": {
+          "position": "disagree",
+          "explanation": "We kiezen voor gebouwen die passen bij onze dorpen en het landschap. Hoge flats verstoren dat en staan we niet toe."
+        },
+        "122537": {
+          "position": "neither",
+          "explanation": "Zo’n ingrijpende beslissing moet aan de inwoners worden voorgelegd. Ze pleit voor een raadgevend referendum bij een mogelijke gemeentelijke herindeling, zodat de bevolking mee beslist."
+        },
+        "122539": {
+          "position": "agree",
+          "explanation": "We kiezen ervoor om verenigingen en sociale initiatieven ruimte te geven. De modelbouwclub hoort daar gewoon bij."
+        }
+      }
+    },
+    {
+      "id": 122469,
+      "name": "Volt",
+      "fullName": "Volt",
+      "website": "https://voltnederland.org/",
+      "hasSeats": false,
+      "participates": true,
+      "positions": {
+        "122486": {
+          "position": "agree",
+          "explanation": "Als dit niet de regel is dan blijven mannen ook in het openbaar bestuur oververtegenwoordigd en vrouwen ondervertegenwoordigd. Bovendien zorgt dit voor een andere dynamiek in het college en leidt dit tot betere beslissingen."
+        },
+        "122487": {
+          "position": "agree",
+          "explanation": "Volt is voor een burgerberaad waarbij inwoners vooraf betrokken worden bij plannen. Volt is tegen Ja/Nee raadplegingen achteraf."
+        },
+        "122490": {
+          "position": "disagree",
+          "explanation": "Bij voorkeur wel, maar niet altijd. Soms zijn er redenen om geen toestemming te geven, bijvoorbeeld als de grond onderdeel is van een Natura200 gebied."
+        },
+        "122493": {
+          "position": "agree",
+          "explanation": "Volt is voor de spreidingswet om de lasten eerlijker te verdelen, dus moet Rheden haar steentje bijdragen."
+        },
+        "122494": {
+          "position": "agree",
+          "explanation": "Elke werkgever moet goed voor haar medewerkers zorgen. Als zij seizoenarbeiders heeft die van ver komen betekent dit dat zij moet zorgen voor passende huisvesting tegen kostprijs, ongeacht of dit op het eigen bedrijfsterrein is."
+        },
+        "122496": {
+          "position": "neither",
+          "explanation": "Er zijn mensen die gezondheidsklachten ervaren van houtstook. Tegelijk zijn er mensen die afhankelijk zijn van houtstook of hiervan welzijn ervaren. Naleving van de stookwijzer is een eerste stap."
+        },
+        "122498": {
+          "position": "agree",
+          "explanation": "Net als bij elke gedragsverandering is noodzakelijk om een alternatief te bieden: om inwoners te verleiden om zelf geen vuurwerk meer te kopen en af te steken is een alternatief gewenst."
+        },
+        "122500": {
+          "position": "agree",
+          "explanation": "Volt is voor een inclusieve samenleving. De bouwnormen zouden meer rekening moeten houden met mensen met een beperking. Zolang dat nog niet geregeld is kan de gemeente financieel steunen."
+        },
+        "122506": {
+          "position": "disagree",
+          "explanation": "Elke sportvereniging is zelf verantwoordelijk voor goed financieel beheer. De gemeente kan wel faciliteren en ondersteunen."
+        },
+        "122508": {
+          "position": "disagree",
+          "explanation": "Inwoners ervaren de gemeente als relatief veilig (afgezet tegen landelijke cijfers) dus we kunnen ons geld beter ergens anders aan besteden."
+        },
+        "122509": {
+          "position": "disagree",
+          "explanation": "Inwoners ervaren de gemeente als relatief veilig (afgezet tegen landelijke cijfers) dus we kunnen ons geld beter ergens anders aan besteden."
+        },
+        "122511": {
+          "position": "disagree",
+          "explanation": "Dit soort maatregelen werkt prijsopdrijvend. De gemeente is ook geen kredietverstrekker, dit is niet haar verantwoordelijkheid. Ze zou mogelijk wel garant kunnen staan."
+        },
+        "122512": {
+          "position": "disagree",
+          "explanation": "Er zijn vele factoren die tezamen de urgentie van woningzoekenden bepalen. Volt wil hier genuanceerd naar kijken."
+        },
+        "122517": {
+          "position": "disagree",
+          "explanation": "Soms is het kwijtschelden van schulden effectiever om mensen verder te helpen dan handhaven. Dit moet per persoon worden beoordeeld."
+        },
+        "122518": {
+          "position": "neither",
+          "explanation": "Volt heeft op dit moment nog te weinig informatie om hierin stelling te nemen. Volt is voor een basisinkomen."
+        },
+        "122520": {
+          "position": "agree",
+          "explanation": "De gemeente moet alles doen wat is om de energietransitie efficiënt te versnellen."
+        },
+        "122521": {
+          "position": "agree",
+          "explanation": "Dit heeft bewezen effect op verkeersdoden en -slachtoffers, vooral onder kinderen en fietsers. Laten we de feiten serieus nemen."
+        },
+        "122522": {
+          "position": "disagree",
+          "explanation": "Dit zou mooi zijn, maar dit soort individualistische keuzes is niet altijd mogelijk en/of betaalbaar. Kwaliteit van zorg is het belangrijkst."
+        },
+        "122523": {
+          "position": "disagree",
+          "explanation": "Naast prijs zijn expertise, effectiviteit en kwaliteit minstens zo belangrijk."
+        },
+        "122524": {
+          "position": "disagree",
+          "explanation": "De gemeente Rheden zit op het landelijke gemiddelde. Verlaging van de ozb creëert een financieringsprobleem."
+        },
+        "122525": {
+          "position": "disagree",
+          "explanation": "De gemeente Rheden zit op het landelijke gemiddelde. Afschaffing van de hondenbelasting creëert een financieringsprobleem. Inhoudelijk zouden we misschien zelfs beter kunnen gaan nadenken over een kattenbelasting, gelet op de natuurschade die zij veroorzaken."
+        },
+        "122526": {
+          "position": "disagree",
+          "explanation": "De gemeente Rheden zit op het landelijke gemiddelde. Verlaging van de toeristenbelasting creëert een financieringsprobleem."
+        },
+        "122529": {
+          "position": "agree",
+          "explanation": "Dit is landelijk al bepaald."
+        },
+        "122530": {
+          "position": "agree",
+          "explanation": "Dit is zinvol om illegaal dumpen, met name ook in de natuur, te voorkomen."
+        },
+        "122532": {
+          "position": "agree",
+          "explanation": "De afgelopen jaren is het schoolzwemmen verdwenen en het aantal kinderen dat is verdronken gestegen... Elk kind in Nederland moet kunnen zwemmen."
+        },
+        "122533": {
+          "position": "disagree",
+          "explanation": "De verkoop van softdrugs moet volgens Volt worden beschouwd als de verkoop van alcohol. Beiden zijn verslavend en even slecht voor de gezondheid."
+        },
+        "122534": {
+          "position": "neither",
+          "explanation": "Gelet op het aantal woningzoekenden in de sociale huursector moet dit minimaal 33% procent zijn."
+        },
+        "122535": {
+          "position": "disagree",
+          "explanation": "Met uitzondering van transformatie van bestaande hoge bedrijfs- en kantoorpanden tot woningen."
+        },
+        "122537": {
+          "position": "neither",
+          "explanation": "Volt heeft te weinig informatie om hierin stelling te nemen. De belangrijkste vraag die Volt niet beantwoord ziet: waarom moet de gemeente Brummen als geheel fuseren? Waarom ligt de optie van opsplitsen niet op tafel?"
+        },
+        "122539": {
+          "position": "agree",
+          "explanation": "Deze vereniging geeft niemand overlast. Ze zitten daar inmiddels zo lang dat ze bepaalde rechten hebben opgebouwd. Opzeggen van de huur betekent in feite opheffen van de club en daarmee beëindigen van een vereniging en nationaal cultureel erfgoed."
+        }
+      }
+    }
+  ],
+  "statements": [
+    {
+      "id": 122537,
+      "index": 1,
+      "theme": "Gemeentefusie",
+      "themeId": "gemeentefusie",
+      "title": "De gemeente Rheden moet fuseren met de gemeente Brummen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 122490,
+      "index": 2,
+      "theme": "Boerencampings",
+      "themeId": "boerencampings",
+      "title": "De gemeente moet boeren altijd toestaan om bij hun boerenbedrijf bijvoorbeeld een winkel of een camping te openen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 122493,
+      "index": 3,
+      "theme": "Asielzoekerscentrum",
+      "themeId": "asielzoekerscentrum",
+      "title": "In onze gemeente moet een asielzoekerscentrum (azc) komen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 122498,
+      "index": 4,
+      "theme": "Vuurwerk",
+      "themeId": "vuurwerk",
+      "title": "De gemeente moet op oudejaarsavond een vuurwerkshow organiseren.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 122518,
+      "index": 5,
+      "theme": "Armoedebestrijding",
+      "themeId": "armoedebestrijding",
+      "title": "De gemeente moet de inkomensgrens om hulp te krijgen bij armoede verhogen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 122508,
+      "index": 6,
+      "theme": "Handhavers",
+      "themeId": "handhavers",
+      "title": "In Rheden moeten meer gemeentelijke handhavers (boa’s) komen die zich met veiligheid bezighouden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 122486,
+      "index": 7,
+      "theme": "Burgemeester en college",
+      "themeId": "burgemeester-en-college",
+      "title": "In het nieuwe college van burgemeester en wethouders moet het aantal mannen en vrouwen gelijk zijn.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 122496,
+      "index": 8,
+      "theme": "Houtstook",
+      "themeId": "houtstook",
+      "title": "In Rheden moet het gebruik van open haarden en houtkachels toegestaan blijven.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 122494,
+      "index": 9,
+      "theme": "Huisvesting buitenlandse werknemers",
+      "themeId": "huisvesting-buitenlandse-werknemers",
+      "title": "Werkgevers in de land- en tuinbouw moeten zelf zorgen voor de huisvesting van seizoenarbeiders op hun eigen bedrijfsterrein.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 122511,
+      "index": 10,
+      "theme": "Starterslening",
+      "themeId": "starterslening",
+      "title": "Mensen die voor het eerst een huis willen kopen, moeten van de gemeente een starterslening kunnen krijgen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 122522,
+      "index": 11,
+      "theme": "Zorgkeuze",
+      "themeId": "zorgkeuze",
+      "title": "Mensen die zorg nodig hebben, moeten altijd kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of levensovertuiging.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 122509,
+      "index": 12,
+      "theme": "Cameratoezicht",
+      "themeId": "cameratoezicht",
+      "title": "In Rheden moet meer cameratoezicht komen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 122500,
+      "index": 13,
+      "theme": "Toegankelijkheid gebouwen",
+      "themeId": "toegankelijkheid-gebouwen",
+      "title": "De gemeente moet ondernemers financieel helpen om hun gebouw toegankelijker te maken voor mensen met een beperking.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 122487,
+      "index": 14,
+      "theme": "Referendum",
+      "themeId": "referendum",
+      "title": "De inwoners van Rheden moeten over belangrijke onderwerpen hun mening kunnen geven via een referendum.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 122506,
+      "index": 15,
+      "theme": "Sportverenigingen",
+      "themeId": "sportverenigingen",
+      "title": "Als sportverenigingen het moeilijk hebben, moet de gemeente financieel bijdragen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 122512,
+      "index": 16,
+      "theme": "Voorrang huisvesting",
+      "themeId": "voorrang-huisvesting",
+      "title": "Bij de toewijzing van een sociale huurwoning moeten woningzoekenden uit de eigen gemeente voorrang krijgen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 122520,
+      "index": 17,
+      "theme": "Elektrische laadpalen",
+      "themeId": "elektrische-laadpalen",
+      "title": "De gemeente moet meer parkeerplaatsen aanwijzen als oplaadplekken voor elektrische auto's.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 122517,
+      "index": 18,
+      "theme": "Kwijtschelding stoppen",
+      "themeId": "kwijtschelding-stoppen",
+      "title": "De gemeente moet stoppen met het kwijtschelden van de gemeentelijke belastingen voor inwoners met een laag inkomen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 122535,
+      "index": 19,
+      "theme": "Woonflats",
+      "themeId": "woonflats",
+      "title": "In Rheden mogen hoge woonflats komen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 122523,
+      "index": 20,
+      "theme": "Jeugdzorg",
+      "themeId": "jeugdzorg",
+      "title": "De gemeente moet  bij het selecteren van organisaties voor jeugdhulp vooral letten op de prijs.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 122521,
+      "index": 21,
+      "theme": "Snelheid auto's",
+      "themeId": "snelheid-auto-s",
+      "title": "De maximumsnelheid binnen de bebouwde kom moet naar 30 km/u.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 122524,
+      "index": 22,
+      "theme": "Belasting op gebouwen",
+      "themeId": "belasting-op-gebouwen",
+      "title": "De onroerendezaakbelasting (ozb) moet omlaag.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 122529,
+      "index": 23,
+      "theme": "Voorrang voor vluchtelingen",
+      "themeId": "voorrang-voor-vluchtelingen",
+      "title": "De gemeente moet vluchtelingen met een verblijfsvergunning voorrang blijven geven op een sociale huurwoning.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 122525,
+      "index": 24,
+      "theme": "Hondenbelasting",
+      "themeId": "hondenbelasting",
+      "title": "De gemeente moet de hondenbelasting afschaffen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 122530,
+      "index": 25,
+      "theme": "Milieustraat",
+      "themeId": "milieustraat",
+      "title": "Het inleveren van afval bij de milieustraat moet gratis worden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 122526,
+      "index": 26,
+      "theme": "Toeristenbelasting",
+      "themeId": "toeristenbelasting",
+      "title": "De toeristenbelasting moet omlaag.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 122532,
+      "index": 27,
+      "theme": "Schoolzwemmen",
+      "themeId": "schoolzwemmen",
+      "title": "De gemeente moet geld beschikbaar stellen voor schoolzwemmen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 122533,
+      "index": 28,
+      "theme": "Coffeeshop",
+      "themeId": "coffeeshop",
+      "title": "De gemeente moet de vestiging van een coffeeshop tegenhouden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 122534,
+      "index": 29,
+      "theme": "Sociale huurwoningen",
+      "themeId": "sociale-huurwoningen",
+      "title": "Van de nieuw te bouwen woningen in Rheden moet minimaal 40% een sociale huurwoning zijn. In Nederland is nu 28% van de woningen een sociale huurwoning.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 122539,
+      "index": 30,
+      "theme": "Modelbouwclub",
+      "themeId": "modelbouwclub",
+      "title": "De Velpse modelbouwclub moet op bedrijventerrein De Beemd kunnen blijven.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    }
+  ]
+}
