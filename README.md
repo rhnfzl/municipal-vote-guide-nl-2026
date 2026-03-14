@@ -1,9 +1,12 @@
 # 🗳️ Municipal Vote Guide NL 2026
 
-[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=flat&logo=vercel)](https://municipal-vote-guide-nl-2026.vercel.app)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/rhnfzl/municipal-vote-guide-nl-2026?style=social)](https://github.com/rhnfzl/municipal-vote-guide-nl-2026)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=rhnfzl%2Fmunicipal-vote-guide-nl-2026&label=Repo%20Visitors&countColor=%232563eb)
+[![Live Site](https://img.shields.io/badge/Live-municipal--vote--guide--nl--2026.vercel.app-2563eb?style=for-the-badge&logo=vercel&logoColor=white)](https://municipal-vote-guide-nl-2026.vercel.app)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
+[![Next.js](https://img.shields.io/badge/Next.js-15-black?style=flat-square&logo=next.js)](https://nextjs.org)
+[![Municipalities](https://img.shields.io/badge/Municipalities-258-green?style=flat-square)](https://municipal-vote-guide-nl-2026.vercel.app/en/explore)
+[![Bilingual](https://img.shields.io/badge/Languages-NL%20%7C%20EN-orange?style=flat-square)](https://municipal-vote-guide-nl-2026.vercel.app)
+![Repo Visitors](https://api.visitorbadge.io/api/visitors?path=rhnfzl%2Fmunicipal-vote-guide-nl-2026&label=Repo%20Visitors&countColor=%232563eb&style=flat-square)
 
 An open-source, **fully bilingual (Dutch/English)** vote matching tool for the **2026 Dutch municipal elections** (Gemeenteraadsverkiezingen, March 18, 2026).
 
