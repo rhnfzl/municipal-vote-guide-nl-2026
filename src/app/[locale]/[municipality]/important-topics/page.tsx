@@ -34,8 +34,7 @@ export default function ImportantTopicsPage() {
     if (startTime) {
       const elapsed = (Date.now() - parseInt(startTime)) / 1000;
       const numStatements = parseInt(sessionStorage.getItem(`vg-${slug}-numStatements`) || "30");
-      // TODO: re-enable speed check after testing
-      if (false && elapsed < 1.5 * numStatements) {
+      if (elapsed < 1.0 * numStatements) {
         setTooFast(true);
       }
     }
