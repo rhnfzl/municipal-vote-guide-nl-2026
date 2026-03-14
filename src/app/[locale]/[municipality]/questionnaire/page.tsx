@@ -1,14 +1,17 @@
 "use client";
 
 import { useTranslations, useLocale } from "next-intl";
-import { useEffect, useState, useCallback } from "react";
+import { useEffect, useState, useCallback, useMemo } from "react";
 import { useParams, useRouter } from "next/navigation";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Switch } from "@/components/ui/switch";
 import { Skeleton } from "@/components/ui/skeleton";
+import { Separator } from "@/components/ui/separator";
 import type { MunicipalityData, UserAnswer, Statement } from "@/lib/types";
+
+type InfoTab = "parties" | "moreInfo" | "arguments" | null;
 
 export default function QuestionnairePage() {
   const t = useTranslations("questionnaire");
@@ -21,7 +24,7 @@ export default function QuestionnairePage() {
   const [currentIdx, setCurrentIdx] = useState(0);
   const [answers, setAnswers] = useState<Record<number, UserAnswer>>({});
   const [dealbreakers, setDealbreakers] = useState<Set<number>>(new Set());
-  const [showInfo, setShowInfo] = useState(false);
+  const [activeTab, setActiveTab] = useState<InfoTab>(null);
   const [loading, setLoading] = useState(true);
   const [animating, setAnimating] = useState(false);
 
@@ -54,9 +57,27 @@ export default function QuestionnairePage() {
   const answeredCount = Object.keys(answers).length;
   const progress = statements.length ? Math.round((answeredCount / statements.length) * 100) : 0;
 
+  // Party positions for current statement
+  const partyPositions = useMemo(() => {
+    if (!data || !current) return { agree: [], disagree: [], neither: [] };
+    const agree: { name: string; explanation: string }[] = [];
+    const disagree: { name: string; explanation: string }[] = [];
+    const neither: { name: string; explanation: string }[] = [];
+    for (const party of data.parties) {
+      if (!party.participates) continue;
+      const pos = party.positions[current.id];
+      if (!pos) continue;
+      const entry = { name: party.name, explanation: pos.explanation || "" };
+      if (pos.position === "agree") agree.push(entry);
+      else if (pos.position === "disagree") disagree.push(entry);
+      else neither.push(entry);
+    }
+    return { agree, disagree, neither };
+  }, [data, current]);
+
   const goNext = useCallback(() => {
     setAnimating(true);
-    setShowInfo(false);
+    setActiveTab(null);
     setTimeout(() => {
       if (currentIdx < statements.length - 1) setCurrentIdx((i) => i + 1);
       setAnimating(false);
@@ -90,13 +111,13 @@ export default function QuestionnairePage() {
 
   if (loading) {
     return (
-      <div className="mx-auto max-w-xl space-y-6" aria-live="polite">
+      <div className="mx-auto max-w-2xl space-y-6" aria-live="polite">
         <Skeleton className="h-4 w-48" />
         <Skeleton className="h-64 rounded-2xl" />
         <div className="grid grid-cols-3 gap-3">
-          <Skeleton className="h-16 rounded-xl" />
-          <Skeleton className="h-16 rounded-xl" />
-          <Skeleton className="h-16 rounded-xl" />
+          <Skeleton className="h-14 rounded-xl" />
+          <Skeleton className="h-14 rounded-xl" />
+          <Skeleton className="h-14 rounded-xl" />
         </div>
       </div>
     );
@@ -111,97 +132,193 @@ export default function QuestionnairePage() {
   const pro = locale === "en" && current.proEn ? current.proEn : current.pro;
   const con = locale === "en" && current.conEn ? current.conEn : current.con;
 
-  return (
-    <div className="mx-auto max-w-xl space-y-6">
-      {/* Header */}
-      <div className="space-y-3">
-        <div className="flex items-center justify-between text-sm">
-          <span className="font-medium text-gray-900 dark:text-gray-100">{data.name}</span>
-          <span className="text-gray-500">
-            {t("questionOf", { current: currentIdx + 1, total: statements.length })}
-          </span>
-        </div>
+  const tabs = [
+    { id: "parties" as const, label: locale === "en" ? "What do parties think?" : "Wat vinden de partijen?", icon: "💬" },
+    { id: "moreInfo" as const, label: locale === "en" ? "Learn more" : "Meer weten", icon: "📖" },
+    { id: "arguments" as const, label: locale === "en" ? "Arguments" : "Argumenten", icon: "⚖️" },
+  ];
 
-        {/* Progress bar */}
-        <div className="relative h-2 overflow-hidden rounded-full bg-gray-200 dark:bg-gray-800">
-          <div
-            className="absolute inset-y-0 left-0 rounded-full bg-blue-600 transition-all duration-500 ease-out"
-            style={{ width: `${progress}%` }}
-          />
-        </div>
-        <p className="text-xs text-gray-400">
-          {t("progress", { answered: answeredCount, total: statements.length })}
-        </p>
+  return (
+    <div className="mx-auto max-w-2xl space-y-5">
+      {/* Header */}
+      <div className="flex items-center justify-between">
+        <button
+          onClick={() => {
+            if (currentIdx > 0) {
+              setAnimating(true);
+              setActiveTab(null);
+              setTimeout(() => { setCurrentIdx((i) => i - 1); setAnimating(false); }, 150);
+            } else {
+              router.push(`/${locale}`);
+            }
+          }}
+          className="flex h-10 w-10 items-center justify-center rounded-full bg-gray-100 text-gray-600 transition-colors hover:bg-gray-200 dark:bg-gray-800 dark:text-gray-400 dark:hover:bg-gray-700"
+          aria-label={t("previous")}
+        >
+          ←
+        </button>
+        <span className="rounded-full border border-gray-200 px-3 py-1 text-sm font-semibold dark:border-gray-700">
+          {currentIdx + 1}/{statements.length}
+        </span>
+      </div>
+
+      {/* Progress bar */}
+      <div className="relative h-1.5 overflow-hidden rounded-full bg-gray-200 dark:bg-gray-800">
+        <div
+          className="absolute inset-y-0 left-0 rounded-full bg-blue-600 transition-all duration-500 ease-out"
+          style={{ width: `${progress}%` }}
+        />
       </div>
 
       {/* Question Card */}
       <Card
         className={`overflow-hidden rounded-2xl border-0 bg-white shadow-lg transition-all duration-200 dark:bg-gray-900 ${
-          animating ? "scale-[0.98] opacity-80" : "scale-100 opacity-100"
+          animating ? "scale-[0.97] opacity-70" : "scale-100 opacity-100"
         }`}
       >
-        <CardContent className="space-y-5 p-6 sm:p-8">
-          {/* Theme + Dealbreaker */}
-          <div className="flex items-center justify-between gap-4">
-            <Badge variant="secondary" className="text-xs font-medium">
-              {theme}
-            </Badge>
-            <label className="flex items-center gap-2 cursor-pointer" aria-label={t("markDealbreaker")}>
-              <span className="text-xs text-gray-500">{t("dealbreaker")}</span>
-              <Switch
-                checked={isDealbreaker}
-                onCheckedChange={toggleDealbreaker}
-                aria-label={t("markDealbreaker")}
-              />
-            </label>
-          </div>
+        <CardContent className="space-y-4 p-6 sm:p-8">
+          {/* Theme */}
+          <h3 className="text-lg font-bold text-blue-600 dark:text-blue-400">{theme}</h3>
 
           {/* Statement */}
           <h2 className="text-lg font-semibold leading-relaxed text-gray-900 dark:text-gray-100 sm:text-xl">
             {title}
           </h2>
 
-          {isDealbreaker && (
-            <Badge variant="destructive" className="text-xs">
-              ⚑ {t("dealbreaker")}
-            </Badge>
-          )}
+          {/* Dealbreaker */}
+          <div className="flex items-center justify-between">
+            <label className="flex items-center gap-2 cursor-pointer" aria-label={t("markDealbreaker")}>
+              <span className="text-sm text-gray-500">{t("dealbreaker")}</span>
+              <Switch checked={isDealbreaker} onCheckedChange={toggleDealbreaker} />
+            </label>
+            {isDealbreaker && (
+              <Badge variant="destructive" className="text-xs">⚑ {t("dealbreaker")}</Badge>
+            )}
+          </div>
 
-          {/* More Info */}
-          {(moreInfo || pro || con) && (
-            <div>
+          {/* Three Tabs — matching StemWijzer */}
+          <div className="flex rounded-lg border border-gray-200 overflow-hidden dark:border-gray-700">
+            {tabs.map((tab) => (
               <button
-                onClick={() => setShowInfo(!showInfo)}
-                className="flex items-center gap-1.5 text-sm font-medium text-blue-600 hover:text-blue-700 transition-colors dark:text-blue-400"
-                aria-expanded={showInfo}
+                key={tab.id}
+                onClick={() => setActiveTab(activeTab === tab.id ? null : tab.id)}
+                className={`flex-1 flex items-center justify-center gap-1.5 px-2 py-2.5 text-xs font-medium transition-colors sm:text-sm ${
+                  activeTab === tab.id
+                    ? "bg-gray-100 text-gray-900 dark:bg-gray-800 dark:text-gray-100"
+                    : "text-gray-500 hover:bg-gray-50 dark:text-gray-400 dark:hover:bg-gray-800/50"
+                }`}
+                aria-expanded={activeTab === tab.id}
               >
-                <svg className={`h-4 w-4 transition-transform ${showInfo ? "rotate-90" : ""}`} fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-                </svg>
-                {t("moreInfo")}
+                <span aria-hidden="true">{tab.icon}</span>
+                <span className="hidden sm:inline">{tab.label}</span>
+                <span className="sm:hidden">{tab.label.split(" ").slice(-1)[0]}</span>
               </button>
+            ))}
+          </div>
 
-              {showInfo && (
-                <div className="mt-3 space-y-3 rounded-xl bg-gray-50 p-4 text-sm dark:bg-gray-800/50">
-                  {moreInfo && (
-                    <p className="text-gray-600 dark:text-gray-400">{moreInfo}</p>
-                  )}
-                  {pro && (
-                    <div className="rounded-lg bg-green-50 p-3 dark:bg-green-950/30">
-                      <p className="mb-1 text-xs font-semibold text-green-700 dark:text-green-400">
-                        ✓ {t("proArguments")}
-                      </p>
-                      <p className="text-green-800 dark:text-green-300">{pro}</p>
+          {/* Tab Content */}
+          {activeTab && (
+            <div className="rounded-xl bg-gray-50 p-4 dark:bg-gray-800/50">
+              <div className="flex justify-end mb-2">
+                <button
+                  onClick={() => setActiveTab(null)}
+                  className="text-xs text-gray-400 hover:text-gray-600"
+                >
+                  {locale === "en" ? "Close" : "Sluiten"} ✕
+                </button>
+              </div>
+
+              {/* Parties Tab */}
+              {activeTab === "parties" && (
+                <div className="space-y-4">
+                  {partyPositions.agree.length > 0 && (
+                    <div>
+                      <h4 className="flex items-center gap-2 text-sm font-bold text-green-700 dark:text-green-400 mb-2">
+                        👍 {locale === "en" ? "Agree" : "Eens"}
+                        <span className="text-xs font-normal text-gray-500">
+                          ({locale === "en" ? "These parties agree with this statement" : "Deze partijen zijn het met de stelling eens"})
+                        </span>
+                      </h4>
+                      <div className="space-y-1.5">
+                        {partyPositions.agree.map((p) => (
+                          <details key={p.name} className="rounded-lg bg-white p-3 dark:bg-gray-900">
+                            <summary className="cursor-pointer text-sm font-medium">{p.name}</summary>
+                            {p.explanation && (
+                              <p className="mt-2 text-xs text-gray-500 leading-relaxed">{p.explanation}</p>
+                            )}
+                          </details>
+                        ))}
+                      </div>
                     </div>
                   )}
-                  {con && (
-                    <div className="rounded-lg bg-red-50 p-3 dark:bg-red-950/30">
-                      <p className="mb-1 text-xs font-semibold text-red-700 dark:text-red-400">
-                        ✗ {t("conArguments")}
-                      </p>
-                      <p className="text-red-800 dark:text-red-300">{con}</p>
+
+                  {partyPositions.neither.length > 0 && (
+                    <div>
+                      <h4 className="flex items-center gap-2 text-sm font-bold text-gray-600 dark:text-gray-400 mb-2">
+                        〰️ {locale === "en" ? "Neither" : "Geen van beide"}
+                      </h4>
+                      <div className="space-y-1.5">
+                        {partyPositions.neither.map((p) => (
+                          <details key={p.name} className="rounded-lg bg-white p-3 dark:bg-gray-900">
+                            <summary className="cursor-pointer text-sm font-medium">{p.name}</summary>
+                            {p.explanation && (
+                              <p className="mt-2 text-xs text-gray-500 leading-relaxed">{p.explanation}</p>
+                            )}
+                          </details>
+                        ))}
+                      </div>
                     </div>
                   )}
+
+                  {partyPositions.disagree.length > 0 && (
+                    <div>
+                      <h4 className="flex items-center gap-2 text-sm font-bold text-red-700 dark:text-red-400 mb-2">
+                        👎 {locale === "en" ? "Disagree" : "Oneens"}
+                        <span className="text-xs font-normal text-gray-500">
+                          ({locale === "en" ? "These parties disagree" : "Deze partijen zijn het oneens"})
+                        </span>
+                      </h4>
+                      <div className="space-y-1.5">
+                        {partyPositions.disagree.map((p) => (
+                          <details key={p.name} className="rounded-lg bg-white p-3 dark:bg-gray-900">
+                            <summary className="cursor-pointer text-sm font-medium">{p.name}</summary>
+                            {p.explanation && (
+                              <p className="mt-2 text-xs text-gray-500 leading-relaxed">{p.explanation}</p>
+                            )}
+                          </details>
+                        ))}
+                      </div>
+                    </div>
+                  )}
+                </div>
+              )}
+
+              {/* More Info Tab */}
+              {activeTab === "moreInfo" && (
+                <div className="text-sm text-gray-600 dark:text-gray-400 leading-relaxed">
+                  {moreInfo || (locale === "en" ? "No additional information available." : "Geen extra informatie beschikbaar.")}
+                </div>
+              )}
+
+              {/* Arguments Tab */}
+              {activeTab === "arguments" && (
+                <div className="grid gap-4 sm:grid-cols-2">
+                  <div className="rounded-lg bg-green-50 p-4 dark:bg-green-950/30">
+                    <h4 className="mb-2 flex items-center gap-1.5 text-sm font-bold text-green-700 dark:text-green-400">
+                      ✓ {locale === "en" ? "For" : "Voor"}
+                    </h4>
+                    <p className="text-sm text-green-800 dark:text-green-300 leading-relaxed">
+                      {pro || (locale === "en" ? "No arguments provided." : "Geen argumenten beschikbaar.")}
+                    </p>
+                  </div>
+                  <div className="rounded-lg bg-red-50 p-4 dark:bg-red-950/30">
+                    <h4 className="mb-2 flex items-center gap-1.5 text-sm font-bold text-red-700 dark:text-red-400">
+                      ✗ {locale === "en" ? "Against" : "Tegen"}
+                    </h4>
+                    <p className="text-sm text-red-800 dark:text-red-300 leading-relaxed">
+                      {con || (locale === "en" ? "No arguments provided." : "Geen argumenten beschikbaar.")}
+                    </p>
+                  </div>
                 </div>
               )}
             </div>
@@ -209,73 +326,56 @@ export default function QuestionnairePage() {
         </CardContent>
       </Card>
 
-      {/* Answer Buttons — stack on mobile */}
-      <div className="grid grid-cols-1 gap-3 sm:grid-cols-3">
+      {/* Answer Buttons */}
+      <div className="grid grid-cols-3 gap-3 sm:gap-4">
         <Button
           onClick={() => answer("agree")}
-          className="h-14 text-base font-semibold rounded-xl bg-green-600 text-white shadow-sm transition-all hover:bg-green-700 hover:shadow-md active:scale-[0.98] sm:h-14"
+          className="h-14 text-sm font-bold rounded-xl bg-green-600 text-white shadow-sm transition-all hover:bg-green-700 hover:shadow-md active:scale-[0.97] sm:text-base"
           size="lg"
         >
-          ✓ {t("agree")}
+          👍 {t("agree")}
         </Button>
         <Button
           onClick={() => answer("neither")}
           variant="outline"
-          className="h-14 text-base font-semibold rounded-xl shadow-sm transition-all hover:shadow-md active:scale-[0.98] sm:h-14"
+          className="h-14 text-sm font-bold rounded-xl shadow-sm transition-all hover:shadow-md active:scale-[0.97] sm:text-base"
           size="lg"
         >
-          {t("neither")}
+          〰️ {t("neither")}
         </Button>
         <Button
           onClick={() => answer("disagree")}
-          className="h-14 text-base font-semibold rounded-xl bg-red-600 text-white shadow-sm transition-all hover:bg-red-700 hover:shadow-md active:scale-[0.98] sm:h-14"
+          className="h-14 text-sm font-bold rounded-xl bg-red-600 text-white shadow-sm transition-all hover:bg-red-700 hover:shadow-md active:scale-[0.97] sm:text-base"
           size="lg"
         >
-          ✗ {t("disagree")}
+          👎 {t("disagree")}
         </Button>
       </div>
 
-      {/* Navigation */}
-      <div className="flex items-center justify-between">
-        <Button
-          variant="ghost"
-          onClick={() => {
-            setShowInfo(false);
-            setAnimating(true);
-            setTimeout(() => {
-              setCurrentIdx((i) => Math.max(0, i - 1));
-              setAnimating(false);
-            }, 150);
-          }}
-          disabled={currentIdx === 0}
-          className="text-gray-500"
-          aria-label={t("previous")}
-        >
-          ← {t("previous")}
-        </Button>
-
-        <Button
-          variant="ghost"
-          onClick={() => answer("skip")}
-          className="text-gray-400"
-          aria-label={t("skip")}
-        >
+      {/* Skip */}
+      <div className="text-center">
+        <Button variant="ghost" onClick={() => answer("skip")} className="text-gray-400 text-sm">
           {t("skip")} →
         </Button>
       </div>
 
       {/* View Results */}
       {answeredCount >= 5 && (
-        <div className="pt-2 text-center">
+        <div className="text-center">
           <Button
             onClick={goToResults}
             size="lg"
-            className="h-14 w-full rounded-xl bg-blue-600 px-8 text-base font-semibold text-white shadow-md transition-all hover:bg-blue-700 hover:shadow-lg active:scale-[0.98] sm:w-auto"
+            className="h-14 w-full rounded-xl bg-blue-600 px-8 text-base font-semibold text-white shadow-md hover:bg-blue-700 hover:shadow-lg active:scale-[0.98] sm:w-auto"
           >
             {t("viewResults")} →
           </Button>
         </div>
       )}
+
+      {/* Progress info */}
+      <p className="text-center text-xs text-gray-400">
+        {t("progress", { answered: answeredCount, total: statements.length })}
+      </p>
     </div>
   );
 }

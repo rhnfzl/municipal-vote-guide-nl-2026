@@ -46,8 +46,8 @@ export default async function LocaleLayout({
                   aria-label="Home"
                 >
                   <span className="text-xl" aria-hidden="true">🗳️</span>
-                  <span className="hidden sm:inline">Vote Guide NL 2026</span>
-                  <span className="sm:hidden">VG NL 2026</span>
+                  <span className="hidden sm:inline">Municipal Vote Guide NL 2026</span>
+                  <span className="sm:hidden">MVG NL 2026</span>
                 </a>
 
                 <div className="flex items-center gap-1.5 sm:gap-2">
@@ -59,33 +59,45 @@ export default async function LocaleLayout({
                     {locale === "en" ? "Explore" : "Verkennen"}
                   </a>
 
-                  {/* Language Toggle — Both flags always visible */}
+                  {/* Language Toggle */}
                   <div className="flex rounded-lg border border-gray-200 overflow-hidden dark:border-gray-700" role="group" aria-label="Language">
                     <a
                       href="/en"
-                      className={`flex items-center gap-1 px-2.5 py-1.5 text-sm font-medium transition-colors ${
+                      className={`flex items-center gap-1.5 px-3 py-1.5 text-sm font-semibold transition-colors ${
                         locale === "en"
-                          ? "bg-blue-50 text-blue-700 dark:bg-blue-950 dark:text-blue-300"
+                          ? "bg-blue-600 text-white"
                           : "text-gray-500 hover:bg-gray-50 dark:text-gray-400 dark:hover:bg-gray-800"
                       }`}
                       aria-current={locale === "en" ? "true" : undefined}
                       aria-label="English"
                     >
-                      <span className="text-base" aria-hidden="true">🇬🇧</span>
-                      <span className="hidden sm:inline">EN</span>
+                      {/* UK flag SVG */}
+                      <svg className="h-4 w-5 rounded-sm" viewBox="0 0 60 30" aria-hidden="true">
+                        <rect width="60" height="30" fill="#012169"/>
+                        <path d="M0,0 L60,30 M60,0 L0,30" stroke="#fff" strokeWidth="6"/>
+                        <path d="M0,0 L60,30 M60,0 L0,30" stroke="#C8102E" strokeWidth="4" clipPath="url(#t)"/>
+                        <path d="M30,0v30M0,15h60" stroke="#fff" strokeWidth="10"/>
+                        <path d="M30,0v30M0,15h60" stroke="#C8102E" strokeWidth="6"/>
+                      </svg>
+                      EN
                     </a>
                     <a
                       href="/nl"
-                      className={`flex items-center gap-1 px-2.5 py-1.5 text-sm font-medium transition-colors border-l border-gray-200 dark:border-gray-700 ${
+                      className={`flex items-center gap-1.5 px-3 py-1.5 text-sm font-semibold transition-colors border-l border-gray-200 dark:border-gray-700 ${
                         locale === "nl"
-                          ? "bg-blue-50 text-blue-700 dark:bg-blue-950 dark:text-blue-300"
+                          ? "bg-blue-600 text-white"
                           : "text-gray-500 hover:bg-gray-50 dark:text-gray-400 dark:hover:bg-gray-800"
                       }`}
                       aria-current={locale === "nl" ? "true" : undefined}
                       aria-label="Nederlands"
                     >
-                      <span className="text-base" aria-hidden="true">🇳🇱</span>
-                      <span className="hidden sm:inline">NL</span>
+                      {/* NL flag SVG */}
+                      <svg className="h-4 w-5 rounded-sm" viewBox="0 0 9 6" aria-hidden="true">
+                        <rect width="9" height="2" fill="#AE1C28"/>
+                        <rect y="2" width="9" height="2" fill="#FFF"/>
+                        <rect y="4" width="9" height="2" fill="#21468B"/>
+                      </svg>
+                      NL
                     </a>
                   </div>
 
