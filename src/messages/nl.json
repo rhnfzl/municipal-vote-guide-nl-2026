@@ -30,7 +30,8 @@
     "electionDate": "Gemeenteraadsverkiezingen: 18 maart 2026",
     "popularCities": "Populaire steden",
     "noResults": "Geen gemeenten gevonden voor \"{query}\"",
-    "daysUntil": "Nog {days} dagen tot de verkiezingen"
+    "daysUntil": "Nog {days} dagen tot de verkiezingen",
+    "results": "resultaten"
   },
   "questionnaire": {
     "title": "Vragenlijst",
@@ -47,7 +48,20 @@
     "viewResults": "Bekijk Resultaten",
     "progress": "{answered} van {total} beantwoord",
     "previous": "Vorige",
-    "markDealbreaker": "Markeer als dealbreaker"
+    "markDealbreaker": "Markeer als dealbreaker",
+    "tabParties": "Wat vinden de partijen?",
+    "tabMoreInfo": "Meer weten",
+    "tabArguments": "Argumenten",
+    "partiesAgree": "Eens",
+    "partiesAgreeDesc": "Deze partijen zijn het met de stelling eens",
+    "partiesDisagree": "Oneens",
+    "partiesDisagreeDesc": "Deze partijen zijn het met de stelling oneens",
+    "partiesNeither": "Geen van beide",
+    "partiesNeitherDesc": "Deze partijen zijn het niet eens en ook niet oneens",
+    "noInfoAvailable": "Geen extra informatie beschikbaar.",
+    "argumentsFor": "Voor",
+    "argumentsAgainst": "Tegen",
+    "noArguments": "Geen argumenten beschikbaar."
   },
   "results": {
     "title": "Jouw Resultaten",
@@ -68,14 +82,19 @@
     "topMatch": "Beste Match",
     "agreeOn": "Jullie zijn het eens over: {themes}",
     "differOn": "Jullie verschillen over: {themes}",
-    "expandDetails": "Toon vraagdetails"
+    "expandDetails": "Toon vraagdetails",
+    "you": "Jij"
   },
   "compare": {
     "title": "Vergelijk Partijen",
     "selectParties": "Selecteer tot 4 partijen ({count}/4):",
     "allThemes": "Alle thema's",
     "divided": "Verdeeld",
-    "addParty": "Partij toevoegen"
+    "addParty": "Partij toevoegen",
+    "loading": "Vergelijking laden...",
+    "agree": "Eens",
+    "disagree": "Oneens",
+    "neither": "Geen van beide"
   },
   "compass": {
     "title": "Politiek Kompas",
@@ -84,7 +103,9 @@
     "economicRight": "Economisch Rechts",
     "progressive": "Progressief",
     "conservative": "Conservatief",
-    "you": "Jij"
+    "you": "Jij",
+    "right": "Rechts",
+    "left": "Links"
   },
   "tuning": {
     "title": "Stem je resultaten af",
@@ -99,7 +120,17 @@
     "topParties": "Meest Voorkomende Partijen Landelijk",
     "times": "{count}x",
     "outOf": "{count} van {total} gemeenten",
-    "stats": "{municipalities} gemeenten · {parties} partijen · {statements} stellingen"
+    "stats": "{municipalities} gemeenten · {parties} partijen · {statements} stellingen",
+    "browseAll": "Bekijk Alle Gemeenten",
+    "searchPlaceholder": "Zoek gemeente...",
+    "searchAriaLabel": "Zoek gemeenten",
+    "showing": "{shown} van {total} getoond. Zoek om meer te vinden.",
+    "appearsIn": "Komt voor in",
+    "municipalities": "gemeenten",
+    "funFactMostParties": "{name} heeft de meeste partijen ({count})",
+    "funFactFewestParties": "{name} heeft de minste partijen ({count})",
+    "funFactTopTheme": "\"{theme}\" wordt besproken in {count} gemeenten",
+    "funFactFewestStatements": "{name} heeft de minste stellingen ({count})"
   },
   "share": {
     "title": "Deel Jouw Resultaten",
@@ -117,6 +148,6 @@
     "openSource": "Open source op",
     "github": "GitHub",
     "electionInfo": "Gemeenteraadsverkiezingen 18 maart 2026",
-    "disclaimer": "Dit is een onafhankelijk project en is niet gelieerd aan ProDemos of StemWijzer."
+    "disclaimer": "Onafhankelijk project, niet gelieerd aan ProDemos of StemWijzer. Wij slaan geen persoonlijke gegevens op."
   }
 }

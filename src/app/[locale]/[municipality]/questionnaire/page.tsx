@@ -15,6 +15,7 @@ type InfoTab = "parties" | "moreInfo" | "arguments" | null;
 
 export default function QuestionnairePage() {
   const t = useTranslations("questionnaire");
+  const tc = useTranslations("common");
   const locale = useLocale();
   const params = useParams();
   const router = useRouter();
@@ -149,9 +150,9 @@ export default function QuestionnairePage() {
   const altTheme = altStmt?.theme || (locale === "en" ? current.theme : current.themeEn) || "";
 
   const tabs = [
-    { id: "parties" as const, label: locale === "en" ? "What do parties think?" : "Wat vinden de partijen?", icon: "💬" },
-    { id: "moreInfo" as const, label: locale === "en" ? "Learn more" : "Meer weten", icon: "📖" },
-    { id: "arguments" as const, label: locale === "en" ? "Arguments" : "Argumenten", icon: "⚖️" },
+    { id: "parties" as const, label: t("tabParties"), icon: "💬" },
+    { id: "moreInfo" as const, label: t("tabMoreInfo"), icon: "📖" },
+    { id: "arguments" as const, label: t("tabArguments"), icon: "⚖️" },
   ];
 
   return (
@@ -252,7 +253,7 @@ export default function QuestionnairePage() {
                   onClick={() => setActiveTab(null)}
                   className="text-xs text-gray-400 hover:text-gray-600"
                 >
-                  {locale === "en" ? "Close" : "Sluiten"} ✕
+  {tc("close")} ✕
                 </button>
               </div>
 
@@ -262,9 +263,9 @@ export default function QuestionnairePage() {
                   {partyPositions.agree.length > 0 && (
                     <div>
                       <h4 className="flex items-center gap-2 text-sm font-bold text-green-700 dark:text-green-400 mb-2">
-                        👍 {locale === "en" ? "Agree" : "Eens"}
+                        👍 {t("partiesAgree")}
                         <span className="text-xs font-normal text-gray-500">
-                          ({locale === "en" ? "These parties agree with this statement" : "Deze partijen zijn het met de stelling eens"})
+                          ({t("partiesAgreeDesc")})
                         </span>
                       </h4>
                       <div className="space-y-1.5">
@@ -283,7 +284,8 @@ export default function QuestionnairePage() {
                   {partyPositions.neither.length > 0 && (
                     <div>
                       <h4 className="flex items-center gap-2 text-sm font-bold text-gray-600 dark:text-gray-400 mb-2">
-                        〰️ {locale === "en" ? "Neither" : "Geen van beide"}
+                        〰️ {t("partiesNeither")}
+                        <span className="text-xs font-normal text-gray-500">({t("partiesNeitherDesc")})</span>
                       </h4>
                       <div className="space-y-1.5">
                         {partyPositions.neither.map((p) => (
@@ -301,9 +303,9 @@ export default function QuestionnairePage() {
                   {partyPositions.disagree.length > 0 && (
                     <div>
                       <h4 className="flex items-center gap-2 text-sm font-bold text-red-700 dark:text-red-400 mb-2">
-                        👎 {locale === "en" ? "Disagree" : "Oneens"}
+                        👎 {t("partiesDisagree")}
                         <span className="text-xs font-normal text-gray-500">
-                          ({locale === "en" ? "These parties disagree" : "Deze partijen zijn het oneens"})
+                          ({t("partiesDisagreeDesc")})
                         </span>
                       </h4>
                       <div className="space-y-1.5">
@@ -324,7 +326,7 @@ export default function QuestionnairePage() {
               {/* More Info Tab */}
               {activeTab === "moreInfo" && (
                 <div className="text-sm text-gray-600 dark:text-gray-400 leading-relaxed">
-                  {moreInfo || (locale === "en" ? "No additional information available." : "Geen extra informatie beschikbaar.")}
+                  {moreInfo || t("noInfoAvailable")}
                 </div>
               )}
 
@@ -333,18 +335,18 @@ export default function QuestionnairePage() {
                 <div className="grid gap-4 sm:grid-cols-2">
                   <div className="rounded-lg bg-green-50 p-4 dark:bg-green-950/30">
                     <h4 className="mb-2 flex items-center gap-1.5 text-sm font-bold text-green-700 dark:text-green-400">
-                      ✓ {locale === "en" ? "For" : "Voor"}
+                      ✓ {t("argumentsFor")}
                     </h4>
                     <p className="text-sm text-green-800 dark:text-green-300 leading-relaxed">
-                      {pro || (locale === "en" ? "No arguments provided." : "Geen argumenten beschikbaar.")}
+                      {pro || t("noArguments")}
                     </p>
                   </div>
                   <div className="rounded-lg bg-red-50 p-4 dark:bg-red-950/30">
                     <h4 className="mb-2 flex items-center gap-1.5 text-sm font-bold text-red-700 dark:text-red-400">
-                      ✗ {locale === "en" ? "Against" : "Tegen"}
+                      ✗ {t("argumentsAgainst")}
                     </h4>
                     <p className="text-sm text-red-800 dark:text-red-300 leading-relaxed">
-                      {con || (locale === "en" ? "No arguments provided." : "Geen argumenten beschikbaar.")}
+                      {con || t("noArguments")}
                     </p>
                   </div>
                 </div>

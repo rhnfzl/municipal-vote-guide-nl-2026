@@ -6,6 +6,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Skeleton } from "@/components/ui/skeleton";
 import { useRouter } from "next/navigation";
+import { searchWithAliases } from "@/lib/municipality-aliases";
 import {
   BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, Cell,
 } from "recharts";
@@ -33,6 +34,7 @@ const COLORS = [
 
 export default function ExplorePage() {
   const t = useTranslations("explore");
+  const thome = useTranslations("home");
   const locale = useLocale();
   const router = useRouter();
   const [stats, setStats] = useState<NationalStats | null>(null);
@@ -51,43 +53,24 @@ export default function ExplorePage() {
 
   const filtered = useMemo(() => {
     if (!query.trim()) return municipalities;
-    const q = query.toLowerCase();
-    return municipalities.filter(
-      (m) => m.name.toLowerCase().includes(q) || m.slug.includes(q)
-    );
+    return searchWithAliases(municipalities, query);
   }, [query, municipalities]);
 
-  // Fun facts
+  // Fun facts using i18n
   const funFacts = useMemo(() => {
     if (!municipalities.length || !stats) return [];
-    const facts = [];
-    const mostParties = [...municipalities].sort((a, b) => b.numParties - a.numParties)[0];
+    const facts: string[] = [];
+    const sorted = [...municipalities];
+    const mostParties = sorted.sort((a, b) => b.numParties - a.numParties)[0];
     const fewestParties = [...municipalities].sort((a, b) => a.numParties - b.numParties)[0];
-    const mostStatements = [...municipalities].sort((a, b) => b.numStatements - a.numStatements)[0];
     const fewestStatements = [...municipalities].sort((a, b) => a.numStatements - b.numStatements)[0];
 
-    if (mostParties) facts.push(
-      locale === "en"
-        ? `${mostParties.name} has the most parties (${mostParties.numParties})`
-        : `${mostParties.name} heeft de meeste partijen (${mostParties.numParties})`
-    );
-    if (fewestParties) facts.push(
-      locale === "en"
-        ? `${fewestParties.name} has the fewest parties (${fewestParties.numParties})`
-        : `${fewestParties.name} heeft de minste partijen (${fewestParties.numParties})`
-    );
-    if (stats.topThemes[0]) facts.push(
-      locale === "en"
-        ? `"${stats.topThemes[0][0]}" is debated in ${stats.topThemes[0][1]} municipalities`
-        : `"${stats.topThemes[0][0]}" wordt besproken in ${stats.topThemes[0][1]} gemeenten`
-    );
-    if (fewestStatements) facts.push(
-      locale === "en"
-        ? `${fewestStatements.name} has the fewest statements (${fewestStatements.numStatements})`
-        : `${fewestStatements.name} heeft de minste stellingen (${fewestStatements.numStatements})`
-    );
+    if (mostParties) facts.push(t("funFactMostParties", { name: mostParties.name, count: mostParties.numParties }));
+    if (fewestParties) facts.push(t("funFactFewestParties", { name: fewestParties.name, count: fewestParties.numParties }));
+    if (stats.topThemes[0]) facts.push(t("funFactTopTheme", { theme: stats.topThemes[0][0], count: stats.topThemes[0][1] }));
+    if (fewestStatements) facts.push(t("funFactFewestStatements", { name: fewestStatements.name, count: fewestStatements.numStatements }));
     return facts;
-  }, [municipalities, stats, locale]);
+  }, [municipalities, stats, t]);
 
   if (!stats) {
     return (
@@ -135,8 +118,8 @@ export default function ExplorePage() {
                 <YAxis type="category" dataKey="name" width={140} tick={{ fontSize: 12 }} />
                 <Tooltip
                   formatter={(value) => [
-                    `${value} ${locale === "en" ? "municipalities" : "gemeenten"}`,
-                    locale === "en" ? "Appears in" : "Komt voor in"
+                    `${value} ${t("municipalities")}`,
+                    t("appearsIn")
                   ]}
                   contentStyle={{ borderRadius: 8, fontSize: 13 }}
                 />
@@ -153,16 +136,14 @@ export default function ExplorePage() {
 
       {/* Municipality Browser */}
       <div className="space-y-4">
-        <h2 className="text-lg font-semibold">
-          {locale === "en" ? "Browse All Municipalities" : "Bekijk Alle Gemeenten"}
-        </h2>
+        <h2 className="text-lg font-semibold">{t("browseAll")}</h2>
         <input
           type="search"
-          placeholder={locale === "en" ? "Search municipality..." : "Zoek gemeente..."}
+          placeholder={t("searchPlaceholder")}
           value={query}
           onChange={(e) => setQuery(e.target.value)}
           className="h-12 w-full rounded-xl border border-gray-300 bg-white px-4 text-base transition-all placeholder:text-gray-400 focus:border-blue-500 focus:outline-none focus:ring-4 focus:ring-blue-500/20 dark:border-gray-700 dark:bg-gray-900"
-          aria-label={locale === "en" ? "Search municipalities" : "Zoek gemeenten"}
+          aria-label={t("searchAriaLabel")}
         />
 
         <div className="grid gap-2 sm:grid-cols-2 lg:grid-cols-3">
@@ -175,9 +156,9 @@ export default function ExplorePage() {
               <div>
                 <span className="font-medium text-sm">{m.name}</span>
                 <div className="flex gap-2 mt-0.5">
-                  <span className="text-xs text-gray-400">{m.numParties} {locale === "en" ? "parties" : "partijen"}</span>
+                  <span className="text-xs text-gray-400">{m.numParties} {thome("parties")}</span>
                   <span className="text-xs text-gray-400">·</span>
-                  <span className="text-xs text-gray-400">{m.numStatements} {locale === "en" ? "questions" : "stellingen"}</span>
+                  <span className="text-xs text-gray-400">{m.numStatements} {thome("questions")}</span>
                 </div>
               </div>
               <svg className="h-4 w-4 text-gray-300" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -189,9 +170,7 @@ export default function ExplorePage() {
 
         {filtered.length > 60 && (
           <p className="text-center text-sm text-gray-400">
-            {locale === "en"
-              ? `Showing 60 of ${filtered.length}. Search to find more.`
-              : `60 van ${filtered.length} getoond. Zoek om meer te vinden.`}
+            {t("showing", { shown: 60, total: filtered.length })}
           </p>
         )}
       </div>

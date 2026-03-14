@@ -5,8 +5,9 @@ import { useEffect, useState, useMemo } from "react";
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Skeleton } from "@/components/ui/skeleton";
-import { useRouter, useParams } from "next/navigation";
+import { useRouter } from "next/navigation";
 import { useLocale } from "next-intl";
+import { searchWithAliases } from "@/lib/municipality-aliases";
 
 interface Municipality {
   id: string;
@@ -40,10 +41,7 @@ export default function HomePage() {
 
   const filtered = useMemo(() => {
     if (!query.trim()) return [];
-    const q = query.toLowerCase();
-    return municipalities.filter(
-      (m) => m.name.toLowerCase().includes(q) || m.slug.includes(q)
-    );
+    return searchWithAliases(municipalities, query);
   }, [query, municipalities]);
 
   const popular = useMemo(

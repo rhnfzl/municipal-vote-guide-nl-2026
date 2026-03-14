@@ -1,14 +1,18 @@
 "use client";
 
-import { useLocale } from "next-intl";
+import { useTranslations, useLocale } from "next-intl";
 import { useEffect, useState } from "react";
 import { useParams } from "next/navigation";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-import type { MunicipalityData, Party } from "@/lib/types";
+import { Skeleton } from "@/components/ui/skeleton";
+import type { MunicipalityData } from "@/lib/types";
 
 export default function ComparePage() {
+  const t = useTranslations("compare");
+  const tq = useTranslations("questionnaire");
+  const tc = useTranslations("common");
   const locale = useLocale();
   const params = useParams();
   const slug = params.municipality as string;
@@ -24,7 +28,19 @@ export default function ComparePage() {
       .then(setData);
   }, [slug, locale]);
 
-  if (!data) return <p className="text-center py-20 text-gray-500">Loading...</p>;
+  if (!data) {
+    return (
+      <div className="mx-auto max-w-3xl space-y-6" aria-live="polite">
+        <Skeleton className="h-10 w-64 mx-auto" />
+        <div className="flex flex-wrap gap-2">
+          {Array.from({ length: 8 }).map((_, i) => (
+            <Skeleton key={i} className="h-9 w-32 rounded-lg" />
+          ))}
+        </div>
+        <Skeleton className="h-40 rounded-xl" />
+      </div>
+    );
+  }
 
   const selectedParties = data.parties.filter((p) => selected.includes(p.id));
   const themes = [...new Set(data.statements.map((s) => s.theme))];
@@ -32,24 +48,10 @@ export default function ComparePage() {
     ? data.statements.filter((s) => s.theme === themeFilter)
     : data.statements;
 
-  const posColor = (pos: string) =>
-    pos === "agree"
-      ? "bg-green-100 text-green-800 dark:bg-green-950 dark:text-green-300"
-      : pos === "disagree"
-        ? "bg-red-100 text-red-800 dark:bg-red-950 dark:text-red-300"
-        : "bg-gray-100 text-gray-600 dark:bg-gray-800 dark:text-gray-400";
-
-  const posLabel = (pos: string) =>
-    pos === "agree" ? (locale === "en" ? "Agree" : "Eens") :
-    pos === "disagree" ? (locale === "en" ? "Disagree" : "Oneens") :
-    (locale === "en" ? "Neither" : "Geen");
-
   return (
-    <div className="space-y-6">
+    <div className="mx-auto max-w-3xl space-y-6">
       <div className="text-center space-y-2">
-        <h1 className="text-2xl font-bold">
-          {locale === "en" ? "Compare Parties" : "Vergelijk Partijen"}
-        </h1>
+        <h1 className="text-2xl font-extrabold tracking-tight sm:text-3xl">{t("title")}</h1>
         <p className="text-gray-500">{data.name}</p>
       </div>
 
@@ -57,9 +59,7 @@ export default function ComparePage() {
       {selected.length < 4 && (
         <div className="space-y-3">
           <p className="text-sm font-medium">
-            {locale === "en"
-              ? `Select up to 4 parties (${selected.length}/4):`
-              : `Selecteer tot 4 partijen (${selected.length}/4):`}
+            {t("selectParties", { count: selected.length })}
           </p>
           <div className="flex flex-wrap gap-2">
             {data.parties
@@ -69,6 +69,7 @@ export default function ComparePage() {
                   key={p.id}
                   variant="outline"
                   size="sm"
+                  className="rounded-lg"
                   onClick={() => setSelected((s) => [...s, p.id])}
                 >
                   + {p.name}
@@ -85,7 +86,7 @@ export default function ComparePage() {
             <Badge
               key={p.id}
               variant="secondary"
-              className="cursor-pointer text-sm px-3 py-1"
+              className="cursor-pointer text-sm px-3 py-1.5 rounded-lg hover:bg-red-100 dark:hover:bg-red-900"
               onClick={() => setSelected((s) => s.filter((id) => id !== p.id))}
             >
               {p.name} ✕
@@ -96,19 +97,19 @@ export default function ComparePage() {
 
       {/* Theme filter */}
       {selected.length >= 2 && (
-        <div className="flex flex-wrap gap-2">
+        <div className="flex flex-wrap gap-2 overflow-x-auto pb-2">
           <Badge
             variant={themeFilter === "" ? "default" : "outline"}
-            className="cursor-pointer"
+            className="cursor-pointer shrink-0 rounded-lg"
             onClick={() => setThemeFilter("")}
           >
-            {locale === "en" ? "All themes" : "Alle thema's"}
+            {t("allThemes")}
           </Badge>
           {themes.map((theme) => (
             <Badge
               key={theme}
               variant={themeFilter === theme ? "default" : "outline"}
-              className="cursor-pointer"
+              className="cursor-pointer shrink-0 rounded-lg"
               onClick={() => setThemeFilter(themeFilter === theme ? "" : theme)}
             >
               {theme}
@@ -121,12 +122,9 @@ export default function ComparePage() {
       {selected.length >= 2 && (
         <div className="space-y-3">
           {filteredStatements.map((stmt) => {
-            const title =
-              locale === "en" && stmt.titleEn ? stmt.titleEn : stmt.title;
-            const theme =
-              locale === "en" && stmt.themeEn ? stmt.themeEn : stmt.theme;
+            const title = locale === "en" && stmt.titleEn ? stmt.titleEn : stmt.title;
+            const theme = locale === "en" && stmt.themeEn ? stmt.themeEn : stmt.theme;
 
-            // Check if parties disagree with each other
             const positions = selectedParties.map(
               (p) => p.positions[stmt.id]?.position || "neither"
             );
@@ -135,35 +133,54 @@ export default function ComparePage() {
             return (
               <Card
                 key={stmt.id}
-                className={!allSame ? "border-amber-300 dark:border-amber-700" : ""}
+                className={`overflow-hidden rounded-xl transition-all ${
+                  !allSame ? "border-amber-300 dark:border-amber-700" : ""
+                }`}
               >
                 <CardContent className="p-4 space-y-3">
                   <div className="flex items-start justify-between gap-2">
                     <div>
-                      <Badge variant="outline" className="text-xs mb-1">
+                      <Badge variant="outline" className="text-xs mb-1 rounded-md">
                         {theme}
                       </Badge>
-                      <p className="font-medium text-sm leading-snug">
-                        {title}
-                      </p>
+                      <p className="font-medium text-sm leading-snug">{title}</p>
                     </div>
                     {!allSame && (
-                      <Badge variant="outline" className="shrink-0 text-amber-600 border-amber-400 text-xs">
-                        {locale === "en" ? "Divided" : "Verdeeld"}
+                      <Badge
+                        variant="outline"
+                        className="shrink-0 text-amber-600 border-amber-400 text-xs rounded-md"
+                      >
+                        ⚠ {t("divided")}
                       </Badge>
                     )}
                   </div>
-                  <div className="grid gap-2" style={{ gridTemplateColumns: `repeat(${selectedParties.length}, 1fr)` }}>
+                  <div
+                    className="grid gap-2"
+                    style={{ gridTemplateColumns: `repeat(${selectedParties.length}, 1fr)` }}
+                  >
                     {selectedParties.map((party) => {
                       const pos = party.positions[stmt.id];
                       const position = pos?.position || "neither";
+                      const colorClass =
+                        position === "agree"
+                          ? "bg-green-100 text-green-800 dark:bg-green-950 dark:text-green-300"
+                          : position === "disagree"
+                            ? "bg-red-100 text-red-800 dark:bg-red-950 dark:text-red-300"
+                            : "bg-gray-100 text-gray-600 dark:bg-gray-800 dark:text-gray-400";
+
                       return (
                         <div
                           key={party.id}
-                          className={`rounded-md p-2 text-center text-xs ${posColor(position)}`}
+                          className={`rounded-lg p-2.5 text-center text-xs ${colorClass}`}
                         >
                           <p className="font-medium truncate">{party.name}</p>
-                          <p className="mt-1 font-bold">{posLabel(position)}</p>
+                          <p className="mt-1 font-bold">
+                            {position === "agree"
+                              ? t("agree")
+                              : position === "disagree"
+                                ? t("disagree")
+                                : t("neither")}
+                          </p>
                         </div>
                       );
                     })}
@@ -172,6 +189,14 @@ export default function ComparePage() {
               </Card>
             );
           })}
+        </div>
+      )}
+
+      {selected.length < 2 && (
+        <div className="py-12 text-center text-gray-400">
+          <p className="text-lg">
+            {t("selectParties", { count: selected.length })}
+          </p>
         </div>
       )}
     </div>

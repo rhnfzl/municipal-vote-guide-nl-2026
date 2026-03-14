@@ -30,7 +30,8 @@
     "electionDate": "Municipal elections: March 18, 2026",
     "popularCities": "Popular cities",
     "noResults": "No municipalities found for \"{query}\"",
-    "daysUntil": "{days} days until election day"
+    "daysUntil": "{days} days until election day",
+    "results": "results"
   },
   "questionnaire": {
     "title": "Questionnaire",
@@ -47,7 +48,20 @@
     "viewResults": "View Results",
     "progress": "{answered} of {total} answered",
     "previous": "Previous",
-    "markDealbreaker": "Mark as dealbreaker"
+    "markDealbreaker": "Mark as dealbreaker",
+    "tabParties": "What do parties think?",
+    "tabMoreInfo": "Learn more",
+    "tabArguments": "Arguments",
+    "partiesAgree": "Agree",
+    "partiesAgreeDesc": "These parties agree with this statement",
+    "partiesDisagree": "Disagree",
+    "partiesDisagreeDesc": "These parties disagree with this statement",
+    "partiesNeither": "Neither",
+    "partiesNeitherDesc": "These parties neither agree nor disagree",
+    "noInfoAvailable": "No additional information available.",
+    "argumentsFor": "For",
+    "argumentsAgainst": "Against",
+    "noArguments": "No arguments provided."
   },
   "results": {
     "title": "Your Results",
@@ -68,14 +82,19 @@
     "topMatch": "Top Match",
     "agreeOn": "You both agree on: {themes}",
     "differOn": "You differ on: {themes}",
-    "expandDetails": "Show question details"
+    "expandDetails": "Show question details",
+    "you": "You"
   },
   "compare": {
     "title": "Compare Parties",
     "selectParties": "Select up to 4 parties ({count}/4):",
     "allThemes": "All themes",
     "divided": "Divided",
-    "addParty": "Add party"
+    "addParty": "Add party",
+    "loading": "Loading comparison...",
+    "agree": "Agree",
+    "disagree": "Disagree",
+    "neither": "Neither"
   },
   "compass": {
     "title": "Political Compass",
@@ -84,7 +103,9 @@
     "economicRight": "Economic Right",
     "progressive": "Progressive",
     "conservative": "Conservative",
-    "you": "You"
+    "you": "You",
+    "right": "Right",
+    "left": "Left"
   },
   "tuning": {
     "title": "Tune your results",
@@ -99,7 +120,17 @@
     "topParties": "Most Common Parties Nationally",
     "times": "{count}x",
     "outOf": "{count} of {total} municipalities",
-    "stats": "{municipalities} municipalities · {parties} parties · {statements} statements"
+    "stats": "{municipalities} municipalities · {parties} parties · {statements} statements",
+    "browseAll": "Browse All Municipalities",
+    "searchPlaceholder": "Search municipality...",
+    "searchAriaLabel": "Search municipalities",
+    "showing": "Showing {shown} of {total}. Search to find more.",
+    "appearsIn": "Appears in",
+    "municipalities": "municipalities",
+    "funFactMostParties": "{name} has the most parties ({count})",
+    "funFactFewestParties": "{name} has the fewest parties ({count})",
+    "funFactTopTheme": "\"{theme}\" is debated in {count} municipalities",
+    "funFactFewestStatements": "{name} has the fewest statements ({count})"
   },
   "share": {
     "title": "Share Your Results",
@@ -116,7 +147,7 @@
   "footer": {
     "openSource": "Open source on",
     "github": "GitHub",
-    "electionInfo": "Gemeenteraadsverkiezingen 18 maart 2026",
-    "disclaimer": "This is an independent project and is not affiliated with ProDemos or StemWijzer."
+    "electionInfo": "Municipal council elections March 18, 2026",
+    "disclaimer": "Independent project, not affiliated with ProDemos or StemWijzer. We do not store any personal data."
   }
 }

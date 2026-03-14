@@ -1,5 +1,5 @@
 import { NextIntlClientProvider, hasLocale } from "next-intl";
-import { getMessages } from "next-intl/server";
+import { getMessages, getTranslations } from "next-intl/server";
 import { notFound } from "next/navigation";
 import { routing } from "@/i18n/routing";
 import { Geist } from "next/font/google";
@@ -31,6 +31,8 @@ export default async function LocaleLayout({
   const { locale } = await params;
   if (!hasLocale(routing.locales, locale)) notFound();
   const messages = await getMessages();
+  const tNav = await getTranslations("nav");
+  const tFooter = await getTranslations("footer");
 
   return (
     <html lang={locale} className={geist.variable} suppressHydrationWarning>
@@ -56,10 +58,10 @@ export default async function LocaleLayout({
                     href={`/${locale}/explore`}
                     className="rounded-lg px-2.5 py-1.5 text-sm font-medium text-gray-600 transition-colors hover:bg-gray-100 hover:text-gray-900 dark:text-gray-400 dark:hover:bg-gray-800 dark:hover:text-gray-100"
                   >
-                    {locale === "en" ? "Explore" : "Verkennen"}
+                    {tNav("explore")}
                   </a>
 
-                  {/* Language Toggle */}
+                  {/* Language Toggle with SVG flags */}
                   <div className="flex rounded-lg border border-gray-200 overflow-hidden dark:border-gray-700" role="group" aria-label="Language">
                     <a
                       href="/en"
@@ -71,11 +73,10 @@ export default async function LocaleLayout({
                       aria-current={locale === "en" ? "true" : undefined}
                       aria-label="English"
                     >
-                      {/* UK flag SVG */}
                       <svg className="h-4 w-5 rounded-sm" viewBox="0 0 60 30" aria-hidden="true">
                         <rect width="60" height="30" fill="#012169"/>
                         <path d="M0,0 L60,30 M60,0 L0,30" stroke="#fff" strokeWidth="6"/>
-                        <path d="M0,0 L60,30 M60,0 L0,30" stroke="#C8102E" strokeWidth="4" clipPath="url(#t)"/>
+                        <path d="M0,0 L60,30 M60,0 L0,30" stroke="#C8102E" strokeWidth="4"/>
                         <path d="M30,0v30M0,15h60" stroke="#fff" strokeWidth="10"/>
                         <path d="M30,0v30M0,15h60" stroke="#C8102E" strokeWidth="6"/>
                       </svg>
@@ -91,7 +92,6 @@ export default async function LocaleLayout({
                       aria-current={locale === "nl" ? "true" : undefined}
                       aria-label="Nederlands"
                     >
-                      {/* NL flag SVG */}
                       <svg className="h-4 w-5 rounded-sm" viewBox="0 0 9 6" aria-hidden="true">
                         <rect width="9" height="2" fill="#AE1C28"/>
                         <rect y="2" width="9" height="2" fill="#FFF"/>
@@ -112,25 +112,23 @@ export default async function LocaleLayout({
               {children}
             </main>
 
-            {/* Footer */}
+            {/* Footer — fully translated */}
             <footer className="mt-auto border-t border-gray-200/80 bg-white py-8 dark:border-gray-800/80 dark:bg-gray-950">
               <div className="mx-auto max-w-5xl px-4 text-center text-sm text-gray-500">
                 <p>
-                  {locale === "en" ? "Open source on" : "Open source op"}{" "}
+                  {tFooter("openSource")}{" "}
                   <a
                     href="https://github.com/rhnfzl/municipal-vote-guide-nl-2026"
                     className="font-medium underline underline-offset-4 hover:text-gray-900 dark:hover:text-gray-100"
                     target="_blank"
                     rel="noopener"
                   >
-                    GitHub
+                    {tFooter("github")}
                   </a>{" "}
-                  · Gemeenteraadsverkiezingen 18 maart 2026
+                  · {tFooter("electionInfo")}
                 </p>
                 <p className="mt-2 text-xs text-gray-400">
-                  {locale === "en"
-                    ? "Independent project, not affiliated with ProDemos or StemWijzer. We do not store any personal data."
-                    : "Onafhankelijk project, niet gelieerd aan ProDemos of StemWijzer. Wij slaan geen persoonlijke gegevens op."}
+                  {tFooter("disclaimer")}
                 </p>
               </div>
             </footer>
