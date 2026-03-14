@@ -1,41 +1,89 @@
 # 🗳️ Municipal Vote Guide NL 2026
 
-An open-source, bilingual (Dutch/English) vote matching tool for the **2026 Dutch municipal elections** (Gemeenteraadsverkiezingen, March 18, 2026).
+[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=flat&logo=vercel)](https://municipal-vote-guide-nl-2026.vercel.app)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/rhnfzl/municipal-vote-guide-nl-2026?style=social)](https://github.com/rhnfzl/municipal-vote-guide-nl-2026)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=rhnfzl%2Fmunicipal-vote-guide-nl-2026&label=Repo%20Visitors&countColor=%232563eb)
 
-Covers **all 258 municipalities** in the Netherlands with **71,136 party positions** across **7,742 policy statements**.
+An open-source, **fully bilingual (Dutch/English)** vote matching tool for the **2026 Dutch municipal elections** (Gemeenteraadsverkiezingen, March 18, 2026).
+
+Covers **all 258 municipalities** in the Netherlands with **79,000+ translated party explanations** across **7,742 policy statements**.
+
+🌐 **Live:** [municipal-vote-guide-nl-2026.vercel.app](https://municipal-vote-guide-nl-2026.vercel.app)
+
+---
 
 ## Features
 
+### Core Questionnaire
 - **Interactive Questionnaire** — Answer agree/disagree/neither on your municipality's policy statements
-- **Dealbreaker Questions** — Mark critical issues; choose strict (eliminate) or weighted (3x) mode
-- **Issue Weighting** — Tune results by increasing weight of topics you care most about
-- **Party Match Results** — Ranked matches with per-question breakdown and party explanations
-- **2D Political Compass** — Visualize your political position relative to all parties
-- **Party Comparison** — Side-by-side comparison of 2-4 parties on every statement
-- **Share Results** — Generate shareable images for Twitter/X, Instagram Stories, LinkedIn, Square
-- **Bilingual** — Full Dutch and English support with language toggle
-- **Dark Mode** — System-aware with manual toggle
-- **Explore** — Browse national statistics: most common themes and parties across all municipalities
-- **Mobile-first** — Responsive design optimized for all devices
+- **3-Tab Info System** — "What do parties think?" / "Learn more" / "Arguments" (matching StemWijzer)
+- **Glossary Tooltips** — Inline definitions for political terms (ombudsman, referendum, etc.)
+- **Bilingual Display** — Primary language large, alternate language shown below
+- **Speed Check** — Warning if questionnaire completed too quickly
+
+### Post-Questionnaire Flow
+- **Important Topics** — Select up to 3 themes for 2x scoring weight
+- **Party Filter** — Choose which parties to include (all / incumbent / custom)
+- **Tie-breaker Shootout** — Extra questions when top parties are within 5%
+
+### Results & Analysis
+- **Party Match Results** — Ranked matches with party logos + progress bars
+- **Political Profile Summary** — AI-generated description of your political stance
+- **Per-Party Comparison** — Side-by-side view with party tab bar (matches StemWijzer)
+- **Political Compass** — 2D scatter plot showing your position vs. parties
+- **Consensus Meter** — Which topics divide parties most vs. consensus
+- **"Why do I match?"** — Theme-based explanation of alignment
+
+### Sharing & Social
+- **Share Results** — Generate images for Twitter/X, Instagram Stories, LinkedIn, Square
+- **Friends Comparison** — Shareable URL to compare results with friends (viral feature)
+- **Print/PDF Export** — Save results for offline reference
+
+### Explore & Data Analysis
+- **National Theme Statistics** — Bar charts of most common political themes
+- **BERTopic ML Analysis** — AI-powered topic modeling of 3,531 political statements
+  - Topic Map (interactive scatter plot)
+  - Topic Clusters (treemap visualization)
+  - Topic Network (similarity graph)
+- **Municipality Browser** — Search all 258 municipalities with alias support
+
+### Design & Accessibility
+- **Bilingual** — Full Dutch + English with SVG flag toggle
+- **Dark Mode** — Light default with system-aware toggle
+- **Mobile-first** — Responsive design for all devices
+- **Party Logos** — 600+ party favicons + color initials fallback
+- **Municipality Aliases** — "Den Bosch" → 's-Hertogenbosch, "The Hague" → 's-Gravenhage
+
+---
 
 ## Tech Stack
 
-- **Framework:** Next.js 15 (App Router)
-- **UI:** shadcn/ui + Tailwind CSS
-- **Charts:** Recharts
-- **i18n:** next-intl (NL/EN)
-- **Hosting:** Vercel
-- **Translation:** OpenAI gpt-5-mini (Responses API)
+| Layer | Technology |
+|-------|-----------|
+| **Framework** | Next.js 15 (App Router) |
+| **UI** | shadcn/ui + Tailwind CSS |
+| **Charts** | Recharts |
+| **i18n** | next-intl (NL/EN) |
+| **ML** | BERTopic + OpenAI text-embedding-3-large |
+| **Translation** | OpenAI gpt-5-mini + gpt-4.1-mini |
+| **Hosting** | Vercel (Frankfurt fra1) |
 
 ## Data
 
-All data was extracted from the official StemWijzer (ProDemos) for the 2026 municipal elections:
-- 258 unique municipalities
-- 2,446 party entries (864 unique party names)
-- 7,742 policy statements
-- 71,136 party-statement positions
+All data extracted from the official StemWijzer (ProDemos) for the 2026 municipal elections:
 
-Top parties nationally: CDA (257 municipalities), VVD (245), D66 (193), GroenLinks-PvdA (143), ChristenUnie (105).
+| Metric | Count |
+|--------|-------|
+| Municipalities | 258 |
+| Party entries | 2,446 (864 unique names) |
+| Policy statements | 7,742 |
+| Party-statement positions | 71,136 |
+| Translated explanations | 79,000+ |
+| Topic model clusters | 103 (via BERTopic) |
+| Translation cache | 87,000+ entries |
+
+Top parties nationally: CDA (257), VVD (245), D66 (193), GroenLinks-PvdA (143), ChristenUnie (105).
 
 ## Getting Started
 
@@ -51,9 +99,14 @@ Open [http://localhost:3000](http://localhost:3000).
 ```bash
 npm run dev          # Start development server
 npm run build        # Production build
-npm test             # Run tests
+npm test             # Run unit tests
+npm run test:e2e     # Run Playwright E2E tests
 npm run lint         # Lint code
 ```
+
+## Privacy
+
+**We do not store any personal data.** All questionnaire answers are kept in your browser's session storage and are never sent to any server. The app works entirely client-side after loading the municipality data.
 
 ## Disclaimer
 
@@ -61,4 +114,4 @@ This is an independent open-source project. It is **not affiliated** with ProDem
 
 ## License
 
-MIT
+[MIT](LICENSE)
