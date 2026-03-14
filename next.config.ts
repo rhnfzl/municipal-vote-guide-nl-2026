@@ -5,6 +5,14 @@ const withNextIntl = createNextIntlPlugin("./src/i18n/request.ts");
 
 const nextConfig: NextConfig = {
   output: "standalone",
+  experimental: {
+    // Prevent Next.js Router Cache from serving stale page state
+    // (ensures questionnaire always starts fresh when revisiting)
+    staleTimes: {
+      dynamic: 0,
+      static: 0,
+    },
+  },
 };
 
 export default withNextIntl(nextConfig);
