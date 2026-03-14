@@ -7,6 +7,7 @@ import { Badge } from "@/components/ui/badge";
 import { Skeleton } from "@/components/ui/skeleton";
 import { useRouter } from "next/navigation";
 import { searchWithAliases } from "@/lib/municipality-aliases";
+import { MdLightbulb, MdChevronRight } from "@/components/icons";
 import {
   BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, Cell,
 } from "recharts";
@@ -100,7 +101,7 @@ export default function ExplorePage() {
         <div className="grid gap-3 sm:grid-cols-2">
           {funFacts.map((fact, i) => (
             <div key={i} className="flex items-start gap-2 rounded-xl bg-blue-50 p-3 text-sm text-blue-800 dark:bg-blue-950/30 dark:text-blue-300">
-              <span className="shrink-0 text-lg">💡</span>
+              <MdLightbulb className="h-5 w-5 shrink-0 text-blue-600" />
               <span>{fact}</span>
             </div>
           ))}
@@ -161,9 +162,7 @@ export default function ExplorePage() {
                   <span className="text-xs text-gray-400">{m.numStatements} {thome("questions")}</span>
                 </div>
               </div>
-              <svg className="h-4 w-4 text-gray-300" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-              </svg>
+              <MdChevronRight className="h-5 w-5 text-gray-300" />
             </button>
           ))}
         </div>

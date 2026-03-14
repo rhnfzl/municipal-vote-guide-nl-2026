@@ -9,6 +9,7 @@ import { Badge } from "@/components/ui/badge";
 import { Skeleton } from "@/components/ui/skeleton";
 import type { MunicipalityData } from "@/lib/types";
 import { PartyAvatar } from "@/components/party-avatar";
+import { MdWarning } from "@/components/icons";
 
 export default function ComparePage() {
   const t = useTranslations("compare");
@@ -151,7 +152,7 @@ export default function ComparePage() {
                         variant="outline"
                         className="shrink-0 text-amber-600 border-amber-400 text-xs rounded-md"
                       >
-                        ⚠ {t("divided")}
+                        <MdWarning className="h-3.5 w-3.5" /> {t("divided")}
                       </Badge>
                     )}
                   </div>

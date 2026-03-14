@@ -11,6 +11,11 @@ import { Skeleton } from "@/components/ui/skeleton";
 import { Separator } from "@/components/ui/separator";
 import type { MunicipalityData, UserAnswer, Statement } from "@/lib/types";
 import { PartyAvatar } from "@/components/party-avatar";
+import {
+  MdThumbUp, MdThumbDown, MdRemove, MdChat, MdMenuBook,
+  MdBalance, MdFlag, MdArrowBack, MdSkipNext, MdClose,
+  MdCheckCircle, MdCancel, MdInfo,
+} from "@/components/icons";
 
 type InfoTab = "parties" | "moreInfo" | "arguments" | null;
 
@@ -151,9 +156,9 @@ export default function QuestionnairePage() {
   const altTheme = altStmt?.theme || (locale === "en" ? current.theme : current.themeEn) || "";
 
   const tabs = [
-    { id: "parties" as const, label: t("tabParties"), icon: "💬" },
-    { id: "moreInfo" as const, label: t("tabMoreInfo"), icon: "📖" },
-    { id: "arguments" as const, label: t("tabArguments"), icon: "⚖️" },
+    { id: "parties" as const, label: t("tabParties"), Icon: MdChat },
+    { id: "moreInfo" as const, label: t("tabMoreInfo"), Icon: MdMenuBook },
+    { id: "arguments" as const, label: t("tabArguments"), Icon: MdBalance },
   ];
 
   return (
@@ -173,7 +178,7 @@ export default function QuestionnairePage() {
           className="flex h-10 w-10 items-center justify-center rounded-full bg-gray-100 text-gray-600 transition-colors hover:bg-gray-200 dark:bg-gray-800 dark:text-gray-400 dark:hover:bg-gray-700"
           aria-label={t("previous")}
         >
-          ←
+          <MdArrowBack className="h-5 w-5" />
         </button>
         <span className="rounded-full border border-gray-200 px-3 py-1 text-sm font-semibold dark:border-gray-700">
           {currentIdx + 1}/{statements.length}
@@ -222,7 +227,7 @@ export default function QuestionnairePage() {
               <Switch checked={isDealbreaker} onCheckedChange={toggleDealbreaker} />
             </label>
             {isDealbreaker && (
-              <Badge variant="destructive" className="text-xs">⚑ {t("dealbreaker")}</Badge>
+              <Badge variant="destructive" className="text-xs flex items-center gap-1"><MdFlag className="h-3 w-3" /> {t("dealbreaker")}</Badge>
             )}
           </div>
 
@@ -239,7 +244,7 @@ export default function QuestionnairePage() {
                 }`}
                 aria-expanded={activeTab === tab.id}
               >
-                <span aria-hidden="true">{tab.icon}</span>
+                <tab.Icon className="h-4 w-4" aria-hidden="true" />
                 <span className="hidden sm:inline">{tab.label}</span>
                 <span className="sm:hidden">{tab.label.split(" ").slice(-1)[0]}</span>
               </button>
@@ -254,7 +259,7 @@ export default function QuestionnairePage() {
                   onClick={() => setActiveTab(null)}
                   className="text-xs text-gray-400 hover:text-gray-600"
                 >
-  {tc("close")} ✕
+  <MdClose className="h-4 w-4 inline" /> {tc("close")}
                 </button>
               </div>
 
@@ -264,7 +269,7 @@ export default function QuestionnairePage() {
                   {partyPositions.agree.length > 0 && (
                     <div>
                       <h4 className="flex items-center gap-2 text-sm font-bold text-green-700 dark:text-green-400 mb-2">
-                        👍 {t("partiesAgree")}
+                        <MdThumbUp className="h-4 w-4" /> {t("partiesAgree")}
                         <span className="text-xs font-normal text-gray-500">
                           ({t("partiesAgreeDesc")})
                         </span>
@@ -288,7 +293,7 @@ export default function QuestionnairePage() {
                   {partyPositions.neither.length > 0 && (
                     <div>
                       <h4 className="flex items-center gap-2 text-sm font-bold text-gray-600 dark:text-gray-400 mb-2">
-                        〰️ {t("partiesNeither")}
+                        <MdRemove className="h-4 w-4" /> {t("partiesNeither")}
                         <span className="text-xs font-normal text-gray-500">({t("partiesNeitherDesc")})</span>
                       </h4>
                       <div className="space-y-1.5">
@@ -310,7 +315,7 @@ export default function QuestionnairePage() {
                   {partyPositions.disagree.length > 0 && (
                     <div>
                       <h4 className="flex items-center gap-2 text-sm font-bold text-red-700 dark:text-red-400 mb-2">
-                        👎 {t("partiesDisagree")}
+                        <MdThumbDown className="h-4 w-4" /> {t("partiesDisagree")}
                         <span className="text-xs font-normal text-gray-500">
                           ({t("partiesDisagreeDesc")})
                         </span>
@@ -345,7 +350,7 @@ export default function QuestionnairePage() {
                 <div className="grid gap-4 sm:grid-cols-2">
                   <div className="rounded-lg bg-green-50 p-4 dark:bg-green-950/30">
                     <h4 className="mb-2 flex items-center gap-1.5 text-sm font-bold text-green-700 dark:text-green-400">
-                      ✓ {t("argumentsFor")}
+                      <MdCheckCircle className="h-4 w-4" /> {t("argumentsFor")}
                     </h4>
                     <p className="text-sm text-green-800 dark:text-green-300 leading-relaxed">
                       {pro || t("noArguments")}
@@ -353,7 +358,7 @@ export default function QuestionnairePage() {
                   </div>
                   <div className="rounded-lg bg-red-50 p-4 dark:bg-red-950/30">
                     <h4 className="mb-2 flex items-center gap-1.5 text-sm font-bold text-red-700 dark:text-red-400">
-                      ✗ {t("argumentsAgainst")}
+                      <MdCancel className="h-4 w-4" /> {t("argumentsAgainst")}
                     </h4>
                     <p className="text-sm text-red-800 dark:text-red-300 leading-relaxed">
                       {con || t("noArguments")}
@@ -373,7 +378,7 @@ export default function QuestionnairePage() {
           className="h-14 text-sm font-bold rounded-xl bg-green-600 text-white shadow-sm transition-all hover:bg-green-700 hover:shadow-md active:scale-[0.97] sm:text-base"
           size="lg"
         >
-          👍 {t("agree")}
+          <MdThumbUp className="h-5 w-5" /> {t("agree")}
         </Button>
         <Button
           onClick={() => answer("neither")}
@@ -381,14 +386,14 @@ export default function QuestionnairePage() {
           className="h-14 text-sm font-bold rounded-xl shadow-sm transition-all hover:shadow-md active:scale-[0.97] sm:text-base"
           size="lg"
         >
-          〰️ {t("neither")}
+          <MdRemove className="h-5 w-5" /> {t("neither")}
         </Button>
         <Button
           onClick={() => answer("disagree")}
           className="h-14 text-sm font-bold rounded-xl bg-red-600 text-white shadow-sm transition-all hover:bg-red-700 hover:shadow-md active:scale-[0.97] sm:text-base"
           size="lg"
         >
-          👎 {t("disagree")}
+          <MdThumbDown className="h-5 w-5" /> {t("disagree")}
         </Button>
       </div>
 

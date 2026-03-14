@@ -13,6 +13,7 @@ import { ShareResults } from "@/components/share-results";
 import { IssueTuning } from "@/components/issue-tuning";
 import { PoliticalCompass } from "@/components/political-compass";
 import { PartyAvatar } from "@/components/party-avatar";
+import { MdCheckCircle, MdCancel, MdExpandMore, MdExpandLess, MdFlag } from "@/components/icons";
 import type {
   MunicipalityData,
   UserAnswer,
@@ -221,10 +222,10 @@ export default function ResultsPage() {
                   </div>
 
                   <div className="mt-2 flex items-center gap-4 text-sm text-gray-500">
-                    <span className="text-green-600">✓ {match.agreeCount} {t("agreed")}</span>
-                    <span className="text-red-600">✗ {match.disagreeCount} {t("disagreed")}</span>
-                    <span className="ml-auto text-xs">
-                      {isExpanded ? "▾" : "▸"} {t("whyMatch")}
+                    <span className="text-green-600 flex items-center gap-1"><MdCheckCircle className="h-3.5 w-3.5" /> {match.agreeCount} {t("agreed")}</span>
+                    <span className="text-red-600 flex items-center gap-1"><MdCancel className="h-3.5 w-3.5" /> {match.disagreeCount} {t("disagreed")}</span>
+                    <span className="ml-auto text-xs flex items-center gap-1">
+                      {isExpanded ? <MdExpandLess className="h-4 w-4" /> : <MdExpandMore className="h-4 w-4" />} {t("whyMatch")}
                     </span>
                   </div>
                 </div>
@@ -276,7 +277,7 @@ export default function ResultsPage() {
                           >
                             <div className="flex items-start justify-between gap-2">
                               <p className="font-medium leading-snug flex-1">
-                                {isDealbreakerQ && <span className="text-red-500 mr-1">⚑</span>}
+                                {isDealbreakerQ && <MdFlag className="h-3.5 w-3.5 text-red-500 inline mr-1" />}
                                 {stmtTitle}
                               </p>
                               <div className="flex gap-1.5 shrink-0 text-xs">

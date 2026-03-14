@@ -8,6 +8,7 @@ import { Skeleton } from "@/components/ui/skeleton";
 import { useRouter } from "next/navigation";
 import { useLocale } from "next-intl";
 import { searchWithAliases } from "@/lib/municipality-aliases";
+import { MdSearch, MdChevronRight } from "@/components/icons";
 
 interface Municipality {
   id: string;
@@ -79,9 +80,7 @@ export default function HomePage() {
         {/* Search */}
         <div className="relative mx-auto mt-6 max-w-md">
           <div className="pointer-events-none absolute inset-y-0 left-0 flex items-center pl-4">
-            <svg className="h-5 w-5 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
-            </svg>
+            <MdSearch className="h-5 w-5 text-gray-400" aria-hidden="true" />
           </div>
           <input
             type="search"
@@ -162,9 +161,7 @@ export default function HomePage() {
                     </Badge>
                   </div>
                 </div>
-                <svg className="h-5 w-5 text-gray-300 transition-transform group-hover:translate-x-1 group-hover:text-blue-500 dark:text-gray-600" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-                </svg>
+                <MdChevronRight className="h-5 w-5 text-gray-300 transition-transform group-hover:translate-x-1 group-hover:text-blue-500 dark:text-gray-600" aria-hidden="true" />
               </CardContent>
             </Card>
           ))}
