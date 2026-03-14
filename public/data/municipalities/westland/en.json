@@ -1,0 +1,1639 @@
+{
+  "id": "GM1783",
+  "name": "Westland",
+  "slug": "westland",
+  "parties": [
+    {
+      "id": 127043,
+      "name": "Westland Verstandig",
+      "fullName": "Westland Verstandig",
+      "website": "https://www.westlandverstandig.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "127069": {
+          "position": "agree",
+          "explanation": "Westland Verstandig vindt dat burgerinitiatieven door de gemeente Westland sneller en beter gefaciliteerd moeten worden."
+        },
+        "127071": {
+          "position": "disagree",
+          "explanation": "In Westland is sprake van een zeer dichte bebouwing, ook in de dorpen. Verruiming van openingstijden gaat ten koste van de buurt. Dat willen we voorkomen."
+        },
+        "127072": {
+          "position": "agree",
+          "explanation": "De gemeente moet constructies bedenken om voor onze burgers mogelijkheden te creëren die het hebben van zonnepanelen of warmtepompen gemakkelijker maken. We denken daarbij aan subsidiemogelijkheden en verhuur van zonnepanelen."
+        },
+        "127073": {
+          "position": "agree",
+          "explanation": "Nieuwe distributiecentra betekenen een verschuiving van winkelend publiek naar buiten de huidige winkelcentra. Wij koesteren onze winkelcentra, die in Westland een belangrijke rol vervullen voor ontspanning, fun shopping en horeca."
+        },
+        "127074": {
+          "position": "disagree",
+          "explanation": "De Gemeente Westland vangt al 2300 ontheemden uit Oekraïne op en daarnaast ieder jaar meer dan 200 statushouders. Voeg daarbij 5000 arbeidsmigranten die gehuisvest worden en de grote woningnood bij onze eigen inwoners dan is voor asielzoekers geen plaats te vinden in Westland."
+        },
+        "127075": {
+          "position": "disagree",
+          "explanation": "Fijnstof dat door haarden en kachels wordt geproduceerd hindert veel inwoners van Westland in hun leefomgeving."
+        },
+        "127078": {
+          "position": "agree",
+          "explanation": "Binnen de afvalstoffenheffing moet het mogelijk zijn om deze faciliteit te bieden aan onze inwoners. Voorts wordt op die wijze dumping voorkomen en houden we Westland schoon."
+        },
+        "127080": {
+          "position": "agree",
+          "explanation": "De gemeente dient bij nieuwbouw financieel bij te springen en in ieder geval te voorkomen dat extra voorzieningen ten laste komen van de nieuwe bewoners. Bij bestaande gebouwen zal middels een subsidieregeling voorzien moeten worden in de betere toegankelijkheid."
+        },
+        "127082": {
+          "position": "agree",
+          "explanation": "Naast schoolzwemmen dient in het onderwijs aan cultuur aandacht besteed te worden. We zijn dan ook voorstander om muziekles verplicht te stellen en dat af te stemmen met de diverse schoolbesturen."
+        },
+        "127085": {
+          "position": "agree",
+          "explanation": "Om irritaties bij inwoners weg te nemen is de inzet van meer boa's nodig. Er wordt veel geklaagd over fatbikes in de dorpen, die de centra onveilig maken. Er wordt ook veel geklaagd over verkeerd parkeren, te snel rijden en vrachtwagens die vrachtwagenverboden negeren. Handhaving moet dus steviger."
+        },
+        "127086": {
+          "position": "agree",
+          "explanation": "Onze inwoners willen meer handhaving op de Westlandse wegen. Er gebeuren in Westland te veel verkeersongevallen. Vandaar dat meer controle moet plaatsvinden. Politie is er niet voldoende en dus moeten er meer camera's komen."
+        },
+        "127087": {
+          "position": "agree",
+          "explanation": "Dat blijf-van-lijf-huis is er al in de Vreeburglaan van Perspectief. Dit soort voorzieningen is nodig evenals woonhuizen waar beschermd gewoond kan worden en woonhuizen voor inwoners die niet in staat zijn hun eigen sociale woning te bewonen."
+        },
+        "127088": {
+          "position": "agree",
+          "explanation": "Als we boa's serieus willen nemen, dan zullen wij hen ook moeten uitrusten met de middelen die er zijn om te handhaven."
+        },
+        "127091": {
+          "position": "agree",
+          "explanation": "Gezien de woningnood moeten alle wegen bewandeld worden om goedkope woningen voor starters en jonge gezinnen te creëren. Als ombouw alleen mogelijk is met subsidie, dan dient de gemeente in principe bij te springen."
+        },
+        "127092": {
+          "position": "agree",
+          "explanation": "Alhoewel in Westland nog weinig studenten zijn, vatten we de vraag zo op dat bedoeld wordt jonge Westlanders die elders studeren en nog bij hun ouders wonen en die zelfstandig willen gaan wonen. Daarvoor zijn tijdelijke woningen nodig en de gemeente moet daarin investeren."
+        },
+        "127094": {
+          "position": "disagree",
+          "explanation": "Westland laat zich voorstaan op een gebied waarin het geweldig is om te wonen en te ondernemen. Bekend is dat veel Westlanders het financieel enorm goed hebben. Echter er zijn ook mensen die moeten rondkomen van een zeer laag inkomen. We noemen de vele inwoners die alleen een AOW-uitkering hebben."
+        },
+        "127095": {
+          "position": "agree",
+          "explanation": "Westland Verstandig is voor verhoging van de inkomensgrens bij toeslagen zoals het Kindpakket en bijzondere bijstand. We willen die allemaal op 130 procent van de bijstandsnorm stellen."
+        },
+        "127096": {
+          "position": "disagree",
+          "explanation": "In Westland is er vrij veel overlast van jongeren die overal rondhangen. Jongerenwerk vervult een belangrijke rol bij de oplossing van de overlast als wel de preventie. Daarop moet niet bezuinigd worden."
+        },
+        "127098": {
+          "position": "agree",
+          "explanation": "30 km betekent een kortere remweg en dat komt de verkeersveiligheid ten goede. In Westland gebeuren meer ongelukken dan in de meeste andere gemeentes, vandaar deze maatregel."
+        },
+        "127101": {
+          "position": "disagree",
+          "explanation": "De zorg is al lastig te organiseren en deze eis zou een extra drempel opwerpen. Dat willen we niet, los nog van de principiële kant van de keuze."
+        },
+        "127102": {
+          "position": "agree",
+          "explanation": "Uiteraard moet eerst op kwaliteit beoordeeld worden. Gezien de stijgende kosten bij jeugdhulp moet ook de financiële kant in de gaten gehouden worden. Het geld kan je tenslotte maar 1 keer uitgeven."
+        },
+        "127106": {
+          "position": "agree",
+          "explanation": "Maar dan wel op de goede plek. Die plek is er in Westland namelijk langs de A20 richting Rotterdam. In Westland zelf willen we geen uitbreidingen meer dan de bedrijventerreinen vanwege de woonbebouwing en de beperkte toegankelijkheid over de te oude wegenstructuur."
+        },
+        "127108": {
+          "position": "disagree",
+          "explanation": "Onze Westlandse inwoners die allang staan ingeschreven voor een woning moeten niet achtergesteld worden voor een zich pas meldende statushouder. Dat is niet eerlijk en niet uit te leggen."
+        },
+        "127111": {
+          "position": "agree",
+          "explanation": "Geen kind moet de basisschool verlaten zonder zwemdiploma. De gemeente moet dat financieel mogelijk maken."
+        },
+        "127116": {
+          "position": "agree",
+          "explanation": "Westland Verstandig is voor de hospitaregeling. Met dien verstande dat de bestaande regeling voor de huisvesting van arbeidsmigranten in bestaande woonhuizen in de dorpen gehandhaafd blijft. Dus geen tientallen arbeidsmigranten in een rijtjeshuis."
+        },
+        "127119": {
+          "position": "agree",
+          "explanation": "Nu is er een tekort en dat moet snel opgelost worden. Niet alleen in Naaldwijk maar ook in Monster, Wateringen en andere dorpen is grote nood aan parkeerplaatsen, met name op de vrijdag en zaterdag."
+        },
+        "127121": {
+          "position": "disagree",
+          "explanation": "Wij willen doorgaan in het huidige bestaande gebouw. Veel inwoners vinden dat een knus en gezellig theater en willen geen theater wat vele malen groter is. Ook vinden veel inwoners de €110.000.000 te veel en dat bedrag kan beter besteed worden aan wegen, fietspaden en stoepen."
+        },
+        "127123": {
+          "position": "agree",
+          "explanation": "Met name rond Wateringen, 's-Gravenzande, Poeldijk en Kwintsheul moeten nieuwe wegen worden aangelegd om het veel te drukke verkeer te ontlasten. In Naaldwijk hebben we al de Piet Struikweg en in De Lier de Oostelijke Randweg en tussen Kwintsheul en Wateringen de Van Luijkweg."
+        },
+        "127126": {
+          "position": "agree",
+          "explanation": "De huidige millieustraten liggen slecht en met name op zaterdag is er gezien het gebruik van de naburige sportterreinen file. Voorts kan het huidige terrein prima gebruikt worden voor seniorenhuisvesting. Een moderne milieustraat die goed bereikbaar is, moet dan er dan ook komen."
+        },
+        "127127": {
+          "position": "agree",
+          "explanation": "Westland groeit en als dat nodig is moeten de voorzieningen zoals sportterreinen meegroeien."
+        }
+      }
+    },
+    {
+      "id": 127044,
+      "name": "GemeenteBelang Westland",
+      "fullName": "GemeenteBelang Westland",
+      "website": "https://www.gbw.nu/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "127069": {
+          "position": "agree",
+          "explanation": "GBW gelooft in een kleine overheid en sterke samenleving. Inwoners kennen hun omgeving het best en kunnen taken efficiënter, goedkoper en met meer betrokkenheid uitvoeren."
+        },
+        "127071": {
+          "position": "agree",
+          "explanation": "Ondernemers weten zelf het best wat werkt. Minder regels vergroot vrijheid en economische dynamiek."
+        },
+        "127072": {
+          "position": "neither",
+          "explanation": "Initiatief is goed, maar subsidie alleen als het lokaal nut heeft en financieel verantwoord is."
+        },
+        "127073": {
+          "position": "neither",
+          "explanation": "Ruimte voor economie én leefbaarheid. Geen ideologische blokkades, maar maatwerk per locatie."
+        },
+        "127074": {
+          "position": "disagree",
+          "explanation": "Westland is vol. Gemeenten moeten niet disproportioneel belast worden zonder draagvlak."
+        },
+        "127075": {
+          "position": "agree",
+          "explanation": "Vrijheid van inwoners staat voorop. Geen extra verboden zolang gezondheid niet ernstig wordt geschaad."
+        },
+        "127078": {
+          "position": "disagree",
+          "explanation": "Gratis leidt tot misbruik en hogere kosten. Eigen verantwoordelijkheid is eerlijker."
+        },
+        "127080": {
+          "position": "disagree",
+          "explanation": "Ondernemers bepalen zelf investeringen. Gemeente moet niet alles subsidiëren."
+        },
+        "127082": {
+          "position": "disagree",
+          "explanation": "Waardevol, maar geen kerntaak van de gemeente."
+        },
+        "127085": {
+          "position": "agree",
+          "explanation": "Zichtbare handhaving vergroot veiligheid en leefbaarheid."
+        },
+        "127086": {
+          "position": "agree",
+          "explanation": "Effectief middel tegen criminaliteit, mits zorgvuldig toegepast."
+        },
+        "127087": {
+          "position": "agree",
+          "explanation": "Bescherming van kwetsbaren is een kerntaak van de overheid."
+        },
+        "127088": {
+          "position": "neither",
+          "explanation": "Veiligheid is belangrijk, maar proportionaliteit en opleiding zijn doorslaggevend."
+        },
+        "127091": {
+          "position": "disagree",
+          "explanation": "De markt kan dit vaak zelf. Subsidies verstoren eerlijke concurrentie."
+        },
+        "127092": {
+          "position": "disagree",
+          "explanation": "Westland is geen studentenstad; focus op lokale woonbehoefte."
+        },
+        "127094": {
+          "position": "agree",
+          "explanation": "Iedereen draagt bij. Gerichte hulp is beter dan generieke vrijstelling."
+        },
+        "127095": {
+          "position": "disagree",
+          "explanation": "Hulp moet gericht blijven op wie het echt nodig heeft."
+        },
+        "127096": {
+          "position": "disagree",
+          "explanation": "Preventie voorkomt grotere sociale problemen later."
+        },
+        "127098": {
+          "position": "neither",
+          "explanation": "Veiligheid en doorstroming vragen maatwerk per wijk."
+        },
+        "127101": {
+          "position": "disagree",
+          "explanation": "Kwaliteit en beschikbaarheid gaan vóór identiteit."
+        },
+        "127102": {
+          "position": "agree",
+          "explanation": "Betaalbaarheid is nodig om zorg toegankelijk te houden."
+        },
+        "127106": {
+          "position": "agree",
+          "explanation": "Ruimte voor werkgelegenheid en economische groei."
+        },
+        "127108": {
+          "position": "disagree",
+          "explanation": "Gelijke behandeling voor alle woningzoekenden."
+        },
+        "127111": {
+          "position": "neither",
+          "explanation": "Belangrijk, maar uitvoering ligt primair bij ouders en scholen."
+        },
+        "127116": {
+          "position": "neither",
+          "explanation": "Balans tussen woningdruk en leefbaarheid."
+        },
+        "127119": {
+          "position": "agree",
+          "explanation": "Bereikbaarheid is cruciaal voor economie."
+        },
+        "127121": {
+          "position": "agree",
+          "explanation": "Cultuur is belangrijk voor leefbaarheid."
+        },
+        "127123": {
+          "position": "neither",
+          "explanation": "Doorstroming verbeteren zonder onnodige verharding."
+        },
+        "127126": {
+          "position": "neither",
+          "explanation": "Alleen als noodzaak en locatie passend zijn."
+        },
+        "127127": {
+          "position": "agree",
+          "explanation": "Sport bevordert gezondheid en samenhang."
+        }
+      }
+    },
+    {
+      "id": 127045,
+      "name": "CDA",
+      "fullName": "Christen-Democratisch Appèl",
+      "website": "https://www.cda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "127069": {
+          "position": "agree",
+          "explanation": "CDA Westland ondersteunt inwoners die gemeentetaken in eigen hand willen nemen, bijvoorbeeld het groenonderhoud in de wijk. Wij ondersteunen inwoners en burgerinitiatieven die zichzelf hierop organiseren."
+        },
+        "127071": {
+          "position": "disagree",
+          "explanation": "CDA Westland luistert naar de behoefte van de ondernemers en houdt rekening met inwoners van de dorpscentra. De huidige regels bieden ruimte voor beide belangen. Ondernemers zijn hierover ook grotendeels tevreden."
+        },
+        "127072": {
+          "position": "agree",
+          "explanation": "CDA Westland ondersteunt de verdere verduurzaming in onze gemeente. We ondersteunen bestaande subsidieregelingen en initiatieven om mensen te laten verduurzamen, zoals de aanleg van kabelgoottegels voor het opladen van elektrische auto's en de fixbrigade voor mensen met lage inkomens."
+        },
+        "127073": {
+          "position": "agree",
+          "explanation": "Westland kent al veel bedrijventereinen. CDA Westland vindt dat er geen ruimte is voor nieuwe distributiecentra die niets te maken hebben met de glastuinbouw. De afgelopen periode is daarnaast Honderdland in Maasdijk afgebouwd en is het besluit genomen om ABC Westland in Poeldijk uit te breiden."
+        },
+        "127074": {
+          "position": "disagree",
+          "explanation": "Westland vangt al relatief meer Oekraïense vluchtelingen en statushouders op dan omliggende gemeenten. Daarnaast heeft onze gemeente veel arbeidsmigranten te huisvesten. CDA Westland vindt dat we ons steentje moeten bijdragen op een passende manier. Daar past een grootschalig azc niet bij."
+        },
+        "127075": {
+          "position": "agree",
+          "explanation": "CDA Westland vindt dat de gemeente hier geen extra voorschriften over moet opnemen. Inwoners moeten rekening houden met elkaar en dienen zich te houden aan landelijke adviezen voor houtstook."
+        },
+        "127078": {
+          "position": "disagree",
+          "explanation": "CDA Westland wil de kosten voor het ophalen van grofvuil (17,50 per keer) handhaven. Inwoners kunnen nog steeds gratis naar de gemeentewerf."
+        },
+        "127080": {
+          "position": "agree",
+          "explanation": "CDA Westland vindt dat werkgevers, verenigingen en vrijwilligersorganisaties gestimuleerd moeten worden hun organisatie open en toegankelijk te maken. De gemeente kan ondersteunen in samenwerking met Platform Gehandicapten Westland (PGW)."
+        },
+        "127082": {
+          "position": "agree",
+          "explanation": "CDA Westland is voorstander van de huidige vormen van muziekles. In samenwerking met Westland Cultuurweb moedigen we de gemeente aan om muziekonderwijs te ondersteunen en uit te breiden."
+        },
+        "127085": {
+          "position": "agree",
+          "explanation": "CDA Westland wil meer blauw op straat. We steunen daarom de inzet van de burgemeester voor meer wijkagenten en boa's. De gemeente moet over voldoende boa's en wijkagenten beschikken die toezicht houden in de wijken en de dorpscentra, en aanspreekbaar zijn voor de inwoners."
+        },
+        "127086": {
+          "position": "agree",
+          "explanation": "CDA Westland wil vaker gericht camertoezicht inzetten. We maken het mogelijk dat er extra toezicht, camera's en handhaving komt op plekken waar vaak overlast is."
+        },
+        "127087": {
+          "position": "agree",
+          "explanation": "Huiselijk geweld is een groot en groeiend probleem. Mensen moeten daarom altijd een veilige plek kunnen vinden. CDA Westland vindt dat we dit in onze regio goed moeten regelen door samenwerking met Veilig Thuis Haaglanden en het onderzoeken van andere initiatieven."
+        },
+        "127088": {
+          "position": "agree",
+          "explanation": "CDA Westland is voorstander van meer veiligheidsmiddelen voor boa's. De mogelijkheid voor een wapenstok moet er zijn. We willen dat de gemeente gaat kijken onder welke voorwaarde dit kan worden ingevoerd."
+        },
+        "127091": {
+          "position": "agree",
+          "explanation": "CDA Westland is groot voorstander van het transformeren van bedrijfspanden en kantoren naar woningen. Dit moet gebeuren op plekken waar bedrijven zich niet meer willen vestigen."
+        },
+        "127092": {
+          "position": "agree",
+          "explanation": "CDA Westland is voorstander van het creëren van een flexibele schil aan huisvesting in Westland. Deze woningen kunnen gebruikt worden voor allerlei doelgroepen, zoals gescheiden mensen."
+        },
+        "127094": {
+          "position": "agree",
+          "explanation": "CDA Westland is voorstander van het zo min mogelijk kwijtschelden van gemeentelijke belastingen. In Westland doen we dit alleen nog voor de afvalstoffenheffing en de rioolheffing. We houden oog voor het mensenlijke aspect en blijven mensen ondersteunen die in de armoede zitten."
+        },
+        "127095": {
+          "position": "agree",
+          "explanation": "CDA Westland vindt dat armoede bij Westlanders niet langdurig mag bestaan. De gemeente moet daarom inwoners ondersteunen. Dit kan bijvoorbeeld door het helpen vinden van zinvol werk."
+        },
+        "127096": {
+          "position": "disagree",
+          "explanation": "CDA Westland is voorstander van het jongerenwerk van Vitis Welzijn. Zij zijn een onmisbare schakel in het tegengaan van overlast door hangjeugd en begeleiden jongeren in hun werk en opleiding. De jongerenwerkers kunnen ook op tijd beginnende criminaliteit signaleren."
+        },
+        "127098": {
+          "position": "disagree",
+          "explanation": "CDA Westland is tegen het standaard verlagen van de maximumsnelheid. De doorstroming in het verkeer is ook belangrijk. We blijven aandacht houden voor onveilige verkeerssituaties."
+        },
+        "127101": {
+          "position": "agree",
+          "explanation": "CDA Westland vindt dat mensen vrije keuze moeten hebben in hun zorgverlener."
+        },
+        "127102": {
+          "position": "disagree",
+          "explanation": "CDA Westland vindt dat de kwaliteit van jeugdzorg het belangrijkst is. We hebben daarbij ook aandacht voor de kosten."
+        },
+        "127106": {
+          "position": "disagree",
+          "explanation": "CDA Westland is tegen het aanleggen van meer bedrijventerreinen in Westland. In de afgelopen jaren is Honderdland in Maasdijk afgebouwd en goedkeuring gekomen voor de uitbreiding van ABC Westland in Poeldijk. We willen in de komende vier jaar daarom eerst een visie op onze bedrijventerreinen."
+        },
+        "127108": {
+          "position": "disagree",
+          "explanation": "CDA Westland vindt dat de gemeente zelf gaat over de regels omtrent wie wanneer voorrang krijgt op een sociale huurwoning. Westland kan dit zelf het beste invullen. We houden ons aan onze taakstelling vanuit de provincie voor de opvang van statushouders."
+        },
+        "127111": {
+          "position": "agree",
+          "explanation": "CDA Westland is voorstander van het beschikbaar maken van schoolzwemmen voor mensen met een laag inkomen via het Kindpakket."
+        },
+        "127116": {
+          "position": "disagree",
+          "explanation": "CDA Westland wil zo veel mogelijk aanmoedigen om hele woningen te verhuren, om overzicht te houden en de parkeerproblematiek zo klein mogelijk te houden. In bepaalde omstandigheden moet wel gekeken worden of woningsplitsing van hele huizen een oplossing kan bieden."
+        },
+        "127119": {
+          "position": "agree",
+          "explanation": "CDA Westland ziet dat parkeren in Naaldwijk nu vaak overdag al een uitdaging is en om extra aandacht vraagt. Hier moeten oplossingen voor komen door het realiseren van meer parkeerplekken. We doen dit in de bredere ontwikkelingen van het 'Verdi-gebied'."
+        },
+        "127121": {
+          "position": "agree",
+          "explanation": "CDA Westland zorgt dat de al vastgestelde plannen voor de nieuwbouw van WestlandTheater De Naald doorgaan. De nieuwbouw zorgt dat Westlanders van cultuur en film kunnen blijven genieten."
+        },
+        "127123": {
+          "position": "agree",
+          "explanation": "CDA Westland ziet dat er steeds minder ruimte in Westland is om meer wegen aan te leggen. We zijn voorstander van het blijvend verbeteren van de doorstroming, bijvoorbeeld door de weg opnieuw in te delen of extra asfalt neer te leggen."
+        },
+        "127126": {
+          "position": "disagree",
+          "explanation": "CDA Westland vindt dat de huidige twee milieustraten genoeg mogelijkheden bieden om grofvuil gratis weg te brengen. Hiervoor is het niet nodig om een extra milieustraat te openen."
+        },
+        "127127": {
+          "position": "agree",
+          "explanation": "CDA Westland is voorstander van de uitbreiding van sportparken. Dit doen we in goed overleg met onze sportverenigingen. De afgelopen periode hebben wij dit al gedaan bij de besluiten voor de uitbreiding van het sportpark in De Lier en in Naaldwijk."
+        }
+      }
+    },
+    {
+      "id": 127046,
+      "name": "LPF Westland",
+      "fullName": "LPF Westland",
+      "website": "https://www.lpfwestland.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "127069": {
+          "position": "disagree",
+          "explanation": "Er is reeds belasting betaald voor beheer. De gemeente moet dit gewoon goed regelen."
+        },
+        "127071": {
+          "position": "disagree",
+          "explanation": "Er moeten wel ruime sluitingstijden zijn, maar er mag geen wildgroei ontstaan met mogelijke overlast voor omwonenden."
+        },
+        "127072": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "127073": {
+          "position": "disagree",
+          "explanation": "Westland is een bedrijvige gemeente waar distributie van groenten en fruit zeer belangrijk is."
+        },
+        "127074": {
+          "position": "disagree",
+          "explanation": "Asielproblemen moeten aan de bron worden opgepakt en niet afgewenteld op gemeenten. Een streng toelatingsbeleid en terugkeerbeleid bij illegaal verblijf."
+        },
+        "127075": {
+          "position": "agree",
+          "explanation": "Er is al genoeg betutteling in Nederland."
+        },
+        "127078": {
+          "position": "disagree",
+          "explanation": "Dit is een extra inspanning en moet wel mogelijk zijn, maar tegen werkelijke kosten (perceptiekosten)."
+        },
+        "127080": {
+          "position": "disagree",
+          "explanation": "De ondernemer moet afhankelijk van businessmodel zelf bepalen of deze voorziening nodig is."
+        },
+        "127082": {
+          "position": "neither",
+          "explanation": "De scholen moeten dit zelf faciliteren."
+        },
+        "127085": {
+          "position": "neither",
+          "explanation": "Er is vooral behoefte aan meer politieagenten op straat."
+        },
+        "127086": {
+          "position": "agree",
+          "explanation": "Zeker op kritieke locaties."
+        },
+        "127087": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "127088": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "127091": {
+          "position": "neither",
+          "explanation": "Mits de locatie en doelgroep voldoet aan de gewenste norm. Westlandse jeugd en starters moeten hierbij voorrang hebben."
+        },
+        "127092": {
+          "position": "disagree",
+          "explanation": "De ruimte is te beperkt."
+        },
+        "127094": {
+          "position": "agree",
+          "explanation": "Je hebt immers inkomen. Indien er sprake is bijstandsniveau, dan zou het kunnen."
+        },
+        "127095": {
+          "position": "neither",
+          "explanation": ""
+        },
+        "127096": {
+          "position": "neither",
+          "explanation": "Er moet effectief worden ingekocht."
+        },
+        "127098": {
+          "position": "neither",
+          "explanation": "Alleen op die wegen waar het ook qua inrichting logisch is."
+        },
+        "127101": {
+          "position": "neither",
+          "explanation": ""
+        },
+        "127102": {
+          "position": "neither",
+          "explanation": "Er moet gelet worden op meetbare kwaliteit."
+        },
+        "127106": {
+          "position": "neither",
+          "explanation": "Voor zover die inpasbaar zijn in de openbare ruimte."
+        },
+        "127108": {
+          "position": "disagree",
+          "explanation": "Westlandse eigen inwoners dienen altijd voorrang te hebben."
+        },
+        "127111": {
+          "position": "agree",
+          "explanation": "Zeer belangrijk in onze gemeente met veel watergangen en grenzend aan de Noordzee."
+        },
+        "127116": {
+          "position": "disagree",
+          "explanation": "Verkamering leidt tot schrijnende toestanden."
+        },
+        "127119": {
+          "position": "agree",
+          "explanation": "Die hadden er al moeten zijn. Maar zijn in 2009 vakkundig afgeschoren door partijen die het centrumplan Verdilaan afschoten."
+        },
+        "127121": {
+          "position": "agree",
+          "explanation": "De kosten voor het in stand houden van het reeds vervallen gebouw reizen de pan uit. Westland heeft inmiddels 120.000 inwoners en heeft daar een goed nieuw theater bij nodig."
+        },
+        "127123": {
+          "position": "agree",
+          "explanation": "Indien de ruimte dat toelaat"
+        },
+        "127126": {
+          "position": "agree",
+          "explanation": "Er zijn reeds plannen voor."
+        },
+        "127127": {
+          "position": "agree",
+          "explanation": "Met het toenemen van het aantal inwoners ook zeer nodig."
+        }
+      }
+    },
+    {
+      "id": 127047,
+      "name": "VVD",
+      "fullName": "Volkspartij voor Vrijheid en Democratie",
+      "website": "https://www.vvd.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "127069": {
+          "position": "neither",
+          "explanation": "Dit is eenvoudiger gezegd dan gedaan en daarnaast kun je een plantsoen en een sporthal ook niet met elkaar vergelijken. De exploitatie van een sporthal gebeurt vaak al buiten de gemeente om. Zelf plantsoenen beheren kan in sommige gevallen al en moeten we ook stimuleren als inwoners dat willen."
+        },
+        "127071": {
+          "position": "neither",
+          "explanation": "De Westlandse VVD is voor het verruimen van openingstijden, die wel door de gemeente worden bepaald. Ondernemers kunnen vervolgens zelf beslissen of zij gebruik willen maken van deze verruimde openingstijden."
+        },
+        "127072": {
+          "position": "agree",
+          "explanation": "Als de gemeente Westland een slag wil maken op de verduurzaming, moeten ook inwoners hierin ondersteund worden."
+        },
+        "127073": {
+          "position": "agree",
+          "explanation": "In Westland is geen plek voor opslaglocaties van bijvoorbeeld een Bol.com of Zalando."
+        },
+        "127074": {
+          "position": "disagree",
+          "explanation": "Westland is een dichtbebouwde en dichtbevolkte gemeente, er is een grote schaarste aan woningen, er is een toenemende behoefte aan bedrijfsruimte en we willen ook allemaal graag recreëren in een groene omgeving. Er is geen plek voor een azc."
+        },
+        "127075": {
+          "position": "agree",
+          "explanation": "Een gezellig vuurtje moet mogelijk blijven en de betutteling moet niet doorslaan."
+        },
+        "127078": {
+          "position": "disagree",
+          "explanation": "In Westland hebben we goed toegankelijke gemeentewerven. Deze zijn gratis en dat moet zo blijven."
+        },
+        "127080": {
+          "position": "disagree",
+          "explanation": "De Westlandse VVD vindt het belangrijk dat mensen met een beperking volledig mee kunnen draaien in de samenleving. Echter ligt hier ook een taak voor ondernemers zelf."
+        },
+        "127082": {
+          "position": "disagree",
+          "explanation": "Elk kind verdient het om zijn/haar talenten te ontwikkelen en deze mogelijkheden zijn er ook via de Westlandpas en het Kindpakket voor hen die dit niet kunnen betalen. Er moeten echter wel keuzes gemaakt worden en niet iedereen kan alles doen."
+        },
+        "127085": {
+          "position": "agree",
+          "explanation": "Veiligheid begint dichtbij huis en de Westlandse VVD wil meer boa's die zichtbaar en aanspreekbaar zijn in de wijk."
+        },
+        "127086": {
+          "position": "agree",
+          "explanation": "De politie en handhaving kan helaas niet altijd en overal aanwezig zijn, Daarom is de Westlandse VVD van mening dat op plekken waar voor langere tijd overlast is en het veiligheidsgevoel aangetast wordt, en bijvoorbeeld plekken waar er veel criminaliteit plaatsvindt, het een goed alternatief is"
+        },
+        "127087": {
+          "position": "agree",
+          "explanation": "Geweld heeft een enorme impact op iemands leven. Het is dan ook belangrijk dat iemand in een eigen vertrouwde omgeving kan blijven. De eventuele komst van zo'n huis moet wel gebeuren in overleg met omliggende gemeenten."
+        },
+        "127088": {
+          "position": "agree",
+          "explanation": "Boa's moeten zich veilig voelen en zichzelf (indien nodig) kunnen verdedigen."
+        },
+        "127091": {
+          "position": "neither",
+          "explanation": "Oplossingen zoals het ombouwen van oude kantoorpanden naar woningen, moeten tot de mogelijkheden behoren. Van de gemeente wordt een proactieve rol verwacht, dat betekent niet direct dat zij alles moet betalen. Daarnaast hebben we in Westland ook een grote vraag naar kantoorruimte."
+        },
+        "127092": {
+          "position": "agree",
+          "explanation": "De Westlandse VVD wil inzetten op creatieve oplossingen om het huidige tekort te lijf te gaan en dit hoeft wat ons betreft ook niet alleen voor studenten te zijn."
+        },
+        "127094": {
+          "position": "agree",
+          "explanation": "Het kwijtschelden van gemeentelijke belastingen is niet eerlijk."
+        },
+        "127095": {
+          "position": "disagree",
+          "explanation": "Werken moet lonen en dat stimuleren we niet door de inkomensgrens om hulp te krijgen bij armoede te verhogen."
+        },
+        "127096": {
+          "position": "disagree",
+          "explanation": "Nu geld steken in jongerenwerk, kan voorkomen dat er ergere (en duurdere) problemen ontstaan. Jongerenwerk is preventief, laat jongeren meedoen en voorkomt zwaardere problemen op latere leeftijd. Uiteraard moet dit wel zo effectief en efficiënt mogelijk."
+        },
+        "127098": {
+          "position": "disagree",
+          "explanation": "In gebieden waar de verkeersveiligheid in het geding is, kan dit een oplossing zijn. De Westlandse VVD is er echter niet voor om dit overal toe te passen."
+        },
+        "127101": {
+          "position": "disagree",
+          "explanation": "Passende zorg is belangrijk, maar beschikbaarheid en kwaliteit zijn leidend."
+        },
+        "127102": {
+          "position": "disagree",
+          "explanation": "De prijs speelt mee, maar kwaliteit is minstens zo belangrijk."
+        },
+        "127106": {
+          "position": "neither",
+          "explanation": "We moeten onze ondernemers de ruimte bieden. Er is een grote vraag naar bedrijventerreinen en dat moeten we blijven faciliteren, maar een en ander moet wel in evenwicht blijven met bijvoorbeeld de woningopgave."
+        },
+        "127108": {
+          "position": "disagree",
+          "explanation": "Het kan niet zo zijn dat een Westlander al jaren op een wachtlijst voor een woning staat en dat er voor een vluchteling met een verblijfsvergunning direct een woning is."
+        },
+        "127111": {
+          "position": "agree",
+          "explanation": "Het is belangrijk dat ieder kind zwemvaardig is in een gemeente aan zee."
+        },
+        "127116": {
+          "position": "disagree",
+          "explanation": "Dit tast de leefbaarheid in een wijk aan."
+        },
+        "127119": {
+          "position": "agree",
+          "explanation": "Dit geldt echter niet alleen voor Naaldwijk, maar ook voor andere dorpskernen."
+        },
+        "127121": {
+          "position": "agree",
+          "explanation": "Het huidige theater is aan het einde van haar levensduur. Het nemen van opknapmaatregelen is op de langere termijn niet rendabel. Daarom wil de Westlandse VVD kiezen voor een nieuw theater waarin we weer ruim 50 jaar vooruit kunnen."
+        },
+        "127123": {
+          "position": "agree",
+          "explanation": "Er komen steeds meer woningen bij en als er geen wegen bij komen, dan gaat dat ten koste van de bereikbaarheid en de doorstroming."
+        },
+        "127126": {
+          "position": "disagree",
+          "explanation": "Er zijn voldoende milieustraten in Westland."
+        },
+        "127127": {
+          "position": "agree",
+          "explanation": "De sportfaciliteiten moeten meegroeien met het aantal inwoners van Westland. Het is belangrijk dat iedereen die wil sporten ook kan sporten en niet tegengehouden wordt door wachtlijsten."
+        }
+      }
+    },
+    {
+      "id": 127049,
+      "name": "GroenLinks-PvdA",
+      "fullName": "Groenlinks - Partij van de Arbeid",
+      "website": "https://groenlinkspvda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "127069": {
+          "position": "agree",
+          "explanation": "Zelfbeheer van plantsoenen door de buurt leidt nu al tot een verbetering in de kwaliteit en uitstraling van de plantsoenen. Het overnemen van het beheer van gemeentelijke gebouwen, zoals een sporthal, moet onder duidelijke voorwaarden ook mogelijk zijn."
+        },
+        "127071": {
+          "position": "disagree",
+          "explanation": "Ondernemers kunnen best meer flexibiliteit krijgen in hun openingstijden, maar dit moeten zij niet volledig zelf mogen bepalen. Verruiming van openingstijden moet gebeuren in overleg met de gemeente en de omgeving."
+        },
+        "127072": {
+          "position": "agree",
+          "explanation": "Dit is het ideale plaatje: inwoners wekken samen hun eigen groene en betaalbare stroom op met zonnepanelen. Ze gebruiken de stroom op dezelfde plek, dus het net wordt niet belast."
+        },
+        "127073": {
+          "position": "agree",
+          "explanation": "Er zijn de afgelopen jaren al veel te veel enorme distributiecentra gebouwd in Nederland die het landschap verpesten. Kleinschalige distributiecentra die gericht zijn op de Westlandse economie en de glastuinbouw kunnen onder voorwaarden wel worden toegestaan."
+        },
+        "127074": {
+          "position": "agree",
+          "explanation": "Door de spreidingswet is de gemeente verplicht om bij te dragen aan het opvangen van asielzoekers. Door inwoners vanaf het begin goed te informeren en duidelijke voorwaarden op te stellen, is dit volgens GroenLinks-PvdA Westland ook haalbaar."
+        },
+        "127075": {
+          "position": "disagree",
+          "explanation": "Houtstook veroorzaakt relatief veel overlast voor de omgeving en moet worden teruggedrongen. Zeker op momenten waarop de rook lang blijft hangen moet dit worden verboden."
+        },
+        "127078": {
+          "position": "disagree",
+          "explanation": "Vuilnis, oude matrassen en andere rommel op straat zijn vervelend, onveilig en ongezond. Door dit volledig gratis te maken wordt de verrommeling op straat juist groter. De huidige kleine financiële bijdrage als prijsprikkel werkt daarin beter."
+        },
+        "127080": {
+          "position": "disagree",
+          "explanation": "Toegankelijkheid is voor mensen met een beperking van levensbelang. De verplichting tot het toegankelijk maken van gebouwen van ondernemers ligt echter bij de ondernemers zelf. De gemeente kan ondernemers wel helpen met informatie over de mogelijke stappen."
+        },
+        "127082": {
+          "position": "agree",
+          "explanation": "Zelfontplooiing is belangrijk voor kinderen, muziek kan daar aan bijdragen. GroenLinks-PvdA Westland wil dat elke basisschoolleerling een aantal gratis muzieklessen kan krijgen met verschillende instrumenten om te ontdekken of dat bij de leerling past."
+        },
+        "127085": {
+          "position": "agree",
+          "explanation": "Recent is het aantal handhavers al uitgebreid. We willen kijken of deze uitbreiding voldoende is voor Westland en indien nodig nog verder opschalen in het aantal handhavers."
+        },
+        "127086": {
+          "position": "disagree",
+          "explanation": "Het is heel belangrijk om je veilig te voelen op straat. Maar meer camera's vinden wij niet de juiste oplossing. Je privacy is een groot goed dat niet zomaar mag worden aangetast. Daarom kiezen wij eerder voor meer handhavers op straat, die ook meteen kunnen ingrijpen als er iets misgaat."
+        },
+        "127087": {
+          "position": "agree",
+          "explanation": "Als je je thuis niet meer veilig voelt, dan moet er een plek zijn waar je altijd naartoe kunt. Een blijf-van-mijn-lijf-huis is onmisbaar voor onze gemeente."
+        },
+        "127088": {
+          "position": "disagree",
+          "explanation": "Het geweldsmonopolie moet blijven liggen bij de politie, die ook opgeleid is om daar zorgvuldig mee om te kunnen gaan."
+        },
+        "127091": {
+          "position": "disagree",
+          "explanation": "In Westland is ook een tekort aan kantoorruimte, daarnaast staan kantoorpanden vaak op locaties waar een goed leefklimaat onvoldoende gegarandeerd kan worden. Op de plekken waar dit wel tot de mogelijkheden behoort, zouden de kosten voor de transformatie moeten liggen bij de ontwikkelaar."
+        },
+        "127092": {
+          "position": "agree",
+          "explanation": "Met de ontwikkeling van de Flora Campus is de verwachting dat het aantal studenten zal toenemen. Die moeten ook binnen Westland kunnen wonen. In de plannen van de Flora Campus is ook ruimte opgenomen voor studentenhuisvesting. De gemeente moet goed monitoren of deze huisvesting voldoende is."
+        },
+        "127094": {
+          "position": "disagree",
+          "explanation": "Als het kwijtschelden van gemeentelijke belastingen stopt, komen de mensen met de laagste inkomens van onze gemeente in grote problemen. Zij kunnen dat geld gewoon niet missen. Wij vinden dat iedereen zijn hoofd boven water moet kunnen houden, daarom zijn we voor kwijtschelding."
+        },
+        "127095": {
+          "position": "agree",
+          "explanation": "Wij zien een toename van mensen die in armoede leven, maar net niet in aanmerking komen voor de regelingen van de armoedebestrijding. Daarom willen we de inkomensgrens verhogen zodat meer mensen hiervoor in aanmerking komen."
+        },
+        "127096": {
+          "position": "disagree",
+          "explanation": "Jongerenwerk zorgt ervoor dat jongeren minder makkelijk de verkeerde kant op gaan en vergroot het aantal jongeren dat later een productief onderdeel wordt van de samenleving. Investeringen in jongerenwerk besparen op de lange termijn geld voor bijstand en zorg voor volwassenen."
+        },
+        "127098": {
+          "position": "agree",
+          "explanation": "De cijfers laten heel duidelijk zien: met een lagere maximumsnelheid wordt het verkeer in onze gemeente véél veiliger. Voor fietsende kinderen en ouderen die slecht ter been zijn is dit een wereld van verschil. Alleen afgescheiden toegangswegen kunnen 50 km/u zijn."
+        },
+        "127101": {
+          "position": "agree",
+          "explanation": "Vrije keuze voor een zorgaanbieder waar een zorgvrager zich prettig bij voelt is belangrijk. De voorkeur van mensen moet daarin goed worden meegenomen."
+        },
+        "127102": {
+          "position": "disagree",
+          "explanation": "De wachtlijsten en problemen in de jeugdhulp en jeugdzorg zijn gigantisch. Dit los je niet op met meer bezuinigen. We moeten vooral zorgen voor zekerheid en hulp bieden die aansluit op de zorgen van onze jeugd. De kwaliteit en bereikbaarheid van zorg mogen niet lijden onder een prijsprikkel."
+        },
+        "127106": {
+          "position": "disagree",
+          "explanation": "Met de huidige terreinen en de terreinen die al in ontwikkeling zijn zou Westland voorlopig vooruit moeten kunnen. Het is wel belangrijk om dit in de gaten te houden en tijdig nieuwe bedrijventerreinen te ontwikkelen, als de toekomstige ontwikkelingen daarom vragen."
+        },
+        "127108": {
+          "position": "agree",
+          "explanation": "De gemeente moet voldoen aan haar plicht tot het huisvesten van statushouders. Als daarbij voorrang op een sociale huurwoning echt nodig is, dan moet die mogelijkheid er zijn."
+        },
+        "127111": {
+          "position": "agree",
+          "explanation": "Nederland is een waterland en elk kind hoort te leren zwemmen. Ook kinderen wiens ouders geen eigen zwemles kunnen betalen. Helaas is dit nog steeds niet eerlijk geregeld. Schoolzwemmen is wel een flinke belasting qua tijd en organisatie voor scholen. Het moet dus geen verplichting worden."
+        },
+        "127116": {
+          "position": "agree",
+          "explanation": "We hebben een enorm woningtekort en veel mensen in onze gemeente wonen ruimer dan eigenlijk nodig. Daarom willen wij het makkelijker maken voor mensen om in hun eigen huis losse kamers te verhuren, als die maar goed onderhouden zijn en je er een eerlijke huurprijs voor betaalt."
+        },
+        "127119": {
+          "position": "disagree",
+          "explanation": "Op dit moment voldoet het aantal parkeerplaatsen in het centrum van Naaldwijk aan de behoefte. Wij zien meer in het promoten van het gebruik van de fiets voor het uitgaan en kleine boodschappen."
+        },
+        "127121": {
+          "position": "agree",
+          "explanation": "Het theater is in de huidige vorm op en voldoet niet langer aan richtlijnen en voorschriften. Het huidige theater grondig verbouwen kost ook veel geld en gaat ten koste van nog eens 70 zitplaatsen in de grote zaal. Wij kiezen voor de enige optie om film en theater bereikbaar te houden."
+        },
+        "127123": {
+          "position": "disagree",
+          "explanation": "Westland moet zorgen dat de bereikbaarheid op orde is en blijft. Een groei in inwonersaantal betekent automatisch ook dat er investeringen in de infrastructuur nodig zijn. Daarbij moet een balans gezocht worden waarbij het openbaar vervoer, de fiets en lopen volwaardige alternatieven zijn voor autogebruik"
+        },
+        "127126": {
+          "position": "agree",
+          "explanation": "De inrichting en de bereikbaarheid van de huidige milieustraat laten te wensen over, wat niet op te lossen is binnen de huidige locatie."
+        },
+        "127127": {
+          "position": "agree",
+          "explanation": "Sportparken moeten meegroeien met de vraag. Met het stijgende inwonersaantal stijgt het aantal sporters ook mee. De gemeente pakt dit al voortvarend op, met aangekondigde uitbreidingen in De Lier, Naaldwijk en Honselersdijk. Dit beleid moet naar de toekomst toe worden doorgezet."
+        }
+      }
+    },
+    {
+      "id": 127048,
+      "name": "D66",
+      "fullName": "D66",
+      "website": "https://d66.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "127069": {
+          "position": "agree",
+          "explanation": "Samen werken aan de gemeente draagt bij aan een sterke cohesie."
+        },
+        "127071": {
+          "position": "disagree",
+          "explanation": "Afhankelijk van de situatie en de impact op de samenleving. Waar een deel behoefte aan heeft, kan voor de ander leiden tot overlast."
+        },
+        "127072": {
+          "position": "disagree",
+          "explanation": "Waar mogelijk steun van gemeente in uitvoering, maar niet financieel."
+        },
+        "127073": {
+          "position": "disagree",
+          "explanation": "Als we kiezen voor een uitbreiding van de logistieke sector, dan alleen langs de Westlandroute of A20, met focus op automatisering en verwerking van eigen producten."
+        },
+        "127074": {
+          "position": "agree",
+          "explanation": "D66 steunt een landelijke spreiding bij de opvang van asielzoekers en zorg voor mensen die vluchten voor oorlog of onveiligheid. Dit betekent dus ook kleinschalige opvang in Westland. Een uitdaging om werkelijkheid te maken, maar ook onze verantwoordelijkheid."
+        },
+        "127075": {
+          "position": "agree",
+          "explanation": "Waarbij we inwoners stimuleren rekening te houden met de Stookwijzer van het RIVM."
+        },
+        "127078": {
+          "position": "disagree",
+          "explanation": "Het huidige systeem van een kleine bijdrage (€12,50) werkt voldoende. De kosten voor inwoners zijn beperkt, maar maken het systeem wel kostendekkend."
+        },
+        "127080": {
+          "position": "agree",
+          "explanation": "Verantwoordelijkheid en keuze voor de ondernemer. Een subsidieregeling is een mogelijke tussenoplossing."
+        },
+        "127082": {
+          "position": "agree",
+          "explanation": "Via scholen dienen kinderen in aanraking te komen met muziek, dans, kunst en andere vormen van expressie. In gezamenlijkheid met elkaar en onder begeleiding van professionals. D66 Westland staat voor het uitbreiden van de programma's van Cultuurweb Westland. Niet individueel, maar samen ontdekken."
+        },
+        "127085": {
+          "position": "neither",
+          "explanation": "Handhaving levert maar deels een bijdrage aan het veiligheidsgevoel. D66 Westland is van mening dat er voldoende boa's zijn. Er is ruimte om te investeren in andere zaken die het veiligheidsgevoel vergroten. Bijvoorbeeld de kwaliteit van de openbare ruimte en straatverlichting."
+        },
+        "127086": {
+          "position": "disagree",
+          "explanation": "Inzet van cameratoezicht is gebonden aan strikte regels. De politiek heeft daar weinig over te zeggen. D66 Westland is voor cameratoezicht als daartoe noodzaak is. Op dit moment is daar geen aanleiding toe. Mocht dat noodzakelijk zijn dan overwegen, van tijdelijke of blijvende aard."
+        },
+        "127087": {
+          "position": "agree",
+          "explanation": "Er is een blijf-van-mijn-lijf huis in het Westland. Dit moet behouden blijven. Naast opvang voor vrouwen moet er ook gewerkt worden aan oplossingen om de dader uit de situatie te halen, bijvoorbeeld door een huisverbod. Zo blijven slachtoffer en kinderen in eigen omgeving."
+        },
+        "127088": {
+          "position": "disagree",
+          "explanation": "Geen noodzaak voor."
+        },
+        "127091": {
+          "position": "disagree",
+          "explanation": "Leegstand moet ontmoedigd worden, maar ten koste van diegene die het leeg laat staan. De gemeente financiert niet het oplossen van langdurige leegstand."
+        },
+        "127092": {
+          "position": "neither",
+          "explanation": "Problematiek speelt hier niet voor studenten, wel voor arbeidsmigranten."
+        },
+        "127094": {
+          "position": "disagree",
+          "explanation": "Een goede regeling die we willen handhaven en verder willen onderzoeken op de uitvoering hiervan."
+        },
+        "127095": {
+          "position": "agree",
+          "explanation": "Inwoners die richting de armoedegrens bewegen, kunnen we beter eerder helpen om te voorkomen dat men in de armoede raakt. Sneller helpen is beter voor de inwoner en de gemeente."
+        },
+        "127096": {
+          "position": "disagree",
+          "explanation": "Jongerenwerk is belangrijk in vroegtijdige signalering en preventie van toekomstige problemen bij en met jongeren. Deze waardevolle rol willen we niet kwijt."
+        },
+        "127098": {
+          "position": "agree",
+          "explanation": "In de basis is de verkeerssituatie leidend. Algemeen genomen is 30 km/u de norm, maar in verband met veiligheid of sluipverkeer kunnen er andere afwegingen gemaakt worden. Dit is in 2025 gedaan door de gemeente."
+        },
+        "127101": {
+          "position": "neither",
+          "explanation": "In de basis moet iedereen een keuze hebben. In de praktijk zal dat niet altijd mogelijk zijn."
+        },
+        "127102": {
+          "position": "disagree",
+          "explanation": "Kwaliteit moet voorop staan. Investeren in preventie voorkomt toekomstig hoge kosten bij verdere zorgverlening."
+        },
+        "127106": {
+          "position": "agree",
+          "explanation": "D66 is voor gerichte uitbreidingen die het economisch karakter van het Westland versterken en uitbreiden, bijvoorbeeld de Flora Campus. Voor uitbreiding van de logistieke sector, dan alleen langs de Westlandroute of A20, met focus op automatisering en verwerking van eigen producten"
+        },
+        "127108": {
+          "position": "agree",
+          "explanation": "We nemen onze verantwoordelijkheid voor het huisvesten van statushouders. Daarbij is het doel om de beschikbare sociale huurwoningen goed verdelen en statushouders verdelen over de gemeente."
+        },
+        "127111": {
+          "position": "disagree",
+          "explanation": "Er is geen schoolzwemmen. De gemeente zorgt voor voldoende zwemwater. Voor inwoners die financiële ondersteuning nodig hebben zijn er regelingen beschikbaar om toch zwemles aan te kunnen bieden."
+        },
+        "127116": {
+          "position": "agree",
+          "explanation": "Volgens D66 is hospitaverhuur een eenvoudige en snelle manier om meer woonruimte te creëren. Studenten, starters en jongeren kunnen zo sneller een plek vinden, terwijl oudere inwoners of alleenwonenden een extra inkomen en gezelschap krijgen."
+        },
+        "127119": {
+          "position": "disagree",
+          "explanation": "We zetten in op autoluwe dorpscentra. Dit houdt in: parkeren aan de randen, fietsers en voetgangers centraal."
+        },
+        "127121": {
+          "position": "agree",
+          "explanation": "Een nieuw theater is noodzakelijk in verband met de staat van de huidige Naald. Verbouwing lost de problemen niet op."
+        },
+        "127123": {
+          "position": "disagree",
+          "explanation": "Daarbij gaat het niet om meer asfalt, maar slimmer inzetten en uitbreiden van het wegennet waar noodzakelijk. Het gaat dan om die gebieden met nieuwe woonwijken of bedrijventerreinen. Dit vraagt niet om nieuwe wegen, maar wel slimme aanpassingen om betere verkeersdoorstroming mogelijk te maken."
+        },
+        "127126": {
+          "position": "disagree",
+          "explanation": "Geen noodzaak voor een nieuwe milieustraat. Op termijn kan een verhuizing gewenst zijn in verband met andere ruimtelijke ontwikkelingen."
+        },
+        "127127": {
+          "position": "agree",
+          "explanation": "Met een groeiend inwoneraantal behoren ook de voorzieningen mee te groeien. Met een scherpe blik op de ontwikkelingen van ledengroei bij sportverenigingen, passend bij een planmatige aanpak volgens het integraal huisvestingsplan sport."
+        }
+      }
+    },
+    {
+      "id": 127053,
+      "name": "ChristenUnie-SGP",
+      "fullName": "ChristenUnie-Staatkundig Gereformeerde Partij",
+      "website": "https://www.cusgpwestland.nl/",
+      "hasSeats": false,
+      "participates": true,
+      "positions": {
+        "127069": {
+          "position": "agree",
+          "explanation": "Het als bewoners beheren van bijvoorbeeld een plantsoen is een goed iets, je maakt mensen verantwoordelijk voor hun omgeving. Het is samenbindend."
+        },
+        "127071": {
+          "position": "neither",
+          "explanation": "Het is belangrijk dat restaurants op een bepaald tijdstip dicht gaan, ook om geluidsoverlast te voorkomen."
+        },
+        "127072": {
+          "position": "agree",
+          "explanation": "Duurzame energie is belangrijk. Stel dat bewoners gezamenlijk een windmolen willen plaatsen (als daar in de gemeente ruimte voor is), dan zou gekeken kunnen worden of de gemeente hier financiële steun aan zou kunnen geven."
+        },
+        "127073": {
+          "position": "disagree",
+          "explanation": "Er moet wel heel goed gekeken worden of dit nodig is en of dit inpasbaar is in de omgeving."
+        },
+        "127074": {
+          "position": "neither",
+          "explanation": "Als hier voldoende draagvlak voor zou zijn, zou dit een goed iets kunnen zijn. Momenteel huisvest de gemeente Westland alleen statushouders."
+        },
+        "127075": {
+          "position": "neither",
+          "explanation": "Als omwonenden hier overlast van ervaren zoals geur en benauwdheid (denk aan astma patiënten), dan zou onder bepaalde weersomstandigheden gebruik moeten worden afgeraden."
+        },
+        "127078": {
+          "position": "disagree",
+          "explanation": "De gemeente maakt hier kosten voor, een eigen bijdrage is prima."
+        },
+        "127080": {
+          "position": "agree",
+          "explanation": "Toegankelijkheid van gebouwen voor mensen met een beperking vinden wij belangrijk. Een financiële tegemoetkoming zou kunnen helpen om dit uit te voeren."
+        },
+        "127082": {
+          "position": "disagree",
+          "explanation": "Bewegen en sportlessen vinden wij belangrijker. Te overwegen valt wel om gedurende 1 schooljaar muzieklessen gratis aan te bieden op school. Dit zou je als proef kunnen doen."
+        },
+        "127085": {
+          "position": "disagree",
+          "explanation": "Recentelijk zijn er al veel boa's bijgekomen in de gemeente Westland."
+        },
+        "127086": {
+          "position": "neither",
+          "explanation": "Hier moet je terughoudend mee omgaan, alleen als er een dringende reden voor is."
+        },
+        "127087": {
+          "position": "disagree",
+          "explanation": "Dit kan beter in een stad worden gerealiseerd."
+        },
+        "127088": {
+          "position": "neither",
+          "explanation": "Een wapenstok alleen om mensen uit elkaar te drijven en indien dat echt nodig is."
+        },
+        "127091": {
+          "position": "neither",
+          "explanation": "Als de kantoren gedurende langere tijd leeg staan, is dit een mogelijkheid waar naar gekeken dient te worden."
+        },
+        "127092": {
+          "position": "neither",
+          "explanation": "In Westland zijn geen hogescholen en universiteiten. Betaalbare huur- en koopwoningen zijn belangrijker dan containerwoningen."
+        },
+        "127094": {
+          "position": "disagree",
+          "explanation": "Inwoners met een laag inkomen hebben het vaak al moeilijk. Dit brengt enige financiële verlichting."
+        },
+        "127095": {
+          "position": "disagree",
+          "explanation": "Wel moet steeds goed gekeken worden wat mensen nodig hebben."
+        },
+        "127096": {
+          "position": "disagree",
+          "explanation": "Het is belangrijk om jongeren te zien, zeker jongeren die het moeilijk hebben of dreigen af te glijden. Aandacht voor deze groep kan helpend zijn."
+        },
+        "127098": {
+          "position": "neither",
+          "explanation": "Idealiter zou dit een goed iets zijn. In woonwijken vind ik dit een goed iets, maar de hele bebouwde kom is wel veel..."
+        },
+        "127101": {
+          "position": "neither",
+          "explanation": "Het is belangrijk dat hier goed naar gekeken wordt en dat er respectvol met mensen wordt omgegaan."
+        },
+        "127102": {
+          "position": "disagree",
+          "explanation": "Prijs is een belangrijk iets maar kwaliteit is belangrijker."
+        },
+        "127106": {
+          "position": "neither",
+          "explanation": "Volgens mij zijn er al aardig wat bedrijventerreinen in Westland. Bij een aanvraag moet goed gekeken worden of dit nodig is."
+        },
+        "127108": {
+          "position": "neither",
+          "explanation": "Statushouders moeten niet eindeloos in de opvang blijven, hier zijn ook kosten aan verbonden. Er moet goed gekeken worden hoe hier mee om te gaan. Ook inwoners van Westland willen graag een woning."
+        },
+        "127111": {
+          "position": "agree",
+          "explanation": "Het is belangrijk dat ieder kind leert zwemmen."
+        },
+        "127116": {
+          "position": "agree",
+          "explanation": "Wel een maximum stellen hoeveel mensen in een huis mogen wonen en daar ook op handhaven."
+        },
+        "127119": {
+          "position": "disagree",
+          "explanation": "Volgens ons zijn er parkeerplekken genoeg."
+        },
+        "127121": {
+          "position": "disagree",
+          "explanation": "ChristenUnie-SGP vindt dat het huidige theater nog voldoet en niet vervangen hoeft te worden. Goed onderhoud is wat ons betreft prima. Een kleinschalig theater is wat Westland nodig heeft."
+        },
+        "127123": {
+          "position": "neither",
+          "explanation": "Er moet ook gekeken worden naar goed openbaar vervoer. Wegen moeten wel goed onderhouden worden en zo mogelijk verbreed (als daar ruimte voor is)."
+        },
+        "127126": {
+          "position": "disagree",
+          "explanation": "Er zijn nu twee milieustraten, een in Naaldwijk en een in Monster. Handig dat je op twee plekken in kunt leveren."
+        },
+        "127127": {
+          "position": "neither",
+          "explanation": "Komen er veel inwoners bij, door nieuwbouw in een gemeente, dan is het zaak om te kijken of uitbreiding nodig is. Westland is al veel sportparken rijk."
+        }
+      }
+    },
+    {
+      "id": 127051,
+      "name": "FvD",
+      "fullName": "Forum voor Democratie",
+      "website": "https://fvd.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "127069": {
+          "position": "neither",
+          "explanation": "Wij juichen het zelfbeheer van sommige stukken openbaar groen toe. Het eigen beheer van een sporthal is echter onwenselijk, gezien de complexiteit en risico's hiervan. Het voorzien van goede accommodaties voor sport, beweging en ontmoeting blijft een belangrijke taak van de gemeente."
+        },
+        "127071": {
+          "position": "agree",
+          "explanation": "Wij versoepelen openingstijden en maken terrasuitbreiding eenvoudiger, zodat inwoners beter kunnen inspelen op lokale vraag en de dorpskernen levendig blijven."
+        },
+        "127072": {
+          "position": "disagree",
+          "explanation": "Energiebeleid moet op de eerste plaats betrouwbaar en betaalbaar zijn."
+        },
+        "127073": {
+          "position": "neither",
+          "explanation": "We richten ons op groei en behoud van Westlandse bedrijven en staan kritisch tegenover vestiging van grote multinationals binnen onze gemeente."
+        },
+        "127074": {
+          "position": "disagree",
+          "explanation": "Wij staan geen opvanglocaties toe om de gemeente te beschermen tegen stelstelmatige onveiligheid, overlast, vervuiling en druk op onze voorzieningen."
+        },
+        "127075": {
+          "position": "agree",
+          "explanation": "Wij gaan nooit akkoord met een stookverbod of verboden op houtkachels en andere traditionele verwarmingsmethoden."
+        },
+        "127078": {
+          "position": "disagree",
+          "explanation": "Grofvuil kan worden gebracht bij een van de milieustraten of worden opgehaald tegen een gering bedrag. Het geringe bedrag is acceptabel en wij hebben niet de bedoeling om dit gratis te maken."
+        },
+        "127080": {
+          "position": "disagree",
+          "explanation": "De gemeente dient minder regeldruk op de private sector te leggen, waardoor de ondernemers zelf hun gebouw toegankelijker kunnen maken voor mensen met een beperking."
+        },
+        "127082": {
+          "position": "disagree",
+          "explanation": "De gemeente moet zich richten op haar kerntaken en hoewel wij muziek belangrijk vinden, is een extra subsidie vanuit de gemeente niet gewenst."
+        },
+        "127085": {
+          "position": "disagree",
+          "explanation": "Gelukkig is er zowel uitbereiding geweest van het aantal boa's als politiemensen de afgelopen periode. We moeten echter voorkomen dat boa's taken of bevoegdheden krijgen die uitsluitend bij volwaardige politie horen."
+        },
+        "127086": {
+          "position": "neither",
+          "explanation": "We zetten camera's incidenteel en tijdelijk in op probleemlocaties, zodat dit niet uitmondt in grootschalige surveillance."
+        },
+        "127087": {
+          "position": "disagree",
+          "explanation": "Wij vinden het belangrijk dat mensen veilig zijn in hun eigen huis en richten ons op sociale controle. De samenwerking met Veilig Thuis Haaglanden en Sociaal Kernteam Westland zijn hierbij essentieel."
+        },
+        "127088": {
+          "position": "disagree",
+          "explanation": "Gelukkig is er zowel uitbereiding geweest van het aantal boa's als politiemensen de afgelopen periode. We moeten echter voorkomen dat boa's taken of bevoegdheden krijgen die uitsluitend bij volwaardige politie horen."
+        },
+        "127091": {
+          "position": "agree",
+          "explanation": "Wij faciliteren de ontwikkelaars die leegstaande bedrijfs -en kantoorpanden willen transformeren naar woningen voor Westlandse woningzoekenden. Dit voorkomt verloedering, benut de bestaande structuren en levert naast nieuwbouw snel woonruimte op."
+        },
+        "127092": {
+          "position": "disagree",
+          "explanation": "We zijn voor verschillende conventionele woningen met een lange levensduur, waarin studenten, starters, gezinnen en senioren kunnen wonen."
+        },
+        "127094": {
+          "position": "agree",
+          "explanation": "Wij streven naar zelfredzaamheid van al onze inwoners, waarbij er uitzonderingen moeten worden gemaakt voor schrijnende gevallen. Op dit moment is de norm dermate verlaagd dat er te veel gemeentelijke belastingen worden kwijtgescholden. Dit moet stoppen."
+        },
+        "127095": {
+          "position": "disagree",
+          "explanation": "Wij streven naar zelfredzaamheid van al onze inwoners, waarbij er uitzonderingen moeten worden gemaakt voor schrijnende gevallen. De inkomensgrens dient gehandhaafd te blijven."
+        },
+        "127096": {
+          "position": "agree",
+          "explanation": "We richten ons op efficiëntie, beperken ingrijpende maatregelingen zoals uithuisplaatsingen tot het strikt noodzakelijke en zorgen dat gezinnen tijdig en passend worden geholpen."
+        },
+        "127098": {
+          "position": "disagree",
+          "explanation": "De tendens over de maximumsnelheid van 30 km/u binnen de bebouwde kom dient gebroken te worden. Wegen dienen realistisch te worden beoordeeld op maximale snelheden om ongelukken te voorkomen en doorstroming te bevorderen."
+        },
+        "127101": {
+          "position": "disagree",
+          "explanation": "Wij zijn dankbaar voor de professionaliteit, compassie en toewijding van de mensen in de zorg. We hebben op dit moment een tekort aan zorgpersoneel, waarbij de huidige zorgmedewerkers extra belast worden. We zijn voor minder bureaucratie en beperkingen, waardoor er meer tijd is voor zorg verlenen."
+        },
+        "127102": {
+          "position": "neither",
+          "explanation": "We richten ons op efficiëntie, beperken ingrijpende maatregelingen zoals uithuisplaatsingen tot het strikt noodzakelijke en zorgen dat gezinnen tijdig en passend worden geholpen."
+        },
+        "127106": {
+          "position": "disagree",
+          "explanation": "Wij moderniseren verouderde bedrijventerreinen en verbeteren hun bereikbaarheid, zodat bedrijven hier kunnen blijven en groeien."
+        },
+        "127108": {
+          "position": "disagree",
+          "explanation": "Wij zorgen dat Westlanders als eerste in aanmerking komen voor sociale huur en betaalbare koop. Wij schaffen de urgentiestatus en voorrangsregelingen voor statushouders bij de toewijzing van sociale huurwoningen volledig af."
+        },
+        "127111": {
+          "position": "disagree",
+          "explanation": "Typerend voor onze gemeente is het uitgebreide netwerk van waterwegen en de kust aan de Noordzee. Hierdoor is het essentieel dat er voldoende faciliteiten zijn om te leren zwemmen. Wij richten ons dan ook op het behoud en uitbreiding van onze bestaande zwembaden (bijvoorbeeld zwembad De Waterman)."
+        },
+        "127116": {
+          "position": "disagree",
+          "explanation": "Wij versoepelen bouw- en verhuurregels zodat generatiewoningen, hospitaverhuur, aanbouwen, dakkapellen en bijbouwen op eigen perceel makkelijker wordt."
+        },
+        "127119": {
+          "position": "disagree",
+          "explanation": "We behouden de gratis parkeermogelijkheden zoals bij de Willem van Hooffstraat (parkeerdak De Tuinen), Verdilaan (Albert Heijn) en Prins Bernhardstraat (Jumbo)."
+        },
+        "127121": {
+          "position": "disagree",
+          "explanation": "Wij zijn tegen nieuwbouw van theater De Naald, omdat de ambitie van de directie niet strookt met de behoeften van een meerderheid van onze inwoners. Wij zijn voor behoud van een bescheiden, knus en intiem Westlands theater met verantwoord beleid voor de toekomst."
+        },
+        "127123": {
+          "position": "agree",
+          "explanation": "Wij investeren in goede ontsluiting met de auto. Wegen worden actief onderhouden en uitgebreid, zodat verkeer soepel en veilig door kan rijden."
+        },
+        "127126": {
+          "position": "disagree",
+          "explanation": "Wij zorgen dat Westlanders hun afval altijd gratis bij een van de milieustraten kunnen inleveren. We willen een schone gemeente, waarin afval professioneel gescheiden wordt voor recycling, hergebruik of verwerking. We treden hard op tegen het illegaal dumpen van afval."
+        },
+        "127127": {
+          "position": "agree",
+          "explanation": "Sportverenigingen zijn een essentieel onderdeel van gezondheid en sociale samenhang. Wij koesteren onze sportverenigingen en deze moeten kunnen groeien."
+        }
+      }
+    },
+    {
+      "id": 166799,
+      "name": "50PLUS",
+      "fullName": "50PLUS",
+      "website": "https://www.50pluspartij.nl/",
+      "hasSeats": false,
+      "participates": true,
+      "positions": {
+        "127069": {
+          "position": "agree",
+          "explanation": "Mits dat met passie en betrokkenheid gebeurt. Eventueel onder regie van de gemeente."
+        },
+        "127071": {
+          "position": "agree",
+          "explanation": "Duidelijke richtlijnen, waarmee afgeweken kan worden per individuele locatie, zodat geen overlast ontstaat."
+        },
+        "127072": {
+          "position": "agree",
+          "explanation": "In een tijd dat wij veel meer moeten gaan letten op opwekken van schone duurzame energie, is het belangrijk dat dit gestimuleerd wordt."
+        },
+        "127073": {
+          "position": "agree",
+          "explanation": "Westland is ondertussen volgebouwd. Grootschalige distributiecentra dienen zoveel mogelijk buiten de bebouwde kom te worden gebouwd."
+        },
+        "127074": {
+          "position": "disagree",
+          "explanation": "Wij verzetten ons niet tegen de landelijke richtlijnen. Westland heeft echter een groot gebrek aan passende woonruimte voor starters en senioren. Dat moet eerst op orde gebracht worden."
+        },
+        "127075": {
+          "position": "agree",
+          "explanation": "Wel een beroep doen op verantwoordelijk gebruik hiervan."
+        },
+        "127078": {
+          "position": "agree",
+          "explanation": "Dit voorkomt zwerfafval en lukraak storten van afval."
+        },
+        "127080": {
+          "position": "disagree",
+          "explanation": "Ondernemers dienen zelf zorg te dragen dat iedereen hun gebouw kan betreden."
+        },
+        "127082": {
+          "position": "agree",
+          "explanation": "Muzikale en culturele ontwikkeling is belangrijk en mag ondersteund worden met een individuele subsidie."
+        },
+        "127085": {
+          "position": "agree",
+          "explanation": "Veiligheid is van essentieel belang voor de burgers."
+        },
+        "127086": {
+          "position": "agree",
+          "explanation": "De veiligheid voor iedereen is essentieel. Cameratoezicht is veiligheid verhogend in de openbare ruimte."
+        },
+        "127087": {
+          "position": "neither",
+          "explanation": "Indien noodzakelijk moeten wij slachtoffers hiermee helpen."
+        },
+        "127088": {
+          "position": "disagree",
+          "explanation": "Het geweldsmonopolie ligt bij de politie. Maak anders boa's onderdeel van de politie."
+        },
+        "127091": {
+          "position": "agree",
+          "explanation": "De woningen dienen dan wel onderdeel van de woningcorporaties of de gemeente te worden."
+        },
+        "127092": {
+          "position": "disagree",
+          "explanation": "50PLUS staat voor levensloopbestendige woningen. Kamerverhuur zou echter aantrekkelijker moeten worden gemaakt voor studenten."
+        },
+        "127094": {
+          "position": "disagree",
+          "explanation": "Indien iemand echt in de problemen zit, moet deze geholpen kunnen worden."
+        },
+        "127095": {
+          "position": "disagree",
+          "explanation": "Per geval moet er maatwerk geboden kunnen worden waardoor van een standaard regeling kan worden afgeweken."
+        },
+        "127096": {
+          "position": "disagree",
+          "explanation": "Jongeren- en ouderenwerk moet gestimuleerd worden."
+        },
+        "127098": {
+          "position": "disagree",
+          "explanation": "Ter plaatse moet bekeken worden waar dit noodzakelijk is."
+        },
+        "127101": {
+          "position": "disagree",
+          "explanation": "Zorgverleners geven zorg aan een ieder, onafhankelijk van geloof, cultuur en levensovertuiging."
+        },
+        "127102": {
+          "position": "disagree",
+          "explanation": "Kwaliteit is essentieel!"
+        },
+        "127106": {
+          "position": "disagree",
+          "explanation": "De verdeling van ruimte is ondertussen helder."
+        },
+        "127108": {
+          "position": "disagree",
+          "explanation": "50PLUS vindt dat een ieder gelijk is en dien overeenkomstig behandeld moet worden."
+        },
+        "127111": {
+          "position": "agree",
+          "explanation": "Wij zijn een waterrijke gemeente. Iedereen moet kunnen zwemmen."
+        },
+        "127116": {
+          "position": "agree",
+          "explanation": "Het moet mogelijk zijn dat leegstaande kamers (tijdelijk) verhuurd kunnen worden om de woningnood tegen te gaan."
+        },
+        "127119": {
+          "position": "disagree",
+          "explanation": "Er zijn twee parkeergarages die lang niet altijd vol zijn."
+        },
+        "127121": {
+          "position": "agree",
+          "explanation": "Mits ook de lokale cultuur hier een plek krijgt."
+        },
+        "127123": {
+          "position": "disagree",
+          "explanation": "De ruimte ontbreekt hiervoor. 50PLUS is veel meer voorstander van een beter openbaar vervoer om de wegen te ontlasten (lightrail)."
+        },
+        "127126": {
+          "position": "disagree",
+          "explanation": "Naaldwijk heeft een prima milieustraat."
+        },
+        "127127": {
+          "position": "disagree",
+          "explanation": "Westland heeft al veel grote, prachtige sportparken."
+        }
+      }
+    }
+  ],
+  "statements": [
+    {
+      "id": 127123,
+      "index": 1,
+      "theme": "Traffic",
+      "themeId": "verkeer",
+      "title": "Westland should build more roads.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127074,
+      "index": 2,
+      "theme": "Asylum seekers' center",
+      "themeId": "asielzoekerscentrum",
+      "title": "An asylum seekers' center (AZC) should be established in our municipality.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127069,
+      "index": 3,
+      "theme": "Management by citizens",
+      "themeId": "beheer-door-burgers",
+      "title": "Residents should be able to take over the management of, for example, a sports hall or a public green space from the municipality.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127071,
+      "index": 4,
+      "theme": "Closing times for bars and restaurants",
+      "themeId": "sluitingstijden-horeca",
+      "title": "Cafés and restaurants must be able to determine their own opening hours.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127072,
+      "index": 5,
+      "theme": "Sustainable energy",
+      "themeId": "duurzame-energie",
+      "title": "Residents who want to generate sustainable energy together should receive financial support from the municipality.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127085,
+      "index": 6,
+      "theme": "Enforcement officers",
+      "themeId": "handhavers",
+      "title": "Westland should have more municipal enforcement officers (BOAs) focused on safety.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127082,
+      "index": 7,
+      "theme": "Music lessons",
+      "themeId": "muziekles",
+      "title": "Every primary school child should be able to receive music lessons subsidized by the municipality.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127073,
+      "index": 8,
+      "theme": "Distribution centers",
+      "themeId": "distributiecentra",
+      "title": "The municipality must oppose the establishment of new distribution centers.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127127,
+      "index": 9,
+      "theme": "Expanding sports parks",
+      "themeId": "uitbreiden-sportparken",
+      "title": "Westland should expand the sports parks in the municipality.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127078,
+      "index": 10,
+      "theme": "Bulky waste",
+      "themeId": "grofvuil",
+      "title": "Bulky waste must be collected from homes free of charge.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127086,
+      "index": 11,
+      "theme": "Camera surveillance",
+      "themeId": "cameratoezicht",
+      "title": "There should be more camera surveillance in Westland.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127092,
+      "index": 12,
+      "theme": "Student housing",
+      "themeId": "studentenwoningen",
+      "title": "The municipality must invest in temporary housing for students, for example container housing.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127094,
+      "index": 13,
+      "theme": "Stop debt forgiveness",
+      "themeId": "kwijtschelding-stoppen",
+      "title": "The municipality should stop forgiving municipal taxes for low-income residents.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127087,
+      "index": 14,
+      "theme": "Violence against women",
+      "themeId": "geweld-tegen-vrouwen",
+      "title": "Westland should have a women's shelter.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127075,
+      "index": 15,
+      "theme": "Wood burning",
+      "themeId": "houtstook",
+      "title": "The use of open fireplaces and wood-burning stoves should remain permitted in Westland.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127091,
+      "index": 16,
+      "theme": "Offices converted into homes",
+      "themeId": "kantoren-worden-woningen",
+      "title": "Vacant offices should be converted into housing with subsidies from the municipality.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127101,
+      "index": 17,
+      "theme": "Choice of healthcare",
+      "themeId": "zorgkeuze",
+      "title": "People who need care should always be able to choose a caregiver who matches their religion, culture, or beliefs.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127095,
+      "index": 18,
+      "theme": "Combating poverty",
+      "themeId": "armoedebestrijding",
+      "title": "The municipality should raise the income threshold for receiving poverty assistance.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127116,
+      "index": 19,
+      "theme": "Subdivision into multiple rooms",
+      "themeId": "verkamering",
+      "title": "The municipality should allow landlords to rent out individual rooms instead of entire houses.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127102,
+      "index": 20,
+      "theme": "Youth care",
+      "themeId": "jeugdzorg",
+      "title": "When selecting organizations for youth care, the municipality should primarily pay attention to price.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127098,
+      "index": 21,
+      "theme": "Car speeds",
+      "themeId": "snelheid-auto-s",
+      "title": "The maximum speed limit in built-up areas should be set to 30 km/h.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127096,
+      "index": 22,
+      "theme": "Youth services",
+      "themeId": "jongerenwerk",
+      "title": "The municipality should cut spending on youth work.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127108,
+      "index": 23,
+      "theme": "Priority for refugees",
+      "themeId": "voorrang-voor-vluchtelingen",
+      "title": "The municipality must continue to give refugees with a residence permit priority for social housing.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127106,
+      "index": 24,
+      "theme": "Business parks",
+      "themeId": "bedrijventerreinen",
+      "title": "There should be more business parks in Westland.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127111,
+      "index": 25,
+      "theme": "School swimming",
+      "themeId": "schoolzwemmen",
+      "title": "The municipality should allocate money for school swimming.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127088,
+      "index": 26,
+      "theme": "Baton (police baton)",
+      "themeId": "wapenstok",
+      "title": "The BOAs who enforce safety in Westland should be issued batons.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127126,
+      "index": 27,
+      "theme": "Waste",
+      "themeId": "afval",
+      "title": "Westland should have a new recycling/household waste centre.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127080,
+      "index": 28,
+      "theme": "Accessibility of buildings",
+      "themeId": "toegankelijkheid-gebouwen",
+      "title": "The municipality should financially help business owners to make their buildings accessible to people with disabilities.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127119,
+      "index": 29,
+      "theme": "More parking spaces",
+      "themeId": "meer-parkeerplaatsen",
+      "title": "There should be more parking spaces in the centre of Naaldwijk.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 127121,
+      "index": 30,
+      "theme": "Theater",
+      "themeId": "theater",
+      "title": "A new building should be constructed for Theater De Naald in Naaldwijk.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    }
+  ]
+}

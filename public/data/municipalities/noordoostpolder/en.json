@@ -1,0 +1,1379 @@
+{
+  "id": "GM0171",
+  "name": "Noordoostpolder",
+  "slug": "noordoostpolder",
+  "parties": [
+    {
+      "id": 120315,
+      "name": "Politieke Unie",
+      "fullName": "Politieke Unie",
+      "website": "https://www.punop.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "120333": {
+          "position": "disagree",
+          "explanation": "De opkomst bij gemeenteraadsverkiezingen is al beperkt en bij referenda vaak nog lager. Daardoor geven referenda geen representatief beeld van de mening van alle inwoners. Voor het afwegen van complexe en belangrijke besluiten wordt de gemeenteraad gekozen."
+        },
+        "120336": {
+          "position": "agree",
+          "explanation": "Autonomie voor de ondernemer!"
+        },
+        "120337": {
+          "position": "disagree",
+          "explanation": "Het is goed dat inwoners samen duurzame energie opwekken, maar de gemeente hoeft dit niet met extra geld te steunen. Beter is om initiatieven te helpen met ruimte en duidelijke regels."
+        },
+        "120338": {
+          "position": "agree",
+          "explanation": "We hebben in onze polder geen ruimte voor deze dozen waar vaak alleen arbeidsmigranten werken."
+        },
+        "120339": {
+          "position": "disagree",
+          "explanation": "Meer groen is belangrijk, maar een verplichte 1-op-1 herplantregel is te star. De gemeente moet ruimte houden voor maatwerk in plaats van extra regels."
+        },
+        "120342": {
+          "position": "agree",
+          "explanation": "Met een vuurwerkverbod verandert de invulling van oudejaarsavond. De gemeente kan lokale initiatieven en gezamenlijke activiteiten ondersteunen."
+        },
+        "120343": {
+          "position": "disagree",
+          "explanation": "De Politieke Unie wil de afvalstraat gratis toegankelijk maken, dit verlaagt de drempel om afval te brengen zodat zwerfafval vermindert wordt."
+        },
+        "120346": {
+          "position": "agree",
+          "explanation": "Wij willen dat sporten tot 16 jaar voor alle inwoners gratis wordt! Geen onderscheid en drempel meer om te sporten!"
+        },
+        "120349": {
+          "position": "neither",
+          "explanation": "Cultuur en muziek zijn belangrijk voor kinderen. Via de meedoenregeling kunnen kinderen uit gezinnen met minder geld al ondersteund worden. Dat werkt beter dan een algemene subsidie voor alle kinderen."
+        },
+        "120350": {
+          "position": "agree",
+          "explanation": "Sportverenigingen zijn belangrijk voor de samenleving. Als er problemen zijn, kan de gemeente meedenken of tijdelijk helpen, maar financiële steun moet geen automatisme worden."
+        },
+        "120351": {
+          "position": "neither",
+          "explanation": "Boa’s moeten zich vooral richten op veiligheid en overlast in de openbare ruimte. Het is niet wenselijk dat zij worden ingezet voor het controleren van vrijwilligers of kleine zaken bij evenementen"
+        },
+        "120352": {
+          "position": "agree",
+          "explanation": "Op de uitvalswegen willen we meer cameratoezicht zodat wanneer er een incident plaatsvindt we kunnen achterhalen waar de boef gebleven is."
+        },
+        "120354": {
+          "position": "disagree",
+          "explanation": "Boa’s hebben een belangrijke rol in toezicht en veiligheid, maar zijn geen politie. Extra bewapening past daar niet vanzelfsprekend bij; samenwerking en duidelijke taken zijn belangrijker."
+        },
+        "120359": {
+          "position": "agree",
+          "explanation": "Wie ondersteuning krijgt, levert een betekenisvolle bijdrage aan de gemeenschap."
+        },
+        "120360": {
+          "position": "disagree",
+          "explanation": "We zijn voorstander van een verantwoord kwijtscheldingsbeleid."
+        },
+        "120364": {
+          "position": "disagree",
+          "explanation": "Onze uitgestrekte polder bied op sommige plekken prima ruimte om vlotter door te rijden."
+        },
+        "120367": {
+          "position": "disagree",
+          "explanation": "De zorg is een algemene voorziening blind voor geloof of levensovertuiging."
+        },
+        "120368": {
+          "position": "neither",
+          "explanation": "Kwaliteit en prijs zijn altijd met elkaar verbonden en vraagt om een afweging."
+        },
+        "120369": {
+          "position": "neither",
+          "explanation": "De gemeente kan initiatieven die er zijn ondersteunen en stimuleren."
+        },
+        "120370": {
+          "position": "neither",
+          "explanation": "Waar dit kan proberen we altijd de gemeentelijke lasten zo laag mogelijk te houden. De realiteit is dat de kosten ook voor de gemeente stijgen."
+        },
+        "120374": {
+          "position": "neither",
+          "explanation": "Door de grote woningnood staat de sociale huurmarkt onder druk. Structurele voorrang voor één groep doet geen recht aan andere woningzoekenden. De gemeente moet zoeken naar oplossingen die eerlijk zijn voor iedereen."
+        },
+        "120379": {
+          "position": "agree",
+          "explanation": "We zijn voorstander om overlast tegen te gaan en vanuit preventie. Nu koopt men op straat bij dealers die verkopen soft- en harddrugs. Dat maakt de kans op verslaving groter. Voor jongeren is drugsgebruik meer normaal. We willen er zicht op hebben en op preventie kunnen inzetten via de coffeeshop."
+        },
+        "120380": {
+          "position": "disagree",
+          "explanation": "De Politieke Unie kiest voor 70% betaalbaar en voor 30% sociale huur."
+        },
+        "120381": {
+          "position": "agree",
+          "explanation": "De woningnood vraagt om oplossingen die impact hebben. Dit helpt ook bij het betaalbaar houden van starters woningen of senioren appartement."
+        },
+        "120382": {
+          "position": "neither",
+          "explanation": "Arbeidsmigranten willen we weren uit de kernen. Voor losse kamerverhuur aan vrienden, vriendinnen of studenten moeten mogelijkheden zijn."
+        },
+        "120383": {
+          "position": "agree",
+          "explanation": "Vooral nieuwe iniatieven in het centrumgebied moeten geen extra parkeerdruk op het centrum leggen."
+        },
+        "120385": {
+          "position": "disagree",
+          "explanation": "We hebben een mooie opstelling langs de dijk, daar blijft het bij voor de windturbines. Voor kleine boerderijmolens is wel ruimte om op bedrijfsniveau te verduurzamen."
+        },
+        "120387": {
+          "position": "disagree",
+          "explanation": "Verkeersveiligheid is belangrijk, maar niet elke polderweg is hetzelfde. De maximumsnelheid moet per weg worden bepaald en niet standaard naar 60 km/u gaan. Dit is een instrument wat als laatste moet worden ingezet als niets anders werkt."
+        },
+        "120388": {
+          "position": "disagree",
+          "explanation": "Van arbeidsmigranten die langer in Nederland blijven mag je verwachten dat ze zich de taal eigen maken. Deze groep heeft hier geen financiële steun voor nodig."
+        },
+        "120389": {
+          "position": "disagree",
+          "explanation": "Dit vergt een enorme investering. Daarnaast zal het scheiding tegengaan en andere afvalstromen vervuilen of leiden tot meer afvaldumping. Afvalinzameling is ook dienstverlening van de gemeente aan inwoners; iedereen naar een ondergrondse container laten lopen zien we niet als serviceverbetering."
+        }
+      }
+    },
+    {
+      "id": 120316,
+      "name": "ChristenUnie-SGP",
+      "fullName": "ChristenUnie-SGP",
+      "website": "https://noordoostpolder.christenunie-sgp.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "120333": {
+          "position": "disagree",
+          "explanation": "We zijn juist gekozen volksvertegenwoordigers om onderwerpen beet te pakken. Dat inwoners betrokken moeten worden is wel essentieel bij belangrijke onderwerpen."
+        },
+        "120336": {
+          "position": "disagree",
+          "explanation": "We hebben duidelijke afspraken. Daarbinnen mag eenieder het bepalen. Mits het de vroegste/uiterste openings- en sluitingstijden niet worden overschreden."
+        },
+        "120337": {
+          "position": "agree",
+          "explanation": "Deze projecten moeten zelfredzaam worden. Voor de opstart kan de gemeente ondersteunen. De gemeente heeft hier een duurzaamheidsfonds voor (wat wordt gevuld door grote zonneprojecten en niet door de gemeente zelf)."
+        },
+        "120338": {
+          "position": "neither",
+          "explanation": "Als ze goede lokale werkgelegenheid bieden, zijn distributiecentra welkom. Maar we willen geen blokkendozen die ons mooie landschap verrommelen!"
+        },
+        "120339": {
+          "position": "agree",
+          "explanation": "We moeten zorgen voor een goede balans en een mooie omgeving voor de toekomstige generaties."
+        },
+        "120342": {
+          "position": "agree",
+          "explanation": "Dit is verbindend en zorgt voor een gelijk speelveld. Arm en rijk kunnen genieten van dezelfde vuurwerkshow. Een goede vuurwerkshow is een mooi alternatief voor het landelijke verbod."
+        },
+        "120343": {
+          "position": "disagree",
+          "explanation": "We mogen betalen voor diensten die we afnemen als inwoners. Wel moedigen we bewoners aan om zo goed mogelijk afval te scheiden. Dus iedereen heeft zelf in de hand hoeveel ze betalen. Uitzonderlijke gevallen moeten in aanmerking komen voor kwijtschelding. Bijvoorbeeld inwoners met veel medisch afval."
+        },
+        "120346": {
+          "position": "agree",
+          "explanation": "Sporten is heel belangrijk voor sociale betrokkenheid van deze groep en goed voor de gezondheid. Dus wij moedigen dit aan. Niemand mag uitgesloten worden van deelname aan sport."
+        },
+        "120349": {
+          "position": "disagree",
+          "explanation": "Kinderen die vallen onder de minimaregelingen doelgroep kunnen hier aanspraak op maken. Wel is het zo dat álle kinderen breed muziek oriëntatie lessen krijgen met subsidie van de gemeente."
+        },
+        "120350": {
+          "position": "agree",
+          "explanation": "Niet zondermeer, maar het is de ruggengraat van onze samenleving en zorgt voor beweging en verbinding. Dat is niet te vertalen naar een geldbedrag."
+        },
+        "120351": {
+          "position": "agree",
+          "explanation": "Afgelopen jaren zijn het aantal BOA's al toegenomen. We moedigen evaluatie hiervan aan om steeds de capaciteit te toetsen aan de handhavingsbehoefte."
+        },
+        "120352": {
+          "position": "disagree",
+          "explanation": "Veiligheid is ontzettend belangrijk en zetten we vol op in. Met cameratoezicht moeten we uiterst zorgvuldig omgaan. Het betreft de privacy van onze inwoners en we mogen dit niet ongeoorloofd inzetten."
+        },
+        "120354": {
+          "position": "disagree",
+          "explanation": "Dit is een zwaar middel wat alleen toegepast hoeft te worden wanneer de handhavingstaken hier om vragen. in de Noordoostpolder is dit nog niet het geval. Wel zijn we voor goede korte lijnen tussen boa's en politie om snel in te grijpen wanneer de situatie erom vraagt."
+        },
+        "120359": {
+          "position": "disagree",
+          "explanation": "Het is fijn als deze mensen een bijdrage naar draagkracht kan doen in de samenleving. Dat bevordert hun zelfredzaamheid. De gemeente jaagt dit aan. Maar het moet geen \"moeten\" zijn."
+        },
+        "120360": {
+          "position": "disagree",
+          "explanation": "Deze mensen hebben het juist nodig om enig lucht in de portemonnee te voelen. De gemeente heeft ook daarin een verantwoordelijkheid naar haar inwoners."
+        },
+        "120364": {
+          "position": "disagree",
+          "explanation": "30 km/h waar nodig en 50 km/h waar kan."
+        },
+        "120367": {
+          "position": "agree",
+          "explanation": "Vrijheid om een eigen zorgverlener te kiezen is een mooi recht in Nederland. Identiteitsgebonden zorg is van een belangrijke waarde."
+        },
+        "120368": {
+          "position": "disagree",
+          "explanation": "Het gaat om de beste passende hulp bij de hulpvraag van de jongere. Als deze duurder is, dan is dit maar zo, want het voorkomt langdurig aanmodderen bij andere organisaties die in eerste aanleg goedkoper leken."
+        },
+        "120369": {
+          "position": "neither",
+          "explanation": "Menstruatie armoede is onacceptabel. De gemeente zorgt dat tampons en maandverband beschikbaar zijn bij bijv. voedselbanken. Het geldt dus voor wie dit nodig hebben."
+        },
+        "120370": {
+          "position": "neither",
+          "explanation": "OZB mag maximaal meestijgen met het inflatiepercentage. Dat houdt de belastingen in de grip. Een verkiezingsbelofte dat belastingen gaan dalen, zou niet het eerlijke verhaal zijn."
+        },
+        "120374": {
+          "position": "agree",
+          "explanation": "Dit zijn statushouders en deze mensen moeten we gewoon blijven huisvesten conform de taakstelling die we krijgen vanuit het Rijk."
+        },
+        "120379": {
+          "position": "disagree",
+          "explanation": "Een coffeeshop toestaan normaliseert drugsgebruik. Dat is niet het voorbeeld wat we onze kinderen, jongeren en volwassenen willen geven. We stimuleren liever een gezonde levensstijl met sport, beweging en spel."
+        },
+        "120380": {
+          "position": "agree",
+          "explanation": "Dit percentage geldt wat ons betreft alleen voor nieuw te bouwen wijken."
+        },
+        "120381": {
+          "position": "agree",
+          "explanation": "Tot de maximum van de hoogte van kerktorens in de dorpen. Dit moet ervoor zorgen dat ons erfgoed en landschappelijke kenmerk bewaart blijft."
+        },
+        "120382": {
+          "position": "disagree",
+          "explanation": "Door de woningnood is het nodig om creatief te kunnen denken. Dus losse kamers verhuren kan hier een voorbeeld van zijn. Wel moet de gemeente handhaven op de leefomstandigheden."
+        },
+        "120383": {
+          "position": "agree",
+          "explanation": "Op piekmomenten is er een parkeerprobleem is in het centrum. Daar moeten we oplossingen voor zoeken. Dat is niet alleen extra parkeerplekken, maar ook bijv. het aanmoedigen dat inwoners die dichtbij wonen met de fiets naar het centrum komen."
+        },
+        "120385": {
+          "position": "disagree",
+          "explanation": "We hebben voldoende windmolens langs onze poldergrens toegestaan. Zowel op het IJsselmeer als naast onze dijken."
+        },
+        "120387": {
+          "position": "disagree",
+          "explanation": "Het gaat erom dat de alle polderwegen een passende snelheid toegewezen krijgen. Dus waar het nodig is voeren we 60 km/h in."
+        },
+        "120388": {
+          "position": "disagree",
+          "explanation": "Deze lessen moeten zeker gegeven worden en zijn heel belangrijk. Hiervoor ligt er een verantwoordelijkheid bij de werkgevers van de arbeidsmigranten, die dit moeten betalen."
+        },
+        "120389": {
+          "position": "disagree",
+          "explanation": "Ondergrondse afvalcontainers doen we alleen op plekken waar dit noodzakelijk is."
+        }
+      }
+    },
+    {
+      "id": 120317,
+      "name": "CDA",
+      "fullName": "Christen-Democratisch Appèl",
+      "website": "https://www.cda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "120333": {
+          "position": "disagree",
+          "explanation": "De gemeenteraadsleden moeten zich bij inwoners goed informeren over actuele onderwerpen. Vervolgens moeten ze besluiten nemen voor het algemeen belang. Dat betekent dus heel breed informeren. Supporters van een politieke partij zijn geen klanten die meer invloed hebben dan het algemeen belang."
+        },
+        "120336": {
+          "position": "agree",
+          "explanation": "Bij ongewenste ontwikkelingen moet de gemeente goed afgewogen kaders kunnen stellen."
+        },
+        "120337": {
+          "position": "agree",
+          "explanation": "Om energie projecten die we allemaal willen van de grond te krijgen kunnen subsidies heel nuttig zijn."
+        },
+        "120338": {
+          "position": "neither",
+          "explanation": "Industrie die past bij het karakter van de Noordoostpolder is altijd welkom. In andere gevallen moeten gemeenteraadsleden een zorgvuldige afweging maken."
+        },
+        "120339": {
+          "position": "disagree",
+          "explanation": "Bij windsingels rond boerderijen zul je bij het kappen van een singel zelfs wat meer jonge bomen moeten planten dan er gekapt worden. In natuurgebieden kun je naar de oogst van de bomen de natuur zijn gang laten gaan. Meer bos op landbouwgrond is geen wenselijke ontwikkeling."
+        },
+        "120342": {
+          "position": "disagree",
+          "explanation": "Dit kan beter door burgerinitiatieven gedaan worden. De gemeente kan ondersteuning en hulp geven."
+        },
+        "120343": {
+          "position": "disagree",
+          "explanation": "Dat hoeft niet gratis te zijn. Als je zelf gelegenheid hebt dit naar de vuilstort te brengen kost je dat ook tijd, brandstof en moeite."
+        },
+        "120346": {
+          "position": "disagree",
+          "explanation": "Dat moet geen standaard zijn. Op verzoek kan de gemeente daar heel goed een bijdrage aan leveren. Hiervoor zijn ook spelregels afgesproken."
+        },
+        "120349": {
+          "position": "agree",
+          "explanation": "Muzieklessen zijn onderdeel van het cultuurbedrijf. Op zoveel mogelijk manieren moeten drempels voor jongeren om muziekles te volgen worden weggenomen. Hierbij is extra geld niet altijd nodig."
+        },
+        "120350": {
+          "position": "disagree",
+          "explanation": "De gemeente moet niet automatisch extra geld geven als het moeilijk gaat. Sportclubs met voldoende bestaansrecht moeten blijven bestaan!"
+        },
+        "120351": {
+          "position": "neither",
+          "explanation": "Onze boa's zijn geen bekeuringenschrijvers, ze gaan vooral het goede gesprek aan over gedrag in het openbaar. Dat gesprek voeren ze in onze dorpen, maar ook bijvoorbeeld bij verrommeling in het buitengebied."
+        },
+        "120352": {
+          "position": "disagree",
+          "explanation": "Alleen als gericht extra camera toezicht ten goede komt aan de veiligheid van onze inwoners is uitbreiding bespreekbaar."
+        },
+        "120354": {
+          "position": "agree",
+          "explanation": "We zetten boa’s ook in de woonwijken en dorpskernen in, zo pakken we ook overlast en leefbaarheidsproblemen aan. Bodycams worden onderdeel van de standaarduitrusting voor veiligheid van boa's. Een wapenstok is een goede optie mocht dat wettelijk mogen"
+        },
+        "120359": {
+          "position": "agree",
+          "explanation": "Als het kan is een tegenprestatie van groot belang. Niet uit economisch perspectief, juist omdat iedereen die kan mee doet in open samenleving."
+        },
+        "120360": {
+          "position": "disagree",
+          "explanation": "De gemeente moet maatwerk kunnen bieden. Wanneer de gemeentelijke belastingen kwetsbare inwoners verder wegdrukken in een schulden moeras. Dan zou er tijdelijk een oplossing door de gemeente moeten worden geboden. Anders worden de kosten voor de gemeente op een later moment veel hoger."
+        },
+        "120364": {
+          "position": "disagree",
+          "explanation": "Voor veel onze bebouwde kom levert dat nauwelijks veiligheidswinst op. Ook is er daarbij kans op meer onduidelijkheid en daardoor grotere onveiligheid."
+        },
+        "120367": {
+          "position": "disagree",
+          "explanation": "Zorg is niet afhankelijk van welke levensovertuiging dan ook."
+        },
+        "120368": {
+          "position": "disagree",
+          "explanation": "Ondanks de enorme kosten van jeugdzorg is kwaliteit en wachtlijstlengte altijd het belangrijkste. Als jeugd slecht of te laat wordt geholpen worden problemen erger en kost het de gemeente op lange termijn vele malen meer geld."
+        },
+        "120369": {
+          "position": "disagree",
+          "explanation": "Menstruatie armoede moet worden tegengegaan. Lukraak tampons en maandverband uitdelen is geen effectieve maatregel."
+        },
+        "120370": {
+          "position": "agree",
+          "explanation": "Het CDA wil de OZB zo laag mogelijk houden. Het raakt direct de koopkracht van gezinnen en huishoudens. Daarom zijn we voor een inflatieslot op de OZB. De OZB stijgt de komende periode niet meer dan de inflatie."
+        },
+        "120374": {
+          "position": "neither",
+          "explanation": "De gemeente moet de wet uitvoeren. Dat betekent dat elke gemeente een aantal nieuwe Nederlanders een thuis moet bieden. Als je dat goed doet gaat dat niet ten koste van eigen woningzoekenden."
+        },
+        "120379": {
+          "position": "disagree",
+          "explanation": "Het CDA wil geen coffeeshop of softdrugsloket in de gemeente zolang niet zonder twijfel vaststaat dat die voorziening het drugsgebruik vermindert."
+        },
+        "120380": {
+          "position": "neither",
+          "explanation": "Het CDA is voorstander van meer sociale huurwoningen voor alle leeftijdscategorieën. We zijn voor gemengde wijken, met koop, sociale huur en middenhuur, ook door de woningbouwvereniging. Dit moet je niet ineens uit het lood trekken."
+        },
+        "120381": {
+          "position": "agree",
+          "explanation": "In kernen kunnen meer woonlagen een oplossing zijn."
+        },
+        "120382": {
+          "position": "agree",
+          "explanation": "Onzelfstandige woonruimten zorgen vaker voor meer overlast. Bij specifieke doelgroepen (studentenhuizen of arbeidsmigranten) huisvesting is dat onder bepaalde voorwaarden niet het geval."
+        },
+        "120383": {
+          "position": "agree",
+          "explanation": "En er moet een goed digitaal parkeerverwijs systeem komen dat laat zien hoeveel plaatsen er per parkeerplaats nog zijn. Mensen die in het centrum werken (ook ambtenaren) parkeren aan de buitenrand van het centrum."
+        },
+        "120385": {
+          "position": "agree",
+          "explanation": "Kleine boerderij windmolens verstoren de horizon niet. En ze dragen wel bij in de energie transitie."
+        },
+        "120387": {
+          "position": "agree",
+          "explanation": "Provinciale (N) wegen blijven 80/100. Rijkswegen (A6) wordt weer 130"
+        },
+        "120388": {
+          "position": "disagree",
+          "explanation": "De gemeente helpt hierin, bij voorkeur niet in geld. Ook helpt de gemeente werkgevers die migranten aan het werk hebben dit te organiseren."
+        },
+        "120389": {
+          "position": "agree",
+          "explanation": "Waar te weinig ruimte is voor kliko's zijn ondergrondse containers de oplossing."
+        }
+      }
+    },
+    {
+      "id": 120319,
+      "name": "GroenLinks-PvdA",
+      "fullName": "Groenlinks - Partij van de Arbeid",
+      "website": "https://groenlinkspvda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "120333": {
+          "position": "disagree",
+          "explanation": "mensen moeten hun mening kunnen geven, bijvoorbeeld via burgerberaad. Bij een referendum moet de uitkomst uitgevoerd worden en dat is niet altijd haalbaar."
+        },
+        "120336": {
+          "position": "disagree",
+          "explanation": "in samenspraak, maar wel voor iedereen gelijk"
+        },
+        "120337": {
+          "position": "agree",
+          "explanation": "naar draagkracht zodat iedereen mee kan doen"
+        },
+        "120338": {
+          "position": "agree",
+          "explanation": "is niet passend bij onze sociaal economische agenda en meestal werken er veel arbeidsmigranten die gehuisvest moeten worden"
+        },
+        "120339": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "120342": {
+          "position": "neither",
+          "explanation": "het moet niet, is in afstemming met dorpen en wijken en bij voorkeur met financiële bijdrage vanuit de samenleving"
+        },
+        "120343": {
+          "position": "neither",
+          "explanation": "het zou handig zijn bijvoorbeeld 1x per jaar, na aanmelding"
+        },
+        "120346": {
+          "position": "agree",
+          "explanation": "sporten is belangrijk voor meedoen, gezondheid, sociale contacten"
+        },
+        "120349": {
+          "position": "disagree",
+          "explanation": "een school zou wel subsidie mogen krijgen om muziekles te geven. Via de meedoenregeling kunnen kinderen van ouders met een laag inkomen gebruik maken van muziekles en dat vinden wij belangrijk."
+        },
+        "120350": {
+          "position": "neither",
+          "explanation": "per situatie moet gekeken worden waardoor het komt, en hoe de gemeente eventueel kan helpen"
+        },
+        "120351": {
+          "position": "neither",
+          "explanation": "er is recent uitgebreid en als blijkt dat we meer nodig hebben, dan zij wij voorstander"
+        },
+        "120352": {
+          "position": "disagree",
+          "explanation": "ze zijn er al op belangrijke plekken en uitbreiding betekent ook dat er naar gehandeld moet worden, waar nu de capaciteit niet voor is. Het kan afschrikwekkend werken maar geeft ook schijnveiligheid en inbreuk op privacy."
+        },
+        "120354": {
+          "position": "disagree",
+          "explanation": "bij een toegankelijke uitstraling horen geen wapens"
+        },
+        "120359": {
+          "position": "disagree",
+          "explanation": "niet iedereen kan werken, begeleiding naar een zinvolle dagbesteding vinden wij wel belangrijk. Dit kan ook vrijwilligerswerk zijn"
+        },
+        "120360": {
+          "position": "disagree",
+          "explanation": "zeker niet, dit is een mooie regeling"
+        },
+        "120364": {
+          "position": "neither",
+          "explanation": "niet standaard, wel in de drukkere wijken"
+        },
+        "120367": {
+          "position": "neither",
+          "explanation": "het gaat om de kwaliteit van de zorg"
+        },
+        "120368": {
+          "position": "disagree",
+          "explanation": "ook hier gaat het om de kwaliteit"
+        },
+        "120369": {
+          "position": "agree",
+          "explanation": "ja, voor de mensen die het nodig hebben"
+        },
+        "120370": {
+          "position": "disagree",
+          "explanation": "OZB is hier niet hoog vergeleken met andere gemeentes. OZB wordt ook gebruikt voor onze voorzieningen, bijvoorbeeld bibliotheek en theater"
+        },
+        "120374": {
+          "position": "neither",
+          "explanation": "er moet een goede verdeling zijn, waarbij inwoners vanuit NOP snel een woning kunnen vinden en waarbij statushouders niet onnodig lang in het AZC hoeven te wachten"
+        },
+        "120379": {
+          "position": "agree",
+          "explanation": "had er al moeten zijn! we willen een goed gereguleerde coffeeshop om zicht te krijgen op gebruik en beter te kunnen inzetten op preventie"
+        },
+        "120380": {
+          "position": "neither",
+          "explanation": "we zitten nu nog onder de norm en we willen werken naar gemiddeld 30%, dit kan inhouden dat in nieuwe wijken 40% nodig is"
+        },
+        "120381": {
+          "position": "agree",
+          "explanation": "vooral als in de toekomst het station van de Lelylijn gaat komen. Hier rondom zou prima hoogbouw passen."
+        },
+        "120382": {
+          "position": "neither",
+          "explanation": "een hospita die verhuurt aan studenten zou prima kunnen, verhuur aan arbeidsmigranten moet reeds voldoen aan specifieke eisen"
+        },
+        "120383": {
+          "position": "disagree",
+          "explanation": "mensen kunnen beter op de fiets komen en er is om het centrum voldoende parkeerruimte. Meer parkeerplaatsen kan ook betaald parkeren betekenen (parkeergarage) en dit willen wij niet"
+        },
+        "120385": {
+          "position": "neither",
+          "explanation": "wij zijn voor het opwekken van groene energie. Kleine windmolens kunnen hierbij helpen, hoge windmolens kunnen leiden tot horizonvervuiling"
+        },
+        "120387": {
+          "position": "disagree",
+          "explanation": "op de provinciale wegen kan 80 km/uur en op de erftoegangswegen is 60 km/uur passender, dit vergt ook iets van onze inwoners zelf"
+        },
+        "120388": {
+          "position": "neither",
+          "explanation": "werkgevers en arbeidsbureaus moeten hier ook aan meewerken en meebetalen"
+        },
+        "120389": {
+          "position": "disagree",
+          "explanation": "in dichtbevolkte wijken kan het een goede oplossing zijn, vanuit dorpen kennen we deze vraag niet"
+        }
+      }
+    },
+    {
+      "id": 120318,
+      "name": "ONS Noordoostpolder",
+      "fullName": "ONS Noordoostpolder",
+      "website": "https://www.onsnoordoostpolder.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "120333": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "120336": {
+          "position": "agree",
+          "explanation": "De gemeente bepaalt wel de maximale sluitingstijd, bijvoorbeeld 3.00 uur."
+        },
+        "120337": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "120338": {
+          "position": "neither",
+          "explanation": "Hangt van de grote van het object af."
+        },
+        "120339": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "120342": {
+          "position": "neither",
+          "explanation": "Moet niet, maar zouden ze kunnen overwegen"
+        },
+        "120343": {
+          "position": "agree",
+          "explanation": "Ja dat wil iedereen wel, maar moet wel betaalbaar zijn"
+        },
+        "120346": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "120349": {
+          "position": "agree",
+          "explanation": "Muziekles binnen het standaard lespakket hoeft niet extra gesubsidieerd te worden. Buiten de schooluren zou dat mogelijk moeten zijn. Draagt bij bij de ontwikkeling van een kind."
+        },
+        "120350": {
+          "position": "agree",
+          "explanation": "Ja sport is essentieel voor een dorp en draagt bij aan de cohesie. Hulp uiteraard wel onder voorwaarden."
+        },
+        "120351": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "120352": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "120354": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "120359": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "120360": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "120364": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "120367": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "120368": {
+          "position": "agree",
+          "explanation": "Daarnaast moet het zorgaanbod beter op de zorgvraag afgestemd worden."
+        },
+        "120369": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "120370": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "120374": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "120379": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "120380": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "120381": {
+          "position": "agree",
+          "explanation": "Met een maximum van vier etages."
+        },
+        "120382": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "120383": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "120385": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "120387": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "120388": {
+          "position": "disagree",
+          "explanation": "Ja moet de mogelijkheid hebben dit te faciliteren ivm snelle inburgering"
+        },
+        "120389": {
+          "position": "disagree",
+          "explanation": "Wordt al opgehaald, dus nvt."
+        }
+      }
+    },
+    {
+      "id": 120320,
+      "name": "VVD",
+      "fullName": "Volkspartij voor Vrijheid en Democratie",
+      "website": "https://www.vvd.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "120333": {
+          "position": "disagree",
+          "explanation": "De gemeenteraad is gekozen om de inwoners te vertegenwoordigen. Bij het opstellen van beleid betrekken we wel actief onze inwoners. Dan is een referendum dus overbodig en zonde van de tijd die erin gaat zitten."
+        },
+        "120336": {
+          "position": "agree",
+          "explanation": "Horeca en terrassen zorgen voor een bruisend stadshart. Daar horen ruime openingstijden bij."
+        },
+        "120337": {
+          "position": "agree",
+          "explanation": "Lokale initiatieven om samen duurzame energie op te wekken kunnen in de opstartfase rekenen op ondersteuning in de vorm van kennis en geld vanuit het duurzaamheidsfonds."
+        },
+        "120338": {
+          "position": "agree",
+          "explanation": "Wij staan voor hoogwaardige werkgelegenheid. Bedrijven die zorgen voor banen, midden in de samenleving staan en bijdragen aan innovatie. Distributiecentra passen daar niet bij."
+        },
+        "120339": {
+          "position": "disagree",
+          "explanation": "Dit is een te strenge regel. We vinden het wel belangrijk dat onze leefomgeving voldoende groen is en blijft. Hier houden we bij alle ontwikkelingen rekening mee."
+        },
+        "120342": {
+          "position": "agree",
+          "explanation": "Vuurwerk is een traditie die hoort bij oud en nieuw. Wij vinden het zonde als deze traditie verloren gaat. Als inwoners niet meer zelf vuurwerk mogen afsteken, organiseert de gemeente een vuurwerkshow."
+        },
+        "120343": {
+          "position": "disagree",
+          "explanation": "We willen de kosten voor het ophalen van afval zo laag mogelijk houden. Grofvuil kan door inwoners naar de milieustraat worden gebracht. Veelal gratis, tijdens ruime openingstijden."
+        },
+        "120346": {
+          "position": "disagree",
+          "explanation": "Wij vinden het belangrijk dat iedereen kan sporten en bewegen. Wij ondersteunen financieel via de meedoenregeling het sporten van kinderen van wie de ouders dit niet kunnen betalen. Dat is voor ons voldoende."
+        },
+        "120349": {
+          "position": "disagree",
+          "explanation": "We vinden culturele vorming voor kinderen belangrijk, maar ouders zijn daar zelf verantwoordelijk voor. Via de meedoenregeling ondersteunen we de kinderen van ouders die echt onvoldoende financiële draagkracht hebben."
+        },
+        "120350": {
+          "position": "disagree",
+          "explanation": "Sportverenigingen zijn er zelf verantwoordelijk voor om financieel gezond te zijn en te blijven. We subsidiëren Carrefour om sportverenigingen te helpen sterk en toekomstbestendig te blijven."
+        },
+        "120351": {
+          "position": "agree",
+          "explanation": "Wij vinden veiligheid belangrijk. Met meer BOA's op straat kan er meer en gerichter handhaving en toezicht plaatsvinden. Dit is goed voor de leefbaarheid en de veiligheid."
+        },
+        "120352": {
+          "position": "agree",
+          "explanation": "Wij vinden veiligheid belangrijk. Cameratoezicht vergroot de pakkans en zorgt ervoor dat er toezicht is op risicoplekken. Het vergroot de veiligheid en er gaat een preventieve werking vanuit."
+        },
+        "120354": {
+          "position": "agree",
+          "explanation": "Wij vinden veiligheid belangrijk. Als BOA's meer of andere middelen nodig hebben om hun werk goed en veilig te doen, dan staan wij dat toe. Daarbij denken we niet alleen aan een wapenstok, maar ook aan pepperspray en bodycams."
+        },
+        "120359": {
+          "position": "agree",
+          "explanation": "Van inwoners met een bijstandsuitkering wordt een tegenprestatie verwacht, uiteraard rekening houdend met wat iemand kan, en met hulp van de gemeente waar nodig. Dit zorgt er ook voor dat iedereen mee blijft doen in de samenleving."
+        },
+        "120360": {
+          "position": "disagree",
+          "explanation": "Voor inwoners in financieel kwetsbare situaties is het kwijtschelden van gemeentelijke belastingen de makkelijkste manier om hen te ondersteunen."
+        },
+        "120364": {
+          "position": "disagree",
+          "explanation": "In woonwijken en op plekken waar dit nodig is, zoals bij scholen, mag de maximumsnelheid naar 30 km/u. Dit is vaak al het geval."
+        },
+        "120367": {
+          "position": "disagree",
+          "explanation": "Elke zorgverlener moet in staat zijn om inwoners met verschillende geloofsovertuigingen, cultuur of levensovertuiging passende zorg te bieden."
+        },
+        "120368": {
+          "position": "agree",
+          "explanation": "Jeugdzorg moet betaalbaar blijven voor de gemeente. Daarom is de prijs die een organisatie vraagt voor jeugdhulp naast kwaliteit een belangrijk selectiecriterium."
+        },
+        "120369": {
+          "position": "disagree",
+          "explanation": "Er zijn voldoende maatschappelijke organisaties die hier zorg voor dragen."
+        },
+        "120370": {
+          "position": "agree",
+          "explanation": "De lasten voor onze inwoners en ondernemers zijn al hoog genoeg en houden we zo laag mogelijk. Het verhogen van de ozb om de begroting sluitend te krijgen is onacceptabel."
+        },
+        "120374": {
+          "position": "disagree",
+          "explanation": "De wachttijden voor sociale huurwoningen zijn lang. Onze eigen inwoners wachten soms jaren op een woning. Het is oneerlijk om statushouders hierop voorrang te geven."
+        },
+        "120379": {
+          "position": "neither",
+          "explanation": "Als een coffeeshop bijdraagt aan het inperken van illegaliteit en overlast rondom drugsgebruik en -handel, zijn we bereid om te kijken naar de mogelijkheden voor het vestigen van een coffeeshop."
+        },
+        "120380": {
+          "position": "disagree",
+          "explanation": "40% van de nieuw te bouwen woningen in de vorm van sociale huur vinden wij teveel. Dit sluit ook niet aan bij de huidige en toekomstige behoefte van onze inwoners."
+        },
+        "120381": {
+          "position": "agree",
+          "explanation": "Gezien de grote vraag naar woningen moet er snel gebouwd worden. Hoger bouwen kan een optie zijn om het woningtekort tegen te gaan maar moet passen bij de omgeving. Daarom staan we meer dan 5 verdiepingen alleen in Emmeloord toe."
+        },
+        "120382": {
+          "position": "agree",
+          "explanation": "Wij willen voorkomen dat arbeidsmigranten van verschillende gezinnen in één huis wonen in Emmeloord en de dorpen. Dit heeft in het verleden voor overlast gezorgd."
+        },
+        "120383": {
+          "position": "agree",
+          "explanation": "Je moet met de auto naar het centrum van Emmeloord kunnen komen en daar gratis parkeren. Er zijn nu onvoldoende plekken. Een parkeergarage of een parkeerdek kan dat oplossen."
+        },
+        "120385": {
+          "position": "disagree",
+          "explanation": "We houden van ons open landschap. Als er op termijn gekozen wordt voor extra windmolens om in onze lokale energiebehoefte te voldoen, plaatsen we deze in het IJsselmeer."
+        },
+        "120387": {
+          "position": "disagree",
+          "explanation": "Veilige wegen zijn voor ons erg belangrijk. Er moet wel een balans zijn tussen veiligheid en snelheid. Verlaging van de maximaal toegestane snelheid verbetert de veiligheid vaak niet. 60 waar het moet, 80 waar het kan."
+        },
+        "120388": {
+          "position": "disagree",
+          "explanation": "Dit is een verantwoordelijkheid van de werkgevers van de arbeidsmigranten. Dit hoort bij het werkgeverschap."
+        },
+        "120389": {
+          "position": "disagree",
+          "explanation": "Wij vinden dienstverlening erg belangrijk bij de afvalinzameling. De huidige manier van afvalinzameling werkt prima en houden we in stand,."
+        }
+      }
+    },
+    {
+      "id": 120322,
+      "name": "FvD",
+      "fullName": "Forum voor Democratie",
+      "website": "https://fvd.nl/",
+      "hasSeats": false,
+      "participates": true,
+      "positions": {
+        "120333": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "120336": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "120337": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "120338": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "120339": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "120342": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "120343": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "120346": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "120349": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "120350": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "120351": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "120352": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "120354": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "120359": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "120360": {
+          "position": "neither",
+          "explanation": ""
+        },
+        "120364": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "120367": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "120368": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "120369": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "120370": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "120374": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "120379": {
+          "position": "neither",
+          "explanation": ""
+        },
+        "120380": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "120381": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "120382": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "120383": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "120385": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "120387": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "120388": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "120389": {
+          "position": "neither",
+          "explanation": ""
+        }
+      }
+    },
+    {
+      "id": 271433,
+      "name": "Brede Horizon",
+      "fullName": "Brede Horizon",
+      "website": "https://bredehorizon.nl/",
+      "hasSeats": false,
+      "participates": true,
+      "positions": {
+        "120333": {
+          "position": "agree",
+          "explanation": "Een referendum kan voor bepaalde belangrijke onderwerpen die iedereen aangaan een goed middel zijn om inwoners mee te laten beslissen. Wel moet er zorgvuldig met deze mogelijkheid worden omgegaan: het instrument moet alleen voor zwaarwegende besluitvorming worden ingezet."
+        },
+        "120336": {
+          "position": "agree",
+          "explanation": "Onze gemeente kan wel wat meer leven in de brouwerij gebruiken. Er moet meer te beleven zijn, het uitgaansleven moet onze inwoners meer te bieden hebben. Dan helpt het niet als we als gemeente beperkte openingstijden willen hanteren."
+        },
+        "120337": {
+          "position": "agree",
+          "explanation": "Een financieel steuntje in de rug om inwoners samen werk te laten maken van de verduurzaming van onze leefomgeving is wat Brede Horizon betreft een prima idee. De focus moet hier in de eerste plaats liggen bij inwoners die het meest gebaat zijn bij zo'n stimulans."
+        },
+        "120338": {
+          "position": "agree",
+          "explanation": "Grote distributiecentra verstoren het open landschap waar Noordoostpolder bekend om staat. Bovendien nemen ze veel ruimte in, ruimte die we liever benutten voor initiatieven die maatschappelijk waardevoller zijn."
+        },
+        "120339": {
+          "position": "agree",
+          "explanation": "De Noordoostpolder staat niet bepaald bekend om zijn enorme hoeveelheid bomen, laten we dat aantal niet nog verder verminderen. Bovendien is een groenere leefomgeving nodig om ook in de toekomst (bij hetere zomers) prettig te kunnen wonen. Meer bomen dus, en niet minder."
+        },
+        "120342": {
+          "position": "agree",
+          "explanation": "Met de invoering van het landelijk vuurwerkverbod voor consumenten in het achterhoofd vindt Brede Horizon het een goed idee om centrale vuurwerkshows te organiseren. Ook kan gedacht worden aan duurzamere alternatieven, zoals droneshows."
+        },
+        "120343": {
+          "position": "disagree",
+          "explanation": "De vervuiler betaalt, dus voor het afhalen van grofvuil aan huis mag best een financiële bijdrage worden gerekend."
+        },
+        "120346": {
+          "position": "agree",
+          "explanation": "Brede Horizon vindt dat alle inwoners moeten kunnen sporten. Een kleine portemonnee mag daar geen obstakel voor zijn. Inwoners met een bijstandsuitkering moeten ook lid kunnen zijn van een sportvereniging, en dat geldt al helemaal voor kinderen uit een huishouden met geldzorgen."
+        },
+        "120349": {
+          "position": "agree",
+          "explanation": "Cultuur verrijkt en verbreedt je horizon. Subsidie om ieder basisschoolkind de kans te geven om daarmee in aanraking te komen is een investering in een veelzijdigere samenleving. Een goed idee dus!"
+        },
+        "120350": {
+          "position": "agree",
+          "explanation": "Eens, maar wel in beperkte mate en bij voorkeur eenmalig. Tegenover een gemeente die financieel bijspringt hoort een traject waarbij de betreffende vereniging orde op zaken stelt om herhaling te voorkomen."
+        },
+        "120351": {
+          "position": "agree",
+          "explanation": "Veiligheid is een belangrijke voorwaarde voor een prettige samenleving. Brede Horizon vindt dat er te weinig politiecapaciteit en te weinig boa's zijn. Het is dan ook van belang om hier meer in te investeren."
+        },
+        "120352": {
+          "position": "agree",
+          "explanation": "Ja, maar dan wel op strategische plekken en met een duidelijk doel. Brede Horizon denkt hierbij aan uitvalswegen om diefstal van dure landbouwapparatuur tegen te gaan, en aan locaties in het centrum van Emmeloord waar de veiligheid in het geding is."
+        },
+        "120354": {
+          "position": "disagree",
+          "explanation": "Een wapenstok is een geweldsmiddel. Brede Horizon heeft is hier geen voorstander van. We zien in uitbreiding van het aantal boa's, daar is in Noordoostpolder meer behoefte aan."
+        },
+        "120359": {
+          "position": "agree",
+          "explanation": "Als de situatie dat toelaat, is Brede Horizon voorstander van het doen van maatschappelijk zinvol werk. Niet zozeer als tegenprestatie, maar vooral om mensen mee te laten draaien in onze maatschappij en de doorstroom richting een reguliere baan te verbeteren."
+        },
+        "120360": {
+          "position": "disagree",
+          "explanation": "Voor een klein deel van onze inwoners aan de onderkant van de samenleving geldt dat stoppen met kwijtschelden niemand helpt. Integendeel, het veroorzaakt juist schade in huishoudens (denk aan gezinnen in armoede) die niemand vooruit helpt."
+        },
+        "120364": {
+          "position": "agree",
+          "explanation": "Brede Horizon is het hiermee eens, omdat dit aantoonbaar leidt tot een grotere veiligheid voor medeweggebruikers zoals fietsers en voetgangers. Minder ongelukken, minder gewonden, kortom: het beperken van de maximumsnelheid in de bebouwde kom is niet meer dan logisch."
+        },
+        "120367": {
+          "position": "disagree",
+          "explanation": "Het gaat in de eerst plaats om het verlenen van goede zorg. Dat dit gebeurt door iemand die past bij hun geloof, cultuur of levensovertuiging is van secundair belang."
+        },
+        "120368": {
+          "position": "disagree",
+          "explanation": "Als het gaat om jeugdhulp mag de prijs nooit leidend zijn. Het spreekt voor zich dat kwaliteit hier de hoogste prioriteit krijgt. Kwetsbare jongeren hebben niets aan de goedkoopste aanbieder."
+        },
+        "120369": {
+          "position": "agree",
+          "explanation": "Bij 1 op de 8 meisjes en vrouwen in Nederland is er thuis geen geld voor maandverband of tampons. Hygiëne is geen luxe, maar een basisbehoefte die voor iedereen toegankelijk moet zijn."
+        },
+        "120370": {
+          "position": "neither",
+          "explanation": "De ozb moet in elk geval niet omhoog. Brede Horizon ziet dat Noordoostpolder een gemeente is die er financieel uitstekend voor staat, we zijn daarom geen voorstander van verhoging van de ozb. Verlaging is niet nodig: het op het huidige peil houden is in onze ogen schappelijk."
+        },
+        "120374": {
+          "position": "agree",
+          "explanation": "Ja, omdat dit inwoners zijn die in Nederland mogen blijven. Zowel deze mensen zelf als onze samenleving is erbij gebaat om het integratieproces zo goed mogelijk te laten verlopen. Daarbij helpt een eigen woning. De focus moet liggen op meer woningbouw, dat lost dit soort dilemma's op."
+        },
+        "120379": {
+          "position": "neither",
+          "explanation": "Onder bepaalde voorwaarden kan het denkbaar zijn dat we als gemeente de komst van een coffeeshop mogelijk maken. Dit moet dan wel op basis van zorgvuldig beleid plaatsvinden."
+        },
+        "120380": {
+          "position": "agree",
+          "explanation": "Dat het aantal sociale huurwoningen in zowel Emmeloord als de dorpen omhoog moet staar voor Brede Horizon vast. De wachtlijsten voor huurwoningen zijn de afgelopen jaren opgelopen tot een onacceptabel niveau. Deze ontwikkeling moet zo gauw mogelijk worden omgedraaid."
+        },
+        "120381": {
+          "position": "agree",
+          "explanation": "Ja, maar dan wel specifiek in Emmeloord en op basis van goed doordachte ruimtelijke ordening. In de dorpen passen hoge woonflats niet, maar is er wat Brede Horizon betreft wel ruimte voor meer appartementengebouwen. Op deze manier bieden we ruimte voor meer betaalbare woningen voor jong en oud."
+        },
+        "120382": {
+          "position": "disagree",
+          "explanation": "Brede Horizon kiest ervoor om losse kamerverhuur beperkt mogelijk te maken, omdat het bijdraagt aan betaalbare woonruimte voor jongeren en starters. Tegelijkertijd stellen we strikte en duidelijke regels, zodat leefbaarheid, veiligheid en samenhang in wijken beschermd blijven."
+        },
+        "120383": {
+          "position": "agree",
+          "explanation": "De parkeerruimte in het centrum van Emmeloord is, vooral op bepaalde dagen en piekmomenten, een probleem. Brede Horizon is voor de bouw van een (ondergrondse) parkeergarage. De Deel zou hier een goede locatie voor zijn: je kunt dit gebied dan meteen op een aantrekkelijke manier inrichten."
+        },
+        "120385": {
+          "position": "agree",
+          "explanation": "Ja, maar wel met een belangrijke voorwaarde: dit mogen alleen kleine windmolens zijn die het landschap niet verstoren. Brede Horizon is blij dat er in de Noordoostpolder niet lukraak overal windmolens staan, zo gaan we zorgvuldig om met de bijzondere inrichting van ons gebied."
+        },
+        "120387": {
+          "position": "neither",
+          "explanation": "Brede Horizon vindt dat er een onderscheid is tussen doorgaande (veelal provinciale) wegen en de kleinere, niet doorgaande, erftoegangswegen. Voor die laatste categorie is 60 km/u om veiligheidsredenen (denk aan medeweggebruikers zoals fietsers) een verstandige snelheid."
+        },
+        "120388": {
+          "position": "agree",
+          "explanation": "Als gemeente en als samenleving hebben we er baat bij dat arbeidsmigranten die zich permanent in Noordoostpolder vestigen de Nederlandse taal zo snel mogelijk goed spreken."
+        },
+        "120389": {
+          "position": "neither",
+          "explanation": "Dit zou een grote investering van de gemeente met zich meebrengen, terwijl je je kunt afvragen of het dat waard is. Ondergrondse containers bij hoogbouw en appartementencomplexen is wel een goed idee."
+        }
+      }
+    }
+  ],
+  "statements": [
+    {
+      "id": 120389,
+      "index": 1,
+      "theme": "Waste",
+      "themeId": "afval",
+      "title": "There should be underground containers for residual waste in all villages.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120336,
+      "index": 2,
+      "theme": "Opening hours for hospitality venues",
+      "themeId": "openingstijden-horeca",
+      "title": "Cafés and restaurants must be able to determine their own opening hours.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120364,
+      "index": 3,
+      "theme": "Car speeds",
+      "themeId": "snelheid-auto-s",
+      "title": "The maximum speed limit in built-up areas should be set to 30 km/h.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120333,
+      "index": 4,
+      "theme": "Referendum",
+      "themeId": "referendum",
+      "title": "The residents of Noordoostpolder should be able to express their opinions on important issues via a referendum.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120346,
+      "index": 5,
+      "theme": "Sports membership fees",
+      "themeId": "contributie-sport",
+      "title": "The municipality should pay the membership fees for a sports club for people receiving social assistance.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120337,
+      "index": 6,
+      "theme": "Sustainable energy",
+      "themeId": "duurzame-energie",
+      "title": "Residents who want to generate sustainable energy together should receive financial support from the municipality.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120380,
+      "index": 7,
+      "theme": "Social housing",
+      "themeId": "sociale-huurwoningen",
+      "title": "At least 40% of the new homes in Noordoostpolder should be social rental housing. Currently, 28% of homes in the Netherlands are social rental housing.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120351,
+      "index": 8,
+      "theme": "Enforcement officers",
+      "themeId": "handhavers",
+      "title": "There should be more municipal enforcement officers (BOAs) in Noordoostpolder who focus on safety.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120349,
+      "index": 9,
+      "theme": "Music lessons",
+      "themeId": "muziekles",
+      "title": "Every primary school child should be able to receive music lessons subsidized by the municipality.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120338,
+      "index": 10,
+      "theme": "Distribution centers",
+      "themeId": "distributiecentra",
+      "title": "The municipality must oppose the establishment of new distribution centers.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120352,
+      "index": 11,
+      "theme": "Camera surveillance",
+      "themeId": "cameratoezicht",
+      "title": "There should be more camera surveillance in Noordoostpolder.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120388,
+      "index": 12,
+      "theme": "Migrant workers",
+      "themeId": "arbeidsmigranten",
+      "title": "The municipality should subsidize Dutch language lessons for migrant workers.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120350,
+      "index": 13,
+      "theme": "Sports clubs",
+      "themeId": "sportverenigingen",
+      "title": "If sports clubs are struggling, the municipality should contribute financially.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120342,
+      "index": 14,
+      "theme": "Fireworks",
+      "themeId": "vuurwerk",
+      "title": "The municipality should organize a fireworks show on New Year's Eve.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120383,
+      "index": 15,
+      "theme": "More parking spaces",
+      "themeId": "meer-parkeerplaatsen",
+      "title": "There should be more parking spaces in the center of Emmeloord.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120369,
+      "index": 16,
+      "theme": "Free menstrual products",
+      "themeId": "gratis-menstruatieproducten",
+      "title": "The municipality should distribute tampons and sanitary pads for free.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120343,
+      "index": 17,
+      "theme": "Bulky waste",
+      "themeId": "grofvuil",
+      "title": "Bulky waste must be collected from homes free of charge.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120360,
+      "index": 18,
+      "theme": "Stop debt forgiveness",
+      "themeId": "kwijtschelding-stoppen",
+      "title": "The municipality should stop forgiving municipal taxes for low-income residents.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120379,
+      "index": 19,
+      "theme": "Coffeeshop (cannabis shop)",
+      "themeId": "coffeeshop",
+      "title": "The municipality should allow the establishment of a coffeeshop.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120359,
+      "index": 20,
+      "theme": "Work requirement for welfare recipients",
+      "themeId": "tegenprestatie-voor-uitkering",
+      "title": "People receiving social assistance should, in return, do socially useful work.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120339,
+      "index": 21,
+      "theme": "Trees",
+      "themeId": "bomen",
+      "title": "For every tree cut down in the municipality, a new one must be planted.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120382,
+      "index": 22,
+      "theme": "Subdivision into multiple rooms",
+      "themeId": "verkamering",
+      "title": "The municipality must prohibit landlords from renting out separate rooms instead of whole houses.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120368,
+      "index": 23,
+      "theme": "Youth care",
+      "themeId": "jeugdzorg",
+      "title": "When selecting organizations for youth care, the municipality should primarily pay attention to price.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120385,
+      "index": 24,
+      "theme": "Wind turbines",
+      "themeId": "windmolens",
+      "title": "The municipality should allow wind turbines on land.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120370,
+      "index": 25,
+      "theme": "Tax on buildings",
+      "themeId": "belasting-op-gebouwen",
+      "title": "The property tax (onroerendezaakbelasting, OZB) should be reduced.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120381,
+      "index": 26,
+      "theme": "Apartment buildings",
+      "themeId": "woonflats",
+      "title": "Noordoostpolder should allow more high-rise residential buildings.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120354,
+      "index": 27,
+      "theme": "Baton (police baton)",
+      "themeId": "wapenstok",
+      "title": "The BOAs who enforce safety in Noordoostpolder should be issued a baton.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120367,
+      "index": 28,
+      "theme": "Choice of healthcare",
+      "themeId": "zorgkeuze",
+      "title": "People who need care should always be able to choose a caregiver who matches their religion, culture, or beliefs.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120374,
+      "index": 29,
+      "theme": "Priority for refugees",
+      "themeId": "voorrang-voor-vluchtelingen",
+      "title": "The municipality must continue to give refugees with a residence permit priority for social housing.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120387,
+      "index": 30,
+      "theme": "Polder roads",
+      "themeId": "polderwegen",
+      "title": "The maximum speed on the polder roads should be reduced to 60 km/h.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    }
+  ]
+}

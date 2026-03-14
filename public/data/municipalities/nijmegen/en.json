@@ -1,0 +1,1903 @@
+{
+  "id": "GM0268",
+  "name": "Nijmegen",
+  "slug": "nijmegen",
+  "parties": [
+    {
+      "id": 119973,
+      "name": "GroenLinks Nijmegen",
+      "fullName": "Groenlinks",
+      "website": "https://nijmegen.groenlinks.nl/home",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "120002": {
+          "position": "agree",
+          "explanation": "Inwoners moeten meepraten en meebeslissen over Nijmegen. Dat kan via een referendum, maar we zetten liever in op nieuwe en betere inspraakvormen waarmee bewoners taken van de gemeente kunnen overnemen en nieuwe plannen kunnen. Denk bijvoorbeeld aan een inwonersberaad en het zogenaamde uitdaagrecht."
+        },
+        "120005": {
+          "position": "neither",
+          "explanation": "Nijmegen is een gezellig stad met veel leuke cafés en restaurants. Dat moeten we koesteren. Binnen de huidige regels bepaalt de horeca zelf wanneer ze open zijn, alleen tussen 04:00 en 08:00 moeten de deuren gesloten zijn voor nieuwe gasten. Deze regels werken goed, wat ons betreft blijven ze zo."
+        },
+        "120009": {
+          "position": "agree",
+          "explanation": "Terrassen worden warm door warmtekussens, dekens en gezelligheid, niet door energieverslindende warmtelampen. We stoppen met het gebruik van terrasverwarmers die onnodig veel energie verbruiken en ondersteunen ondernemers bij de overstap naar duurzame alternatieven."
+        },
+        "120010": {
+          "position": "disagree",
+          "explanation": "Een mooi en gezellig nieuwjaarsfeest kan ook zonder vuurwerk. Zo houden we het veilig en prettig voor iedereen, ook voor hulpverleners en (huis)dieren. Mooie en milieuvriendelijke alternatieven zoals een droneshow onderzoeken we graag."
+        },
+        "120015": {
+          "position": "agree",
+          "explanation": "Een lokale omroep zoals RN7 zorgt ervoor dat Nijmegenaren weten wat er speelt in onze stad en omgeving, van de straat tot de gemeenteraad. Veel lokale media hebben moeite om het hoofd boven water te houden. Daarom blijven we hier als gemeente aan bijdragen."
+        },
+        "120020": {
+          "position": "disagree",
+          "explanation": "Veiligheid doe je samen, in de buurt, de wijk en op school. Handhaving pakt onveiligheid aan. Wij kiezen ervoor onveiligheid preventief aan te pakken, bijvoorbeeld door meer jongeren- en opbouwwerkers en door een veiligere inrichting van de openbare ruimte (zoals goede straatverlichting)."
+        },
+        "120021": {
+          "position": "disagree",
+          "explanation": "Het is heel belangrijk om je veilig te voelen op straat, maar cameratoezicht is daarvoor geen goede oplossing. Privacy is een groot goed en mag niet zomaar worden aangetast. Cameratoezicht wordt daarom alleen ingezet bij zwaarwegende veiligheidsredenen en nooit langer dan noodzakelijk."
+        },
+        "120024": {
+          "position": "agree",
+          "explanation": "Nijmegen heeft een groot woningtekort. Daarom is het belangrijk dat we woningen bijbouwen én dat iedereen een eerlijke kans krijgt op een huis. Een starterslening helpt starters hierbij."
+        },
+        "120027": {
+          "position": "agree",
+          "explanation": "Huizen zijn om in te wonen, niet om geld mee te verdienen. Koop je een huis, dan moet je er zelf in gaan wonen, de zogenaamde zelfbewoningsplicht. Ook maken we ons hard voor een opkoopbescherming. Zo voorkomen we dat pandjesbazen betaalbare huizen opkopen om voor veel te hoge prijzen te verhuren."
+        },
+        "120030": {
+          "position": "disagree",
+          "explanation": "Mensen zitten niet in de bijstand omdat ze geen zin hebben om te werken. Zij hebben behoefte aan een stabiele basis, een betaalbare woning en vertrouwen vanuit de gemeente. Met extra eisen en voorwaarden zorgen we juist voor meer onzekerheid en veroorzaken we nieuwe problemen."
+        },
+        "120032": {
+          "position": "agree",
+          "explanation": "Zolang Den Haag niet zorgt voor een fatsoenlijk minimuminkomen, moeten wij ervoor zorgen dat iedere inwoner rond kan komen. Het verhogen van de inkomensgrens (zodat mensen sneller ondersteuning bij armoede krijgen) zorgt ervoor dat een grotere groep Nijmegenaren kan leven zonder geldzorgen."
+        },
+        "120034": {
+          "position": "agree",
+          "explanation": "Iedereen heeft recht op een goed leven, dat mag niet afhankelijk zijn van inkomen of financiële situatie. In Nijmegen staan we ervoor dat alle mensen in onze stad een fatsoenlijk inkomen hebben. Een basisinkomen kan hiervoor zorgen, daarom moeten we hier zeker proeven mee blijven doen."
+        },
+        "120036": {
+          "position": "agree",
+          "explanation": "De cijfers laten heel duidelijk zien: met een lagere maximumsnelheid wordt het verkeer in onze gemeente véél veiliger. Voor fietsende kinderen en ouderen die slecht ter been zijn is dit een wereld van verschil. Bovendien is het stiller op straat en wordt de lucht schoner."
+        },
+        "120039": {
+          "position": "agree",
+          "explanation": "Iedereen moet de zorg krijgen die ze nodig hebben. Maar zorg krijgen is kwetsbaar en intiem, daarom vinden we het belangrijk dat mensen kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of levensovertuiging. Discriminatie mag nooit."
+        },
+        "120045": {
+          "position": "disagree",
+          "explanation": "We maken bestaande bedrijventerreinen klaar voor de toekomst. Op de bestaande plekken zijn meer dan voldoende kansen voor herontwikkeling. Zo maken we dit plekken voor duurzame en circulaire initiatieven. Door hierin te investeren creëren we ook extra banen."
+        },
+        "120047": {
+          "position": "agree",
+          "explanation": "Mensen die urgent op zoek zijn naar een woning, omdat ze (anders) op straat staan krijgen wat ons betreft voorrang. Dit kan gaan om statushouders, maar veel vaker gaat het om alleenstaande ouders, jongeren die uit de jeugdzorg komen of dak- en thuisloze mensen."
+        },
+        "120049": {
+          "position": "disagree",
+          "explanation": "Nijmegen heeft geen landbouwgrond."
+        },
+        "120053": {
+          "position": "disagree",
+          "explanation": "Onze geschiedenis, ons erfgoed en onze cultuur maken Nijmegen de rijke en mooie stad die ze is. Maar wat GroenLinks betreft is dit meer dan alleen taal, daarom kiezen wij voor investeren in alles wat Nijmegen Nijmeegs maakt."
+        },
+        "120055": {
+          "position": "agree",
+          "explanation": "Iedereen heeft recht op een betaalbaar huis. GroenLinks kiest daarom voor 40% sociale huur bij nieuwe projecten. In totaal moet 2/3 van de nieuwe huizen in Nijmegen betaalbaar zijn."
+        },
+        "120061": {
+          "position": "disagree",
+          "explanation": "GroenLinks kiest niet voor symptoombestrijding. We zetten in op het voorkomen van dakloosheid en op de juiste hulp en ondersteuning om alle dakloze mensen in Nijmegen een dak boven het hoofd te geven."
+        },
+        "120062": {
+          "position": "disagree",
+          "explanation": "Bezoekers van buiten Nijmegen worden verleid om te parkeren op transferia met goede verbindingen. Zo kunnen mensen makkelijk en betaalbaar in de stad komen en kunnen we het centrum vergroenen en mooier maken. Mensen die slecht ter been zijn kunnen natuurlijk nog steeds in het centrum parkeren."
+        },
+        "120063": {
+          "position": "disagree",
+          "explanation": "De uitstoot van niet-elektrische brommers en scooters hebben een grote impact op de gezondheid van fietsers en voetgangers die vlakbij hen rijden en lopen. Daarom faseren we vervuilende scooters uit, met sloop- en vervangsubsidies zorgen we ervoor dat iedereen een elektrische scooter kan betalen."
+        },
+        "120064": {
+          "position": "agree",
+          "explanation": "De straten in onze stad worden steeds drukker, daarom moeten we goed bedenken waar we de beperkte ruimte voor inzetten. GroenLinks kiest voor ruimte voor groen, ontmoeting, fietsen, wandelen en openbaar vervoer boven nog meer ruimte voor personenauto's."
+        },
+        "120065": {
+          "position": "agree",
+          "explanation": "De uitstoot van houtstook is niet gezond: daarom moet houtstook bij code rood en oranje verboden worden. Bovendien zetten we door met de sloopsubsidie voor bestaande houtkachels en komen er geen nieuwe houtkachels meer bij."
+        },
+        "120066": {
+          "position": "agree",
+          "explanation": "Het opsplitsen van bestaande grote huizen is een ideaal antwoord op de grote vraag naar kleinere woningen. De gemeente gaat dit actief ondersteunen. Daarnaast zetten we ook in op splitsingen voor het creëren van nieuwe woongroepen en woonverenigingen."
+        },
+        "120067": {
+          "position": "disagree",
+          "explanation": "Iedereen heeft recht op een veilige werkplek, ook sekswerkers. Daarom houden we de tippelzone open. Zo houden we een veilige plek voor straatsekswerkers, met beveiliger, om hun werk te doen en een huiskamer waar ze makkelijk toegang hebben tot zorg, ondersteuning en elkaar."
+        },
+        "120069": {
+          "position": "disagree",
+          "explanation": "De Vierdaagsefeesten is het grootste en mooiste gratis feest van Nederland. Cafés en festivalorganisaties betalen de kosten voor podia en artiesten met de winst van de drankjes. Supermarkten dragen met hun verkoop hier niet aan bij, zonder ingrijpen kan de Vierdaagse niet gratis blijven."
+        },
+        "120070": {
+          "position": "agree",
+          "explanation": "Cultuurhuis Lindenberg is dé plek waar iedere Nijmegenaar cultuur kan beleven. Om dit ook in de toekomst te kunnen is het huidige gebouw te verouderd. Daarom vernieuwen we het gebouw zo duurzaam mogelijk met plek voor maatschappelijke organisaties. Royaal betekent wat ons betreft “voldoende geld”."
+        }
+      }
+    },
+    {
+      "id": 119974,
+      "name": "Stadspartij Nijmegen",
+      "fullName": "Stadspartij Nijmegen",
+      "website": "https://www.stadspartijnijmegen.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "120002": {
+          "position": "agree",
+          "explanation": "Nijmegen maken we samen! We betrekken inwoners al via gesprekken in de wijk en een burgerberaad. Bij grote keuzes voor de stad gaat een referendum helpen om eerlijk te laten zien wat er leeft en om draagvlak te organiseren. Zo krijgen Nijmegenaren echte invloed."
+        },
+        "120005": {
+          "position": "agree",
+          "explanation": "We hechten waarde aan vrijheid voor ondernemers. Ook kan spreiding van sluitingstijden bijdragen aan het tegengaan van overlast in de nachtelijke uren. Maar ondernemer en gemeente samen moeten wel grenzen bewaken qua leefbaarheid voor de omwonenden."
+        },
+        "120009": {
+          "position": "disagree",
+          "explanation": "Wel voorlichting, geen onzinnige verboden. We willen minder energie verspillen, maar een verbod is niet onze manier. We overleggen liever met ondernemers zodat zij zelf met alternatieven kunnen komen en tegelijkertijd goed en klantvriendelijk kunnen blijven ondernemen."
+        },
+        "120010": {
+          "position": "agree",
+          "explanation": "Een centrale vuurwerkshow kan een goed alternatief zijn als een vuurwerkverbod echt werkt. Zolang vuurwerk gewoon te koop is en bezit niet wordt verboden, blijft handhaving een probleem. Pas als dat goed geregeld is, komt er ruimte in de capaciteit voor politie-inzet en een veilige show."
+        },
+        "120015": {
+          "position": "agree",
+          "explanation": "Lokale media en wijkbladen zijn onmisbaar voor een sterke lokale democratie. Zij zorgen voor betrouwbare berichtgeving, gemaakt voor en door Nijmegenaren. Daarom ondersteunen we lokale omroep en wijkbladen zodat zij verslag kunnen doen van wat er speelt in de stad en de wijken."
+        },
+        "120020": {
+          "position": "agree",
+          "explanation": "De Stadspartij neemt veiligheid 24/7 serieus. Een veilige stad vraagt om zichtbare handhaving, in binnenstad én wijken. Daarom zetten we meer BOA’s in en breiden we die capaciteit uit. Met meer handhavers op straat pakken we overlast sneller aan en zorgen we voor rust en veiligheid."
+        },
+        "120021": {
+          "position": "agree",
+          "explanation": "De Stadspartij neemt veiligheid 24/7 serieus. Iedereen moet zich veilig voelen in Nijmegen. Cameratoezicht helpt overlast aan te pakken en vergroot het veiligheidsgevoel. Daarom zetten we camera’s gericht in, als onderdeel van een brede en slimme veiligheidsaanpak."
+        },
+        "120024": {
+          "position": "agree",
+          "explanation": "Starters hebben het moeilijk op de woningmarkt. In Nijmegen hebben we daarom al een starterslening. Die helpt mensen die voor het eerst een huis kopen om nét dat laatste stukje te overbruggen en in onze mooie stad kunnen blijven wonen."
+        },
+        "120027": {
+          "position": "agree",
+          "explanation": "Woningen zijn er om in te wonen. Daarom hebben we in Nijmegen al een zelfbewoningsplicht en een anti-speculatiebeding. Zo voorkomen we dat huizen worden opgekocht voor winst en houden we woningen beschikbaar en betaalbar voor bewoners."
+        },
+        "120030": {
+          "position": "disagree",
+          "explanation": "Mensen met een uitkeringen moeten we vooral zo snel mogelijk naar een zelfstandig bestaan toe leiden. We focussen op begeleidingstrajecten die echt tot resultaat leiden. Geen overbodige bezigheidstherapie maar liever een gedegen traject naar meer financiële bestaanszekerheid."
+        },
+        "120032": {
+          "position": "agree",
+          "explanation": "Armoede hoort niet thuis in Nijmegen. Veel Nijmegenaren vallen net buiten de huidige regels, terwijl ze wel moeite hebben om rond te komen. Door de inkomensgrens te verhogen versterken we de financiële bestaanszekerheid en voorkomen we dat kleine problemen uitgroeien tot schulden en armoede."
+        },
+        "120034": {
+          "position": "disagree",
+          "explanation": "Wij kiezen voor bestaanszekerheid, vertrouwen en minder regels. Een basisinkomen kan alleen landelijk worden ingevoerd. Eerdere proeven waren niet succesvol. Daarom komt er in Nijmegen een Maatschappelijk Meedoen Budget en daardoor meer kans op een zelfstandig leven zonder geldzorgen."
+        },
+        "120036": {
+          "position": "disagree",
+          "explanation": "Verkeersveiligheid is belangrijk, maar 30 km/u werkt alleen als straten ook echt worden aangepast. Alleen een bord vervangen is een symboolmaatregel. Hoofdwegen moeten blijven doorstromen. In woonwijken kan 30 km/u passen als dit de veiligheid verbetert en straten veiliger worden ingericht."
+        },
+        "120039": {
+          "position": "disagree",
+          "explanation": "Zorg moet voor iedereen toegankelijk en betaalbaar blijven. We hebben oog voor iemands achtergrond en wensen, maar kunnen niet beloven dat altijd alles kan. Goede zorg gaat over kwaliteit, beschikbaarheid en respect, binnen wat praktisch en haalbaar is."
+        },
+        "120045": {
+          "position": "agree",
+          "explanation": "Nijmegen heeft ruimte nodig voor werk en bedrijvigheid. Door bedrijventerreinen uit te breiden en slimmer te benutten, versterken we innovatie en werkgelegenheid. Dat doen we gericht, onder meer op De Grift, TPN-West en de Novio Tech Campus (Winkelsteeg), met oog voor duurzaamheid en de omgeving."
+        },
+        "120047": {
+          "position": "disagree",
+          "explanation": "Dit is geen vrije keuze van Nijmegen, maar een landelijke verplichting. Vergunninghouders moeten worden gehuisvest. Wij doen dit omdat het moet, maar willen liever meer steun uit Den Haag om de woningnood op te lossen, zodat bouwen voor iedereen voorrang krijgt."
+        },
+        "120049": {
+          "position": "disagree",
+          "explanation": "Landbouwgrond is schaars in Nijmegen. We willen daar zorgvuldig mee omgaan. Zonnepanelen plaatsen we bij voorkeur op daken, bedrijventerreinen en andere logische plekken."
+        },
+        "120053": {
+          "position": "agree",
+          "explanation": "De Nimweegse taal hoort bij ons erfgoed. En erfgoed verbindt en voedt het gevoel van samen bij deze stad horen. Daarom is het belangrijk dat we de Nimweegse taal en andere Nijmeegse volkscultuur levend houden. Ieder Nijmeegs kind zou ook ons stadslied Al Mot Ik Krupe moeten kennen."
+        },
+        "120055": {
+          "position": "disagree",
+          "explanation": "In Nijmegen onderzoeken we iedere 2 jaar aan welk type woningen het meeste behoefte is. Daaruit blijkt dat 30% van de nieuwbouwwoningen sociale huur moet zijn. Verder is er veel behoefte aan middenhuur en betaalbare koop. We zorgen bij nieuwbouw voor een mix die aansluit bij de behoefte van de stad."
+        },
+        "120061": {
+          "position": "agree",
+          "explanation": "De Stadspartij wil dakloosheid in Nijmegen overbodig maken. Niemand hoort buiten te slapen. Met opvang, begeleiding en zorg helpen we mensen naar een eigen plek. Iedereen die er recht op heeft krijgt een dak boven het hoofd, zodat opvang op termijn niet meer nodig is."
+        },
+        "120062": {
+          "position": "agree",
+          "explanation": "Een bereikbare binnenstad is cruciaal voor winkels, horeca en bewoners. Daarom geven we ruimte voor kort parkeren rond het centrum. Aan de randen van de binnenstad, zoals onder de Wedren, zorgen we bij sluiting Marienburg voor voldoende parkeercapaciteit en houden we de stad economisch vitaal."
+        },
+        "120063": {
+          "position": "agree",
+          "explanation": "Wij stemden tegen het brommerverbod. Want een elektrische brommer is duur. Dit verbod raakt vooral mensen met een kleine beurs. We lopen niet vooruit op landelijke regels. Eerst moet er gewerkt worden aan het betaalbaar krijgen van elektrische brommers en goede laadpunten."
+        },
+        "120064": {
+          "position": "disagree",
+          "explanation": "Onze hoofdwegen moeten blijven doorstromen. Het Keizer Karelplein en Oranjesingel mogen weer de allure van vroeger krijgen. Maar dat doen we zonder ruimte voor de auto hier af te knijpen. Deze routes maken we mooier door aan de randen bomen, groen en bloemen toe te voegen."
+        },
+        "120065": {
+          "position": "disagree",
+          "explanation": "Houtrook kan overlast geven, maar een verbod bij code oranje of rood is niet handhaafbaar en werkt vooral op papier. Wij kiezen voor schone lucht via voorlichting en bewust stoken, en voor bemiddeling in de wijk bij overlast. Geen onzinnige verboden, maar maatregelen die echt werken."
+        },
+        "120066": {
+          "position": "disagree",
+          "explanation": "Woningsplitsing klinkt als snelle oplossing, maar leidt in Nijmegen vaak tot overlast, te kleine kamers en extra druk op wijken. Daarom zijn de regels aangescherpt. Bouwen is nodig, maar niet ten koste van leefbaarheid en veiligheid in buurten."
+        },
+        "120067": {
+          "position": "neither",
+          "explanation": "Sluiting van de tippelzone lost niets op. Zonder toezicht verdwijnen sekswerkers in de illegaliteit, met meer onveiligheid en uitbuiting. Tegelijk verandert het stationsgebied sterk door woningbouw. Daarom kiezen we voor voorlopig behoud en werken we toe naar een zorgvuldige verplaatsing op termijn."
+        },
+        "120069": {
+          "position": "disagree",
+          "explanation": "Tijdens de Vierdaagse dragen horeca en evenementen de feesten en investeren zij veel. Zij betalen ook mee aan het schoon en veilig houden. Supermarkten profiteren mee, maar dragen die verantwoordelijkheid niet. Dat is niet eerlijk en niet in het belang van de stad en de Vierdaagse(feesten)."
+        },
+        "120070": {
+          "position": "disagree",
+          "explanation": "De Lindenberg is belangrijk voor cultuur in de stad. Het gebouw is ons eigendom, maar verouderd en slecht toegankelijk. We willen de plek verbeteren en onderzoeken of blijven of verhuizen beter is. Betaalbaarheid staat voorop: verbouwen ja, royaal investeren nee.."
+        }
+      }
+    },
+    {
+      "id": 119975,
+      "name": "D66",
+      "fullName": "D66",
+      "website": "https://d66.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "120002": {
+          "position": "agree",
+          "explanation": "Democratie wordt sterker als mensen niet alleen kunnen stemmen, maar ook kunnen meedoen, meedenken en meebeslissen. We staan daarom open voor referenda en willen burgerfora, digitale platforms en een jongerenraad vaker inzetten."
+        },
+        "120005": {
+          "position": "agree",
+          "explanation": "Cafés en restaurants moeten zelf hun openingstijden bepalen, altijd met oog voor de leefbaarheid in de buurt. Ondernemers weten wat werkt, terwijl de gemeente samen met bewoners blijft letten op overlast."
+        },
+        "120009": {
+          "position": "disagree",
+          "explanation": "Een verbod op terrasverwarming zet weinig zoden aan de dijk en beperkt ondernemers onnodig. D66 kiest liever voor effectieve manieren om energie te besparen en te verduurzamen, zoals isoleren en het aanleggen van een warmtenet."
+        },
+        "120010": {
+          "position": "agree",
+          "explanation": "Een gezamenlijke, professionele jaarwisselingsshow zorgt voor een feestelijk moment voor de hele stad en voorkomt onacceptabele overlast, vervuiling en schade die nu door particulier vuurwerk ontstaat."
+        },
+        "120015": {
+          "position": "agree",
+          "explanation": "Goede (onderzoeks)journalistiek controleert de macht, legt uit wat er speelt in de politiek en brengt besluiten dicht bij de mensen. Het is belangrijk dat lokale media stevig staan."
+        },
+        "120020": {
+          "position": "agree",
+          "explanation": "Er is nu een structureel tekort, waardoor handhaving achterblijft. Extra boa’s zijn nodig om regels ook te kunnen handhaven en de stad veilig en leefbaar te houden. Daarnaast willen we dat boa’s zich actief inzetten tegen straatintimidatie."
+        },
+        "120021": {
+          "position": "disagree",
+          "explanation": "D66 is terughoudend met cameratoezicht. Alleen bij specifieke problemen, zoals straatintimidatie of aantoonbare onveiligheid, kan het tijdelijk worden ingezet; structureel kiezen we voor andere oplossingen, zoals meer handhaving en betere straatverlichting."
+        },
+        "120024": {
+          "position": "agree",
+          "explanation": "Starters hebben het nu extra moeilijk op de woningmarkt en verdienen steun om een eerste woning te kunnen kopen. Startersleningen kunnen helpen om de woningmarkt te betreden, naast onze inzet op het bouwen van meer betaalbare woningen."
+        },
+        "120027": {
+          "position": "neither",
+          "explanation": "We vinden een zelfbewoningsplicht belangrijk om te voorkomen dat betaalbare koopwoningen worden opgekocht voor speculatie en om starters een eerlijke kans te geven. Tegelijk erkennen we dat verhuur ook nodig is voor mensen die (nog) niet kunnen of willen kopen."
+        },
+        "120030": {
+          "position": "agree",
+          "explanation": "D66 vindt het redelijk dat mensen met een bijstandsuitkering vrijwilligerswerk doen, zolang dit passend is en rekening houdt met iemands persoonlijke situatie."
+        },
+        "120032": {
+          "position": "disagree",
+          "explanation": "We streven naar een simpeler en eerlijker armoedesysteem. Geen wirwar aan regelingen, maar een aanvulling op het inkomen tot een niet-veel-maar-toereikend niveau. De huidige inkomensgrens zorgt ervoor dat mensen volwaardig kunnen meedoen in onze stad."
+        },
+        "120034": {
+          "position": "neither",
+          "explanation": "De kosten van een gemeentelijk basisinkomen zijn te hoog en een gemeente kan dat niet betalen of via belastingen opbrengen. Wel staan we open voor landelijke proeven, waarbij het Rijk de kosten en randvoorwaarden regelt."
+        },
+        "120036": {
+          "position": "neither",
+          "explanation": "D66 Nijmegen kiest niet voor een algemene 30 km/u-norm in de hele bebouwde kom. We willen lagere snelheden waar dat de veiligheid en leefbaarheid verbetert, maar houden de stad ook bereikbaar door op hoofdwegen ruimte te laten voor goede doorstroming."
+        },
+        "120039": {
+          "position": "agree",
+          "explanation": "Keuzevrijheid in de zorg is altijd belangrijk. Mensen moeten kunnen kiezen voor een zorgverlener die bij hen past en waarbij zij zich prettig en veilig voelen. Die ruimte is essentieel voor goede, mensgerichte zorg."
+        },
+        "120045": {
+          "position": "agree",
+          "explanation": "De ruimte in en rond de stad is schaars. Daarom zetten we in op verdichting en slimmer gebruik van bestaande bedrijventerreinen, zodat we daar meer ruimte creëren voor bedrijven en banen, zonder extra open ruimte aan te snijden."
+        },
+        "120047": {
+          "position": "agree",
+          "explanation": "D66 staat voor een eerlijke en evenwichtige woningtoewijzing. Vluchtelingen met een verblijfsvergunning moeten zo snel mogelijk kunnen starten met hun leven in Nijmegen. Daarom steunen wij de huidige regeling, waarin voorrang niet uniek is voor één groep."
+        },
+        "120049": {
+          "position": "disagree",
+          "explanation": "Zonnepanelen zijn hard nodig voor de energietransitie. D66 wil zonnepanelen op landbouwgrond daarom niet verbieden."
+        },
+        "120053": {
+          "position": "disagree",
+          "explanation": "Scholen gaan zelf over de inhoud van het onderwijs. De gemeente moet daar geen verplichtingen voor opleggen."
+        },
+        "120055": {
+          "position": "neither",
+          "explanation": "We sturen per wijk op een evenwichtige mix van sociale huur, middeldure en vrije sector woningen, passend bij de woonbehoefte en met oog voor doorstroming. Wij kiezen niet voor een vast percentage in de hele stad."
+        },
+        "120061": {
+          "position": "disagree",
+          "explanation": "Opvang voor dak- en thuislozen blijft nodig, ook in het centrum. We kiezen voor goed gereguleerde opvang met begeleiding en pakken overlast actief aan."
+        },
+        "120062": {
+          "position": "disagree",
+          "explanation": "We zetten in op parkeren in garages en P+R, zodat er meer ruimte komt voor groen, lopen en fietsen. Als er een tekort aan parkeerplaatsen ontstaat dan breiden we de plekken in garages uit."
+        },
+        "120063": {
+          "position": "disagree",
+          "explanation": "De luchtkwaliteit in Nijmegen staat onder druk en voldoet nog niet aan de WHO-normen. Het verbod op vervuilende brommers en scooters helpt die te verbeteren en moet daarom blijven."
+        },
+        "120064": {
+          "position": "disagree",
+          "explanation": "Het versmallen van wegen is geen doel op zich. Onze stad moet bereikbaar zijn voor voetganger, fiets, auto en openbaar vervoer. Dat houden we nauwlettend in de gaten."
+        },
+        "120065": {
+          "position": "agree",
+          "explanation": "De luchtkwaliteit in Nijmegen staat onder druk en voldoet nog niet aan de WHO-normen. Bij code oranje en rood levert het tijdelijk verbieden van houtstook directe gezondheidswinst en minder overlast op."
+        },
+        "120066": {
+          "position": "agree",
+          "explanation": "Door bestaande woningen te splitsen kunnen veel meer mensen in de stad wonen, zonder extra ruimte te gebruiken. Dat helpt snel en concreet bij het aanpakken van de woningnood."
+        },
+        "120067": {
+          "position": "agree",
+          "explanation": "Dit is nodig om vrouwen beter te beschermen en hen gerichte zorg, begeleiding en perspectief te bieden. Sluiting is geen wegkijken, maar juist een stap naar meer veiligheid en ondersteuning."
+        },
+        "120069": {
+          "position": "disagree",
+          "explanation": "We vinden het belangrijk dat bezoekers tijdens de Vierdaagse bijdragen aan het programma en de stad. De huidige regeling helpt om de sfeer beheersbaar en veilig te houden en zorgt dat de kosten eerlijk worden verdeeld."
+        },
+        "120070": {
+          "position": "agree",
+          "explanation": "Cultuur is essentieel voor een levendige stad. De Lindenberg is een belangrijke culturele voorziening en verdient een stevige investering, zodat het Cultuurhuis kan meegroeien met een groter en diverser Nijmegen."
+        }
+      }
+    },
+    {
+      "id": 119976,
+      "name": "PvdA Nijmegen",
+      "fullName": "Partij van de Arbeid",
+      "website": "https://nijmegen.pvda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "120002": {
+          "position": "agree",
+          "explanation": "Als inwoners gaan wij over onze eigen gemeente. Wanneer een onderwerp enorm speelt, kan een referendum een mooie en eerlijke manier zijn om een besluit te nemen. Zo betrekken we mensen bij de lokale democratie."
+        },
+        "120005": {
+          "position": "disagree",
+          "explanation": "Meer vrijheid voor horeca kan ten koste gaan van de leefbaarheid in woonwijken. Gemeentelijke kaders helpen om een balans te bewaren tussen levendigheid en rust voor omwonenden, vooral ’s avonds en ’s nachts. De huidige openingstijden werken goed en hoeven niet te worden aangepast."
+        },
+        "120009": {
+          "position": "disagree",
+          "explanation": "Terrasverwarming is fijn, maar kost veel energie en is slecht voor het klimaat. Het zomaar verbieden is niet het goede middel. De gemeente moet juist samen met ondernemers onderzoeken hoe het anders en beter kan. Zo organiseer je draagvlak voor veranderingen."
+        },
+        "120010": {
+          "position": "agree",
+          "explanation": "Het mooiste nieuwjaarsfeest vier je met z'n allen samen, met één grote vuurwerkshow die we als gemeente organiseren. Zo houden we het veilig en kunnen we samen genieten van een gezellige oudejaarsavond. Daarbij kijken we ook naar duurzame alternatieven, zoals een show met lasers en/of drones."
+        },
+        "120015": {
+          "position": "agree",
+          "explanation": "Lokale media zijn ontzettend belangrijk om te weten wat er speelt in je eigen omgeving, van de straat tot de gemeenteraad. Maar veel lokale media hebben moeite om het hoofd boven water te houden. Wij vinden dat de gemeente hier aan moet bijdragen."
+        },
+        "120020": {
+          "position": "agree",
+          "explanation": "Een leefbare stad is een veilige stad. Daarom moeten we stevig inzetten op preventie. Er moeten is dus voldoende boa's zijn maar ook voldoende politieagenten."
+        },
+        "120021": {
+          "position": "disagree",
+          "explanation": "Het is heel belangrijk om je veilig te voelen op straat. Maar meer camera's dragen daar niet aan bij. Daarbij is je privacy een groot goed dat niet zomaar mag worden aangetast. Daarom kiezen wij eerder voor meer handhavers op straat, die ook meteen kunnen ingrijpen als er iets misgaat."
+        },
+        "120024": {
+          "position": "agree",
+          "explanation": "Starters hebben het moeilijk, dus helpen we ze met een lening. Ze hebben dan meer kans op het kopen van een huis. Daarnaast blijven we ons er voor inzetten dat woningen betaalbaar blijven, zodat deze extra ondersteuning er niet voor zorgt dat de koopprijzen verder stijgen."
+        },
+        "120027": {
+          "position": "agree",
+          "explanation": "Huizen zijn om in te wonen en niet om geld mee te verdienen. In Nijmegen moet je dus zelf in het huis dat je koopt, gaan wonen. Daarom hebben wij in Nijmegen de zelfbewoningsplicht ingevoerd."
+        },
+        "120030": {
+          "position": "disagree",
+          "explanation": "Beleid dat uitgaat van vertrouwen, begeleiding en ontwikkeling levert duurzamere resultaten op dan verplichtingen. Mensen komen verder met ondersteuning, scholing en maatwerk dan met sancties."
+        },
+        "120032": {
+          "position": "agree",
+          "explanation": "Wij willen een nieuw bestaanszekerheidsminimum. Dat betekent dat iedereen in Nijmegen genoeg geld moet hebben om rond te komen. Als dat niet lukt, helpt de gemeente met een aanvulling op je inkomen. Wij willen een brede aanpak, waar er naar elk mens wordt gekeken. Daarbij gaan we uit van vertrouwen."
+        },
+        "120034": {
+          "position": "disagree",
+          "explanation": "Iedereen heeft recht op een zeker bestaan. We werken in Nijmegen al met een brede mensgerichte aanpak waarbij uitkeringen en lage inkomens worden aangevuld als dat nodig is. Daar willen we liever alle middelen en focus op inzetten dan op een proef met het basisinkomen."
+        },
+        "120036": {
+          "position": "agree",
+          "explanation": "De cijfers laten heel duidelijk zien: met een lagere maximumsnelheid wordt het verkeer in onze gemeente véél veiliger. Voor fietsende kinderen en ouderen die slecht ter been zijn, is dit een wereld van verschil. Bovendien is het stiller op straat en wordt de lucht schoner."
+        },
+        "120039": {
+          "position": "agree",
+          "explanation": "We moeten regelen dat zorg past bij iemand. Daarom vinden we dat we maatwerk moeten bieden waar het kan."
+        },
+        "120045": {
+          "position": "agree",
+          "explanation": "Een bloeiende stad is een stad met bedrijven en voldoende werkgelegenheid ook voor praktisch geschoolden. Bij het uitbreiden van bedrijventerreinen moeten we wel altijd kritisch kijken waar dat mogelijk is en het mag niet ten koste gaan van woningbouw of schone lucht."
+        },
+        "120047": {
+          "position": "agree",
+          "explanation": "In Nijmegen moeten bepaalde woningzoekenden voorrang krijgen. Vluchtelingen met een verblijfsvergunning zijn één van de voorrangsgroepen. In verreweg de meeste gevallen gaat het bij voorrang om mensen die dakloos dreigen te worden na een scheiding, starters tot 27 jaar of ouderen die doorstromen."
+        },
+        "120049": {
+          "position": "disagree",
+          "explanation": "Nijmegen groeit. Meer mensen komen hier wonen en werken dus is er meer energie nodig. Een veld vol zonnepanelen kan veel huishoudens van schone, betaalbare energie voorzien."
+        },
+        "120053": {
+          "position": "disagree",
+          "explanation": "Nimweegs hoort bij onze stad. Nijmegen investeert al volop in lokale, culturele, historische en andere initiatieven zodat ook jonge Nijmegenaren de Nimweegse tradities meekrijgen. Op basisscholen concentreren de klassen zich op de Nederlandse taal en basisvaardigheden."
+        },
+        "120055": {
+          "position": "agree",
+          "explanation": "In Nijmegen moet je betaalbaar kunnen wonen. Wij kiezen ervoor om minimaal 40% sociale huurwoningen te bouwen. Daarnaast kiezen we voor voldoende middeldure woningen, studentenwoningen en goedkope koopwoningen. Zo ontstaan er veerkrachtige en gemengde wijken waar je fijn kunt wonen."
+        },
+        "120061": {
+          "position": "disagree",
+          "explanation": "Dakloosheid vraagt om zorg en ondersteuning en meer huizen. Het verplaatsen van opvang lost dakloosheid niet op, maar verschuift het probleem naar andere wijken. Met omwonenden en ondernemers moet de gemeente wel actief overlast aanpakken."
+        },
+        "120062": {
+          "position": "disagree",
+          "explanation": "Het centrum moet voor iedereen goed bereikbaar zijn. We zetten in op goede transferia met snelle en goedkope busverbindingen en deelmobiliteit. Maar niet iedereen kan lopen, fietsen of met het openbaar vervoer reizen. Het centrum moet ook bereikbaar blijven voor de auto voor wie dat nodig is."
+        },
+        "120063": {
+          "position": "disagree",
+          "explanation": "Het verbod op vervuilende scooters is ingesteld om de stad schoner en gezonder te maken. Tegelijk zien we dat niet iedereen zomaar een elektrische scooter kan betalen. Daarom kiezen we voor ondersteuning: wie zijn vervuilende scooter inlevert, geven we subsidie voor een schoner exemplaar."
+        },
+        "120064": {
+          "position": "disagree",
+          "explanation": "Versmalde wegen kunnen leiden tot opstoppingen en slechtere bereikbaarheid voor bewoners, bezoekers en ondernemers, vooral op piekmomenten. Gerichte maatregelen, slimme verkeerssturing en veilige fietsinfrastructuur werken beter dan algemene versmalling van wegen."
+        },
+        "120065": {
+          "position": "disagree",
+          "explanation": "Goede luchtkwaliteit is belangrijk. In Nijmegen werken we al volgens de stookwijzer waarbij wordt afgeraden om te stoken bij code oranje of rood maar we kunnen dit lokaal niet handhaven."
+        },
+        "120066": {
+          "position": "agree",
+          "explanation": "Woningsplitsing kan relatief snel extra woonruimte opleveren, zonder dat er eerst nieuwbouw nodig is. Dat helpt starters, studenten en alleenstaanden die nu moeilijk een woning kunnen vinden."
+        },
+        "120067": {
+          "position": "disagree",
+          "explanation": "De tippelzone biedt toezicht, hulpverlening en een veilige werkomgeving. Sluiting vergroot de kans op geweld, uitbuiting en onveilige situaties. Het zorgt voor een waterbedeffect. Prostitutie verdwijnt niet, maar verplaatst zich naar straten en wijken waar toezicht ontbreekt."
+        },
+        "120069": {
+          "position": "disagree",
+          "explanation": "De Vierdaagse feesten zijn het grootste, mooiste gratis evenement van Nederland. De Stichting Vierdaagse en veel ondernemers in de stad investeren in de feesten. Supermarkten in het centrum dragen hier niet aan bij. Supermarkten buiten het centrum kunnen gewoon alcohol blijven verkopen."
+        },
+        "120070": {
+          "position": "agree",
+          "explanation": "De Lindenberg is een belangrijke plek voor cultuureducatie, participatie en amateurkunst. De gemeente moet aan nieuwbouw of renovatie meebetalen maar er moet eerst een goed en deugdelijk plan liggen met een helder prijskaartje waar de gemeenteraad over beslist."
+        }
+      }
+    },
+    {
+      "id": 119977,
+      "name": "PvdD",
+      "fullName": "Partij voor de Dieren",
+      "website": "https://www.partijvoordedieren.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "120002": {
+          "position": "agree",
+          "explanation": "Het raadgevend referendum en burgerberaden krijgen een plaats bij belangrijke besluiten, zoals grote bouwprojecten of een gemeentelijke herindeling. Ook maken we wijkreferenda mogelijk."
+        },
+        "120005": {
+          "position": "disagree",
+          "explanation": "We willen waken voor het aanjagen van een 24 uurs economie. Rust is voor eenieder belangrijk en overlast voor omwonenden moeten we voorkomen. Kleine ondernemers delven vaak het onderspit."
+        },
+        "120009": {
+          "position": "agree",
+          "explanation": "Terrasverwarming wordt ontmoedigd. Samen met lokale ondernemers pakken we energieverspilling aan en promoten duurzame alternatieven."
+        },
+        "120010": {
+          "position": "disagree",
+          "explanation": "Feestelijke, veilige en milieuvriendelijke alternatieven voor vuurwerk, zoals shows met licht, muziek, drones en lasers, kunnen plaatsvinden als mensen, dieren, natuur en milieu er geen schade van ondervinden."
+        },
+        "120015": {
+          "position": "agree",
+          "explanation": "Sterke, onafhankelijke, lokale media en streekomroepen zoals RN7 en de verschillende wijkkranten, zijn van groot belang voor de inwoners van Nijmegen. Hier wordt niet op bezuinigd. Om onafhankelijke (onderzoeks)journalistiek te bevorderen komt er een breed toegankelijk lokaal mediafonds voor niet-"
+        },
+        "120020": {
+          "position": "agree",
+          "explanation": "Er wordt nu onvoldoende gehandhaafd op vuurwerk en op stropers. En vrouwen en lhbtqi+-ers willen veilige straten."
+        },
+        "120021": {
+          "position": "disagree",
+          "explanation": "Met inzet van gemeentelijk cameratoezicht wordt uit privacyoverwegingen zeer terughoudend omgegaan. Het mag alleen tijdelijk en onder strikte voorwaarden, zoals een maximale bewaartermijn voor de camerabeelden."
+        },
+        "120024": {
+          "position": "agree",
+          "explanation": "Er moeten voldoende écht betaalbare woningen worden gebouwd en mensen moeten eerlijk beloond worden voor hun arbeid. Dan is zo'n starterslening niet noodzakelijk. Zolang dat nog niet het geval is, kan een starterslening helpen."
+        },
+        "120027": {
+          "position": "agree",
+          "explanation": "Er komen maatregelen tegen speculatie met woonruimte en leegstand, zoals een zelfbewoningsplicht en een leegstandsverordening met sancties. Langdurig leegstaande panden worden bewoonbaar gemaakt."
+        },
+        "120030": {
+          "position": "disagree",
+          "explanation": "De gemeente ondersteunt uitkeringsgerechtigden om vrijwilligerswerk, mantelzorg en stages te doen, maar het wordt geen verplichting."
+        },
+        "120032": {
+          "position": "neither",
+          "explanation": "Nijmegen heeft dit al verhoogd en behoudt het huidige minimabeleid voor inkomens van 130% van het sociaal minimum. Hieronder vallen bijvoorbeeld de bijzondere bijstand en collectieve zorgverzekering."
+        },
+        "120034": {
+          "position": "agree",
+          "explanation": "De invoering van een basisinkomen zorgt voor meer gelijkheid. De gemeente geeft aan bij het Rijk, dat hierover gaat, dat Nijmegen opnieuw een pilot wil met een basisinkomen die de huidige stand van inzichten meeneemt."
+        },
+        "120036": {
+          "position": "agree",
+          "explanation": "Er komt, zoals gepland, voor gemotoriseerd verkeer binnen de bebouwde kom een maximumsnelheid van 30 km/u. Waar mogelijk breiden we dit verder uit. De inrichting van de weg wordt waar mogelijk aangepast, wat weer ruimte biedt aan vergroening."
+        },
+        "120039": {
+          "position": "agree",
+          "explanation": "Zorg moet aansluiten bij de mens achter de zorgvraag. Nijmegen kiest voor zorg op maat, met ruimte voor iemands identiteit, geloof of culturele achtergrond, zodat zorg toegankelijk en effectief is. Daarbij geldt altijd dat kwaliteit, gelijkwaardigheid en non-discriminatie de basis blijven."
+        },
+        "120045": {
+          "position": "disagree",
+          "explanation": "Bedrijventerreinen die geen toekomst meer hebben of te veel hinder veroorzaken voor omliggende woongebieden worden circulair en schoon of omgevormd tot woonwijken en groen. Bij herstructurering van bedrijventerreinen die wel toekomstperspectief hebben wordt veel efficiënter gebruikgemaakt van ruimte"
+        },
+        "120047": {
+          "position": "agree",
+          "explanation": "De gemeente voldoet aan de taakstelling huisvesting statushouders en spreekt zich uit tegen het wetsvoorstel dat voorrang voor statushouders voor een sociale huurwoning schrapt. Als de wet onverhoopt wordt aangenomen, schept Nijmegen een lokale voorrangsregeling voor statushouders."
+        },
+        "120049": {
+          "position": "agree",
+          "explanation": "Landbouwgrond is niet bedoeld voor zonneweides, maar voor plantaardige voedselproductie en natuurontwikkeling en, als de veehouderij fors krimpt, voor woningbouw."
+        },
+        "120053": {
+          "position": "neither",
+          "explanation": "In de basis niet tegen aandacht besteden aan Nimweegs, maar de gemeente gaat niet over het curriculum van basisscholen."
+        },
+        "120055": {
+          "position": "disagree",
+          "explanation": "Voor ons is de ondergrens 40%"
+        },
+        "120061": {
+          "position": "disagree",
+          "explanation": "Het centrum blijft de plek waar daklozen zich verzamelen. Als de opvang uit het centrum verdwijnt heeft dit een averechts effect."
+        },
+        "120062": {
+          "position": "disagree",
+          "explanation": "Wij willen minder ruimte voor auto’s in woonwijken en meer ruimte voor groen, veiligheid en verblijfskwaliteit. Nieuwe parkeerplaatsen op straat stimuleren autogebruik en gaan ten koste van leefbaarheid."
+        },
+        "120063": {
+          "position": "disagree",
+          "explanation": "Schone lucht en gezondheid staan voorop. Het uitbreiden van de milieuzone is nodig om uitstoot te verminderen en bewoners te beschermen; terugdraaien van het verbod op niet-elektrische brommers en scooters past daar niet bij."
+        },
+        "120064": {
+          "position": "agree",
+          "explanation": "Doorgaande wegen in de gemeente, zoals de IJpenbroekweg, Oranjesingel en het Keizer Karelplein, worden versmald om zo de snelheid van het verkeer te verlagen en meer groen aan te leggen. Versmalling en andere maatregelen zijn niet ten nadele van fiets- en voetgangersverkeer."
+        },
+        "120065": {
+          "position": "agree",
+          "explanation": "●\tNijmegen legt houtstook volledig aan banden, zowel binnen als buiten. Houtrook zorgt immers voor enorm veel fijnstof en veroorzaakt gezondheidsproblemen voor veel inwoners. Nijmegen behoudt het meldpunt voor stookoverlast en blijft inwoners informeren over de nadelen van houtstook."
+        },
+        "120066": {
+          "position": "agree",
+          "explanation": "●\tVerkamering en/of het splitsen van woningen kan soms een uitkomst bieden voor het tekort aan passende woningen. Op wijkniveau dient bekeken te worden of dit past in de omgeving, en het mag niet ten koste gaan van openbare ruimte. Splitsing moet voldoen aan regels om misstanden te voorkomen."
+        },
+        "120067": {
+          "position": "disagree",
+          "explanation": "Wij kiezen voor veiligheid, gezondheid en rechten van sekswerkers. Sluiten of verbieden vergroot onveiligheid en uitbuiting; goede regulering en ondersteuning werken beter."
+        },
+        "120069": {
+          "position": "agree",
+          "explanation": "De Vierdaagsefeesten moeten betaalbaar blijven. Daarom staan we tijdelijke supermarktverkoop toe, zodat bezoekers niet aangewezen zijn op dure verkoop en er een gereguleerd kanaal met leeftijdscontrole blijft. Wél koppelen we dit aan strikte voorwaarden: geen reclame en strenge handhaving."
+        },
+        "120070": {
+          "position": "neither",
+          "explanation": "Meebetalen alleen aan renovatie. Vanuit de gedachte van de circulaire stad is renovatie en hergebruik van het bestaande gebouw het uitgangspunt. Ook al kost dit meer dan nieuwbouw."
+        }
+      }
+    },
+    {
+      "id": 119978,
+      "name": "SP",
+      "fullName": "Socialistische Partij",
+      "website": "https://www.sp.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "120002": {
+          "position": "agree",
+          "explanation": "Referenda zijn wat de SP betreft democratie in actie en daarom van grote toegevoegde waarde."
+        },
+        "120005": {
+          "position": "disagree",
+          "explanation": "Vanwege de leefbaarheid zijn wij voor het reguleren van de openingstijden. Die hoeven wat de SP betreft niet te veranderen."
+        },
+        "120009": {
+          "position": "disagree",
+          "explanation": "Wij zijn voor een korting op de kosten voor de terrasvergunning voor ondernemers die afzien van terrasverwarming"
+        },
+        "120010": {
+          "position": "agree",
+          "explanation": "Nu vuurwerk verboden wordt, lijkt dit ons een mooi alternatief. Andere, duurzamere alternatieven kunnen ook."
+        },
+        "120015": {
+          "position": "agree",
+          "explanation": "De lokale democratie is gebaat bij een goede en kritische verslaggeving"
+        },
+        "120020": {
+          "position": "agree",
+          "explanation": "De SP wil de eiligheid en het toezicht in de wijken verbeteren. Wij pleiten voor de inzet van 100 stadsbanen voor het vergroten van toezicht."
+        },
+        "120021": {
+          "position": "disagree",
+          "explanation": "Cameratoezicht wordt wat de SP betreft alleen daar toegepast waar het proportioneel en effectief is. Meer cameratoezicht is volgens de SP onnodig en een aantasting van de privacy."
+        },
+        "120024": {
+          "position": "agree",
+          "explanation": "Het is voor starters steeds moeilijker om een hypotheek te krijgen. Een starterslening helpt hen daarbij, en zorgt ook dat er weer meer huurwoningen vrijkomen (doorstroming)."
+        },
+        "120027": {
+          "position": "agree",
+          "explanation": "De zelfbewoningsplicht en het anti-speculatiebeding blijven in Nijmegen van kracht. Daarmee voorkomen we speculatie door huisjesmelkers. Wij zijn ook voor een leegstandsverordening."
+        },
+        "120030": {
+          "position": "disagree",
+          "explanation": "Als we werk hebben voor bijstandsgerechtigden, moeten ze daarvoor een volwaardig salaris ontvangen. Werken met behoud van uitkering is uitbuiting"
+        },
+        "120032": {
+          "position": "agree",
+          "explanation": "We vergroten de doelgroep die gebruikmaakt van de Nijmeegse meedoen-regeling naar 150% van het sociaal minimum en breiden de minimaregelingen voor sport, cultuur en onderwijs uit. Zo bereiken we ook de werkende klasse die niet of nauwelijks rond kunnen komen van hun inkomen."
+        },
+        "120034": {
+          "position": "disagree",
+          "explanation": "Een basisinkomen van voldoende hoogte is lokaal niet haalbaar. Juist mensen met weinig geld zullen er dan op achteruit gaan omdat we die niet kunnen compenseren. Liever zien wij op landelijk niveau grondige herverdeling van vermogens en inkomens, en controle over de enorme prijzen van levensmiddelen"
+        },
+        "120036": {
+          "position": "agree",
+          "explanation": "Het verkeer moet veiliger. We steunen daarom het zoveel mogelijk omlaag brengen van de maximumsnelheid binnen de stad van 50 naar 30 kilometer per uur. Daarmee bevorderen we de verkeersveiligheid. Deze maatregel mag niet ten koste gaan van het busvervoer."
+        },
+        "120039": {
+          "position": "agree",
+          "explanation": "Als gemeente stimuleren we dat Nijmeegse organisaties cultuursensitief werken en een afspiegeling van onze stad zijn."
+        },
+        "120045": {
+          "position": "neither",
+          "explanation": "Dit hangt vooral af van het type bedrijven. Vervuilende bedrijven, bedrijven die hun personeel slecht behandelen of die investeren in wapens en genocide zijn wat de SP betreft niet welkom. Duurzame, maatschappelijk verantwoorde bedrijven met zeggenschap voor het personeel wel"
+        },
+        "120047": {
+          "position": "agree",
+          "explanation": "Vluchtelingen zijn oorlog ontvlucht en beschikken in Nederland niet over een sociaal netwerk. Daarom zijn wij ervoor dat zij voorrang kunnen krijgen. Overigens gaat dit maar om zo’n 6% van de sociale huurwoningen."
+        },
+        "120049": {
+          "position": "agree",
+          "explanation": "De SP is tegenstander van zonne-akkers, omdat die ten koste gaan van groen en biodiversiteit."
+        },
+        "120053": {
+          "position": "agree",
+          "explanation": "Dit is in de eerste plaats aan scholen zelf, bij behoefte kan de gemeente dat ondersteunen. Het moet niet leiden tot extra werkdruk voor docenten."
+        },
+        "120055": {
+          "position": "agree",
+          "explanation": "35% is nog veel te weinig. We bouwen als het aan de SP ligt de komende periode 75% sociale huur. Daarmee gaan we de woningnood tegen en lopen we achterstanden in. Er gaat meer geld naar het Woonfonds om deze woningen te bekostigen."
+        },
+        "120061": {
+          "position": "disagree",
+          "explanation": "Met het verplaatsen van de opvang is de overlast niet weg. Daklozen komen ook zonder opvang naar het centrum, want daar zijn voorzieningen en mensen. Wel moeten er wat de SP betreft meer opvangplekken elders bijkomen, om de druk van het centrum af te halen"
+        },
+        "120062": {
+          "position": "neither",
+          "explanation": "Wij zijn voor behoud van de parkeerplaatsen voor de bewoners van de hofjes en gasjes in het centrum."
+        },
+        "120063": {
+          "position": "agree",
+          "explanation": "Elektrische brommers en scooters zijn voor mensen met weinig vermogen nog te duur, terwijl mensen met weinig vermogen naar verhouding juist weinig bijdragen aan de CO2-uitstoot. Een verbod is daarom onrechtvaardig. Wel moeten we niet-elektrische brommers en scooters ontmoedigen."
+        },
+        "120064": {
+          "position": "disagree",
+          "explanation": "Belangrijke toegangswegen zoals de singels worden tot het openbaar vervoer voldoende verbeterd is als het aan de SP ligt niet versmald."
+        },
+        "120065": {
+          "position": "agree",
+          "explanation": "Houtstook wordt verboden bij code geel, oranje en rood in de Stookwijzer. Daarmee steunen we mensen met luchtwegklachten en houden we onze lucht schoon. De Stookwijzer wordt bijgewerkt om hem betrouwbaarder te maken. Voor een gelijkwaardige en solidaire stad houden we rekening met elkaar."
+        },
+        "120066": {
+          "position": "neither",
+          "explanation": "Wij zijn voor het splitsen van woningen door woningcorporaties om te voldoen aan de behoefte aan kleinere woningen. Het mag volgens de SP geen manier worden voor projectontwikkelaars om de regels rondom verkamering te omzeilen."
+        },
+        "120067": {
+          "position": "disagree",
+          "explanation": "We sluiten de tippelzone niet zonder alternatief voor het zorgaanbod dat daar nu is."
+        },
+        "120069": {
+          "position": "agree",
+          "explanation": "Voor mensen met weinig vermogen zijn de Vierdaagsefeesten steeds ontoegankelijker door de almaar hogere prijzen. De gemeente zegt met dit verbod alcoholmisbruik tegen te gaan, maar ondertussen is het hele verdienmodel van de Vierdaagsefeesten gebaseerd op zo veel mogelijk alcoholverkoop."
+        },
+        "120070": {
+          "position": "disagree",
+          "explanation": "Wij steunen de huidige steun aan de renovatie van de Lindenberg, maar zijn niet voor extra geld. Dat moet wat de SP betreft juist naar kleine culturele organisaties, genootschappen en hotspots. Een tweede Valkhofdrama moet voorkomen worden."
+        }
+      }
+    },
+    {
+      "id": 119979,
+      "name": "VVD",
+      "fullName": "Volkspartij voor Vrijheid en Democratie",
+      "website": "https://www.vvd.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "120002": {
+          "position": "disagree",
+          "explanation": "Bij een referendum komen vooral tegenstanders van een onderwerp stemmen. De Nijmeegse VVD wil daarom dat de gemeenteraad stemt over belangrijke onderwerpen en daarbij een afweging maakt tussen alle belangen."
+        },
+        "120005": {
+          "position": "agree",
+          "explanation": "De eigenaren van cafés en restaurants kunnen goed zelf besluiten wanneer hun zaak dicht gaat. Hiermee wordt ook overlast tegengegaan als alle kroegen op hetzelfde tijdstip dicht zouden gaan."
+        },
+        "120009": {
+          "position": "disagree",
+          "explanation": "Een winterterras is een mooie aanvulling op het horeca aanbod in Nijmegen."
+        },
+        "120010": {
+          "position": "agree",
+          "explanation": "In samenwerking met lokale (horeca-)ondernemers moet de gemeente kijken of een vuurwerkshow mogelijk is."
+        },
+        "120015": {
+          "position": "disagree",
+          "explanation": "De Nijmeegse VVD vindt de lokale omroep belangrijk, maar kiest er niet voor om extra geld beschikbaar te stellen."
+        },
+        "120020": {
+          "position": "agree",
+          "explanation": "Het (gevoel) van onveiligheid in Nijmegen is te hoog. o.a. door meer handhavers, een strengere aanpak en meer controle kan dit verbeteren."
+        },
+        "120021": {
+          "position": "agree",
+          "explanation": "Het (gevoel) van onveiligheid in Nijmegen is te hoog. Cameratoezicht zorgt voor betere handhaving en controle en werkt daarnaast preventief."
+        },
+        "120024": {
+          "position": "disagree",
+          "explanation": "De gemeente is geen bank."
+        },
+        "120027": {
+          "position": "disagree",
+          "explanation": "Een gezonde woningmarkt heeft ook voldoende huuraanbod."
+        },
+        "120030": {
+          "position": "agree",
+          "explanation": "Mensen die een bijstandsuitkering ontvangen, moeten zoveel als nodig meedoen aan de samenleving."
+        },
+        "120032": {
+          "position": "neither",
+          "explanation": "Mensen die hulp nodig hebben, moeten die krijgen. Maar op dit moment is het verschil in inkomen tussen een uitkering en werken te klein."
+        },
+        "120034": {
+          "position": "disagree",
+          "explanation": "Iedereen moet een goed inkomen hebben, bij voorkeur uit werk."
+        },
+        "120036": {
+          "position": "disagree",
+          "explanation": "Er zijn wegen waar 30 km/u een prima snelheid is. Maar er zijn ook wegen waar prima en veilig harder dan 30 km/u kan worden gereden."
+        },
+        "120039": {
+          "position": "disagree",
+          "explanation": "Iedereen heeft recht op goede zorg van een goede zorgverlener."
+        },
+        "120045": {
+          "position": "agree",
+          "explanation": "Er is nog voldoende ruimte voor uitbereiding."
+        },
+        "120047": {
+          "position": "disagree",
+          "explanation": "De Nijmeegse VVD is tegen een doelgroepenbeleid voor het toewijzen van sociale huurwoningen. Alleen mensen met urgentie krijgen voorrang."
+        },
+        "120049": {
+          "position": "disagree",
+          "explanation": "Maar Nijmegen heeft geen landbouwgrond."
+        },
+        "120053": {
+          "position": "disagree",
+          "explanation": "De gemeente moet zich zo min mogelijk met het lespakket van scholen bemoeien."
+        },
+        "120055": {
+          "position": "disagree",
+          "explanation": "Het woningaanbod moet passend zijn bij de vraag."
+        },
+        "120061": {
+          "position": "agree",
+          "explanation": "Op dit moment is er teveel overlast van het MFC op de huidige locatie. Dit moet stoppen."
+        },
+        "120062": {
+          "position": "agree",
+          "explanation": "Het centrum moet gastvrij zijn voor alle bezoekers, ook de bezoekers die met de auto komen."
+        },
+        "120063": {
+          "position": "agree",
+          "explanation": "Indien mogelijk per direct."
+        },
+        "120064": {
+          "position": "disagree",
+          "explanation": "De wegen rond het centrum zijn van groot belang voor de doorstroming in de stad. Het versmallen van bijvoorbeeld het Keizer Karelplein is echt een bizar idee. De stad moet bereikbaar zijn voor iedereen, ook met een auto."
+        },
+        "120065": {
+          "position": "disagree",
+          "explanation": "Dit verbod is niet te handhaven. De gemeente kan beter inzetten op goede voorlichting over goed stoken."
+        },
+        "120066": {
+          "position": "agree",
+          "explanation": "Dit kan bijdragen aan het terugdringen van het woningtekort."
+        },
+        "120067": {
+          "position": "disagree",
+          "explanation": "De tippelzone is een veilige plek voor sekswerkers, waarbij ook zorg en hulp aan wordt geboden. Het sluiten verspreid de overlast en maakt het leveren van zorg moeilijker."
+        },
+        "120069": {
+          "position": "disagree",
+          "explanation": "De horeca-ondernemers maken het feest in het centrum door het aanbod van podia en artiesten. Dit wordt betaald uit de drankverkoop. Door supermarkten drank te laten verkopen, terwijl ze niet mee betalen aan het feest, wordt het feest onmogelijk om te organiseren."
+        },
+        "120070": {
+          "position": "neither",
+          "explanation": "Het is van belang dat de Lindenberg blijft bestaan. Dat kan door nieuwbouw of renovatie. Hierover moet het gesprek worden aangegaan."
+        }
+      }
+    },
+    {
+      "id": 119980,
+      "name": "CDA",
+      "fullName": "Christen-Democratisch Appèl",
+      "website": "https://www.cda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "120002": {
+          "position": "disagree",
+          "explanation": "Veel gemeentelijke vragen zijn te complex voor een simpele ja/nee vraag. Het CDA vindt referenda daarom geen goed instrument om de mening van de Nijmegenaren te vragen."
+        },
+        "120005": {
+          "position": "agree",
+          "explanation": "In Nijmegen mogen cafés en restaurants al hun eigen openingstijden bepalen. Het CDA wil dat zo houden. De enige beperking is dat na 04.00 uur er niemand een kroeg mag worden binnengelaten, maar de zaak hoeft niet te sluiten. Deze manier van reguleren wil het CDA behouden om overlast te beperken."
+        },
+        "120009": {
+          "position": "disagree",
+          "explanation": "Er bestaan ook energiezuinige manieren om terrassen of zitplaatsen te verwarmen, waar Nijmegenaren goede oplossingen voor hebben gevonden."
+        },
+        "120010": {
+          "position": "agree",
+          "explanation": "De gemeente geeft al een vuurwerkshow met de Vierdaagse. Juist als mensen gevraagd worden zelf minder vuurwerk af te steken, zouden ze verzekerd moeten zijn van een show door de gemeente."
+        },
+        "120015": {
+          "position": "disagree",
+          "explanation": "De lokale omroep is belangrijk en moet kunnen rekenen op financiering. Het CDA wil de lokale omroep die zekerheid blijven bieden. Dat kan ook op andere manieren dan extra geld. Ook moeten we een afhankelijkheidsrelatie tussen lokale media en politiek voorkomen. Landelijke financiering voorkomt dat."
+        },
+        "120020": {
+          "position": "agree",
+          "explanation": "Het CDA vindt dat er meer BOA's moeten komen, die kunnen zorgen dat iedereen veilig over straat kan."
+        },
+        "120021": {
+          "position": "agree",
+          "explanation": "Nijmegen kent bepaalde plekken in de stad die onveilig voelen voor vrouwen, de lhbtiq+ gemeenschap of vanwege incidenten. Het CDA vindt het belangrijk dat Nijmegenaren zelf aangeven waar ze camera's willen. Dit vanwege de privacy en het feit dat Nijmegenaren zelf weten welke gebieden onveilig zijn."
+        },
+        "120024": {
+          "position": "agree",
+          "explanation": "Juist jongeren in Nijmegen hebben veel moeite met het vinden van een woning. Het CDA wil jongeren betere kansen bieden met een starterslening."
+        },
+        "120027": {
+          "position": "agree",
+          "explanation": "Het CDA vindt het belangrijk dat we huizen beschermen tegen beleggers. Juist wanneer we betaalbare huizen op de markt zetten, moeten deze niet gekaapt worden door beleggers."
+        },
+        "120030": {
+          "position": "agree",
+          "explanation": "Het CDA is ervan overtuigd dat meedoen in de maatschappij, bijvoorbeeld met vrijwilligerswerk, essentieel is voor het gevoel van eigenwaarde van mensen: het gevoel dat je ‘erbij hoort’. De gemeente moet met participatiecoaches samen met mensen in de bijstand zoeken naar een goede oplossing voor hen."
+        },
+        "120032": {
+          "position": "disagree",
+          "explanation": "De gemeente moet meer doen om de val in inkomen te voorkomen. Deze val gebeurt als mensen (meer) gaan werken. Het CDA heeft hier een begin mee gemaakt door in de gemeenteraad opdracht te geven voor een nieuw armoedestelsel."
+        },
+        "120034": {
+          "position": "disagree",
+          "explanation": "Een basisinkomen is onmogelijk te regelen in de gemeente. Het kost simpelweg te veel geld voor de gemeente. Dit zou vanuit de Rijksoverheid moeten worden uitgevoerd."
+        },
+        "120036": {
+          "position": "disagree",
+          "explanation": "Het CDA zorgt ervoor dat er meer verkeersveiligheid in Nijmegen komt en dat er meer veilige fietspaden en oversteekplaatsen zijn. Binnen woonwijken moet de snelheid naar 30 km/u verlaagd worden, maar op hoofdwegen moet er ook doorstroming zijn voor bussen, ambulances, brandweer of politie."
+        },
+        "120039": {
+          "position": "agree",
+          "explanation": "Het CDA vindt het belangrijk dat mensen zelf hun zorgverlener mogen kiezen, zolang het aan alle wetten en regels voldoet."
+        },
+        "120045": {
+          "position": "agree",
+          "explanation": "Nijmegen heeft te weinig ruimte, ook voor bedrijven. Het CDA vindt het belangrijk dat er ook geld verdiend wordt in de stad en omgeving. Hierom moet de gemeente uitbreiding mogelijk maken."
+        },
+        "120047": {
+          "position": "agree",
+          "explanation": "Nijmegen kent al urgentie voor statushouders. Het stoppen met voorrang geven aan vluchtelingen met verblijfsvergunning is zinloos, zolang er geen alternatieve woningen zijn. Vluchtelingen moeten ergens een dak boven hun hoofd krijgen."
+        },
+        "120049": {
+          "position": "disagree",
+          "explanation": "Voor het CDA heeft zo'n verbod weinig zin, aangezien Nijmegen bijna geen landbouwgrond heeft."
+        },
+        "120053": {
+          "position": "agree",
+          "explanation": "’t Nimweegs is un prachtich stök erfgood. As stad motte we dit koestere. ’t Is belangriek da kinder op school meer lere over ’t Nimweegs, as onderdiel van ons kultuur."
+        },
+        "120055": {
+          "position": "agree",
+          "explanation": "Het CDA denkt dat het essentieel is dat er voldoende betaalbare woningen voor mensen in de stad zijn. Tegelijkertijd moeten we ook zorgen dat er voldoende koopwoningen zijn om uit een sociale huurwoning te komen."
+        },
+        "120061": {
+          "position": "agree",
+          "explanation": "Het CDA vindt het belangrijk dat mensen zonder dak of thuis goed en menselijk opgevangen kunnen worden. De daklozenopvang kan beter verspreid worden, wat het CDA betreft. De huidige daklozenopvang heeft een aanzuigende werking en levert veel overlast op. Het CDA wil onderzoeken of de daklozenopvang"
+        },
+        "120062": {
+          "position": "agree",
+          "explanation": "De gemeente haalt steeds meer parkeerplekken uit de Binnenstad en Benedenstad weg en sluit steeds meer parkeergarages. Dat maakt het centrum ontoegankelijk voor mensen die slecht ter been zijn: het CDA wil daarom meer parkeerplekken behouden. Een goed voetgangersgebied vereist ook goede parkeerplaat"
+        },
+        "120063": {
+          "position": "disagree",
+          "explanation": "De gemeente heeft voor het verbod gekozen. Mensen hebben investeringen gedaan, vaak met steun van de gemeente, om nieuwe elektrische scooters te kopen. Terugdraaien zou volgens het CDA zonde van de uitgaven van Nijmegenaren zijn."
+        },
+        "120064": {
+          "position": "disagree",
+          "explanation": "Rond het centrum liggen essentiële wegen die naar het Keizer Karelplein en naar de Waalbrug leiden. Versmallen van wegen is volgens het CDA in Nijmegen daarom onmogelijk. Wel wil het CDA openbaar vervoer versterken en P&R locaties toevoegen om het verkeer rond het centrum te ontlasten."
+        },
+        "120065": {
+          "position": "agree",
+          "explanation": "Het CDA vindt dat bij code rood of ongunstig weer er geen hout gestookt zou moeten worden vanwege overlast en de gezondheid."
+        },
+        "120066": {
+          "position": "agree",
+          "explanation": "In Nijmegen wonen steeds meer alleenstaande jongeren of ouderen in eensgezinswoningen. Zolang het de leefbaarheid van de buurt niet schaadt, moet de gemeente delen en splitsen van woningen makkelijker mogelijk maken."
+        },
+        "120067": {
+          "position": "agree",
+          "explanation": "Het CDA denkt dat het voor de tippelzone beter is als deze gesloten wordt en er in plaats daarvan een sterke zorgaanpak komt voor de vrouwen die daar werken."
+        },
+        "120069": {
+          "position": "disagree",
+          "explanation": "De alcoholverkoop tijdens de Vierdaagse is een belangrijk onderdeel van de bekostiging van de feesten, terwijl de alcohol uit de supermarkten juist voor afvaloverlast zorgt. Het CDA wil de feesten voor iedereen gezellig houden en is daarom voorstander van deze maatregel."
+        },
+        "120070": {
+          "position": "agree",
+          "explanation": "De Lindenberg is een belangrijk cultuurhuis waar veel Nijmegenaren gebruik van maken. Het CDA vindt het wel belangrijk dat de gemeente strak toeziet dat er eerlijk begroot wordt en de kosten niet onnodig hoog zijn."
+        }
+      }
+    },
+    {
+      "id": 145170,
+      "name": "Piratenpartij Nijmegen",
+      "fullName": "Piratenpartij Nijmegen",
+      "website": "https://nijmegen.piratenpartij.nl/",
+      "hasSeats": false,
+      "participates": true,
+      "positions": {
+        "120002": {
+          "position": "agree",
+          "explanation": "Burgerparticipatie is voor de Piratenpartij een zeer belangrijk thema! Wij zijn voorstander van burgerberaden en een gekozen burgermeester."
+        },
+        "120005": {
+          "position": "agree",
+          "explanation": "Zolang het in goed overleg is afgestemd met de buurtbewoners."
+        },
+        "120009": {
+          "position": "disagree",
+          "explanation": "Wij houden niet van verbieden. Maar het is wel wenselijk om slimmer en efficiënter met energie om te gaan. Bijvoorbeeld verwarmde terraskussentjes"
+        },
+        "120010": {
+          "position": "agree",
+          "explanation": "We moeten als samenleving er alles aan doen om te voorkomen dat er in Nijmegen gewonden vallen door vuurwerk. De gemeente zou in samenwerking met buurtverenigingen en/of bedrijfsleven plaatselijk activiteiten kunnen organiseren die de buurtcohesie versterkt."
+        },
+        "120015": {
+          "position": "agree",
+          "explanation": "Ja, extra financiering kan nodig zijn, maar alleen onder strikte voorwaarden van onafhankelijkheid, transparantie en burgerbetrokkenheid. Het doel is niet een “gemeentelijke spreekbuis”, maar een vrij podium voor inwoners."
+        },
+        "120020": {
+          "position": "disagree",
+          "explanation": "Meer politie is prima, maar liever geen BOA's. Zij hebben niet voldoende bevoegdheden om daadwerkelijk het verschil te maken."
+        },
+        "120021": {
+          "position": "disagree",
+          "explanation": "Uit onderzoek blijkt dat de aanwezigheid van dergelijke systemen weinig invloed heeft op de omvang van criminaliteit en dat de criminaliteit zich in het gunstigste geval eenvoudigweg verplaats naar een andere plek."
+        },
+        "120024": {
+          "position": "agree",
+          "explanation": "Als de private markt dit niet aandurft is het goed als de gemeente hier een fonds voor opricht."
+        },
+        "120027": {
+          "position": "agree",
+          "explanation": "Nijmegen moet niet bouwen voor speculanten maar voor haar eigen bewoners!"
+        },
+        "120030": {
+          "position": "disagree",
+          "explanation": "Het motiveren van mensen om zich in te zetten is prima. Je nuttig voelen is belangrijk voor je gezondheid. Maar mensen verplichten tot werk gaat te ver."
+        },
+        "120032": {
+          "position": "agree",
+          "explanation": "Er zou geen inkomensgrens moeten zijn maar meer maatwerk. Wij zijn voorstander van een Onvoorwaardelijk Basisinkomen."
+        },
+        "120034": {
+          "position": "agree",
+          "explanation": "De Piratenpartij is voorstander van een Onvoorwaardelijk Basisinkomen."
+        },
+        "120036": {
+          "position": "disagree",
+          "explanation": "De hele bebouwde kom naar 30 gaat ons te ver. Wel kan er in sommige wijken of buurten bijvoorbeeld Bottendaal of Brakkenstein en de Professoren buurt gekeken worden of daar de snelheid terug gebracht kan worden naar 30 km per uur. Hierbij dienen we te luisteren naar de bewoners van de wijk."
+        },
+        "120039": {
+          "position": "agree",
+          "explanation": "Als deze beschikbaar zijn zou dat geen probleem mogen zijn. Door begrip voor elkaar zal dit ook de zorg verbeteren denken wij."
+        },
+        "120045": {
+          "position": "disagree",
+          "explanation": "De bestaande terreinen dienen niet uitgebreid te worden maar efficiënter ingericht. Ook dient de verdozing van het landschap tegen te worden gegaan."
+        },
+        "120047": {
+          "position": "agree",
+          "explanation": "Er dient doorstroming in de AZC's plaats te vinden. Anders stromen deze over en geeft dat problemen. We dienen ons te houden aan de afspraken gemaakt op Rijksniveau zolang de spreidingswet niet is ingetrokken en het beleid ongewijzigd blijft."
+        },
+        "120049": {
+          "position": "agree",
+          "explanation": "Er zijn voldoende alternatieve om zonnepanelen op bestaande bebouwing aan te brengen. Hier hoeft geen kostbare landbouwgrond aan opgeofferd te worden."
+        },
+        "120053": {
+          "position": "disagree",
+          "explanation": "Als kinderen in deze maatschappij vooruit willen komen dan is aandacht schenken aan rekenen en taal belangrijker. Hiermee vergroten wij de kansengelijkheid voor alle kinderen."
+        },
+        "120055": {
+          "position": "agree",
+          "explanation": "Voor iedere inwoner dient een betaalbare woning beschikbaar te zijn. Sociale huurwoningen worden bij voorkeur gebouwd door de woningcorporaties of d.m.v. Collectief Particulier Opdrachtgeverschap"
+        },
+        "120061": {
+          "position": "neither",
+          "explanation": "Het probleem verplaatsen heeft geen zin. Beter naar een goede oplossing kijken."
+        },
+        "120062": {
+          "position": "neither",
+          "explanation": "Wel dienen we de stijging van het aantal autobezitters in de gaten te houden. daarnaast zetten wij fors in op deel-auto's"
+        },
+        "120063": {
+          "position": "disagree",
+          "explanation": "In andere steden heeft deze maatregel geleid tot aanzienlijke verbeteringen op het gebied van verkeersveiligheid, doorstroming, luchtkwaliteit en geluidsoverlast. Wel dient iedereen hier duidelijk over geïnformeerd te worden"
+        },
+        "120064": {
+          "position": "disagree",
+          "explanation": "Fietsers moeten voldoende ruimte krijgen om zich in het centrum voort te kunnen bewegen."
+        },
+        "120065": {
+          "position": "disagree",
+          "explanation": "De Piratenpartij is niet voor symboolwetgeving. Iedereen weet dat een gemeentelijke regeling niet te handhaven is. Wel zetten wij in op goede voorlichting en de vervanging van oude kachels. De Duitse wetgeving zien wij als goed voorbeeld."
+        },
+        "120066": {
+          "position": "agree",
+          "explanation": "In Nijmegen is een aanzienlijk deel van de huishoudens eenpersoons; ruim 40% van de bewoners in een eigen woning of complete huurwoning woont alleen. De huidige initiatieven van de woningcorporaties om te splitsen juichen wij toe."
+        },
+        "120067": {
+          "position": "disagree",
+          "explanation": "Beleid dient vooral gericht te zijn op het reguleren van straatprostitutie om zowel de veiligheid van sekswerkers als de openbare orde in de stad te waarborgen."
+        },
+        "120069": {
+          "position": "agree",
+          "explanation": "Ook mensen met een geringe beurs moeten in staat worden gesteld een drankje te kopen. Wel zou in overleg met de supermarkten gekeken kunnen worden naar een financiële bijdrage voor de Vierdaagse."
+        },
+        "120070": {
+          "position": "agree",
+          "explanation": "Het fungeert als een belangrijke plaats voor cultuurparticipatie en persoonlijke ontwikkeling in de stad. Wel die de toegankelijkheid van het gebouw voor alle Nijmeegse burgers gewaarborgd te zijn."
+        }
+      }
+    },
+    {
+      "id": 119981,
+      "name": "1Nijmegen",
+      "fullName": "1Nijmegen",
+      "website": "https://www.1nijmegen.nl/index.html",
+      "hasSeats": false,
+      "participates": true,
+      "positions": {
+        "120002": {
+          "position": "agree",
+          "explanation": "Inwoners moeten écht iets te zeggen hebben over grote beslissingen. Te vaak worden plannen al vastgelegd voordat mensen mogen meepraten. Referenda versterken vertrouwen en zorgen voor draagvlak."
+        },
+        "120005": {
+          "position": "agree",
+          "explanation": "Ondernemers moeten ruimte krijgen om zelf te bepalen wat werkt. Natuurlijk met oog voor de buurt en leefbaarheid. Minder betutteling, meer vertrouwen en maatwerk."
+        },
+        "120009": {
+          "position": "neither",
+          "explanation": "Dat laten we bij de ondernemer in kwestie, de gemeente moet hier soepel mee omgaan, in deze tijd hebben ondernemers het moeilijk zat."
+        },
+        "120010": {
+          "position": "agree",
+          "explanation": "Als de burger hier behoefte aan heeft dan ja."
+        },
+        "120015": {
+          "position": "neither",
+          "explanation": "Publieke informatie is belangrijk, maar elke euro moet aantoonbaar iets opleveren voor inwoners. Transparantie en maatschappelijke waarde zijn leidend."
+        },
+        "120020": {
+          "position": "agree",
+          "explanation": "Zichtbare handhaving vergroot het veiligheidsgevoel. BOA’s zijn aanspreekbaar en dichtbij. Veiligheid begint in de wijk."
+        },
+        "120021": {
+          "position": "neither",
+          "explanation": "Camera’s kunnen helpen, maar zijn geen wondermiddel. Alleen inzetten waar het aantoonbaar werkt. Privacy blijft belangrijk."
+        },
+        "120024": {
+          "position": "agree",
+          "explanation": "Jongeren krijgen nauwelijks nog kans op de woningmarkt. Een starterslening helpt hen op weg. Starters dienen wel woonachtig te zijn in Nijmegen."
+        },
+        "120027": {
+          "position": "agree",
+          "explanation": "Woningen zijn om in te wonen, niet om te speculeren. Beleggers verdringen starters en gezinnen. Dit moet stoppen."
+        },
+        "120030": {
+          "position": "neither",
+          "explanation": "Meedoen is belangrijk, maar dwang werkt averechts. Ondersteuning en begeleiding moeten vooropstaan."
+        },
+        "120032": {
+          "position": "agree",
+          "explanation": "Veel mensen vallen nu net buiten de regelingen. Dat is onrechtvaardig. Hulp moet aansluiten bij de realiteit."
+        },
+        "120034": {
+          "position": "agree",
+          "explanation": "We moeten durven vernieuwen. Minder controle en meer vertrouwen kan mensen vooruithelpen. Een proef geeft waardevolle inzichten. Mensen moeten dan niet achterover hangen maar volop meedoen."
+        },
+        "120036": {
+          "position": "disagree",
+          "explanation": "Veiligheid is belangrijk, maar niet elke straat is hetzelfde. We kiezen voor maatwerk. Geen symboolbeleid."
+        },
+        "120039": {
+          "position": "agree",
+          "explanation": "Goede zorg sluit aan bij de mens. Keuzevrijheid vergroot vertrouwen en effectiviteit."
+        },
+        "120045": {
+          "position": "agree",
+          "explanation": "Werkgelegenheid is belangrijk, maar niet ten koste van leefomgeving. Alleen uitbreiden waar het echt nodig is en kan."
+        },
+        "120047": {
+          "position": "disagree",
+          "explanation": "Wettelijke plicht komen we niet onderuit, we moeten voorrang geven aan onze jeugd zodat ze een bestaan op kunnen bouwen."
+        },
+        "120049": {
+          "position": "neither",
+          "explanation": "Daken hebben voorrang, maar soms is maatwerk nodig. Geen rigide verbod."
+        },
+        "120053": {
+          "position": "agree",
+          "explanation": "Lokale cultuur verbindt en geeft identiteit. Het Nimweegs hoort bij de stad."
+        },
+        "120055": {
+          "position": "agree",
+          "explanation": "De woningmarkt is uit balans. Meer sociale huur is noodzakelijk. Wonen is een recht. Maar dan ook volwaardige woningen zodat jongeren ook een gezin kunnen stichten."
+        },
+        "120061": {
+          "position": "agree",
+          "explanation": "Het centrum is niet de juiste plek voor intensieve opvangvoorzieningen. Opvang moet rust, veiligheid en ruimte bieden voor goede begeleiding. Spreiding buiten het centrum voorkomt overlast én helpt mensen beter vooruit."
+        },
+        "120062": {
+          "position": "agree",
+          "explanation": "Bereikbaarheid is belangrijk. slimme oplossingen zijn echter wel nodig."
+        },
+        "120063": {
+          "position": "neither",
+          "explanation": "Duurzaamheid en betaalbaarheid moeten samen gaan. Schone motoren moeten een plek houden op de weg."
+        },
+        "120064": {
+          "position": "disagree",
+          "explanation": "Nijmegen moet er voor zorgen dat de doorstroming verhoogd wordt en niet verder beperkt worden door versmallingen."
+        },
+        "120065": {
+          "position": "agree",
+          "explanation": "Gezondheid gaat voor alles. Bij slechte luchtkwaliteit moet bescherming vooropstaan."
+        },
+        "120066": {
+          "position": "agree",
+          "explanation": "Snel extra woningen creëren helpt de druk verlagen. Wel met duidelijke regels en controles op naleving ervan."
+        },
+        "120067": {
+          "position": "disagree",
+          "explanation": "Veiligheid en zorg voor kwetsbaren staan centraal. Sluiten zonder alternatief lost niets op."
+        },
+        "120069": {
+          "position": "agree",
+          "explanation": "Feest en veiligheid moeten in balans zijn. Geen automatische versoepeling."
+        },
+        "120070": {
+          "position": "disagree",
+          "explanation": "We gaan voorlopig stoppen met het financieren van cultuur huizen."
+        }
+      }
+    },
+    {
+      "id": 119984,
+      "name": "FvD",
+      "fullName": "Forum voor Democratie",
+      "website": "https://fvd.nl/",
+      "hasSeats": false,
+      "participates": true,
+      "positions": {
+        "120002": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "120005": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "120009": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "120010": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "120015": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "120020": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "120021": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "120024": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "120027": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "120030": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "120032": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "120034": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "120036": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "120039": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "120045": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "120047": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "120049": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "120053": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "120055": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "120061": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "120062": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "120063": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "120064": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "120065": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "120066": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "120067": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "120069": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "120070": {
+          "position": "disagree",
+          "explanation": ""
+        }
+      }
+    },
+    {
+      "id": 119986,
+      "name": "Volt",
+      "fullName": "Volt",
+      "website": "https://voltnederland.org/",
+      "hasSeats": false,
+      "participates": true,
+      "positions": {
+        "120002": {
+          "position": "disagree",
+          "explanation": "Volt is tegen een bindend correctief referendum. Zorgvuldig voorbereide wetgeving kun je niet vervangen door een ja/nee-vraag. Volt vindt het wel belangrijk dat inwoners al vroeg in het wetgevingsproces kunnen meepraten. Wij steunen daarom burgerberaden waarin Nijmegenaren tijdig hun mening kunnen"
+        },
+        "120005": {
+          "position": "neither",
+          "explanation": "Volt ondersteunt het idee dat cafés en restaurants binnen de APV flexibiliteit hebben in het bepalen van hun eigen openingstijden, onder een aantal voorwaarden. Het moet in overleg met de gemeente, en het moet passend zijn voor die specifieke locatie met oog voor overlast en de leefomgeving."
+        },
+        "120009": {
+          "position": "agree",
+          "explanation": "Er ontsnapt heel veel energie bij terrasverwarming en onze CO₂-uitstoot moeten wij drastisch verminderen. Er zijn bovendien goedkopere en duurzamere keuzes om een terras te verwarmen zoals bijvoorbeeld met infraroodpanelen of warmtekussens."
+        },
+        "120010": {
+          "position": "agree",
+          "explanation": "In licht van het algemene vuurwerkverbod eind 2026 is het goed dat de gemeente direct start met het creëren van een nieuwe traditie in de vorm van een vuurwerkshow. Hiermee kunnen de vele nadelen van vuurwerk (gewonden, geweld, schade en milieuvervuiling) worden beperkt."
+        },
+        "120015": {
+          "position": "agree",
+          "explanation": "Lokale media spelen een cruciale rol in het informeren van burgers en het controleren van het lokale bestuur. Dit past binnen ons streven naar een sterke lokale democratie."
+        },
+        "120020": {
+          "position": "disagree",
+          "explanation": "Volt is alleen voor meer boa’s wanneer zij binnen een integraal veiligheidsplan worden ingezet. Er moet lokaal afgestemd worden op basis van duidelijke data en prioriteiten. Boa’s moeten goed samenwerken met politie, wijkwerk en zorg. Bij gevoelens van onveiligheid moet dat serieus worden genomen."
+        },
+        "120021": {
+          "position": "disagree",
+          "explanation": "Volt is geen voorstander van grootschalig cameratoezicht. Wij staan open voor strategisch, transparant, locatiegebonden camera‑toezicht op gebieden met echte veiligheidsproblemen. Sociale controle, gedragsverandering en betere inrichting van openbare ruimtes zijn minstens zo effectief als camera’s."
+        },
+        "120024": {
+          "position": "disagree",
+          "explanation": "Deze maatregel werkt helaas puur prijsopdrijvend. Wij willen meer betaalbare woningen, vooral voor 1-persoonshuishoudens, en de Wet betaalbare huur moet strenger gehandhaafd worden. Het moet ook gemakkelijker worden om grote woningen te splitsen."
+        },
+        "120027": {
+          "position": "agree",
+          "explanation": "Volt is voor het handhaven van een zelfbewoningsplicht voor kopers. Dit zorgt ervoor dat kopers ook echt in Nijmegen zullen wonen. Wonen is jarenlang aan de markt overgelaten. Volt wil het percentage van sociale huur- en betaalbare woningen bij nieuwbouwprojecten verhogen."
+        },
+        "120030": {
+          "position": "disagree",
+          "explanation": "In plaats van een verplichte tegenprestatie, kiest Volt voor ondersteuning naar werk met taal- en scholingsprogramma’s. Wij stimuleren vrijwillige inzet naast een verplichting tot solliciteren. Wij experimenteren met o.a. basisinkomen, om mensen meer ruimte en controle te geven over hun inzet."
+        },
+        "120032": {
+          "position": "agree",
+          "explanation": "De inkomensgrens moet omhoog. Daardoor krijgen ook veel werkenden met een laag inkomen toegang tot ondersteuning. Het armoedebeleid moet drastisch eenvoudiger waarbij we uitgaan van vertrouwen."
+        },
+        "120034": {
+          "position": "agree",
+          "explanation": "Volt wil een systeem waarin we alle toeslagen en kortingen vervangen door een maandelijks basisinkomen. Dit geeft je zekerheid die je verdient en de vrijheid om vooruit te komen. Zo creëren we ruimte voor solidariteit; voor bijv. mantelzorg zonder financiële zorgen, voor een leven zonder schulden."
+        },
+        "120036": {
+          "position": "agree",
+          "explanation": "Volt streeft naar klimaatneutraliteit in 2040. Op meer plekken binnen de bebouwde kom 30 kilometer per uur rijden betekent meer verkeersveiligheid, een betere leefbaarheid en minder uitstoot in dichtbewoonde gebieden. Dit moet op passende wijze lokaal en per gebied worden ingericht."
+        },
+        "120039": {
+          "position": "disagree",
+          "explanation": "Volt beschouwt zorg als een basisrecht: toegankelijk voor iedereen. Keuzevrijheid is een centraal principe. Mensen moeten vertrouwen kunnen hebben in hun zorgverlener. Tegelijkertijd is er krapte in de zorg. We hebben niet de luxe om voor iedere inwoner een zorgverlener naar wens aan te bieden."
+        },
+        "120045": {
+          "position": "neither",
+          "explanation": "Volt pleit voor een groene, innovatieve en circulaire economie. Uitbreiding moet bijdragen aan de economische transitie. Ruimtelijke keuzes moeten rekening houden met biodiversiteit en klimaat. Er moet lokaal draagvlak zijn met deelname van inwoners en ondernemers in het besluitvormingsproces."
+        },
+        "120047": {
+          "position": "agree",
+          "explanation": "Vluchtelingen hebben niet de kans om een lange wachttijd op te bouwen. Een deel van de woningvoorraad moeten wij reserveren voor statushouders. Statushouders dragen dan eerder bij aan de maatschappij, integreren sneller én de kosten in de opvang verminderen met minder statushouders in de AZC’s."
+        },
+        "120049": {
+          "position": "disagree",
+          "explanation": "Volt is voor het opwekken van groene stroom, dus wil geen zonnepanelen verbieden op landbouwgrond. Zonnepanelen op daken hebben wel meer prioriteit. Een groene omgeving is eveneens belangrijk maar kan op verschillende manieren gestimuleerd worden, o.a. door het vergroenen van straten en wijken."
+        },
+        "120053": {
+          "position": "disagree",
+          "explanation": "Volt erkent het Nimweegs als cultureel erfgoed, maar gaat basisscholen hierin niks opleggen. Gezien de overvolle agenda’s van basisscholen om de kerndoelen te halen lijkt ons dit echt geen prioriteit."
+        },
+        "120055": {
+          "position": "agree",
+          "explanation": "Volt wil dat het percentage sociale huurwoningen omhoog gaat naar 35% bij nieuwbouwprojecten om zo wonen meer betaalbaar te maken."
+        },
+        "120061": {
+          "position": "disagree",
+          "explanation": "Volt erkent de overlast rond de dag- en nachtopvang voor daklozen in het centrum, maar kijkt naar bredere oplossingen dan puur het verplaatsen,"
+        },
+        "120062": {
+          "position": "neither",
+          "explanation": "Volt is voor een centrum dat autovrij is, met uitzonderingen voor bewoners en bestemmingsverkeer. Hiervoor moeten meer parkeerplaatsen rond het centrum komen, maar niet meer in het centrum."
+        },
+        "120063": {
+          "position": "disagree",
+          "explanation": "Elektrische brommers en scooters zijn schoner, beter voor de luchtkwaliteit en geven minder geluidsoverlast. Om te helpen bij het overstappen naar nu nog vaak duurdere elektrische modellen, blijft de bestaande subsidieregeling intact."
+        },
+        "120064": {
+          "position": "neither",
+          "explanation": "Volt is voor een autovrije binnenstad. Hiervoor moet doorgaand verkeer zo veel mogelijk om de stad heen kunnen en moet er voldoende ruimte zijn voor betaald parkeren aan de randen van de stad. Voor het versmallen van wegen rond het centrum zal per geval gekeken moeten worden wat hieraan bijdraagt."
+        },
+        "120065": {
+          "position": "agree",
+          "explanation": "Volt streeft naar een klimaatneutrale samenleving vóór 2040, met schone energie en lucht als een van de speerpunten. Houtstook is een grote bron van fijnstof en verontreiniging van schone lucht en draagt daarmee bij aan gezondheidsklachten en slechtere luchtkwaliteit bij code oranje en rood."
+        },
+        "120066": {
+          "position": "agree",
+          "explanation": "Het splitsen van woningen helpt tegen de woningnood. Daarnaast zijn 40% van de huishoudens eenpersoonshuishoudens. Door het splitsen van woningen wordt ook voorzien in de behoefte aan kleinere woningen."
+        },
+        "120067": {
+          "position": "disagree",
+          "explanation": "Volt ziet sekswerk als een gelijkwaardig onderdeel van de dienstverlenende sector en wil af van het stigma op sekswerkers. Van belang is wel dat er goede en veilige werkomstandigheden zijn, en er toezicht is op mensenhandel."
+        },
+        "120069": {
+          "position": "disagree",
+          "explanation": "De verkoop van alcohol in supermarkten zorgt voor veel overlast, zwerfafval en gaat ten koste van ondernemers. Daarom houdt Volt vast aan het alcoholverbod."
+        },
+        "120070": {
+          "position": "disagree",
+          "explanation": "Volt wil dat iedereen de kans heeft om van cultuur te genieten. De Lindenberg is daarbij een belangrijke culturele plaats en dient financieel ondersteund te worden maar niet ten koste van alles."
+        }
+      }
+    },
+    {
+      "id": 134457,
+      "name": "Revolutionair Socialistische Partij",
+      "fullName": "Revolutionair Socialistische Partij",
+      "website": "https://rsp.nu/afdelingen/nijmegen/",
+      "hasSeats": false,
+      "participates": true,
+      "positions": {
+        "120002": {
+          "position": "agree",
+          "explanation": "Referenda zijn beter dan maar om de vier jaar iets te zeggen hebben. Toch zijn ze slecht fopdemocratisch, omdat ze complexe thema's versimpelen tot voor en tegen. Nijmegenaren moeten buiten de gemeenteraad om vechten om hun stem te laten horen en op andere manieren gehoord kunnen worden."
+        },
+        "120005": {
+          "position": "disagree",
+          "explanation": "De huidige regels volstaan voor de horeca. Werknemers en buurtbewoners hebben recht op rust."
+        },
+        "120009": {
+          "position": "agree",
+          "explanation": "Terrasverwarming verspilt simpelweg te veel energie. Verwarmde kussens en dekentjes zijn een prima alternatief."
+        },
+        "120010": {
+          "position": "agree",
+          "explanation": "Als we de juiste prioriteiten stellen is er genoeg geld in onze stad om leuke dingen centraal te regelen voor Nijmegenaren."
+        },
+        "120015": {
+          "position": "disagree",
+          "explanation": "Dit geld is beter besteed aan cultuur voor en door de wijken."
+        },
+        "120020": {
+          "position": "disagree",
+          "explanation": "Veiligheid is niet simpelweg meer handhavers op straat. Veiligheid zit hem in de kern van de problemen aan te pakken. Geweld tegen vrouwen komt voort uit vrouwenhaat en wordt in de praktijk niet door boa's gestopt. Hetzelfde geldt voor uit armoede voortkomende misdaad."
+        },
+        "120021": {
+          "position": "disagree",
+          "explanation": "De overheid hoeft niet elk moment van de dag mee te kijken."
+        },
+        "120024": {
+          "position": "disagree",
+          "explanation": "De gemeente moet dit geld steken in de bouw van meer sociale huur, voor en door Nijmegen."
+        },
+        "120027": {
+          "position": "agree",
+          "explanation": "Huizen zijn om in te wonen, niet om mee te speculeren. In de gemeente met het hoogste woningtekort buiten de randstad is het niet te rechtvaardigen dat huizen als winstobject in plaats van woonobject gebruikt worden. Daarnaast bouwen we massaal sociale huur met een gemeentelijk bouwbedrijf."
+        },
+        "120030": {
+          "position": "disagree",
+          "explanation": "De RSP is in theorie wel voor een recht en (naar redelijkheid) plicht om maatschappelijk zinvol werk te doen, maar dan niet tegen bijstandsniveau, maar voor 80% modaal."
+        },
+        "120032": {
+          "position": "agree",
+          "explanation": "Niet afwachten tot problemen al extreem zijn. Een grootschalig offensief om armoede uit te roeien is nodig. Het is niet acceptabel dat kinderen in West onzeker zijn over het einde van de maand, terwijl de bedrijven die de lucht die ze ademen vervuilen hoogtijdagen vieren."
+        },
+        "120034": {
+          "position": "agree",
+          "explanation": "De RSP vind een basisinkomen minder erg dan het bestaan van armoede. Tegelijkertijd is het basisinkomen een mislukt aftreksel van het recht en de plicht om te werken tegen een degelijk loon. De RSP wil werkeloosheid afschaffen en zo een basisinkomen overbodig maken."
+        },
+        "120036": {
+          "position": "agree",
+          "explanation": "Voor de meeste wegen is het veiliger en uiteindelijk niet veel langzamer als de maximumsnelheid naar 30km/u gaat. Het gaat de RSP echter niet zozeer om het vervangen van het snelheidsbordje, maar het herinrichten van het wegennet om meer ruimte te geven aan spelende kinderen, wandelaars etc."
+        },
+        "120039": {
+          "position": "disagree",
+          "explanation": "Dit klinkt nobel maar werkt in de praktijk segregatie in de hand en drijft kosten omhoog. Daarnaast creëert het een mogelijkheid voor ouders om hun kinderen af te zonderen van sociale normen."
+        },
+        "120045": {
+          "position": "disagree",
+          "explanation": "Nijmegen heeft al het grootste industriegebied in een binnenstad en relatief grote bedrijventerreinen. En dat terwijl er te weinig plek is om te bouwen. Wanneer het de leefbaarheid negatief beïnvloed worden bedrijventerreinen niet verder uitgebreid."
+        },
+        "120047": {
+          "position": "agree",
+          "explanation": "Het alternatief is dat ze op straat belanden"
+        },
+        "120049": {
+          "position": "disagree",
+          "explanation": "Dit is waarschijnlijk geen rendabel gebruik van land in Nederland, maar dat is geen reden om het specifiek te verbieden."
+        },
+        "120053": {
+          "position": "disagree",
+          "explanation": "Het spreken en schrijven van Nijmeegs dialect moet niet afgestraft worden op school, maar er hoeft ook geen tijd voor vrijgemaakt te worden."
+        },
+        "120055": {
+          "position": "agree",
+          "explanation": "Centraal en goed voorbereid plannen is precies waarom Nijmegen de snelst bouwende gemeente is, maar het is nog niet genoeg. We zijn ook de gemeente met het grootste woningtekort buiten de randstad. We hebben een gemeentelijk bouwbedrijf nodig dat massaal sociale huur bouwt voor mensen, niet winst."
+        },
+        "120061": {
+          "position": "disagree",
+          "explanation": "Het alternatief is dat deze mensen op straat slapen. De opvang moet juist toenemen in capaciteit en gratis. Zodat niemand in de vrieskou hoeft te slapen. Dit is levensgevaarlijk."
+        },
+        "120062": {
+          "position": "disagree",
+          "explanation": "Autorijden in het centrum hoeft niet als je niet in het centrum woont. Maar bewonersvergunningen moeten gratis zijn en huur van parkeerplekken moet alleen toegankelijk zijn voor mensen die in het centrum wonen."
+        },
+        "120063": {
+          "position": "agree",
+          "explanation": "Als je af wil van scooters en brommers in het centrum moet het OV naar wijken ver van het centrum verbeterd worden in plaats van mobiliteitsopties ontnemen."
+        },
+        "120064": {
+          "position": "agree",
+          "explanation": "Uiteindelijk moet autoverkeer in het centrum beperkt tot bewoners en de directe omgeving van het centrum moet, naar redelijkheid, beperkt worden als doorgangsroute. We erkennen dat Nijmegen hierin een uniek lastige casus is."
+        },
+        "120065": {
+          "position": "agree",
+          "explanation": "Smog is slecht voor de gezondheid."
+        },
+        "120066": {
+          "position": "disagree",
+          "explanation": "Woningsplitsen duwt starters en zelfstandigen in lagere kwaliteit woningen. Een echte oplossing voor het woningtekort is een gemeentelijk bouwbedrijf waar niet winst maar wonen op een staat."
+        },
+        "120067": {
+          "position": "disagree",
+          "explanation": "De oorzaken van (straat)prostitutie moeten aangepakt worden. Ongelijkheid, armoede en dakloosheid zijn beleidskeuzes. Straatprostitutie is niet weg te stemmen in een gemeenteraad door het uit het zicht te halen."
+        },
+        "120069": {
+          "position": "agree",
+          "explanation": "Deze maatregel is er grotendeels om ondernemers te spekken ten koste van de keuzevrijheid van het feestgaande publiek."
+        },
+        "120070": {
+          "position": "agree",
+          "explanation": "Lindenberg is belangrijk voor het cultureel leven in Nijmegen. Als er geld is kan het beter naar Lindenberg dan naar profiteurs en \"leningen\" aan gefaalde ondernemers."
+        }
+      }
+    }
+  ],
+  "statements": [
+    {
+      "id": 120069,
+      "index": 1,
+      "theme": "Alcohol sales",
+      "themeId": "verkoop-alcohol",
+      "title": "Nijmegen should allow the sale of alcohol in supermarkets again during the Four Days Marches week.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120047,
+      "index": 2,
+      "theme": "Priority for refugees",
+      "themeId": "voorrang-voor-vluchtelingen",
+      "title": "The municipality should give refugees with a residence permit priority for social housing.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120030,
+      "index": 3,
+      "theme": "Work requirement for welfare recipients",
+      "themeId": "tegenprestatie-voor-uitkering",
+      "title": "People receiving social assistance should, in return, do socially useful work.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120015,
+      "index": 4,
+      "theme": "Local media",
+      "themeId": "lokale-media",
+      "title": "The municipality should support the local broadcaster with additional funding.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120066,
+      "index": 5,
+      "theme": "Subdividing homes",
+      "themeId": "splitsen-woningen",
+      "title": "Nijmegen should allow the subdivision of homes much more often.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120005,
+      "index": 6,
+      "theme": "Closing times for bars and restaurants",
+      "themeId": "sluitingstijden-horeca",
+      "title": "Cafés and restaurants must be able to determine their own opening hours.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120036,
+      "index": 7,
+      "theme": "Car speeds",
+      "themeId": "snelheid-auto-s",
+      "title": "The maximum speed limit in built-up areas should be set to 30 km/h.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120061,
+      "index": 8,
+      "theme": "Homeless shelter",
+      "themeId": "daklozenopvang",
+      "title": "The day and night shelters for homeless people must be removed from the centre.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120009,
+      "index": 9,
+      "theme": "Terrace heating",
+      "themeId": "terrasverwarming",
+      "title": "The municipality must ban outdoor patio heaters.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120002,
+      "index": 10,
+      "theme": "Referendum",
+      "themeId": "referendum",
+      "title": "The residents of Nijmegen should be able to give their opinion on important issues via a referendum.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120067,
+      "index": 11,
+      "theme": "Street prostitution zone",
+      "themeId": "tippelzone",
+      "title": "Nijmegen should close the tippelzone.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120032,
+      "index": 12,
+      "theme": "Combating poverty",
+      "themeId": "armoedebestrijding",
+      "title": "The municipality should raise the income threshold for receiving poverty assistance.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120045,
+      "index": 13,
+      "theme": "Business parks",
+      "themeId": "bedrijventerreinen",
+      "title": "Business parks in Nijmegen should be allowed to expand.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120010,
+      "index": 14,
+      "theme": "Fireworks",
+      "themeId": "vuurwerk",
+      "title": "The municipality should organize a fireworks show on New Year's Eve.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120034,
+      "index": 15,
+      "theme": "Basic income",
+      "themeId": "basisinkomen",
+      "title": "Nijmegen should run a pilot project with a basic income.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120020,
+      "index": 16,
+      "theme": "Enforcement officers",
+      "themeId": "handhavers",
+      "title": "Nijmegen needs more municipal enforcement officers (BOAs) focused on safety.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120024,
+      "index": 17,
+      "theme": "Starter loan",
+      "themeId": "starterslening",
+      "title": "First-time homebuyers should be able to receive a starter loan from the municipality.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120064,
+      "index": 18,
+      "theme": "Road narrowing",
+      "themeId": "versmalling-wegen",
+      "title": "The municipality should narrow the roads around the centre.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120053,
+      "index": 19,
+      "theme": "Regional language",
+      "themeId": "streektaal",
+      "title": "The municipality should make it possible for all primary schools to include attention to the Nimweegs dialect.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120063,
+      "index": 20,
+      "theme": "Low-emission zone for mopeds",
+      "themeId": "milieuzone-brommers",
+      "title": "Nijmegen should repeal the ban on the use of non-electric mopeds and scooters as of 2028.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120055,
+      "index": 21,
+      "theme": "Social housing",
+      "themeId": "sociale-huurwoningen",
+      "title": "At least 35% of the newly built homes in Nijmegen should be social rental housing. In the Netherlands, 28% of homes are currently social rental housing.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120039,
+      "index": 22,
+      "theme": "Choice of healthcare",
+      "themeId": "zorgkeuze",
+      "title": "People who need care should always be able to choose a caregiver who matches their religion, culture, or beliefs.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120049,
+      "index": 23,
+      "theme": "Solar panels on farmland",
+      "themeId": "zonnepanelen-op-landbouwgrond",
+      "title": "The municipality should ban solar panels on agricultural land.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120027,
+      "index": 24,
+      "theme": "Owner-occupancy of a home",
+      "themeId": "zelf-bewonen-van-een-koophuis",
+      "title": "Anyone who buys a home in our municipality must live in it themselves.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120062,
+      "index": 25,
+      "theme": "More parking spaces",
+      "themeId": "meer-parkeerplaatsen",
+      "title": "More parking spaces should be provided in and around the centre.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120070,
+      "index": 26,
+      "theme": "Lindenberg",
+      "themeId": "lindenberg",
+      "title": "The municipality should contribute generously to the new construction or renovation of Lindenberg Cultuurhuis.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120021,
+      "index": 27,
+      "theme": "Camera surveillance",
+      "themeId": "cameratoezicht",
+      "title": "More CCTV surveillance should be installed in Nijmegen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 120065,
+      "index": 28,
+      "theme": "Wood burning",
+      "themeId": "houtstook",
+      "title": "Nijmegen should prohibit wood burning when air quality codes are orange and red.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    }
+  ]
+}

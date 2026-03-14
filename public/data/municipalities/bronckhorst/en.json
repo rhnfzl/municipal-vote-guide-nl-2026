@@ -1,0 +1,1207 @@
+{
+  "id": "GM1876",
+  "name": "Bronckhorst",
+  "slug": "bronckhorst",
+  "parties": [
+    {
+      "id": 111210,
+      "name": "Gemeentebelangen Bronckhorst",
+      "fullName": "Gemeentebelangen Bronckhorst",
+      "website": "https://www.gbbronckhorst.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "111229": {
+          "position": "agree",
+          "explanation": "In het programma kiest GbB expliciet voor referenda bij ingrijpende besluiten (zoals over windturbines of asielopvanglocaties), met een haalbare drempel en serieuze opvolging van de uitslag."
+        },
+        "111233": {
+          "position": "agree",
+          "explanation": "GbB expliciet voorstanders van energiecoöperaties met minimaal 75% lokaal eigendom. Financiële steun voor collectieve energieprojecten is onderdeel van het beleid."
+        },
+        "111234": {
+          "position": "disagree",
+          "explanation": "GbB laat ruimte voor economische ontwikkeling via 'ja, tenzij-mentaliteit', maar stelt voorwaarden (landschappelijke inpassing, verkeer, milieu). Context bepaalt keuze."
+        },
+        "111235": {
+          "position": "disagree",
+          "explanation": "GbB onderkent de Spreidingswet en wettelijke verplichting. Wij stellen voor dit op kleinschalige wijze te doen (max 8/16 personen per locatie) met goede integratie, maar dus geen asielzoekerscentrum."
+        },
+        "111236": {
+          "position": "disagree",
+          "explanation": "GbB ziet ondernemers als partners. Zelf zorgen voor huisvesting sluit aan bij verantwoordelijkheid van werkgevers en minder overheidslasten, maar wij willen het niet verplichten op eigen terrein."
+        },
+        "111238": {
+          "position": "agree",
+          "explanation": "GbB kiest voor praktische, haalbare maatregelen. Geen verbod op houtstook, maar wel stimulering van schonere alternatieven past in 'ja, tenzij-mentaliteit'."
+        },
+        "111244": {
+          "position": "agree",
+          "explanation": "GBB stelt 'deelname moet voor iedereen mogelijk blijven' en zet in op betaalbare contributies via verduurzaming van accommodaties. Een voetbalclub valt hier wel onder, maar een (dure-)fitnessclub niet.\r\n\r\n "
+        },
+        "111245": {
+          "position": "agree",
+          "explanation": "Wij vinden een goede basis voorziening van informatie noodzakelijk. Dat moet op een voldoende professioneel niveau zijn. De lokale omroep is één van de middelen om de politiek te controleren."
+        },
+        "111248": {
+          "position": "agree",
+          "explanation": "GBB ziet sportverenigingen als belangrijk voor de samenhang. Betaalbare accommodaties en contributies zijn een speerpunt. We proberen alles om voorzieningen in de dorpen en kernen beschikbaar te houden."
+        },
+        "111249": {
+          "position": "disagree",
+          "explanation": "GbB acht monumentenzorg belangrijk voor behoud van het landschap en cultureel erfgoed. Dit past in 'ja, tenzij-mentaliteit'."
+        },
+        "111252": {
+          "position": "disagree",
+          "explanation": "GbB ziet werkelijk op dit moment geen enkele signalen waarom dit zinvol zou zijn. Als het noodzakelijk is, kan eerst tijdelijk een camera geplaatst worden om de noodzaak te achterhalen."
+        },
+        "111253": {
+          "position": "agree",
+          "explanation": "GbB ondersteunt sociale veiligheid en hulp bij geweld. Dit past in de 'zorgstructuur met snelle hulp'. Maar moeten is een groot woord, dit hangt ook af van de zorgsector."
+        },
+        "111259": {
+          "position": "neither",
+          "explanation": "GbB ziet het graag als 'werk eerst' en ondersteunen daar graag bij, maar staan ook voor het voorkomen van onnodig bureaucratie. Tegenprestatie kan zinvol zijn, maar moet vooral bijdragen aan een duurzame inzet."
+        },
+        "111260": {
+          "position": "disagree",
+          "explanation": "GbB zet in op armoedebestrijding en hulp. Kwijtschelding is een vorm van sociaal beleid dat GbB ondersteunt. Daarnaast zetten we in op het aanpakken van de armoede in algemene zin zodat de noodzaak voor ondersteuning afneemt."
+        },
+        "111263": {
+          "position": "agree",
+          "explanation": "GbB steunt duurzame mobiliteit. Dit sluit aan bij energietransitie en de ambities voor schonere transport."
+        },
+        "111264": {
+          "position": "neither",
+          "explanation": "GbB zet in op verkeersveiligheid, veilige oversteken en schoolomgeving. 30 km/u draagt bij aan veiligheid van kwetsbare groepen, maar op veel plekken is dat al gerealiseerd. GbB zou liever inzetten op een straatinrichting waardoor er automatisch minder hard gereden wordt waar dat gewenst is."
+        },
+        "111265": {
+          "position": "neither",
+          "explanation": "GBB respecteert culturele diversiteit en inclusie. Dit sluit aan bij persoonlijke keuzevrijheid. Natuurlijk wel binnen dezelfde vergoedingsvoorwaarden als voor andere inwoners."
+        },
+        "111267": {
+          "position": "disagree",
+          "explanation": "GbB kiest voor betaalbaarheid voor inwoners. Ozb-verhoging belemmert de woningmarkt en huiseigenaren. Een OZB-verhoging is wat ons betreft een laatste redmiddel, als het echt niet op andere plekken gevonden kan worden."
+        },
+        "111269": {
+          "position": "neither",
+          "explanation": "GbB steunt toerisme maar onderzoekt uitgaven. Verlaging van toeristenbelasting vermindert inkomsten voor gemeente."
+        },
+        "111271": {
+          "position": "disagree",
+          "explanation": "GbB zet in op leefbaarheid in dorpscentra, maar wil ruimte voor ondernemers. Dit is een afweging van economie versus rust en bovenal een afweging van de ondernemers in het dorp samen."
+        },
+        "111274": {
+          "position": "disagree",
+          "explanation": "GbB ziet kansen in energietransitie met agrarische bedrijven als partners. Zonnepanelen kunnen grond multifunctioneel maken."
+        },
+        "111276": {
+          "position": "agree",
+          "explanation": "GbB stelt 'dorpen met karakter' centraal. Behoud van streektaal hoort daarbij. Wij zouden het zeker ondersteunen als het Achterhoeks, maar ook de cultuur aandacht krijgt."
+        },
+        "111277": {
+          "position": "neither",
+          "explanation": "GbB zet in op veiligheid en leefbaarheid. Coffeeshops passen mogelijk dan niet, maar wij willen bij een verzoek zeker kijken naar het totaal plaatje, waarbij een legale keten voorwaardelijk is, ook de kweek."
+        },
+        "111282": {
+          "position": "agree",
+          "explanation": "GbB zet in op flexwoningen. Dit helpt sneller woningaanbod te creëren en geeft flexibiliteit."
+        },
+        "111284": {
+          "position": "disagree",
+          "explanation": "GbB expliciet tegen grote windturbines van 150 meter of hoger, de enige partij die hierover niet veranderd is van mening. Het was de reden van de coalitiebreuk. We zijn voor erfmolens van 25 meter. Ook zetten wij in op dorpsenergie waarbij inwoners en bedrijven samen met gemeente energie opwekken."
+        },
+        "111285": {
+          "position": "agree",
+          "explanation": "GbB ziet energie-innovaties bij boeren als kans. Mestvergisting sluit aan bij duurzame landbouw en energietransitie, maar wij willen erbij wel vermelden dat wij geen voorstander zijn van grootschalige mestvergisting, waarbij het zeer waarschijnlijk is dat mest van buiten verzameld wordt (mestputje)."
+        }
+      }
+    },
+    {
+      "id": 111212,
+      "name": "CDA",
+      "fullName": "Christen-Democratisch Appèl",
+      "website": "https://www.cda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "111229": {
+          "position": "disagree",
+          "explanation": "Wij hebben een vertegenwoordigende democratie (verkiezingen). Bij vorming/uitvoering van beleid sluiten wij raadpleging van een representatieve groep van inwoners niet uit (algemeen belang)."
+        },
+        "111233": {
+          "position": "agree",
+          "explanation": "We geloven in het belang van lokale samenwerking op het gebied van de opwek duurzame energie en het voorzien in een eigen energiebehoefte. Dit vraagt voor lokaal draagvlak, lokaal eigendom en de ontwikkeling van lokale energiesystemen."
+        },
+        "111234": {
+          "position": "agree",
+          "explanation": "De infrastructuur (fysiek en digitaal) leent zich niet voor het vestigen van grote distributiecentra."
+        },
+        "111235": {
+          "position": "neither",
+          "explanation": "Bronckhorst neemt haar verantwoordelijkheid door de spreidingswet uit te voeren. Met de samenleving maken we afspraken om dit op een goede wijze uit te doen."
+        },
+        "111236": {
+          "position": "disagree",
+          "explanation": "De huisvesting van seizoenarbeiders dient op een juiste en humane wijze plaats te vinden. Dit hoeft niet op het eigen bedrijfsterrein plaats te vinden. Primair ligt de verantwoordelijkheid hiervoor hij de werkgever c.q. uitzendende organisatie."
+        },
+        "111238": {
+          "position": "agree",
+          "explanation": "We streven naar een verantwoorde houtstook. Daarbij hoort goede communicatie."
+        },
+        "111244": {
+          "position": "agree",
+          "explanation": "CDA staat voor een inclusieve samenleving. Iedereen doet mee, niemand valt buiten de boot."
+        },
+        "111245": {
+          "position": "disagree",
+          "explanation": "Wij zetten de huidige bijdrage voort - nu geen verhoging - omdat wij het belang van de regionale omroep ondersteunen. Dit sluit niet uit dat vanwege voortschrijdend inzicht tot een andere afweging kunnen komen."
+        },
+        "111248": {
+          "position": "agree",
+          "explanation": "Samen met sportverenigingen investeren wij in sterke verenigingen en een gezonde samenleving. Daarbij hoort een goed aanbod op bereikbare afstand."
+        },
+        "111249": {
+          "position": "disagree",
+          "explanation": "Bronckhorst hecht waarde aan de monumenten, het religies erfgoed en de historische buitenplaatsen. We ondersteunen het behoud hiervan met kennis en expertise."
+        },
+        "111252": {
+          "position": "neither",
+          "explanation": "De gemeente kent op dit moment geen plaatsen waar cameratoezicht noodzakelijk is.  Mochten er redenen ontstaan vanwege openbare orde en veiligheid dan sluiten wij het, met veel aandacht voor privacy, niet uit."
+        },
+        "111253": {
+          "position": "agree",
+          "explanation": "De beschikbaarheid van een blijf van mijn lijfhuisvoorziening is belangrijk in Bronckhorst of de directe omgeving."
+        },
+        "111259": {
+          "position": "neither",
+          "explanation": "Wij voeren de bijstandswetgeving uit en helpen mensen bij voorkeur op weg naar regulier werk. Waar maatschappelijk werk daarbij aan bijdraagt ondersteunen wij daarbij. Met als doel dat mensen zich gewaardeerd voelen en mee kunnen doen."
+        },
+        "111260": {
+          "position": "disagree",
+          "explanation": "We willen voorkomen dat mensen in een langdurig financieel onzekere situatie komen en daarmee lang aanspraak moeten maken op onze financiële ondersteuning."
+        },
+        "111263": {
+          "position": "agree",
+          "explanation": "We zorgen ervoor dat de juiste voorzieningen op de juiste plek en moment worden gerealiseerd."
+        },
+        "111264": {
+          "position": "agree",
+          "explanation": "Waar verlagen van de snelheid bijdraagt aan veiligheid wordt dit toegepast."
+        },
+        "111265": {
+          "position": "neither",
+          "explanation": "We bieden passende zorg zodat mensen langdurige zelfstandig kunnen wonen en kinderen in een veilige omgeving tot ontwikkeling kunnen komen. Daarvoor zetten wij professionele ondersteuning in en sluiten niemand uit."
+        },
+        "111267": {
+          "position": "disagree",
+          "explanation": "Gemeentelijke financiën staan onder stuk en daarom maken we keuzes in bestaand en nieuw beleid. OZB verhoging sluiten we niet uit. We blijven streven naar een een zo laag mogelijk belastingdruk voor onze inwoners. We bezien dit in relatie tot vergelijkbare gemeenten."
+        },
+        "111269": {
+          "position": "disagree",
+          "explanation": "Toeristenbelasting blijft op een acceptabel niveau en wordt ook ingezet voor de aantrekkelijkheid voor toeristen."
+        },
+        "111271": {
+          "position": "disagree",
+          "explanation": "We handhaven het huidige beleid."
+        },
+        "111274": {
+          "position": "agree",
+          "explanation": "We gaan uit van het principe dat goede landbouwgrond beschikbaar blijft voor de agrarische familiebedrijven. We sluiten het niet uit aan de randen van industriegebieden en op gesaneerde agrarische bebouwing. Goede landschappelijke inpassing is een voorwaarde."
+        },
+        "111276": {
+          "position": "agree",
+          "explanation": "Het spreken van het Neder Saksisch hoort bij de Achterhoekse cultuur, onze tradities en gewoontes. Dit draagt bij aan het meedoen en een leefbare samenleving. Hierover willen met scholen in gesprek."
+        },
+        "111277": {
+          "position": "agree",
+          "explanation": "Dit voorziet niet in een vraag en draagt zeker niet bij aan de gezondheid een samenleving die wij voor staan."
+        },
+        "111282": {
+          "position": "agree",
+          "explanation": "Wij willen tijdelijke woningen toestaan waar het nodig is om acute woningnood weg te nemen te maar prevaleren permanente woningen. "
+        },
+        "111284": {
+          "position": "agree",
+          "explanation": "Windmolens sluiten wij niet uit. Zij moeten wel zorgvuldig, met oog op het beperken van overlast, met respect voor het landschap worden ingepast. Opbrengsten dienen ook binnen het gebied te landen. Op dit moment is Eldrik het enige door de raad vastgestelde zoekgebied."
+        },
+        "111285": {
+          "position": "agree",
+          "explanation": "Mestvergisting draagt bij aan de energietransitie en lokale energievraagstukken. Mest als grondstof voor groen gas is een optie."
+        }
+      }
+    },
+    {
+      "id": 111215,
+      "name": "GroenLinks-PvdA",
+      "fullName": "Groenlinks - Partij van de Arbeid",
+      "website": "https://groenlinkspvda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "111229": {
+          "position": "agree",
+          "explanation": "We vinden het belangrijk dat inwoners kunnen meepraten en meedenken. Er zijn ook andere manieren dan een referendum."
+        },
+        "111233": {
+          "position": "agree",
+          "explanation": "Zeker voor inwoners die willen verduurzamen maar dit niet kunnen betalen. Dit geldt ook voor groepen inwoners die samen energie willen opwekken, zoals een energiecoöperatie."
+        },
+        "111234": {
+          "position": "agree",
+          "explanation": "De distributiecentra vervuilen het landschap. En leveren nauwelijks lokale en vaste banen op. Vaak wordt dit werk gedaan arbeidsmigranten onder slechte arbeidsvoorwaarden."
+        },
+        "111235": {
+          "position": "agree",
+          "explanation": "Wij nemen onze verantwoordelijkheid. Kleinschalige opvang past in gemeente Bronckhorst, mits goed ingebed. We luisteren naar lokale zorgen en de buurt wordt goed betrokken bij de plannen. Verbinding maken met de nieuwkomers is belangrijk."
+        },
+        "111236": {
+          "position": "disagree",
+          "explanation": "Wonen op een bedrijfsterrein is niet goed. Scheiden van wonen en werken is gezond en het vermindert kans op uitbuiting."
+        },
+        "111238": {
+          "position": "disagree",
+          "explanation": "Houtstook is slecht voor de gezondheid. We willen de houtstook stapsgewijs verminderen. We letten daarbij op inwoners die hout stoken omdat zij de gasrekening niet kunnen betalen."
+        },
+        "111244": {
+          "position": "agree",
+          "explanation": "Momenteel krijgen inwoners met een inkomen tot 130% van de bijstand dit al. Dat is erg goed en moet zo blijven."
+        },
+        "111245": {
+          "position": "disagree",
+          "explanation": "Lokale media zijn ontzettend belangrijk. Zij brengen regionaal nieuws van de straat of de gemeenteraad. Het is de rol van het Rijk om de financiële bijdrage te bepalen."
+        },
+        "111248": {
+          "position": "disagree",
+          "explanation": "Sporten is gezond, geeft een hoop energie en voldoening. De sportclub is ook een ontmoetingsplek. Toch zijn wij terughoudend in financiële bijdragen vanuit de gemeente. Eerst kijken wat er aan de hand is en dan beoordelen wat nodig is."
+        },
+        "111249": {
+          "position": "disagree",
+          "explanation": "Onze monumenten maken onze gemeente uniek, mooi en aantrekkelijk voor de inwoners en toeristen. Wij vinden dat je daar goed voor moet zorgen. Het zou ontzettend zonde zijn als unieke plekken voor altijd verloren gaan omdat we er nu voor kiezen om te bezuinigen."
+        },
+        "111252": {
+          "position": "disagree",
+          "explanation": "Het gevoel van veiligheid is belangrijk. Meer camera's in Bronckhorst vinden wij niet de oplossing, want privacy is een groot goed. Wij kiezen liever voor meer handhavers of tijdelijk cameratoezicht op plekken waar dit noodzakelijk blijkt."
+        },
+        "111253": {
+          "position": "agree",
+          "explanation": "Er zijn te weinig opvangplekken, zowel in het land als in de Achterhoek. Als je thuis niet meer veilig bent, dan moet er een plek in de regio zijn waar je altijd naartoe kunt."
+        },
+        "111259": {
+          "position": "agree",
+          "explanation": "Zinvol werk kan bijdragen aan een gevoel van eigenwaarde. Weer meedoen in de maatschappij vinden wij belangrijk op voorwaarde dat het vrijwillig is, past bij de persoon en geen regulier werk verdringt."
+        },
+        "111260": {
+          "position": "disagree",
+          "explanation": "Kwijtschelding van gemeentelijke belasting is somnodig, zodat mensen met een laaginkomen niet verder in de knel komen. GroenLinks-PvdA wil dat elke inwoner hulp krijgt, zodat de basislasten betaald kunnen worden en schulden niet verder oplopen. De ruimhartige ondergrens van 130% willen wij behouden."
+        },
+        "111263": {
+          "position": "agree",
+          "explanation": "Er zijn voldoende laadplekken nodig, zodat elektrisch rijden toegankelijk is, de energietransitie kan versnellen en duurzame mobiliteit de norm kan worden. Als grote plattelandsgemeente moeten we zorgen voor een goede spreiding van de oplaadpunten."
+        },
+        "111264": {
+          "position": "agree",
+          "explanation": "GroenLinks-PvdA is voor een maximum snelheid van 30 km in de bebouwde kom. Een lagere maximumsnelheid verbetert de verkeersveiligheid in onze dorpen. Voor fietsende kinderen en ouderen die slecht ter been zijn is dit een wereld van verschil. Daarbij is het schoner voor de omgeving."
+        },
+        "111265": {
+          "position": "neither",
+          "explanation": "Keuzevrijheid in de zorg is een recht voor iedereen, maar door krapte in de zorg is kiezen niet altijd mogelijk. Wij vinden gelijkwaardigheid, kwaliteit en toegankelijkheid van de zorg erg belangrijk."
+        },
+        "111267": {
+          "position": "agree",
+          "explanation": "Voor GroenLinks-PvdA is een verhoging van de OZB bespreekbaar als dat nodig is voor verbetering van voorzieningen, zoals scholen, bibliotheken of sport. Daarbij houden we oog voor huiseigenaren op de armoedegrens."
+        },
+        "111269": {
+          "position": "disagree",
+          "explanation": "Toeristen maken volop gebruik van voorzieningen, bijvoorbeeld onze mooie wandel- en fietspaden. Dit onderhouden kost geld."
+        },
+        "111271": {
+          "position": "disagree",
+          "explanation": "We houden de afspraken graag zoals ze zijn. Wij vinden het belangrijk dat de winkels op zondag open kunnen voor winkeliers én klanten die dat willen. Dit maakt het voor alleenstaanden die doordeweeks werken ook een stuk makkelijker om belangrijke boodschappen te doen."
+        },
+        "111274": {
+          "position": "disagree",
+          "explanation": "Een veld met zonnepanelen kan veel huishoudens van schone, betaalbare energie voorzien. Als boeren dat willen, moeten ze hun grond hiervoor kunnen gebruiken. Bovendien kan er onder zonnepanelen nog van alles leven en bloeien, denk aan schapen en bloemen."
+        },
+        "111276": {
+          "position": "disagree",
+          "explanation": "De taal is een levend onderdeel van de Achterhoekse cultuur, maar in het onderwijs is de druk op de lesdag al hoog. Het Achterhoeks moet volgens ons wel een plek krijgen op plekken zoals de bieb, de sportvereniging en lokaal theater."
+        },
+        "111277": {
+          "position": "disagree",
+          "explanation": "Reguleren is beter dan verbieden, een coffeeshop kan zorgen voor minder illegale handel en meer controle."
+        },
+        "111282": {
+          "position": "agree",
+          "explanation": "Tijdelijke woningen kunnen een tijdelijke oplossing zijn om de druk op de woningmarkt te verlagen."
+        },
+        "111284": {
+          "position": "agree",
+          "explanation": "Windmolens zijn nodig voor de energietransitie. Met alleen zon en besparen redden we het niet. We hebben het gebied rond Eldrik aangewezen voor windmolens. GroenLinks-PvdA blijft hierbij."
+        },
+        "111285": {
+          "position": "neither",
+          "explanation": "GroenLinks-PvdA is akkoord met kleine mestvergisters voor eigen gebruik. Wij zijn geen voorstanders van grote mestvergisters."
+        }
+      }
+    },
+    {
+      "id": 111217,
+      "name": "VVD",
+      "fullName": "Volkspartij voor Vrijheid en Democratie",
+      "website": "https://www.vvd.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "111229": {
+          "position": "agree",
+          "explanation": "\"Selectief\" inzetten ingeval bijzonder belangwekkende onderwerpen."
+        },
+        "111233": {
+          "position": "neither",
+          "explanation": "Investeren is primair verantwoordelijkheid van inwoners zelf. Gemeente kan wel collectieve initiatieven incidenteel (financieel) ondersteunen bv bij start."
+        },
+        "111234": {
+          "position": "agree",
+          "explanation": "Grote opslag-/distributiecentra kunnen/mogen zich vestigen op regionale bedrijventerrein in de Achterhoek. Focus Bronckhorst vnl gericht op lokale werkgelegenheid."
+        },
+        "111235": {
+          "position": "disagree",
+          "explanation": "Een grootschalig AZC past niet bij Bronckhorst. Keuze voor meer kleinschalige opvang vluchtelingen en obv strikte voorwaarden, en conform verplichtingen Spreidingswet en afspraken Regio Achterhoek."
+        },
+        "111236": {
+          "position": "agree",
+          "explanation": "Principe uitgangspunt is goed, nl dat werkgevers verantwoordelijk zijn voor goede huisvesting. Kan mogelijk niet in alle gevallen op eigen terrein, dan elders mogelijk onder strikte voorwaarden."
+        },
+        "111238": {
+          "position": "agree",
+          "explanation": "Conform landelijk beleid/wetgeving/regels."
+        },
+        "111244": {
+          "position": "disagree",
+          "explanation": "Bronckhorst kent reeds ruimhartige financiële regelingen voor mensen met lage inkomens w.o. kosten voor sportclubs."
+        },
+        "111245": {
+          "position": "neither",
+          "explanation": "Belang lokale media is evident voor VVD. Echter huidige financiële support door gemeente Bronckhorst is goed. Extra financiering niet strikt noodzakelijk."
+        },
+        "111248": {
+          "position": "agree",
+          "explanation": "Incidenteel financieel bijdragen mogelijk bv in corona periode en energiekostenontwikkelingen. Structureel is vereniging zelf verantwoordelijk voor gezonde exploitatie."
+        },
+        "111249": {
+          "position": "disagree",
+          "explanation": "Cultureel erfgoed koesteren."
+        },
+        "111252": {
+          "position": "neither",
+          "explanation": "Meer camera's is geen doel op zich. Enkel op plekken waar nodig tbv veiligheid toepassen."
+        },
+        "111253": {
+          "position": "neither",
+          "explanation": "Blijf-van-mijn-lijf huis goed regelen in grotere Regio Achterhoek. Doetinchem heeft centrumfunctie."
+        },
+        "111259": {
+          "position": "agree",
+          "explanation": "Versterkt sociale contacten/binding met de lokale samenleving."
+        },
+        "111260": {
+          "position": "neither",
+          "explanation": "Bronckhorst kent een kwijtscheldingsbeleid. Goed om mensen structureel uit de schulden te helpen."
+        },
+        "111263": {
+          "position": "agree",
+          "explanation": "Goed anticiperen op groei elektrische auto's."
+        },
+        "111264": {
+          "position": "disagree",
+          "explanation": "Geldt reeds voor diverse dorpskernen en wijken. Huidige situatie voor nu goed. In toekomst wellicht selectief uitbreiden. Verkeersveiligheid is bepalend."
+        },
+        "111265": {
+          "position": "disagree",
+          "explanation": "Goede zorg dient uitgangspunt te zijn. Los van geloof, cultuur of levensovertuiging."
+        },
+        "111267": {
+          "position": "disagree",
+          "explanation": "Lastenverhogingen dienen zoveel mogelijk beperkt te worden. Maximaal de inflatiecorrectie."
+        },
+        "111269": {
+          "position": "neither",
+          "explanation": "Huidige niveau goed."
+        },
+        "111271": {
+          "position": "disagree",
+          "explanation": "Ondernemersvrijheid borgen. Vaak icm mooie lokale initiatieven en evenementen op de zondagen."
+        },
+        "111274": {
+          "position": "neither",
+          "explanation": "Selectief (kleinschalig) toestaan om regionale-/lokale energietransitie doelen te helpen realiseren."
+        },
+        "111276": {
+          "position": "agree",
+          "explanation": "Enige aandacht specifiek voor streekcultuur/streektaal is prima."
+        },
+        "111277": {
+          "position": "agree",
+          "explanation": "Coffeeshop primair in Doetinchem als centrumgemeente/-stad. Voor klein Dorpen als in Bronckhorst niet toestaan."
+        },
+        "111282": {
+          "position": "agree",
+          "explanation": "Tijdelijke woningen is oké tbv woninggebrek. Permanente woningbouw blijft prioriteit."
+        },
+        "111284": {
+          "position": "disagree",
+          "explanation": "Bronckhorst mede-verantwoordelijk om bijdrage te leveren aan RES Regio Achterhoek. Windturbines enkel mogelijk in zoekgebied Eldrik onder strikte voorwaarden (gezondheid/natuur/milieu) en (financiële) lokale participatie."
+        },
+        "111285": {
+          "position": "agree",
+          "explanation": "Selectief mogelijk onder strikte voorwaarden."
+        }
+      }
+    },
+    {
+      "id": 111214,
+      "name": "D66",
+      "fullName": "D66",
+      "website": "https://d66.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "111229": {
+          "position": "neither",
+          "explanation": "Raadsleden worden gekozen door de inwoners. Zij zijn de volksvertegenwoordigers namens onze inwoners. In de toekomst kan een adviesgevend referendum vorm worden gegeven. Daarvoor is wel nodig om precies duidelijk te definiëren wat een belangrijk onderwerp is dat alle inwoners in Bronckhorst raakt."
+        },
+        "111233": {
+          "position": "agree",
+          "explanation": "Als gemeente moeten we alles uit de kast halen om de energietransitie zo snel als mogelijk vorm te geven. Dat is goed voor de portemonnaie van onze inwoners. Gas zal steeds duurder worden. Elektriciteit heeft de toekomst. Energie van, voor en door Bronckhorst zorgt dat de baten ook hier landen."
+        },
+        "111234": {
+          "position": "disagree",
+          "explanation": "In Bronckhorst staan nog geen echte distributiecentra. D66 Bronckhorst kan zich voorstellen dat dit kleinschalig in de toekomst wel nodig is. Goederen zullen in de toekomst niet enkel gekocht worden in stenen gebouwen, maar ook vanuit kleinschalige distributiecentra thuis worden bezorgd."
+        },
+        "111235": {
+          "position": "disagree",
+          "explanation": "Er komt geen AZC in Bronckhorst. Daarom is deze stelling niet aan de orde. Wel komt er opvang voor Alleenstaande Minderjarige Vluchtelingen. Dat zijn geen AZC's. Achterhoekbreed neemt iedere gemeente in een regiodeal een deel op van de in de Spreidingswet gestelde doelstellingen."
+        },
+        "111236": {
+          "position": "disagree",
+          "explanation": "Land en tuinbouwbedrijven moeten wel zorgen voor goed geëquipeerde huisvesting van seizoenarbeiders; de zogenoemde arbeidsmigranten. Dit hoeft niet per se op het eigen terrein zijn. Het is gezond om ook tijdens de rust afstand te kunnen nemen van je werk."
+        },
+        "111238": {
+          "position": "agree",
+          "explanation": "Het gebruik van openhaarden en houtkachels hoort bij ons DNA in de Achterhoek. Wel zullen we beter moeten kijken of inwoners zich houden aan code 'rood' voor houtstook. Bij die code kan de vrijgekomen fijnstof niet weg. En daar kunnen andere mensen (bijvoorbeeld met astma) fiks last van hebben."
+        },
+        "111244": {
+          "position": "agree",
+          "explanation": "Wij staan voor een gemeente waarin iedereen de kans krijgt om mee te doen. Mensen die aan het eind van hun portemonnaie nog een stukje maand overhouden, moeten hulp krijgen om zelf en hun kinderen deel uit te kunnen laten maken van (sport)verenigingen. Dat kan ook een muziekvereniging zijn."
+        },
+        "111245": {
+          "position": "agree",
+          "explanation": "Een vitale lokale democratie staat en valt bij een onafhankelijke lokale/streekgebonden omroep. Hun journalisten zijn de 'Luis in de Pels' van de politiek en gemeentebeleid. Dat willen wij koesteren nu de lokale commerciële media ernstig is verschraald. Daarnaast zijn ze ook cultuurdrager."
+        },
+        "111248": {
+          "position": "neither",
+          "explanation": "Niet automatisch bijspringen, zegt D66 Bronckhorst. Eerst een grondige analyse maken waarom er een tekort ontstaat. De tijd is voorbij dat iedere vereniging zijn hand op kan houden voor een paar extra centen. Daarvoor is simpelweg de lokale begroting niet langer hoog genoeg voor.."
+        },
+        "111249": {
+          "position": "neither",
+          "explanation": "We moeten onze monumenten koesteren. Bronckhorst kent heel erg veel monumenten omdat wij qua grondoppervlak zo'n grote gemeente zijn. Wij krijgen geen Rijksbijdrage die daarop is gebaseerd. Die is gebaseerd op 36.000 inwoners. Dus we ontkomen niet aan keuzes maken."
+        },
+        "111252": {
+          "position": "agree",
+          "explanation": "Cameratoezicht is een doeltreffend middel om het gevoel van veiligheid te verhogen. Onze politie en BOA's kunnen niet overal tegelijkertijd aanwezig zijn. Wel moeten er duidelijk afspraken worden gemaakt over hoe lang beelden bewaard mogen worden en voor welk doel."
+        },
+        "111253": {
+          "position": "neither",
+          "explanation": "We moeten eerst inventariseren of daaraan zodanig veel behoefte is dat Bronckhorst een eigen 'blijf-van-mijn-huis' nodig heeft. Of dat we dit Achterhoekbreed verder vorm geven. Dat er een veilig onderkomen moet zijn voor een ieder die zich bedreigd voelt is voor D66 Bronckhorst geen vraag. Dat moet."
+        },
+        "111259": {
+          "position": "disagree",
+          "explanation": "Wij gunnen iedereen die een bijstandsuitkering krijgt een vrijwillige maatschappelijke rol. Dat geeft levensvreugd. Maar de realiteit is dat dit niet iedereen is gegeven. Inwoners zijn niet zo maar in de bijstandsuitkering terecht gekomen. Vaak is er dan wel iets aan de hand. Het verdient maatwerk."
+        },
+        "111260": {
+          "position": "disagree",
+          "explanation": "Gemeentelijke belastingen moet wél worden kwijtgescholden voor inwoners met een zeer laag inkomen. Als je dat niet wilt opbrengen als samenleving veroorzaak je nog meer ellende. Mensen komen in financiële problemen. De laatste jaren hebben wij gezien waartoe dat kan leiden. Naoberkracht is dan nodig"
+        },
+        "111263": {
+          "position": "agree",
+          "explanation": "Het aantal electrische auto's zal komende jaren in rap tempo toenemen. Een auto is in de Achterhoek onontbeerlijk. Een goede infrastructuur met o.a. voldoende oplaadplekken is een must voor een moderne gemeente die wij willen zijn."
+        },
+        "111264": {
+          "position": "neither",
+          "explanation": "Waar mogelijk naar 30 km/u. Maar niet overal. Waar gescheiden fietsrijbanen naast autowegen liggen is dit geen noodzakelijkheid vanuit verkeersveiligheid, zo vertellen ons experts. Het kan dan zelfs gevaarlijker worden. De N wegen van de provincie zien wij het liefst gehandhaafd op 60-80 km/u."
+        },
+        "111265": {
+          "position": "agree",
+          "explanation": "Ieder is vrij in het kiezen van de zorgverzekering die het best bij haar of hem past. De overheid mag daarin geen rol spelen. Tenzij deze collectieve goedkope zorgverzekeringen afsluiten voor specifieke groepen mensen die anders geen enkele zorgverlening zouden hebben."
+        },
+        "111267": {
+          "position": "agree",
+          "explanation": "De OZB is hier gemiddeld € 938. Dat is in NL €1001. Bronckhorst is een relatief zeer welvarende gemeente. Veel huishoudens zullen geen boterham minder eten bij OZB verhoging. Verhoging is nodig nu de Rijksmiddelen voor Bronckhorst zullen dalen en de ambitie is om voorzieningen in stand te houden."
+        },
+        "111269": {
+          "position": "disagree",
+          "explanation": "De toeristenbelasting moet omhoog. Veel horeca ondernemers zullen beamen dat verhoging daarvan hen geen enkele logé minder zal brengen. Bronckhorst heft t.o.v. andere trekpleisters een geringe toeristenbelasting. Terwijl toeristen wel gebruik maken van onze uitgebreide infrastructuur."
+        },
+        "111271": {
+          "position": "disagree",
+          "explanation": "Zonder koopzondagen geen 'reuring' in onze dorpscentra. Dus koopzondagen moeten blijven. Dat hoort bij een gemeente waarin de vrijetijdseconomie - lees toeristenbranches- een steeds belangrijkere economische rol innemen in Bronckhorst."
+        },
+        "111274": {
+          "position": "disagree",
+          "explanation": "Wij zullen naar grootschalige opwek van fossielvrije energie toemoeten. Niet enkel vanwege het milieu, maar ook om energie betaalbaar te houden. Dan heb je zonneparken en een beperkt aantal windmolens nodig. Energie van, voor en door Bronckhorst zorgt dat een deel van de winst. hier landt."
+        },
+        "111276": {
+          "position": "neither",
+          "explanation": "De gemeente gaat niet over de inhoud van het lesmateriaal dat wordt gebruikt in het onderwijs. Als scholen hier kiezen om aandacht te besteden aan het Achterhoeks is dat hun eigen keuze. Wij kunnen het slechts aanmoedigen."
+        },
+        "111277": {
+          "position": "neither",
+          "explanation": "Deze vraag is voor zover D66 Bronckhorst weet nu niet aan de orde. Er ligt geen aanvraag. Vandaar onze keuze voor ‘geen van beide’. Mocht in de toekomst er wel een verzoek komen, dan zal D66 Bronckhorst een dergelijke aanvraag met een positieve grondhouding tegemoet treden mits wordt voldaan aan de Wet BIBOB (of alles volstrekt legaal gebeurt). Uit onderzoek is gebleken dat alcoholgebruik gevaarlijker is voor de volksgezondheid dan het roken van een enkele joint."
+        },
+        "111282": {
+          "position": "agree",
+          "explanation": "Tijdelijke woningen kunnen komende jaren verlichting brengen op onze woningmarkt. Hierdoor kunnen vooral starters sneller een betaalbare woning vinden. Tegenwoordig zijn tijdelijke woningen prachtwoningen geworden waar je straks niet meer weg wilt ; -)."
+        },
+        "111284": {
+          "position": "agree",
+          "explanation": "De gemeenteraad heeft op 18 december 2024 hierover met grote meerderheid een besluit genomen. Er komen een beperkt aantal windmolens nabij Eldrik. Dat besluit wil D66 Bronckhorst niet meer terugdraaien. Dat zou onbehoorlijk bestuur zijn. Intussen hebben de eerste initiatiefnemers zich al gemeld."
+        },
+        "111285": {
+          "position": "neither",
+          "explanation": "Er is in Steenderen nu sprake van een plan met een mestvergister die deel uitmaakt van de energierotonde Steenderen. De uitkomsten naar dit plan wachten wij eerst af. D66 Bronckhorst is geen voorstander van dat iedere boer een mestvergister gaat bouwen. Dat past niet in de omgevingsvisie."
+        }
+      }
+    },
+    {
+      "id": 111213,
+      "name": "ChristenUnie-SGP",
+      "fullName": "ChristenUnie-SGP",
+      "website": "https://bronckhorst.christenunie.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "111229": {
+          "position": "disagree",
+          "explanation": "Alleen bij herindelingen en dergelijke is een referendum een bruikbaar instrument"
+        },
+        "111233": {
+          "position": "disagree",
+          "explanation": "Wel moet de gemeente dit soort initiatieven zoveel mogelijk helpen"
+        },
+        "111234": {
+          "position": "agree",
+          "explanation": "Grote bedrijven moeten op bedrijventerrein zoals A18"
+        },
+        "111235": {
+          "position": "disagree",
+          "explanation": "Er zijn al AMV locaties in onze gemeente. Daarmee voldoen wij aan de spreidingswet."
+        },
+        "111236": {
+          "position": "agree",
+          "explanation": "Werkgevers horen verantwoordelijkheid te nemen voor hun werknemers."
+        },
+        "111238": {
+          "position": "agree",
+          "explanation": "Voorlichting geven en richtlijnen zijn wel nuttig"
+        },
+        "111244": {
+          "position": "agree",
+          "explanation": "Hier is maatwerk erg belangrijk. Kijk wat het beste is voor iemand."
+        },
+        "111245": {
+          "position": "disagree",
+          "explanation": "Gezien financiele toestand lijkt het ons niet verstandig om dit te doen. Ook zou hiermee de onafhankelijkheid in het geding kunnen komen."
+        },
+        "111248": {
+          "position": "disagree",
+          "explanation": "Hier wordt creativiteit en ondernemerschap van de verenigingen verwacht."
+        },
+        "111249": {
+          "position": "disagree",
+          "explanation": "Monumenten zijn onze trots! Eerst ergens anders geld zien te vinden."
+        },
+        "111252": {
+          "position": "agree",
+          "explanation": "Met name bij milieuparkjes zou dit fijn zijn!"
+        },
+        "111253": {
+          "position": "agree",
+          "explanation": "Maar het mag ook ergens anders in de Regio Achterhoek"
+        },
+        "111259": {
+          "position": "agree",
+          "explanation": "Hier is maatwerk erg belangrijk. Kijk wat het beste is voor iemand."
+        },
+        "111260": {
+          "position": "agree",
+          "explanation": "Hier is maatwerk erg belangrijk. Voor sommige mensen zou kwijtschelding een oplossing zijn, maar om iedereen kwijtschelding te beloven vinden wij niet verstandig."
+        },
+        "111263": {
+          "position": "agree",
+          "explanation": "Het is logisch gezien de toename van het aantal electrische auto's"
+        },
+        "111264": {
+          "position": "agree",
+          "explanation": "Is verkeertechnisch veiliger en de grote kernen hebben al een rondweg!"
+        },
+        "111265": {
+          "position": "agree",
+          "explanation": "Juist in de zorg is dit een belangrijk aspect!"
+        },
+        "111267": {
+          "position": "disagree",
+          "explanation": "De woonlasten mogen alleen met de inflatie stijgen"
+        },
+        "111269": {
+          "position": "disagree",
+          "explanation": "Als de opbrengsten besteed worden in de toeristische sector is dat ok!"
+        },
+        "111271": {
+          "position": "agree",
+          "explanation": "Wij zien de zondag als rustdag en gunnen iedereen haar of zijn rust."
+        },
+        "111274": {
+          "position": "agree",
+          "explanation": "Wij moeten zuinig zijn op landbouwgrond. Er zijn daken en parkeerplaatsen genoeg waar dit nog wel kan."
+        },
+        "111276": {
+          "position": "agree",
+          "explanation": "D'ran, we zijn trots op onze Achterhoekse cultuur."
+        },
+        "111277": {
+          "position": "agree",
+          "explanation": "Geeft vooral overlast. En we ook de gezondheid van onze inwoners bevorderen."
+        },
+        "111282": {
+          "position": "agree",
+          "explanation": "Dit kan soms nodig/handig zijn. Denk bijvoorbeeld aan mantelzorgwoningen."
+        },
+        "111284": {
+          "position": "neither",
+          "explanation": "Alleen als aan alle voorwaarden, zoals geluidsnormen en participatie van de omgeving wordt voldaan , zijn wij er voor!"
+        },
+        "111285": {
+          "position": "agree",
+          "explanation": "Dit draagt bij aan de duurzaamheid!"
+        }
+      }
+    },
+    {
+      "id": 144723,
+      "name": "Belang van Nederland",
+      "fullName": "Belang van Nederland",
+      "website": "https://bvnl.nl/",
+      "hasSeats": false,
+      "participates": true,
+      "positions": {
+        "111229": {
+          "position": "agree",
+          "explanation": "Op deze manier wordt er beleid gevoerd op deze punten waar de meerderheid van de inwoners achter staan"
+        },
+        "111233": {
+          "position": "disagree",
+          "explanation": "Dit is een kerntaak van de gemeente. Overigens is het beter dat de huidige energiebronnen zoals gas blijven bestaan. Deze verdienen prioriteit."
+        },
+        "111234": {
+          "position": "disagree",
+          "explanation": "Distributiecentra zijn van economisch belang."
+        },
+        "111235": {
+          "position": "disagree",
+          "explanation": "AZC's moeten verbannen blijven uit Bronckhorst. Gemeente is hier niet voor geschikt. AZC speelt onrust en agressie in de kaart en destabiliseert de gemeente en het woongenot."
+        },
+        "111236": {
+          "position": "agree",
+          "explanation": "Zeker. De andere huisvesting is namelijk bestemd voor de inwoners van de gemeente."
+        },
+        "111238": {
+          "position": "disagree",
+          "explanation": "Geven veel gezondheidsoverlast en luchtvervuiling."
+        },
+        "111244": {
+          "position": "disagree",
+          "explanation": "De bijstandsuitkering is voldoende om dit te financieren."
+        },
+        "111245": {
+          "position": "disagree",
+          "explanation": "Lokale omroepen verspreiden alleen maar links nieuws, dus geen extra geld"
+        },
+        "111248": {
+          "position": "agree",
+          "explanation": "Sport is de basis van fysieke en mentale gezondheid"
+        },
+        "111249": {
+          "position": "agree",
+          "explanation": "Kosten zijn te hoog en geld kan beter aan andere zaken besteed worden."
+        },
+        "111252": {
+          "position": "disagree",
+          "explanation": "Camera's gaan in tegen de privacy. Politie en boa's dienen dit werk over te nemen en keihard te straffen"
+        },
+        "111253": {
+          "position": "disagree",
+          "explanation": "Deze huizen zijn genoeg beschikbaar in andere steden."
+        },
+        "111259": {
+          "position": "agree",
+          "explanation": "Verplicht vrijwilligerswerk laten doen. Zo niet, korten op de uitkering of uiteindelijk stop zetten."
+        },
+        "111260": {
+          "position": "agree",
+          "explanation": "Iedereen dient belasting te betalen, dus ook lage inkomens."
+        },
+        "111263": {
+          "position": "disagree",
+          "explanation": "Deze zijn reeds voldoende aanwezig. Trend gaat weer terug naar benzine en dieselauto's."
+        },
+        "111264": {
+          "position": "disagree",
+          "explanation": "De maximale snelheid moet gehanteerd worden op 50 km/u."
+        },
+        "111265": {
+          "position": "disagree",
+          "explanation": "Zorg dient hiervan onafhankelijk te zijn."
+        },
+        "111267": {
+          "position": "disagree",
+          "explanation": "De OZB moet omlaag en op den duur afgeschaft worden"
+        },
+        "111269": {
+          "position": "agree",
+          "explanation": "Deze vorm van belasting dient omlaag en te verdwijnen op den duur"
+        },
+        "111271": {
+          "position": "disagree",
+          "explanation": "Ook op zondag mogen de mensen gewoon winkelen als ze daaraan behoefte hebben."
+        },
+        "111274": {
+          "position": "agree",
+          "explanation": "Landbouwgrond dient als zodanig worden gebruikt en niet voor andere doeleinden"
+        },
+        "111276": {
+          "position": "agree",
+          "explanation": "Tradities moeten in leven worden gehouden waardoor identiteit versterkt wordt"
+        },
+        "111277": {
+          "position": "agree",
+          "explanation": "Coffeeshop moeten verboden worden. Geeft overlast en brengt schade toe aan de gezondheid."
+        },
+        "111282": {
+          "position": "disagree",
+          "explanation": "Tijdelijke woningen kosten te veel en zijn onnodig."
+        },
+        "111284": {
+          "position": "disagree",
+          "explanation": "Windmolens zijn landschapsvervuiling en slecht voor de gezondheid"
+        },
+        "111285": {
+          "position": "agree",
+          "explanation": "Prima manier als extra economische activiteit voor boeren"
+        }
+      }
+    },
+    {
+      "id": 111211,
+      "name": "Lokaal Bronckhorst",
+      "fullName": "Lokaal Bronckhorst",
+      "website": "https://lokaal-bronckhorst.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "111229": {
+          "position": "disagree",
+          "explanation": "Wij willen participatiebeleid ontwikkelen zodat inwoners in alle domeinen kunnen participeren. Een simpel ja/nee of voor/tegen lijkt ons niet wenselijk. Vraagstukken zijn daar vaak te complex voor."
+        },
+        "111233": {
+          "position": "agree",
+          "explanation": "Projecten initiatieven die door inwoners zelf worden opgezet verdienen ondersteuning van de gemeente."
+        },
+        "111234": {
+          "position": "agree",
+          "explanation": "Het past hier niet om grote blokkendozen te bouwen, daarvoor is een locatie langs de snelwegen veel beter."
+        },
+        "111235": {
+          "position": "neither",
+          "explanation": "We moeten voldoen aan de spreidingswet. Met de aangewezen locaties voldoen we daaraan, dus geen nieuwe opvanglocatie er bij."
+        },
+        "111236": {
+          "position": "agree",
+          "explanation": "Als ze seizoensarbeiders uit het buitenland halebn om hier seizoensarbeid te verrichten moeten ze als goede gastheer ook zorgen voor huisvesting."
+        },
+        "111238": {
+          "position": "agree",
+          "explanation": "In veel gevallen wordt een haard of houtkachel gebruikt om het huis (bij) te verwarmen. In bepaalde weersituaties zoals in bij dichte mist wordt het afgeraden, maar een verbod gaat veel te ver."
+        },
+        "111244": {
+          "position": "agree",
+          "explanation": "Sporten is goed voor de gezondheid en daarmee belangrijk voor preventie. Lidmaatschap van een vereniging zorgt ervoor dat inwoners deel uit kunnen maken van de samenleving."
+        },
+        "111245": {
+          "position": "agree",
+          "explanation": "Een lokale omroep draagt bij een goede democratie."
+        },
+        "111248": {
+          "position": "agree",
+          "explanation": "Sport is essentieel, we moeten zorgen dat verenigingen in staat zijn om te overleven. Dat kan soms betekenen dat we extra bij moeten dragen."
+        },
+        "111249": {
+          "position": "disagree",
+          "explanation": "We hebben veel monumenten. Daarmee trekken we veel toeristen. Onderhoud wordt steeds duurder, bezuinigen betekent dan mogelijk verwaarlozing."
+        },
+        "111252": {
+          "position": "disagree",
+          "explanation": "Cameratoezicht moet je alleen toepassen als daar noodzaak voor is zoals bijvoorbeeld in drukke uitgaansgelegenheden. Die hebben we niet, dus is extra cameratoezicht niet nodig."
+        },
+        "111253": {
+          "position": "disagree",
+          "explanation": "We willen hier een goede samenwerking met omliggende gemeenten. Het hoeft niet in Bronckhorst te zijn."
+        },
+        "111259": {
+          "position": "agree",
+          "explanation": "Als het mogelijk is moet iedereen maatschappelijk zinvol werk doen. Er kan een goede reden zijn dat het niet mogelijk is door bijvoorbeeld een handicap of ziekte, dan moeten we dat niet van ze vragen."
+        },
+        "111260": {
+          "position": "disagree",
+          "explanation": "Het maakt deel uit van ons armoedebeleid, kwijtschelding kan bijdragen aan een menswaardig bestaan."
+        },
+        "111263": {
+          "position": "agree",
+          "explanation": "Er zijn nog relatief weinig plekken waar je een elektrische auto kunt opladen. Daar moeten we nog een inhaalslag maken."
+        },
+        "111264": {
+          "position": "disagree",
+          "explanation": "Grote doorgaande wegen moeten gewoon 50 km/uur blijven als de situatie dat toelaat. In de woonwijken en hele drukke straten in de centra staat veiligheid voorop en is 30 km/uur de norm om dat te verbeteren."
+        },
+        "111265": {
+          "position": "disagree",
+          "explanation": "Kwaliteit van zorg staat voorop. Aanvullende eisen wat betreft geloof en achtergrond kan ervoor zorgen dat dat niet meer gewaarborgd is."
+        },
+        "111267": {
+          "position": "disagree",
+          "explanation": "Bronckhorst heeft relatief hoge woonlasten, dat willen we niet extra verhogen. We willen de lasten voor inwoners zo veel mogelijk gelijk houden. Als de OZB omhoog moet dan zullen andere heffingen verlaagd moeten worden, zoals bijv. Afvalstoffenheffing."
+        },
+        "111269": {
+          "position": "disagree",
+          "explanation": "De toeristenbelasting is nu erg laag en wordt helemaal besteed aan toerisme. Toeristen geven hier geld uit wat de lokale economie stimuleert, daar mag best meer toeristenbelasting voor geheven worden."
+        },
+        "111271": {
+          "position": "agree",
+          "explanation": "Het is nu al toegestaan, dat willen we ook zo houden. Ondernemers moeten zelf kunnen beslissen of ze op zondag open zijn."
+        },
+        "111274": {
+          "position": "disagree",
+          "explanation": "Op voorhand verbieden is niet realistisch. Als er landbouwgrond is niet rendabel is of niet meer gebruikt wordt doordat boeren stoppen moeten we daar zonnepanelen op kunnen plaatsen."
+        },
+        "111276": {
+          "position": "disagree",
+          "explanation": "We gaan niet over de inhoud van het onderwijs. We willen wel het Achterhoeks stimuleren."
+        },
+        "111277": {
+          "position": "agree",
+          "explanation": "Het gebruik van drugs moet je niet stimuleren."
+        },
+        "111282": {
+          "position": "agree",
+          "explanation": "Om het woningtekort op te lossen denken we graag out-of-the-box. Daarbij horen ook tijdelijke en flexibele woonvormen. Iedereen moet een passende woning kunnen vinden."
+        },
+        "111284": {
+          "position": "disagree",
+          "explanation": "Alleen als aan alle voorwaarden is voldaan zoals de minimale afstand tot de woonhuizen, dat is nu nog niet duidelijk."
+        },
+        "111285": {
+          "position": "agree",
+          "explanation": "Dit is een goede manier onze boeren te helpen om het mestprobleem op te lossen."
+        }
+      }
+    }
+  ],
+  "statements": [
+    {
+      "id": 111282,
+      "index": 1,
+      "theme": "Flexible housing",
+      "themeId": "flexwoningen",
+      "title": "Bronckhorst should allow the construction of temporary housing.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111235,
+      "index": 2,
+      "theme": "Asylum seekers' center",
+      "themeId": "asielzoekerscentrum",
+      "title": "An asylum seekers' center (AZC) should be established in our municipality.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111229,
+      "index": 3,
+      "theme": "Referendum",
+      "themeId": "referendum",
+      "title": "Residents of Bronckhorst should be able to give their opinion on important issues via a referendum.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111238,
+      "index": 4,
+      "theme": "Wood burning",
+      "themeId": "houtstook",
+      "title": "The use of open fireplaces and wood-burning stoves should remain permitted in Bronckhorst.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111236,
+      "index": 5,
+      "theme": "Housing for foreign workers",
+      "themeId": "huisvesting-buitenlandse-werknemers",
+      "title": "Employers in agriculture and horticulture should provide housing for seasonal workers on their own premises.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111234,
+      "index": 6,
+      "theme": "Distribution centers",
+      "themeId": "distributiecentra",
+      "title": "The municipality must oppose the establishment of new distribution centers.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111249,
+      "index": 7,
+      "theme": "Monuments",
+      "themeId": "monumenten",
+      "title": "The municipality should cut spending on heritage conservation.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111244,
+      "index": 8,
+      "theme": "Sports membership fees",
+      "themeId": "contributie-sport",
+      "title": "The municipality should pay the membership fees for a sports club for people receiving social assistance.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111265,
+      "index": 9,
+      "theme": "Choice of healthcare",
+      "themeId": "zorgkeuze",
+      "title": "People who need care should always be able to choose a caregiver who matches their religion, culture, or beliefs.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111252,
+      "index": 10,
+      "theme": "Camera surveillance",
+      "themeId": "cameratoezicht",
+      "title": "Bronckhorst should have more camera surveillance.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111245,
+      "index": 11,
+      "theme": "Local media",
+      "themeId": "lokale-media",
+      "title": "The municipality should support the local broadcaster with additional funding.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111276,
+      "index": 12,
+      "theme": "Regional language",
+      "themeId": "streektaal",
+      "title": "The municipality should make it possible for all primary schools to give attention to the Achterhoeks dialect.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111259,
+      "index": 13,
+      "theme": "Work requirement for welfare recipients",
+      "themeId": "tegenprestatie-voor-uitkering",
+      "title": "People receiving social assistance should, in return, do socially useful work.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111248,
+      "index": 14,
+      "theme": "Sports clubs",
+      "themeId": "sportverenigingen",
+      "title": "If sports clubs are struggling, the municipality should contribute financially.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111260,
+      "index": 15,
+      "theme": "Stop debt forgiveness",
+      "themeId": "kwijtschelding-stoppen",
+      "title": "The municipality should stop forgiving municipal taxes for low-income residents.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111253,
+      "index": 16,
+      "theme": "Violence against women",
+      "themeId": "geweld-tegen-vrouwen",
+      "title": "Bronckhorst should have a women's shelter.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111269,
+      "index": 17,
+      "theme": "Tourist tax",
+      "themeId": "toeristenbelasting",
+      "title": "The tourist tax should be lowered.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111263,
+      "index": 18,
+      "theme": "Electric vehicle charging stations",
+      "themeId": "elektrische-laadpalen",
+      "title": "The municipality should designate more parking spaces as charging points for electric cars.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111233,
+      "index": 19,
+      "theme": "Sustainable energy",
+      "themeId": "duurzame-energie",
+      "title": "Residents who want to generate sustainable energy together should receive financial support from the municipality.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111271,
+      "index": 20,
+      "theme": "Sunday shopping",
+      "themeId": "koopzondagen",
+      "title": "The municipality must not allow Sunday shopping.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111264,
+      "index": 21,
+      "theme": "Car speeds",
+      "themeId": "snelheid-auto-s",
+      "title": "The maximum speed limit in built-up areas should be set to 30 km/h.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111277,
+      "index": 22,
+      "theme": "Coffeeshop (cannabis shop)",
+      "themeId": "coffeeshop",
+      "title": "The municipality must prevent the opening of a coffeeshop.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111267,
+      "index": 23,
+      "theme": "Tax on buildings",
+      "themeId": "belasting-op-gebouwen",
+      "title": "The property tax (ozb) should be increased.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111285,
+      "index": 24,
+      "theme": "Manure digester",
+      "themeId": "mestvergister",
+      "title": "The municipality should allow farmers to build manure digesters so they can extract gas from their animals' manure.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111274,
+      "index": 25,
+      "theme": "Solar panels on farmland",
+      "themeId": "zonnepanelen-op-landbouwgrond",
+      "title": "The municipality should ban solar panels on agricultural land.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111284,
+      "index": 26,
+      "theme": "Wind turbines",
+      "themeId": "windmolens",
+      "title": "Bronckhorst should allow large wind turbines.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    }
+  ]
+}

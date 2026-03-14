@@ -1,0 +1,834 @@
+{
+  "id": "GM0888",
+  "name": "Beek (L.)",
+  "slug": "beek-l",
+  "parties": [
+    {
+      "id": 109790,
+      "name": "CDA",
+      "fullName": "Christen-Democratisch Appèl",
+      "website": "https://www.cda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "109797": {
+          "position": "neither",
+          "explanation": "We willen diversiteit in het bestuur, maar kwaliteit staat voorop. Een verplichte 50/50-verdeling (evenveel mannen als vrouwen) hoeft niet. We zoeken de beste mensen en streven naar een goede mix van mannen en vrouwen in het college."
+        },
+        "109798": {
+          "position": "disagree",
+          "explanation": "Wij luisteren graag naar inwoners, maar liever via dialoog en direct contact dan via referenda. We gaan in gesprek met de bevolking vóór beslissingen."
+        },
+        "109801": {
+          "position": "disagree",
+          "explanation": "We steunen ondernemende boeren, maar “altijd toestaan” gaat te ver. Een boerderijwinkel of mini-camping kan vaak wel, maar het moet passen bij de omgeving. We beoordelen per situatie wat mogelijk is, in goed overleg met de omgeving."
+        },
+        "109802": {
+          "position": "disagree",
+          "explanation": "We zijn voor duurzame energie, maar de gemeente hoeft hier geen extra geld aan te geven. Inwoners die samen energie opwekken, kunnen gebruikmaken van bestaande subsidies. Zo houden we de lasten voor iedereen betaalbaar."
+        },
+        "109803": {
+          "position": "agree",
+          "explanation": "Wij willen geen wildgroei van grote distributiecentra in Beek. We kiezen voor behoud van leefbaarheid en ondersteunen liever lokale ondernemers."
+        },
+        "109805": {
+          "position": "agree",
+          "explanation": "Seizoenarbeiders verdienen fatsoenlijke huisvesting. Werkgevers in land- en tuinbouw moeten die verantwoordelijkheid nemen en verblijf op het eigen terrein regelen. Zo voorkomen we overlast en houden we de woningmarkt voor inwoners beschikbaar."
+        },
+        "109809": {
+          "position": "disagree",
+          "explanation": "Indien zou blijken dat hier veel belangstelling voor is zullen we dit faciliteren. We moeten niet de illusie hebben dat dit de koop en het afsteken van illegaal vuurwerk voorkomt."
+        },
+        "109810": {
+          "position": "disagree",
+          "explanation": "Gratis grofvuil ophalen klinkt goed, maar de kosten komen dan bij alle inwoners terecht. We willen de lasten voor iedereen eerlijk houden. Het huidige brengsysteem (waarbij je bijdraagt voor je eigen grofvuil) vinden we redelijk om de kosten te dekken."
+        },
+        "109814": {
+          "position": "agree",
+          "explanation": "Een sterke lokale omroep verbindt de gemeenschap. Wij vinden het belangrijk dat onze lokale omroep kan blijven bestaan om onafhankelijk lokaal nieuws en informatie te verstrekken.. Mocht extra steun van de gemeente nodig zijn dan zullen we dat overwegen."
+        },
+        "109816": {
+          "position": "agree",
+          "explanation": "Muziek maken is waardevol voor de ontwikkeling. Elk kind moet de kans krijgen een instrument te leren. Wij willen dat de gemeente muzieklessen op de basisschool of via verenigingen subsidieert. Zo groeit onze jeugd op met cultuur en gemeenschapszin."
+        },
+        "109818": {
+          "position": "disagree",
+          "explanation": "Ons erfgoed is waardevol voor de gemeenschap. We willen niet bezuinigen op monumentenzorg. Tradities en historische plekken geven Beek karakter. We blijven daarin investeren, zodat ze behouden blijven voor volgende generaties. Sterker nog we willen kijken of we enkele monumenten kunnen opwaarderen."
+        },
+        "109819": {
+          "position": "agree",
+          "explanation": "Veiligheid staat voorop. Wij willen meer BOA’s op straat als ogen en oren van de wijk. Met extra handhavers kunnen we overlast beter aanpakken en ervoor zorgen dat inwoners zich veilig voelen in hun buurt."
+        },
+        "109820": {
+          "position": "agree",
+          "explanation": "Meer cameratoezicht kan helpen om overlast en criminaliteit te voorkomen. We steunen extra camera’s op plekken waar dat nodig is. Zo vergroten we het veiligheidsgevoel en helpen we politie en BOA’s bij het opsporen van overtreders."
+        },
+        "109826": {
+          "position": "agree",
+          "explanation": "Wie een bijstandsuitkering ontvangt, kan iets terugdoen voor de samenleving. Wij vinden een tegenprestatie eerlijk. Maatschappelijk nuttig werk houdt mensen actief en betrokken en geeft hen zelfvertrouwen, terwijl ze de gemeenschap helpen. Maatwerk blijft belangrijk."
+        },
+        "109828": {
+          "position": "disagree",
+          "explanation": "Hulp bij armoede moet naar wie het echt nodig heeft. De inkomensgrens verhogen doen we niet. Anders zouden ook mensen met een wat hoger inkomen hulp krijgen. We richten ons op het ondersteunen van de laagste inkomens (de minima)."
+        },
+        "109831": {
+          "position": "disagree",
+          "explanation": "We zijn voor verkeersveiligheid, maar niet elke straat hoeft standaard 30 km/u te worden. Hoofdwegen kunnen 50 km/u blijven met veilige oversteken en drempels waar nodig. Een algemene verlaging naar 30 in alle straten gaat ons te ver."
+        },
+        "109832": {
+          "position": "agree",
+          "explanation": "Mensen moeten zich prettig voelen bij hun zorg. Iedereen moet kunnen kiezen voor een zorgverlener die past bij zijn of haar geloof, cultuur of overtuiging. Keuzevrijheid in de zorg staat voorop en is altijd mogelijk via een persoonsgebonden budget."
+        },
+        "109838": {
+          "position": "disagree",
+          "explanation": "Sociale huurwoningen zijn schaars, dus we geven liever geen automatische voorrang aan statushouders. Eerst de eigen inwoners huisvesten. Vluchtelingen met status helpen we ook, maar niet ten koste van lange wachttijden voor Beekenaren. We zullen echter wel aan onze taakstelling moeten voldoen."
+        },
+        "109839": {
+          "position": "agree",
+          "explanation": "We willen dat afval netjes wordt afgevoerd. Gratis je afval naar de milieustraat brengen verlaagt de drempel en voorkomt dumpen in de natuur. Wij maken het inleveren van grofvuil en ander afval zoveel mogelijk gratis, zodat iedereen het goed kan wegbrengen."
+        },
+        "109840": {
+          "position": "disagree",
+          "explanation": "Duurzame energie is belangrijk, maar een totaalverbod op zonnepanelen op weilanden gaat te ver. In sommige gevallen kan een zonnepark op landbouwgrond, mits goed ingepast. We wegen natuur, landbouw en energiebehoefte zorgvuldig per plan af. Er zijn goede alternatieven. Denk aan zonnepalen in of op g"
+        },
+        "109845": {
+          "position": "agree",
+          "explanation": "Betaalbaar wonen is cruciaal. Wij willen dat minstens 30% van de nieuwe woningen in Beek sociale huur. Zo krijgen mensen met een lager inkomen meer kans op een huis. We bouwen voor alle groepen, niet alleen voor hoge inkomens."
+        },
+        "109848": {
+          "position": "agree",
+          "explanation": "Elke kern verdient een plek om samen te komen. Wij willen in alle dorpen een dorps- of buurthuis. Elkaar ontmoeten versterkt de gemeenschap. Zo brengen we mensen bijeen en houden we elke kern leefbaar en actief."
+        },
+        "109849": {
+          "position": "agree",
+          "explanation": "De parkeerdruk in het centrum is hoog. Wij willen meer parkeerplaatsen in hartje Beek. Zo blijft het centrum bereikbaar en aantrekkelijk voor winkeliers en bezoekers. Extra parkeerruimte betekent minder zoekverkeer en meer gemak voor iedereen."
+        },
+        "109853": {
+          "position": "disagree",
+          "explanation": "Verkeersdrempels zijn niet altijd de beste oplossing. Voor deze straten zien we liever andere maatregelen tegen hardrijden (zoals goede handhaving of slimme aanpassingen). Drempels kunnen overlast geven, dus we plaatsen ze alleen als het echt moet."
+        },
+        "109855": {
+          "position": "agree",
+          "explanation": "Ouderen hebben veel kennis en ervaring. Wij willen dan ook een seniorenadviesraad. Zo geven we ouderen een duidelijke stem in het beleid. We luisteren naar hun ideeën, zodat plannen beter aansluiten bij hun behoeften."
+        }
+      }
+    },
+    {
+      "id": 109787,
+      "name": "Beek Lokaal",
+      "fullName": "Beek Lokaal",
+      "website": "https://beeklokaal.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "109797": {
+          "position": "disagree",
+          "explanation": "Kwaliteit, ervaring en betrokkenheid bij Beek moeten leidend zijn, niet het geslacht. Een college moet een goede afspiegeling zijn op basis van competenties en vertrouwen, zodat inwoners de beste bestuurders krijgen."
+        },
+        "109798": {
+          "position": "disagree",
+          "explanation": "Beek Lokaal kiest voor directe betrokkenheid via participatie, inspraak en overleg. Referenda versimpelen complexe keuzes, terwijl maatwerk, dialoog en samen beslissen beter passen bij een betrokken en betrouwbare lokale overheid."
+        },
+        "109801": {
+          "position": "agree",
+          "explanation": "Nevenactiviteiten zoals een winkel of camping versterken het verdienmodel van boeren en houden het buitengebied vitaal. Mits passend in de omgeving en met oog voor natuur en leefbaarheid, moet de gemeente dit mogelijk maken."
+        },
+        "109802": {
+          "position": "agree",
+          "explanation": "Lokale energie-initiatieven van inwoners verdienen steun. Ze vergroten draagvlak voor verduurzaming, verlagen energielasten en versterken de gemeenschap. De gemeente moet dit faciliteren, mits haalbaar en betaalbaar."
+        },
+        "109803": {
+          "position": "disagree",
+          "explanation": "Op bijvoorbeeld Aviation Valley is ruimte voor zorgvuldig ingepaste, duurzame logistiek. Nieuwe distributiecentra kunnen werkgelegenheid opleveren voor Beekse inwoners, mits ze passen bij locatie, infrastructuur en leefbaarheid."
+        },
+        "109805": {
+          "position": "disagree",
+          "explanation": "Beek Lokaal wil agrarische ondernemers ondersteunen, niet extra verplichtingen opleggen. Huisvesting van seizoenarbeiders vraagt om samenwerking tussen sector, gemeente en regio, zodat het veilig, betaalbaar en goed geregeld is"
+        },
+        "109809": {
+          "position": "agree",
+          "explanation": "Een gemeentelijke vuurwerkshow zorgt voor een feestelijke en veilige jaarwisseling voor iedereen. Het beperkt overlast en risico’s, brengt mensen samen en past bij een verantwoord en gezamenlijk alternatief voor consumentenvuurwerk."
+        },
+        "109810": {
+          "position": "disagree",
+          "explanation": "Gratis grofvuilafhaling verhoogt kosten voor alle inwoners. Beek Lokaal kiest voor een toegankelijk milieupark en goede afvalscheiding, zodat het betaalbaar blijft en duurzaam gebeurt."
+        },
+        "109814": {
+          "position": "agree",
+          "explanation": "De gemeente ondersteunt de lokale omroep binnen haar wettelijke taak tot 2028. Extra middelen zijn alleen mogelijk bij aantoonbare meerwaarde, voldoende draagvlak en ruimte in de begroting. Beek Lokaal kiest voor realisme en samenwerking."
+        },
+        "109816": {
+          "position": "agree",
+          "explanation": "Muziekles bevordert cognitieve, sociale en creatieve ontwikkeling. Door gemeentelijke subsidie kan elk basisschoolkind deelnemen, ongeacht financiële situatie. Dit sluit aan bij Beek Lokaal’s visie op gelijke kansen en cultuurparticipatie."
+        },
+        "109818": {
+          "position": "disagree",
+          "explanation": "Monumenten zijn deel van onze identiteit. Beek Lokaal wil erfgoed beschermen en cultuurbeleid uitvoeren. Bezuinigen op monumentenzorg tast historie en leefbaarheid aan. We kiezen voor behoud, niet voor afbraak."
+        },
+        "109819": {
+          "position": "agree",
+          "explanation": "Veiligheid is een basisbehoefte. Beek Lokaal wil dat inwoners zich veilig voelen en kiest voor voldoende toezicht. Meer BOA’s helpt bij handhaving en preventie, zodat onze kernen schoon, leefbaar en veilig blijven."
+        },
+        "109820": {
+          "position": "agree",
+          "explanation": "Afvaldumpingen in het buitengebied moeten hard worden aangepakt. Ze schaden natuur, veiligheid en leefbaarheid. Gerichte handhaving, cameratoezicht op hotspots en samenwerking met inwoners helpen om dit effectief tegen te gaan."
+        },
+        "109826": {
+          "position": "disagree",
+          "explanation": "Meedoen is belangrijk, maar verplicht maatschappelijk werk werkt niet voor iedereen. Beek Lokaal kiest voor maatwerk, begeleiding en activering waar dat kan, met oog voor persoonlijke omstandigheden en talenten."
+        },
+        "109828": {
+          "position": "agree",
+          "explanation": "De inkomensgrens verhogen helpt ook werkende armen en gezinnen net boven de norm. Zo voorkomen we dat mensen tussen wal en schip vallen en zorgen we dat meer inwoners tijdig ondersteuning krijgen."
+        },
+        "109831": {
+          "position": "disagree",
+          "explanation": "Beek Lokaal wil verkeersveiligheid verbeteren, maar niet overal 30 km/u. Invoering van 30 km-zones waar dit de veiligheid verhoogt, zoals bij schoolroutes en gevaarlijke punten. Een algemene verlaging voor de hele bebouwde kom is niet ons uitgangspunt."
+        },
+        "109832": {
+          "position": "agree",
+          "explanation": "Keuzevrijheid in zorg is in Nederland een wettelijk recht volgens de Zorgverzekeringswet en Wlz. Beek Lokaal wil inclusieve zorg en ondersteuning op maat. Vrije keuze voor een zorgverlener die past bij geloof, cultuur of levensovertuiging versterkt vertrouwen en kwaliteit van zorg."
+        },
+        "109838": {
+          "position": "disagree",
+          "explanation": "Statushouders hebben recht op huisvesting, maar voorrang kan als oneerlijk worden ervaren door andere woningzoekenden. Een evenwichtige aanpak is nodig: voldoen aan wettelijke verplichtingen én zorgen voor gelijke kansen via tijdelijke oplossingen en doorstroming."
+        },
+        "109839": {
+          "position": "disagree",
+          "explanation": "Gratis inleveren voorkomt dumping en stimuleert recycling, maar brengt kosten voor de gemeente. Veel afvalstromen zijn al gratis. Een evenwichtige aanpak: gratis voor herbruikbaar afval en op actiedagen, lage tarieven voor restafval."
+        },
+        "109840": {
+          "position": "disagree",
+          "explanation": "Zonnepanelen op landbouwgrond kunnen bijdragen aan de energietransitie en extra inkomsten voor agrariërs. De gemeente moet maatwerk toepassen: zorgvuldig ingepast, met oog voor landschap, natuur en voedselproductie."
+        },
+        "109845": {
+          "position": "agree",
+          "explanation": "De 30-30-40 verdeling zorgt voor balans: sociale huur, betaalbare koop en vrije sector. Zo is er ruimte voor starters, gezinnen en senioren en blijft bouwen aansluiten bij de behoefte in Beek, per kern en met maatwerk."
+        },
+        "109848": {
+          "position": "disagree",
+          "explanation": "Beek Lokaal wil ontmoetingsplekken en basisvoorzieningen in alle kernen behouden, maar legt geen verplichting op om in elke kern een volwaardig dorpscentrum te realiseren. Onze nadruk ligt op het behouden van leefbaarheid en het versterken van sociale verbindingen"
+        },
+        "109849": {
+          "position": "agree",
+          "explanation": "Beek Lokaal wil voldoende gratis parkeergelegenheid behouden om bereikbaarheid voor inwoners én ondernemers te waarborgen. Bij de reconstructie van de Markt ligt de nadruk op vergroening en verblijfskwaliteit, maar behoud van parkeerruimte blijft een speerpunt."
+        },
+        "109853": {
+          "position": "agree",
+          "explanation": "Beek Lokaal wil verkeersveiligheid verbeteren en wil dat gevaarlijke punten in alle kernen worden aangepakt, inclusief deze straten. Maatregelen zoals 30 km-zones en fysieke ingrepen (zoals verkeersdrempels) kunnen deze veiligheid vergroten."
+        },
+        "109855": {
+          "position": "agree",
+          "explanation": "Een ouderenadviesraad kan samenwerken met de jongerenadviesraad (Veer zeen jongk!) en de Adviesraad Sociaal Domein. Door kennis en ervaringen te bundelen, ontstaat een breed gedragen beleid waarin alle generaties meedenken over inclusie, zorg en participatie."
+        }
+      }
+    },
+    {
+      "id": 109788,
+      "name": "Progressief Beek",
+      "fullName": "Progressief Beek",
+      "website": "https://www.progressiefbeek.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "109797": {
+          "position": "agree",
+          "explanation": "Voor zover mogelijk streven wij een goede balans van mannen en vrouwen na in het college."
+        },
+        "109798": {
+          "position": "agree",
+          "explanation": "Democratie begint met vertrouwen in mensen. Wij willen mensen meer invloed geven op de beslissingen die hen aangaan. Niet iedere vier jaar met verkiezingen, maar continu. Een referendum past daarbij."
+        },
+        "109801": {
+          "position": "agree",
+          "explanation": "Als deze activiteiten een ondergeschikte functie hebben en naast de hoofdactiviteit worden uitgevoerd, dan moet dat kunnen."
+        },
+        "109802": {
+          "position": "agree",
+          "explanation": "We ondersteunen initiatieven met betrekking tot het opwekken en besparen van energie die vanuit straten, wijken en coöperaties komen. Als dat nodig is een financiële bijdrage in de vorm van een lening vanuit de gemeente mogelijk."
+        },
+        "109803": {
+          "position": "disagree",
+          "explanation": "Zolang dit op een bedrijventerrein en binnen de bestemming past, mogen nieuwe distributiecentra zich vestigen."
+        },
+        "109805": {
+          "position": "disagree",
+          "explanation": "Werkgevers in de land- en tuinbouw moeten zorg dragen voor goede huisvesting van seizoenarbeiders. Dat hoeft niet op hun eigen bedrijfsterrein te zijn."
+        },
+        "109809": {
+          "position": "neither",
+          "explanation": "Met het instellen van een landelijk vuurwerkverbod mogen particulieren geen vuurwerk meer afsteken. Wij zien een rol voor verenigingen om, met steun van de gemeente, hier iets moois van maken. De rol van de gemeente is faciliteren en subsidiëren waar nodig."
+        },
+        "109810": {
+          "position": "disagree",
+          "explanation": "Als grofvuil gratis aan huis wordt afgehaald gaan de lokale lasten omhoog. De meeste mensen zijn in staat om hun grofvuil zelf naar een milieupark te brengen. Het sociale netwerk kan daarnaast een hand bieden voor de mensen die hier niet tot in staat zijn."
+        },
+        "109814": {
+          "position": "disagree",
+          "explanation": "De lokale omroep is belangrijk om lokaal nieuws te delen met inwoners. Gemeenten zijn wettelijk verplicht om hun lokale omroep te financieren. Met dit geld zorgt de omroep voor een lokaal toereikend media-aanbod."
+        },
+        "109816": {
+          "position": "agree",
+          "explanation": "Kunst en cultuur maken het leven rijker. Ook in de gemeente hebben we hier aandacht voor. Elk basisschoolkind moet de mogelijkheid krijgen om zichzelf op cultureel gebied te kunnen ontwikkelen."
+        },
+        "109818": {
+          "position": "disagree",
+          "explanation": "Monumenten maken deel uit van het culturele erfgoed van de gemeente. Het is niet passend om hier op te gaan bezuinigen."
+        },
+        "109819": {
+          "position": "disagree",
+          "explanation": "In de huidige raadsperiode is het aantal boa's uitgebreid. De gemeente heeft nu voldoende boa's die zich met veiligheid bezighouden."
+        },
+        "109820": {
+          "position": "disagree",
+          "explanation": "Cameratoezicht is een laatste middel zijn als andere middelen om de openbare orde te handhaven niet voldoende zijn. Alleen bij heel specifieke problemen kan er eventueel sprake zijn van (tijdelijk) cameratoezicht."
+        },
+        "109826": {
+          "position": "agree",
+          "explanation": "Maatschappelijk zinvol werk doen is onderdeel van de Participatiewet. Dit mag de reguliere re-integratie niet in de weg staan. Er wordt per persoon beoordeelt wat passend is, met het doel om deelname aan de maatschappij te stimuleren,"
+        },
+        "109828": {
+          "position": "agree",
+          "explanation": "De gemeente beek moet de inkomensgrens verhogen van 120% naar 150% van de bijstandsnorm. Hiermee wordt het niveau binnen de Westelijke Mijnstreek gelijk getrokken. Voor hulp en ondersteuning mag het niet uitmaken waar je woont."
+        },
+        "109831": {
+          "position": "agree",
+          "explanation": "Door de maximumsnelheid in de bebouwde kom te verlagen naar 30 km/u worden de wegen veiliger en kans op ongelukken kleiner. De bebouwde kom wordt hiermee veiliger voor voetgangers en fietsers, maar ook voor kinderen die buitenspelen."
+        },
+        "109832": {
+          "position": "agree",
+          "explanation": "Vanuit de wet WMO is de keuzevrijheid wettelijk geregeld. Het is een belangrijk recht waarmee mensen zonder inmenging van de gemeente kan kiezen naar welke zorgaanbieder zij wensen te gaan."
+        },
+        "109838": {
+          "position": "agree",
+          "explanation": "Het Rijk bepaalt elk halfjaar hoeveel statushouders een gemeente onderdak moet bieden. De gemeente moet zich aan deze taakstelling houden. De wijze waarop de wettelijke taakstelling wordt gerealiseerd maakt daarbij niet uit."
+        },
+        "109839": {
+          "position": "neither",
+          "explanation": "De omvang van de afvalstromen en in het bijzonder het restafval moet worden verminderd. Een vergoeding betalen voor afvoeren van het rest afval stimuleert om deze afvalstroom te verminderen. Daarnaast willen wij de huidige gratis afvalstromen zoals papier, PMD, grof tuinafval en glaswerk behouden."
+        },
+        "109840": {
+          "position": "disagree",
+          "explanation": "Beek is een fijne gemeente om in te wonen. Voor nu en in de toekomst. Daarom moeten we nu investeren in maatregelen die klimaatverandering tegengaan. Zonnepanelen helpen bij de transitie naar duurzame energie. Dat kan ook op landbouwgrond."
+        },
+        "109845": {
+          "position": "agree",
+          "explanation": "Mensen met een lager of middeninkomen moeten een kwalitatief goede woning kunnen vinden. Er is een groot tekort aan sociale huurwoningen, en er moeten er veel bijgebouwd worden om aan de vraag te kunnen voldoen, ook in Beek."
+        },
+        "109848": {
+          "position": "agree",
+          "explanation": "Een dorpscentrum of gemeenschapshuis is een plek waar mensen uit een kern kunnen samenkomen. Deze plekken zorgen voor verbinding in de buurt en helpen tegen eenzaamheid. Deze zijn dus heel belangrijk voor elke kern."
+        },
+        "109849": {
+          "position": "disagree",
+          "explanation": "In het centrum en de omgeving van het centrum is voldoende parkeergelegenheid. Door vaker de fiets te pakken kunnen we verkeersdrukte voorkomen en zorgen we ervoor dat we actief bewegen. We willen meer fietsparkeerplaatsen realiseren."
+        },
+        "109853": {
+          "position": "disagree",
+          "explanation": "In deze straten zijn al verkeersremmende maatregelen genomen. Extra maatregelen zijn hier niet nodig. Andere straten in de gemeente komen hier eerder voor in aanmerking."
+        },
+        "109855": {
+          "position": "disagree",
+          "explanation": "Jongeren hebben weinig andere manieren om hun stem in Beek te laten horen. Ouderen hebben deze middelen wel. Daarvoor is geen specifieke adviesraad nodig."
+        }
+      }
+    },
+    {
+      "id": 109789,
+      "name": "Belang van Beek",
+      "fullName": "Belang van Beek",
+      "website": "https://www.belangvanbeek.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "109797": {
+          "position": "agree",
+          "explanation": "Dat er momenteel uitsluitend mannelijke wethouders zijn, terwijl er tijdens de termijn meerdere wisselingen hebben plaatsgevonden, is een gemiste kans. Tegelijk moet bij de samenstelling van het college altijd de beste kandidaat worden benoemd, ongeacht geslacht."
+        },
+        "109798": {
+          "position": "agree",
+          "explanation": "Referenda kunnen bijdragen aan beter gedragen besluiten bij grote projecten. De discussie over de nieuwe school en de reconstructie van de Schimmerterweg zonder vrijliggend fietspad laten zien dat belangrijke keuzes soms onvoldoende aansluiten bij de mening van veel Beekse inwoners."
+        },
+        "109801": {
+          "position": "agree",
+          "explanation": "Een kleinschalige winkel duidelijk ondergeschikt aan het agrarisch bedrijf, is in principe geen probleem zolang direct omwonenden geen legitieme bezwaren hebben. Voor activiteiten zoals een camping gelden echter terecht aanvullende regels, onder meer omtrent brandveiligheid, afval, geluid & verkeer."
+        },
+        "109802": {
+          "position": "agree",
+          "explanation": "Burgerinitiatieven voor duurzame energie (bv. gezamenlijke zonnepanelen) moeten actief gestimuleerd worden door de gemeente. Financiële steun (subsidie, lening, garantstelling) is daarbij een logisch middel, mits goed geregeld en voor iedereen toegankelijk."
+        },
+        "109803": {
+          "position": "disagree",
+          "explanation": "Distributiecentra moeten niet generiek worden tegengegaan, zeker niet op daarvoor ingerichte locaties zoals Aviation Valley bij MAA. Extra bedrijven kunnen bijdragen aan werkgelegenheid en gemeentelijke inkomsten, mits de effecten op verkeer, omgeving en duurzaamheid aantoonbaar beheersbaar zijn."
+        },
+        "109805": {
+          "position": "agree",
+          "explanation": "Werkgevers in de land- en tuinbouw zijn primair zelf verantwoordelijk voor de huisvesting van hun seizoenarbeiders. Huisvesting op of direct bij het eigen terrein voorkomt extra druk op de woningmarkt en overlast in woonwijken, mits wordt voldaan aan geldende regels en toezicht door de gemeente."
+        },
+        "109809": {
+          "position": "agree",
+          "explanation": "Nu particulier vuurwerk is verboden, kan een door de gemeente georganiseerde vuurwerkshow bijdragen aan een veilige en gezamenlijke jaarwisseling. Zo behouden inwoners een feestelijk moment, terwijl veiligheid, toezicht en beheersbaarheid beter gewaarborgd zijn."
+        },
+        "109810": {
+          "position": "agree",
+          "explanation": "In andere landen wordt grofvuil gratis aan huis opgehaald, wat leidt tot minder illegale dumping. Dat voorkomt extra opruim- en handhavingskosten voor de gemeente en draagt bij aan een schonere leefomgeving."
+        },
+        "109814": {
+          "position": "agree",
+          "explanation": "De gemeente kan de lokale omroep financieel ondersteunen, mits deze onafhankelijk opereert, transparant is over besteding van middelen en aantoonbaar bijdraagt aan goede informatievoorziening voor alle inwoners."
+        },
+        "109816": {
+          "position": "agree",
+          "explanation": "Muziekonderwijs draagt bij aan de ontwikkeling van kinderen en gelijke kansen. Tot nu toe gaat veel gemeentelijk geld naar sport; Belang van Beek vindt het belangrijk dat ook cultuur, zoals muziekles, structureel wordt ondersteund."
+        },
+        "109818": {
+          "position": "disagree",
+          "explanation": "Monumentenzorg is belangrijk voor het behoud van het lokale erfgoed en identiteit. Tegelijk moet zorgvuldig worden omgegaan met publieke middelen. Bezuinigingen mogen niet leiden tot achterstallig onderhoud of verlies van waardevol erfgoed, maar efficiëntie en prioritering zijn wel mogelijk."
+        },
+        "109819": {
+          "position": "agree",
+          "explanation": "Zichtbare handhaving draagt bij aan veiligheid en leefbaarheid. Extra boa’s kunnen zorgen voor betere naleving en sneller optreden bij overlast. Bij bekende probleemlocaties kan aanvullend cameratoezicht worden ingezet, met duidelijke kaders en respect voor privacy, als ondersteuning van handhaving"
+        },
+        "109820": {
+          "position": "agree",
+          "explanation": "Cameratoezicht kan bijdragen aan veiligheid en het voorkomen van overlast. In de gemeente Beek moet dit gericht worden ingezet op bekende probleemlocaties, tijdelijk en proportioneel, met duidelijke waarborgen voor privacy en toezicht op het gebruik."
+        },
+        "109826": {
+          "position": "agree",
+          "explanation": "Van mensen met een bijstandsuitkering mag worden verwacht dat zij, waar mogelijk, maatschappelijk zinvol werk verrichten. Dit draagt bij aan participatie en eigenwaarde. Daarbij moet altijd rekening worden gehouden met persoonlijke omstandigheden, gezondheid en mogelijkheden."
+        },
+        "109828": {
+          "position": "agree",
+          "explanation": "Steeds meer inwoners met een laag of middeninkomen hebben moeite om rond te komen. Door de inkomensgrens voor ondersteuning te verhogen, kan de gemeente Beek ook deze groep tijdig helpen en voorkomen dat financiële problemen verder oplopen."
+        },
+        "109831": {
+          "position": "disagree",
+          "explanation": "Een algemene verlaging naar 30 km/u binnen de bebouwde kom is niet overal wenselijk. Op woonstraten en bij scholen kan 30 km/u bijdragen aan veiligheid en leefbaarheid, maar op ontsluitingswegen moet maatwerk mogelijk blijven in de gemeente Beek."
+        },
+        "109832": {
+          "position": "disagree",
+          "explanation": "De kwaliteit en beschikbaarheid van zorg moeten altijd vooropstaan. Waar mogelijk mag rekening worden gehouden met geloof, cultuur of levensovertuiging, maar dit mag nooit ten koste gaan van goede, toegankelijke en tijdige zorg."
+        },
+        "109838": {
+          "position": "disagree",
+          "explanation": "Vluchtelingen met een verblijfsvergunning hebben recht op huisvesting, maar voorrang op sociale huurwoningen is niet langer uit te leggen zolang veel inwoners van de gemeente Beek jarenlang op een woning wachten. Belang van Beek vindt dat eigen inwoners voorrang moeten krijgen."
+        },
+        "109839": {
+          "position": "agree",
+          "explanation": "Het gratis inleveren van afval bij de milieustraat verlaagt de drempel voor correct afvalscheiden en kan illegale dumping voorkomen. Dat draagt bij aan een schone leefomgeving en kan per saldo kosten besparen voor de gemeente Beek."
+        },
+        "109840": {
+          "position": "agree",
+          "explanation": "Landbouwgrond blijft in principe voor landbouw; zonnepanelen alleen bij uitzondering en onder strikte voorwaarden."
+        },
+        "109845": {
+          "position": "agree",
+          "explanation": "Met circa 28% sociale huur landelijk is maatwerk nodig. In Beek moet per project worden gekeken naar de juiste mix, in plaats van een generieke norm van 35%."
+        },
+        "109848": {
+          "position": "agree",
+          "explanation": "Dorpscentra zijn belangrijk voor ontmoeting en leefbaarheid, maar een eigen centrum in elk dorp is niet altijd haalbaar. In de gemeente Beek moet per kern worden gekeken wat nodig en passend is, waarbij ook gebruik van bestaande voorzieningen en samenwerking tussen dorpen mogelijk is."
+        },
+        "109849": {
+          "position": "agree",
+          "explanation": "Extra parkeercapaciteit in het centrum van Beek is noodzakelijk voor bereikbaarheid en leefbaarheid. Belang van Beek ziet mogelijkheden in een meerlaagse parkeervoorziening achter het gemeentehuis en het deels afdekken van de Keutelbeek met roosters, zodat parkeren weer mogelijk wordt."
+        },
+        "109853": {
+          "position": "agree",
+          "explanation": "Verkeersmaatregelen zoals drempels kunnen bijdragen aan de verkeersveiligheid. Daarbij moet altijd rekening worden gehouden met de bereikbaarheid voor ambulance en brandweer. Waar nodig kunnen alternatieven zoals plateaus, wegversmallingen of slimme snelheidsremmers worden toegepast."
+        },
+        "109855": {
+          "position": "disagree",
+          "explanation": "Ouderen zijn al vertegenwoordigd in de raad. Belang van Beek werkt actief mee aan de kinderraad en is blij met deze vorm van jongerenparticipatie. Een extra ouderenadviesraad achten wij niet noodzakelijk."
+        }
+      }
+    },
+    {
+      "id": 109791,
+      "name": "VVD",
+      "fullName": "Volkspartij voor Vrijheid en Democratie",
+      "website": "https://www.vvd.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "109797": {
+          "position": "disagree",
+          "explanation": "De kwaliteit staat voorop. "
+        },
+        "109798": {
+          "position": "disagree",
+          "explanation": "Goed vooroverleg met belanghebbenden. Goed luisteren. Verantwoord standpunt innemen en uiteindelijk is het laatste woord aan de raad"
+        },
+        "109801": {
+          "position": "disagree",
+          "explanation": "Altijd moeten gaat te ver. Daar waar verzocht wordt een dergelijke activiteit te ontplooien is het \"meedenken met de aanvrager\" en het is niet op voorhand \"nee\"."
+        },
+        "109802": {
+          "position": "agree",
+          "explanation": "Eerst via landelijke en provinciale regelingen. Gemeente doet er verstandig aan te faciliteren. Dat zou eventueel ook financieel kunnen leiden tot input."
+        },
+        "109803": {
+          "position": "disagree",
+          "explanation": "De gemeente Beek heeft daar bedrijfsterreinen voor. Dat zijn de locaties waar het prima mogelijk is."
+        },
+        "109805": {
+          "position": "disagree",
+          "explanation": "Dat is in deze omvang niet aan de orde in de gemeente Beek"
+        },
+        "109809": {
+          "position": "agree",
+          "explanation": "Dat zou een optie zijn. Ook eens nagaan of dat regionaal kan worden gedaan."
+        },
+        "109810": {
+          "position": "disagree",
+          "explanation": "Gratis bestaat niet. Het komt in de afvalstoffenheffing terecht."
+        },
+        "109814": {
+          "position": "disagree",
+          "explanation": "De huidige regeling is pas begonnen. eerst maar eens afwachten hoe dat gaat."
+        },
+        "109816": {
+          "position": "disagree",
+          "explanation": "Muziekles. Daar gaat het om. Kan ook via verenigingen. Deze krijgen dan subsidie."
+        },
+        "109818": {
+          "position": "agree",
+          "explanation": "De gemeente moet het cultureel erfgoed bewaken."
+        },
+        "109819": {
+          "position": "disagree",
+          "explanation": "Op dit moment niet nodig. Indien tijdelijk meer capaciteit nodig is \"lenen bij de buren\"."
+        },
+        "109820": {
+          "position": "disagree",
+          "explanation": "Pas als het nodig is."
+        },
+        "109826": {
+          "position": "agree",
+          "explanation": "Dat kun je vragen."
+        },
+        "109828": {
+          "position": "disagree",
+          "explanation": "Er is al een redelijk systeem. Afstemmen in de regio."
+        },
+        "109831": {
+          "position": "disagree",
+          "explanation": "Hoofddoorvoerwegen binnen de bebouwde kom max 50/uur. Overige kan best 30 km/uur."
+        },
+        "109832": {
+          "position": "disagree",
+          "explanation": "Daar heeft de gemeente geen bepalende rol in."
+        },
+        "109838": {
+          "position": "disagree",
+          "explanation": "Afhankelijk van landelijke regelgeving."
+        },
+        "109839": {
+          "position": "disagree",
+          "explanation": "Gratis bestaat niet. Kosten zitten in de afvalheffing."
+        },
+        "109840": {
+          "position": "disagree",
+          "explanation": "Is afhankelijk van provinciale spelregels."
+        },
+        "109845": {
+          "position": "disagree",
+          "explanation": "30-30-40 regeling"
+        },
+        "109848": {
+          "position": "agree",
+          "explanation": "Is al zo"
+        },
+        "109849": {
+          "position": "disagree",
+          "explanation": "Er is geen ruimte méér dan er nu al is."
+        },
+        "109853": {
+          "position": "disagree",
+          "explanation": "Is een doorgaande weg met ook veel vracht -en landbouwverkeer zijn drempels uit den boze."
+        },
+        "109855": {
+          "position": "disagree",
+          "explanation": "Er zijn genoeg mogelijkheden om aandacht te vragen voor en rekening te houden met deze specifieke doelgroep."
+        }
+      }
+    }
+  ],
+  "statements": [
+    {
+      "id": 109853,
+      "index": 1,
+      "theme": "Speed on Raadhuisstraat",
+      "themeId": "snelheid-raadhuisstraat",
+      "title": "Speed bumps should be installed in Raadhuisstraat, Brugstraat and Adsteeg.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109840,
+      "index": 2,
+      "theme": "Solar panels on farmland",
+      "themeId": "zonnepanelen-op-landbouwgrond",
+      "title": "The municipality should ban solar panels on agricultural land.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109802,
+      "index": 3,
+      "theme": "Sustainable energy",
+      "themeId": "duurzame-energie",
+      "title": "Residents who want to generate sustainable energy together should receive financial support from the municipality.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109797,
+      "index": 4,
+      "theme": "Mayor and municipal executive",
+      "themeId": "burgemeester-en-college",
+      "title": "The new college of mayor and aldermen must have an equal number of men and women.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109848,
+      "index": 5,
+      "theme": "Neighborhood center",
+      "themeId": "buurtcentrum",
+      "title": "All villages in the municipality must have their own village center.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109801,
+      "index": 6,
+      "theme": "Farm campsites",
+      "themeId": "boerencampings",
+      "title": "The municipality should always allow farmers to open, for example, a shop or a campsite at their farm.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109805,
+      "index": 7,
+      "theme": "Housing for foreign workers",
+      "themeId": "huisvesting-buitenlandse-werknemers",
+      "title": "Employers in agriculture and horticulture should provide housing for seasonal workers on their own premises.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109826,
+      "index": 8,
+      "theme": "Work requirement for welfare recipients",
+      "themeId": "tegenprestatie-voor-uitkering",
+      "title": "People receiving social assistance should, in return, do socially useful work.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109814,
+      "index": 9,
+      "theme": "Local media",
+      "themeId": "lokale-media",
+      "title": "The municipality should support the local broadcaster with additional funding.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109798,
+      "index": 10,
+      "theme": "Referendum",
+      "themeId": "referendum",
+      "title": "The residents of Beek should be able to give their opinion on important issues through a referendum.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109839,
+      "index": 11,
+      "theme": "Recycling center",
+      "themeId": "milieustraat",
+      "title": "Dropping off waste at the recycling center should be free of charge.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109819,
+      "index": 12,
+      "theme": "Enforcement officers",
+      "themeId": "handhavers",
+      "title": "Beek should have more municipal enforcement officers (BOAs) who focus on public safety.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109809,
+      "index": 13,
+      "theme": "Fireworks",
+      "themeId": "vuurwerk",
+      "title": "The municipality should organize a fireworks show on New Year's Eve.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109831,
+      "index": 14,
+      "theme": "Car speeds",
+      "themeId": "snelheid-auto-s",
+      "title": "The maximum speed limit in built-up areas should be set to 30 km/h.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109818,
+      "index": 15,
+      "theme": "Monuments",
+      "themeId": "monumenten",
+      "title": "The municipality should cut spending on heritage conservation.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109828,
+      "index": 16,
+      "theme": "Combating poverty",
+      "themeId": "armoedebestrijding",
+      "title": "The municipality should raise the income threshold for receiving poverty assistance.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109810,
+      "index": 17,
+      "theme": "Bulky waste",
+      "themeId": "grofvuil",
+      "title": "Bulky waste must be collected from homes free of charge.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109845,
+      "index": 18,
+      "theme": "Social housing",
+      "themeId": "sociale-huurwoningen",
+      "title": "At least 35% of the newly built homes in Beek should be social rental housing. In the Netherlands, 28% of homes are currently social rental housing.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109832,
+      "index": 19,
+      "theme": "Choice of healthcare",
+      "themeId": "zorgkeuze",
+      "title": "People who need care should always be able to choose a caregiver who matches their religion, culture, or beliefs.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109820,
+      "index": 20,
+      "theme": "Camera surveillance",
+      "themeId": "cameratoezicht",
+      "title": "Beek should have more camera surveillance.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109838,
+      "index": 21,
+      "theme": "Priority for refugees",
+      "themeId": "voorrang-voor-vluchtelingen",
+      "title": "The municipality must continue to give refugees with a residence permit priority for social housing.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109803,
+      "index": 22,
+      "theme": "Distribution centers",
+      "themeId": "distributiecentra",
+      "title": "The municipality must oppose the establishment of new distribution centers.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109816,
+      "index": 23,
+      "theme": "Music lessons",
+      "themeId": "muziekles",
+      "title": "Every primary school child should be able to receive music lessons subsidized by the municipality.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109849,
+      "index": 24,
+      "theme": "More parking spaces",
+      "themeId": "meer-parkeerplaatsen",
+      "title": "There should be more parking spaces in the center of Beek.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109855,
+      "index": 25,
+      "theme": "Seniors' advisory council",
+      "themeId": "seniorenadviesraad",
+      "title": "Beek should get an advisory council for the elderly. The municipality already has a youth advisory council.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    }
+  ]
+}

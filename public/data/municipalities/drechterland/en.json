@@ -1,0 +1,834 @@
+{
+  "id": "GM0498",
+  "name": "Drechterland",
+  "slug": "drechterland",
+  "parties": [
+    {
+      "id": 112810,
+      "name": "CDA",
+      "fullName": "Christen-Democratisch Appèl",
+      "website": "https://www.cda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "112819": {
+          "position": "disagree",
+          "explanation": "College moet worden aangesteld op basis van kwaliteit en niet gender."
+        },
+        "112820": {
+          "position": "agree",
+          "explanation": "Een referendum geeft inwoners directe invloed op besluiten, waardoor beleid beter aansluit en het vertrouwen in het bestuur groeit. Bijvoorbeeld mbt Hoogkarspel-Zuid of de Zuiderdijk."
+        },
+        "112823": {
+          "position": "agree",
+          "explanation": "Door boeren toe te staan een winkel of camping te openen, versterken we het platteland economisch en sociaal. Het biedt extra inkomsten, stimuleert lokale producten en is belangrijk voor dorpen zonder winkels, zodat basisvoorzieningen behouden blijven."
+        },
+        "112824": {
+          "position": "agree",
+          "explanation": "Gemeentelijke steun maakt gezamenlijke energieprojecten haalbaar en versterkt samenwerking om energie zuiniger te worden."
+        },
+        "112826": {
+          "position": "neither",
+          "explanation": "Asielopvang is een wettelijke taak. Bij eerdere besluitvorming hebben wij wel een heroverweging voorgesteld indien de spreidingswet wijzigt."
+        },
+        "112832": {
+          "position": "agree",
+          "explanation": "Mooi alternatief na het landelijk verbod."
+        },
+        "112835": {
+          "position": "disagree",
+          "explanation": "Dit is een taak van de ondernemers zelf, de gemeente kan hier wel op toezien."
+        },
+        "112836": {
+          "position": "agree",
+          "explanation": "Dit moet natuurlijk wel volgende de geldende regels en procedures."
+        },
+        "112840": {
+          "position": "agree",
+          "explanation": "Veiligheid is van groot belang."
+        },
+        "112841": {
+          "position": "disagree",
+          "explanation": "Dit overstijgt de lokale politiek en is geen taak van de gemeente."
+        },
+        "112844": {
+          "position": "agree",
+          "explanation": "Wij geven voorrang aan passende woningbouw binnen bestaande dorpen en geen grootschalige bouw (+3000 woningen) buiten deze dorpen, zoals in Hoogkarspel-Zuid."
+        },
+        "112845": {
+          "position": "agree",
+          "explanation": "Maatschappelijk zinvol werk bevordert re-integratie en voorkomt eenzaamheid, waardoor mensen weer actief deelnemen aan de samenleving."
+        },
+        "112847": {
+          "position": "agree",
+          "explanation": "Dit zorgt ervoor dat meer inwoners die moeite hebben om rond te komen, tijdig ondersteuning krijgen."
+        },
+        "112849": {
+          "position": "disagree",
+          "explanation": "Dit vereist een zorgvuldige analyse, want het gaat ten koste van gewone parkeerplaatsen."
+        },
+        "112851": {
+          "position": "disagree",
+          "explanation": "In een tijd van krapte in de zorg, mag een ieder blij zijn met de zorg die kan worden verleend."
+        },
+        "112853": {
+          "position": "agree",
+          "explanation": "Als de begroting het toelaat moet dit terugvloeien naar de inwoners."
+        },
+        "112860": {
+          "position": "disagree",
+          "explanation": "Zonnepanelen op landbouwgrond verminderen de ruimte voor voedselproductie en tasten het landschap aan; duurzame energie hoort op daken, niet op akkers."
+        },
+        "112862": {
+          "position": "agree",
+          "explanation": "Met schoolzwemmen kunnen wij onze twee buitenzwembaden nog beter benutten."
+        },
+        "112863": {
+          "position": "disagree",
+          "explanation": "Dit is geen primaire taak voor het basisonderwijs, West-Fries leer je thuis en op het dorp."
+        },
+        "112866": {
+          "position": "agree",
+          "explanation": "Als het helpt om de woningnood te verlichten, moet kamer­verhuur worden toegestaan, mits binnen geldende regels en toezicht."
+        },
+        "112867": {
+          "position": "agree",
+          "explanation": "Elke dorp verdient een eigen dorpscentrum als ontmoetingsplek met voorzieningen zoals dorpshuis, plein, jongerencentrum en buurthuis; dit versterkt de sociale samenhang."
+        },
+        "112868": {
+          "position": "agree",
+          "explanation": "Er moet duidelijk gekeken worden hoe de parkeerdrukte op te vangen."
+        },
+        "112869": {
+          "position": "disagree",
+          "explanation": "Het behoud van buslijnen is geen gemeentelijke taak; de gemeente kan beter lobbyen bij provincie en vervoerders voor goede bereikbaarheid."
+        },
+        "112870": {
+          "position": "agree",
+          "explanation": "Wij houden ons aan de woondeal, dit is momenteel rond de 60-70%."
+        },
+        "112872": {
+          "position": "disagree",
+          "explanation": "Bij eerdere besluitvorming heeft het CDA een motie ingediend om alle aanvullende kosten (toezicht, veiligheid) door het COA te laten betalen."
+        }
+      }
+    },
+    {
+      "id": 112808,
+      "name": "Senioren Partij Drechterland",
+      "fullName": "Senioren Partij Drechterland",
+      "website": "https://www.seniorenpartijdrechterland.nl",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "112819": {
+          "position": "agree",
+          "explanation": "Met de kanttekening dat kwaliteit vóór gaat. Het is een goed streven. En als een kandidaat méér kwaliteit/capaciteiten heeft, en daardoor de verhouding man-vrouw niet meer gelijk is, vinden wij kwaliteit van groter belang. We zien graag dat er meer vrouwen politiek actief worden en doorstromen!"
+        },
+        "112820": {
+          "position": "agree",
+          "explanation": "Met de kanttekening dat natuurlijk niet alle onderwerpen zich lenen voor een referendum. Diverse onderwerpen die een dorp aangaan, kunnen zeker per referendum getoetst worden. Belangrijk is om de verwachtingen vooraf helder te maken, is het referendum bindend of adviserend? Zodat dat duidelijk is!"
+        },
+        "112823": {
+          "position": "agree",
+          "explanation": "Daar zijn wij groot voorstander van. Niet alleen zorg je zo dat agrariërs op een andere manier kunnen ondernemen, je zorgt ook dat mensen in de dorpen voor een kleine boodschap niet perse naar de supermarkt hoeven. Daarnaast koop je daar lokaal en vers, dat is natuurlijk veel beter en meer gezond!"
+        },
+        "112824": {
+          "position": "neither",
+          "explanation": "Dit ligt aan de context, wat is duurzame energie? Er zijn immers ook al (commerciële) bedrijven die via subsidie mensen ondersteunen. Wel staan we voor initiatieven die daadwerkelijk bijdragen en/of energie besparen. De gemeente kan dit per project toetsen, om mensen te ondersteunen."
+        },
+        "112826": {
+          "position": "neither",
+          "explanation": "Dit is simpelweg gevolg van het landelijke beleid, waar wij overigens geen groot voorstander van zijn, en dus hebben we het uit te voeren. Of we wel of niet \"zo snel mogelijk willen sluiten\" is niet relevant, aangezien we daar geen keuze in hebben. We kijken waar we invloed hebben: veiligheid!"
+        },
+        "112832": {
+          "position": "agree",
+          "explanation": "Wij vinden dit een goed idee! In bepaalde grote dorpen (Venhuizen, Hoogkarspel) zien wij kans om op een centraal punt een mooie show te geven, vele inwoners zullen hiervan genieten. De overige dorpen zal in overleg met de lokale horeca/dorpsraad dit ook besproken kunnen worden of er behoefte aan is."
+        },
+        "112835": {
+          "position": "disagree",
+          "explanation": "Iedereen hoort deel uit te kunnen maken van de samenleving, dus ook mensen met een beperking. Deze stelling is 'te kort door de bocht' dat gemeenten dit altijd moeten financieren. Een gemeente kan bijvoorbeeld niet overal een lift financieren. Een gemeente kan wel meedenken en helpen met fondsen."
+        },
+        "112836": {
+          "position": "agree",
+          "explanation": "Eens als het om generatiewoningen/mantelzorg gaat! Op die wijze kun je zorgen dat er familie op het erf komt wonen, wat veel kan helpen in de woningnood! Gewone huizen op het erf bouwen, daar zijn wij geen voorstander van. Als je het bij één toestaat, geldt dat voor ieder. Dan raak je het dorp kwijt"
+        },
+        "112840": {
+          "position": "agree",
+          "explanation": "Bij het station en plaatsen waar het onveilig is, moet meer cameratoezicht komen. Daarnaast zijn er een aantal locaties die zich makkelijker laten lenen voor criminaliteit, ook daar zou cameratoezicht afschrikwekkend kunnen werken."
+        },
+        "112841": {
+          "position": "neither",
+          "explanation": "Hier staan wij neutraal in. Dit hangt af van de grootte en locatie. Verderop in kleinere dorpen zou niet ideaal zijn, gezien de afhankelijkheid van het vervoer. Dan zou het eerder Hoogkarspel worden, daar zullen ook eerst inwoners bij betrokken moeten worden. Wij hechten waarde aan participatie."
+        },
+        "112844": {
+          "position": "disagree",
+          "explanation": "Wij zijn voorstander van bouwen binnen de kernen, een hofje of straatje erbij, of in het geval van Venhuizen en Hoogkarspel grote woningbouwplannen. Wij kunnen niet nu een nieuw plan, buiten een dorpsgrens 'tegengaan', wij willen dit dan eerst op inhoud beoordelen en met inwoners bespreken."
+        },
+        "112845": {
+          "position": "neither",
+          "explanation": "Hier staan we genuanceerd in, omdat dit ligt aan de context. Wij vinden dat ieder een bijdrage kan leveren aan de maatschappij. Wat is de situatie van degene die in de bijstand zit? Zorgt hij/zij voor jongere kinderen? Dan heeft dit wat ons betreft voorrang en is dat maatschappelijk zinvol."
+        },
+        "112847": {
+          "position": "agree",
+          "explanation": "Een onderwerp waar wij ons in het verleden ook hard voor hebben gemaakt, omdat vele mensen net 'tussen wal en schip' kunnen vallen, voor extra compensaties. Het leven is voor velen duur, ook door de extra accijnzen vanuit de overheid en afval- en zorgkosten. We moeten kijken hoe we kunnen helpen."
+        },
+        "112849": {
+          "position": "disagree",
+          "explanation": "Wij krijgen geen signalen dat hier een tekort aan is in onze gemeente, indien hier signalen van zouden komen, kunnen we dit altijd oppakken."
+        },
+        "112851": {
+          "position": "disagree",
+          "explanation": "Een mooi streven,maar het kan niet 'altijd', dat is niet realistisch. Er zijn grote tekorten aan zorgverleners, wij moeten hen koesteren en hen zo efficiënt mogelijk kunnen inzetten, zodat ze optimaal kwaliteit kunnen bieden. Met de afstanden in onze gemeente, kun je niet verschillende laten rijden."
+        },
+        "112853": {
+          "position": "disagree",
+          "explanation": "Wij vinden het al een mooi streven als deze niet omhoog gaan, daar willen we ons voor inzetten. Omlaag is niet realistisch, vele gemeenten kampen met financiële tekorten. Waar gaat dan op bezuinigd worden? Dat is ook niet te verkopen. Een gezond financieel boekje is een goed streven."
+        },
+        "112860": {
+          "position": "disagree",
+          "explanation": "In principe heeft dit niet onze voorkeur, wij willen dat de zonnelader wordt aangehouden en dat er eerst op daken gebouwd wordt, er zijn ook al plannen langs de snelwegen. Voor ons is een uitzondering hierop als mensen dit graag willen, er draagvlak is in 't dorp én er lokaal van geprofiteerd wordt."
+        },
+        "112862": {
+          "position": "disagree",
+          "explanation": "Scholen hebben de opdracht om 'de basis', zoals lezen/rekenen, aanzienlijk te verbeteren. Ook wordt gezien dat de mondelinge taalvaardigheid van kinderen afneemt. Hoewel zwemmen belangrijk is, kunnen alle aandachtspunten niet tegelijk via school opgepakt worden, dat zou ten koste gaan van de basis."
+        },
+        "112863": {
+          "position": "agree",
+          "explanation": "Wij vinden het belangrijk dat onze kinderen kennis maken met onze lokale cultuur, gewoontes en geschiedenis en daar hoort het dialect bij. Het past bij ons. Vandaar hebben wij ook onze verkiezingspunten in het Westfries. Cultuur verbindt, en dit kunnen we de kinderen meegeven."
+        },
+        "112866": {
+          "position": "agree",
+          "explanation": "Kamerverhuur zou in de gemeente problemen kunnen oplossen, aangezien door de recente wetswijzigingen er weinig particuliere huurwoningen beschikbaar zijn. Kamerverhuren kan ook juridisch voordelen hebben, bijvoorbeeld mensen die niet op één huurcontract willen. Belangrijk om wel te controleren!"
+        },
+        "112867": {
+          "position": "agree",
+          "explanation": "Absoluut! En een dorpshuis. In sommige dorpen zijn er al levendige dorpshuizen of cafés die deze functie vervullen. Wij vinden dat er ruimte moet zijn voor grote en kleine verenigingen om zich in één gebouw te kunnen plaatsen, dit verbindt en zo kom je sneller met elkaar in contact."
+        },
+        "112868": {
+          "position": "disagree",
+          "explanation": "In de huidige situatie lijkt dat daar genoeg ruimte is. Alleen op sommige 'piekmomenten' is het even langer zoeken. In de toekomst zal dit misschien anders zijn, dan vraagt dit om aanpassingen. Als je parkeerplaatsen bouwt, gaat dit ten koste van iets anders (zoals groen)."
+        },
+        "112869": {
+          "position": "agree",
+          "explanation": "Absoluut, in onze landelijke gemeente zijn er veel inwoners afhankelijk van het openbaar vervoer. Om te zorgen dat inwoners naar noodzakelijke of ontspannen bijeenkomsten kunnen gaan, is goed vervoer nodig. Goed openbaar vervoer draagt ook bij aan tegengaan van eenzaamheid."
+        },
+        "112870": {
+          "position": "disagree",
+          "explanation": "Dat percentage lijkt ons wat te hoog. Dit leidt er dan ook automatisch toe, dat de overige woningen duurder zullen worden, anders komen de kosten niet uit. Wij pleiten voor een lager percentage sociale huur én juist goedkope koopwoningen; studio's voor starters en appartementen voor senioren."
+        },
+        "112872": {
+          "position": "agree",
+          "explanation": "En niet alleen goede verlichting. Wij vinden het belangrijk dat de veiligheid optimaal geborgd is. Daarom hebben wij ook gezorgd voor een 'meldpunt', waarbij er laagdrempelig contact opgenomen kan worden bij (dreigende) incidenten. De fietsroute voor jonge scholieren moet veilig blijven voelen."
+        }
+      }
+    },
+    {
+      "id": 112809,
+      "name": "Progressief Drechterland(PDL)",
+      "fullName": "Progressief Drechterland(PDL)",
+      "website": "https://www.progressiefdrechterland.nl",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "112819": {
+          "position": "neither",
+          "explanation": "We zijn geen voorstander van verplichten, maar zouden het wel willen stimuleren. Meer diversiteit in het bestuur zorgt voor een betere afspiegeling van onze samenleving."
+        },
+        "112820": {
+          "position": "disagree",
+          "explanation": "Een referendum is binair (ja/nee) en is veelal ongenuanceerd. Dit is volgens ons geen juist middel om de bevolking te bevragen. Wij zijn voorstander van meer bredere participatie."
+        },
+        "112823": {
+          "position": "agree",
+          "explanation": "Boerderijwinkels en -campings dragen bij aan het verbeteren van de leefbaarheid van onze gemeente. Wij zijn voorstander hiervan, zolang het maar binnen de Recreatievisie en de Detailhandelvisie van Wesfriesland past."
+        },
+        "112824": {
+          "position": "disagree",
+          "explanation": "Deze vraag gaat over de opwek van energie en wat ons betreft zijn hier financieel gezien landelijke subsidieregelingen voor. Buiten het financiele heeft Drechterland echter wel een rol in het adviseren en stimuleren van de opwek van groene energie."
+        },
+        "112826": {
+          "position": "disagree",
+          "explanation": "Er is nog geen asielopvang, maar we vinden wel dat we moeten voldoen aan zowel de Spreidingswet als aan humane opvang voor mensen die vluchten voor oorlog en geweld."
+        },
+        "112832": {
+          "position": "disagree",
+          "explanation": "Vuurwerk is slecht voor de luchtkwaliteit, mens, milieu, dier en de portomonnee."
+        },
+        "112835": {
+          "position": "disagree",
+          "explanation": "Een ondernemer moet dit zelf doen vanwege de huidige wet- en regelgeving."
+        },
+        "112836": {
+          "position": "disagree",
+          "explanation": "De gemeente zou volgens Progressief Drechterland de regie moeten pakken op de omgeving en ook moeten behouden. Dit voorkomt verrommeling van het landschap, zeker in onze plattelandsgemeente."
+        },
+        "112840": {
+          "position": "neither",
+          "explanation": "In sommige gevallen kan het nuttig zijn om extra cameratoezicht te hebben, maar over het algemeen kost het enorm veel extra geld. Er zijn ook andere en wellicht betere manieren om de sociale veiligheid en het veiligheidsgevoel te verbeteren"
+        },
+        "112841": {
+          "position": "neither",
+          "explanation": "Voor Drechterland is dit waarschijnlijk niet efficient. Wat ons betreft moet dit regionaal geregeld worden en Drechterland zou hier wel een rol in kunnen spelen."
+        },
+        "112844": {
+          "position": "disagree",
+          "explanation": "Er moet juist meer gebouwd worden, ook in bijvoorbeeld Hoogkarspel-Zuid."
+        },
+        "112845": {
+          "position": "disagree",
+          "explanation": "De redenen waarom mensen in de bijstand zitten is uiteenlopend. Zodoende moeten we het niet verplichten, maar wel stimuleren."
+        },
+        "112847": {
+          "position": "neither",
+          "explanation": "Momenteel vinden we de huidige inkomensgrens over het algemeen redelijk, maar armoede is een complex probleem. In sommige gevallen staan wij open voor aanvullende maatregelen, waarbij wij wel vinden dat het bestrijden van armoede meer landelijke oplossingen zou moeten krijgen."
+        },
+        "112849": {
+          "position": "agree",
+          "explanation": "We zouden het gebruik van elektrisch vervoer moeten stimuleren in onze leefomgeving. Zodoende zijn wij hier voorstander van, mits ook de laadpaalinfrastructuur sterk verbeterd wordt."
+        },
+        "112851": {
+          "position": "agree",
+          "explanation": "Keuzevrijheid en toegankelijkheid is enorm belangrijk. Zodoende zijn wij hier voorstander van"
+        },
+        "112853": {
+          "position": "disagree",
+          "explanation": "De OZB zit in Drechterland op een heel redelijk niveau"
+        },
+        "112860": {
+          "position": "agree",
+          "explanation": "Zonnepanelen op landbouwgrond kan wat ons betreft toegestaan worden, mits in samenspraak met inwoners, inwoners financieel mee kunnen dingen, het landschappelijk goed past, en er dubbel gebruik van grond is."
+        },
+        "112862": {
+          "position": "agree",
+          "explanation": "Hier zijn wij sterk voorstander van. Het is enorm belangrijk voor de ontwikkeling van onze jeugd en voor de veiligheid."
+        },
+        "112863": {
+          "position": "neither",
+          "explanation": "Het is een sympathiek idee, maar scholen moeten op dit moment al veel doen voor de leerlingen. Zodoende kunnen wij dit wel onder de aandacht brengen, maar niet verplichten."
+        },
+        "112866": {
+          "position": "agree",
+          "explanation": "Het kan goed bijdragen aan vermindering woningnood, maar er moeten wel goede kaders voor komen, bijvoorbeeld voor het parkeren."
+        },
+        "112867": {
+          "position": "neither",
+          "explanation": "Het zou erg mooi zijn als er in elke dorpskern een centrum komt, maar het is niet overal even realistisch, gezien de capaciteit en financiële middelen. Een gemeente kan wel burgerinitiatieven ondersteunen."
+        },
+        "112868": {
+          "position": "disagree",
+          "explanation": "Die plek is er simpelweg niet. Het gaat ook nog ten koste van andere functies, zoals openbaar groen. En wat ons betreft moeten we niet altijd autogebruik stimuleren."
+        },
+        "112869": {
+          "position": "agree",
+          "explanation": "Buslijnen zijn een provinciale aangelegenheid, maar als we vanuit de Provincie hier meer middelen voor krijgen, dan zijn wij hier zeker voorstander van. Het openbaar vervoer mag wat ons betreft verbeterd worden, want dit zorgt voor minder autogebruik en meer duurzamer vervoer."
+        },
+        "112870": {
+          "position": "disagree",
+          "explanation": "Progressief Drechterland is niet voorstander van minimaal 50% sociale of middelbare huur, maar wel sterk voorstander van minimaal 50% sociale huur en goedkopere koop."
+        },
+        "112872": {
+          "position": "agree",
+          "explanation": "Progressief Drechterland is voorstander van betere verlichting in de nabijheid van het nieuwe AZC in Hoogkarspel. Dit versterkt de veiligheid en het sociale veiligheidsgevoel. De COA draagt ook de kosten hiervan."
+        }
+      }
+    },
+    {
+      "id": 112811,
+      "name": "VVD",
+      "fullName": "Volkspartij voor Vrijheid en Democratie",
+      "website": "https://www.vvd.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "112819": {
+          "position": "disagree",
+          "explanation": "Er moet gekeken worden naar kwaliteit en niet naar geslacht."
+        },
+        "112820": {
+          "position": "disagree",
+          "explanation": "Referenda vereenvoudigen complexe vraagstukken tot een ja/nee-keuze en doen vaak geen recht aan nuance. Verder kan een lage opkomst bij referenda kan leiden tot besluiten die niet de hele gemeenschap vertegenwoordigen."
+        },
+        "112823": {
+          "position": "disagree",
+          "explanation": "Het wordt \"altijd\" zorgt ervoor dat wij het oneens zijn. Wij zoeken naar maatwerk oplossingen en onze grondhouding is positief maar wel onder voorwaarden."
+        },
+        "112824": {
+          "position": "agree",
+          "explanation": "Faciliteren en onder voorwaarden subsidiëren."
+        },
+        "112826": {
+          "position": "disagree",
+          "explanation": "Wij houden ons aan wet en regelgeving. Conform de Spreidingswet accepteren wij dat er een AZC in onze gemeente komt."
+        },
+        "112832": {
+          "position": "agree",
+          "explanation": "Mits er belangstelling is en wordt georganiseerd wordt door vrijwilligers."
+        },
+        "112835": {
+          "position": "disagree",
+          "explanation": "Dit is echt een eigen verantwoordelijk van de ondernemers"
+        },
+        "112836": {
+          "position": "agree",
+          "explanation": "Onder voorwaarden met alleen een bedrijfswoning"
+        },
+        "112840": {
+          "position": "agree",
+          "explanation": "Daar mag extra geïnvesteerd in worden"
+        },
+        "112841": {
+          "position": "disagree",
+          "explanation": "Wij zijn natuurlijk voor dit soort opvang en willen daar ook geld voor uitsteken. Belangrijk is wel om dit samen met de andere Westfriese gemeente te organiseren."
+        },
+        "112844": {
+          "position": "disagree",
+          "explanation": "De woningnood is enorm en in veel bestaande dorpen is het vol. daarom moet juist gekeken worden om buiten bestaande dorpsgrenzen of tegen de rand woningbouw toe te staan. Bovendien is er dan ruimte voor nieuwe voorzieningen en nieuwe woonvormen"
+        },
+        "112845": {
+          "position": "agree",
+          "explanation": "Wij vinden dat iemand in een uitkeringssituatie best iets terug mag doen voor de maatschappij. Hierbij geldt “de menselijke maat” als uitgangspunt. Men mag best benaderd worden om, bijvoorbeeld, vrijwilligerswerk te doen bij sportverenigingen of verzorgingstehuizen."
+        },
+        "112847": {
+          "position": "disagree",
+          "explanation": "Wij vinden de huidige inkomensgrens voldoende. Beter is om de verdiencapaciteit van de mensen zelf te verbeteren."
+        },
+        "112849": {
+          "position": "agree",
+          "explanation": "Er komen meer \"stekker \"auto's. Dus logisch."
+        },
+        "112851": {
+          "position": "disagree",
+          "explanation": "Hoewel wij houden van keuzevrijheid vinden wij wel dat zorg aan bepaalde kwaliteitseisen en contractafspraken dienen te voldoen."
+        },
+        "112853": {
+          "position": "disagree",
+          "explanation": "Omlaag is niet reëel. Omhoog alleen als het een meerwaarde heeft voor de leefomgeving voor onze inwoners."
+        },
+        "112860": {
+          "position": "disagree",
+          "explanation": "Wij respecteren de huidige bestaande afspraken en zoekgebieden voor zonneweides. Deze zijn zorgvuldig tot stand gekomen. Voor nieuwe zoekgebieden voor zonnevelden binnen onze gemeente willen wij geen nieuwe locaties. De regie en de beslissingsbevoegdheid hierover liggen bij de provincie."
+        },
+        "112862": {
+          "position": "disagree",
+          "explanation": "Taak van de ouders niet van school"
+        },
+        "112863": {
+          "position": "disagree",
+          "explanation": "Geen taak van basisscholen"
+        },
+        "112866": {
+          "position": "disagree",
+          "explanation": "Geen huisjesmelkers midden in een woonwijk Huisvesting van arbeidsmigranten vindt zoveel mogelijk plaats in comfortabele accommodaties bij de bedrijven. Arbeidsmigranten die zich blijvend in onze gemeente willen vestigen, worden gehuisvest in de reguliere woningen"
+        },
+        "112867": {
+          "position": "agree",
+          "explanation": "Wij vinden het belangrijk dat alle dorpen een ontmoetingsplek en dorpshuis hebben Dat is goed voor de leefbaarheid"
+        },
+        "112868": {
+          "position": "agree",
+          "explanation": "Waar mogelijk is ja Parkeren waar de parkeerdruk te hoog is, benutten we ruimte slimmer door verwaarloosde groenstroken om te vormen tot parkeervoorzieningen, zonder waardevol groen op te offeren."
+        },
+        "112869": {
+          "position": "disagree",
+          "explanation": "Dit is geen taak van de gemeente maar van provincie en rijk."
+        },
+        "112870": {
+          "position": "disagree",
+          "explanation": "Wij houden ons aan de woondeal van maximaal 30% en niet meer. wij kiezen voor meer betaalbare koopwoningen"
+        },
+        "112872": {
+          "position": "agree",
+          "explanation": "Om de veiligheid te vergroten."
+        }
+      }
+    },
+    {
+      "id": 112807,
+      "name": "Gemeentebelangen Drechterland",
+      "fullName": "Gemeentebelangen Drechterland",
+      "website": "https://www.gemeentebelangendrechterland.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "112819": {
+          "position": "agree",
+          "explanation": "GBD staat voor een college dat klopt. Niet geselecteerd op man of vrouw, maar wél met een bewuste balans, omdat goed bestuur vraagt om diversiteit in afkomst, ervaring, blik en gevoel."
+        },
+        "112820": {
+          "position": "agree",
+          "explanation": "GBD wil inwoners actief betrekken bij besluitvorming en onderzoekt het lokaal referendum als modern participatiemiddel, mits zorgvuldig ingezet en passend bij Drechterland."
+        },
+        "112823": {
+          "position": "neither",
+          "explanation": "GBD ziet kansen voor boeren, maar maatwerk is nodig. Activiteiten moeten passen bij omgeving, verkeer en leefbaarheid."
+        },
+        "112824": {
+          "position": "agree",
+          "explanation": "Lokale, gezamenlijke energie opwek wordt gesteund, mits kleinschalig, met draagvlak en niet op landbouwgrond."
+        },
+        "112826": {
+          "position": "disagree",
+          "explanation": "GBD staat voor menselijkheid en verantwoordelijkheid, met oog voor draagkracht en zorgvuldigheid."
+        },
+        "112832": {
+          "position": "agree",
+          "explanation": "GBD staat voor leefbaarheid, veiligheid en kosten voor een vuurwerkshow moeten zorgvuldig worden afgewogen."
+        },
+        "112835": {
+          "position": "agree",
+          "explanation": "GBD staat voor inclusie en toegankelijkheid voor iedereen."
+        },
+        "112836": {
+          "position": "neither",
+          "explanation": "Mogelijk via maatwerk, passend binnen ruimtelijk beleid en landschap."
+        },
+        "112840": {
+          "position": "neither",
+          "explanation": "Alleen gericht inzetten waar het aantoonbaar nodig is."
+        },
+        "112841": {
+          "position": "agree",
+          "explanation": "Veiligheid binnen gezinnen mag nooit wachten."
+        },
+        "112844": {
+          "position": "agree",
+          "explanation": "GBD wil bouwen bij bestaande structuren en landschap beschermen."
+        },
+        "112845": {
+          "position": "neither",
+          "explanation": "Meedoen is belangrijk, maar altijd passend en mensgericht."
+        },
+        "112847": {
+          "position": "agree",
+          "explanation": "Meer mensen moeten geholpen worden die net buiten de boot vallen."
+        },
+        "112849": {
+          "position": "agree",
+          "explanation": "GBD staat voor toekomstbestendige mobiliteit, met goede spreiding."
+        },
+        "112851": {
+          "position": "agree",
+          "explanation": "Zorg moet aansluiten bij mens en achtergrond."
+        },
+        "112853": {
+          "position": "disagree",
+          "explanation": "Geen automatische verhoging, alleen inflatiecorrectie."
+        },
+        "112860": {
+          "position": "neither",
+          "explanation": "Geen grootschalige wind/zon van buitenaf Eerst daken, bermen, bedrijven benutten Lokale opwek voor lokale behoefte Leefbaarheid en landschap beschermen"
+        },
+        "112862": {
+          "position": "agree",
+          "explanation": "Veiligheid en gelijke kansen voor kinderen."
+        },
+        "112863": {
+          "position": "agree",
+          "explanation": "Behoud van lokale cultuur en identiteit."
+        },
+        "112866": {
+          "position": "neither",
+          "explanation": "Maatwerk nodig, met oog voor leefbaarheid."
+        },
+        "112867": {
+          "position": "agree",
+          "explanation": "Voorzieningen vormen het hart van de gemeenschap."
+        },
+        "112868": {
+          "position": "agree",
+          "explanation": "Bereikbaarheid is belangrijk voor dorpen en ondernemers."
+        },
+        "112869": {
+          "position": "agree",
+          "explanation": "Bereikbaarheid is essentieel voor leefbaarheid."
+        },
+        "112870": {
+          "position": "neither",
+          "explanation": "GBD hanteert kern specifiek maatwerk, geen vast percentage."
+        },
+        "112872": {
+          "position": "agree",
+          "explanation": "Veiligheid en sociale controle rondom een AZC zijn rand voorwaardelijk."
+        }
+      }
+    }
+  ],
+  "statements": [
+    {
+      "id": 112869,
+      "index": 1,
+      "theme": "Public transport",
+      "themeId": "openbaar-vervoer",
+      "title": "The municipality should invest money in preserving bus lines in the villages.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 112820,
+      "index": 2,
+      "theme": "Referendum",
+      "themeId": "referendum",
+      "title": "Residents of Drechterland should be able to express their opinion on important issues via a referendum.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 112823,
+      "index": 3,
+      "theme": "Farm campsites",
+      "themeId": "boerencampings",
+      "title": "The municipality should always allow farmers to open, for example, a shop or a campsite at their farm.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 112835,
+      "index": 4,
+      "theme": "Accessibility of buildings",
+      "themeId": "toegankelijkheid-gebouwen",
+      "title": "The municipality should financially help business owners to make their buildings accessible to people with disabilities.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 112826,
+      "index": 5,
+      "theme": "Asylum seekers' center",
+      "themeId": "asielzoekerscentrum",
+      "title": "The asylum reception center in our municipality should be closed as soon as possible.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 112832,
+      "index": 6,
+      "theme": "Fireworks",
+      "themeId": "vuurwerk",
+      "title": "The municipality should organize a fireworks show on New Year's Eve.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 112819,
+      "index": 7,
+      "theme": "Mayor and municipal executive",
+      "themeId": "burgemeester-en-college",
+      "title": "The new college of mayor and aldermen must have an equal number of men and women.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 112840,
+      "index": 8,
+      "theme": "Camera surveillance",
+      "themeId": "cameratoezicht",
+      "title": "There should be more camera surveillance in Drechterland.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 112851,
+      "index": 9,
+      "theme": "Choice of healthcare",
+      "themeId": "zorgkeuze",
+      "title": "People who need care should always be able to choose a caregiver who matches their religion, culture, or beliefs.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 112841,
+      "index": 10,
+      "theme": "Violence against women",
+      "themeId": "geweld-tegen-vrouwen",
+      "title": "Drechterland should have a women's shelter for victims of domestic violence.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 112872,
+      "index": 11,
+      "theme": "Asylum seekers' center",
+      "themeId": "azc",
+      "title": "The municipality should invest in good lighting around the new asylum seeker center (AZC) in Hoogkarspel.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 112847,
+      "index": 12,
+      "theme": "Combating poverty",
+      "themeId": "armoedebestrijding",
+      "title": "The municipality should raise the income threshold for receiving poverty assistance.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 112860,
+      "index": 13,
+      "theme": "Solar panels on farmland",
+      "themeId": "zonnepanelen-op-landbouwgrond",
+      "title": "The municipality must allow solar panels on agricultural land.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 112844,
+      "index": 14,
+      "theme": "Housing construction",
+      "themeId": "woningbouw",
+      "title": "The municipality should prevent new construction outside existing village boundaries.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 112849,
+      "index": 15,
+      "theme": "Electric vehicle charging stations",
+      "themeId": "elektrische-laadpalen",
+      "title": "The municipality should designate more parking spaces as charging points for electric cars.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 112845,
+      "index": 16,
+      "theme": "Work requirement for welfare recipients",
+      "themeId": "tegenprestatie-voor-uitkering",
+      "title": "People receiving social assistance should, in return, do socially useful work.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 112863,
+      "index": 17,
+      "theme": "Regional language",
+      "themeId": "streektaal",
+      "title": "The municipality should make it possible for all primary schools to include the West Frisian dialect in their teaching.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 112866,
+      "index": 18,
+      "theme": "Subdivision into multiple rooms",
+      "themeId": "verkamering",
+      "title": "The municipality should allow landlords to rent out individual rooms instead of entire houses.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 112853,
+      "index": 19,
+      "theme": "Tax on buildings",
+      "themeId": "belasting-op-gebouwen",
+      "title": "The property tax (onroerendezaakbelasting, OZB) should be reduced.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 112867,
+      "index": 20,
+      "theme": "Neighborhood center",
+      "themeId": "buurtcentrum",
+      "title": "All villages in the municipality must have their own village center.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 112868,
+      "index": 21,
+      "theme": "More parking spaces",
+      "themeId": "meer-parkeerplaatsen",
+      "title": "There should be more parking spaces in the center of Hoogkarspel and the center of Venhuizen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 112862,
+      "index": 22,
+      "theme": "School swimming",
+      "themeId": "schoolzwemmen",
+      "title": "The municipality should allocate money for school swimming.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 112824,
+      "index": 23,
+      "theme": "Sustainable energy",
+      "themeId": "duurzame-energie",
+      "title": "Residents who want to generate sustainable energy together should receive financial support from the municipality.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 112836,
+      "index": 24,
+      "theme": "Building on agricultural land",
+      "themeId": "bouwen-op-landbouwgrond",
+      "title": "It should be possible for farmers to build houses themselves on their land.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 112870,
+      "index": 25,
+      "theme": "Housing market",
+      "themeId": "woningmarkt",
+      "title": "For all municipal housing projects, the municipality should reserve at least 50% of the homes for social or mid-range rental.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    }
+  ]
+}

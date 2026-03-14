@@ -1,0 +1,2549 @@
+{
+  "id": "GM0153",
+  "name": "Enschede",
+  "slug": "enschede",
+  "parties": [
+    {
+      "id": 113735,
+      "name": "Burger Belangen Enschede",
+      "fullName": "Burger Belangen Enschede",
+      "website": "https://burgerbelangen-enschede.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "113768": {
+          "position": "disagree",
+          "explanation": "Het gaat om de kwaliteit. Wij gaan voor de beste persoon ongeacht geslacht van de kandidaat."
+        },
+        "113769": {
+          "position": "agree",
+          "explanation": "Wij zijn het onder voorwaarden eens met een referendum, echter alleen in het voorstadium van grote besluiten, niet correctief en enkel raadgevend."
+        },
+        "113770": {
+          "position": "agree",
+          "explanation": "Indien er behoefte is vanuit de wijk, dan moet dit mogelijk zijn. Wel aan de voorkant goede afspraken en bouwtechnische keuring. Inwoners mogen niet worden opgezadeld met onvoorziene kosten."
+        },
+        "113772": {
+          "position": "agree",
+          "explanation": "Het centrum van Enschede is het visitekaartje van Enschede en biedt vertier door haar toonaangevende evenementen en culturele aanbod. Indien ondernemers gemeenschappelijk langere openingstijden wensen zullen wij daar gehoor aan geven."
+        },
+        "113775": {
+          "position": "neither",
+          "explanation": "Enschede heeft al langere tijd een azc zonder dat er overlast is geweest. Huidige asielopvang is mogelijk gemaakt onder strikte voorwaarden. Bij overlast wordt hard opgetreden. Dat kan tot sluiting leiden."
+        },
+        "113776": {
+          "position": "agree",
+          "explanation": "Wij willen geen verbod op open haarden en houtkachels: bewoners kiezen zelf, met respect voor hun omgeving."
+        },
+        "113778": {
+          "position": "agree",
+          "explanation": "Doordat vanaf 2026 waarschijnlijk geen vuurwerk meer is toegestaan, zal de gemeente zelf een vuurwerk- of droneshow organiseren."
+        },
+        "113790": {
+          "position": "agree",
+          "explanation": "Vooral in het nachtleven wordt de problematiek steeds groter, complexer en gevaarlijker. Door landelijke bezuinigingen op de politie komen steeds meer taken van de politie terecht bij onze boa's. Onze boa's moeten alle hulpmiddelen krijgen die nodig zijn om hun taken uit te kunnen voeren."
+        },
+        "113791": {
+          "position": "agree",
+          "explanation": "Wij ondersteunen starters die hun eerste stap op de woningmarkt willen zetten. Met een starterslening geven we perspectief op een eigen huis, zonder dat dit ten koste gaat van gezonde gemeentefinanciën."
+        },
+        "113795": {
+          "position": "agree",
+          "explanation": "Wij vinden dat iedereen naar vermogen kan bijdragen aan onze samenleving. Meedoen en ritme en daarmee sociale contacten onderhouden is belangrijk voor iedereen."
+        },
+        "113796": {
+          "position": "agree",
+          "explanation": "Wij zijn voorstander van het afbouwen van kwijtschelding. Wie echt niet kan betalen, ondersteunen we gericht via het armoedebudget, zodat werkende Enschedeërs niet onnodig worden belast."
+        },
+        "113797": {
+          "position": "disagree",
+          "explanation": "Op dit moment wordt al gewerkt met de inkomensgrens van 120% en daarbij worden goede resultaten bereikt."
+        },
+        "113799": {
+          "position": "neither",
+          "explanation": "Parkeerplaatsen voor elektrische auto's moeten via een wijkparticipatie traject worden vastgesteld."
+        },
+        "113800": {
+          "position": "disagree",
+          "explanation": "Betaald parkeren in wijken enkel en alleen op aanvraag van inwoners uit de wijk zelf. Hierbij dient er een grote meerderheid in de wijk te zijn."
+        },
+        "113801": {
+          "position": "disagree",
+          "explanation": "Het gaat om de kwaliteit van de zorg."
+        },
+        "113802": {
+          "position": "neither",
+          "explanation": "De voedselbank ondersteunt hierin voor (jonge) vrouwen in armoede. Als de voedselbank hulp nodig heeft, dan steunen wij dat."
+        },
+        "113803": {
+          "position": "agree",
+          "explanation": "OZB mag sowieso niet worden verhoogd met meer dan de inflatiecorrectie."
+        },
+        "113806": {
+          "position": "agree",
+          "explanation": "Wij zorgen voor voldoende ruimte voor de groei van bedrijven door zowel nieuwe terreinen te ontwikkelen als bestaande bedrijventerreinen intensiever en slimmer te benutten, zodat economische kansen niet verloren gaan door ‘nee-verkoop’."
+        },
+        "113807": {
+          "position": "disagree",
+          "explanation": "Bij de toewijzing van huur- en koopwoningen krijgen Enschedeërs met een aantoonbare sociale of economische binding voorrang. Statushouders krijgen daarbij niet automatisch voorrang op andere woningzoekenden."
+        },
+        "113808": {
+          "position": "disagree",
+          "explanation": "Gratis bestaat niet. Afval verwerken kost geld en moet ergens van worden betaald. Groen en plastic moeten gratis stromen blijven. Wij zijn voor een periodieke afvalophaalronde van grof vuil in de wijken."
+        },
+        "113809": {
+          "position": "neither",
+          "explanation": "Wij zijn altijd voorstander geweest van het behouden van het zwembad, maar open houden is niet realistisch gebleken en er was bij andere partijen ook geen politieke meerderheid. Ondertussen komt er een mooi alternatief in de vorm van een ontmoetingscentrum in Glanerbrug."
+        },
+        "113810": {
+          "position": "agree",
+          "explanation": "Zwemveiligheid is geen luxe, maar basisveiligheid. Toch groeit een groep kinderen op zonder voldoende zwemvaardigheid. Daarom voeren wij het schoolzwemmen weer in, zodat ieder kind leert zwemmen en veilig is in en rond het water."
+        },
+        "113812": {
+          "position": "disagree",
+          "explanation": "De huidige coffeeshops kunnen worden gedoogd bij goed gedrag; verdere uitbreiding wordt niet toegestaan. Gebruik en handel in drugs op straat, en de daarmee samenhangende overlast, worden niet getolereerd."
+        },
+        "113813": {
+          "position": "agree",
+          "explanation": "Om de woningnood in Enschede op te lossen en de stad verantwoord te laten groeien, moet er flink en veel worden gebouwd. Doorstroming op de woningmarkt en het tegengaan van scheef wonen zijn alleen mogelijk als er voldoende woningen beschikbaar zijn in het midden- en hogere segment."
+        },
+        "113816": {
+          "position": "agree",
+          "explanation": "Wij versterken wijkvoorzieningen, zodat zij beter aansluiten bij de behoeften van inwoners. Elke wijk en elk dorp beschikt over een goed toegankelijk wijkcentrum, waar maatschappelijke en bewonersinitiatieven tegen betaalbare tarieven kunnen plaatsvinden."
+        },
+        "113818": {
+          "position": "agree",
+          "explanation": "We willen de bereikbaarheid van de binnenstad versterken met nieuwe parkeervoorzieningen, waaronder een parkeergarage onder het busstation voor snelle toegang vanuit het noorden."
+        },
+        "113820": {
+          "position": "agree",
+          "explanation": "Door winkels ook op zondagochtend open te stellen, versterken we de lokale economie en maken wij de stad levendiger voor inwoners en bezoekers."
+        },
+        "113822": {
+          "position": "agree",
+          "explanation": "Met name daar waar overlast en grote verrommeling optreedt moet er worden geïnvesteerd in extra handhaving in de vorm van cameratoezicht en undercover boa's."
+        },
+        "113823": {
+          "position": "disagree",
+          "explanation": "Ons groene buitengebied is een kernkwaliteit van Enschede en moet beschermd blijven. Het is ons landschap, onze natuur en een belangrijk visitekaartje van de stad. Behoud van ons buitengebied staat voorop."
+        },
+        "113825": {
+          "position": "neither",
+          "explanation": "Als grootste stad aan de rand van Nederland en in het hart van Europa is een vliegveld van economisch belang. Daartoe is het van belang dat marktpartijen de exploitatie en de begroting overnemen."
+        }
+      }
+    },
+    {
+      "id": 113742,
+      "name": "GroenLinks-PvdA",
+      "fullName": "Groenlinks - Partij van de Arbeid",
+      "website": "https://groenlinkspvda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "113768": {
+          "position": "agree",
+          "explanation": "Het gemeentebestuur hoort een goede afspiegeling te zijn van de mensen die in onze gemeente wonen. Met evenveel mannen als vrouwen, dus. In zo'n bestuur zijn alle perspectieven vertegenwoordigd, om eerlijke beslissingen te nemen."
+        },
+        "113769": {
+          "position": "agree",
+          "explanation": "GroenLinks-PvdA Enschede kiest voor echte betrokkenheid van inwoners aan de voorkant. Door gesprek, participatie en zorgvuldige afweging maken we betere besluiten. Een raadplegend referendum zien wij als een goed middel om de participatie te bevorderen."
+        },
+        "113770": {
+          "position": "agree",
+          "explanation": "Als je mensen het vertrouwen geeft om samen iets op te bouwen in hun eigen buurt, dan ontstaan er prachtige dingen. Dit moet de gemeente niet tegenhouden maar juist aanmoedigen."
+        },
+        "113772": {
+          "position": "disagree",
+          "explanation": "Vanwege onder andere de openbare orde en veiligheid willen we dit gezamenlijk met de ondernemers en andere belanghebbenden regelen."
+        },
+        "113775": {
+          "position": "disagree",
+          "explanation": "Wij zijn voorstander van de Spreidingswet en Enschede moet haar bijdrage leveren aan de opvang van mensen die vluchten voor oorlog en geweld. We houden ons aan de afspraken die de gemeente met de landelijke overheid heeft gemaakt."
+        },
+        "113776": {
+          "position": "disagree",
+          "explanation": "Vanwege luchtvervuiling en gezondheidsrisico's, zoals hartproblemen en astma, ontmoedigen wij houtkachels. Wij willen hierbij de Stookwijzer gaan gebruiken."
+        },
+        "113778": {
+          "position": "agree",
+          "explanation": "De organisatie hoeft niet perse door de gemeente te worden gedaan. Nieuwe wetgeving beidt ruimte aan bewoners om vuurwerkverenigingen op te richten. Laat de gemeente hiermee samenwerken voor een mooie vuurwerkshow op oudejaarsavond, op een plek en manier dat overlast (voor dieren) minimaal is."
+        },
+        "113790": {
+          "position": "disagree",
+          "explanation": "Boa's hebben onlangs in Enschede de beschikking gekregen over handboeien. Het gebruik van wapenstok of pepperspray vinden wij bij de politie horen. Er mag geen onduidelijkheid bestaan over de rol van de boa en de politie. Meer politie in Enschede heeft de voorkeur boven meer middelen voor boa's."
+        },
+        "113791": {
+          "position": "agree",
+          "explanation": "Wonen is een mensenrecht. Toch groeit in Enschede het aantal mensen dat geen passende woning kan vinden. Voor starters is wonen onbetaalbaar geworden. Er moeten veel meer betaalbare koop- en huurwoningen komen. Een starterslening kan een onderdeel van de oplossing zijn."
+        },
+        "113795": {
+          "position": "neither",
+          "explanation": "Werk en meedoen zijn belangrijk, maar nooit onder dwang. Zinvol werk moet zinvol zijn voor de maatschappij, maar zeker ook voor de persoon in kwestie: begeleiding, scholing en passend werk biedt echte kansen en perspectief. Zinvol meedoen werkt alleen als het kan, vrijwillig en menswaardig is."
+        },
+        "113796": {
+          "position": "disagree",
+          "explanation": "Als het kwijtschelden van gemeentelijke belastingen stopt, komen de mensen met de laagste inkomens van onze gemeente in grote problemen. Zij kunnen dat geld gewoon niet missen. Wij vinden dat iedereen zijn hoofd boven water moet kunnen houden, daarom zijn we voor kwijtschelding."
+        },
+        "113797": {
+          "position": "agree",
+          "explanation": "Te veel mensen met een laag of middeninkomen vallen nu buiten de regelingen. Door de inkomensgrens te verhogen, zorgen we dat meer inwoners steun krijgen en voorkomen we dat mensen onnodig in armoede of schulden belanden."
+        },
+        "113799": {
+          "position": "agree",
+          "explanation": "Meer openbare laadplekken zijn nodig om elektrisch rijden voor iedereen bereikbaar te maken. Zo versnellen we de overstap naar schoon vervoer, verbeteren we de luchtkwaliteit en zorgen we dat ook mensen zonder eigen oprit kunnen verduurzamen."
+        },
+        "113800": {
+          "position": "neither",
+          "explanation": "Parkeervergunningen kunnen helpen bij hoge parkeerdruk, maar zijn geen doel op zich. We kijken per wijk wat nodig is en combineren dit met beter openbaar vervoer, meer ruimte voor fiets en groen, en minder auto’s in woonwijken."
+        },
+        "113801": {
+          "position": "agree",
+          "explanation": "Goede zorg sluit aan bij wie je bent. Mensen moeten kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of levensovertuiging, zolang de zorg toegankelijk, gelijkwaardig en van goede kwaliteit blijft voor iedereen."
+        },
+        "113802": {
+          "position": "agree",
+          "explanation": "Menstruatieproducten zijn geen luxe, maar een basisbehoefte. Door ze gratis beschikbaar te stellen, bestrijden we menstruatiearmoede en zorgen we dat iedereen volwaardig kan meedoen op school, werk en in de samenleving."
+        },
+        "113803": {
+          "position": "disagree",
+          "explanation": "We willen een eerlijke verdeling van lasten, waarbij de sterkste schouders de zwaarste lasten dragen. De OZB is nodig om te investeren in wonen, zorg, armoedebestrijding en duurzaamheid, juist voor mensen die dat het hardst nodig hebben."
+        },
+        "113806": {
+          "position": "disagree",
+          "explanation": "We kiezen voor kwaliteit boven kwantiteit. Eerst benutten en verduurzamen we bestaande bedrijventerreinen (bijvoorbeeld het havengebied) en combineren we wonen, werken en groen. Zo beschermen we het buitengebied en zorgen we voor een duurzame economie in Enschede."
+        },
+        "113807": {
+          "position": "neither",
+          "explanation": "Iedereen heeft recht op een eerlijke kans op een woning. We zorgen wel voor snelle, humane huisvesting van statushouders, verspreid over de stad, zonder andere woningzoekenden te verdringen."
+        },
+        "113808": {
+          "position": "agree",
+          "explanation": "Vuilnis op straat is vervelend, onveilig en ongezond. Het is veel beter als mensen hun afval wegbrengen zodat de gemeente het goed kan verwerken. Met uitzondering van restafval vinden we dat de milieustraat voor particulieren gratis moet zijn."
+        },
+        "113809": {
+          "position": "disagree",
+          "explanation": "Zwemmen is belangrijk, maar een nieuw zwembad vraagt heel veel geld en ruimte. We kijken naar goed onderhoud, bereikbaarheid en spreiding van bestaande zwembaden. Dat geld investeren we liever in veilige fietsroutes, openbaar vervoer, voorzieningen waar inwoners van Glanerbrug echt iets aan hebben."
+        },
+        "113810": {
+          "position": "agree",
+          "explanation": "Nederland is een waterland en elk kind hoort te leren zwemmen. Ook kinderen wiens ouders geen eigen zwemles kunnen betalen. Helaas is dit nog steeds niet eerlijk geregeld. De beste oplossing: schoolzwemmen voor ieder kind, met steun van de gemeente."
+        },
+        "113812": {
+          "position": "agree",
+          "explanation": "Een goed gereguleerd coffeeshopbeleid hoort bij een veilige en leefbare stad. Door nieuwe coffeeshops onder duidelijke voorwaarden toe te staan, spreiden we overlast, vergroten we controle en verbeteren we de volksgezondheid."
+        },
+        "113813": {
+          "position": "disagree",
+          "explanation": "Juist in Enschede is de behoefte aan betaalbare woningen groot. We willen minimaal 40% sociale huur bij nieuwbouw, zodat starters, jongeren en mensen met een lager inkomen ook een eerlijke kans houden op een passende woning."
+        },
+        "113816": {
+          "position": "agree",
+          "explanation": "Buurtcentra zijn belangrijk voor ontmoeting, welzijn en samenhang. In elke wijk moet een toegankelijke plek zijn waar bewoners elkaar kunnen ontmoeten, activiteiten kunnen organiseren en ondersteuning dichtbij is."
+        },
+        "113818": {
+          "position": "disagree",
+          "explanation": "We willen minder auto’s in het centrum en meer ruimte voor voetgangers, fietsers, groen en verblijf. Parkeren vangen we op met P+R aan de rand van de stad en goed openbaar vervoer."
+        },
+        "113820": {
+          "position": "agree",
+          "explanation": "Wij zijn voor vrije / flexibele openingstijden. Als winkeliers én klanten de winkel open willen doen, dan kan dat. Dit maakt het voor alleenstaanden die doordeweeks werken ook een stuk makkelijker om belangrijke boodschappen te doen."
+        },
+        "113822": {
+          "position": "neither",
+          "explanation": "Hier zijn we terughoudend over. Zwerfafval moet worden aangepakt, maar cameratoezicht raakt privacy. We kiezen eerst voor betere inrichting, voorlichting en handhaving. Alleen als het echt nodig is en zorgvuldig kan cameratoezicht een laatste middel zijn."
+        },
+        "113823": {
+          "position": "disagree",
+          "explanation": "Natuurgebieden zijn waardevol en kwetsbaar en moeten beschermd worden. De woningbouwopgave pakken we aan binnen de bestaande stad, door hergebruik, verdichting en slimme inpassing, niet door natuur op te offeren."
+        },
+        "113825": {
+          "position": "agree",
+          "explanation": "Twente Airport kost veel publiek geld en levert te weinig op. Dat geld investeren we liever in wonen, openbaar vervoer, duurzaamheid en voorzieningen waar inwoners van Enschede echt iets aan hebben."
+        }
+      }
+    },
+    {
+      "id": 113748,
+      "name": "VVD",
+      "fullName": "Volkspartij voor Vrijheid en Democratie",
+      "website": "https://www.vvd.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "113768": {
+          "position": "disagree",
+          "explanation": "De VVD vindt dat burgemeester en wethouders worden benoemd op basis van kwaliteit, niet op basis van een vastgelegd quotum. Een verplicht gelijke verdeling tussen mannen en vrouwen kan ertoe leiden dat niet de beste kandidaat wordt gekozen."
+        },
+        "113769": {
+          "position": "disagree",
+          "explanation": "Referenda geven vaak een versimpeld ja/nee-antwoord op ingewikkelde vraagstukken en kunnen verwachtingen wekken die niet uitvoerbaar zijn. Inwoners betrekken we liever via gesprekken, inspraak en participatie, zodat ideeën en zorgen goed kunnen worden meegenomen in het besluit."
+        },
+        "113770": {
+          "position": "agree",
+          "explanation": "De VVD vindt het positief als inwoners meer ruimte krijgen om zelf verantwoordelijkheid te nemen voor hun leefomgeving. Wanneer inwoners of verenigingen het beheer van bijvoorbeeld een sporthal of een plantsoen willen overnemen, kan dat zorgen voor meer betrokkenheid en een efficiënter beheer."
+        },
+        "113772": {
+          "position": "agree",
+          "explanation": "De VVD vindt dat ondernemers zelf het beste kunnen bepalen wanneer zij open zijn. Cafés en restaurants weten wat werkt voor hun gasten en hun personeel."
+        },
+        "113775": {
+          "position": "neither",
+          "explanation": "Op dit moment hebben we met de minister afspraken gemaakt over de opvang van maximaal 550 asielzoekers in Enschede, dat is minder dan volgens de spreidingswet zou moeten. Als de minister de afspraak verbreekt willen we de asielopvang zo snel mogelijk sluiten."
+        },
+        "113776": {
+          "position": "agree",
+          "explanation": "Open haarden en houtkachels maken voor veel mensen onderdeel uit van hun wooncomfort. Een algemeen verbod gaat te ver en is moeilijk handhaafbaar. We zetten liever in op verantwoord gebruik en het beperken van overlast, in plaats van het opleggen van nieuwe verboden."
+        },
+        "113778": {
+          "position": "agree",
+          "explanation": "De VVD vindt dat een gemeentelijke vuurwerkshow op oudejaarsavond kan bijdragen aan een feestelijke en veilige jaarwisseling. Een centrale vuurwerkshow vermindert overlast en kan het gebruik van illegaal en gevaarlijk vuurwerk ontmoedigen."
+        },
+        "113790": {
+          "position": "agree",
+          "explanation": "Boa's krijgen steeds vaker te maken met agressie. Een wapenstok draagt bij aan hun eigen veiligheid en gezag op straat."
+        },
+        "113791": {
+          "position": "neither",
+          "explanation": "Starters hebben moeite om een woning te kopen, maar een starterslening werkt prijsopdrijvend. Extra leenruimte vergroot de vraag, terwijl het aanbod beperkt blijft, waardoor huizen juist duurder worden. Wij zetten vol in op het bouwen van huizen voor alle doelgroepen."
+        },
+        "113795": {
+          "position": "agree",
+          "explanation": "Wie een bijstandsuitkering ontvangt en daartoe in staat is, kan via maatschappelijk zinvol werk een bijdrage leveren, werkervaring opdoen en een dagritme opbouwen. Dat helpt mensen om weer stappen richting betaald werk te zetten en vergroot hun zelfstandigheid."
+        },
+        "113796": {
+          "position": "agree",
+          "explanation": "Het volledig kwijtschelden van gemeentelijke belastingen haalt voor sommige mensen de prikkel weg om (weer) stappen te zetten richting werk en zelfstandigheid. Wij kiezen liever voor maatwerk en ondersteuning die activerend werkt."
+        },
+        "113797": {
+          "position": "disagree",
+          "explanation": "Het moet gaan lonen om meer te werken. Door de inkomensgrens op te schuiven, wordt het minder aantrekkelijk om (meer) te werken."
+        },
+        "113799": {
+          "position": "disagree",
+          "explanation": "De parkeerdruk in Enschede is hoog. Wij vinden dat oplaadplekken voor elektrische auto's niet ten koste mogen gaan van reguliere parkeerplaatsen."
+        },
+        "113800": {
+          "position": "disagree",
+          "explanation": "De VVD is tegen het invoeren van parkeervergunningen in meer wijken. Parkeervergunningen leggen extra regels en kosten op voor inwoners en lossen parkeerproblemen niet altijd op."
+        },
+        "113801": {
+          "position": "disagree",
+          "explanation": "De VVD vindt dat goede en toegankelijke zorg voor iedereen voorop moet staan. In de praktijk is het niet altijd mogelijk om zorg volledig af te stemmen op iemands geloof, cultuur of levensovertuiging, zeker gezien de huidige personeelstekorten."
+        },
+        "113802": {
+          "position": "disagree",
+          "explanation": "Voor mensen die het financieel moeilijk hebben bestaan al regelingen en ondersteuning via armoedebeleid. Het gratis verstrekken van tampons en maandverband voor iedereen is geen gemeentelijke kerntaak."
+        },
+        "113803": {
+          "position": "agree",
+          "explanation": "De ozb is voor veel inwoners en ondernemers een vaste en voelbare last. Door de ozb te verlagen, houden mensen meer geld over en versterken we het ondernemersklimaat. De gemeente moet kritisch kijken naar haar uitgaven in plaats van lasten te verhogen."
+        },
+        "113806": {
+          "position": "agree",
+          "explanation": "De VVD vindt dat Enschede ruimte moet bieden aan ondernemers die willen groeien en zich willen vestigen. Op dit moment vertrekken bedrijven uit Enschede omdat er niet genoeg ruimte is. Meer ruimte voor bedrijventerreinen is nodig om werkgelegenheid te behouden en nieuwe banen aan te trekken."
+        },
+        "113807": {
+          "position": "disagree",
+          "explanation": "Voorrang voor één specifieke groep vergroot het gevoel van ongelijkheid en doet geen recht aan inwoners die vaak al jaren wachten op een woning. We zetten vooral in op het bouwen van meer woningen, zodat de druk op de sociale huurmarkt structureel wordt verlicht."
+        },
+        "113808": {
+          "position": "agree",
+          "explanation": "De VVD is voor het gratis inleveren van afval bij de milieustraat. Door het inwoners makkelijk kosteloos te maken om afval netjes weg te brengen, verkleinen we de kans op illegale dumpingen en bijplaatsingen. Dat zorgt voor een schonere stad."
+        },
+        "113809": {
+          "position": "disagree",
+          "explanation": "Op dit moment bouwt de gemeente een nieuw zwembad op de plek van het Aquadrome, dat straks toegankelijk is voor alle Enschedeërs. De bouw en het onderhoud van een extra zwembad in Glanerbrug brengen te hoge kosten met zich mee."
+        },
+        "113810": {
+          "position": "disagree",
+          "explanation": "De VVD vindt het belangrijk dat kinderen goed leren zwemmen, maar ziet schoolzwemmen niet als een taak van de gemeente. Ouders zijn in eerste instantie verantwoordelijk voor zwemlessen en er bestaan al regelingen voor gezinnen die dat financieel moeilijk vinden."
+        },
+        "113812": {
+          "position": "disagree",
+          "explanation": "De VVD is tegen het toestaan van nieuwe coffeeshops. Extra coffeeshops vergroten het risico op overlas en criminaliteit. Door de ligging van Enschede vlak bij Duitsland willen we bovendien drugstoerisme voorkomen. De huidige coffeeshops zijn voldoende."
+        },
+        "113813": {
+          "position": "agree",
+          "explanation": "De VVD vindt het belangrijk dat de woningvoorraad in Enschede in balans is. Met nu al 36% sociale huur is dat aandeel hoog. We willen meer ruimte voor middenhuur en koopwoningen. Dat bevordert de doorstroming en zorgt voor een gemengde stad waar verschillende inkomensgroepen prettig kunnen wonen."
+        },
+        "113816": {
+          "position": "agree",
+          "explanation": "Ontmoeting in wijken is belangrijk. De behoefte verschilt per wijk en soms zijn bestaande voorzieningen al voldoende of is samenwerking met andere locaties logischer. Daarom gaan we hier pragmatisch mee om."
+        },
+        "113818": {
+          "position": "agree",
+          "explanation": "Extra parkeerplaatsen helpen om de bereikbaarheid te verbeteren en voorkomen zoekverkeer en overlast in omliggende wijken. Meer parkeerruimte maakt ook meer bezoekers mogelijk, wat belangrijk is voor een levendige binnenstad."
+        },
+        "113820": {
+          "position": "agree",
+          "explanation": "Ondernemers moeten zelf kunnen bepalen wanneer zij open zijn. Meer vrijheid vergroot de aantrekkelijkheid van de binnenstad en past bij een moderne stad. Uiteraard blijft deelname vrijwillig: niemand wordt verplicht om open te gaan."
+        },
+        "113822": {
+          "position": "agree",
+          "explanation": "Bij ondergrondse vuilcontainers wordt vaak afval bijgeplaatst en dat kan zo niet langer. Cameratoezicht helpt om overtreders aan te pakken en voorkomt bijplaatsingen. Overtreders krijgen wat ons betreft boetes van 1000 euro, net zoals in Singapore."
+        },
+        "113823": {
+          "position": "agree",
+          "explanation": "De woningnood is groot en vraagt om realistische keuzes. Door natuur te compenseren en kwaliteitseisen te stellen, kunnen wonen en natuur hand in hand gaan."
+        },
+        "113825": {
+          "position": "disagree",
+          "explanation": "De luchthaven is van strategisch belang voor de regio, onder andere voor innovatie en werkgelegenheid. Investeringen moeten wel kritisch worden afgewogen: het moet ons echt wat opleveren."
+        }
+      }
+    },
+    {
+      "id": 113740,
+      "name": "D66",
+      "fullName": "D66",
+      "website": "https://d66.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "113768": {
+          "position": "neither",
+          "explanation": "D66 vindt diversiteit in het stadsbestuur erg belangrijk. Er moet aandacht zijn voor een goede balans tussen mensen met verschillende achtergronden, niet alleen op basis van geslacht."
+        },
+        "113769": {
+          "position": "agree",
+          "explanation": "D66 vindt inspraak van inwoners erg belangrijk. Een referendum kan hiervoor goed werken. Nog belangrijker is samenwerken met inwoners voordat de plannen worden gemaakt. Dan kunnen inwoners echt meedenken over de plannen van de gemeente."
+        },
+        "113770": {
+          "position": "agree",
+          "explanation": "D66 heeft vertrouwen in de gezamenlijke inzet van inwoners. Als inwoners dit beheer overnemen moeten er goede afspraken worden gemaakt, zodat het niveau van de voorzieningen op peil blijft."
+        },
+        "113772": {
+          "position": "agree",
+          "explanation": "Laat de ondernemer ondernemen. D66 wil dat ondernemers kunnen kiezen wanneer ze open willen zijn door hier samen afspraken over te maken."
+        },
+        "113775": {
+          "position": "disagree",
+          "explanation": "D66 wil langjarige afspraken over het asielzoekerscentrum in Enschede. Geen onzekerheden en niet elk jaar opnieuw onderhandelen over noodzakelijke hulp aan mensen die vluchten voor oorlog en geweld. Uitgangspunten zijn onze ‘fair share’, een goede afspiegeling en duidelijke afspraken met het COA."
+        },
+        "113776": {
+          "position": "disagree",
+          "explanation": "Houtstook is ongezond voor inwoners. Daarom is D66 voor een verbod van rookkanalen bij nieuwbouw. Daarnaast willen we dat Enschede zich aansluit bij de Stookwijzer."
+        },
+        "113778": {
+          "position": "agree",
+          "explanation": "D66 is voorstander van een algeheel vuurwerkverbod. In plaats daarvan moet de gemeente centrale vuurwerkshows organiseren."
+        },
+        "113790": {
+          "position": "agree",
+          "explanation": "Voor D66 begint veiligheid bij het voorkomen en de-escaleren van onveilige situaties en handhaven waar dat moet. Een wapenstok helpt boa's om dit veiliger en effectiever uit te voeren."
+        },
+        "113791": {
+          "position": "agree",
+          "explanation": "De prijs van de woningcrisis landt vooral bij de starters op de woningmarkt. Daarom wil D66 investeren in deze groep, vooral door het realiseren van 1000 tijdelijke woningen, maar ook door specifieke ondersteuning."
+        },
+        "113795": {
+          "position": "disagree",
+          "explanation": "Een bijstandsuitkering is een laatste vangnet."
+        },
+        "113796": {
+          "position": "disagree",
+          "explanation": "De gemeente moet mensen in financiële problemen helpen. Dat zorgt ervoor dat ze sneller een positieve bijdrage aan de maatschappij kunnen leveren. Het kwijtschelden van gemeentelijke belastingen helpt daarbij."
+        },
+        "113797": {
+          "position": "neither",
+          "explanation": "Het is vooral belangrijk dat mensen hulp kunnen krijgen om te voorkomen dat ze in de schulden komen."
+        },
+        "113799": {
+          "position": "agree",
+          "explanation": "D66 kiest voor duurzaam en schoon vervoer. Elektrische auto's dragen bij aan de duurzame toekomst en daarom wil D66 dit graag ondersteunen."
+        },
+        "113800": {
+          "position": "disagree",
+          "explanation": "Recentelijk is het gebied met parkeervergunning uitgebreid tot het gehele binnensingel gebied. Wanneer er een hoge parkeerdruk ontstaat in een wijk zet D66 liever in op het verbeteren van alternatief vervoer."
+        },
+        "113801": {
+          "position": "disagree",
+          "explanation": "Diversiteit is belangrijk in alle beroepsgroepen, dus ook bij hulpverleners. D66 heeft vertrouwen in de professionaliteit van erkende hulpverleners, ongeacht hun culturele of religieuze achtergrond."
+        },
+        "113802": {
+          "position": "agree",
+          "explanation": "D66 is voor het tegengaan van menstruatiearmoede. Het aanbieden van gratis menstruatieproducten in gemeentelijke gebouwen helpt hierbij."
+        },
+        "113803": {
+          "position": "disagree",
+          "explanation": "Belastingen heffen is geen hobby voor D66, maar verlagen van de OZB betekent ook: bezuiningen op voorzieningen in de stad. Dat willen we niet."
+        },
+        "113806": {
+          "position": "agree",
+          "explanation": "Momenteel heeft Enschede een tekort aan ruimte op bedrijven. Voor toekomstige werkgelegenheid is het van belang dat we die ruimte wel gaan aanbieden."
+        },
+        "113807": {
+          "position": "neither",
+          "explanation": "Voorrang geven aan vluchtelingen met een verblijfsvergunning is niet nodig als gemeenten, ook Enschede, zich houden aan de landelijke afspraken voor het huisvesten van statushouders."
+        },
+        "113808": {
+          "position": "disagree",
+          "explanation": "D66 wil toegankelijkheid van de milieustraat vergroten door openingstijden te verruimen. De eerste 75kg wil D66 gratis laten blijven."
+        },
+        "113809": {
+          "position": "neither",
+          "explanation": "D66 is voorstander van zwemwater in alle stadsdelen. Dit kan door de gemeente, maar wat D66 betreft ook door andere partijen gerealiseerd worden."
+        },
+        "113810": {
+          "position": "neither",
+          "explanation": "Het is van levensbelang dat kinderen goed leren zwemmen. Maar de beste manier daarvoor is wat D66 betreft het volgen van regulier zwemles. De gemeente moet ouders die dat niet kunnen betalen helpen, zodat alle kinderen zwemles kunnen krijgen."
+        },
+        "113812": {
+          "position": "neither",
+          "explanation": "D66 is voorstander van legaliseren van softdrugs. D66 heeft zich ook ingezet om Enschede mee te laten doen aan de landelijke pilot. We zien echter ook dat coffeeshops veel overlast gaven. Momenteel is daarin een goede balans gevonden."
+        },
+        "113813": {
+          "position": "agree",
+          "explanation": "Het is belangrijk dat we veel nieuwe woningen bouwen, zowel goedkopere als duurdere. Maar als we naar de demografische ontwikkelingen kijken, is het vooral belangrijk dat we focussen op de doorstroming van ouderen."
+        },
+        "113816": {
+          "position": "agree",
+          "explanation": "Het is belangrijk dat mensen elkaar kunnen ontmoeten. Dit moet in elke wijk kunnen. Dit hoeft niet altijd in een eigen gebouw, maar kan bijvoorbeeld ook een sportkantine zijn die doordeweeks nauwelijks gebruikt wordt."
+        },
+        "113818": {
+          "position": "disagree",
+          "explanation": "D66 kiest voor parkeren aan de rand van de stad in plaats van in het centrum. Waar dat nog niet het geval is, wil D66 parkeerhubs met OV- of deelfietsverbinding naar binnenstad."
+        },
+        "113820": {
+          "position": "agree",
+          "explanation": "Laat de ondernemer ondernemen. D66 wil dat ondernemers kunnen kiezen wanneer ze open willen zijn door verruimde openingstijden."
+        },
+        "113822": {
+          "position": "agree",
+          "explanation": "D66 is alleen voorstander van camera’s als het gebruik daarvan proportioneel en effectief is. Wij hechten namelijk ook grote waarde aan de privacy van onze inwoners. Inzet bij afvalcontainers vinden wij kansrijk, maar wij pleiten wel voor doorlopende evaluaties op de effectiviteit van deze maatregel"
+        },
+        "113823": {
+          "position": "disagree",
+          "explanation": "D66 wil dat nieuwe woningen vooral binnen de stad worden gebouwd. Zo behouden we ons mooie buitengebied."
+        },
+        "113825": {
+          "position": "neither",
+          "explanation": "Het vliegveld is een bijzondere plek: een historisch luchthaventerrein dat is uitgegroeid tot een broedplaats voor innovatie, techniek en veiligheid. D66 ziet de toekomst van Twente Airport niet in méér vluchten, maar in méér waarde voor Twente."
+        }
+      }
+    },
+    {
+      "id": 113738,
+      "name": "CDA",
+      "fullName": "Christen-Democratisch Appèl",
+      "website": "https://www.cda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "113768": {
+          "position": "disagree",
+          "explanation": "Het CDA kiest voor de best beschikbare bestuurders op basis van kwaliteit, dossierkennis en draagvlak. Diversiteit is belangrijk, maar geen harde rekenregel."
+        },
+        "113769": {
+          "position": "disagree",
+          "explanation": "Het CDA wil luisteren vóór besluiten, met gebieds- en wijkgericht werken. Een referendum is vaak te zwart-wit voor complexe vraagstukken."
+        },
+        "113770": {
+          "position": "agree",
+          "explanation": "Dit past bij gespreide verantwoordelijkheid: inwoners en verenigingen die het beter kunnen, krijgen ruimte. De gemeente faciliteert daar waar het kan."
+        },
+        "113772": {
+          "position": "disagree",
+          "explanation": "Het CDA kiest voor vastgestelde openingstijden om de veiligheid rondom het uitgaan te waarborgen. Gecoördineerde sluitingstijden maken toezicht, handhaving en inzet van politie en boa’s effectiever en voorkomen piekdrukte, onveilige situaties en overlast in de binnenstad."
+        },
+        "113775": {
+          "position": "disagree",
+          "explanation": "Enschede neemt verantwoordelijkheid voor asielopvang, mits deze beheersbaar en veilig is en gericht op snelle integratie. Met het COA zijn duidelijke afspraken gemaakt over capaciteit, veiligheid en de duur van de opvang."
+        },
+        "113776": {
+          "position": "agree",
+          "explanation": "Geen totaalverbod; wel optreden bij aantoonbare overlast en inzet op schonere alternatieven."
+        },
+        "113778": {
+          "position": "agree",
+          "explanation": "Met landelijke ontwikkelingen richting een consumentenverbod kan een centrale vuurwerkshow een veiliger en beter beheersbaar alternatief zijn. Daarnaast kan ook worden gekozen voor moderne varianten, zoals een droneshow of lasershow."
+        },
+        "113790": {
+          "position": "agree",
+          "explanation": "Het CDA vindt dat handhavers beschikken over passende middelen om hun werk veilig uit te voeren."
+        },
+        "113791": {
+          "position": "agree",
+          "explanation": "Startersleningen verlagen drempels op de woningmarkt voor jongeren en jonge gezinnen."
+        },
+        "113795": {
+          "position": "agree",
+          "explanation": "Het CDA vindt het belangrijk dat mensen met een bijstandsuitkering naar vermogen meedoen in de samenleving. Maatschappelijk zinvol werk kan bijdragen aan structuur, eigenwaarde en betrokkenheid, mits er passende begeleiding is en rekening wordt gehouden met persoonlijke omstandigheden."
+        },
+        "113796": {
+          "position": "disagree",
+          "explanation": "Het CDA is van mening dat kwijtschelding van gemeentelijke belastingen noodzakelijk blijft om te voorkomen dat inwoners met een (te) laag inkomen financieel verder in de problemen komen. Het waarborgen van bestaanszekerheid en het voorkomen van schulden staat hierbij voorop."
+        },
+        "113797": {
+          "position": "agree",
+          "explanation": "Het CDA ziet dat ook inwoners met een inkomen net boven de huidige grenzen financieel onder druk kunnen staan. Door de inkomensgrens te verhogen kan de gemeente stille armoede beter signaleren en voorkomen. Het waarborgen van bestaanszekerheid en het voorkomen van schulden staat hierbij voorop."
+        },
+        "113799": {
+          "position": "agree",
+          "explanation": "Het CDA vindt uitbreiding van de laadinfrastructuur noodzakelijk om de overgang naar duurzame mobiliteit mogelijk te maken. Daarbij is een evenwichtige spreiding in wijken en dorpen belangrijk, met oog voor de beschikbare openbare ruimte."
+        },
+        "113800": {
+          "position": "disagree",
+          "explanation": "Parkeerproblemen vragen om maatwerk en een integrale afweging, waarbij ook bereikbaarheid, voorzieningen en de positie van bewoners en bezoekers worden meegenomen. Een generieke uitbreiding van vergunninggebieden is daarbij niet wenselijk."
+        },
+        "113801": {
+          "position": "agree",
+          "explanation": "Het CDA hecht aan persoonsgerichte zorg en vindt het belangrijk dat mensen zich gezien en begrepen voelen. Keuzevrijheid draagt bij aan vertrouwen en kwaliteit van zorg, binnen de geldende wettelijke en kwalitatieve kaders."
+        },
+        "113802": {
+          "position": "agree",
+          "explanation": "Het CDA ziet dit als onderdeel van een waardig en preventief armoedebeleid. Toegang tot basisproducten voorkomt uitsluiting en ondersteunt gelijke kansen, met name voor jongeren en kwetsbare groepen."
+        },
+        "113803": {
+          "position": "agree",
+          "explanation": "Het CDA streeft naar terughoudendheid in lokale lasten. Verlaging van de ozb is wenselijk waar dit financieel verantwoord kan, met behoud van een solide gemeentelijke begroting."
+        },
+        "113806": {
+          "position": "disagree",
+          "explanation": "Het CDA kiest er eerst voor om bestaande bedrijventerreinen beter te benutten, te herstructureren en te verduurzamen voordat uitbreiding in ruimte wordt overwogen."
+        },
+        "113807": {
+          "position": "disagree",
+          "explanation": "Het CDA hecht aan gelijke en uitlegbare regels voor woningzoekenden. Voorrang op basis van status ondermijnt het draagvlak voor het woningbeleid."
+        },
+        "113808": {
+          "position": "disagree",
+          "explanation": "Het CDA vindt dat het volledig gratis maken van milieustraten geen vanzelfsprekend middel is. Afvalbeleid vraagt om een zorgvuldige balans tussen betaalbaarheid, eigen verantwoordelijkheid en doelmatig gebruik van voorzieningen. Het voorkomen van afvaldumpingen vraagt vooral om gerichte handhaving."
+        },
+        "113809": {
+          "position": "disagree",
+          "explanation": "Het CDA begrijpt de wens in Glanerbrug voor bereikbare zwemvoorzieningen. Tegelijk is recent in Enschede geïnvesteerd in nieuwe zwemaccommodaties op het Diekman. Basisvoorzieningen moeten altijd evenwichtig over stad en dorp zijn verspreid."
+        },
+        "113810": {
+          "position": "disagree",
+          "explanation": "Het CDA ziet het belang van zwemvaardigheid, maar vindt dat gemeentelijke middelen vooral gericht moeten worden ingezet op het ondersteunen van gezinnen in armoede. Via gerichte ondersteuning kunnen ouders zelf keuzes maken voor zwemles, passend bij hun situatie."
+        },
+        "113812": {
+          "position": "disagree",
+          "explanation": "Het CDA ziet geen noodzaak voor het toestaan van uitbreiding van het huidige aantal coffeeshops en het coffeeshopbeleid. De focus ligt op beheersbaarheid, veiligheid en het voorkomen van extra overlast."
+        },
+        "113813": {
+          "position": "agree",
+          "explanation": "Het CDA wil meer balans in het woningaanbod, zodat ook starters, gezinnen en doorstromers perspectief hebben op een passende woning."
+        },
+        "113816": {
+          "position": "agree",
+          "explanation": "Het CDA ziet buurtcentra als belangrijke plekken voor ontmoeting, ondersteuning en vrijwilligerswerk. Wel is maatwerk nodig per wijk, passend bij behoefte en schaal."
+        },
+        "113818": {
+          "position": "disagree",
+          "explanation": "Het CDA vindt dat de beperkte ruimte in het centrum zorgvuldig moet worden verdeeld. Extra parkeerplaatsen gaan vaak ten koste van wonen, groen en verblijfskwaliteit. We streven naar een brede mix van bereikbaarheid en parkeervoorzieningen."
+        },
+        "113820": {
+          "position": "disagree",
+          "explanation": "Het CDA hecht aan rustmomenten en keuzevrijheid voor ondernemers. Winkeliers moeten niet door concurrentiedruk worden gedwongen om steeds meer openingsuren te maken."
+        },
+        "113822": {
+          "position": "agree",
+          "explanation": "Cameratoezicht kan een effectief hulpmiddel zijn bij het terugdringen van bijplaatsingen en het verbeteren van handhaving, mits zorgvuldig en gericht ingezet."
+        },
+        "113823": {
+          "position": "disagree",
+          "explanation": "Het CDA stelt bescherming van natuur en landschap voorop en kiest bij woningbouw primair voor binnenstedelijke oplossingen en herontwikkelingen."
+        },
+        "113825": {
+          "position": "disagree",
+          "explanation": "Het CDA vindt dat Twente Airport een rol kan blijven spelen in de economische ontwikkeling en bereikbaarheid van de regio. Investeringen moeten wel zorgvuldig, transparant en begrensd zijn, met duidelijke afspraken over risico’s, maatschappelijke meerwaarde en financiële verantwoordelijkheid."
+        }
+      }
+    },
+    {
+      "id": 113739,
+      "name": "ChristenUnie",
+      "fullName": "ChristenUnie",
+      "website": "https://www.christenunie.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "113768": {
+          "position": "neither",
+          "explanation": "De ChristenUnie Enschede vindt het belangrijk dat er bij een college gezocht wordt naar een capabel en divers college. Echter harde eisen aan diversiteit kunnen ook ongewenste effecten hebben."
+        },
+        "113769": {
+          "position": "disagree",
+          "explanation": "Referenda zijn geen oplossing bij complexe politieke vraagstukken, want ze scheppen vaak verkeerde verwachtingen. We zijn blij dat het raadgevend referendum de afgelopen periode is teruggetrokken. De gemeenteraad blijft eindverantwoordelijk in politieke besluitvorming."
+        },
+        "113770": {
+          "position": "agree",
+          "explanation": "De ChristenUnie ondersteunt initiatieven waarbij de samenleving zelf verantwoordelijkheid neemt. Echter de gemeente blijft uiteindelijk eindverantwoordelijk, mochten er problemen ontstaan."
+        },
+        "113772": {
+          "position": "disagree",
+          "explanation": "De ChristenUnie vindt dat de gemeente hier regie op moet houden, om bijvoorbeeld overlast tegen te kunnen gaan."
+        },
+        "113775": {
+          "position": "disagree",
+          "explanation": "De ChristenUnie vindt dat we als Enschede onze verantwoordelijkheid moeten blijven nemen in de landelijke opgave voor de opvang van vluchtelingen."
+        },
+        "113776": {
+          "position": "agree",
+          "explanation": "De ChristenUnie is voor vrijheid op dit gebied omdat soms ook uit financiële krapte voor deze manier van verwarming gekozen wordt. Bovendien is een verbod niet te handhaven."
+        },
+        "113778": {
+          "position": "agree",
+          "explanation": "Bij een landelijk vuurwerkverbod vindt de ChristenUnie het logisch om een gemeentelijk alternatief te organiseren. Dit betaalt zich waarschijnlijk uit met minder overlast door illegaal vuurwerk."
+        },
+        "113790": {
+          "position": "agree",
+          "explanation": "Het geweld waar boa's soms mee te maken krijgen rechtvaardigt dat ze een wapenstok krijgen om zich te kunnen verdedigen."
+        },
+        "113791": {
+          "position": "agree",
+          "explanation": "De ChristenUnie is voor het ondersteunen van mensen die voor het eerst een huis willen kopen en daar tegen hoge drempels aanlopen. Een starterslening is een mooi middel om deze groep te ondersteunen."
+        },
+        "113795": {
+          "position": "neither",
+          "explanation": "We zijn geen voorstander van gedwongen vrijwilligerswerk bij een bijstandsuitkering. Het kan echter wel zo zijn dat dit een hulpmiddel kan zijn om weer in een werkritme te komen en beter klaar te zijn voor de arbeidsmarkt. Maatwerk is hierbij belangrijk."
+        },
+        "113796": {
+          "position": "disagree",
+          "explanation": "Dit is voor veel inwoners met een laag inkomen heel belangrijk. Daarom moet de gemeente dit blijven doen."
+        },
+        "113797": {
+          "position": "agree",
+          "explanation": "De ChristenUnie is voor ruime armoedebestrijding. Nu vallen veel mensen nog tussen wal en schip. We moeten kijken hoe we dit binnen de beschikbare financiële ruimte kunnen opvangen."
+        },
+        "113799": {
+          "position": "neither",
+          "explanation": "De gemeente moet hier inspelen op de behoefte in de wijk. Het is belangrijk dat er voldoende oplaadplekken zijn, maar als er in wijken nauwelijks elektrische auto's zijn is het opofferen van schaarse parkeerplaatsen onlogisch."
+        },
+        "113800": {
+          "position": "disagree",
+          "explanation": "We zijn voorstander van het huidige beleid waarbij de buurt zelf kan aangeven of er behoefte is aan betaald parkeren en parkeervergunningen."
+        },
+        "113801": {
+          "position": "agree",
+          "explanation": "Identiteitsgebonden zorg moeten we in de gemeente Enschede toegankelijk houden. Als zorg niet via een Zorg-in-natura-contract geleverd kan worden, dan kan een persoonsgebonden budget een instrument zijn om toch passende zorg onder regie van de zorgvrager aan te vragen."
+        },
+        "113802": {
+          "position": "neither",
+          "explanation": "Niet in zijn algemeenheid. Echter dit moet zeker toegankelijk zijn voor minima, via bijvoorbeeld de voedselbank. We zijn blij met de menstruatie uitgiftepunten die op initiatief van onze inwoners in Enschede worden geopend."
+        },
+        "113803": {
+          "position": "disagree",
+          "explanation": "De gemeente heeft helaas niet de financiële positie om deze keuze te maken. Om deze keuze te kunnen maken zouden we extreem moeten bezuinigen. Dat vindt de ChristenUnie niet wenselijk."
+        },
+        "113806": {
+          "position": "agree",
+          "explanation": "Er is in Enschede een tekort aan bedrijventerreinen. De ChristenUnie vindt echter wel dat er zoveel mogelijk moet worden gekeken hoe we de huidige terreinen zo optimaal mogelijk kunnen benutten."
+        },
+        "113807": {
+          "position": "neither",
+          "explanation": "We moeten statushouders blijven huisvesten zoals onze wettelijke taak is."
+        },
+        "113808": {
+          "position": "disagree",
+          "explanation": "Dit kost veel geld wat via de afvalstoffenheffing toch door iedereen betaald zal moeten worden. We vinden het eerlijker dat dit door degene die het afval inlevert betaald wordt. De 75 kg vrijstelling is wat ons betreft mooi om te houden."
+        },
+        "113809": {
+          "position": "disagree",
+          "explanation": "In de afgelopen periode is gebleken dat er geen sluitende business case was voor een zwembad in Glanerbrug. De gemeente heeft helaas niet te financiële ruimte om dit te realiseren."
+        },
+        "113810": {
+          "position": "neither",
+          "explanation": "We houden de huidige vangnet-regeling in stand zodat iedereen de mogelijkheid heeft om een zwemdiploma te halen."
+        },
+        "113812": {
+          "position": "disagree",
+          "explanation": "De ChristenUnie is voor sluiting van alle coffeeshops. Drugsverslavingen maken helaas veel kapot in onze samenlevingen. En de normalisering van drugsgebruik via coffeeshops is wat ons betreft een slechte ontwikkeling."
+        },
+        "113813": {
+          "position": "neither",
+          "explanation": "De ChristenUnie is voor bouwen in alle segmenten. Gelukkig voldoet Enschede ruim aan de landelijk gestelde norm van 30%. We willen echter niet dat woningbouwcorporaties niet mogen bouwen terwijl ze dat wel kunnen vanwege een kunstmatige grens."
+        },
+        "113816": {
+          "position": "agree",
+          "explanation": "Helaas zijn in Enschede veel mensen eenzaam. Buurtcentra bieden ruimte voor ontmoeting en sociale initiatieven. Dit helpt om mensen te verbinden en eenzaamheid tegen te gaan."
+        },
+        "113818": {
+          "position": "agree",
+          "explanation": "Binnen het centrum zijn er veel plannen voor woningbouw. Hierbij zal het aantal woningen ook toenemen, dit vraagt ook voor voldoende parkeergelegenheid, het liefst in parkeergarages."
+        },
+        "113820": {
+          "position": "disagree",
+          "explanation": "De ChristenUnie is voor een pauze in de maatschappij, waarbij mensen op adem kunnen komen en dus niet voor verruiming van de zondagsopenstelling van winkels."
+        },
+        "113822": {
+          "position": "neither",
+          "explanation": "Cameratoezicht kan helpen bij het verminderen van overlast bij ondergrondse afvalcontainers. Echter dit moet wat de ChristenUnie betreft gericht worden ingezet en niet standaard worden ingezet."
+        },
+        "113823": {
+          "position": "disagree",
+          "explanation": "Wat de ChristenUnie betreft is ons buitengebied iets om zuinig op te zijn. We willen dit dan ook zoveel mogelijk ontzien bij nieuwbouw. Daarbij zijn natuurgebieden nog belangrijker om te ontzien."
+        },
+        "113825": {
+          "position": "neither",
+          "explanation": "Enschede moet geen extra geld gaan investeren in Twente Airport. De huidige investeringen kunnen wat de ChristenUnie betreft doorgaan."
+        }
+      }
+    },
+    {
+      "id": 113747,
+      "name": "Volt",
+      "fullName": "Volt",
+      "website": "https://voltnederland.org/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "113768": {
+          "position": "agree",
+          "explanation": "Op dit moment bestaat het college alleen maar uit mannen. Volt heeft de afgelopen vier jaar aandacht gevraagd voor diversiteit in het college. Wij vinden dat het volgende college van Burgemeesters en Wethouders een goede afspiegeling moet zijn van de samenleving."
+        },
+        "113769": {
+          "position": "disagree",
+          "explanation": "Het is belangrijk om meer democratie te brengen bij besluiten, maar het referendum is daar niet geschikt voor. Moeilijke vraagstukken worden veranderd in een ja-nee vraag. Volt ziet meer in nieuwe initiatieven zoals een burgerberaad waar inwoners een bindend advies geven aan de gemeenteraad"
+        },
+        "113770": {
+          "position": "neither",
+          "explanation": "Er zijn al gevallen in Enschede waarbij inwoners het beheer van bijvoorbeeld plantsoenen hebben overgenomen. Dat vindt Volt erg nuttig. De mogelijkheid moet hier zeker voor zijn, maar in sommige gevallen kan de gemeente beter het beheer voeren."
+        },
+        "113772": {
+          "position": "neither",
+          "explanation": "Volt vindt een levendig stadcentrum belangrijk. Ondernemers hebben zelf nu al grote vrijheid in wat zij mogen. Daarbij moet overlast wel beperkt worden. Café's en restaurants moeten, binnen kaders, zelf kunnen beslissen wanneer ze open en dicht gaan."
+        },
+        "113775": {
+          "position": "disagree",
+          "explanation": "Ook Enschede draagt een steentje bij aan het oplossen van de opvangcrisis. Volt heeft voor het AZC op de Parkweg gestemd. Het AZC op de parkweg zorgt niet voor overlast, sluiten zal alleen maar leiden tot problemen in de rest van het land."
+        },
+        "113776": {
+          "position": "neither",
+          "explanation": "Volt wil, in navolging van Apeldoorn, een lokale regel waarmee houtstoken binnen de perken gehouden kan worden. Dus dat er bijvoorbeeld niet gestookt mag worden als er geen wind is. Dit om overlast van open haarden en houtkachels voor mensen met astma en COPD te beperken."
+        },
+        "113778": {
+          "position": "agree",
+          "explanation": "Nu er volgend jaar geen vuurwerk meer mag worden afgestoken, is een plaatsvervangende vuurwerkshow een mooi moment om samen te komen en het afsteken professioneel aan te pakken."
+        },
+        "113790": {
+          "position": "disagree",
+          "explanation": "De uitrusting van BOA's moeten passen bij de taak die zij uitvoeren. BOA's mengen zich niet actief in gevaarlijke situaties en moeten gevaarlijke situaties aan de politie overlaten. Het dragen van wapens zoals een wapenstok vindt Volt niet nodig. Het wekt agressie op en vergroot de kans op gebruik."
+        },
+        "113791": {
+          "position": "agree",
+          "explanation": "Woonruimte is een basisvoorziening, maar de kansen op een huis zijn ongelijk verdeeld. Veel starters hebben moeite om genoeg hypotheek te krijgen. In sommige gemeenten wordt geëxperimenteerd met een kleine extra hypotheek voor starters via de gemeente en dit heeft geleid tot een eerlijker speelveld."
+        },
+        "113795": {
+          "position": "disagree",
+          "explanation": "Mensen komen niet zomaar in de bijstand. Werk verplichten zorgt voor extra stress en is vaak niet bevordelijk voor de lange termijn. De gemeente kan (vrijwilligers)werk wel stimuleren."
+        },
+        "113796": {
+          "position": "disagree",
+          "explanation": "Volt wil dat iedereen kan rondkomen met hun inkomen. Het kwijtschelden van de gemeentelijke belastingen helpt hierbij, inwoners houden zo meer over voor vaste lasten. Als dit wordt afgeschaft dan kunnen mensen alleen maar in grotere problemen komen."
+        },
+        "113797": {
+          "position": "neither",
+          "explanation": "Volt wil minder armoede. Gezien de hoge dagelijkse kosten en de armoede in Enschede zou de grens zeker verhoogd mogen worden. Maar het moet ook financieel haalbaar zijn. Daarnaast ziet Volt het omhoogbrengen van de armoedegrens niet als blijvende oplossing om armoede op te lossen."
+        },
+        "113799": {
+          "position": "agree",
+          "explanation": "Elektrisch rijden is een belangrijk onderdeel van de energietransitie, maar het is nog niet voor iedereen toegankelijk. Er moeten daarom meer publieke oplaadpunten komen, met een goede spreiding over de wijken, zodat er genoeg voorzieningen zijn voor mensen die niet thuis hun auto kunnen opladen."
+        },
+        "113800": {
+          "position": "agree",
+          "explanation": "In overleg met omwonenden voeren we parkeervergunningen en betaald parkeren op straat in, in meer wijken rond het centrum, om autogebruik te ontmoedigen en het parkeren in parkeergarages te bevorderen. Zo wordt de stad toegankelijker voor voetgangers, fietsers en OV-gebuikers."
+        },
+        "113801": {
+          "position": "disagree",
+          "explanation": "Door vergrijzing zijn er grote tekorten in de zorg waardoor dit onhaalbaar is. De gemeente bepaalt het beleid van zorgorganisaties niet en zou dat ook niet moeten willen. De gemeentelijke zorgplicht omvat het bieden van ondersteuning die bij iemands zorgvraag hoort, niet bij diens levensovertuiging."
+        },
+        "113802": {
+          "position": "agree",
+          "explanation": "Één op de acht vrouwen in Nederland ervaart menstruatiearmoede. Dit betekent dat ze niet genoeg geld hebben om goed beschikking te hebben tot menstruatieproducten. Voor hen kan de gemeente veel betekenen door bestaande initiatieven te ondersteunen en aan te vullen."
+        },
+        "113803": {
+          "position": "disagree",
+          "explanation": "De OZB verlagen zorgt voor meer ongelijkheid omdat dit het inkomen van de gemeente aanzienlijk verminderd, waardoor er op veel vlakken bezuinigd moet worden. Dit zou een tegemoetkoming zijn voor huiseigenaren, die vaak al lagere vaste lasten hebben, ten kosten van inwoners die het moeilijker hebben."
+        },
+        "113806": {
+          "position": "agree",
+          "explanation": "Er moet voldoende ruimte zijn voor de economie van de toekomst, met industrieën gericht op innovatie en duurzaamheid, die banen opleveren voor de inwoners. Denk aan duurzame bouw, hightech en medische technologie. We willen geen nieuwe bedrijventerreinen voor warehouse, logistiek en zware industrie."
+        },
+        "113807": {
+          "position": "agree",
+          "explanation": "Afschaffen van voorrang vermindert de wachttijd voor andere Enschedeërs maar met één week en lost de woningcrisis dus niet op - meer sociale huurwoningen bouwen wel. Een vaste woonplek zorgt dat statushouders ook aan werk kunnen komen, waardoor ze hun eigen geld kunnen verdienen en beter integreren."
+        },
+        "113808": {
+          "position": "disagree",
+          "explanation": "Iedere Enschedeër kan jaarlijks al 75 kilo grof vuil gratis naar de milieustraat brengen. Voor de meeste inwoners is dat meer dan genoeg. Het wegbrengen van grof afval maken we makkelijker met ruimere openingstijden. Mensen zonder auto helpen we door een paar keer per jaar afval op te halen."
+        },
+        "113809": {
+          "position": "disagree",
+          "explanation": "Enschede investeert al in een nieuw zwembad bij het Diekman. Samen met de andere zwembaden zorgt dit voor voldoende zwemwater. Onderzoek van de dorpsraad van Glanerbrug wijst uit dat een zwembad in Glanerbrug momenteel te duur is."
+        },
+        "113810": {
+          "position": "agree",
+          "explanation": "Enschede kent veel plekken met water, waar mensen die niet goed kunnen zwemmen gevaar lopen. Elk kind in Enschede moet daarom de kans krijgen te leren zwemmen, onafhankelijk van of hun ouders hier het geld voor hebben."
+        },
+        "113812": {
+          "position": "neither",
+          "explanation": "Er zijn al veel regels omtrent de vestiging van coffeeshops (bijvoorbeeld niet in de buurt van scholen, niet meer in het centrum). Een nieuwe shop in een wijk waar volgens deze regels nog ruimte is, zou mogelijk moeten zijn. De regels willen we in verband met overlast en veiligheid niet versoepelen."
+        },
+        "113813": {
+          "position": "disagree",
+          "explanation": "Volt wil een percentage van minimaal 30% aan sociale huur bij nieuwbouw. Een lager percentage lijkt gezien de huidige 36% voor de hand te liggen, maar zorgt op de lange termijn voor een tekort aan betaalbare huurwoningen in nieuwe buurten, zeker voor studenten en ouderen."
+        },
+        "113816": {
+          "position": "neither",
+          "explanation": "Volt is voor buurt- en wijkcentra, omdat die zorgen voor sociale binding en laagdrempelige zorg. In elke buurt en wijk een eigen buurtcentrum is erg kostbaar. In sommige gevallen kan het beter zijn dat enkele buurten een centrum delen."
+        },
+        "113818": {
+          "position": "disagree",
+          "explanation": "Met de huidige parkeergarages en andere parkeermogelijkheden zijn er genoeg mogelijkheden om auto's te parkeren. Volt wil het fietsgebruik en OV-gebruik naar en in het centrum stimuleren. Parkeerplaatsen voor fietsen een deelvervoer in het centrum zijn belangrijk."
+        },
+        "113820": {
+          "position": "agree",
+          "explanation": "Zolang er voor omwonenden geen overlast is, vindt Volt het prima als winkels ervoor kiezen om op zondagochtend open te zijn. Bredere openingstijden betekent een meer bruisende stad."
+        },
+        "113822": {
+          "position": "disagree",
+          "explanation": "Het bijplaatsen van afval veroorzaakt helaas overlast. Camera's voorkomen helaas niet dat afval elders wordt gedumpt. Volt ziet liever dat er geinvesteerd wordt in andere maatregelen, zoals meer handhaving en 'groene ruimte' rondom ondergrondse containers."
+        },
+        "113823": {
+          "position": "disagree",
+          "explanation": "Volt wil ruimte voor natuur, wandelen en fietsen. Natuurgebieden moeten natuurgebieden blijven en geen land- of woongebieden worden. Er zijn genoeg plekken binnen Enschede waar gebouwd kan en moet worden, zonder dat we daar de natuur mee aantasten"
+        },
+        "113825": {
+          "position": "disagree",
+          "explanation": "Volt ziet Twente Airport als een belangrijke plek voor (innovatief onderzoek naar) elektrisch en duurzaam vliegen. De financiële exploitatie kan overgelaten worden aan commerciele bedrijven, waarbij de gemeente via een publiek-private samenwerking de luchthaven toekomstbestendig kan maken."
+        }
+      }
+    },
+    {
+      "id": 113745,
+      "name": "PVV",
+      "fullName": "PVV",
+      "website": "https://www.pvv.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "113768": {
+          "position": "disagree",
+          "explanation": "Bij de PVV discrimineren we niet. Bij ons zijn mannen en vrouwen gelijk en wij vinden dat kwaliteit de doorslaggevende factor moet zijn bij het aanstellen van een burgemeester en/of wethouders."
+        },
+        "113769": {
+          "position": "agree",
+          "explanation": "De PVV is voorstander van burgerparticipatie. Niet voor niets hebben wij al meerdere voorstellen gedaan om dit te bewerkstelligen. We zullen ons hier voor blijven inzetten."
+        },
+        "113770": {
+          "position": "disagree",
+          "explanation": "De PVV vindt het belangrijk dat inwoners actief betrokken worden bij hun leefomgeving en lokale voorzieningen. tegelijkertijd moet beleid realistisch en financieel verantwoord zijn."
+        },
+        "113772": {
+          "position": "agree",
+          "explanation": "Cafés en restaurants moeten de vrijheid hebben om te kunnen bepalen wanneer zij open zijn. Wel moet er rekening gehouden worden met de veiligheid en overlast voor omwonenden."
+        },
+        "113775": {
+          "position": "agree",
+          "explanation": "De PVV is voor een totale asielstop. We moeten geen nieuw AZC openen en het huidige zo snel mogelijk sluiten. Het wordt tijd dat Enschede weer van de Enschedeër wordt."
+        },
+        "113776": {
+          "position": "agree",
+          "explanation": "Mensen moeten zelf weten hoe zij zichzelf warm houden. We stoppen met de betutteling."
+        },
+        "113778": {
+          "position": "disagree",
+          "explanation": "Mensen moeten zelf vuurwerk kunnen blijven afsteken. Een gemeentelijke vuurwerkshow ter vervanging van een jarenlange traditie is onacceptabel voor de PVV Enschede."
+        },
+        "113790": {
+          "position": "agree",
+          "explanation": "Dit draagt bij aan een veiligere stad."
+        },
+        "113791": {
+          "position": "agree",
+          "explanation": "De PVV is vóór het mogelijk maken van gemeentelijke startersleningen voor mensen die voor het eerst een huis kopen, omdat dit hen helpt toegang te krijgen tot de koopwoningmarkt, gecombineerd met het streven naar meer bouw, lagere drempels en behoud van fiscaal voordeel voor kopers."
+        },
+        "113795": {
+          "position": "agree",
+          "explanation": "De PVV staat ervoor dat mensen met een bijstandsuitkering, waar mogelijk, maatschappelijk zinvol werk verrichten als tegenprestatie en betrokkenheid te bevorderen."
+        },
+        "113796": {
+          "position": "disagree",
+          "explanation": "Het leven is voor de meeste Enschedeërs al niet meer te betalen. Het is juist goed dat de gemeente een helpende hand bied aan mensen die dat nodig hebben."
+        },
+        "113797": {
+          "position": "agree",
+          "explanation": "De krankzinnige prijsstijgingen van de afgelopen jaren hebben er toe geleid dat ook mensen met modale inkomens met moeite rondkomen. Veel meer mensen kunnen hulp gebruiken."
+        },
+        "113799": {
+          "position": "disagree",
+          "explanation": "De gemeente moet wegblijven van dit thema. Mensen die een elektrische auto aanschaffen dienen zelf laadinfrastructuur te regelen. Hier moet geen belastinggeld aan besteed worden."
+        },
+        "113800": {
+          "position": "disagree",
+          "explanation": "De PVV is tegen het uitbreiden van parkeervergunningen in meer wijken in Enschede, omdat dit bewoners extra kosten oplegt zonder de parkeerproblemen structureel op te lossen."
+        },
+        "113801": {
+          "position": "disagree",
+          "explanation": "De zorg in Nederland moet vrij zijn van geloof, cultuur en levensovertuiging."
+        },
+        "113802": {
+          "position": "disagree",
+          "explanation": "De PVV is tegen het gratis verspreiden van tampons en maandverband door de gemeente, omdat dit geen kerntaak van de overheid is en ondersteuning gericht moet zijn op echte nood via bestaande hulpinstanties"
+        },
+        "113803": {
+          "position": "agree",
+          "explanation": "De PVV pleit voor verlaging van de onroerendezaakbelasting, zodat de woonlasten voor inwoners en de kosten voor ondernemers beheersbaar blijven en de gemeente doelmatiger met haar middelen omgaat."
+        },
+        "113806": {
+          "position": "agree",
+          "explanation": "De PVV vindt dat Enschede meer bedrijventerreinen moet faciliteren omdat er nu krapte is op bedrijfskavels en dit essentieel is voor lokale werkgelegenheid en economische groei, mits dit zorgvuldig gepland wordt in balans met woningbouw en leefomgeving"
+        },
+        "113807": {
+          "position": "disagree",
+          "explanation": "De voorrang voor statushouders is onacceptabel. Onze eigen mensen worden hierdoor keihard gediscrimineerd en moeten tot hun 40e thuis wonen."
+        },
+        "113808": {
+          "position": "agree",
+          "explanation": "De PVV is ervoor dat het inleveren van afval bij de milieu-straat gratis wordt, omdat inwoners al afvalstoffenheffing betalen en afval scheiden niet extra bestraft mag worden."
+        },
+        "113809": {
+          "position": "agree",
+          "explanation": "Het wordt tijd dat we wat terug doen voor de mensen uit Glanerbrug. Het vorige College heeft de inwoners van Glanerbrug keihard voorgelogen en het zwembad gesloopt."
+        },
+        "113810": {
+          "position": "agree",
+          "explanation": "De PVV is voor het herinvoeren en ondersteunen van schoolzwemmen zodat elk kind kan leren zwemmen en zou lokale financiële inzet voor zwemonderwijs en sportparticipatie toejuichen als onderdeel van sport en gezondheid."
+        },
+        "113812": {
+          "position": "disagree",
+          "explanation": "De PVV is fel tegen de vestiging van nieuwe coffeeshops, omdat deze aantoonbaar zorgen voor meer overlast, drugscriminaliteit en een verdere aantasting van de veiligheid en leefbaarheid in wijken."
+        },
+        "113813": {
+          "position": "disagree",
+          "explanation": "De PVV vindt een aandeel van 35 tot 40 procent sociale huur in Enschede acceptabel en ziet daarom geen noodzaak om dit aandeel verder te vergroten bij nieuwbouw."
+        },
+        "113816": {
+          "position": "agree",
+          "explanation": "De PVV is in het algemeen vóór buurtcentra als ze bijdragen aan saamhorigheid en leefbaarheid in de wijk, maar is kritisch op structurele subsidies, misbruik en activiteiten die niet in het belang zijn van buurtbewoners."
+        },
+        "113818": {
+          "position": "agree",
+          "explanation": "De PVV is voor meer parkeerplaatsen in het centrum, omdat goede bereikbaarheid essentieel is voor inwoners, ondernemers en een levendige binnenstad."
+        },
+        "113820": {
+          "position": "agree",
+          "explanation": "De PVV vindt dat winkels ook op zondagochtend open moeten kunnen, zodat ondernemers zelf kunnen bepalen wat het beste is voor hun zaak en inwoners meer vrijheid en keuze hebben."
+        },
+        "113822": {
+          "position": "agree",
+          "explanation": "De PVV is vaker voor cameratoezicht en steunt daarom cameratoezicht bij ondergrondse vuilcontainers om overlast en bijplaatsingen aan te pakken en de openbare ruimte schoon en veilig te houden."
+        },
+        "113823": {
+          "position": "disagree",
+          "explanation": "De PVV is tegen nieuwbouw in natuurgebieden, omdat natuur beschermd moet blijven en woningbouw binnen bestaande bebouwing en verstedelijkte gebieden moet worden opgelost."
+        },
+        "113825": {
+          "position": "disagree",
+          "explanation": "De PVV wil dat het vliegveld open blijft vanwege het belang voor regionale economie en bereikbaarheid én vanwege de strategische rol voor veiligheid, calamiteiten en defensie."
+        }
+      }
+    },
+    {
+      "id": 113746,
+      "name": "SP",
+      "fullName": "Socialistische Partij",
+      "website": "https://www.sp.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "113768": {
+          "position": "agree",
+          "explanation": "Een meer evenwichtig balans van mannen en vrouwen in het gemeentebestuur zal leiden tot betere resultaten."
+        },
+        "113769": {
+          "position": "neither",
+          "explanation": "Directe invloed van bewoners op beslissingen in hun wijk via wijktafels, burgerpanels en andere vormen van participatie zijn van groot belang. Zo worden beleidsplannen niet alleen voor bewoners gemaakt, maar mét hen. Dit versterkt betrokkenheid, transparantie en eigenaarschap binnen de gemeenschap."
+        },
+        "113770": {
+          "position": "agree",
+          "explanation": "Eigenaarschap en betrokkenheid van burgers dient gestimuleerd te worden."
+        },
+        "113772": {
+          "position": "neither",
+          "explanation": "De gemeente bepaalt de randvoorwaarden voor de openingstijden. Het is aan cafés en restaurants om binnen deze grenzen te bepalen wat voor hun publiek en situatie het beste past."
+        },
+        "113775": {
+          "position": "disagree",
+          "explanation": "De gemeente Enschede neemt verantwoordelijkheid voor haar deel van de opvang van asielzoekers. Belangrijk is dat dit op menswaardige wijze plaatsvind."
+        },
+        "113776": {
+          "position": "agree",
+          "explanation": "Energievoorziening en verwarming van huizen is essentieel. Een deel van de inwoners van Enschede is afhankelijk van open haard en houtkachel."
+        },
+        "113778": {
+          "position": "agree",
+          "explanation": "Een gemeentelijke vuurwerkshow kan bijdragen aan gezamenlijke feestelijkheid en kan zorgen voor een rustiger en veiliger oud en nieuw."
+        },
+        "113790": {
+          "position": "neither",
+          "explanation": "Wanneer boa's aangeven hun werkzaamheden niet meer goed te kunnen uitvoeren zonder wapenstof is het aan de gemeente om hierover een besluit te nemen."
+        },
+        "113791": {
+          "position": "disagree",
+          "explanation": "Het is aan de gemeente om bij te dragen aan voldoende betaalbare, kwalitatief goede en geschikte woningen voor Enschedeërs. Het geven van startersleningen is niet aan de gemeente."
+        },
+        "113795": {
+          "position": "disagree",
+          "explanation": "De gemeente Enschede moet de menselijke maat toepassen en samen met mensen kijken naar mogelijkheden, onmogelijkheden, wensen en kansen."
+        },
+        "113796": {
+          "position": "disagree",
+          "explanation": "Bestaanszekerheid voor alle inwoners van Enschede is een belangrijke taak van de gemeente."
+        },
+        "113797": {
+          "position": "agree",
+          "explanation": "De menselijke maat moet leidend zijn. Inflatie, energiekosten en meer hebben grote invloed op de bestaanszekerheid van mensen. De grens van 120% is het nieuwe bestaansminimum geworden. Mensen die op of rond deze grens zitten moeten, in overleg en samenwerking, actief geholpen worden door de gemeente"
+        },
+        "113799": {
+          "position": "disagree",
+          "explanation": "Afhankelijk van de behoefte en noodzaak kan de gemeente kijken naar de meerwaarde van oplaadplekken voor elektrische auto's."
+        },
+        "113800": {
+          "position": "neither",
+          "explanation": "Daar waar knelpunten zijn dient de gemeente samen met bewoners te kijken naar mogelijke oplossingen."
+        },
+        "113801": {
+          "position": "agree",
+          "explanation": "Goede zorg is essentieel voor mensen in Enschede. Vrije keuze voor geschikte hulpverleners hoort hierbij."
+        },
+        "113802": {
+          "position": "agree",
+          "explanation": "Armoede tegengaan is een verantwoordelijkheid van ons allemaal. Menstruatiearmoede hoort hierbij. Ondersteuning, indien nodig, voor scholen, sportverenigingen, buurthuizen en wijkcentra, voedselbank en meer kan door de gemeente Enschede worden opgepakt."
+        },
+        "113803": {
+          "position": "agree",
+          "explanation": "Woonkosten zijn ontzettend gestegen in afgelopen jaren, veel huishoudens zijn een onevenredig groot deel van hun inkomen kwijt aan woonkosten. Een lagere onroerendezaakbelasting zal hen helpen."
+        },
+        "113806": {
+          "position": "disagree",
+          "explanation": "Enschede heeft voldoende bedrijventerreinen. Veel bedrijfspanden staan leeg. Enschede moet inzetten op meer betaalbare woningen, daar is een groot tekort aan."
+        },
+        "113807": {
+          "position": "neither",
+          "explanation": "De SP is het eens met hoe de toekenning van sociale huurwoningen nu geregeld is in Enschede. Die is eerlijk voor iedereen."
+        },
+        "113808": {
+          "position": "agree",
+          "explanation": "De gemeente kan de kosten regelen via de afvalstoffenheffing. Door afval inleveren bij de milieustraten gratis te maken voorkomen we dumping en onnodige vervuiling."
+        },
+        "113809": {
+          "position": "agree",
+          "explanation": "Glanerbrug heeft een zwembad nodig. Hierover zijn al heel lang beloftes gedaan, Enschede moet leveren."
+        },
+        "113810": {
+          "position": "agree",
+          "explanation": "Zwemmen is een basisvaardigheid die elk kind in Enschede moet beheersen. Daarom ondersteunen we ouders en scholen zodat kinderen in Enschede zwemlessen kunnen volgen, ongeacht hun financiële situatie."
+        },
+        "113812": {
+          "position": "neither",
+          "explanation": "Het huidige coffeeshop-beleid van gedogen en handhaven moet worden voortgezet."
+        },
+        "113813": {
+          "position": "disagree",
+          "explanation": "SP Enschede wil dat bij alle nieuwbouwprojecten in Enschede minstens 50% sociale woningbouw wordt gerealiseerd. Alleen zo bouwen we écht voor de mensen die nu het langst wachten."
+        },
+        "113816": {
+          "position": "agree",
+          "explanation": "Iedere wijk, buurt en dorp in Enschede verdient een buurthuis: een plek waar bewoners elkaar kunnen ontmoeten, verenigingen kunnen huizen en activiteiten kunnen ontplooien."
+        },
+        "113818": {
+          "position": "disagree",
+          "explanation": "De openbare ruimte in het centrum is niet bedoeld voor parkeerplaatsen. De capaciteit in de parkeergarages is gebaseerd op de huidige vraag van bewoners, bezoekers en dagjesmensen."
+        },
+        "113820": {
+          "position": "neither",
+          "explanation": "Winkels mogen al open zijn op zondag. Winkeliers die eerder dan 12.00 uur open willen, kunnen hiervoor een vrijstelling aanvragen bij de gemeente."
+        },
+        "113822": {
+          "position": "neither",
+          "explanation": "Niet iedere Enschedeër heeft de middelen of mogelijkheden om grof vuil weg te brengen. De SP Enschede wil hiervoor de bestaande afvalpleintjes in onze wijken en dorpen beter inrichten zodat bewoners spullen netjes kunnen aanbieden en Twente Milieu deze met regelmaat en op afspraak kunnen ophalen."
+        },
+        "113823": {
+          "position": "disagree",
+          "explanation": "Bij nieuwbouw moet onze mooie Twentse natuur zoveel mogelijke gespaard blijven."
+        },
+        "113825": {
+          "position": "agree",
+          "explanation": "Een burgerluchthaven in Twente kan niet rendabel worden, dat is al vaak doorgerekend. Commerciële activiteiten op het vliegveldterrein dienen zichzelf te bedruipen. Meer vliegbewegingen zijn niet wenselijk, door aanwezigheid van woningen en unieke flora en fauna in de nabijheid van het vliegveld."
+        }
+      }
+    },
+    {
+      "id": 113737,
+      "name": "Enschede Anders",
+      "fullName": "Enschede Anders",
+      "website": "https://enschedeanders.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "113768": {
+          "position": "agree",
+          "explanation": "EnschedeAnders is voor gelijkheid dus bij voorkeur een gelijke verdeling. Geschiktheid en beschikbaarheid maakt een andere verdeling mogelijk."
+        },
+        "113769": {
+          "position": "agree",
+          "explanation": "Een niet-bindend referendum kan helpen bij maatschappelijke of complexe kwesties. Hierbij wordt een tegengeluid een stem gegeven in plaats van hen uit te sluiten."
+        },
+        "113770": {
+          "position": "disagree",
+          "explanation": "Is een publieke taak, in principe voor de gemeente. In overleg kan uitvoering wellicht prima door inwoners gedaan worden, kosten en verantwoordelijkheid bij de gemeente houden."
+        },
+        "113772": {
+          "position": "disagree",
+          "explanation": "Ruimere tijden kan prima bespreekbaar zijn. Verantwoordelijkheid en besluitvorming bij de gemeente houden. Daar waar het kan, prima."
+        },
+        "113775": {
+          "position": "disagree",
+          "explanation": "De aanwezigheid van dit azc is eindig, die termijn is al afgesproken. Daarna moet er opvang van vreemdelingen in nood mogelijk zijn, ook in Enschede. In welke vorm moet dan bekeken worden."
+        },
+        "113776": {
+          "position": "neither",
+          "explanation": "Het is een keuze in belangen. Wellicht energiearmoede en gezondheid, vanwege energiearmoede is open haard en houtkachels goed verdedigbaar. In het kader van gezondheid, het inademen van gezonde lucht, is het dat niet."
+        },
+        "113778": {
+          "position": "disagree",
+          "explanation": "Als de gemeente het moet organiseren zal de gemeente het ook moeten betalen. Onnodige en onwenselijke oplossing."
+        },
+        "113790": {
+          "position": "disagree",
+          "explanation": "Het optreden van de boa's zou ongewapend moeten kunnen. Bij onveilige situatie's in contact treden met politie."
+        },
+        "113791": {
+          "position": "disagree",
+          "explanation": "De gemeente moet zorg dragen voor voldoende betaalbare woningen."
+        },
+        "113795": {
+          "position": "neither",
+          "explanation": "Moeten is te sterk verwoord, indien het kan zou dat wel mooi zijn, Dat mes snijdt aan 2 kanten, het is zinvol voor inwoner en maatschappij, maar het moet wel kunnen."
+        },
+        "113796": {
+          "position": "agree",
+          "explanation": "Aanslaan en kwijtschelden is zinloos. Gepast aanslaan (inkomensafhankelijk) en meenemen in het totale financiele plaatje."
+        },
+        "113797": {
+          "position": "neither",
+          "explanation": "Niet vastleggen op getallen. Kijken wat hulpvraag is en welke oplossingen mogelijk zijn, dat kan voor iedere inwoner gelden."
+        },
+        "113799": {
+          "position": "disagree",
+          "explanation": "De gemeente moet faciliterend zijn en goede initiatieven mogelijk maken. Een sturende gemeente zal ondanks de goede bedoelingen het doel voorbij schieten."
+        },
+        "113800": {
+          "position": "disagree",
+          "explanation": "Enschede wordt langzamerhand 1 hele grote betaalbare parkeerplaats. Onwenselijk en leidt daarbij zeker ook niet tot verbeterde mobiliteit."
+        },
+        "113801": {
+          "position": "disagree",
+          "explanation": "Mensen die zorg nodig hebben moeten de zorg kunnen krijgen die ze nodig hebben. Iedereen mag weigeren maar dan kan het zo zijn dat er geen zorg is. Kwaliteit en betaalbaarheid staan voorop."
+        },
+        "113802": {
+          "position": "agree",
+          "explanation": "Op de openbare locaties hoort de gemeente dat mogelijk te maken."
+        },
+        "113803": {
+          "position": "agree",
+          "explanation": "Bij voorkeur omlaag, ook de gemeente moet de tering naar de nering zetten op gezette tijden. De continue stijging van kosten van onze inwoners is onhoudbaar."
+        },
+        "113806": {
+          "position": "disagree",
+          "explanation": "Er zijn voldoende bedrijventerreinen, wellicht is herschikking een goede optie."
+        },
+        "113807": {
+          "position": "disagree",
+          "explanation": "Voorrang geven is discriminerend op anderen."
+        },
+        "113808": {
+          "position": "agree",
+          "explanation": "Zoveel mogelijk gratis inleveren voorkomt dumpen van afval in de openbare ruimte."
+        },
+        "113809": {
+          "position": "agree",
+          "explanation": "Er is al jaren onvoldoende zwemwater in Enschede, zo ook in Glanerbrug. Jongeren en (kwetsbare) ouderen in Glanerbrug is vitaliteit afgepakt, herstel dat."
+        },
+        "113810": {
+          "position": "agree",
+          "explanation": "Dat bevordert de gezondheid en vitaliteit van onze jeugd. Zwemvaardigheid en -veiligheid wordt vergroot."
+        },
+        "113812": {
+          "position": "disagree",
+          "explanation": "Het huidige aantal coffeeshops is al jaren prima, zo laten."
+        },
+        "113813": {
+          "position": "neither",
+          "explanation": "Er moeten meer betaalbare woningen komen voor iedereen, los van stempels en regeldruk."
+        },
+        "113816": {
+          "position": "agree",
+          "explanation": "Stadsdeel Oost, met name Glanerbrug, loopt op dat vlak enorm achter. Daar moet de komende periode echt iets gebeuren!"
+        },
+        "113818": {
+          "position": "disagree",
+          "explanation": "Er zijn voldoende parkeerplaatsen in het centrum, de mobiliteit en bereikbaarheid zijn een veel groter probleem."
+        },
+        "113820": {
+          "position": "agree",
+          "explanation": "Dat kan prima aan de winkels zelf overgelaten worden of zij daar wel of geen gebruik van willen maken,"
+        },
+        "113822": {
+          "position": "neither",
+          "explanation": "Mag tijdelijk best om misstanden te inventariseren. Blijvend alleen zinvol bij aanvullende maatregelen. Alleen camera toezicht is geen oplossing gebleken."
+        },
+        "113823": {
+          "position": "disagree",
+          "explanation": "Geen nieuwbouw in kwetsbare natuurgebieden."
+        },
+        "113825": {
+          "position": "disagree",
+          "explanation": "Blijven investeren in een vruchtbare toekomst. Het plan om het te laten exploiteren door bedrijven de komende jaren is prima. Openhouden voor militaire doeleinden is een vereiste op dit moment."
+        }
+      }
+    },
+    {
+      "id": 113741,
+      "name": "FvD",
+      "fullName": "Forum voor Democratie",
+      "website": "https://fvd.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "113768": {
+          "position": "disagree",
+          "explanation": "FVD wijst identiteitspolitiek en diversiteitsquota resoluut af. Er dient uitsluitend geselecteerd te worden op basis van individuele kwaliteit en verdienste in plaats van op geslacht, afkomst of andere uiterlijke kenmerken."
+        },
+        "113769": {
+          "position": "agree",
+          "explanation": "Het invoeren van bindende referenda is een essentieel speerpunt om de politieke macht terug te geven aan de burger. Directe democratie zorgt ervoor dat inwoners daadwerkelijk zeggenschap krijgen over belangrijke besluiten in hun eigen omgeving, in plaats van dat alles door bestuurders wordt bepaald."
+        },
+        "113770": {
+          "position": "agree",
+          "explanation": "Het versterken van de lokale gemeenschap en het vergroten van de burgerzin is een belangrijk uitgangspunt. Wanneer inwoners zelf verantwoordelijkheid nemen voor hun publieke voorzieningen, bevordert dit de sociale cohesie en de zorgvuldige omgang met de directe leefomgeving."
+        },
+        "113772": {
+          "position": "agree",
+          "explanation": "Ondernemers in het midden- en kleinbedrijf (MKB) verdienen maximale vrijheid en moeten worden verlost van overmatige bureaucratie. Door de overmatige regeldruk te schrappen, kunnen horecaondernemers weer zelf bepalen hoe zij hun zaak voeren, wat de lokale dynamiek en zelfredzaamheid ten goede komt"
+        },
+        "113775": {
+          "position": "agree",
+          "explanation": "FVD wil een volledige asielstop en de totale ontmanteling van het COA. De partij streeft naar het beëindigen van asielopvang op Nederlands grondgebied en zet in op opvang in de regio om de nationale cultuur, veiligheid en woningmarkt te beschermen."
+        },
+        "113776": {
+          "position": "agree",
+          "explanation": "FVD verzet zich fel tegen de bemoeizucht van de overheid in de persoonlijke levenssfeer van burgers. De partij wil dat inwoners de vrijheid behouden om zelf te bepalen hoe zij hun woning verwarmen en wijst verboden op houtkachels of open haarden omwille van klimaat- of milieudoelen resoluut af."
+        },
+        "113778": {
+          "position": "neither",
+          "explanation": "FVD is voor het behoud van de traditie van consumentenvuurwerk en tegen vuurwerkverboden. Een centrale show mag nooit worden gebruikt als vervanging voor of argument om het zelf afsteken door burgers te verbieden. De vrijheid van de burger staat voorop."
+        },
+        "113790": {
+          "position": "disagree",
+          "explanation": "FVD wil geen verdere bewapening van boa’s, omdat veiligheid een kerntaak van de politie is. Wij vinden dat de politie het geweldsmonopolie moet behouden. In plaats van boa’s uit te rusten met wapens, investeert FVD liever in meer agenten met volledige bevoegdheden en uitrusting op de straat."
+        },
+        "113791": {
+          "position": "disagree",
+          "explanation": "FVD wil de woningmarkt vlotttrekken door massaal te bouwen en de immigratie te stoppen, niet door marktverstorende leningen. Wij vinden dat dergelijke subsidies de prijzen alleen maar verder opdrijven. Wij willen de overdrachtsbelasting afschaffen zodat woningen echt betaalbaar worden."
+        },
+        "113795": {
+          "position": "agree",
+          "explanation": "FVD vindt dat een uitkering een tijdelijk vangnet is, geen hangmat. Wij vinden dat daar een tegenprestatie tegenover mag staan. Door maatschappelijk zinvol werk te verrichten, blijven mensen betrokken bij de samenleving en vergroten zij hun kansen op een volwaardige baan in de toekomst."
+        },
+        "113796": {
+          "position": "disagree",
+          "explanation": "FVD wil de belastingdruk voor iedereen drastisch verlagen, juist voor de laagste inkomens. Wij vinden dat de gemeente de burger niet eerst kaal moet plukken om daarna via ingewikkelde kwijtschelding iets terug te geven. Wij pleiten voor lagere lasten aan de basis, zodat mensen meer overhouden."
+        },
+        "113797": {
+          "position": "disagree",
+          "explanation": "FVD wil armoede bestrijden door de oorzaken aan te pakken: de torenhoge energiebelasting en de inflatie. Wij vinden dat het verhogen van inkomensgrenzen de afhankelijkheid van de overheid vergroot. Wij pleiten liever voor een forse lastenverlichting, zodat iedereen zelf meer te besteden heeft."
+        },
+        "113799": {
+          "position": "disagree",
+          "explanation": "FVD verzet zich tegen de gedwongen energietransitie en de bevoordeling van elektrisch rijden. Schaarse parkeerruimte mag niet worden opgeofferd aan laadpalen. Iedereen moet de vrijheid behouden om in een auto naar keuze te rijden, zonder sturing door de overheid."
+        },
+        "113800": {
+          "position": "disagree",
+          "explanation": "FVD verzet zich tegen de automobilist als 'melkkoe'. Parkeervergunningen worden misbruikt als verkapte belasting en beperken de bewegingsvrijheid. FVD wil restricties schrappen, een goede bereikbaarheid waarborgen en parkeren waar mogelijk gratis maken."
+        },
+        "113801": {
+          "position": "agree",
+          "explanation": "FVD staat voor keuzevrijheid en de vrijheid van onderwijs en zorg. Wij vinden dat mensen niet gedwongen mogen worden tot een eenheidsworst van de staat. Iedereen moet de zorg kunnen ontvangen die aansluit bij de eigen waarden en overtuigingen, zonder dat de overheid hier ideologisch tussenbeide komt"
+        },
+        "113802": {
+          "position": "disagree",
+          "explanation": "FVD vindt dat de overheid geen hygiëneproducten moet verstrekken. Dit is een individuele verantwoordelijkheid, geen gemeentetaak. In plaats daarvan pleit de partij voor algemene lastenverlichting, zodat burgers deze basisbehoeften zelf kunnen bekostigen."
+        },
+        "113803": {
+          "position": "agree",
+          "explanation": "FVD wil de lasten voor burgers en ondernemers drastisch verlagen. De ozb drijft woonlasten onnodig op; door deze te verlagen, houden inwoners van Enschede meer geld over en wordt woningbezit gestimuleerd."
+        },
+        "113806": {
+          "position": "agree",
+          "explanation": "FVD wil maximale ruimte voor ondernemers door belemmerende milieu- en stikstofregels te schrappen. Meer bedrijventerreinen zorgen voor banen, innovatie en een sterkere economie in Enschede. De gemeente moet faciliteren, niet hinderen."
+        },
+        "113807": {
+          "position": "disagree",
+          "explanation": "FVD is fel tegen de voorrang voor statushouders op de woningmarkt. Het is onacceptabel dat Enschedeërs op wachtlijsten worden gepasseerd. De woningnood moet worden opgelost door de grenzen te sluiten en te bouwen voor de eigen bevolking in plaats van voor asielzoekers."
+        },
+        "113808": {
+          "position": "agree",
+          "explanation": "FVD vindt afvalverwerking een basisdienst. Een gratis milieustraat voorkomt illegaal dumpen en verlaagt de lasten. Burgers betalen al genoeg afvalstoffenheffing; extra kosten bij de poort zijn een onrechtvaardige dubbele belasting die we direct willen afschaffen."
+        },
+        "113809": {
+          "position": "disagree",
+          "explanation": "FVD wil fors bezuinigen op niet-essentiële overheidsprojecten en miljoenenverslindende prestigeprojecten. Wij vinden dat de markt dit soort voorzieningen moet oppakken. Gezien de enorme schuldenlast van gemeenten moet Enschede prioriteit geven aan lagere belastingen in plaats van dure nieuwbouw."
+        },
+        "113810": {
+          "position": "disagree",
+          "explanation": "FVD vindt dat sport en beweging een verantwoordelijkheid is van ouders, niet van de overheid. Wij willen fors bezuinigen op subsidies voor dergelijke programma's om de algemene lasten te verlagen. Zo houden gezinnen zelf meer geld over om zwemlessen voor hun kinderen te betalen."
+        },
+        "113812": {
+          "position": "disagree",
+          "explanation": "FVD is tegen de normalisering van drugsgebruik en de overlast die coffeeshops met zich meebrengen. Wij vinden dat de gemeente de veiligheid en leefbaarheid in de wijken moet beschermen. In plaats van meer verkooppunten voor drugs, pleiten wij voor handhaving en een sterke focus op preventie."
+        },
+        "113813": {
+          "position": "agree",
+          "explanation": "FVD wil het eigenwoningbezit stimuleren en de scheefgroei in de woningmarkt aanpakken. Wij vinden dat Enschede al bovengemiddeld veel sociale huur heeft. Door de focus te verleggen naar betaalbare koopwoningen en de vrije sector, creëren we meer doorstroming en versterken we de middenklasse."
+        },
+        "113816": {
+          "position": "disagree",
+          "explanation": "FVD wil fors bezuinigen op de wildgroei aan gesubsidieerde welzijnsprojecten. Wij vinden dat buurtcentra vaak ontmoetingsplekken zijn voor bureaucratie en ideologie. Laat burgers zelf initiatieven ontplooien in plaats van de belastingbetaler op te laten draaien voor een centrum in elke wijk."
+        },
+        "113818": {
+          "position": "agree",
+          "explanation": "FVD vindt dat het centrum bereikbaar moet blijven voor iedereen. De huidige jacht op de auto moet stoppen. Door meer parkeerplaatsen te realiseren, trekken we meer bezoekers naar de stad, wat essentieel is voor het voortbestaan van onze lokale winkeliers en horecaondernemers."
+        },
+        "113820": {
+          "position": "agree",
+          "explanation": "FVD staat voor maximale keuzevrijheid voor ondernemers en burgers. Wij vinden dat de overheid niet moet bepalen wanneer winkeliers hun deuren openen. Winkeliers moeten zelf kunnen beslissen of zij op zondagochtend open gaan om hun klanten te bedienen en de lokale economie te versterken."
+        },
+        "113822": {
+          "position": "agree",
+          "explanation": "FVD is voor een harde aanpak van vervuiling en illegaal dumpen. Wij vinden dat cameratoezicht een effectief middel is om de leefbaarheid en veiligheid in de wijken te waarborgen. Wie de regels overtreedt en afval naast de container dumpt, moet worden aangepakt, zodat de nette burger niet de dupe is."
+        },
+        "113823": {
+          "position": "agree",
+          "explanation": "FVD wil milieuregels en stikstofsloten doorbreken om de woningnood aan te pakken. Woningbouw voor eigen inwoners heeft prioriteit boven abstracte natuurdoelen. Door verantwoord te bouwen aan de stadsranden, lossen we het tekort aan huizen in Enschede op."
+        },
+        "113825": {
+          "position": "disagree",
+          "explanation": "FVD ziet Twente Airport als cruciale strategische troef. De gemeente moet investeren in behoud en ontwikkeling om innovatie, bedrijvigheid en banen te stimuleren. Het afstoten van dit unieke terrein zou volgens FVD een grote economische blunder zijn."
+        }
+      }
+    },
+    {
+      "id": 113744,
+      "name": "PvdD",
+      "fullName": "Partij voor de Dieren",
+      "website": "https://www.partijvoordedieren.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "113768": {
+          "position": "agree",
+          "explanation": "De PvdD zou eigenlijk nog een stap verder willen gaan en het college van burgemeester en wethouders een representatieve afspiegeling willen laten zijn van de inwoners van de gemeente, dus niet enkel qua verhouding mannen en vrouwen, maar ook rekening houden met opleidingsniveau en afkomst."
+        },
+        "113769": {
+          "position": "agree",
+          "explanation": "De PvdD wil dat het raadgevend referendum een plaats krijgt bij belangrijke besluiten zoals grote bouwprojecten of een gemeentelijke herindeling. Ook maken we wijkreferenda mogelijk. Inwoners die invloed ondervinden van bepaalde besluiten zouden laagdrempelig hun stem moeten kunnen laten horen."
+        },
+        "113770": {
+          "position": "agree",
+          "explanation": "De PvdD moedigt bewonersinitiatieven aan en steunt het 'uitdaagrecht', zodat inwoners gemeentelijke voorzieningen kunnen beheren als zij dat beter kunnen."
+        },
+        "113772": {
+          "position": "disagree",
+          "explanation": "Drukte en onrust door mensen, verkeer, geluid en licht zal mens, dier en natuur in de stad verstoren. Als dat de hele nacht doorgaat is er geen ruimte voor rust en herstel."
+        },
+        "113775": {
+          "position": "disagree",
+          "explanation": "Vluchtelingen zijn welkom. Iedere gemeente zou een eerlijk aandeel aan opvang moeten bieden en inzetten op kleinschalige, humane opvang in de gemeente. Inwoners van asielzoekerscentra zijn inwoners van de gemeente en hebben net zoals iedere andere inwoner recht op stabiliteit en een goede toekomst."
+        },
+        "113776": {
+          "position": "disagree",
+          "explanation": "Houtrook zorgt voor enorm veel fijnstof en veroorzaakt gezondheidsproblemen voor veel inwoners. Daarom zou houtstook binnen en buiten verboden moeten worden, en zolang dat verbod er nog niet is zou houtstook aan banden moeten worden gelegd."
+        },
+        "113778": {
+          "position": "disagree",
+          "explanation": "De PvdD is tegen vuurwerkoverlast. Ze steunt een verbod op consumentenvuurwerk en wil geen vuurwerk bij evenementen – ook geen centrale show – om mens en dier te ontzien. Een droneshow zou een mogelijk alternatief kunnen zijn."
+        },
+        "113790": {
+          "position": "disagree",
+          "explanation": "Boa’s zijn geen politie en dat dient zo blijven. Zij hebben een andere opleiding en rol. Bij dreiging of geweld moeten Boa’s de politie inschakelen en zich terugtrekken. Het dragen van een wapenstok vergroot het risico op escalatie en kan incidenten uitlokken of verergeren."
+        },
+        "113791": {
+          "position": "disagree",
+          "explanation": "Startersleningen verstrekken is niet een taak van een gemeente. Daarbij kunnen startersleningen leiden tot hogere huizenprijzen. Kopers krijgen meer te besteden en kunnen dus hoger bieden, waardoor verkopers hun vraagprijzen verhogen."
+        },
+        "113795": {
+          "position": "disagree",
+          "explanation": "De PvdD zet de inwoner en diens behoeften centraal en heeft een brede en ruimhartige blik op de bijstandsgerechtigde. Dit betekent minder dwang en minder verplichtingen, met respect voor gezondheidsproblemen. Hierbij past geen sterke nadruk op betaald werk en ook geen dwingend karakter."
+        },
+        "113796": {
+          "position": "disagree",
+          "explanation": "Door gemeentelijke belastingen kwijt te schelden, komen minder mensen in de schulden en draagt dit bij aan bestaanszekerheid. Dit zorgt tevens voor minder schuldhulpverlening en minder stressgerelateerde problemen, waardoor er meer geld kan worden besteed aan andere maatschappelijke initiatieven."
+        },
+        "113797": {
+          "position": "agree",
+          "explanation": "Momenteel leeft een deel van de Enschedese bevolking net boven de inkomensgrens en krijgt geen hulp, wat nadelige gevolgen heeft voor deze mensen. Door deze grens te verhogen zullen minder mensen deze nadelige effecten ervaren en is de kans groter dat zij gezond en gelukkig kunnen leven."
+        },
+        "113799": {
+          "position": "agree",
+          "explanation": "De PvdD wil de overgang naar schoon vervoer versnellen door te zorgen voor voldoende oplaadpunten op groene stroom. Elektrische auto’s zijn milieuvriendelijker, omdat zij geen schadelijke uitlaatgassen uitstoten en zo bijdragen aan een betere luchtkwaliteit en het klimaat."
+        },
+        "113800": {
+          "position": "agree",
+          "explanation": "De gemeente voert betaald parkeren in de hele stad in en maakt volgende parkeervergunningen fors duurder. Daarnaast komen er variabele parkeertarieven en vergunningen op basis van uitstoot, gewicht en omvang. Zo worden schonere en kleinere auto’s gestimuleerd en vervuilende voertuigen ontmoedigd."
+        },
+        "113801": {
+          "position": "agree",
+          "explanation": "Iedereen die zorg en ondersteuning nodig heeft, heeft daar recht op, met oog voor de menselijke maat. Cliënten in de zorg dienen daarbij te kunnen meebeslissen over hun eigen behandeling."
+        },
+        "113802": {
+          "position": "agree",
+          "explanation": "De PvdD juicht het gratis verstrekken van menstruatieproducten toe, maar waarschuwt nadrukkelijk: dit mag geen window-dressing worden. Zonder een structurele aanpak van armoede en ongelijkheid blijft het bij symptoombestrijding."
+        },
+        "113803": {
+          "position": "disagree",
+          "explanation": "De PvdD verzet zich tegen verlaging van de OZB. Terwijl het Rijk gemeenten richting het ravijnjaar 2026 financieel uitholt, is het onverantwoord om lokaal inkomsten weg te geven. Enschede moet investeren in mens, dier en natuur — een OZB-verlaging frustreert die verantwoordelijkheid."
+        },
+        "113806": {
+          "position": "disagree",
+          "explanation": "De PvdD ziet dat er weinig geschikte ruimtes beschikbaar zijn en pleit daarom voor het eerst verdichten van de bestaande bedrijventerreinen. Verouderde bedrijventerreinen dienen te worden schoongemaakt en vervolgens te worden omgevormd tot woonwijken met ruimte voor groen."
+        },
+        "113807": {
+          "position": "agree",
+          "explanation": "De PvdD ziet een vaste verblijfplaats als een voorwaarde voor optimale integratie, waarbij rekening dient te worden gehouden met andere woningzoekenden. Doorstroming naar woningen vermindert de druk op azc's en draagt eraan bij dat Enschede een open en inclusieve stad is en blijft."
+        },
+        "113808": {
+          "position": "disagree",
+          "explanation": "Tot een bepaald gewicht moet dit gratis zijn, daarna niet meer. Er zijn kosten verbonden aan de verwerking van afval, en de vervuiler dient hieraan een bijdrage te leveren. Dit geeft ook een prikkel tot de gewenste reductie van afval."
+        },
+        "113809": {
+          "position": "disagree",
+          "explanation": "Dit zou op zich een nuttige voorziening zijn, maar een grote kostenpost, en binnenkort komt er een vernieuwde zwembad binnen fietsafstand beschikbaar."
+        },
+        "113810": {
+          "position": "agree",
+          "explanation": "PvdD Enschede wil dat de gemeente investeert in zwemlessen op scholen. Het is voor de veiligheid van groot belang dat elk kind leert zwemmen."
+        },
+        "113812": {
+          "position": "agree",
+          "explanation": "De PvdD is tegen het verbieden van softdrugs. Ook de vestiging van legale en gereguleerde coffeeshops hoeft niet te worden verboden, behalve in de buurt van scholen."
+        },
+        "113813": {
+          "position": "disagree",
+          "explanation": "De PvdD wil meer betaalbare woningen en wenst daarom dat minimaal 40% van de huurwoningen sociale huur is."
+        },
+        "113816": {
+          "position": "agree",
+          "explanation": "Eens dat er in elke wijk een wijkcentrum moet komen. De gemeente investeert in jongerencentra, buurthuizen, wijkcentra en ontmoetingsplekken."
+        },
+        "113818": {
+          "position": "disagree",
+          "explanation": "Stilstaande en rijdende auto’s nemen veel plek in. Voetgangers, fietsers en openbaar vervoer moeten centraal staan. Waar nu nog auto’s rijden, kunnen mensen fietsen en wandelen. Waar nu nog auto’s geparkeerd staan, kan groen groeien en bloeien en kunnen kinderen spelen."
+        },
+        "113820": {
+          "position": "agree",
+          "explanation": "PvdD is geen voorstander van de 24-uurs economie en consumentisme, daarentegen zijn wij voor keuzevrijheid van ondernemers en spreiding van activiteiten in de tijd."
+        },
+        "113822": {
+          "position": "disagree",
+          "explanation": "Het is wel belangrijk om bijplaatsingen te voorkomen zodat het afval niet in het milieu terecht komt. Maar cameratoezicht is weinig effectief, zorgt voor verplaatsing van het probleem, en tast privacy aan."
+        },
+        "113823": {
+          "position": "disagree",
+          "explanation": "Bouwen in het groen, niet doen! Om Enschede leefbaar te houden, koesteren we natuurgebieden. Waar we niet ontkomen aan stadsuitbreiding, is bouw op landbouwgrond hiervoor een redelijk alternatief."
+        },
+        "113825": {
+          "position": "agree",
+          "explanation": "Enschede stopt onmiddellijk met het aanvullen van de jaarlijkse tekorten. De bedrijven die belang hebben bij zakenvluchten, kunnen dit zelf financieren."
+        }
+      }
+    },
+    {
+      "id": 286617,
+      "name": "Partij voor de Rechtstaat",
+      "fullName": "Partij voor de Rechtstaat",
+      "website": "https://www.partijvoorderechtsstaat.nl/",
+      "hasSeats": false,
+      "participates": true,
+      "positions": {
+        "113768": {
+          "position": "agree",
+          "explanation": "PVDR eist actieve bestrijding van institutioneel seksisme. Wij streven naar gelijke representatie van vrouwen in leidinggevende posities bij de overheid. Dit borgen we door verplichte trainingen en aansprakelijkheid bij schending van artikel 1 Grondwet."
+        },
+        "113769": {
+          "position": "agree",
+          "explanation": "PVDR wil democratische zeggenschap herstellen en de kloof tussen burger en overheid dichten. Wij zien inspraak via referenda als essentieel middel om publieke waarden en de rechtsstaat te beschermen, zodat macht en recht weer in dienst staan van de mens."
+        },
+        "113770": {
+          "position": "agree",
+          "explanation": "PVDR staat voor democratische zeggenschap over de publieke ruimte. Wij geven voorrang aan burgercollectieven en coöperaties bij het beheer van grond en voorzieningen. Zo herstellen we de band tussen burger en overheid en maken we macht weer dienstbaar aan de mens."
+        },
+        "113772": {
+          "position": "agree",
+          "explanation": "De PVDR steunt ondernemerschap en wil het midden- en kleinbedrijf stimuleren door talent en innovatie de ruimte te geven. Wij pleiten voor minder bureaucratie en een overheid die ondernemers ondersteunt in plaats van onnodig beperkt door strikte regeldruk."
+        },
+        "113775": {
+          "position": "disagree",
+          "explanation": "PVDR kiest voor menselijkheid en rechtvaardigheid als universele waarden. Wij staan voor een samenleving waarin iedereen beschermd wordt tegen onrecht, ongeacht afkomst. Asielbeleid moet gebaseerd zijn op humanitaire verantwoordelijkheid en strikte naleving van mensenrechten."
+        },
+        "113776": {
+          "position": "disagree",
+          "explanation": "De PVDR staat voor een duurzame leefomgeving en circulaire principes. Wij pleiten voor een koers die bouwen en wonen weer dienstbaar maakt aan mens en milieu. Het beperken van schadelijke uitstoot past bij ons doel van een gezonde en toekomstbestendige rechtsstaat."
+        },
+        "113778": {
+          "position": "agree",
+          "explanation": "PVDR kiest voor veiligheid en menselijkheid. Een centrale show voorkomt overlast en letsel, passend bij onze visie op een veilige leefomgeving. Wij willen dat de overheid publieke waarden beschermt en burgers samenbrengt in een veilige, gedeelde publieke ruimte."
+        },
+        "113790": {
+          "position": "disagree",
+          "explanation": "De PVDR kiest voor een rechtsstaat, geen politiestaat. Wij willen dat de overheid burgers beschermt en niet bestrijdt vanuit wantrouwen. De focus ligt op menselijke maat en de-escalatie; extra geweldsmiddelen voor boa's passen niet in onze visie op een dienstbare en rechtvaardige overheid."
+        },
+        "113791": {
+          "position": "agree",
+          "explanation": "PVDR ziet wonen als een afdwingbaar grondrecht. Wij steunen maatregelen die starters helpen, zoals betaalbare energieneutrale woningen en actieve regie op de woningmarkt. Startersleningen passen bij onze visie op gelijke kansen en een overheid die dienstbaar is aan de burger."
+        },
+        "113795": {
+          "position": "disagree",
+          "explanation": "De PVDR staat voor een overheid die burgers beschermt en niet vanuit wantrouwen bestrijdt. Wij vinden dat uitkeringen naar een leefbaar niveau moeten en dat burgers niet vermalen mogen worden door dwingende controle of systeemfouten. Menselijke waardigheid is de basis."
+        },
+        "113796": {
+          "position": "disagree",
+          "explanation": "PVDR staat voor bestaanszekerheid en een sterk sociaal vangnet. Kwijtschelding beschermt kwetsbare burgers tegen institutioneel onrecht en armoede. Wij willen juist dat de overheid dienstbaar is aan de mens en de lasten eerlijk verdeelt door het grootkapitaal zwaarder te belasten."
+        },
+        "113797": {
+          "position": "agree",
+          "explanation": "De PVDR staat voor een sterk vangnet en vindt dat uitkeringen naar een leefbaar niveau moeten. Wij willen dat de overheid dienstbaar is en burgers beschermt tegen onrecht. Het verhogen van de grens zorgt dat hulp bereikbaar is voor wie het echt nodig heeft."
+        },
+        "113799": {
+          "position": "agree",
+          "explanation": "De PVDR pleit voor een duurzame ruimteverdeling waarbij publieke waarden centraal staan. Investeren in groene infrastructuur en het faciliteren van duurzame mobiliteit passen bij onze visie op een toekomstbestendig Nederland waarin bouwen en wonen dienstbaar zijn aan mens en milieu."
+        },
+        "113800": {
+          "position": "disagree",
+          "explanation": "PVDR wil de burger beschermen tegen extra lasten en bureaucratie. Wij zien parkeervergunningen vaak als verborgen belasting die de leefbaarheid niet per se verbetert. De overheid moet dienstbaar zijn aan de burger en niet vanuit wantrouwen of winstbejag de publieke ruimte beperken."
+        },
+        "113801": {
+          "position": "agree",
+          "explanation": "PVDR stelt de menselijke maat en waardigheid centraal. Zorg is een grondrecht en moet aansluiten bij de identiteit van de burger. Een overheid die dienstbaar is, moet waarborgen dat iedereen zich veilig en begrepen voelt in de zorg, ongeacht geloof of cultuur."
+        },
+        "113802": {
+          "position": "agree",
+          "explanation": "PVDR ziet toegang tot menstruatiezorg als medische basiszorg en grondrecht. Wij stimuleren gratis verspreiding van duurzame en veilige middelen zoals cups en ondergoed. Dit bevordert de menselijke waardigheid, beschermt het milieu en bestrijdt institutionele ongelijkheid."
+        },
+        "113803": {
+          "position": "agree",
+          "explanation": "De PVDR wil de lasten voor burgers verlagen door het grootkapitaal zwaarder te belasten. Wij pleiten voor een eerlijke verdeling waarbij wonen een recht is, geen melkkoe. Verlaging van de ozb voor bewoners past bij onze visie op een overheid die de menselijke maat centraal stelt."
+        },
+        "113806": {
+          "position": "disagree",
+          "explanation": "De PVDR wil de macht van het grootkapitaal op schaarse publieke grond beperken. Wij geven prioriteit aan volkshuisvesting en natuur boven winstgedreven bedrijventerreinen. Grond moet een publiek goed zijn dat de menselijke maat en de leefomgeving dient."
+        },
+        "113807": {
+          "position": "disagree",
+          "explanation": "PVDR wil af van het tegen elkaar uitspelen van groepen. Wij zien wonen als een grondrecht voor iedereen. Door 40% van nieuwbouw te reserveren voor sociale huur en middeninkomens, lossen we het tekort voor álle woningzoekenden op, zonder dat voorrang de sociale cohesie schaadt."
+        },
+        "113808": {
+          "position": "agree",
+          "explanation": "PVDR staat voor een duurzame, circulaire samenleving waarin de overheid dienstbaar is. Gratis afvalinzameling verlaagt de drempel voor burgers om verantwoord te recyclen en voorkomt zwerfafval of illegale dump. Publieke voorzieningen moeten toegankelijk zijn voor iedereen."
+        },
+        "113809": {
+          "position": "agree",
+          "explanation": "PVDR ziet sport en beweging als cruciaal voor de volksgezondheid. Toegankelijke faciliteiten in elke kern, zoals Glanerbrug, waarborgen de menselijke maat en sociale samenhang. Wij investeren in publieke voorzieningen die voor iedereen, ongeacht inkomen, bereikbaar zijn."
+        },
+        "113810": {
+          "position": "agree",
+          "explanation": "De PVDR ziet gelijke kansen en veiligheid als kernwaarden. Schoolzwemmen voorkomt dat kinderen uit gezinnen met lage inkomens achterblijven. Een overheid die de menselijke maat hanteert, investeert in deze publieke basisvaardigheid om de sociale rechtsstaat te versterken."
+        },
+        "113812": {
+          "position": "agree",
+          "explanation": "PVDR wil drugs uit de criminaliteit halen door regulering. Dit vergroot de veiligheid op straat en de controle op de kwaliteit. Een overheid die de menselijke maat hanteert, voert een realistisch beleid dat uitgaat van volksgezondheid in plaats van een zinloze 'war on drugs'."
+        },
+        "113813": {
+          "position": "disagree",
+          "explanation": "Wonen is een grondrecht. PVDR wil juist dat minimaal 40% van de nieuwbouw bestaat uit sociale huur en middeninkomenswoningen. Het beperken tot 25% vergroot de woningnood en dient enkel de winst van beleggers, terwijl wij de menselijke maat en bestaanszekerheid vooropstellen."
+        },
+        "113816": {
+          "position": "agree",
+          "explanation": "De PVDR wil dat de overheid dienstbaar is en sociale cohesie bevordert. Buurtcentra zijn essentieel voor de menselijke maat en het bestrijden van eenzaamheid. Wij investeren liever in publieke ontmoetingsplekken dan in private winstmaximalisatie."
+        },
+        "113818": {
+          "position": "agree",
+          "explanation": "De PVDR wil dat de stad toegankelijk en gastvrij is voor iedereen. Door parkeercapaciteit te vergroten, ondersteunen we de lokale middenstand en verlagen we de parkeerdruk in omliggende woonwijken. Wij zien de publieke ruimte als een voorziening die de burger moet dienen, niet beperken."
+        },
+        "113820": {
+          "position": "disagree",
+          "explanation": "PVDR hecht aan de menselijke maat en het recht op rust. Onze economie is dienstbaar aan de mens, niet andersom. Door de zondagochtend vrij te houden van commercie, beschermen we werknemers tegen constante werkdruk en bevorderen we sociale samenhang en bezinning in de samenleving."
+        },
+        "113822": {
+          "position": "disagree",
+          "explanation": "De PVDR wijst massasurveillance en wantrouwen jegens burgers af. Cameratoezicht bij afvalcontainers is een disproportionele inbreuk op de privacy. Wij pleiten voor een menselijke maat en het aanpakken van de oorzaak van bijplaatsingen, in plaats van burgers constant te controleren."
+        },
+        "113823": {
+          "position": "disagree",
+          "explanation": "De PVDR wil natuur en leefomgeving beschermen tegen de expansiedrang van het grootkapitaal. Wij lossen de woningnood op door actieve grondpolitiek en 40% sociale/middenbouw op bestaande locaties. Natuur is een publiek goed dat we voor toekomstige generaties moeten waarborgen."
+        },
+        "113825": {
+          "position": "agree",
+          "explanation": "De PVDR wil stoppen met het pompen van publiek geld in een verlieslatende luchthaven. Wij stellen een 'out-of-the-box' oplossing voor: transformeer het vliegveld naar een zelfvoorzienende studentenwijk. Zo benutten we de grond voor volkshuisvesting en de menselijke maat."
+        }
+      }
+    },
+    {
+      "id": 141519,
+      "name": "Partij voor Enschede",
+      "fullName": "Partij voor Enschede",
+      "website": "https://partijvoorenschede.nl/",
+      "hasSeats": false,
+      "participates": true,
+      "positions": {
+        "113768": {
+          "position": "disagree",
+          "explanation": "Onzin. Selectie moet gebaseerd zijn op vaardigheden en kwaliteiten, niet op het geslacht."
+        },
+        "113769": {
+          "position": "agree",
+          "explanation": "Vergroot betrokkenheid, eigenaarschap en vertrouwen door inwoners échte inspraak te geven. Het vergroot transparantie. Grote of gevoelige besluiten worden niet meer alleen achter gesloten deuren genomen. Wat in een wijk, dorp of stad speelt, kan het beste lokaal door inwoners zelf worden beoordeeld."
+        },
+        "113770": {
+          "position": "agree",
+          "explanation": "Als een inwoner dit écht wil en aan alle gemeentelijke eisen en voorwaarden voldoet, waarom zouden we dat tegenhouden? Minder kosten voor de gemeente, meer tevredenheid bij inwoners."
+        },
+        "113772": {
+          "position": "agree",
+          "explanation": "Horecaondernemers hebben al te maken met een omvangrijk pakket aan regels en lasten. Zij zijn uitstekend in staat zelf te bepalen wat passend is voor hun onderneming."
+        },
+        "113775": {
+          "position": "agree",
+          "explanation": "Instroom mag nooit ten koste gaan van de veiligheid en leefkwaliteit van eigen inwoners. Het erkennen dat het land vol is, is geen afwijzing van mensen, maar een realistische constatering die nodig is om wonen, integratie en leefbaarheid beheersbaar te houden. Eigen inwoners moeten de prioriteit zijn.  "
+        },
+        "113776": {
+          "position": "agree",
+          "explanation": "Dat dit überhaupt een discussiepunt is, laat zien hoe ver we zijn afgedwaald. Zorgwekkend. Open haarden en houtkachels bieden warmte zonder afhankelijk te zijn van gas of elektriciteitsnetten. Het is betaalbaar en biedt comfort en keuzevrijheid voor inwoners."
+        },
+        "113778": {
+          "position": "disagree",
+          "explanation": "De taak van de gemeente is het garanderen van goede basisvoorzieningen, vuurwerk hoort daar niet bij. Een landelijk verbod is niet te handhaven, vergroot de illegale handel en maakt het juist alleen maar gevaarlijker. En ja: tradities horen erbij."
+        },
+        "113790": {
+          "position": "neither",
+          "explanation": "Wie BOA’s inzet op veiligheid, moet hen ook de middelen en bevoegdheden geven om op te treden. Een wapenstok zonder gebruiksbevoegdheid heeft geen waarde."
+        },
+        "113791": {
+          "position": "agree",
+          "explanation": "Het is bedoeld om het verschil te overbruggen tussen wat iemand kan lenen en wat een woning kost. De regeling moet voldoen aan scherpe voorwaarden, met duidelijke inkomens- en koopprijsgrenzen. Zodat het enkel kan worden ingezet voor hardwerkende inwoners, met de focus op jongeren en eenverdieners."
+        },
+        "113795": {
+          "position": "agree",
+          "explanation": "Wie in staat is om een maatschappelijk zinvolle tegenprestatie te leveren, moet ook actief worden begeleid richting betaald werk. Tegenprestaties mogen geen eindstation zijn, maar een opstap naar regulier werk. De bijstand is een tijdelijk vangnet, geen hangmat. Misbruik moet hard worden aangepakt."
+        },
+        "113796": {
+          "position": "agree",
+          "explanation": "Dit soort regelingen maakt afhankelijkheid aantrekkelijker en (meer) werken minder lonend. Kwijtschelding is bedoeld als tijdelijke noodhulp voor echte schrijnende situaties, niet als structureel beleid bij een laag inkomen. (Meer) werken moet weer lonen."
+        },
+        "113797": {
+          "position": "disagree",
+          "explanation": "Werken moet weer lonen. De kosten in Enschede zijn al torenhoog. Het verhogen van inkomensgrenzen doet afbreuk aan de prikkel om te werken. Het maakt afhankelijkheid aantrekkelijker dan werken. Afhankelijkheid wordt beloond, inzet niet. Dat is de omgekeerde wereld."
+        },
+        "113799": {
+          "position": "disagree",
+          "explanation": "Er zijn al voldoende laadpunten in Enschede en mogelijkheden voor inwoners om nieuwe laadpalen aan te vragen. De keuze voor een elektrische auto brengt een eigen verantwoordelijkheid met zich mee. Verdere uitbreiding met publiek geld is daarom niet nodig."
+        },
+        "113800": {
+          "position": "disagree",
+          "explanation": "Het parkeerbeleid is al uitermate strikt en duur. Het invoeren van parkeervergunningen in woonwijken is onpraktisch en onnodig. De gemeente moet juist zorgen voor voldoende parkeerplekken in plaats van het verder beperken van parkeren, of het koste wat kost behouden van groenstroken."
+        },
+        "113801": {
+          "position": "disagree",
+          "explanation": "Mensen die zorg nodig hebben, moeten blij zijn dat zij zorg krijgen. Het afdwingen van keuze op basis van geloof, cultuur of levensovertuiging is onacceptabel. Het zal tevens niet eens haalbaar zijn en resulteren in nóg langere wachttijden."
+        },
+        "113802": {
+          "position": "disagree",
+          "explanation": "Het verstrekken van gratis tampons en maandverband is geen taak van de gemeente. De gemeente moet zich richten op haar kerntaken en basisvoorzieningen."
+        },
+        "113803": {
+          "position": "agree",
+          "explanation": "Woningeigenaren worden al zwaar belast door de huidige regering en mogen niet verder worden uitgeknepen door de gemeente. De gemeente ontvangt structureel te weinig geld van Den Haag. Meer geld van het Rijk, zodat lastenverlaging mogelijk is zonder dat basisvoorzieningen onder druk komen te staan."
+        },
+        "113806": {
+          "position": "agree",
+          "explanation": "Vóór uitbreiding en versterking van bedrijventerreinen om de lokale economie en werkgelegenheid te versterken. Ondernemers hebben ruimte nodig om te groeien. Dat is essentieel voor een sterke en zelfstandige stad."
+        },
+        "113807": {
+          "position": "disagree",
+          "explanation": "Faliekant tegen. Het erkennen dat het land vol is, is geen afwijzing van mensen, maar een realistische constatering die nodig is om wonen, integratie en leefbaarheid beheersbaar te houden. De PVE staat voor voorrang voor eigen inwoners op de woningmarkt."
+        },
+        "113808": {
+          "position": "agree",
+          "explanation": "De gemeentelijke belastingen in Enschede zijn al bovengemiddeld hoog. Inwoners betalen een vast basisbedrag plus variabele afvalkosten. Daar mag iets tegenover staan. Gratis inleveren bij de milieustraat stimuleert correct gedrag en voorkomt overlast en illegale dumping."
+        },
+        "113809": {
+          "position": "neither",
+          "explanation": "Volgens de gemeente was heropening van het oude zwembad financieel niet haalbaar. Ze willen de locatie nu gebruiken voor een wijkontmoetings- of multifunctionele voorziening, dit wordt door inwoners gezien als een zoethoudertje. In het dorp ontbreekt hiervoor draagvlak, weggegooid belastinggeld."
+        },
+        "113810": {
+          "position": "disagree",
+          "explanation": "Dit is geen gemeentelijke taak. De verantwoordelijkheid ligt bij scholen en ouders. De gemeente biedt geen specifieke, vaste subsidie voor schoolzwemmen. Wel zijn er algemene sportsubsidies voor verenigingen en financiële regelingen via sociale fondsen voor individuele kinderen."
+        },
+        "113812": {
+          "position": "agree",
+          "explanation": "Zorgt voor controle, rust, werkgelegenheid, minder overlast op straat en in de reguliere horeca, én voorkomt juridische discussies. Het hoort bij Nederland. Het uitsterfbeleid verplaatst het probleem. Binnen gebruik moet mogelijk blijven. Legale verkoop vermindert straathandel en criminaliteit."
+        },
+        "113813": {
+          "position": "disagree",
+          "explanation": "De behoefte aan betaalbare huur en koop is nog steeds groot, het percentage is maar een cijfer, het is de realiteit. Meer woningen voor eigen inwoners, in het bijzonder werkende jongeren en eenverdieners. Zodat zij perspectief krijgen op zelfstandigheid en een toekomst in hun eigen stad."
+        },
+        "113816": {
+          "position": "disagree",
+          "explanation": "Niet elke wijk hoeft een eigen buurtcentrum te krijgen, vrijwel alle wijken beschikken al over buurt- en wijkbijeenkomstlocaties. Belastinggeld kan beter worden ingezet voor prioriteiten die inwoners écht raken, zoals goede basisvoorzieningen: meer betaalbare woningen en goede zorg."
+        },
+        "113818": {
+          "position": "agree",
+          "explanation": "Er wordt meer gebouwd in het centrum, dus moeten er ook meer parkeerplaatsen komen. Het weren van auto’s en het zogenaamd vergroenen bieden geen oplossing voor de bereikbaarheid en zijn niet realistisch of haalbaar voor inwoners, ondernemers en bezoekers."
+        },
+        "113820": {
+          "position": "agree",
+          "explanation": "Ondernemers hebben al te maken met een omvangrijk pakket aan regels en lasten. Zij zijn uitstekend in staat zelf te bepalen wat passend is voor hun onderneming."
+        },
+        "113822": {
+          "position": "disagree",
+          "explanation": "Cameratoezicht is een ondersteunend middel voor de politie en geen oplossing voor afvaloverlast. De problemen bij ondergrondse vuilcontainers zijn het gevolg van een falend afvalbeleid. Afvaloverlast bij ondergrondse containers vraagt om een beter afvalbeleid, niet om extra toezicht."
+        },
+        "113823": {
+          "position": "disagree",
+          "explanation": "De woningbouw moet zich eerst richten op stedelijke gebieden, kansen zijn er genoeg. Denk aan uitbreiding aansluitend op bestaande bebouwing, stadsranden die géén beschermde natuur zijn, en aan herontwikkeling van verouderde bedrijfslocaties, zoals het Havengebied. Eerst benutten wat mogelijk is."
+        },
+        "113825": {
+          "position": "agree",
+          "explanation": "Het is eigendom van de provincie Overijssel. De provincie moet nog steeds een besluit nemen: verhuren aan ondernemers, die de exploitatie op zich nemen, of sluiten. Gemeentelijk belastinggeld hoort hier niet naartoe te gaan. Eerst een sluitend en realistisch plan, anders geen publieke middelen."
+        }
+      }
+    },
+    {
+      "id": 164777,
+      "name": "DENK",
+      "fullName": "DENK",
+      "website": "https://www.bewegingdenk.nl/",
+      "hasSeats": false,
+      "participates": true,
+      "positions": {
+        "113768": {
+          "position": "neither",
+          "explanation": "DENK vindt het belangrijk dat het college van burgemeester en wethouders een goede afspiegeling is van de samenleving. Gelijke kansen voor mannen en vrouwen moeten daarbij het uitgangspunt zijn, met focus op kwaliteit, diversiteit en inclusiviteit."
+        },
+        "113769": {
+          "position": "agree",
+          "explanation": "DENK Enschede is het hiermee eens. Inwoners moeten via een referendum hun mening kunnen geven over belangrijke onderwerpen. Dat versterkt de democratie, de vertrouwen in lokaal politiek, vergroot betrokkenheid en zorgt ervoor dat besluiten beter aansluiten bij wat er leeft in de stad."
+        },
+        "113770": {
+          "position": "disagree",
+          "explanation": "DENK Enschede is het hier niet mee eens. Het beheer van sporthallen en plantsoenen hoort bij de gemeente, zodat kwaliteit, toegankelijkheid en gelijkheid voor alle inwoners gewaarborgd blijven."
+        },
+        "113772": {
+          "position": "agree",
+          "explanation": "DENK pleit voor meer vertrouwen in de horecasector door ondernemers meer regie te geven over hun eigen bedrijfsvoering. Dit bevordert de lokale economie en werkgelegenheid. Hierbij dient de gemeente echter een goede balans te bewaken tussen ondernemersvrijheid en de rust in de woonomgeving."
+        },
+        "113775": {
+          "position": "disagree",
+          "explanation": "DENK is het hier niet mee eens. Mensen op de vlucht verdienen bescherming en opvang. Sluiting van asielopvang lost problemen niet op; goede spreiding, menswaardige opvang en samenwerking met inwoners zijn nodig."
+        },
+        "113776": {
+          "position": "agree",
+          "explanation": "DENK Enschede vindt dat inwoners zelf keuze moeten hebben in het gebruik van open haarden en houtkachels. Tegelijk moeten gezondheid en milieu in acht worden genomen, bijvoorbeeld door bewust gebruik en duidelijke regels, zodat comfort en leefbaarheid hand in hand gaan."
+        },
+        "113778": {
+          "position": "disagree",
+          "explanation": "Bij DENK vinden wij dat veiligheid, gezondheid en milieu voorop staan. In plaats van vuurwerk kiezen wij liever voor veilige en duurzame alternatieven, zoals licht- of lasershows, zodat iedereen kan genieten zonder gevaar of overlast, en gemeentegeld wordt besteed aan belangrijke voorzieningen."
+        },
+        "113790": {
+          "position": "disagree",
+          "explanation": "Bij DENK vinden wij dat veiligheid vooral gaat over goede training, aanwezigheid en communicatie, niet over meer bewapening. Door in te zetten op de-escalatie en samenwerking met politie/boa's/jeugdwerkers zorgen we voor een veilige stad zonder dat inwoners zich bedreigd voelen."
+        },
+        "113791": {
+          "position": "agree",
+          "explanation": "DENK is vóór een starterslening. Zo krijgen starters meer kans op een koopwoning en helpen we hen over de drempel op de woningmarkt."
+        },
+        "113795": {
+          "position": "disagree",
+          "explanation": "Wij zijn het oneens: mensen die een bijstandsuitkering krijgen, moeten niet verplicht maatschappelijk werk doen. Bij DENK vinden wij dat een bijstandsuitkering bedoeld is om iedereen een eerlijk bestaansminimum te bieden. In plaats van dwang zetten wij in op begeleiding."
+        },
+        "113796": {
+          "position": "disagree",
+          "explanation": "Bij DENK vinden wij dat mensen die weinig hebben, extra ondersteuning nodig hebben om rond te komen. Het kwijtschelden van belastingen helpt hen om financieel overeind te blijven en draagt bij aan sociale rechtvaardigheid in de stad."
+        },
+        "113797": {
+          "position": "agree",
+          "explanation": "Bij DENK vinden wij juist dat meer mensen toegang moeten hebben tot ondersteuning, zodat niemand tussen wal en schip valt. Hulp moet eerlijk en laagdrempelig zijn, zodat inwoners in moeilijke situaties direct de juiste steun krijgen."
+        },
+        "113799": {
+          "position": "agree",
+          "explanation": "Bij DENK vinden wij dat duurzaam vervoer gestimuleerd moet worden, zodat inwoners gemakkelijker kunnen overstappen op elektrische voertuigen en bijgedragen wordt aan een schone en gezonde stad."
+        },
+        "113800": {
+          "position": "disagree",
+          "explanation": "Bij DENK vinden wij dat parkeren toegankelijk en praktisch moet blijven voor inwoners en bezoekers, zonder extra regels of lasten die het dagelijks leven ingewikkelder maken."
+        },
+        "113801": {
+          "position": "agree",
+          "explanation": "Bij DENK vinden wij dat zorg persoonlijk, respectvol en inclusief moet zijn, zodat iedereen zich veilig en begrepen voelt bij het ontvangen van hulp en behandeling."
+        },
+        "113802": {
+          "position": "agree",
+          "explanation": "Bij DENK vinden wij dat menstruatieproducten een basisbehoefte zijn en geen financiële drempel mogen vormen. Gratis producten zorgen voor gelijke kansen, gezondheid en waardigheid voor alle inwoners, ongeacht hun inkomen of achtergrond."
+        },
+        "113803": {
+          "position": "neither",
+          "explanation": "Bij DENK vinden wij het belangrijk dat de gemeente scholen, zorg en sociale voorzieningen goed kan financieren, terwijl de ozb betaalbaar blijft voor zowel huurders als eigenaar-bewoners."
+        },
+        "113806": {
+          "position": "neither",
+          "explanation": "Bij DENK vinden wij dat lokale ondernemers extra kansen moeten krijgen om te groeien en werkgelegenheid te bieden. Voor grote bedrijven en ketens is uitbreiding minder nodig; daarvoor mag de stad haar ruimte en leefbaarheid beschermen."
+        },
+        "113807": {
+          "position": "agree",
+          "explanation": "DENK staat voor gelijke kansen op de woningmarkt voor iedereen. Tegelijk erkennen wij dat sommige groepen, zoals statushouders, te maken hebben met structurele ongelijkheid die zij niet zelf hebben veroorzaakt. Daarom is extra bescherming gerechtvaardigd."
+        },
+        "113808": {
+          "position": "agree",
+          "explanation": "Bij DENK vinden wij dat alle inwoners gelijke toegang tot afvalvoorzieningen moeten hebben, ongeacht inkomen. Zo stimuleren we correct afval scheiden, beschermen we het milieu en zorgen we voor een schone en leefbare stad voor iedereen."
+        },
+        "113809": {
+          "position": "agree",
+          "explanation": "Bij DENK vinden wij dat sport en bewegen voor alle inwoners toegankelijk moeten zijn. Een zwembad draagt bij aan gezondheid, zwemvaardigheid en sociale ontmoetingen, en zorgt dat iedereen, jong en oud, gelijke kansen heeft om te sporten en plezier te hebben."
+        },
+        "113810": {
+          "position": "agree",
+          "explanation": "Bij DENK vinden wij dat alle kinderen moeten leren zwemmen, ongeacht hun achtergrond of financiële situatie. Sport en bewegen moeten daarnaast voor alle kinderen gratis toegankelijk zijn, zodat iedereen gelijke kansen heeft op een gezonde en actieve jeugd."
+        },
+        "113812": {
+          "position": "disagree",
+          "explanation": "Bij DENK vinden wij dat de leefbaarheid en veiligheid in de wijken voorop staan. In plaats van uitbreiding van coffeeshops, zetten wij in op voorlichting, preventie en ondersteuning om problemen rond drugsgebruik te beperken."
+        },
+        "113813": {
+          "position": "disagree",
+          "explanation": "Wij vinden dat er juist meer betaalbare woningen nodig zijn, vooral voor jongeren, starters en gezinnen met een kleiner inkomen. Sociale huurwoningen zijn essentieel om iedereen een kans te geven om in Enschede te wonen en om een sociale, gemengde stad te behouden."
+        },
+        "113816": {
+          "position": "agree",
+          "explanation": "Wij zijn het eens: alle wijken in Enschede verdienen een eigen buurtcentrum. Buurtcentra versterken de sociale cohesie, zorgen voor ontmoetingsplekken en bieden ruimte voor activiteiten voor jong en oud. Zo bouwen we aan betrokken en leefbare wijken waar iedereen zich thuis voelt."
+        },
+        "113818": {
+          "position": "disagree",
+          "explanation": "Wij vinden dat extra parkeerplaatsen in het centrum alleen wenselijk zijn als ze bijdragen aan bereikbaarheid voor bewoners, ouderen en ondernemers. Meer parkeren mag niet ten koste gaan van leefbaarheid, groen en veiligheid. Eerst slimme oplossingen en goede alternatieven."
+        },
+        "113820": {
+          "position": "agree",
+          "explanation": "Wij zijn het eens: de gemeente moet het mogelijk maken dat winkels ook op zondagochtend open kunnen zijn. Zo geven we inwoners meer flexibiliteit om boodschappen te doen, helpen we werkenden en gezinnen, en ondersteunen we lokale ondernemers."
+        },
+        "113822": {
+          "position": "disagree",
+          "explanation": "Wij zijn het oneens: er hoeft geen cameratoezicht te komen bij de ondergrondse vuilcontainers. Bij DENK vinden wij dat privacy van inwoners voorop staat. Probleemgedrag los je niet op met camera’s, maar met sociale oplossingen: duidelijke voorlichting, betrokkenheid van de buurt en ondersteuning."
+        },
+        "113823": {
+          "position": "agree",
+          "explanation": "De gemeente mag nieuwbouw in natuurgebieden toestaan, maar alleen als het zorgvuldig gebeurt en vooral sociale huurwoningen betreft. Bij DENK vinden wij dat iedereen een betaalbaar huis moet hebben en dat groei van de stad niet ten koste mag gaan van de natuur."
+        },
+        "113825": {
+          "position": "agree",
+          "explanation": "Enschede moet geen geld meer steken in Twente Airport. Bij DENK vinden wij dat publieke middelen beter worden besteed aan betaalbare woningen, scholen, zorg en sociale voorzieningen die direct iets betekenen voor de inwoners van onze stad."
+        }
+      }
+    },
+    {
+      "id": 154486,
+      "name": "Belang van Enschede",
+      "fullName": "Belang van Enschede",
+      "website": "https://verbindend-enschede.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "113768": {
+          "position": "disagree",
+          "explanation": "Bij benoemingen moet altijd de beste kandidaat doorslaggevend zijn, ongeacht gender"
+        },
+        "113769": {
+          "position": "agree",
+          "explanation": "Inwoners moeten via actieve inwonersraadpleging en referenda directe invloed krijgen op belangrijke besluiten."
+        },
+        "113770": {
+          "position": "agree",
+          "explanation": "Inwoners moeten het beheer van gemeentelijke voorzieningen, zoals sporthallen of plantsoenen, kunnen overnemen van de gemeente. Dit kan alleen met eenduidige en transparante financiering. Wij zijn geen voorstander van sociale hypotheken; de proef hiermee is wat ons betreft mislukt."
+        },
+        "113772": {
+          "position": "agree",
+          "explanation": "Ja, maar wel met voorwaarden."
+        },
+        "113775": {
+          "position": "disagree",
+          "explanation": "De bestuursovereenkomst voor het AZC Parkweg loopt tot 2028 en wordt niet verlengd. Nieuwe opvang vindt na 2028 alleen tijdelijk plaats voor mensen die hun huis en haard hebben moeten verlaten door oorlog of vervolging."
+        },
+        "113776": {
+          "position": "agree",
+          "explanation": "Mensen hebben geïnvesteerd. Wel willen we duidelijk maken dat bij overlast meldingen we alles in werk zullen stellen dat deze ophoudt.Houtstook zien we ook niet als duurzaam"
+        },
+        "113778": {
+          "position": "agree",
+          "explanation": "Als het landelijk verbod wordt doorgezet - waar wij op tegen zijn - is dit een prima alternatief."
+        },
+        "113790": {
+          "position": "neither",
+          "explanation": "Meer geweldsmiddelen voor BOA’s zijn niet de oplossing; Belang van Enschede kiest voor preventieve veiligheid via straatcoaches, particuliere beveiliging en gespecialiseerde BOA’s."
+        },
+        "113791": {
+          "position": "neither",
+          "explanation": "Belang van Enschede wil een fonds instellen waar startende of zich vestigende zorgverleners – zoals huisartsen, tandartsen en andere eerstelijnszorgaanbieders"
+        },
+        "113795": {
+          "position": "agree",
+          "explanation": "Solidariteit vraagt om wederkerigheid. Wie een beroep doet op de bijstand mag ondersteuning verwachten, maar ook inzet tonen om zo snel mogelijk weer zelfstandig in het eigen inkomen te voorzien. Maatschappelijk werk mag echter nooit leiden tot arbeidsmarkt verdringing"
+        },
+        "113796": {
+          "position": "disagree",
+          "explanation": "Financiële stabiliteit is een belangrijke voorwaarde voor lichamelijk en psychisch welzijn. Daarom willen wij sterker inzetten op preventie, vroeg signalering en het actief verminderen van schulden. Het uitgangspunt is dat iedere inwoner perspectief moet hebben op een schuldenvrij bestaan."
+        },
+        "113797": {
+          "position": "agree",
+          "explanation": "Enschede hanteert nu een grens van 120%. Belang van Enschede wil deze grens verhogen naar 130% van het sociaal minimum."
+        },
+        "113799": {
+          "position": "disagree",
+          "explanation": "Niet nog meer parkeerplekken reserveren voor doelgroepen en ze vervolgens onbezet laten."
+        },
+        "113800": {
+          "position": "disagree",
+          "explanation": "Onze bewoners moeten hun gasten 'gastvrij' kunnen ontvangen. Parkeer vergunningen met als doel vervolgens minder parkeerplekken zien wij dan ook niet als oplossing."
+        },
+        "113801": {
+          "position": "neither",
+          "explanation": "Iedereen moet zorg kunnen krijgen zonder dat hun geloof, cultuur of levensovertuiging wordt beperkt. Er hoeft niet altijd een zorgverlener beschikbaar te zijn die volledig bij hun voorkeur past."
+        },
+        "113802": {
+          "position": "agree",
+          "explanation": "Dit kan prima via de voedselbank"
+        },
+        "113803": {
+          "position": "agree",
+          "explanation": "Belang van Enschede wil duidelijkheid over de relatie tussen investeringen, OZB-opbrengsten en inflatiecorrecties. Bezuinigen doen we door efficiënter te werken en het eigen vlees te snijden, niet door extra druk op inwoners."
+        },
+        "113806": {
+          "position": "neither",
+          "explanation": "Vraag en aanbod moet in balans zijn en passend bij de economische visie. Waarbij we in eerste instantie goed moeten kijken naar de inrichting van de huidige terreinen."
+        },
+        "113807": {
+          "position": "disagree",
+          "explanation": "We willen prioriteit geven aan betaalbare woningen voor inwoners die aantoonbaar in Enschede wonen of hebben gewoond."
+        },
+        "113808": {
+          "position": "neither",
+          "explanation": "Wij willen dan ook een herijking van het DIFTAR beleid en dat bijvoorbeeld afval storten op de juiste locaties niet wordt gestraft maar juist wordt beloond."
+        },
+        "113809": {
+          "position": "agree",
+          "explanation": "In 2017 hebben de toen zittende partijen in meerderheid bepaald dat het zwembad in Glanerbrug moet sluiten. We steunen Glanerbrug in principe bij het hebben van een zwembad, maar anno 2026 is het (na meerdere onderzoeken) financieel niet haalbaar gebleken een nieuwe zwemvoorziening te realiseren."
+        },
+        "113810": {
+          "position": "agree",
+          "explanation": "De invulling van de lessen is een taak van de onderwijs instelling"
+        },
+        "113812": {
+          "position": "agree",
+          "explanation": "Coffeeshops functioneren in een gespannen situatie: verkoop is legaal, inkoop niet. Belang van Enschede pleit voor helder en eerlijk beleid. Wel zullen samen met de vergunde coffeeshops werken aan actieve bestrijding van straathandel en zal handhaving zonder extra belasting van de politie zijn."
+        },
+        "113813": {
+          "position": "disagree",
+          "explanation": "Belang van Enschede wil obstakels wegnemen en prioriteit geven aan betaalbare woningen voor inwoners die aantoonbaar in Enschede wonen of hebben gewoond. Maar vooral ook bouwen naar behoefte waarbij de rol van de overheid (binnen onze kaders) vooral is: faciliteren en niet voorschrijven."
+        },
+        "113816": {
+          "position": "agree",
+          "explanation": "Wij willen wijkwijzers op meerdere plekken in de stad, gekoppeld aan wijkcentra (in elke wijk), met wijkteams die van daaruit werken. Wijkwijzers moeten laagdrempelig zijn en zeven dagen per week toegankelijk."
+        },
+        "113818": {
+          "position": "agree",
+          "explanation": "Om de binnenstad levendig en sociaal veilig te houden is wonen in de binnenstad van groot belang. Bewoning draagt bij aan toezicht, betrokkenheid en veiligheid. Belang van Enschede stimuleert daarom wonen in de binnenstad, bij voorkeur via nieuwe en passende woonconcepten."
+        },
+        "113820": {
+          "position": "disagree",
+          "explanation": "De openingstijden zijn prima. Maar de winkelier gaat er zelf over en kan bij zwaarwegend bezwaar via een vergunning afwijkende openingstijden aanvragen."
+        },
+        "113822": {
+          "position": "agree",
+          "explanation": "Wij willen DIFTAR herijken en: - nascheiden van afval; - cameratoezicht bij milieupleinen bij overlast; - ondergrondse/bovengrondse plaatsing van containers; - maximaal drie containers per huishouden, met tarief per kilo; - handhaving en beloning van goed gedrag, niet extra belastingen."
+        },
+        "113823": {
+          "position": "disagree",
+          "explanation": "Wij willen: - dorps- en buurtschapskarakter behouden; - het buitengebied beschermen en benutten voor recreatie en gecontroleerde tijdelijke bewoning; - nieuwe woonconcepten mogelijk maken onder strikte regels en toezicht op veiligheid en levendigheid; - een adviescommissie ‘dorp en buitengebied'."
+        },
+        "113825": {
+          "position": "disagree",
+          "explanation": "Wij staan open voor innovatieve en commerciële ontwikkelingen bij Airport Twente."
+        }
+      }
+    },
+    {
+      "id": 286619,
+      "name": "Blanco Lijst Ten Wolde",
+      "fullName": "Blanco Lijst Ten Wolde",
+      "website": "",
+      "hasSeats": false,
+      "participates": true,
+      "positions": {
+        "113768": {
+          "position": "disagree",
+          "explanation": "Het gaat om de kwaliteit van de mensen. Kleur, geloof of man/vrouw doet er niet toe."
+        },
+        "113769": {
+          "position": "agree",
+          "explanation": "Elke mening telt. Om die reden zijn wij ook geen partij maar een beweging waar elke stem telt."
+        },
+        "113770": {
+          "position": "agree",
+          "explanation": "Sportverenigingen of andere lokale initiatieven weten vaak beter hoe een sporthal of plantsoen beter in de wijk ingepast kan worden."
+        },
+        "113772": {
+          "position": "agree",
+          "explanation": "Restaurants en cafés weten zelf wanneer ze het beste open kunnen gaan om hun geld te verdienen."
+        },
+        "113775": {
+          "position": "agree",
+          "explanation": "Wij hebben op dit moment in Enschede zo'n grote woningnood dat we die ruimte, geld en aandacht eerst aan onze eigen burgers moeten besteden in plaats van aan een asielzoekers centrum."
+        },
+        "113776": {
+          "position": "agree",
+          "explanation": "De gasprijzen en stadsverwarming zijn bijna onbetaalbaar dus deze alternatieven moeten blijven bestaan."
+        },
+        "113778": {
+          "position": "disagree",
+          "explanation": "Zonde van het geld, kunnen we beter gebruiken voor armoedebestrijding."
+        },
+        "113790": {
+          "position": "disagree",
+          "explanation": "Boa's zijn geen agenten en staan in dienst van de burgers."
+        },
+        "113791": {
+          "position": "agree",
+          "explanation": "Dit zou de doorstroom van sociale huurwoningen naar koopwoningen bevorderen."
+        },
+        "113795": {
+          "position": "disagree",
+          "explanation": "Er moet maatwerk geleverd worden. Dwang werkt niet. Mensen willen graag wat doen, maar het moet passend zijn binnen de beperkingen die iemand heeft. Vrijwilligerswerk kost de mensen werk vanwege slijtage van kleding en andere kosten die ze maken, dat moet vergoed worden."
+        },
+        "113796": {
+          "position": "disagree",
+          "explanation": "Iemand in de bijstand kan amper rondkomen. Hoe moeten ze dit betalen?"
+        },
+        "113797": {
+          "position": "agree",
+          "explanation": "De norm van 120% is te laag, die moet naar 140%. Tevens moet er rekening mee worden gehouden dat mensen in een koopwoning ook in armoede terecht kunnen komen. Hier moet ook een vangnet voor zijn."
+        },
+        "113799": {
+          "position": "disagree",
+          "explanation": "Daar hebben we er al genoeg van en er wordt weinig gebruik van gemaakt."
+        },
+        "113800": {
+          "position": "disagree",
+          "explanation": "Parkeren moet geen melkkoe worden van de gemeente."
+        },
+        "113801": {
+          "position": "agree",
+          "explanation": "Wij vinden dat mensen een keuze moeten hebben hoe zij verzorgd willen worden, en daarmee mag rekening worden gehouden."
+        },
+        "113802": {
+          "position": "agree",
+          "explanation": "De armoede in Enschede is groot en alle kleine beetjes helpen."
+        },
+        "113803": {
+          "position": "agree",
+          "explanation": "Er zitten teveel (kleine) ondernemers in zwaar weer."
+        },
+        "113806": {
+          "position": "disagree",
+          "explanation": "Er staat nu al teveel leeg."
+        },
+        "113807": {
+          "position": "disagree",
+          "explanation": "De woningnood is hiervoor te groot, waardoor steeds meer mensen een afkeer krijgen van vluchtelingen."
+        },
+        "113808": {
+          "position": "agree",
+          "explanation": "Dit zou de gemeente Enschede heel veel geld schelen. Het voorkomt dumpen van afval."
+        },
+        "113809": {
+          "position": "agree",
+          "explanation": "Anders is de kans groot dat wij in Glanerbrug een generatie krijgen die niet kan zwemmen. Het zwembad in Enschede is te ver weg en mensen hebben geen vervoer."
+        },
+        "113810": {
+          "position": "agree",
+          "explanation": "Zwemles is voor heel veel bewoners in Enschede onbetaalbaar geworden."
+        },
+        "113812": {
+          "position": "agree",
+          "explanation": "Anders verliest de gemeente Enschede de controle en het toezicht op het gebruik in Enschede."
+        },
+        "113813": {
+          "position": "disagree",
+          "explanation": "25% sociale huurwoningen is veel te laag. De woningnood is hoog."
+        },
+        "113816": {
+          "position": "agree",
+          "explanation": "Zo krijg je meer verbinding in de wijk, stimuleer je mensen vrijwilligerswerk te doen en het is goed tegen eenzaamheid."
+        },
+        "113818": {
+          "position": "disagree",
+          "explanation": "Er zijn parkeerplekken genoeg, alleen ze zijn onbetaalbaar."
+        },
+        "113820": {
+          "position": "agree",
+          "explanation": "Winkeliers moeten meer vrijheid krijgen om zelf te beslissen wanneer ze open zijn."
+        },
+        "113822": {
+          "position": "disagree",
+          "explanation": "Als je zorgt dat het afval storten goedkoper wordt en/of het opgehaald wordt, dan heb je geen afvalprobleem."
+        },
+        "113823": {
+          "position": "neither",
+          "explanation": "Omdat wij niet weten wat onder natuurgebieden wordt verstaan, zijn wij niet voor of tegen. Dat moet per situatie bekeken worden."
+        },
+        "113825": {
+          "position": "agree",
+          "explanation": "Maak daar een nieuwe woonwijk."
+        }
+      }
+    }
+  ],
+  "statements": [
+    {
+      "id": 113823,
+      "index": 1,
+      "theme": "Housing construction",
+      "themeId": "woningbouw",
+      "title": "The municipality should allow new construction in natural areas.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113768,
+      "index": 2,
+      "theme": "Mayor and municipal executive",
+      "themeId": "burgemeester-en-college",
+      "title": "The new college of mayor and aldermen must have an equal number of men and women.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113772,
+      "index": 3,
+      "theme": "Opening hours for hospitality venues",
+      "themeId": "openingstijden-horeca",
+      "title": "Cafés and restaurants must be able to determine their own opening hours.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113797,
+      "index": 4,
+      "theme": "Combating poverty",
+      "themeId": "armoedebestrijding",
+      "title": "The municipality should raise the income threshold for receiving poverty assistance.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113775,
+      "index": 5,
+      "theme": "Asylum seekers' center",
+      "themeId": "asielzoekerscentrum",
+      "title": "The asylum reception center in our municipality should be closed as soon as possible.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113799,
+      "index": 6,
+      "theme": "Electric vehicle charging stations",
+      "themeId": "elektrische-laadpalen",
+      "title": "The municipality should designate more parking spaces as charging points for electric cars.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113778,
+      "index": 7,
+      "theme": "Fireworks",
+      "themeId": "vuurwerk",
+      "title": "The municipality should organize a fireworks show on New Year's Eve.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113770,
+      "index": 8,
+      "theme": "Management by citizens",
+      "themeId": "beheer-door-burgers",
+      "title": "Residents should be able to take over the management of, for example, a sports hall or a public green space from the municipality.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113802,
+      "index": 9,
+      "theme": "Free menstrual products",
+      "themeId": "gratis-menstruatieproducten",
+      "title": "The municipality should distribute tampons and sanitary pads for free.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113791,
+      "index": 10,
+      "theme": "Starter loan",
+      "themeId": "starterslening",
+      "title": "First-time homebuyers should be able to receive a starter loan from the municipality.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113790,
+      "index": 11,
+      "theme": "Enforcement officers",
+      "themeId": "handhavers",
+      "title": "The BOAs who enforce safety in Enschede should be given a baton.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113808,
+      "index": 12,
+      "theme": "Recycling center",
+      "themeId": "milieustraat",
+      "title": "Dropping off waste at the recycling center should be free of charge.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113800,
+      "index": 13,
+      "theme": "Parking permits",
+      "themeId": "parkeervergunningen",
+      "title": "Enschede should introduce parking permits in more neighborhoods.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113803,
+      "index": 14,
+      "theme": "Tax on buildings",
+      "themeId": "belasting-op-gebouwen",
+      "title": "The property tax (onroerendezaakbelasting, OZB) should be reduced.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113795,
+      "index": 15,
+      "theme": "Work requirement for welfare recipients",
+      "themeId": "tegenprestatie-voor-uitkering",
+      "title": "People receiving social assistance should, in return, do socially useful work.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113820,
+      "index": 16,
+      "theme": "Shop opening hours",
+      "themeId": "winkeltijden",
+      "title": "The municipality should allow shops to open on Sunday mornings as well.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113776,
+      "index": 17,
+      "theme": "Wood burning",
+      "themeId": "houtstook",
+      "title": "In Enschede, the use of open fireplaces and wood-burning stoves should remain allowed.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113801,
+      "index": 18,
+      "theme": "Choice of healthcare",
+      "themeId": "zorgkeuze",
+      "title": "People who need care should always be able to choose a caregiver who matches their religion, culture, or beliefs.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113796,
+      "index": 19,
+      "theme": "Stop debt forgiveness",
+      "themeId": "kwijtschelding-stoppen",
+      "title": "The municipality should stop forgiving municipal taxes for low-income residents.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113810,
+      "index": 20,
+      "theme": "School swimming",
+      "themeId": "schoolzwemmen",
+      "title": "The municipality should allocate money for school swimming.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113769,
+      "index": 21,
+      "theme": "Referendum",
+      "themeId": "referendum",
+      "title": "The residents of Enschede should be able to give their opinion on important issues via a referendum.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113806,
+      "index": 22,
+      "theme": "Business parks",
+      "themeId": "bedrijventerreinen",
+      "title": "Enschede should have more business parks.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113812,
+      "index": 23,
+      "theme": "Coffeeshops (cannabis cafés)",
+      "themeId": "coffeeshops",
+      "title": "The municipality should allow the establishment of new coffeeshops.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113822,
+      "index": 24,
+      "theme": "Camera surveillance of waste",
+      "themeId": "cameratoezicht-afval",
+      "title": "There should be camera surveillance at the underground waste containers.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113813,
+      "index": 25,
+      "theme": "Social housing",
+      "themeId": "sociale-huurwoningen",
+      "title": "Of the new homes to be built in Enschede, a maximum of 25% should be social rental housing. Currently, 36% of the homes in Enschede are social rental housing.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113816,
+      "index": 26,
+      "theme": "Neighborhood center",
+      "themeId": "buurtcentrum",
+      "title": "Every neighborhood in the city should get its own community center.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113809,
+      "index": 27,
+      "theme": "New swimming pool",
+      "themeId": "nieuw-zwembad",
+      "title": "Enschede should build a new swimming pool in Glanerbrug.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113818,
+      "index": 28,
+      "theme": "More parking spaces",
+      "themeId": "meer-parkeerplaatsen",
+      "title": "More parking spaces should be created in the center.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113807,
+      "index": 29,
+      "theme": "Priority for refugees",
+      "themeId": "voorrang-voor-vluchtelingen",
+      "title": "The municipality should give refugees with a residence permit priority for social housing.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113825,
+      "index": 30,
+      "theme": "Airport",
+      "themeId": "luchthaven",
+      "title": "Enschede should stop investing money in Twente Airport.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    }
+  ]
+}

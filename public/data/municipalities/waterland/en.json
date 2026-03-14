@@ -1,0 +1,927 @@
+{
+  "id": "GM0852",
+  "name": "Waterland",
+  "slug": "waterland",
+  "parties": [
+    {
+      "id": 126684,
+      "name": "GroenLinks-PvdA",
+      "fullName": "Groenlinks - Partij van de Arbeid",
+      "website": "https://groenlinkspvda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "126696": {
+          "position": "agree",
+          "explanation": "Het gemeentebestuur hoort een goede afspiegeling te zijn van de mensen die in onze gemeente wonen. Met evenveel mannen als vrouwen, dus. In zo'n bestuur zijn alle perspectieven vertegenwoordigd, om doordachte beslissingen te nemen."
+        },
+        "126697": {
+          "position": "agree",
+          "explanation": "Als inwoners gaan wij over onze eigen gemeente. Een referendum maar ook een burgerberaad kan een goede manier zijn om een besluit terug te sturen naar de gemeenteraad en een nieuw voorstel te vragen."
+        },
+        "126700": {
+          "position": "agree",
+          "explanation": "De landbouw moet flink duurzamer worden, maar we willen ook dat boeren geld kunnen verdienen met hun bedrijf. Een winkel met goede producten van eigen land of een kleine camping kunnen daarbij helpen. Daarom willen we deze opties graag mogelijk maken."
+        },
+        "126703": {
+          "position": "agree",
+          "explanation": "Wie mensen naar onze gemeente haalt om te werken, moet zelf zorgen dat die arbeiders een fatsoenlijk dak boven hun hoofd hebben. Zonder dat de inwoners van onze gemeente daar last van hebben. Voor uitbuiting en overlast is in Waterland geen plek."
+        },
+        "126706": {
+          "position": "agree",
+          "explanation": "Het nieuwjaarsfeest vier je met z’n allen samen, met een vuurwerkshow of een lichtshow. Wij stellen al jaren een vuurwerkverbod voor, vanwege de overlast voor mens en dier. Vuurwerk wordt gebruikt voor vandalisme richting hulpverleners. Wij kiezen voor een veilig en gezellig oudjaar."
+        },
+        "126708": {
+          "position": "agree",
+          "explanation": "Toegankelijkheid is voor mensen met een beperking van levensbelang. Maar veel belangrijke plekken zijn nog niet goed toegankelijk, bijvoorbeeld voor iemand met een rolstoel. Ondernemers kunnen zo'n aanpassing vaak niet zomaar betalen. Daarom vinden wij dat de gemeente Waterland moet bijspringen."
+        },
+        "126709": {
+          "position": "agree",
+          "explanation": "Er is een enorm woningtekort en een extra woning op het erf kan een goede oplossing zijn. Bijvoorbeeld als geschikte plek voor een ouder die niet meer zelfstandig kan wonen. We willen dit graag mogelijk maken voor boeren die dat willen. Bouwen in het weiland of in de natuur staan wij niet toe."
+        },
+        "126710": {
+          "position": "agree",
+          "explanation": "Sporten geeft een hoop energie en voldoening. En het houdt je gezond. Maar voor mensen met een bijstandsuitkering is sport vaak te duur. Wat ons betreft zorgt de gemeente Waterland dat deze groep gratis bij een sportclub kan sporten."
+        },
+        "126714": {
+          "position": "agree",
+          "explanation": "Sporten geeft een hoop energie en voldoening. Het houdt je gezond en vaak is de sportclub ook een ontmoetingsplek. Als een sportclub omvalt, heeft een hele buurt daar last van, daarom vinden we dat de gemeente moet bijspringen als het nodig is."
+        },
+        "126717": {
+          "position": "agree",
+          "explanation": "De boa’s zijn samen met de politie en brandweer belangrijk voor de veiligheid in Waterland. De boa’s moeten gericht ingezet worden om overlast te verminderen, bijvoorbeeld door te handhaven op vuurwerkoverlast."
+        },
+        "126718": {
+          "position": "agree",
+          "explanation": "Uitbreiding is gewenst op plekken die onveilig zijn. Voor onze privacy willen we geen samenleving met “op elke hoek een camera”. We kiezen liever voor meer handhavers op straat, die ook meteen kunnen ingrijpen als het mis gaat."
+        },
+        "126721": {
+          "position": "agree",
+          "explanation": "Vakantiewoningen zijn geen permanente oplossing voor het woningtekort. Maar zo lang de nood hoog is, kunnen sommige mensen er wel terecht. Het is belangrijk dat ze de vakantiewoning als vast adres kunnen gebruiken zolang het nodig is."
+        },
+        "126722": {
+          "position": "agree",
+          "explanation": "Wij willen het open landschap beschermen. In Waterland zijn we meer dan 1.000 betaalbare woningen aan het bouwen in de komende jaren. Ook komen er ieder jaar nieuwe plannen bij in de dorpskernen en in Monnickendam."
+        },
+        "126723": {
+          "position": "disagree",
+          "explanation": "Mensen zitten niet in de bijstand omdat ze niet willen werken, maar omdat ze niet aan de eisen van werkgevers voldoen. Vaak zijn ze vrijwilliger of mantelzorger. Dat is nuttig en werkt alleen goed als mensen dat vanuit zichzelf doen. Verplichten werkt averechts en veroorzaakt nieuwe problemen."
+        },
+        "126725": {
+          "position": "agree",
+          "explanation": "Mensen met een inkomen net boven de grens hebben het vaak financieel moeilijk. Door de inkomensgrens te verhogen helpen we meer Waterlanders. Hier hebben we bijvoorbeeld voor gekozen bij hulp bij de energietoeslag. Zo voorkomen we schulden, wat de gemeente geld bespaart."
+        },
+        "126727": {
+          "position": "agree",
+          "explanation": "Als er in een buurt te weinig oplaadplekken zijn voor elektrische auto’s moeten er meer parkeerplaatsen komen met een laadpaal voor elektrische auto’s. Als er een wijk is waar al oplaadplekken zijn die niet gebruikt worden hoeven er nog geen nieuwe oplaadplekken bij."
+        },
+        "126729": {
+          "position": "agree",
+          "explanation": "Keuzevrijheid is voor ons erg belangrijk. Hier hoort ook de keuze voor een zorgverlener bij."
+        },
+        "126732": {
+          "position": "disagree",
+          "explanation": "Voor honden regelt de gemeente poepzakjes en prullenbakken op plekken waar honden worden uitgelaten. Zo wordt overlast door poep op straat verminderd."
+        },
+        "126734": {
+          "position": "disagree",
+          "explanation": "In Edam-Volendam komt een groot nieuw bedrijventerrein en ook in Purmerend is nog ruimte op bedrijventerreinen. In Waterland kunnen we daarom de weilanden groen laten."
+        },
+        "126735": {
+          "position": "agree",
+          "explanation": "Wij vinden het belangrijk dat de winkels op zondag open kunnen voor winkeliers én klanten die dat willen. Dit maakt het voor alleenstaanden die doordeweeks werken ook een stuk makkelijker om belangrijke boodschappen te doen. In Waterland mogen de winkels al open op zondag."
+        },
+        "126736": {
+          "position": "agree",
+          "explanation": "Vluchtelingen met een verblijfsvergunning mogen in Nederland blijven, maar kunnen zelf niet zomaar een huis vinden. De gemeente is verplicht om te zorgen dat zij een huis vinden. In Waterland gaan er van de meer dan 100 sociale huurwoningen per jaar, minder dan 10 naar statushouders."
+        },
+        "126743": {
+          "position": "agree",
+          "explanation": "Uit een onderzoek van de burgemeester komt dat er geen goede locaties zijn voor een coffeeshop in Waterland. Een coffeeshop naast een school is geen goed idee."
+        },
+        "126746": {
+          "position": "disagree",
+          "explanation": "We hebben een enorm woningtekort, en veel mensen in onze gemeente wonen ruimer dan eigenlijk nodig. Daarom willen wij het makkelijker maken om losse kamers te verhuren, als die maar goed onderhouden zijn en je er een eerlijke huurprijs voor betaalt."
+        },
+        "126748": {
+          "position": "disagree",
+          "explanation": "Er zijn al voldoende parkeerplaatsen in de gemeente Waterland. Meer parkeerplaatsen betekent dat er groen moet verdwijnen. Daarnaast bouwen we een sporthal met eronder veel parkeerplaatsen. Deze parkeerplaatsen kunnen buiten de sporttijden ook gebruikt worden."
+        },
+        "126750": {
+          "position": "agree",
+          "explanation": "In Waterland doen we al aan afval scheiden. Dat is goedkoper en duurzamer. Voor Waterlanders met een kleine of geen tuin zorgen we voor ondergrondse containers in iedere wijk."
+        },
+        "126751": {
+          "position": "agree",
+          "explanation": "Betaald parkeren in de binnenstad van Monnickendam is een optie als de blauwe zone niet het gewenste effect heeft. Door betaald parkeren in te voeren betalen de bezoekers in plaats van de bewoners. Ook zorgt betaald parkeren voor minder autoverkeer in de binnenstad."
+        },
+        "126752": {
+          "position": "agree",
+          "explanation": "Sport is gezond. Als alle Waterlanders meer gaan sporten gaan de zorgkosten enorm naar beneden en wordt het leven van Waterlanders beter. Investeren in goede sportfaciliteiten is een investering die zichzelf terugverdient."
+        },
+        "126753": {
+          "position": "agree",
+          "explanation": "Het samen gebruiken van kantines en sportvelden zorgt voor meer verbinding tussen Waterlanders."
+        }
+      }
+    },
+    {
+      "id": 126685,
+      "name": "Waterland Natuurlijk",
+      "fullName": "Waterland Natuurlijk",
+      "website": "https://waterlandnatuurlijk.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "126696": {
+          "position": "disagree",
+          "explanation": "Belangrijk is dat het gaat om de best mogelijke kandidaten! Het gaat niet om aantallen van verschillende groepen."
+        },
+        "126697": {
+          "position": "disagree",
+          "explanation": "Nee, er zijn betere manieren om je mening te geven dan alleen referenda. Denk bijvoorbeeld aan een permanent digitaal participatieplatform waar elke inwoner laagdrempelig zijn mening kan geven. Bovendien: gaat het om raadgevende referenda of dwingende referenda?"
+        },
+        "126700": {
+          "position": "disagree",
+          "explanation": "Nee, dat kan teveel invloed hebben op ons mooie landschap. Wij zijn trots op ons landschap als erfgoed. Daar springen we dus heel zorgvuldig mee om."
+        },
+        "126703": {
+          "position": "disagree",
+          "explanation": "Nee, soms zijn er betere opvangmogelijkheden buiten het eigen bedrijfsterrein. Dat is belangrijker dan ondernemers dwingen om mensen op eigen terrein te huisvesten."
+        },
+        "126706": {
+          "position": "agree",
+          "explanation": "Als de gemeente zelf geen vuurwerkshow organiseert, dan zou ze buurt- of dorpsinitiatieven wel moeten ondersteunen."
+        },
+        "126708": {
+          "position": "disagree",
+          "explanation": "Nee, ondernemers dienen zelf te zorgen voor toegankelijkheid. Dit geldt zowel voor hun eigen personeel, als voor bezoekers."
+        },
+        "126709": {
+          "position": "agree",
+          "explanation": "In een aantal gevallen moet dit mogelijk zijn. De schade aan het landschap dient uiteraard wel beperkt te worden."
+        },
+        "126710": {
+          "position": "disagree",
+          "explanation": "Er zijn al een aantal armoederegelingen in deze gemeente. Ondersteuning voor sportlidmaatschappen bestaan al in enige vorm. Een nieuwe regeling lijkt niet nodig."
+        },
+        "126714": {
+          "position": "disagree",
+          "explanation": "De gemeente moet niet verplicht worden om bij te dragen aan noodlijdende sportverenigingen die vrijwel geen actieve leden meer hebben."
+        },
+        "126717": {
+          "position": "agree",
+          "explanation": "Handhaving is een ondergeschoven kindje in gemeente Waterland. Hier moet meer budget voor vrijgemaakt worden. Overlast wordt niet of nauwelijks gehandhaafd hier."
+        },
+        "126718": {
+          "position": "agree",
+          "explanation": "Nadat de privacy-risico's volgens de AVG zorgvuldig in kaart zijn gebracht, moet extra cameratoezicht mogelijk zijn op plekken waar veel overlast voorkomt."
+        },
+        "126721": {
+          "position": "disagree",
+          "explanation": "De gemeente moet uitzonderingen kunnen toestaan op de hoofdregel dat er geen permanente bewoning is toegestaan. Bijvoorbeeld bij schrijnende gevallen."
+        },
+        "126722": {
+          "position": "disagree",
+          "explanation": "Het moet mogelijk zijn om aan de buitenrand van bestaande kernen, kleine aantallen woningen bij te bouwen. Niet de weilanden zomaar volbouwen uiteraard. We zijn zuinig op ons landschap. Het idee van \"een straatje erbij\" moet mogelijk blijven."
+        },
+        "126723": {
+          "position": "agree",
+          "explanation": "De gemeente mag een tegenprestatie vragen van ontvangers van bijstand."
+        },
+        "126725": {
+          "position": "disagree",
+          "explanation": "De gemeente voert een ruimhartig sociaal beleid. Daar zijn we trots op. Mocht de gemeente niet meer in staat zijn dit te financieren, zullen moeilijke keuzes gemaakt moeten worden."
+        },
+        "126727": {
+          "position": "disagree",
+          "explanation": "Het aantal oplaadplekken zou organisch moeten meegroeien met het aantal elektrische auto's. Niet zomaar plekken nu al inpikken van benzinerijders."
+        },
+        "126729": {
+          "position": "disagree",
+          "explanation": "Nee, er wordt goede zorg geboden door zorgverleners. Er mag niet \"geshopt\" worden binnen het ruimhartige zorgaanbod."
+        },
+        "126732": {
+          "position": "disagree",
+          "explanation": "Honden veroorzaken afval en overlast. Dit moet opgeruimd en dus ook betaald worden."
+        },
+        "126734": {
+          "position": "agree",
+          "explanation": "Er zijn helaas bijna geen bedrijventerreinen meer in Waterland. Per bedrijf moeten de uitbreidingsmogelijkheden bekeken worden. In sommige gevallen is dit mogelijk en haalbaar, in andere gevallen niet. Hier moet economisch beleid voor ontwikkeld worden."
+        },
+        "126735": {
+          "position": "agree",
+          "explanation": "De gemeente dient een visie op economie en winkels te ontwikkelen. Openstellingen moeten hierin worden meegenomen. Wij hebben geen bezwaren tegen weekend- of avondopenstelling."
+        },
+        "126736": {
+          "position": "disagree",
+          "explanation": "Nee, dit zorgt ervoor dat de jeugd van Waterland hier wegtrekt omdat ze buiten de gemeente wél woonruimte vinden. Of ze blijven lang bij hun ouders wonen. Dat vinden wij geen gezonde situatie."
+        },
+        "126743": {
+          "position": "disagree",
+          "explanation": "De gemeente kan in de toekomst beleid ontwikkelen dat het mogelijk maakt om een coffeeshop te vestigen. Voorlopig zijn hier geen mogelijkheden voor in onze gemeente wegens het te grote risico op overlast."
+        },
+        "126746": {
+          "position": "agree",
+          "explanation": "Nee, dit zorgt voor overlast bij omwonenden en eventueel zelfs voor uitbuiten en/of ondermijning van de gemeente. Dit blijkt bijvoorbeeld uit Amsterdam waar deze vorm van verhuur een tijd werd toegestaan, en nu weer wordt beperkt."
+        },
+        "126748": {
+          "position": "disagree",
+          "explanation": "Er zouden meer, en gratis parkeerplaatsen vlak rondom het centrum van de kernen moeten komen. Niet meer plekken in de centra van de kernen."
+        },
+        "126750": {
+          "position": "disagree",
+          "explanation": "De inwoners moeten nu hun afval al scheiden. Hier zijn wij op tegen. Nascheiding door de afvalverwerker geef veel betere resultaten en is klantvriendelijker."
+        },
+        "126751": {
+          "position": "disagree",
+          "explanation": "Er kan op termijn gekeken worden naar tijdelijk of deels betaald parkeren in het centrum voor bezoekers. Eerst moeten de resultaten van het nieuwe parkeerbeleid duidelijk zijn voordat er nieuwe parkeermaatregelen genomen gaan worden."
+        },
+        "126752": {
+          "position": "disagree",
+          "explanation": "Het is niet verstandig om eerst met een bedrag te beginnen, en dan pas met een plan. Het Sportpark Markgouw moet opnieuw worden ingedeeld, en het achterstallig onderhoud moet worden aangepakt. Of hier meer of minder dan 1 miljoen euro moet worden uitgegeven, moet eerst onderzocht worden."
+        },
+        "126753": {
+          "position": "disagree",
+          "explanation": "Eigen identiteit. Het efficiënter gebruik van velden en gebouwen moet meegenomen worden bij de gewenste herinrichting van Sportpark Markgouw."
+        }
+      }
+    },
+    {
+      "id": 126686,
+      "name": "CDA",
+      "fullName": "Christen-Democratisch Appèl",
+      "website": "https://www.cda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "126696": {
+          "position": "disagree",
+          "explanation": "CDA benadrukt kwaliteit, samenwerking en\r\nvertrouwen. Een verplichte keuze voor een gelijk aantal mannen als vrouwen past daar niet bij."
+        },
+        "126697": {
+          "position": "disagree",
+          "explanation": "Het CDA-programma benadrukt participatie en inspraak. Een referendum met o.a. risico van lage opkomst, extra kosten, complexe\r\nvraagstukken die niet voor ja/nee vragen geschikt zijn. Bovendien is dit bij uitstek de rol van\r\nde gemeenteraad belangen af te wegen."
+        },
+        "126700": {
+          "position": "agree",
+          "explanation": "Verbrede landbouw wordt gesteund, maar altijd passend bij omgeving en vergunningen."
+        },
+        "126703": {
+          "position": "neither",
+          "explanation": "‘Eens’ met als toelichting ‘In Waterland speelt dit niet, maar als het zich zou voordien dan is\r\nhet CDA voorstander van huisvesting op eigen terrein om op die manier geen extra druk op\r\nde lokale woningmarkt te veroorzaken.’\r\n‘Oneens’ met als toelichting ‘een te grote afhankelijkheid van een werkgever is niet in het\r\nbelang van de seizoensarbeiders en kan leiden tot uitbuiting.’"
+        },
+        "126706": {
+          "position": "disagree",
+          "explanation": "Er is sprake van een landelijk verbod. De komende jaren zal blijken hoe inwoners omgaan met deze nieuwe situatie. Particuliere initiatieven juichen we toe, maar het CDA ziet dit vooralsnog niet als een gemeentetaak."
+        },
+        "126708": {
+          "position": "agree",
+          "explanation": "Het CDA-programma benadrukt het belang van toegankelijkheid voor mensen met een beperking; het (financieel) stimuleren van ondernemers is daarbij een optie."
+        },
+        "126709": {
+          "position": "disagree",
+          "explanation": "Provinciaal en gemeentelijk beleid geven de ruimte aan waar gebouwd mag worden."
+        },
+        "126710": {
+          "position": "agree",
+          "explanation": "Iedereen moet kunnen sporten, ongeacht inkomen."
+        },
+        "126714": {
+          "position": "agree",
+          "explanation": "Een van de speerpunten in het CDA-programma is behoud en versterking van sportverenigingen."
+        },
+        "126717": {
+          "position": "agree",
+          "explanation": "Het CDA is voorstander van meer (zichtbare) handhaving."
+        },
+        "126718": {
+          "position": "disagree",
+          "explanation": "Veiligheid is belangrijk. Cameratoezicht alleen in uitzonderlijke situaties."
+        },
+        "126721": {
+          "position": "disagree",
+          "explanation": "Per situatie kan worden beoordeeld of permanente bewoning van vakantiewoningen tot de mogelijkheden behoort."
+        },
+        "126722": {
+          "position": "disagree",
+          "explanation": "Woningbouw aan de grenzen van bestaande kernen leveren een bijdrage aan de noodzakelijke bouw en bevorderen de leefbaarheid in de betreffende kern."
+        },
+        "126723": {
+          "position": "disagree",
+          "explanation": "Het stimuleren van participatie is belangrijk, maar het CDA is geen voorstander van een verplichting."
+        },
+        "126725": {
+          "position": "agree",
+          "explanation": "Het CDA-programma wil ruimere toegang tot ondersteuning bij armoede."
+        },
+        "126727": {
+          "position": "agree",
+          "explanation": "Het CDA-programma stimuleert elektrisch vervoer en bijbehorende voorzieningen."
+        },
+        "126729": {
+          "position": "agree",
+          "explanation": "Zorg moet mensgericht en passend zijn."
+        },
+        "126732": {
+          "position": "agree",
+          "explanation": "Er is onvoldoende reden de hondenbelasting te handhaven. Bovendien is de netto opbrengst beperkt en levert de gemeente geen tegenprestatie."
+        },
+        "126734": {
+          "position": "agree",
+          "explanation": "Het CDA wil ruimte geven om te ondernemen, maar passend bij de schaal van Waterland."
+        },
+        "126735": {
+          "position": "agree",
+          "explanation": "Het CDA is voor handhaving van de huidige situatie."
+        },
+        "126736": {
+          "position": "neither",
+          "explanation": "De gemeente is gehouden aan uitvoering van rijksbeleid."
+        },
+        "126743": {
+          "position": "agree",
+          "explanation": "Het CDA ziet geen noodzaak en is daarmee geen voorstander van het vestigen van een coffeeshop in Waterland."
+        },
+        "126746": {
+          "position": "disagree",
+          "explanation": "Kamerverhuur kan bijdragen aan het oplossen van tekort aan huisvesting van bijvoorbeeld studenten."
+        },
+        "126748": {
+          "position": "agree",
+          "explanation": "Bereikbaarheid en voldoende parkeergelegenheid zijn belangrijk voor alle kernen en wijken."
+        },
+        "126750": {
+          "position": "agree",
+          "explanation": "Het CDA is voordstander van afvalscheiding."
+        },
+        "126751": {
+          "position": "disagree",
+          "explanation": "Betaald parkeren wordt alleen overwogen bij voldoende draagvlak."
+        },
+        "126752": {
+          "position": "agree",
+          "explanation": "Het CDA wil investeringen in sportpark Markgouw ten behoeve van behoud en versterking van sportvoorzieningen; onbekend is welke kosten daar eventueel mee gemoeid zullen zijn."
+        },
+        "126753": {
+          "position": "agree",
+          "explanation": "Het CDA-programma stimuleert samenwerking en gedeeld gebruik van (sport)voorzieningen."
+        }
+      }
+    },
+    {
+      "id": 126687,
+      "name": "VVD",
+      "fullName": "Volkspartij voor Vrijheid en Democratie",
+      "website": "https://www.vvd.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "126696": {
+          "position": "disagree",
+          "explanation": "De VVD Waterland kijkt bij de benoeming van burgemeester en wethouders uitsluitend naar de kwaliteiten van individuele kandidaten en niet naar hun geslacht."
+        },
+        "126697": {
+          "position": "agree",
+          "explanation": "Soms zijn besluiten zó fundamenteel dat deze niet met een normaal kiezersmandaat genomen zouden moeten worden."
+        },
+        "126700": {
+          "position": "neither",
+          "explanation": "Dit is zeer afhankelijk van de concrete situatie."
+        },
+        "126703": {
+          "position": "neither",
+          "explanation": "Dit speelt in onze gemeente niet."
+        },
+        "126706": {
+          "position": "neither",
+          "explanation": "Onze gemeente bestaat uit een groot aantal kernen. De VVD Waterland is geen voorstander van één gemeentelijke vuurwerkshow, die dan waarschijnlijk in Monnickendam zou plaatsvinden."
+        },
+        "126708": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "126709": {
+          "position": "neither",
+          "explanation": "Dit is zeer afhankelijk van de concrete situatie."
+        },
+        "126710": {
+          "position": "neither",
+          "explanation": "Dit is zeer afhankelijk van de concrete situatie."
+        },
+        "126714": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "126717": {
+          "position": "disagree",
+          "explanation": "De VVD Waterland vindt het belangrijk dat er meer politie zichtbaar aanwezig is in onze gemeente. Het is geen goed idee om de veiligheidstaak (meer) te gaan beleggen bij BOA’s."
+        },
+        "126718": {
+          "position": "disagree",
+          "explanation": "De VVD Waterland vindt privacy van de inwoners van groot belang en is dus tegenstander van massale surveillance door de gemeente via camera’s."
+        },
+        "126721": {
+          "position": "neither",
+          "explanation": "Dit is zeer afhankelijk van de concrete situatie."
+        },
+        "126722": {
+          "position": "disagree",
+          "explanation": "Een mooi voorbeeld is plan-Ilpenstein in Ilpendam. De VVD Waterland is daar een groot voorstander van. Dat betekent overigens niet dat al het groen moet worden volgebouwd. Zo zijn we tegen het volbouwen van bijvoorbeeld de Purmer."
+        },
+        "126723": {
+          "position": "agree",
+          "explanation": "Het is heel belangrijk voor mensen om maatschappelijk zinvol bezig te zijn. Daarnaast is het niet onredelijk om een tegenprestatie te vragen van mensen met een bijstandsuitkering."
+        },
+        "126725": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "126727": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "126729": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "126732": {
+          "position": "agree",
+          "explanation": "Principieel is het vreemd om belasting te heffen op een hond. Een belasting op katten of cavia’s bestaat ook niet."
+        },
+        "126734": {
+          "position": "neither",
+          "explanation": "Dit is zeer afhankelijk van de concrete situatie."
+        },
+        "126735": {
+          "position": "neither",
+          "explanation": ""
+        },
+        "126736": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "126743": {
+          "position": "agree",
+          "explanation": "Zolang in Nederland softdrugs niet gelegaliseerd is, is de VVD Waterland geen voorstanders van de vestiging van een coffeeshop."
+        },
+        "126746": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "126748": {
+          "position": "agree",
+          "explanation": "Het is belangrijk dat er voldoende parkeergelegenheid is."
+        },
+        "126750": {
+          "position": "disagree",
+          "explanation": "De VVD Waterland wil de doorgeslagen afvalscheiding terugdraaien. Dus: gewoon een grijze en groene bak, met een wekelijkse ophaalfrequentie."
+        },
+        "126751": {
+          "position": "disagree",
+          "explanation": "Betaald parkeren voor bezoekers zal betekenen dat ook inwoners moeten gaan betalen. Zij moeten namelijk jaarlijks een parkeervergunning gaan aanschaffen bij de gemeente."
+        },
+        "126752": {
+          "position": "agree",
+          "explanation": "Sportvoorzieningen zijn belangrijk. Het is beter te investeren in de vernieuwing van Sportpark Markgouw dan meer dan € 22 miljoen uit te geven voor de bouw van een megalomane sporthal in Monnickendam (waar zeker in de andere kernen weinig mensen op zitten te wachten)."
+        },
+        "126753": {
+          "position": "neither",
+          "explanation": "Dit is zeer afhankelijk van de concrete situatie."
+        }
+      }
+    },
+    {
+      "id": 126688,
+      "name": "D66",
+      "fullName": "D66",
+      "website": "https://d66.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "126696": {
+          "position": "disagree",
+          "explanation": "Het zou een gewenste situatie zijn maar kwaliteit staat altijd voorop."
+        },
+        "126697": {
+          "position": "disagree",
+          "explanation": "Een referendum is in onze gemeente niet nodig, want via kernraden en burgerinitiatieven kunnen inwoners participeren."
+        },
+        "126700": {
+          "position": "agree",
+          "explanation": "Deze mogelijkheid moeten zeker openhouden."
+        },
+        "126703": {
+          "position": "disagree",
+          "explanation": "Werkgevers moeten wel voor huisvestiging zonder maar dat hoeft niet perse op eigen bedrijfsterrein."
+        },
+        "126706": {
+          "position": "disagree",
+          "explanation": "Een vuurwerkshow moet vanuit de inwoners georganiseerd worden. De gemeente heeft een faciliterende rol."
+        },
+        "126708": {
+          "position": "disagree",
+          "explanation": "Dit is geen taak van de gemeente maar voor de ondernemer zelf."
+        },
+        "126709": {
+          "position": "agree",
+          "explanation": "Zolang het past binnen de Omgevingsverordening."
+        },
+        "126710": {
+          "position": "agree",
+          "explanation": "Is al geregeld in het armoedebeleid van onze gemeente."
+        },
+        "126714": {
+          "position": "disagree",
+          "explanation": "Sportverenigingen moeten hun eigen broek kunnen ophouden, de gemeente heeft een faciliterende rol (bijv. beheer van sportvelden)."
+        },
+        "126717": {
+          "position": "agree",
+          "explanation": "Maar we zien de inzet van boa's als veel breder dan veiligheid (bijv. verkeer)."
+        },
+        "126718": {
+          "position": "disagree",
+          "explanation": "Cameratoezicht moet - met het oog op privacy - schaars ingezet worden."
+        },
+        "126721": {
+          "position": "agree",
+          "explanation": "Met de huidige woningcrisis moet dit kunnen."
+        },
+        "126722": {
+          "position": "agree",
+          "explanation": "Wel voorkeur voor binnenstedelijk of \"een straatje erbij\"."
+        },
+        "126723": {
+          "position": "disagree",
+          "explanation": "Werkt niet in de praktijk."
+        },
+        "126725": {
+          "position": "disagree",
+          "explanation": "De gemeente Waterland is een sociale gemeente."
+        },
+        "126727": {
+          "position": "agree",
+          "explanation": "Op dit moment zijn er voldoende oplaadplekken voor elektrische auto's. Wel toekomstige ontwikkelingen volgen."
+        },
+        "126729": {
+          "position": "disagree",
+          "explanation": "Geen taak voor gemeentelijke overheid."
+        },
+        "126732": {
+          "position": "agree",
+          "explanation": "Deze belasting wordt momenteel niet voor voorzieningen gebruikt."
+        },
+        "126734": {
+          "position": "neither",
+          "explanation": "Plaatselijke ondernemers moet zich kunnen ontwikkelen."
+        },
+        "126735": {
+          "position": "disagree",
+          "explanation": "Is niet aan de orde."
+        },
+        "126736": {
+          "position": "agree",
+          "explanation": "De huidige regeling (5% van sociale huurwoningen naar vluchtelingen) werkt goed."
+        },
+        "126743": {
+          "position": "disagree",
+          "explanation": "We willen de verkoop van hard- en softdrugs loskoppelen. Met een coffeeshop reguleer je de verkoop van softdrugs."
+        },
+        "126746": {
+          "position": "agree",
+          "explanation": "Wel moet de mogelijkheid er komen om huizen te splitsen."
+        },
+        "126748": {
+          "position": "disagree",
+          "explanation": "Wel meer plekken voor fietsstallingen"
+        },
+        "126750": {
+          "position": "disagree",
+          "explanation": "Bestaat al."
+        },
+        "126751": {
+          "position": "agree",
+          "explanation": "Is een betere optie dan de blauwe zone."
+        },
+        "126752": {
+          "position": "disagree",
+          "explanation": "Er moet een onderzoek komen naar kosten en locatie."
+        },
+        "126753": {
+          "position": "agree",
+          "explanation": ""
+        }
+      }
+    }
+  ],
+  "statements": [
+    {
+      "id": 126751,
+      "index": 1,
+      "theme": "Paid parking",
+      "themeId": "betaald-parkeren",
+      "title": "Waterland should introduce paid parking for visitors in the city centre of Monnickendam.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126734,
+      "index": 2,
+      "theme": "Business parks",
+      "themeId": "bedrijventerreinen",
+      "title": "Business parks in Waterland should be allowed to expand.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126696,
+      "index": 3,
+      "theme": "Mayor and municipal executive",
+      "themeId": "burgemeester-en-college",
+      "title": "The new college of mayor and aldermen must have an equal number of men and women.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126706,
+      "index": 4,
+      "theme": "Fireworks",
+      "themeId": "vuurwerk",
+      "title": "The municipality should organize a fireworks show on New Year's Eve.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126710,
+      "index": 5,
+      "theme": "Sports membership fees",
+      "themeId": "contributie-sport",
+      "title": "The municipality should pay the membership fees for a sports club for people receiving social assistance.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126717,
+      "index": 6,
+      "theme": "Enforcement officers",
+      "themeId": "handhavers",
+      "title": "Waterland should have more municipal enforcement officers (BOAs) who focus on safety.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126708,
+      "index": 7,
+      "theme": "Accessibility of buildings",
+      "themeId": "toegankelijkheid-gebouwen",
+      "title": "The municipality should financially help business owners to make their buildings accessible to people with disabilities.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126723,
+      "index": 8,
+      "theme": "Work requirement for welfare recipients",
+      "themeId": "tegenprestatie-voor-uitkering",
+      "title": "People receiving social assistance should, in return, do socially useful work.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126714,
+      "index": 9,
+      "theme": "Sports clubs",
+      "themeId": "sportverenigingen",
+      "title": "If sports clubs are struggling, the municipality should contribute financially.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126722,
+      "index": 10,
+      "theme": "Housing construction",
+      "themeId": "woningbouw",
+      "title": "The municipality should prevent new construction outside existing village boundaries.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126729,
+      "index": 11,
+      "theme": "Choice of healthcare",
+      "themeId": "zorgkeuze",
+      "title": "People who need care should always be able to choose a caregiver who matches their religion, culture, or beliefs.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126743,
+      "index": 12,
+      "theme": "Coffeeshops (cannabis cafés)",
+      "themeId": "coffeeshops",
+      "title": "The municipality should prevent the opening of new coffeeshops.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126750,
+      "index": 13,
+      "theme": "Waste separation",
+      "themeId": "afval-scheiden",
+      "title": "Waterland should introduce a system for residents to separate their waste.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126700,
+      "index": 14,
+      "theme": "Farm campsites",
+      "themeId": "boerencampings",
+      "title": "The municipality should always allow farmers to open, for example, a shop or a campsite at their farm.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126721,
+      "index": 15,
+      "theme": "Holiday homes",
+      "themeId": "vakantiewoningen",
+      "title": "The municipality must allow holiday homes to be used as a permanent residence.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126703,
+      "index": 16,
+      "theme": "Housing for foreign workers",
+      "themeId": "huisvesting-buitenlandse-werknemers",
+      "title": "Employers in agriculture and horticulture should provide housing for seasonal workers on their own premises.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126753,
+      "index": 17,
+      "theme": "Redevelopment of Sportpark Markgouw",
+      "themeId": "herinrichting-sportpark-markgouw",
+      "title": "When redesigning Sportpark Markgouw, sports clubs should share canteens and sports fields.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126725,
+      "index": 18,
+      "theme": "Combating poverty",
+      "themeId": "armoedebestrijding",
+      "title": "The municipality should raise the income threshold for receiving poverty assistance.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126709,
+      "index": 19,
+      "theme": "Building on agricultural land",
+      "themeId": "bouwen-op-landbouwgrond",
+      "title": "It should be possible for farmers to build houses themselves on their land.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126727,
+      "index": 20,
+      "theme": "Electric vehicle charging stations",
+      "themeId": "elektrische-laadpalen",
+      "title": "The municipality should designate more parking spaces as charging points for electric cars.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126732,
+      "index": 21,
+      "theme": "Dog tax",
+      "themeId": "hondenbelasting",
+      "title": "The municipality should abolish the dog tax.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126697,
+      "index": 22,
+      "theme": "Referendum",
+      "themeId": "referendum",
+      "title": "The residents of Waterland should be able to express their opinion on important issues via a referendum.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126718,
+      "index": 23,
+      "theme": "Camera surveillance",
+      "themeId": "cameratoezicht",
+      "title": "More camera surveillance should be installed in Waterland.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126736,
+      "index": 24,
+      "theme": "Priority for refugees",
+      "themeId": "voorrang-voor-vluchtelingen",
+      "title": "The municipality should give refugees with a residence permit priority for social housing.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126735,
+      "index": 25,
+      "theme": "Sunday shopping",
+      "themeId": "koopzondagen",
+      "title": "The municipality should allow more Sunday shopping days.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126748,
+      "index": 26,
+      "theme": "More parking spaces",
+      "themeId": "meer-parkeerplaatsen",
+      "title": "More parking spaces should be created in the center.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126746,
+      "index": 27,
+      "theme": "Subdivision into multiple rooms",
+      "themeId": "verkamering",
+      "title": "The municipality must prohibit landlords from renting out separate rooms instead of whole houses.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126752,
+      "index": 28,
+      "theme": "Funding for Sportpark Markgouw",
+      "themeId": "geld-voor-sportpark-markgouw",
+      "title": "The municipality should spend more than 1 million euros on renewing Sportpark Markgouw.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    }
+  ]
+}

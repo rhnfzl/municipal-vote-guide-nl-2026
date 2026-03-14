@@ -1,0 +1,1119 @@
+{
+  "id": "GM0213",
+  "name": "Brummen",
+  "slug": "brummen",
+  "parties": [
+    {
+      "id": 111288,
+      "name": "Lokaal Belang",
+      "fullName": "Lokaal Belang",
+      "website": "https://www.lokaalbelangbrummen.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "111305": {
+          "position": "agree",
+          "explanation": "Een referendum is een goed middel voor participatie van inwoners"
+        },
+        "111308": {
+          "position": "neither",
+          "explanation": "In principe wel, maar er kunnen redenen zijn om het niet toe te staan"
+        },
+        "111310": {
+          "position": "disagree",
+          "explanation": "De tuinbouwer moet er wel zelf voor zorgen, maar dat hoeft niet persé op eigen terrein."
+        },
+        "111311": {
+          "position": "neither",
+          "explanation": "Is afhankelijk van het soort boom"
+        },
+        "111314": {
+          "position": "disagree",
+          "explanation": "Organiseren: nee. Faciliteren: ja!"
+        },
+        "111318": {
+          "position": "disagree",
+          "explanation": "Woningsplitsing moet wel mogelijk zijn."
+        },
+        "111321": {
+          "position": "agree",
+          "explanation": "Dat gebeurt al zoveel mogelijk."
+        },
+        "111323": {
+          "position": "neither",
+          "explanation": "Terugloop van leden kan geen reden zijn voor hulp. Een energiecrisis bijvoorbeeld wel."
+        },
+        "111325": {
+          "position": "agree",
+          "explanation": "Er zijn er te weinig."
+        },
+        "111327": {
+          "position": "disagree",
+          "explanation": "Die moeten er zijn op de juiste plekken, regionaal"
+        },
+        "111328": {
+          "position": "disagree",
+          "explanation": "Dit is een taak van de Rijksoverheid."
+        },
+        "111330": {
+          "position": "agree",
+          "explanation": "Nodig om de doorstroming te bevorderen. In de centra en bij voorkeur gelijkvloers"
+        },
+        "111332": {
+          "position": "neither",
+          "explanation": "Daar gaat een lokale partij niet over."
+        },
+        "111334": {
+          "position": "neither",
+          "explanation": "Landelijke aanpak, niet als enkele gemeente terwijl buurgemeentes dat niet doen"
+        },
+        "111336": {
+          "position": "disagree",
+          "explanation": "Groeit op natuurlijke wijze mee, niet op vooruitlopen"
+        },
+        "111337": {
+          "position": "disagree",
+          "explanation": "Er is zorg voor en door iedereen"
+        },
+        "111341": {
+          "position": "neither",
+          "explanation": "Niet per definitie, alleen wanneer nodig"
+        },
+        "111342": {
+          "position": "agree",
+          "explanation": "Maar wel eerst inbreiden en kijken wie waar zit en de juiste ondernemers op de juiste plek. En oude terreinen eerst goed benutten"
+        },
+        "111344": {
+          "position": "disagree",
+          "explanation": "Gaat ten koste van eigen inwoners, dus niet doen."
+        },
+        "111346": {
+          "position": "disagree",
+          "explanation": "Eerst op de daken."
+        },
+        "111347": {
+          "position": "neither",
+          "explanation": "Is nu niet aan de orde, maar indien nodig moet het kunnen."
+        },
+        "111348": {
+          "position": "agree",
+          "explanation": "Tradities en naoberschap moet je koesteren"
+        },
+        "111349": {
+          "position": "neither",
+          "explanation": "Wanneer iemand zich hier wil vestigen, gaan we bekijken of dat kan zonder overlast"
+        },
+        "111351": {
+          "position": "disagree",
+          "explanation": "Vier of vijf woonlagen is prima."
+        },
+        "111352": {
+          "position": "disagree",
+          "explanation": "Wonen is belangrijk, in wat voor vorm dan ook"
+        },
+        "111353": {
+          "position": "agree",
+          "explanation": "Als onder dorpscentrum een ontmoetingsplek of dorpshuis wordt bedoeld."
+        },
+        "111354": {
+          "position": "disagree",
+          "explanation": "Dat gaat ten koste van groen en woningen"
+        },
+        "111357": {
+          "position": "agree",
+          "explanation": "Zolang het voorzieningenniveau op peil blijft."
+        },
+        "111358": {
+          "position": "disagree",
+          "explanation": "Die is er al."
+        },
+        "111359": {
+          "position": "disagree",
+          "explanation": "Er vindt regulier onderhoud aan de waterlopen plaats."
+        }
+      }
+    },
+    {
+      "id": 111292,
+      "name": "VVD",
+      "fullName": "Volkspartij voor Vrijheid en Democratie",
+      "website": "https://www.vvd.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "111305": {
+          "position": "agree",
+          "explanation": "Wij vinden dat inwoners zich via een referendum kunnen uitspreken over belangrijke onderwerpen. Wel moet het onderwerp hiervoor geschikt zijn en zien wij het referendum als een zwaar instrument dat alleen wordt ingezet bij ingrijpende en uitzonderlijke besluiten."
+        },
+        "111308": {
+          "position": "neither",
+          "explanation": "De VVD staat voor een proactieve, meewerkende overheid. Ondernemerschap door boeren juichen wij toe, maar niet zonder voorwaarden. Initiatieven zoals winkels of campings zijn mogelijk, mits ze passen binnen het landschap, de omgeving en het karakter van Brummen."
+        },
+        "111310": {
+          "position": "agree",
+          "explanation": "Dit onderwerp is in Brummen beperkt van toepassing. In algemene zin zijn wij het ermee eens dat werkgevers verantwoordelijkheid dragen voor de huisvesting van seizoensarbeiders. Dit voorkomt druk op de woningmarkt en zorgt voor duidelijke en fatsoenlijke voorzieningen."
+        },
+        "111311": {
+          "position": "disagree",
+          "explanation": "De VVD staat voor kwaliteit van natuur, niet alleen voor kwantiteit. Niet elke boom voegt dezelfde waarde toe aan het landschap. Een verplichte één-op-éénregel leidt tot onnodige regels en extra lasten voor overheid en inwoners, zonder garantie op betere natuur."
+        },
+        "111314": {
+          "position": "disagree",
+          "explanation": "De gemeente hoeft zelf geen vuurwerkshow te organiseren. Als een commerciële partij rond oud en nieuw een evenement wil organiseren, moet dat mogelijk zijn. In Brummen bestaat bovendien al een lokale traditie, zoals carbidschieten."
+        },
+        "111318": {
+          "position": "agree",
+          "explanation": "Boeren moeten de mogelijkheid krijgen om op hun eigen land een woning te bouwen. Dit moet wel gebeuren binnen duidelijke regels en kaders, zodat het past in het landschap en er geen versnippering of lappendeken aan bouwwerken ontstaat."
+        },
+        "111321": {
+          "position": "agree",
+          "explanation": "De gemeente is wettelijk verantwoordelijk voor het onderhoud en de kwaliteit van schoolgebouwen. Investeren in goede en veilige schoolgebouwen hoort bij onze kerntaken en is noodzakelijk voor goed onderwijs."
+        },
+        "111323": {
+          "position": "disagree",
+          "explanation": "Als een sportvereniging in financiële moeilijkheden zit, is extra gemeentelijk geld niet vanzelfsprekend. De primaire verantwoordelijkheid ligt bij de vereniging zelf. De gemeente ondersteunt al op andere manieren, onder meer via Stichting Het Sportkompas."
+        },
+        "111325": {
+          "position": "agree",
+          "explanation": "De inzet van handhavers is momenteel onvoldoende om veiligheid en leefbaarheid goed te waarborgen. Wij vinden dat de capaciteit moet worden uitgebreid. Extra boa’s zorgen voor zichtbaarheid, handhaving en een veiliger gevoel in de gemeente."
+        },
+        "111327": {
+          "position": "disagree",
+          "explanation": "De opvang voor slachtoffers van huiselijk geweld is regionaal georganiseerd met omliggende gemeenten. Deze samenwerking functioneert goed. Het oprichten van een aparte voorziening in Brummen is daarom niet nodig."
+        },
+        "111328": {
+          "position": "agree",
+          "explanation": "De VVD steunt de starterslening en heeft hier in het verleden (2008) ook al voor gepleit. Dit instrument helpt starters op de woningmarkt en vergroot de kans dat jongeren in Brummen kunnen blijven wonen."
+        },
+        "111330": {
+          "position": "disagree",
+          "explanation": "Wij willen wel ouderenwoningen bouwen voor onze eigen ouderen om de doorstroom naar kleinere woningen te bevorderen, maar niet méér dan dat. De prioriteit ligt bij koopwoningen voor jonge gezinnen, zodat we de vergrijzing beter opvangen en Brummen vitaal houden."
+        },
+        "111332": {
+          "position": "disagree",
+          "explanation": "De VVD juicht het toe als mensen met een bijstandsuitkering zich vrijwillig maatschappelijk inzetten. Wij zijn echter tegen een verplichte tegenprestatie met extra administratie en bureaucratie als gevolg; dit kost onnodig geld en menskracht."
+        },
+        "111334": {
+          "position": "disagree",
+          "explanation": "De VVD wil de inkomensgrens terugbrengen naar de oorspronkelijke 110%. Werken moet lonen en armoedebeleid mag niet leiden tot een armoedeval waarbij mensen minder gaan werken doordat zij voorzieningen verliezen."
+        },
+        "111336": {
+          "position": "agree",
+          "explanation": "Het aantal oplaadplekken moet meegroeien met het gebruik van elektrische auto’s. Een goede en evenwichtige spreiding door de dorpen is daarbij belangrijk, zodat oplaadmogelijkheden voor iedereen bereikbaar blijven."
+        },
+        "111337": {
+          "position": "disagree",
+          "explanation": "Iedereen heeft recht op goede zorg, maar het creëren van een extra afdwingbaar recht op zorg op basis van geloof of cultuur past niet bij liberale uitgangspunten. In een sector met grote personeelstekorten moeten kwaliteit en beschikbaarheid leidend zijn."
+        },
+        "111341": {
+          "position": "disagree",
+          "explanation": "De toeristenbelasting is recent al twee keer verhoogd. Vakantie moet betaalbaar blijven en de recreatiesector is belangrijk voor Brummen. Daarnaast is de btw in deze sector al verhoogd. Nog een verhoging is niet wenselijk."
+        },
+        "111342": {
+          "position": "agree",
+          "explanation": "Er is momenteel onvoldoende bedrijventerrein beschikbaar in Brummen. De VVD wil meer ruimte voor lokale ondernemers, zodat de economie robuuster wordt. Dit moet wel passen bij de schaal en het karakter van onze gemeente."
+        },
+        "111344": {
+          "position": "disagree",
+          "explanation": "Wij willen dit via de huisvestingsverordening eerlijk regelen. Het kan niet zo zijn dat jongeren uit Brummen jarenlang geen woning kunnen vinden, terwijl anderen structureel voorrang krijgen op sociale huurwoningen."
+        },
+        "111346": {
+          "position": "disagree",
+          "explanation": "Het elektriciteitsnet zit al vol en grootschalige zonneparken op landbouwgrond nemen waardevolle ruimte in. Wij vinden dat dit niet past in het landschap van Brummen en geven de voorkeur aan andere locaties en oplossingen."
+        },
+        "111347": {
+          "position": "disagree",
+          "explanation": "Schoolzwemmen is op dit moment geen gemeentelijke taak in Brummen en wordt ook niet aangeboden. Het structureel beschikbaar stellen van extra middelen hiervoor past daarom niet binnen onze huidige verantwoordelijkheden."
+        },
+        "111348": {
+          "position": "disagree",
+          "explanation": "Het is mooi als scholen aandacht besteden aan streektaal en cultuur, maar deze keuze hoort bij scholen zelf. De politiek moet niet bepalen wat er in het onderwijsprogramma wordt opgenomen."
+        },
+        "111349": {
+          "position": "disagree",
+          "explanation": "De vestiging van een coffeeshop past niet bij het dorpse karakter van Brummen. Wij zien geen noodzaak en vinden dat dit niet bijdraagt aan leefbaarheid en veiligheid in een kleine gemeente."
+        },
+        "111351": {
+          "position": "disagree",
+          "explanation": "Wij willen geen hoogbouw die het dorpse karakter aantast. Bebouwing moet passen bij Brummen. Daarom vinden wij dat woningen niet hoger dan vier verdiepingen moeten worden gebouwd."
+        },
+        "111352": {
+          "position": "disagree",
+          "explanation": "De problematiek rond kamerverhuur speelt vooral in grote steden en niet in Brummen. Extra regelgeving is hier dus niet nodig. Daarnaast is het geen goed idee om kamerverhuur in algemene zin te verbieden, omdat dit een belangrijke woonvorm is voor bijvoorbeeld studenten."
+        },
+        "111353": {
+          "position": "disagree",
+          "explanation": "Levendigheid in alle kernen is belangrijk, maar niet elke kern is groot genoeg voor een volwaardig dorpscentrum. Wel zien wij voor iedere kern een ontmoetingsplek of dorpshuis als realistisch en waardevol alternatief."
+        },
+        "111354": {
+          "position": "disagree",
+          "explanation": "Meer parkeerplaatsen zijn niet per se nodig. Wel moeten bestaande parkeerplekken doelmatig worden gebruikt, bijvoorbeeld door het instellen van blauwe zones zodat parkeerplaatsen beschikbaar blijven voor bezoekers en ondernemers."
+        },
+        "111357": {
+          "position": "disagree",
+          "explanation": "Wij blijven graag een herkenbare en betrokken gemeente. Maar de werkelijkheid is dat het voor een kleine gemeente steeds moeilijker wordt om alle taken zelfstandig goed en betaalbaar uit te voeren. Samenwerking of schaalvergroting is nodig om de kwaliteit te borgen."
+        },
+        "111358": {
+          "position": "agree",
+          "explanation": "Een rondweg kan bijdragen aan betere bereikbaarheid en leefbaarheid in Eerbeek. Dit vraagt wel om een zorgvuldige afweging van nut, noodzaak en inpassing, aangezien de beschikbare ruimte beperkt is."
+        },
+        "111359": {
+          "position": "agree",
+          "explanation": "Het voorkomen van wateroverlast in Eerbeek is belangrijk. De gemeente is hier al mee bezig, Verdere investeringen zijn nodig om schade en overlast in de toekomst te beperken."
+        }
+      }
+    },
+    {
+      "id": 111291,
+      "name": "GroenLinks",
+      "fullName": "Groenlinks",
+      "website": "https://brummen.groenlinks.nl/home",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "111305": {
+          "position": "disagree",
+          "explanation": "GroenLinks is meer voor het uitdaagrecht, waar inwoners en organisaties onderwerpen van een gemeente kunnen overnemen. Het maken van politieke afwegingen leent zich namelijk niet altijd voor een referendum. Wij zijn voor een sterke democratie, waarin ook het recht van de minderheid een stem heeft."
+        },
+        "111308": {
+          "position": "disagree",
+          "explanation": "Het is onmogelijk om dit ALTIJD toe te staan. De gemeente moet meedenken met de agrariërs in hun zoektocht naar een gezond bedrijf, zowel voor het boerengezin als voor de natuur."
+        },
+        "111310": {
+          "position": "agree",
+          "explanation": "De woningnood is te groot, om de bestaande woningvoorraad te laten \"vollopen\" met arbeidsmigranten. Goedkope arbeid brengt extra kosten met zich mee, die kosten moeten gedragen worden door de werkgevers."
+        },
+        "111311": {
+          "position": "agree",
+          "explanation": "Liever nog twee. Een groene omgeving is voor mens en dier heel gezond. Soms moet een boom gekapt worden, dan is herplant van een nieuwe boom belangrijk. GroenLinks maakt werk van de herplantplicht; van de ontwikkeling van de natuur, en dus moeten gemeente en de inwoners bomen herplanten."
+        },
+        "111314": {
+          "position": "disagree",
+          "explanation": "In onze gemeente wordt op oudjaarsdag met veel plezier carbid geschoten. Dat is een sociale bezigheid, daar moeten we wat GroenLinks betreft mee doorgaan. Het overschot aan illegaal vuurwerk en de nadelige effecten op mens en dier zijn te groot."
+        },
+        "111318": {
+          "position": "agree",
+          "explanation": "GroenLinks is voor erfbewoning. Natuurlijk moet hier een goed plan aan ten grondslag liggen en de bouw moet passend zijn in de omgeving, hiervoor heeft GroenLinks zich de afgelopen jaren ook hard gemaakt door dorpskwaliteitsgidsen op te laten stellen."
+        },
+        "111321": {
+          "position": "disagree",
+          "explanation": "De schoolgebouwen in Brummen zijn relatief nieuw en van een goede kwaliteit. Er zal altijd geld nodig zijn om schoolgebouwen aan te passen aan de eisen van deze tijd. GroenLinks heeft de afgelopen jaren mede gezorgd dat daarvoor reserves zijn opgebouwd."
+        },
+        "111323": {
+          "position": "disagree",
+          "explanation": "Sportverenigingen zijn niet voor niets verenigingen: zij zijn eigendom van de leden. De gemeente moet wel zorgen voor goede faciliteiten voor sport en bewegen."
+        },
+        "111325": {
+          "position": "agree",
+          "explanation": "Helaas zijn ook in gemeente Brummen problemen in sommige wijken en zijn, naast politie, boa's nodig op het gebied van veiligheid. GroenLinks heeft zich de afgelopen jaren ingespannen om beter beleid op te stellen en geld vrij te maken voor betere handhaving."
+        },
+        "111327": {
+          "position": "agree",
+          "explanation": "Helaas gaat geweld tegen vrouwen niet aan onze gemeente voorbij. Onze gemeente moet hier blijvend aandacht voor hebben, Als dit nodig is, is de vestiging van Blijf-van-mijn-lijfhuis zeker een optie."
+        },
+        "111328": {
+          "position": "agree",
+          "explanation": "GroenLinks wil onze lokale jeugd kansen bieden. Het is goed dat de gemeente op alle fronten goed woonbeleid voert, zodat koopwoningen ook voor oudere mensen met een wat smallere beurs toegankelijk blijven. Zo heeft GroenLinks in Brummen al gestemd voor leningen om je huis te verduurzamen."
+        },
+        "111330": {
+          "position": "agree",
+          "explanation": "Vele ouderen hebben de wens om \"op maat\" te gaan wonen. De gemeente moet zeker in dit segment blijven bouwen, zodat de doorstroming op de woningmarkt weer op gang komt. GroenLinks werkt hard aan de realisatie van een Knarrenhof in Brummen."
+        },
+        "111332": {
+          "position": "neither",
+          "explanation": "Het is ondoenlijk om vast te stellen wat \"maatschappelijk zinvol\" is. Bovendien is simpelweg niet iedereen in staat om dit te vervullen. Wij staan zeker achter een beleid waar mensen meerwaarde halen uit maatschappelijke betrokkenheid."
+        },
+        "111334": {
+          "position": "agree",
+          "explanation": "De kosten van levensonderhoud stijgen heel hard, we zien veel mensen in financiële problemen komen. Ook mensen die gewoon werken. GroenLinks wil die gezinnen snel helpen, zodat de problematiek niet groter wordt. Want dan koste het ook voor de gemeente steeds meer geld om het weer op te lossen."
+        },
+        "111336": {
+          "position": "agree",
+          "explanation": "Thuis- en in de straat opladen moet makkelijker worden. Voor GroenLinks is elektrisch rijden de norm, de gemeente moet ervoor zorgen dat inwoners de mogelijkheid hebben de elektrische auto in hun eigen buurt kunnen opladen."
+        },
+        "111337": {
+          "position": "disagree",
+          "explanation": "Zorg moet toegankelijk zijn voor iedereen. Het is niet altijd mogelijk om de zorg volledig op maat te organiseren. Wel moet de gemeente in haar inkoopbeleid zorgen voor diversiteit in zorgaanbod."
+        },
+        "111341": {
+          "position": "agree",
+          "explanation": "Omdat de gemeente minder geld krijgt van het rijk en de voorzieningen op peil wil houden, zal ook de bezoeker van onze mooie gemeente mee moeten betalen aan de voorzieningen, daarvoor is een verhoging van de toeristenbelasting soms noodzakelijk,"
+        },
+        "111342": {
+          "position": "disagree",
+          "explanation": "GroenLinks geeft de beperkte ruimte liever aan wonen en natuur. Het op peil houden van de lokale economie is belangrijk. Ontwikkeling van een duurzame en groene economie is belangrijk, maar we hebben nu vooral behoefte aan woonruimte en het in stand houden van het open en groene karakter."
+        },
+        "111344": {
+          "position": "neither",
+          "explanation": "Door een AZC in Brummen te openen, krijgt de gemeente de mogelijkheid om minder reguliere woningen toe te wijzen aan statushouders door regionale verdeling. Dat betekent dat buurgemeentes meer statushouders moeten huisvesten en in Brummen meer woningen beschikbaar blijven voor andere inwoners."
+        },
+        "111346": {
+          "position": "agree",
+          "explanation": "De energietransitie is een belangrijk onderwerp en we hebben alle duurzame bronnen nodig. Voor de komende 30 jaar voorziet GroenLinks dat het niet te voorkomen is dat landbouwgrond gebruikt wordt voor de energietransitie."
+        },
+        "111347": {
+          "position": "agree",
+          "explanation": "Gezond en veilig opgroeien is belangrijk en daar hoort voor GroenLinks betaalbaar zwemonderwijs bij. Zwemles is een luxe geworden, waardoor veel kinderen opgroeien die niet kunnen zwemmen."
+        },
+        "111348": {
+          "position": "disagree",
+          "explanation": "Het inhoudelijke aanbod in het onderwijs is geen gemeentelijke taak."
+        },
+        "111349": {
+          "position": "agree",
+          "explanation": "Wij zien in onze gemeente plekken waar overlast ontstaat door het dealen van drugs. Een van de mogelijkheden om dit tegen te gaan, is regulering van drugsverkoop."
+        },
+        "111351": {
+          "position": "agree",
+          "explanation": "GroenLinks is tegen Manhattan aan de IJssel, maar om voldoende woningen te realiseren, is bouwen in de hoogte een optie. GroenLinks heeft zich in dat kader hard gemaakt voor appartementen op het Van Limburg Stirumplein (Brummen, 5 hoog) en het Burgersterrein (Eerbeek, 4 hoog)."
+        },
+        "111352": {
+          "position": "disagree",
+          "explanation": "Ook in Brummen is behoefte aan kamerbewoning, dit moet juist gestimuleerd worden, omdat het een deel van het woningentekort kan oplossen. Wel moeten de kamers goed beheerd worden, daar maken we wat GroenLinks betreft met eigenaren afspraken over."
+        },
+        "111353": {
+          "position": "neither",
+          "explanation": "Wijkcentra zijn belangrijke ondersteuners voor prettig samenleven: een plek waar mensen elkaar kunnen ontmoeten, verenigingen onderdak vinden en voorzieningen worden aangeboden. Ons beleid is daarop afgestemd. Het ligt aan de grote van het dorp of een eigen dorpscentrum haalbaar is."
+        },
+        "111354": {
+          "position": "disagree",
+          "explanation": "GroenLinks zet in op een gezonde samenleving, waar fietsers en voetgangers voorrang hebben op al het andere verkeer. Parkeerplaatsen worden aangelegd volgens de gemeentelijke norm en dat is voldoende."
+        },
+        "111357": {
+          "position": "disagree",
+          "explanation": "De gemeente moet meer slagkracht krijgen. GroenLinks wil de dienstverlening voor inwoners op peil houden, daarvoor is een fusie met een andere gemeente (of meerdere) noodzakelijk."
+        },
+        "111358": {
+          "position": "agree",
+          "explanation": "We zien de verkeerdruk in Eerbeek toenemen, met name in het centrum. GroenLinks vindt het van belang om, met het oog op toekomst, voor een betere verkeersafwikkeling van (zwaar) verkeer in Eerbeek te zorgen."
+        },
+        "111359": {
+          "position": "disagree",
+          "explanation": "Er is voldoende geld in de begroting om de eigen taak in het waterbeheer (openhouden watergangen) goed uit te voeren. De gemeente moet samenwerken met het waterschap, de provincie en de industrie om tot een goed evenwicht in waterbeheer te komen."
+        }
+      }
+    },
+    {
+      "id": 154225,
+      "name": "PvdA",
+      "fullName": "Partij van de Arbeid",
+      "website": "https://brummen.pvda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "111305": {
+          "position": "agree",
+          "explanation": "Als inwoners gaan wij over onze eigen gemeente. Wanneer een onderwerp enorm speelt, kan een raadgevend referendum een mooie en eerlijke manier zijn om een besluit te nemen."
+        },
+        "111308": {
+          "position": "neither",
+          "explanation": "De toestemming voor het openen van een winkel of camping is afhankelijk van locatie, soort bedrijf, omvang van de activiteiten."
+        },
+        "111310": {
+          "position": "neither",
+          "explanation": "Werkgevers zijn mede verantwoordelijk voor goede huisvesting. Dat hoeft niet op eigen terrein. Voorwaarde is wel dat het arbeidscontract los moet staan van het huurcontract."
+        },
+        "111311": {
+          "position": "agree",
+          "explanation": "Groen is hard nodig voor verkoeling, schone lucht en een fijne buurt."
+        },
+        "111314": {
+          "position": "neither",
+          "explanation": "In principe niet, maar als de inwoners geen overlast ondervinden en de openbare veiligheid wordt gewaarborgd is te overwegen om te kiezen voor alternatieven."
+        },
+        "111318": {
+          "position": "agree",
+          "explanation": "Alleen onder stringente voorwaarden zou het toegestaan kunnen worden."
+        },
+        "111321": {
+          "position": "neither",
+          "explanation": "Geen ja, geen nee. Als het nodig is, zal de gemeente niet weglopen voor haar verantwoordelijkheid."
+        },
+        "111323": {
+          "position": "agree",
+          "explanation": "Sport is de manier om gezondheid, ontmoeting en gemeenschapszin te versterken. En iedereen moet kunnen meedoen, ongeacht inkomen."
+        },
+        "111325": {
+          "position": "disagree",
+          "explanation": "Beter is te investeren in preventie om de eigen verantwoordelijkheid van de burgers te verhogen."
+        },
+        "111327": {
+          "position": "neither",
+          "explanation": "Voor een veilige plek voor mensen die thuis niet veilig zijn is een regionale opvangplek noodzakelijk."
+        },
+        "111328": {
+          "position": "disagree",
+          "explanation": "De gemeente moet zich inzetten voor het bouwen van betaalbare woningen."
+        },
+        "111330": {
+          "position": "agree",
+          "explanation": "De woningmarkt is totaal vastgelopen, en dat komt voor een deel doordat ouderen niet kunnen doorstromen naar een kleinere woning. Daarom willen wij zo snel mogelijk dat type woning bijbouwen. Zo komen er ook voor andere woningzoekenden weer huizen vrij."
+        },
+        "111332": {
+          "position": "disagree",
+          "explanation": "Mensen zitten niet in de bijstand omdat ze geen zin hebben om te werken. Zij hebben behoefte aan een stabiele basis, een betaalbare woning en vertrouwen vanuit de gemeente. Met extra eisen en voorwaarden zorg je juist voor meer onzekerheid. En veroorzaak je nieuwe problemen."
+        },
+        "111334": {
+          "position": "disagree",
+          "explanation": "Het in de gemeente hebben van een goed en rechtvaardig minimabeleid is noodzakelijk. NB de stelling is verwarrend."
+        },
+        "111336": {
+          "position": "neither",
+          "explanation": "Naar behoefte."
+        },
+        "111337": {
+          "position": "disagree",
+          "explanation": "Zowel de zorgverlener als de zorgvrager moet elk geloof, cultuur of geloofsovertuiging respecteren."
+        },
+        "111341": {
+          "position": "disagree",
+          "explanation": "Niet per definitie."
+        },
+        "111342": {
+          "position": "disagree",
+          "explanation": "We zetten in de gemeente Brummen in op behoud van de huidige bedrijfsterreinen."
+        },
+        "111344": {
+          "position": "disagree",
+          "explanation": "Er zijn meerdere doelgroepen die in aanmerking komen voor voorrang. De voorrang is afhankelijk van de individuele omstandigheden van de huisvestingzoekende."
+        },
+        "111346": {
+          "position": "agree",
+          "explanation": "Onder voorwaarden, zoals een maximale periode, met een goede landschappelijke inpassing en het in oude staat brengen van de gronden."
+        },
+        "111347": {
+          "position": "neither",
+          "explanation": "Belangrijk is wel dat alle kinderen zwemles krijgen. Ouders met een laag inkomen kunnen via het minimum - beleid financieel worden tegemoet gekomen."
+        },
+        "111348": {
+          "position": "disagree",
+          "explanation": "Het is belangrijk dat de leerlingen op school goed Nederlands leren en dat goed kunnen spreken en schrijven."
+        },
+        "111349": {
+          "position": "disagree",
+          "explanation": "de gemeente waakt over een veilige en gezonde leefwijze en leefomgeving"
+        },
+        "111351": {
+          "position": "disagree",
+          "explanation": "hoge flats passen niet in het Brummens dorpsgezicht "
+        },
+        "111352": {
+          "position": "disagree",
+          "explanation": "We hoeven het niet te verbieden. Het kan onder voorwaarden wel toegestaan worden."
+        },
+        "111353": {
+          "position": "agree",
+          "explanation": "Voor de gemeente Brummen willen we in de kern Brummen een multifunctioneel centrum realiseren en in de kern Eerbeek een \"Pakhuus\""
+        },
+        "111354": {
+          "position": "disagree",
+          "explanation": "Geen behoefte."
+        },
+        "111357": {
+          "position": "disagree",
+          "explanation": "De PvdA gaat alleen mee als er een betere dienstverlening komt met behoud van alle voorzieningen."
+        },
+        "111358": {
+          "position": "neither",
+          "explanation": "een rondweg rond Eerbeek is weliswaar wenselijk maar heeft sec alleen voor Eerbeek geen hoge prioriteit. Voor Loenen wel."
+        },
+        "111359": {
+          "position": "agree",
+          "explanation": "Het rioleringsstelsel moet voldoen aan de landelijke normen, waarbij rekening wordt gehouden met de eisen die klimaatadaptie daaraan stellen."
+        }
+      }
+    },
+    {
+      "id": 111290,
+      "name": "D66",
+      "fullName": "D66",
+      "website": "https://d66.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "111305": {
+          "position": "disagree",
+          "explanation": "D66 wil graag blijvend met inwoners in gesprek, niet incidenteel. Een referendum is een duur middel en betrekt inwoners slechts heel kort. Verder zijn veel onderwerpen te complex om met ‘voor’ of ‘tegen’ te beantwoorden."
+        },
+        "111308": {
+          "position": "agree",
+          "explanation": "Toerisme en recreatie houden de gemeente Brummen levendig. Boerderijwinkels, ijssalons of een B&B versterken onze lokale economie. Daarom omarmen we dit soort initiatieven bij boeren, met heldere afspraken over verkeer, natuur en buren."
+        },
+        "111310": {
+          "position": "agree",
+          "explanation": "Seizoenarbeiders zijn nodig, maar hun huisvesting moet goed worden geregeld. D66 vindt dat werkgevers verantwoordelijkheid moeten nemen en op eigen terrein fatsoenlijke, veilige huisvesting regelen, met duidelijke regels. Dat voorkomt overlast én beschermt werknemers."
+        },
+        "111311": {
+          "position": "agree",
+          "explanation": "Bomen maken de gemeente Brummen groener, koeler en gezonder. Kap moet herplant betekenen, zodat we niet stukje bij beetje groen verliezen. Waar nodig kan dat met meerdere jonge bomen of betere plekken, zodat het groen echt terugkomt en sterker wordt."
+        },
+        "111314": {
+          "position": "disagree",
+          "explanation": "Met een landelijk vuurwerkverbod in zicht is ontmoeting rond oud & nieuw extra belangrijk. D66 wil daarom het carbidschieten blijven ondersteunen als ontmoetingsmoment op oudjaarsdag."
+        },
+        "111318": {
+          "position": "disagree",
+          "explanation": "Wonen is urgent, ook voor (boeren)gezinnen. Maar nieuwe huizen in het buitengebied betekenen verstening en druk op landschap en natuur. D66 kiest wél voor erfbewoning, splitsen en woningdelen op bestaande erven, en bouwen vooral in de kernen."
+        },
+        "111321": {
+          "position": "agree",
+          "explanation": "Goede scholen zijn de basis voor gelijke kansen. D66 Brummen wil blijven investeren in schoolgebouwen: er is al veel vernieuwd en er is een meerjaren onderhoudsplan opgesteld. Zo krijgen alle kinderen een veilige, gezonde leerplek."
+        },
+        "111323": {
+          "position": "disagree",
+          "explanation": "We willen sterke sportclubs, maar structureel bijspringen met gemeentegeld is niet altijd eerlijk of houdbaar. D66 kiest voor hulp die helpt: advies, verduurzaming, gebruik van accommodaties en steun bij tijdelijke nood. Zo blijven clubs gezond én blijven lasten eerlijk."
+        },
+        "111325": {
+          "position": "agree",
+          "explanation": "Veiligheid begint met zichtbaarheid op straat. D66 wil meer boaʼs, zodat sneller wordt opgetreden tegen overlast en onveilig verkeer en er meer preventief contact is met jongeren. Zo ontlasten we de politie en blijft het prettig wonen."
+        },
+        "111327": {
+          "position": "agree",
+          "explanation": "Niemand mag thuis onveilig zijn. D66 Brummen wil een laagdrempelige, veilige opvangplek voor wie vlucht voor huiselijk geweld, samen met regionale partners. Snel hulp, discreet, met begeleiding naar een nieuw begin."
+        },
+        "111328": {
+          "position": "disagree",
+          "explanation": "Het moet ook voor starters mogelijk zijn om een huis te kopen. Startersleningen drijven echter alleen de prijs op. Beter zorgen we voor meer passende woningen en geven we voorrang bij nieuwbouwprojecten aan kopers die in de gemeente wonen of er werken."
+        },
+        "111330": {
+          "position": "agree",
+          "explanation": "Veel ouderen willen kleiner wonen, maar wél in hun eigen omgeving. D66 wil meer betaalbare en toegankelijke woningen. Dat geeft ouderen comfort én laat gezinswoningen vrijkomen voor starters en gezinnen. Win-win voor de doorstroming."
+        },
+        "111332": {
+          "position": "disagree",
+          "explanation": "We moeten er vooral voor zorgen dat mensen kunnen meedoen en aan betaald werk kunnen komen. Dat is maatwerk."
+        },
+        "111334": {
+          "position": "disagree",
+          "explanation": "Veel mensen vallen nét buiten regelingen, dat snappen we. Toch is geld voor armoedebeleid beperkt. D66 kiest voor gerichte steun met maatwerk en snelle schuldhulp, in plaats van de grens op te rekken."
+        },
+        "111336": {
+          "position": "disagree",
+          "explanation": "Elektrisch rijden groeit, maar laadplekken mogen niet ten koste gaan van parkeerdruk in de dorpen. D66 is tegen het zomaar aanwijzen van méér vakken. We kiezen voor slimme spreiding, laden waar het past en vooral: meer laadpunten zónder zomaar parkeerplekken te verliezen."
+        },
+        "111337": {
+          "position": "disagree",
+          "explanation": "Laten we niet doen alsof iemand met een ander geloof, cultuur of levensovertuiging geen goede zorg kan leveren. De discussie moet niet gaan over wie het doet, maar over wat: deskundige, respectvolle zorg voor iedereen."
+        },
+        "111341": {
+          "position": "disagree",
+          "explanation": "Toerisme brengt levendigheid én inkomsten, maar kost de gemeente ook investeringen in voorzieningen en infrastructuur. D66 kiest voor een eerlijk tarief en investeert slim in recreatie, natuur en voorzieningen waar iedereen van profiteert."
+        },
+        "111342": {
+          "position": "agree",
+          "explanation": "Groei van bedrijven kan banen en voorzieningen versterken, dus uitbreiding klinkt logisch. D66 is vóór, maar wel zorgvuldig: eerst benutten en verduurzamen wat er is, daarna gerichte uitbreiding op de juiste plek met goede bereikbaarheid en landschappelijke inpassing."
+        },
+        "111344": {
+          "position": "agree",
+          "explanation": "Wachten op een sociale huurwoning is frustrerend; voorrang voelt oneerlijk. Toch heeft de gemeente Brummen de wettelijke taak om statushouders te huisvesten, zodat mensen uit de opvang doorstromen. D66 steunt daarom gerichte voorrang én extra bouwen."
+        },
+        "111346": {
+          "position": "agree",
+          "explanation": "We hebben in Brummen regels opgesteld waar zonnepanelen op landbouwgrond aan moeten voldoen. Deze regels moeten worden gevalueerd en waar nodig bijgesteld, maar in principe moet het mogelijk zijn om op landbouwgrond zonnepanelen te plaatsen."
+        },
+        "111347": {
+          "position": "agree",
+          "explanation": "Niet elk kind krijgt thuis de kans om te leren zwemmen. Met schoolzwemmen vergroot de gemeente Brummen veiligheid en gelijke kansen, zeker in een waterrijke gemeente. D66 wil daarom gemeentelijke steun, met oog voor kosten en efficiënt organiseren."
+        },
+        "111348": {
+          "position": "agree",
+          "explanation": "Het is belangrijk om oog te hebben voor de plaatselijke cultuur en gewoonten. Streektaal hoort daarbij."
+        },
+        "111349": {
+          "position": "agree",
+          "explanation": "Bezorgd over overlast? D66 kiest juist voor een gereguleerde coffeeshop: duidelijke regels, locatie met afstand tot scholen, toezicht en handhaving. Dat haalt handel van straat, maakt gebruik beter beheersbaar en vergroot veiligheid."
+        },
+        "111351": {
+          "position": "disagree",
+          "explanation": "Meer woningen zijn hard nodig; bouwen in de hoogte is dan heel logisch. Maar \"hoge woonflats\" klinken énorm onaantrekkelijk. D66 kiest wél voor meerlaagse appartementen op passende plekken, met een goede, groene uitstraling."
+        },
+        "111352": {
+          "position": "agree",
+          "explanation": "Woningdelen kan lucht geven op de krappe markt; tegelijk zijn er zorgen over overlast. D66 is voor verhuur met duidelijke regels: kwaliteitseisen, een maximum per woning, goede registratie en handhaving. Zo helpen we starters en studenten zónder buurten te belasten."
+        },
+        "111353": {
+          "position": "agree",
+          "explanation": "Ontmoeten in het eigen dorp houdt verenigingen en gemeenschappen sterk. D66 wil waar behoefte is en waar het inpasbaar is, een toegankelijk, multifunctioneel centrum- liefst via slim gebruik/uitbreiding van bestaande gebouwen."
+        },
+        "111354": {
+          "position": "agree",
+          "explanation": "D66 pleit voor leefbare kernen met groen, veilige wandel- en fietsroutes en een prettige openbare ruimte. Ruimte reserveren voor extra parkeerplaatsen moet op een slimme manier zodat het niet ten koste gaat van deze voorzieningen."
+        },
+        "111357": {
+          "position": "disagree",
+          "explanation": "Er is in 2025 unaniem gekozen voor het onderzoeken van het samengaan van de gemeente met een andere gemeente. Dit was na een groot onderzoek waarbij alle mogelijke opties op tafel lagen. Zelfstandig blijven zal de kwaliteit van de dienstverlening naar de inwoners in gevaar brengen."
+        },
+        "111358": {
+          "position": "disagree",
+          "explanation": "Een goede en veilige verkeersafwikkeling is belangrijk. Een rondweg ziet D66 Brummen niet als reeel gezien de ligging tegen de Veluwe aan."
+        },
+        "111359": {
+          "position": "agree",
+          "explanation": "Er moet aandacht zijn voor waterbeheer in de openbare ruimten. Op eigen grond is een eigenaar zelf verantwoordelijk."
+        }
+      }
+    },
+    {
+      "id": 111289,
+      "name": "CDA",
+      "fullName": "Christen-Democratisch Appèl",
+      "website": "https://www.cda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "111305": {
+          "position": "disagree",
+          "explanation": "Het CDA vindt participatie van inwoners van de gemeente ontzettend belangrijk. Een referendum reduceert ingewikkelde besluiten tot een ja of nee keuze en dat doet geen recht aan de complexiteit van veel voorstellen."
+        },
+        "111308": {
+          "position": "agree",
+          "explanation": "We pleiten voor een vitaal platteland met ruimte voor recreatie, natuur en voor de agrarische sector. Het CDA wil hierbij een flexibele houding van de gemeente, met mogelijkheden voor honorering van interessante initiatieven. Altijd hangt dat ook af van het initiatief!"
+        },
+        "111310": {
+          "position": "agree",
+          "explanation": "Voor kortblijvende arbeidskrachten is huisvesting op de bedrijven, leegstaande gebouwen/woningen en voor dat doel bestemde pensions en hotels geschikt, mits goede woonomstandigheden, veiligheid, registratie en beheer gegarandeerd zijn."
+        },
+        "111311": {
+          "position": "disagree",
+          "explanation": "Niet elke gekapte boom in de gemeente hoeft ter plekke gecompenseerd te worden. Wel is het van belang dat kap niet zomaar plaatsvindt en kaalslag voorkomen wordt. In algemene zin hechten we zeer aan onze groene woon/werkomgeving!"
+        },
+        "111314": {
+          "position": "agree",
+          "explanation": "Om een alternatief te bieden voor het particulier afsteken vuurwerk is het CDA voor een vuurwerkshow, dit moet wel (veilig) te organiseren zijn en kan wellicht met omliggende gemeenten opgepakt worden. Het traditionele cardbidschieten kan op een goed georganiseerde wijze blijven bestaan."
+        },
+        "111318": {
+          "position": "agree",
+          "explanation": "Daar waar het gaat om de regelingen ‘Rood voor Rood’, tweede bedrijfswoning of woningsplitsing voor bijvoorbeeld mantelzorg van kinderen voor ouders bij boerderijen en geen onoverkomelijke nadelige gevolgen heeft voor het landschap."
+        },
+        "111321": {
+          "position": "disagree",
+          "explanation": "De schoolgebouwen zijn, over het algemeen, in Brummen van goede kwaliteit. Voor het onderhoud zijn in eerste instantie de schoolbesturen aan zet. Zij ontvangen hier immers middelen voor vanuit het ministerie van Onderwijs. Bij nieuwbouw is de gemeente aan zet."
+        },
+        "111323": {
+          "position": "agree",
+          "explanation": "Verenigingen vormen de ruggengraat van een levende gemeenschap. Ondersteuning kan natuurlijk nooit onvoorwaardelijk zijn. In principe moeten sportverenigingen hun eigen financiële broek kunnen ophouden. Voor ondersteuning kan een beroep worden gedaan op stichting Sportkompas"
+        },
+        "111325": {
+          "position": "disagree",
+          "explanation": "Het CDA vindt dat een sterkere veiligheidsbeleving niet één op één samenvalt met toename van het aantal boa`s. Noaberschap en \"omzien naar elkaar\" bewerkstellingen dit wel. Het CDA zou dit weer de norm willen laten worden (daar waar het nog niet het geval is)."
+        },
+        "111327": {
+          "position": "agree",
+          "explanation": "Mocht daar behoefte aan zijn, is dat zeker wenselijk."
+        },
+        "111328": {
+          "position": "agree",
+          "explanation": "Als onderdeel voor het verkrijgen van een hypotheek. In eerste instantie zijn hiervoor natuurlijk de financiële instellingen in het leven geroepen."
+        },
+        "111330": {
+          "position": "agree",
+          "explanation": "Ook de bevolking van Brummen vergrijst en het woningbouwprogramma van Brummen moet hier op aangepast worden. Hiermee wordt ook de doorstroom in de gemeente bevorderd."
+        },
+        "111332": {
+          "position": "agree",
+          "explanation": "Ook voor mensen met een bijstandsuitkering is het belangrijk om mee te kunnen blijven doen in de samenleving. De schaal waarop dit gebeurt, vindt dan plaats in goed overleg met Team voor Elkaar. Iedere bewoner doet ertoe en telt mee!"
+        },
+        "111334": {
+          "position": "agree",
+          "explanation": "De inkomensgrens moet meestijgen met de inflatie."
+        },
+        "111336": {
+          "position": "agree",
+          "explanation": "Naarmate het aandeel elektrische auto's in het wagenpark stijgt, zullen er ook meer oplaadpunten moeten komen."
+        },
+        "111337": {
+          "position": "agree",
+          "explanation": "Persoonlijke aansluiting met de verzorgende op de meest kwetsbare momenten in een mensenleven is van belang. Vrije keuze is een recht, maar er is geen recht op honorering ervan. Dat dit in de toekomst verder onder druk komt te staan door schaarste van zorgpersoneel is helaas een feit."
+        },
+        "111341": {
+          "position": "disagree",
+          "explanation": "Nu de BTW op overnachtingen in 2026 landelijk is verhoogd, vindt het CDA het niet gepast de toeristenbelasting verder te verhogen. Toerisme moet geen melkkoe worden van de gemeente."
+        },
+        "111342": {
+          "position": "disagree",
+          "explanation": "Nieuwe bedrijventerreinen in de gemeente Brummen zullen met name effect hebben op verplaatsing van bedrijven vanuit een nabije regio. Brummen kan beter inzetten op vernieuwing en verbetering van het huidige areaal en samenwerking op de regionale terreinen."
+        },
+        "111344": {
+          "position": "agree",
+          "explanation": "De gemeente moet zijn steentje bijdragen aan het huisvesten van vluchtelingen met een verblijfsstatus. Net zoals die bestaat voor overige hoog urgente woningzoekenden."
+        },
+        "111346": {
+          "position": "disagree",
+          "explanation": "Het CDA is terughoudend op het grootschalig toestaan van zonneparken op landbouwgrond."
+        },
+        "111347": {
+          "position": "disagree",
+          "explanation": "Er wordt door de gemeente momenteel geen geld beschikbaar gesteld voor schoolzwemmen. Het leren zwemmen en de bekostiging daarvan vinden wij een primaire taak van ouders/verzorgers en niet van de scholen. Bij bekostigingsproblemen kunnen ouders ook nu al terecht bij de gemeente."
+        },
+        "111348": {
+          "position": "agree",
+          "explanation": "Het CDA is voor het ondersteunen van Regionale taal, streektalen en dialecten. Zij het in beperkte zin en op vrijwillige basis."
+        },
+        "111349": {
+          "position": "disagree",
+          "explanation": "Bij de schaal van de gemeente Brummen en de aanwezige handhavings(on)mogelijkheden past geen coffeeshop binnen de gemeentegrenzen."
+        },
+        "111351": {
+          "position": "disagree",
+          "explanation": "Voor echte hoogbouw is in de kernen van de gemeente geen plek. Hoogbouw sluit onvoldoende aan bij het huidige dorpskarakter."
+        },
+        "111352": {
+          "position": "disagree",
+          "explanation": "Het verhuren en huren van losse kamers kan voor een deel van de bevolking een (tijdelijke) oplossing zijn voor het woningprobleem."
+        },
+        "111353": {
+          "position": "agree",
+          "explanation": "Alle dorpen hebben min of meer al een eigen dorpscentrum en dit kan nog versterkt worden om de eigen identiteit en gemeenschapszin te vergroten."
+        },
+        "111354": {
+          "position": "disagree",
+          "explanation": "Parkeren vormt geen groot probleem in onze kernen."
+        },
+        "111357": {
+          "position": "disagree",
+          "explanation": "Het CDA Brummen is voorstander van herindeling of verregaande samenwerking om de bestaande kwetsbaarheden op te lossen, om de bestuurskracht te versterken en als een omvangrijkere gemeente een grotere strategische invloed te hebben op regionale ontwikkelingen."
+        },
+        "111358": {
+          "position": "agree",
+          "explanation": "Er moet blijvende aandacht zijn voor een verbetering van de afwikkeling van verkeersstromen (vrachtverkeer) op plaatsen in Eerbeek waar dit nu tot gevaarlijke situaties leidt."
+        },
+        "111359": {
+          "position": "agree",
+          "explanation": "Grondwateroverlast is een serieus probleem in sommige delen van Eerbeek. Samen met de provincie Gelderland en het Waterschap moet de gemeente op zoek naar oplossingen."
+        }
+      }
+    }
+  ],
+  "statements": [
+    {
+      "id": 111357,
+      "index": 1,
+      "theme": "Municipal reorganization",
+      "themeId": "gemeentelijke-herindeling",
+      "title": "Brummen should remain an independent municipality.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111310,
+      "index": 2,
+      "theme": "Housing for foreign workers",
+      "themeId": "huisvesting-buitenlandse-werknemers",
+      "title": "Employers in agriculture and horticulture should provide housing for seasonal workers on their own premises.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111337,
+      "index": 3,
+      "theme": "Choice of healthcare",
+      "themeId": "zorgkeuze",
+      "title": "People who need care should always be able to choose a caregiver who matches their religion, culture, or beliefs.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111311,
+      "index": 4,
+      "theme": "Trees",
+      "themeId": "bomen",
+      "title": "For every tree cut down in the municipality, a new one must be planted.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111330,
+      "index": 5,
+      "theme": "Senior housing",
+      "themeId": "seniorenwoningen",
+      "title": "More small rental and owner-occupied homes for elderly people should be built in Brummen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111321,
+      "index": 6,
+      "theme": "Improving school buildings",
+      "themeId": "verbeteren-schoolgebouwen",
+      "title": "The municipality should invest money in improving all school buildings during the next council term.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111325,
+      "index": 7,
+      "theme": "Enforcement officers",
+      "themeId": "handhavers",
+      "title": "Brummen should have more municipal enforcement officers (BOAs) who focus on safety.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111323,
+      "index": 8,
+      "theme": "Sports clubs",
+      "themeId": "sportverenigingen",
+      "title": "If sports clubs are struggling, the municipality should contribute financially.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111342,
+      "index": 9,
+      "theme": "Business parks",
+      "themeId": "bedrijventerreinen",
+      "title": "More business parks (industrial sites) should be developed in Brummen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111318,
+      "index": 10,
+      "theme": "Building on agricultural land",
+      "themeId": "bouwen-op-landbouwgrond",
+      "title": "It should be possible for farmers to build houses themselves on their land.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111327,
+      "index": 11,
+      "theme": "Violence against women",
+      "themeId": "geweld-tegen-vrouwen",
+      "title": "A women's shelter (a refuge for victims of domestic violence) should be established in Brummen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111352,
+      "index": 12,
+      "theme": "Subdivision into multiple rooms",
+      "themeId": "verkamering",
+      "title": "The municipality must prohibit landlords from renting out separate rooms instead of whole houses.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111314,
+      "index": 13,
+      "theme": "Fireworks",
+      "themeId": "vuurwerk",
+      "title": "The municipality should organize a fireworks show on New Year's Eve.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111358,
+      "index": 14,
+      "theme": "Ring road",
+      "themeId": "rondweg",
+      "title": "There should be a ring road around Eerbeek.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111334,
+      "index": 15,
+      "theme": "Combating poverty",
+      "themeId": "armoedebestrijding",
+      "title": "The municipality should raise the income threshold for receiving poverty assistance.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111305,
+      "index": 16,
+      "theme": "Referendum",
+      "themeId": "referendum",
+      "title": "The residents of Brummen should be able to give their opinion on important issues via a referendum.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111344,
+      "index": 17,
+      "theme": "Priority for refugees",
+      "themeId": "voorrang-voor-vluchtelingen",
+      "title": "The municipality must continue to give refugees with a residence permit priority for social housing.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111351,
+      "index": 18,
+      "theme": "Apartment buildings",
+      "themeId": "woonflats",
+      "title": "More high-rise residential buildings should be allowed in Brummen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111341,
+      "index": 19,
+      "theme": "Tourist tax",
+      "themeId": "toeristenbelasting",
+      "title": "The tourist tax should be increased.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111348,
+      "index": 20,
+      "theme": "Regional language",
+      "themeId": "streektaal",
+      "title": "The municipality must make it possible for all primary schools to include Low Saxon.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111336,
+      "index": 21,
+      "theme": "Electric vehicle charging stations",
+      "themeId": "elektrische-laadpalen",
+      "title": "The municipality should designate more parking spaces as charging points for electric cars.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111332,
+      "index": 22,
+      "theme": "Work requirement for welfare recipients",
+      "themeId": "tegenprestatie-voor-uitkering",
+      "title": "People receiving social assistance should, in return, do socially useful work.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111346,
+      "index": 23,
+      "theme": "Solar panels on farmland",
+      "themeId": "zonnepanelen-op-landbouwgrond",
+      "title": "The municipality must allow solar panels on agricultural land.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111353,
+      "index": 24,
+      "theme": "Village center",
+      "themeId": "dorpscentrum",
+      "title": "All villages in the municipality must have their own village center.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111308,
+      "index": 25,
+      "theme": "Farm campsites",
+      "themeId": "boerencampings",
+      "title": "The municipality should always allow farmers to open, for example, a shop or a campsite at their farm.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111347,
+      "index": 26,
+      "theme": "School swimming",
+      "themeId": "schoolzwemmen",
+      "title": "The municipality must continue to make funds available for school swimming.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111328,
+      "index": 27,
+      "theme": "Starter loan",
+      "themeId": "starterslening",
+      "title": "First-time homebuyers should be able to receive a starter loan from the municipality.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111349,
+      "index": 28,
+      "theme": "Coffeeshop (cannabis shop)",
+      "themeId": "coffeeshop",
+      "title": "The municipality should allow the establishment of a coffeeshop.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111354,
+      "index": 29,
+      "theme": "Parking spaces",
+      "themeId": "parkeerplaatsen",
+      "title": "There should be more parking spaces in the town centers.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 111359,
+      "index": 30,
+      "theme": "Flooding in Eerbeek",
+      "themeId": "wateroverlast-eerbeek",
+      "title": "The municipality of Brummen must invest more money in preventing floods in Eerbeek.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    }
+  ]
+}

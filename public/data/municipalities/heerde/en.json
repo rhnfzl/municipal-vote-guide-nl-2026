@@ -1,0 +1,1119 @@
+{
+  "id": "GM0246",
+  "name": "Heerde",
+  "slug": "heerde",
+  "parties": [
+    {
+      "id": 115560,
+      "name": "Gemeentebelang Boerenpartij",
+      "fullName": "Gemeentebelang Boerenpartij",
+      "website": "https://gbpheerde.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "115580": {
+          "position": "agree",
+          "explanation": "Wij zijn het eens Een referendum geeft inwoners een duidelijke stem en vergroot de betrokkenheid bij de lokale politiek. Zo zorgen we samen voor besluiten met meer draagvlak."
+        },
+        "115583": {
+          "position": "agree",
+          "explanation": "Wij zijn het eens Boeren moeten ruimte krijgen om hun bedrijf aan te vullen met bijvoorbeeld een winkel of een camping. Dit helpt hen om een gezond inkomen te behouden en draagt bij aan een levendig en vitaal buitengebied, zolang het goed past bij de omgeving."
+        },
+        "115586": {
+          "position": "disagree",
+          "explanation": "Wij zijn het oneens Onze gemeente heeft al afspraken gemaakt via een uitruilregeling. Daarmee leveren wij op een andere manier onze bijdrage. Het is belangrijk dat we ons houden aan deze afspraken en keuzes maken die passen bij de draagkracht en mogelijkheden van onze gemeente."
+        },
+        "115587": {
+          "position": "agree",
+          "explanation": "Wij zijn het eens Werkgevers in de land- en tuinbouw kennen de behoeften van hun seizoenarbeiders. Door hen zelf verantwoordelijk te maken voor huisvesting op eigen terrein, kunnen ze zorgen voor goede, veilige en passende woonplekken, dicht bij de werkplek. Dit is praktisch en eerlijk voor beide."
+        },
+        "115591": {
+          "position": "neither",
+          "explanation": "Wij weten het nog niet Een gemeentelijke vuurwerkshow kan gezelligheid en saamhorigheid brengen, maar het landelijke vuurwerkverbod roept vragen op over veiligheid en regelgeving. Wij vinden dat hier zorgvuldig naar gekeken moet worden voordat een beslissing wordt genomen"
+        },
+        "115592": {
+          "position": "agree",
+          "explanation": "Wij zijn het eens Grofvuil gratis aan huis ophalen maakt het voor inwoners makkelijker om afval op een veilige en nette manier kwijt te raken. Zo blijft de gemeente schoon, voorkomen we zwerfafval en helpen we bewoners zonder extra kosten."
+        },
+        "115593": {
+          "position": "disagree",
+          "explanation": "Wij zijn het oneens Festivals en feesten zorgen voor gezelligheid en levendigheid in de gemeente. Strengere geluidsnormen zouden dit kunnen beperken. Met goede afspraken en maatwerk kan geluidsoverlast worden beperkt zonder dat evenementen hun plek verliezen."
+        },
+        "115595": {
+          "position": "neither",
+          "explanation": "Wij weten het nog niet Boeren zouden op hun erfgrond soms eigen woningen kunnen bouwen, bijvoorbeeld voor gezinsleden of werknemers, maar op landbouwgrond gaat dat vaak te ver. Het is belangrijk dat hier per situatie maatwerk wordt toegepast, zodat het past bij de omgeving en het bestemmingsplan."
+        },
+        "115597": {
+          "position": "agree",
+          "explanation": "Wij zijn het eens De lokale omroep verbindt inwoners en brengt belangrijke informatie over onze gemeente dichtbij. Extra ondersteuning helpt om de kwaliteit en continuïteit te behouden, zodat iedereen op de hoogte blijft van nieuws en evenementen in Heerde"
+        },
+        "115600": {
+          "position": "agree",
+          "explanation": "Wij zijn het eens Onze sportverenigingen en vrijwilligers vormen het hart van de gemeenschap. Als zij het moeilijk hebben, moet de gemeente hen financieel steunen, zodat ze kunnen blijven bestaan en een plek bieden voor sport, samenkomst en sociale verbinding in Heerde."
+        },
+        "115603": {
+          "position": "disagree",
+          "explanation": "Wij zijn het oneens Veiligheid is belangrijk, maar in Heerde is er meer behoefte aan controle en aanwezigheid van de politie dan extra gemeentelijke handhavers (boa’s). Zo kunnen problemen effectiever en professioneel worden aangepakt."
+        },
+        "115604": {
+          "position": "neither",
+          "explanation": "Wij weten het nog niet Cameratoezicht kan helpen bij veiligheid, maar niet overal is dit nodig of wenselijk. Strategisch inzetten op plekken waar het echt nodig is, biedt een goede balans tussen veiligheid en privacy."
+        },
+        "115607": {
+          "position": "agree",
+          "explanation": "Wij zijn het eens Door hen voorrang te geven bij sociale huurwoningen, ondersteunen we onze inwoners en versterken we de lokale gemeenschap"
+        },
+        "115611": {
+          "position": "agree",
+          "explanation": "Wij zijn het eens Mensen met een bijstandsuitkering kunnen een waardevolle bijdrage leveren via maatschappelijk zinvol werk. Het is belangrijk dat dit per persoon wordt afgestemd, zodat het past bij hun mogelijkheden, talenten en persoonlijke situatie."
+        },
+        "115612": {
+          "position": "neither",
+          "explanation": "Wij weten het nog niet Een “laag inkomen” is niet voor iedereen hetzelfde en kan per situatie verschillen. Het is belangrijk dat de gemeente blijft kijken naar inwoners die moeite hebben met belastingen en waar nodig maatwerk levert, zodat niemand in financiële problemen komt."
+        },
+        "115613": {
+          "position": "disagree",
+          "explanation": "Wij zijn het oneens De inkomensgrens voor hulp bij armoede is de afgelopen periode al verhoogd. Het is belangrijk om te blijven volgen of deze grens voldoende is en, als dat nodig blijkt, opnieuw te bekijken en aan te passen per situatie."
+        },
+        "115614": {
+          "position": "disagree",
+          "explanation": "Wij zijn het oneens In plaats van bezuinigen is het beter om de middelen juist te verhogen, zodat er voldoende aandacht en activiteiten blijven voor de behoeften van jongeren."
+        },
+        "115615": {
+          "position": "disagree",
+          "explanation": "Wij zijn het oneens Dit gaat ten koste van te veel gewone parkeerplekken. Het is beter om een balans te vinden en alleen waar echt nodig oplaadpunten te plaatsen, zodat iedereen voldoende parkeerruimte heeft."
+        },
+        "115617": {
+          "position": "disagree",
+          "explanation": "Wij zijn het oneens Het is belangrijk dat mensen zorg krijgen die zij nodig hebben, maar door het grote tekort aan zorgverleners is het niet altijd mogelijk een keuze te garanderen op basis van geloof, cultuur of levensovertuiging. De focus ligt op toegankelijke en kwalitatieve zorg voor iedereen."
+        },
+        "115619": {
+          "position": "agree",
+          "explanation": "Wij zijn het eens De gemeentelijke lasten, zoals de onroerendezaakbelasting (ozb), zijn in Heerde relatief hoog"
+        },
+        "115622": {
+          "position": "agree",
+          "explanation": "Wij zijn het eens Uitbreiding van bedrijventerreinen biedt werkgelegenheid en ruimte voor (lokale) ondernemers om te groeien. Zo versterken we de economie in Heerde en creëren we kansen voor inwoners en bedrijven in de gemeente."
+        },
+        "115624": {
+          "position": "disagree",
+          "explanation": "Wij zijn het oneens Vluchtelingen met een verblijfsvergunning moeten in de wachtrij aansluiten zoals andere woningzoekenden. Zo krijgt iedereen, ook inwoners van Heerde, een eerlijke kans op een sociale huurwoning."
+        },
+        "115628": {
+          "position": "agree",
+          "explanation": "Wij zijn het eens Schoolzwemmen is belangrijk voor de veiligheid en het zelfvertrouwen van kinderen. Door hier geld voor beschikbaar te stellen, zorgt de gemeente dat alle leerlingen de kans krijgen om goed te leren zwemmen."
+        },
+        "115629": {
+          "position": "agree",
+          "explanation": "Wij zijn het eens Wuule bint trots op onze toal! Hier ma'j plat proat'n. Het Veluws is een belangrijk onderdeel van onze cultuur en identiteit. Door op alle basisscholen aandacht te besteden aan deze taal, leren kinderen hun streektaal kennen en blijft het erfgoed levend voor toekomstige generaties."
+        },
+        "115632": {
+          "position": "disagree",
+          "explanation": "Wij zijn het oneens Hoge woonflats (3 lagen) passen niet bij het karakter van Heerde en kunnen de leefomgeving en het dorpsbeeld verstoren. Lage en middelhoge bebouwing blijft beter passen bij de sfeer en schaal van onze gemeente."
+        },
+        "115633": {
+          "position": "disagree",
+          "explanation": "Wij zijn het oneens Het verbieden van het verhuren van losse kamers is te strikt. Voor sommige jongeren of mensen die tijdelijk woonruimte nodig hebben, is kamerhuur juist een goede oplossing. Het is beter om dit per situatie te bekijken dan een totaalverbod in te stellen"
+        },
+        "115634": {
+          "position": "agree",
+          "explanation": "Wij zijn het eens Een dorpscentrum versterkt de sociale samenhang en biedt inwoners een plek voor ontmoeting, activiteiten en voorzieningen. Door in elk dorp een dorpscentrum te hebben, blijft het leven in alle kernen van Heerde levendig en betrokken."
+        },
+        "115635": {
+          "position": "agree",
+          "explanation": "Wij zijn het eens Meer parkeerplaatsen in de dorpskernen maken het makkelijker voor inwoners en bezoekers om hun auto te parkeren. Dit ondersteunt lokale winkels, horeca en zorgt voor een betere bereikbaarheid en leefbaarheid in de kernen van Heerde."
+        },
+        "115636": {
+          "position": "disagree",
+          "explanation": "Wij zijn het oneens Een volledig autovrij centrum kan de leefbaarheid en veiligheid verbeteren, maar wegnemen van parkeerplaatsen kan lastig zijn voor inwoners/ bezoekers. Een autoluwe aanpak met behoud van parkeerplaatsen en slimme routes, bv keren van doorgaand verkeer kan maatwerkoplossing zijn."
+        },
+        "115638": {
+          "position": "agree",
+          "explanation": "Wij zijn het eens Jeugdzorg is van groot belang en er speelt veel in de gemeente. Als er een tekort is, moet de gemeente dit aanvullen vanuit algemene middelen, zodat alle jongeren de zorg en ondersteuning krijgen die ze nodig hebben."
+        }
+      }
+    },
+    {
+      "id": 115561,
+      "name": "Dorpspartij CDA Heerde",
+      "fullName": "Dorpspartij CDA Heerde",
+      "website": "https://www.cda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "115580": {
+          "position": "disagree",
+          "explanation": "Wij zijn voor maximale actieve burgerparticipatie. Het instrument Referendum kent veel beperkingen, zoals representativiteit en desinformatie kan verstorend werken. De gemeenteraad is het democratisch gekozen orgaan."
+        },
+        "115583": {
+          "position": "disagree",
+          "explanation": "Daar zijn we zeker voor, maar het kan niet altijd en overal i.v.m. de Omgevingswet en concurrentie met de plaatselijke middenstand."
+        },
+        "115586": {
+          "position": "neither",
+          "explanation": "Op zich vinden we dat elke gemeente zijn steentje moet bijdragen. De gemeente Heerde vangt in een onderlinge ruil een extra quotum Oekrainers op en de gemeente Zutphen vangt op haar beurt 'onze' asielzoekers op. Zou die ruil wegvallen, dan vinden wij dat ook Heerde moet voldoen aan de Spreidingswet."
+        },
+        "115587": {
+          "position": "agree",
+          "explanation": "We kunnen niet zonder seizoenarbeiders, dan valt de economie stil. Zij doen werk, wat Nederlanders vaak niet meer willen doen. Seizoenarbeiders hebben recht op fatsoenlijke huisvesting, maar de buurt zit er vaak niet op te wachten. Daarom is huisvesting op het erf waar de bedrijven gevestigd zijn, voor iedereen een prima plan."
+        },
+        "115591": {
+          "position": "agree",
+          "explanation": "Zeker, in Heerde en ook in Wapenveld De nieuwjaarsduik bij het Heerderstrand is ook al een mooie stunt."
+        },
+        "115592": {
+          "position": "disagree",
+          "explanation": "We hebben nu een prima voorziening dat we elke zaterdag gratis groen kunnen storten. Voor grofvuil en bouwafval moet de vervuiler betalen."
+        },
+        "115593": {
+          "position": "disagree",
+          "explanation": "Huidige geluidsnormen zijn prima."
+        },
+        "115595": {
+          "position": "disagree",
+          "explanation": "We kennen al de regeling rood voor rood. Je breekt iets af en je krijgt als boer ruimte om er woningen voor terug te zetten. Binnen die kaders zijn er nu al mogelijkheden op boerenerven, dat is genoeg."
+        },
+        "115597": {
+          "position": "disagree",
+          "explanation": "Lokale omroep is prima, maar hoe lokaler, hoe beter, zegt deze lokale Dorpspartij."
+        },
+        "115600": {
+          "position": "agree",
+          "explanation": "Gemeente heeft al een nieuw accommodatie beleid vastgesteld, alle sportaccommodaties komen voor rekening van de gemeente. In ons verkiezingsprogramma staat ook nog , dat subsidies jaarlijks geindexeerd moeten worden."
+        },
+        "115603": {
+          "position": "agree",
+          "explanation": "Veiligheid op straat is prioriteit nummer 1. Vooral voor vrouwen en ook voor jongeren is een persoonlijke band met de BOA's het begin van een beter handhavingsbeleid."
+        },
+        "115604": {
+          "position": "agree",
+          "explanation": "Cameratoezicht werkt preventief. Daar zijn we voor."
+        },
+        "115607": {
+          "position": "agree",
+          "explanation": "Daar zijn we erg voor, in ieder geval moet een belangrijk percentage van de huurwoningen voor eigen inwoners bestemd worden. De wet en regelgeving zou hierop aangepast moeten worden."
+        },
+        "115611": {
+          "position": "agree",
+          "explanation": "Maar wel op basis van wat bij de mogelijkheden van de betrokkenen past, maar het principe is helemaal oke."
+        },
+        "115612": {
+          "position": "disagree",
+          "explanation": "Is bestaand beleid en wij pleiten juist voor meer maatwerk, dus af van de standaardregels en op basis van een aantal vastgelegde uitgangspunten geval voor geval ruimhartig beoordelen."
+        },
+        "115613": {
+          "position": "disagree",
+          "explanation": "We hebben die inkomensgrens nu juist recent verlaagd en pleiten voor meer maatwerk per situatie."
+        },
+        "115614": {
+          "position": "disagree",
+          "explanation": "Jongeren zijn de toekomst, er zijn nu te weinig veilige en passende voorzieningen voor jongeren. Skatebaan in Wapenveld en Heerde! Het begint ook met goede jongerenwerkers, die de straat op gaan en contacten leggen en niet elke keer weer een nieuw gezicht van weer een nieuwe jongerenwerker,"
+        },
+        "115615": {
+          "position": "agree",
+          "explanation": "Om te voorkomen dat al die snoeren over het trottoir lopen. Stimuleren van elektrische auto's vinden we belangrijk. Maar auto opgeladen, dan ook wegwezen van die plek, dat dan weer wel."
+        },
+        "115617": {
+          "position": "agree",
+          "explanation": "Mee eens, maar het mag niet ten koste gaan van de kwaliteit van de zorgverlening"
+        },
+        "115619": {
+          "position": "disagree",
+          "explanation": "huidige beleid voortzetten en dat betekent: verhogen met de inflatiecorrectie, anders komt de gemeente zelf in de problemen"
+        },
+        "115622": {
+          "position": "disagree",
+          "explanation": "Geen plek meer voor."
+        },
+        "115624": {
+          "position": "disagree",
+          "explanation": "Iedereen gelijk behandelen en daar horen vluchtelingen met een verblijfsstatus vanzelfsprekend bij."
+        },
+        "115628": {
+          "position": "disagree",
+          "explanation": "De gemeente moet in plaats van schoolzwemmen te te subsidieren de gezinnen subsidieren die zelf de zwemles niet kunnen betalen. Wij zijn ook in de toekomst voor een nieuw volwaardig zwembad in Heerde en willen daarvoor gaan sparen uit de jaarlijkse overschotten."
+        },
+        "115629": {
+          "position": "agree",
+          "explanation": "Je eigen cultuur is belangrijk, het zou een beetje grappig gebracht moeten worden natuurlijk"
+        },
+        "115632": {
+          "position": "disagree",
+          "explanation": "Niet passend bij het dorpse karakter"
+        },
+        "115633": {
+          "position": "disagree",
+          "explanation": "er is ook kamernood en dat kan voor jongeren soms een eerste stap zijn."
+        },
+        "115634": {
+          "position": "agree",
+          "explanation": "Dat hebben ze al. In Veessen zou MFC de Noord opgewaardeerd moeten worden. In Vorchten pleiten we voor gelijke financiele behandeling van MFA de Verbinding in vergelijking met de andere dorpscentra"
+        },
+        "115635": {
+          "position": "agree",
+          "explanation": "Zeker nodig, maar wel vanuit het STOP principe, dus voorrang voor stappen (voetgangers), dan trappen(fietsers), dan Openbaar Vervoer en dan pas de auto. Maar op redelijke afstand van de kernen moeten mensen hun auto wel kwijt kunnen."
+        },
+        "115636": {
+          "position": "disagree",
+          "explanation": "Het centrum moet wel autoluw, zodat ouderen en gehandicapten toegang blijven houden. Doorgaand verkeer zoveel mogelijk weren. Daarom hebben we een plan ingediend om de rijrichting van het eenrichtingsverkeer om te draaien van Noord naar Zuid en dan afbuigen bij de Bonenburgerlaan."
+        },
+        "115638": {
+          "position": "disagree",
+          "explanation": "Dit is een taak die het Rijk aan de gemeente overgeheveld heeft en daar hoort gewoon voldoende Rijksgeld bij. Niet aanvullen vanuit gemeentelijke middelen dus."
+        }
+      }
+    },
+    {
+      "id": 115562,
+      "name": "ChristenUnie-SGP",
+      "fullName": "ChristenUnie-SGP",
+      "website": "https://www.christenunie.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "115580": {
+          "position": "disagree",
+          "explanation": "Inwonerpeilingen, experimenten met nieuwe vormen van vertegenwoordiging en andere manieren om inwoners te betrekken bij de besluitvorming moeten aanvullend zijn op het mandaat dat via de verkiezingen door de inwoners is gegeven aan de gemeenteraad."
+        },
+        "115583": {
+          "position": "agree",
+          "explanation": "De agrarische sector verdient perspectief. Een toekomstbestendige agrarische sector heeft een gezonde economische basis, is innovatief, gaat zorgvuldig om met bodem, grondstoffen en energie en produceert in balans met dier en leefomgeving. Korte voedselketens (boerderijwinkels) steunen we van harte."
+        },
+        "115586": {
+          "position": "agree",
+          "explanation": "Oekraïense vluchtelingen zijn welkom. Ook in de opvang van asielzoekers nemen we onze verantwoordelijkheid en volgen we de spreidingswet, zodat er een evenwichtige spreiding ontstaat in Nederland waarbij elke gemeente haar verantwoordelijkheid neemt."
+        },
+        "115587": {
+          "position": "agree",
+          "explanation": "We zien hier een duidelijke verantwoordelijkheid voor de werkgevers in de land- en tuinbouw."
+        },
+        "115591": {
+          "position": "disagree",
+          "explanation": "De gemeente geeft ruimte aan particuliere initiatieven om een vuurwerkshow te organiseren, we zien de uitvoering hiervan niet als taak voor de gemeente."
+        },
+        "115592": {
+          "position": "disagree",
+          "explanation": "We hebben een aarde met een eindige hoeveelheid grondstoffen. Daarom willen we zuinig zijn op wat we gebruiken. We willen afval voorkomen waar dat kan. Waar toch afval ontstaat, past een streng afvalbeleid qua scheiden."
+        },
+        "115593": {
+          "position": "agree",
+          "explanation": "Evenementen in Heerde moeten veilig en gezond zijn. Niet alleen zijn ze goed toegankelijk maar ook komen er heldere (subsidie-) afspraken over afval en duurzaamheid, geluid en volksgezondheid waaronder aandacht voor drank en drugs."
+        },
+        "115595": {
+          "position": "disagree",
+          "explanation": "We zijn voor het bouwen van huizen, daar waar het wenselijk en mogelijk is. De omgevingsvisie is leidend. Regels als 'rood-voor-rood' kunnen helpend zijn en we denken mee met mogelijkheden die er zijn voor agrariërs die hun bedrijfsactiviteiten beëindigen."
+        },
+        "115597": {
+          "position": "agree",
+          "explanation": "Onafhankelijke lokale en regionale media zijn cruciaal voor de lokale nieuwsvoorziening en de lokale democratie. Ze informeren inwoners, houden bestuurders scherp en agenderen maatschappelijke kwesties. Een actieve en open houding naar lokale media streven we na. Subsidie kan soms nodig zijn."
+        },
+        "115600": {
+          "position": "agree",
+          "explanation": "De breedtesport krijgt ondersteuning door middel van toegankelijke en duurzame sportvoorzieningen."
+        },
+        "115603": {
+          "position": "neither",
+          "explanation": "We zijn voor actief handhavingsbeleid en inzet van de boa’s bij de bestrijding overlast en voor handhavingstaken. Het aantal Boa's is recent uitgebreid."
+        },
+        "115604": {
+          "position": "disagree",
+          "explanation": "Niet in algemene zin. Tijdelijke maatregelingen in specifieke situaties moeten mogelijk zijn."
+        },
+        "115607": {
+          "position": "agree",
+          "explanation": "We zijn vóór lokaal voorrangsbeleid met focus op lokale gemeenschapsvorming en de ondersteuning van kwetsbare groepen. Starters moeten in Heerde hun wooncarrière kunnen beginnen. Daarbij willen we de schaarste eerlijk verdelen en ruimte creëren voor woningzoekenden uit Heerde."
+        },
+        "115611": {
+          "position": "disagree",
+          "explanation": "We zetten ons in voor positief bijstandsbeleid waarin mensen niet gezien worden als een kostenpost, maar ondersteund worden om een bijdrage te leveren aan de buurt en gemeente waar ze wonen. Verplichten: nee. Stimuleren: jazeker!"
+        },
+        "115612": {
+          "position": "disagree",
+          "explanation": "De gemeente Heerde zet in op het aanbieden van saneringskredieten aan mensen met problematische schulden. Daarmee worden schulden afgekocht en blijft er nog maar één schuldeiser over. Zo creëren we rust en perspectief."
+        },
+        "115613": {
+          "position": "agree",
+          "explanation": "In onze gemeente stellen we de grens op 130% van de bijstandsuitkering."
+        },
+        "115614": {
+          "position": "disagree",
+          "explanation": "De gemeente Heerde investeert in jongerenwerk dat aansluit bij de jongerenwereld, ook digitaal."
+        },
+        "115615": {
+          "position": "agree",
+          "explanation": "We pleiten voor voldoende parkeerplaatsen en openbare laadpaalvoorzieningen."
+        },
+        "115617": {
+          "position": "agree",
+          "explanation": "Waar mogelijk wordt rekening gehouden met levensovertuiging en achtergrond. Dat vraagt van de gemeente om visie, consistent beleid en scherpe keuzes om de gelden efficiënt in te zetten."
+        },
+        "115619": {
+          "position": "disagree",
+          "explanation": "De gemeente heeft grote financiële uitdagingen door kortingen vanuit de Rijksoverheid. Daling van ozb is niet aan de orde."
+        },
+        "115622": {
+          "position": "agree",
+          "explanation": "Ons streven is dat er de komende jaren zo'n 10 hectare bedrijventerreinen bijkomt, zoals regionaal is afgesproken. Verder zetten we in op het beter benutten van bestaand bedrijventerrein."
+        },
+        "115624": {
+          "position": "agree",
+          "explanation": "We zijn vóór lokaal voorrangsbeleid met focus op lokale gemeenschapsvorming en de ondersteuning van kwetsbare groepen. Urgentie op basis van noodzaak met daarbij gelijke behandeling van eigen inwoners en statushouders."
+        },
+        "115628": {
+          "position": "disagree",
+          "explanation": "We vinden het belangrijk dat kinderen leren zwemmen en dat er in de omgeving voldoende mogelijkheden zijn om de zwemvaardigheid op peil te houden. Dit hoeft niet via schoolzwemmen, waar scholen ook niet op zitten te wachten. Gerichte aanpak voor de 7% kinderen zonder zwemdiploma is gewenst."
+        },
+        "115629": {
+          "position": "agree",
+          "explanation": "In bestaande lessen is het goed om ook aandacht te besteden aan de Veluwse en Heerder streektaal. Trots zijn op je 'moedertaal' mag gestimuleerd worden. De gemeente kan basisscholen stimuleren en ondersteunen, nooit verplichten."
+        },
+        "115632": {
+          "position": "disagree",
+          "explanation": "Hoogbouw, passend bij het dorpse karakter van Heerde vinden we aanvaardbaar. Deze hoogbouw moet goed ingebed worden in de omgeving en voorzien van groen met bijvoorbeeld met daktuinen."
+        },
+        "115633": {
+          "position": "agree",
+          "explanation": "Er is veel vraag naar huurhuizen. Losse kamers verhuren in plaats van huizen is niet in het belang van de inwoners van Heerde. Overigens stimuleren we woningsplitsing en de mogelijkheid tot het creëren van studentenkamers."
+        },
+        "115634": {
+          "position": "agree",
+          "explanation": "De centra van onze dorpen Heerde en Wapenveld dienen een mooie, veilige plek te zijn voor onze inwoners en bezoekers om te winkelen, een hapje te eten en te recreëren."
+        },
+        "115635": {
+          "position": "neither",
+          "explanation": "We hanteren het STOP-principe: éérst Stappen, dan Trappen (fietsen), Openbaar vervoer en ten slotte Privévervoer. We realiseren ons dat parkeren van auto’s in dorpen, vooral bij voorzieningen, aandacht behoeft. We pleiten voor voldoende parkeerplaatsen en openbare laadpaalvoorzieningen."
+        },
+        "115636": {
+          "position": "disagree",
+          "explanation": "Het compact centrum van Heerde wordt autoluw en kan tijdens evenementen afgesloten worden voor gemotoriseerd verkeer."
+        },
+        "115638": {
+          "position": "disagree",
+          "explanation": "De afgelopen periode kenmerkte zich door structurele financiële tekorten (onder andere op jeugdzorg). Wij dringen er via de VNG, K80 en anderszins bij de Rijksoverheid op aan om gemeenten een passende vergoeding te geven voor de taken die moeten worden uitgevoerd."
+        }
+      }
+    },
+    {
+      "id": 115564,
+      "name": "GroenLinks-PvdA",
+      "fullName": "Groenlinks - Partij van de Arbeid",
+      "website": "https://groenlinkspvda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "115580": {
+          "position": "disagree",
+          "explanation": "Referendum is een omstreden middel waarbij de nuance vaak ontbreekt en gemakkelijk leidt tot een ongenuanceerde wil van de meerderheid in plaats van een doordacht afwegen van argumenten. Wij zijn veel meer voor een burgerberaad waarvan je de adviezen overneemt."
+        },
+        "115583": {
+          "position": "neither",
+          "explanation": "In situaties waar het kan en mag vinden wij dat boeren de ruimte moeten krijgen voor dergelijke initiatieven maar het moet wel passen in de omgeving."
+        },
+        "115586": {
+          "position": "agree",
+          "explanation": "Heerde moet haar inspanningsverplichtingen inzake de spreidingswet loyaal nakomen."
+        },
+        "115587": {
+          "position": "agree",
+          "explanation": "Wij vinden dat werkgevers zelf verantwoordelijk zijn voor adequate huisvesting van seizoenarbeiders."
+        },
+        "115591": {
+          "position": "disagree",
+          "explanation": "Een vuurwerkshow is onevenredige belasting van de luchtkwaliteit en wij zien dat er mooie alternatieven beschikbaar zijn. Wij geven de voorkeur aan alternatieven zoals bijvoorbeeld lichtshows."
+        },
+        "115592": {
+          "position": "disagree",
+          "explanation": "Om te voorkomen dat grofvuil gestort wordt in de natuur zouden er wel regeling moeten komen voor mensen met een smalle beurs."
+        },
+        "115593": {
+          "position": "disagree",
+          "explanation": "Uiteraard is het van belang om te zorgen dat de leefbaarheid van onze gemeente gewaarborgd blijft, maar we zien in onze gemeente dat inwoners dit prima zelf kunnen oplossen. Dus strengere normen zijn niet nodig."
+        },
+        "115595": {
+          "position": "agree",
+          "explanation": "Bij de huidige woningnood moeten alle creatieve oplossingen mogelijk zijn om dit probleem te verkleinen, waarbij de focus moet liggen op het in stand houden van de leefbaarheid en het landelijk karakter van onze dorpen."
+        },
+        "115597": {
+          "position": "neither",
+          "explanation": "We staan positief ten opzichte van onze lokale omroep maar we hebben ook andere uitdagingen in onze gemeente. Als er extra geld nodig is zullen we daar later over beslissen."
+        },
+        "115600": {
+          "position": "disagree",
+          "explanation": "Sportverenigingen vervullen een belangrijke maatschappelijke rol maar het is niet realistisch om iedere sportvereniging in stand te willen houden. Uiteraard zal de gemeente zich tot uiterste in moeten spannen om sportverenigingen met raad en daad te ondersteunen"
+        },
+        "115603": {
+          "position": "disagree",
+          "explanation": "Veiligheid is voor ons zeer belangrijk maar wij zien geen redenen om hiervoor meer boa’s in te zetten."
+        },
+        "115604": {
+          "position": "disagree",
+          "explanation": "Gerichte en proportionele inzet van camera's steunen we maar bij voorkeur lossen we de problemen op andere wijze op."
+        },
+        "115607": {
+          "position": "agree",
+          "explanation": "Wij willen uit sociale overwegingen mensen uit de gemeente voorrang geven op het verkrijgen van een bepaald gedeelte van de uit te geven sociale woningen."
+        },
+        "115611": {
+          "position": "disagree",
+          "explanation": "Wij zijn er voorstaander van om mensen te betrekken bij maatschappelijk zinvol werk maar dwang is niet de juiste weg om mensen het gevoel te geven dat ze waardevol zijn voor onze samenleving."
+        },
+        "115612": {
+          "position": "disagree",
+          "explanation": "Wij zijn van mening dat mensen met schulden geholpen zijn met het kwijtschelden van gemeentelijke belastingen. De gemeente moet maximaal inzetten op het voorkomen dat mensen in een schuldencrises terecht komen."
+        },
+        "115613": {
+          "position": "agree",
+          "explanation": "Wij zijn van mening dat een hogere inkomensgrens zorgt dat er minder mensen in de schuldenproblematiek terecht komen waardoor de uiteindelijke kosten voor de gemeente lager zullen zijn."
+        },
+        "115614": {
+          "position": "disagree",
+          "explanation": "Inzet van jongerenwerk kan preventief helpen om overlast van jongeren te voorkomen. Preventieve maatregelen leveren een belangrijke besparing op ten opzichte van correctieve maatregelen."
+        },
+        "115615": {
+          "position": "agree",
+          "explanation": "Wij zijn voor elektrisch rijden, maar het aanleggen van extra parkeerplaatsen moet alleen worden gedaan als het echt nodig is. De beschikbaarheid van oplaadplekken moet afgestemd zijn op de vraag."
+        },
+        "115617": {
+          "position": "agree",
+          "explanation": "Wij vinden dat vrije zorgkeuze belangrijk is voor een inclusieve samenleving."
+        },
+        "115619": {
+          "position": "disagree",
+          "explanation": "Wij zijn geen voorstaander van een generieke verlaging van de OZB."
+        },
+        "115622": {
+          "position": "disagree",
+          "explanation": "Wij vinden dat er nog voldoende plek is op de bestaande bedrijventerreinen en daarom zien we geen noodzaak voor een uitbreiding. Wij willen graag aantrekkelijk zijn voor groene en duurzame bedrijven en wij zijn voorstaander van regionale samenwerking voor de ontwikkeling van bedrijfsterreinen."
+        },
+        "115624": {
+          "position": "agree",
+          "explanation": "Wij vinden dat we moeten voldoen aan de wettelijke taakstelling en wij vinden het belangrijk dat mensen met een verblijfsstatus de mogelijkheid krijgen om onderdeel te worden van onze samenleving."
+        },
+        "115628": {
+          "position": "agree",
+          "explanation": "Wij vinden het belangrijk voor de veiligheid van onze kinderen dat ze leren zwemmen. Wij willen hiervoor ook geld beschikbaar stellen mits er draagvlak is bij ouders en scholen."
+        },
+        "115629": {
+          "position": "agree",
+          "explanation": "Wij vinden het belangrijk dat onze kinderen goed leren lezen, schrijven en rekenen. Dit staat onder grote druk. Daarnaast willen wij ook investeren in onze eigen Heerder identiteit. Wij denken dat bovenstaande doelen te combineren zijn."
+        },
+        "115632": {
+          "position": "agree",
+          "explanation": "Wij denken dat er binnen de gemeente geschikte plekken zijn voor de bouw van gestapelde woningen. Wij zien als voordeel dat daardoor meer ruimte ontstaat voor de aanleg van groenvoorzieningen en speelruimte voor kinderen."
+        },
+        "115633": {
+          "position": "disagree",
+          "explanation": "De gemeente mag en moet voorwaarden stellen maar ook deze oplossing kan bijdragen aan het verkleinen van het woningnoodprobleem."
+        },
+        "115634": {
+          "position": "agree",
+          "explanation": "Wij vinden dat het voor de leefbaarheid belangrijk is dat dorpen een duidelijk dorpscentrum hebben en houden."
+        },
+        "115635": {
+          "position": "disagree",
+          "explanation": "Wij zijn niet zomaar voor extra parkeerplekken. Belangrijk is om een balans te vinden tussen bereikbaarheid, leefbaarheid en veiligheid van onze dorpen."
+        },
+        "115636": {
+          "position": "agree",
+          "explanation": "Wij zijn een gemeente met een hoge kwaliteit van leven. Daarbij past een autoluw centrum waar iedereen veilig over straat kan en het voor iedereen prettig toeven is."
+        },
+        "115638": {
+          "position": "agree",
+          "explanation": "Wij denken dat bezuinigen op de jeugdzorg uiteindelijk leidt tot hogere kosten in de toekomst en daarom willen wij investeren in kwetsbare jongeren, zodat zij niet in de problemen komen. Wij zijn voor preventie en goed afgestemde zorg, waarbij de kwaliteit voorop staat."
+        }
+      }
+    },
+    {
+      "id": 115566,
+      "name": "VVD",
+      "fullName": "Volkspartij voor Vrijheid en Democratie",
+      "website": "https://www.vvd.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "115580": {
+          "position": "agree",
+          "explanation": "Wij moeten vooral luisteren naar onze inwoners en dat is wat anders dan aanhoren! Op belangrijke beslissingen moeten onze inwoners hun stem kunnen laten horen en die stem moet ertoe doen."
+        },
+        "115583": {
+          "position": "agree",
+          "explanation": "De boeren (agrarische ondernemers) worden al genoeg aangepakt. Boeren staan onder druk. Andere verdienmodellen moeten wij zo veel mogelijk mogelijk maken. Wij zoeken hier wel naar balans met de nabije omgeving."
+        },
+        "115586": {
+          "position": "disagree",
+          "explanation": "Wij zijn tegen een AZC. Wij vangen immers al extra Oekraïners op.."
+        },
+        "115587": {
+          "position": "disagree",
+          "explanation": "Natuurlijk moeten seizoenarbeiders fatsoenlijk en menswaardig worden gehuisvest, maar dat hoeft wat ons betreft niet per sé op eigen terrein."
+        },
+        "115591": {
+          "position": "disagree",
+          "explanation": "Wij vinden de traditie van carbidschieten veel belangrijker. In je eigen omgeving/buurt met je eigen vrienden wil je nieuwjaar vieren."
+        },
+        "115592": {
+          "position": "disagree",
+          "explanation": "Dat is onbetaalbaar. Dan moeten de tarieven omhoog. Diegene die het vuil heeft moet ook de kosten betalen."
+        },
+        "115593": {
+          "position": "disagree",
+          "explanation": "Er zijn nu al goede regels. We handhaven die niet voldoende en moeten strenger optreden."
+        },
+        "115595": {
+          "position": "agree",
+          "explanation": "We moeten stoppende boeren waar dat kan zo goed mogelijk faciliteren. Wij vinden het belangrijk dat boeren zelf de mogelijkheid hebben om die woningen te ontwikkelen."
+        },
+        "115597": {
+          "position": "disagree",
+          "explanation": "Lokale omroepen zijn wettelijk vanuit het rijk gefinancierd. Dit is de afgelopen jaren aangepast. De gemeente heeft hier geen rol meer."
+        },
+        "115600": {
+          "position": "disagree",
+          "explanation": "Verenigingen zijn ervoor verantwoordelijk om zelf hun hoofd boven water te houden."
+        },
+        "115603": {
+          "position": "disagree",
+          "explanation": "Wij denken dat er meer blauw op straat moet komen en niet meer BOA's."
+        },
+        "115604": {
+          "position": "disagree",
+          "explanation": "Wij zien geen noodzaak voor meer cameratoezicht, tenzij daar lokaal concrete aanleiding voor is. We moeten niet in een samenleving terecht komen waar \"Big Brother is watching you\" de norm is."
+        },
+        "115607": {
+          "position": "agree",
+          "explanation": "Deze mensen hebben het moeilijk zat. Wij denken dat ook mensen met een economische binding aan de gemeente Heerde voorrang zouden kunnen krijgen."
+        },
+        "115611": {
+          "position": "agree",
+          "explanation": "Wij vinden dit een goed uitgangspunt."
+        },
+        "115612": {
+          "position": "agree",
+          "explanation": "De gemeente mag wettelijk gezien niet aan inkomenspolitiek doen."
+        },
+        "115613": {
+          "position": "disagree",
+          "explanation": "Werken moet blijven lonen."
+        },
+        "115614": {
+          "position": "agree",
+          "explanation": "Hier kan een efficiency worden gemaakt."
+        },
+        "115615": {
+          "position": "disagree",
+          "explanation": "Dit is een verantwoordelijkheid van de mensen zelf. Wij moeten als gemeente wel zorgen dat voor mensen zonder eigen grond oplossingen worden gevonden door bijvoorbeeld een kabelgootje in de stoep."
+        },
+        "115617": {
+          "position": "disagree",
+          "explanation": "De zorgvraag moet leidend zijn. Wij zijn bovendien voor het handhaven een scheiding tussen kerk en staat in Nederland. Ook in de overheids-gefinancierde zorg."
+        },
+        "115619": {
+          "position": "agree",
+          "explanation": "De OZB moet zo laag mogelijk"
+        },
+        "115622": {
+          "position": "agree",
+          "explanation": "Wij moeten in de uitbreidingsbehoefte van onze lokale bedrijven voorzien. Ondernemers zorgen voor het draaien van onze economie, zodat we onze verzorgingsstaat kunnen blijven betalen."
+        },
+        "115624": {
+          "position": "disagree",
+          "explanation": "De nood is te groot. Wij geloven erin dat het niet geven van voorrang ook een prikkel geeft naar de landelijke overheid om de immigratie beneden te brengen."
+        },
+        "115628": {
+          "position": "agree",
+          "explanation": "Verdrinking van je kind is vreselijk. Kinderen moeten kunnen zwemmen. Wat ons betreft steunt de gemeente het schoolzwemmen."
+        },
+        "115629": {
+          "position": "disagree",
+          "explanation": "Dat is de verantwoordelijkheid van de ouders."
+        },
+        "115632": {
+          "position": "disagree",
+          "explanation": "Op bepaalde plekken moeten we wel tot vier woonlagen (max is nu drie) kunnen gaan om meer woningen te kunnen realiseren, bijvoorbeeld voor starters."
+        },
+        "115633": {
+          "position": "disagree",
+          "explanation": "Dit speelt volgens ons voornamelijk in de steden."
+        },
+        "115634": {
+          "position": "agree",
+          "explanation": "Maar dat hebben we al. MFA's in Heerde en Wapenveld. MFC in Vorchten en de Noord in Veessen."
+        },
+        "115635": {
+          "position": "disagree",
+          "explanation": "We hebben voldoende parkeerplaatsen. We zijn er niet voor om bijvoorbeeld water en groen op te offeren voor nog meer parkeerplaatsen."
+        },
+        "115636": {
+          "position": "disagree",
+          "explanation": "Wij zijn voor een combinatie oplossing, maar niet altijd helemaal autovrij. Dit moet in samenspraak met de ondernemers worden bepaald."
+        },
+        "115638": {
+          "position": "disagree",
+          "explanation": "Jeugdzorg is erg belangrijk. Wij denken dat de jeugdzorg eerst zelf moet kijken om effectiever te worden zonder hogere kosten voor de gemeentebegroting."
+        }
+      }
+    },
+    {
+      "id": 115563,
+      "name": "D66 voor Heerde",
+      "fullName": "D66 voor Heerde",
+      "website": "https://d66.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "115580": {
+          "position": "disagree",
+          "explanation": "D66 voor Heerde vindt het belangrijk dat inwoners al vroeg meedenken over belangrijke keuzes. Veel onderwerpen zijn ingewikkeld en laten zich niet vangen in een simpel ja of nee. Daarom zetten wij in op participatie en inspraak vooraf, in plaats van een referendum achteraf."
+        },
+        "115583": {
+          "position": "disagree",
+          "explanation": "D66 voor Heerde wil boeren de ruimte geven om te ondernemen en verbreden. Dat kan met initiatieven zoals boerderijwinkels of kleinschalige recreatie, als deze passen bij de omgeving en geen overlast of schade aan natuur en leefomgeving veroorzaken."
+        },
+        "115586": {
+          "position": "disagree",
+          "explanation": "D66 voor Heerde neemt verantwoordelijkheid voor opvang, maar een volwaardig azc past niet bij de schaal van onze gemeente. We kiezen daarom voor regionale samenwerking en andere vormen van opvang die beter passen bij Heerde."
+        },
+        "115587": {
+          "position": "disagree",
+          "explanation": "D66 voor Heerde vindt dat seizoenarbeiders recht hebben op goede en veilige huisvesting. Werkgevers hebben daarin een verantwoordelijkheid, maar dat hoeft niet per se op het eigen bedrijfsterrein. Wat telt is kwaliteit, toezicht en leefbaarheid, met ruimte voor maatwerk."
+        },
+        "115591": {
+          "position": "disagree",
+          "explanation": "D66 voor Heerde vindt dat een gemeentelijke vuurwerkshow geen kerntaak is. De gemeente kan ruimte bieden aan initiatieven, maar hoeft dit niet zelf te organiseren."
+        },
+        "115592": {
+          "position": "disagree",
+          "explanation": "D66 voor Heerde vindt dat de kosten van grofvuilinzameling bij de aanbieder horen. Wie veel grofvuil aanbiedt, betaalt meer dan wie weinig grofvuil heeft."
+        },
+        "115593": {
+          "position": "disagree",
+          "explanation": "D66 voor Heerde ziet geen aanleiding om de geluidsnormen bij festivals en feesten verder aan te scherpen. De huidige regels bieden voldoende bescherming en ruimte voor lokale evenementen."
+        },
+        "115595": {
+          "position": "disagree",
+          "explanation": "D66 voor Heerde wil zorgvuldig omgaan met landbouwgrond en landschap. Extra woningen op boerenerven kunnen mogelijk zijn in specifieke situaties, bijvoorbeeld als compensatie voor stoppende agrariërs, en niet als algemene regel."
+        },
+        "115597": {
+          "position": "agree",
+          "explanation": "D66 voor Heerde vindt een sterke, onafhankelijke lokale omroep belangrijk voor een goed geïnformeerde samenleving. Gerichte ondersteuning kan daaraan bijdragen."
+        },
+        "115600": {
+          "position": "agree",
+          "explanation": "D66 voor Heerde vindt sportverenigingen onmisbaar voor gezondheid, ontmoeting en saamhorigheid. Als verenigingen in de knel komen, moet de gemeente waar nodig en waar het kan financieel ondersteunen, zodat sport voor iedereen toegankelijk blijft."
+        },
+        "115603": {
+          "position": "neither",
+          "explanation": "D66 voor Heerde vindt veiligheid en leefbaarheid belangrijk. Of meer handhavers nodig zijn, hangt af van de situatie. We kijken liever naar een slimme inzet van boa’s, goede samenwerking en preventie, dan alleen naar het aantal."
+        },
+        "115604": {
+          "position": "disagree",
+          "explanation": "Cameratoezicht kan helpen op specifieke plekken, maar D66 voor Heerde kiest voor gerichte inzet en zorgvuldige afweging, niet voor een algemene uitbreiding."
+        },
+        "115607": {
+          "position": "disagree",
+          "explanation": "D66 voor Heerde vindt dat sociale huurwoningen eerlijk en transparant moeten worden toegewezen. Lokale binding kan soms meewegen, maar een algemene voorrang voor inwoners van de eigen gemeente vinden wij niet passend."
+        },
+        "115611": {
+          "position": "disagree",
+          "explanation": "D66 voor Heerde vindt dat mensen in de bijstand ondersteuning en perspectief nodig hebben. Een verplichte tegenprestatie doet geen recht aan de vaak complexe situaties waarin mensen zitten."
+        },
+        "115612": {
+          "position": "disagree",
+          "explanation": "Kwijtschelding kan helpen voorkomen dat mensen met een laag inkomen verder in de problemen raken. D66 voor Heerde wil de mogelijkheid van kwijtschelding behouden."
+        },
+        "115613": {
+          "position": "neither",
+          "explanation": "D66 voor Heerde vindt dat armoedebeleid effectief en goed onderbouwd moet zijn. Soms kan verruiming van inkomensgrenzen helpen, maar alleen als duidelijk is dat dit daadwerkelijk mensen ondersteunt en problemen voorkomt."
+        },
+        "115614": {
+          "position": "disagree",
+          "explanation": "D66 voor Heerde ziet jongerenwerk als een investering in onze jeugd. Het draagt bij aan preventie, ondersteuning en het op tijd signaleren van problemen. Daarom vinden wij bezuinigen op jongerenwerk onverstandig."
+        },
+        "115615": {
+          "position": "agree",
+          "explanation": "D66 voor Heerde wil de overstap naar elektrisch rijden mogelijk maken. Daarvoor zijn voldoende en goed gespreide laadplekken nodig in de kernen."
+        },
+        "115617": {
+          "position": "disagree",
+          "explanation": "D66 voor Heerde vindt het belangrijk dat zorg zo goed mogelijk aansluit bij de achtergrond en wensen van mensen. Waar mogelijk moet daar rekening mee worden gehouden, maar volledige keuzevrijheid is niet altijd haalbaar."
+        },
+        "115619": {
+          "position": "disagree",
+          "explanation": "D66 voor Heerde vindt dat de ozb betaalbaar en uitlegbaar moet zijn. Verlaging is geen doel op zich en mag niet ten koste gaan van voorzieningen en investeringen in de gemeente."
+        },
+        "115622": {
+          "position": "agree",
+          "explanation": "D66 voor Heerde biedt ruimte aan bedrijven. Uitbreiding van bedrijventerreinen kan, mits dit zorgvuldig en duurzaam gebeurt. Het landschap en de leefomgeving blijven daarbij leidend."
+        },
+        "115624": {
+          "position": "agree",
+          "explanation": "D66 voor Heerde vindt dat vluchtelingen met een verblijfsvergunning snel moeten kunnen meedoen. Een woning is daarbij belangrijk. Tegelijk blijven we zorgen voor voldoende sociale huurwoningen voor iedereen, zodat niemand tegenover elkaar komt te staan."
+        },
+        "115628": {
+          "position": "disagree",
+          "explanation": "D66 voor Heerde vindt zwemveiligheid belangrijk, maar een brede invoering van schoolzwemmen is kostbaar en niet nodig. Wij kiezen voor gerichte ondersteuning van kinderen die nog geen zwemdiploma hebben."
+        },
+        "115629": {
+          "position": "agree",
+          "explanation": "D66 voor Heerde vindt het waardevol als scholen aandacht kunnen besteden aan streektaal en lokale cultuur, zoals het Veluws. De gemeente kan dit mogelijk maken."
+        },
+        "115632": {
+          "position": "neither",
+          "explanation": "Hoger bouwen kan helpen bij de woningopgave, maar is niet overal passend. D66 voor Heerde sluit dit daarom niet uit. Geschikte plekken zijn bijvoorbeeld de randen van uitbreidingslocaties, mits dit goed wordt ingepast in een groene leefomgeving en past bij de schaal van Heerde."
+        },
+        "115633": {
+          "position": "disagree",
+          "explanation": "D66 voor Heerde vindt een algemeen verbod op kamerverhuur niet nodig. Kamerverhuur kan bijdragen aan het woningaanbod en past bij verschillende woonvormen. Waar misstanden ontstaan, moet de gemeente optreden, maar verbieden bij voorbaat is niet nodig."
+        },
+        "115634": {
+          "position": "disagree",
+          "explanation": "D66 voor Heerde vindt ontmoeting en voorzieningen in dorpen belangrijk. Hoe dat wordt ingevuld verschilt per kern. Soms is een eigen dorpscentrum passend, soms werken bestaande of gedeelde voorzieningen beter. Maatwerk en efficiënt gebruik van gebouwen staan voorop"
+        },
+        "115635": {
+          "position": "disagree",
+          "explanation": "D66 voor Heerde kijkt per kern wat nodig is voor bereikbaarheid en leefbaarheid. Meer parkeerplaatsen zijn geen doel op zich."
+        },
+        "115636": {
+          "position": "agree",
+          "explanation": "Een (deels) autoluw centrum kan bijdragen aan leefbaarheid. D66 voor Heerde vindt wel dat ondernemers, bewoners en leveranciers goed bereikbaar moeten blijven."
+        },
+        "115638": {
+          "position": "neither",
+          "explanation": "D66 voor Heerde vindt dat jeugdzorg beschikbaar moet zijn voor wie dat nodig heeft. Als dat tijdelijk betekent dat de gemeente moet bijspringen, dan doen we dat. Tegelijk blijft het onacceptabel dat het Rijk gemeenten hiervoor structureel te weinig middelen geeft."
+        }
+      }
+    }
+  ],
+  "statements": [
+    {
+      "id": 115638,
+      "index": 1,
+      "theme": "Youth care",
+      "themeId": "jeugdzorg",
+      "title": "Heerde should cover any shortfall in youth care using the municipality's general funds.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115607,
+      "index": 2,
+      "theme": "Priority for local residents",
+      "themeId": "voorrang-eigen-gemeente",
+      "title": "When allocating social housing, applicants from the municipality should be given priority.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115591,
+      "index": 3,
+      "theme": "Fireworks",
+      "themeId": "vuurwerk",
+      "title": "The municipality should organize a fireworks show on New Year's Eve.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115583,
+      "index": 4,
+      "theme": "Farm campsites",
+      "themeId": "boerencampings",
+      "title": "The municipality should always allow farmers to open, for example, a shop or a campsite at their farm.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115636,
+      "index": 5,
+      "theme": "Car-free",
+      "themeId": "autovrij",
+      "title": "The center of Heerde should become car-free.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115612,
+      "index": 6,
+      "theme": "Stop debt forgiveness",
+      "themeId": "kwijtschelding-stoppen",
+      "title": "The municipality should stop forgiving municipal taxes for low-income residents.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115600,
+      "index": 7,
+      "theme": "Sports clubs",
+      "themeId": "sportverenigingen",
+      "title": "If sports clubs are struggling, the municipality should contribute financially.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115617,
+      "index": 8,
+      "theme": "Choice of healthcare",
+      "themeId": "zorgkeuze",
+      "title": "People who need care should always be able to choose a caregiver who matches their religion, culture, or beliefs.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115586,
+      "index": 9,
+      "theme": "Asylum seekers' center",
+      "themeId": "asielzoekerscentrum",
+      "title": "An asylum seekers' center (AZC) should be established in our municipality.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115595,
+      "index": 10,
+      "theme": "Building on agricultural land",
+      "themeId": "bouwen-op-landbouwgrond",
+      "title": "It should be possible for farmers to build houses themselves on their land.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115597,
+      "index": 11,
+      "theme": "Local media",
+      "themeId": "lokale-media",
+      "title": "The municipality should support the local broadcaster with additional funding.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115580,
+      "index": 12,
+      "theme": "Referendum",
+      "themeId": "referendum",
+      "title": "Residents of Heerde should be able to express their opinion on important issues via a referendum.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115593,
+      "index": 13,
+      "theme": "Festival noise",
+      "themeId": "festivalgeluid",
+      "title": "Noise standards at festivals and parties must be made stricter.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115603,
+      "index": 14,
+      "theme": "Enforcement officers",
+      "themeId": "handhavers",
+      "title": "Heerde should have more municipal enforcement officers (BOAs) who focus on safety.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115613,
+      "index": 15,
+      "theme": "Combating poverty",
+      "themeId": "armoedebestrijding",
+      "title": "The municipality should raise the income threshold for receiving poverty assistance.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115634,
+      "index": 16,
+      "theme": "Neighborhood center",
+      "themeId": "buurtcentrum",
+      "title": "All villages in the municipality must have their own village center.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115624,
+      "index": 17,
+      "theme": "Priority for refugees",
+      "themeId": "voorrang-voor-vluchtelingen",
+      "title": "The municipality must continue to give refugees with a residence permit priority for social housing.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115604,
+      "index": 18,
+      "theme": "Camera surveillance",
+      "themeId": "cameratoezicht",
+      "title": "More camera surveillance should be installed in Heerde.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115615,
+      "index": 19,
+      "theme": "Electric vehicle charging stations",
+      "themeId": "elektrische-laadpalen",
+      "title": "The municipality should designate more parking spaces as charging points for electric cars.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115632,
+      "index": 20,
+      "theme": "Apartment buildings",
+      "themeId": "woonflats",
+      "title": "High-rise apartment buildings should be permitted in Heerde.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115611,
+      "index": 21,
+      "theme": "Work requirement for welfare recipients",
+      "themeId": "tegenprestatie-voor-uitkering",
+      "title": "People receiving social assistance should, in return, do socially useful work.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115628,
+      "index": 22,
+      "theme": "School swimming",
+      "themeId": "schoolzwemmen",
+      "title": "The municipality should allocate money for school swimming.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115619,
+      "index": 23,
+      "theme": "Tax on buildings",
+      "themeId": "belasting-op-gebouwen",
+      "title": "The property tax (onroerendezaakbelasting, OZB) should be reduced.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115629,
+      "index": 24,
+      "theme": "Regional language",
+      "themeId": "streektaal",
+      "title": "The municipality should make it possible for all primary schools to include education about the Veluws (Veluwe dialect).",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115614,
+      "index": 25,
+      "theme": "Youth services",
+      "themeId": "jongerenwerk",
+      "title": "The municipality should cut spending on youth work.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115587,
+      "index": 26,
+      "theme": "Housing for foreign workers",
+      "themeId": "huisvesting-buitenlandse-werknemers",
+      "title": "Employers in agriculture and horticulture should provide housing for seasonal workers on their own premises.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115633,
+      "index": 27,
+      "theme": "Subdivision into multiple rooms",
+      "themeId": "verkamering",
+      "title": "The municipality must prohibit landlords from renting out separate rooms instead of whole houses.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115635,
+      "index": 28,
+      "theme": "More parking spaces",
+      "themeId": "meer-parkeerplaatsen",
+      "title": "There should be more parking spaces in the town centers.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115592,
+      "index": 29,
+      "theme": "Bulky waste",
+      "themeId": "grofvuil",
+      "title": "Bulky waste must be collected from homes free of charge.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 115622,
+      "index": 30,
+      "theme": "Business parks",
+      "themeId": "bedrijventerreinen",
+      "title": "Business parks should be allowed to expand in Heerde.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    }
+  ]
+}

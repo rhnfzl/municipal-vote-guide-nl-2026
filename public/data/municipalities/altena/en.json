@@ -1,0 +1,1207 @@
+{
+  "id": "GM1959",
+  "name": "Altena",
+  "slug": "altena",
+  "parties": [
+    {
+      "id": 109026,
+      "name": "CDA",
+      "fullName": "Christen-Democratisch Appèl",
+      "website": "https://www.cda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "109043": {
+          "position": "disagree",
+          "explanation": "Wij vinden dat er positief gekeken moet worden naar de mogelijkheid voor dergelijke activiteiten bij boerenbedrijven. Maar niet alles kan altijd én overal. Er zal sprake moeten zijn van een evenwichtige belangenafweging met de omgeving."
+        },
+        "109045": {
+          "position": "agree",
+          "explanation": "Grote distributiecentra en blokkendozen passen niet in onze open gemeente."
+        },
+        "109046": {
+          "position": "neither",
+          "explanation": "Opvang in een landelijke omgeving met beperkt openbaar vervoer vinden wij verre van ideaal. Als in Nederland een spreidingswet van toepassing is zal ook Altena haar verantwoordelijkheid moeten nemen. Wij kiezen dan voor kleinschalige locatie(s) waarbij goede afstemming met de omgeving cruciaal is."
+        },
+        "109047": {
+          "position": "disagree",
+          "explanation": "Indien er sprake is van een beperkt aantal werknemers is dit al mogelijk. Voor grotere groepen arbeidsmigranten geloven wij in een centrale, goed georganiseerde huisvesting van maximaal tweehonderd arbeidsmigranten die werkzaam zijn in Altena. Zoals er nu één is aan de Kromme Nol in Wijk en Aalburg."
+        },
+        "109049": {
+          "position": "agree",
+          "explanation": "Voor veel mensen is een houtkachel een bron van gezelligheid en warmte. Verbieden vinden wij geen goed idee. Wel zijn wij voor goede voorlichting zodat het stoken van houtkachels op windstille, mistige dagen en het gebruik van verkeerde materialen zoveel mogelijk voorkomen wordt."
+        },
+        "109051": {
+          "position": "disagree",
+          "explanation": "In Altena met 21 kernen is het niet mogelijk om één centraal vuurwerk te organiseren. De gemeente zou wel positief moeten meewerken aan initiatieven vanuit dorpen voor gezellige, centrale oud-en-nieuwvieringen waarbij het ook mogelijk is om centraal en georganiseerd vuurwerk af te steken."
+        },
+        "109055": {
+          "position": "disagree",
+          "explanation": "Het buitengebied met de agrarische grond zien wij vooral als een plaats waar gezorgd wordt voor onze voedselvoorziening. Wij zien liever dat er sneller gebouwd wordt in en bij de bestaande dorpen waarbij voor alle grondeigenaren dezelfde voorwaarden moeten gelden."
+        },
+        "109059": {
+          "position": "agree",
+          "explanation": "Muziekonderwijs is belangrijk voor de ontwikkeling van een kind. Voor ouders van kinderen die dit niet kunnen betalen is een bijdrage wenselijk."
+        },
+        "109060": {
+          "position": "neither",
+          "explanation": "Financieel bijdragen zou niet de eerste keuze moeten zijn. Samen met sportbonden en eventueel de  verenigingsondersteuner van de gemeente eerst kijken naar levensvatbaarheid, wat er veranderd moet en of kan worden en als laatste kijken naar financiële ondersteuning."
+        },
+        "109063": {
+          "position": "agree",
+          "explanation": "CDA Altena vindt veiligheid en leefbaarheid belangrijk: boa’s zijn hierbij cruciaal. Zij zijn het aanspreekpunt in de wijk, zorgen voor handhaving en dragen bij aan een gevoel van orde en rust. Wij willen dat inwoners zich veilig voelen en dat regels eerlijk worden nageleefd."
+        },
+        "109064": {
+          "position": "agree",
+          "explanation": "CDA Altena wil dat inwoners zich veilig voelen in hun eigen omgeving. Cameratoezicht in de openbare ruimte kan helpen bij het voorkomen en opsporen van criminaliteit en vandalisme, maar moet altijd zorgvuldig en tijdelijk worden ingezet."
+        },
+        "109066": {
+          "position": "agree",
+          "explanation": "CDA Altena wil dat jongeren en starters in onze gemeente kunnen blijven wonen. Voor veel starters is het lastig een eerste woning te kopen door hoge huizenprijzen en hypotheekregels. Een starterslening biedt net dat extra financiële steuntje in de rug om een eigen woning te kunnen kopen."
+        },
+        "109069": {
+          "position": "neither",
+          "explanation": "Wij zijn in principe tegen structurele permanente bewoning van vakantiewoningen. Het voorkomt verrommeling, veiligheidsrisico’s en speculatie. CDA Altena kiest voor echte woningen als oplossing voor de woningnood. Bij de Veense Put maken we een uitzondering omdat hier al een langdurig traject loopt."
+        },
+        "109071": {
+          "position": "neither",
+          "explanation": "CDA Altena is voorstander van het idee dat mensen met een bijstandsuitkering niet passief thuis zitten, maar juist zoveel mogelijk actief meedoen in de maatschappij. Maar een keiharde verplichting lijkt ons niet haalbaar en wenselijk."
+        },
+        "109073": {
+          "position": "disagree",
+          "explanation": "Armoedebestrijding moet terechtkomen bij wie het echt nodig heeft. Een hogere grens kan leiden tot versnippering van middelen en minder steun voor de meest kwetsbaren."
+        },
+        "109076": {
+          "position": "neither",
+          "explanation": "Een maximumsnelheid van 30 km/u vergroot de verkeersveiligheid, voor voetgangers en fietsers, en draagt bij aan een leefbare woonomgeving. Een lage snelheid zorgt voor minder verkeersslachtoffers en geluidsoverlast en meer ruimte voor kwetsbare weggebruikers. Op doorgaande wegen is 50 km/u prima."
+        },
+        "109077": {
+          "position": "neither",
+          "explanation": "Zorg moet zoveel mogelijk aansluiten bij iemands achtergrond. Tegelijk zijn er grenzen: zorg moet altijd veilig, professioneel en uitvoerbaar blijven. En mag niet leiden tot uitsluiting, lagere kwaliteit of substantieel hogere kosten."
+        },
+        "109079": {
+          "position": "disagree",
+          "explanation": "CDA Altena vindt dat de onroerendezaakbelasting niet meer mag stijgen dan de inflatie."
+        },
+        "109083": {
+          "position": "disagree",
+          "explanation": "Wij zijn tegen standaard zondagopenstelling van supermarkten en dus ook tegen koopzondagen. Grote ketens zoals Albert Heijn en Jumbo willen meer omzet, maar dit schaadt kleine winkels en lokale ondernemers in Altena. CDA Altena wil deze winkels beschermen voor de leefbaarheid."
+        },
+        "109084": {
+          "position": "neither",
+          "explanation": "Vluchtelingen met een verblijfsvergunning integreren het beste als ze beschikken over een zelfstandige woning. De gemeente Altena voldoet samen met de woningcorporaties aan de landelijke quota die er zijn om een zeer beperkt aantal statushouders te huisvesten in Altena."
+        },
+        "109092": {
+          "position": "disagree",
+          "explanation": "Het verhuren van losse kamers is een noodmaatregel en biedt geen duurzame oplossing. CDA Altena wil inzetten op echte woningen en appartementen voor starters, gezinnen en senioren."
+        },
+        "109094": {
+          "position": "disagree",
+          "explanation": "In de meeste dorpen in Altena is geen structureel tekort aan parkeerplaatsen. Extra parkeerplaatsen leggen onnodig beslag op de openbare ruimte en kunnen ten koste gaan van groen en leefbaarheid."
+        },
+        "109096": {
+          "position": "agree",
+          "explanation": "Een dergelijk groot plan waar wekelijks veel bezoekers van buiten Altena naar toe moeten past niet in de landelijke omgeving van Dussen. Activiteiten die mogelijk zijn binnen de huidige bestemming zouden wel toegestaan kunnen worden."
+        },
+        "109097": {
+          "position": "neither",
+          "explanation": "Jongeren hebben plekken nodig om elkaar te ontmoeten. Uitgaansgelegenheden dragen bij aan een gevoel van saamhorigheid en voorkomen dat jongeren zich isoleren. Stichtingen zoals de Soos en de Pomp in Almkerk verdienen ondersteuning. Commerciële horeca moet zichzelf kunnen bedruipen."
+        },
+        "109098": {
+          "position": "agree",
+          "explanation": "Het CDA Altena vindt dat nieuwe woonwijken niet alleen duurzaam, maar ook leefbaar moeten zijn. Bomen en groen dragen bij aan een gezonde leefomgeving, verminderen hittestress en zorgen voor een prettige plek om te wonen en te ontmoeten."
+        },
+        "109099": {
+          "position": "agree",
+          "explanation": "Extra buslijnen verbeteren de bereikbaarheid van dorpen en voorzieningen, vooral voor inwoners die geen auto hebben, zoals jongeren, ouderen en mensen met een beperking. Goed openbaar vervoer vergroot de gelijke kansen, vermindert verkeersdruk en draagt bij aan duurzamer vervoer."
+        }
+      }
+    },
+    {
+      "id": 128447,
+      "name": "AltenaLokaal",
+      "fullName": "AltenaLokaal",
+      "website": "https://altenalokaal.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "109043": {
+          "position": "disagree",
+          "explanation": "Altijd gaat wat AltenaLokaal betreft te ver, maar afhankelijk van de situatie is altijd overleg daarover mogelijk."
+        },
+        "109045": {
+          "position": "agree",
+          "explanation": "Alle verkeersongemakken en arbeidsmigranten die ook voor maatschappelijke onrust zorgen zijn redenen voor AltenaLokaal om hier geen voorstander van te zijn."
+        },
+        "109046": {
+          "position": "disagree",
+          "explanation": "Onze gemeente kan dit proces niet aan."
+        },
+        "109047": {
+          "position": "disagree",
+          "explanation": "AltenaLokaal volgt hier het advies van de commissie-Roemer: er moet een scheiding zijn tussen arbeidscontract en andere rechten zoals wonen."
+        },
+        "109049": {
+          "position": "agree",
+          "explanation": "Wij zien dit als de individuele verantwoording van onze inwoners."
+        },
+        "109051": {
+          "position": "disagree",
+          "explanation": "De gemeente moet dat niet doen. Er is een landelijk vuurwerkverbod. AltenaLokaal wil meezoeken naar passende mogelijkheden."
+        },
+        "109055": {
+          "position": "agree",
+          "explanation": "Onder voorwaarde dat men voldoet aan ons beleid: AltenaLokaal wil altijd meedenken."
+        },
+        "109059": {
+          "position": "agree",
+          "explanation": "Wij hebben een grote diversiteit in Altena, zodat onze jongeren zich kunnen ontplooien in zowel sport als muziek."
+        },
+        "109060": {
+          "position": "agree",
+          "explanation": "AltenaLokaal wil vitale verenigingen en denkt mee hoe dat structureel verbeterd kan worden."
+        },
+        "109063": {
+          "position": "agree",
+          "explanation": "Veiligheid is speerpunt van AltenaLokaal en boa's kunnen handhaven op kleine ergernissen die de politie laat liggen."
+        },
+        "109064": {
+          "position": "agree",
+          "explanation": "Op aangewezen plaatsen vanuit goede informatie."
+        },
+        "109066": {
+          "position": "agree",
+          "explanation": "AltenaLokaal wil de kans op woningen voor jongeren zo vergroten."
+        },
+        "109069": {
+          "position": "disagree",
+          "explanation": "Voor permanente woningen krijgen wij geld van het Rijk, maar voor vakantiewoningen niet."
+        },
+        "109071": {
+          "position": "agree",
+          "explanation": "Iedereen hoort binnen zijn of haar eigen mogelijkheden een bijdrage te leveren aan onze samenleving."
+        },
+        "109073": {
+          "position": "disagree",
+          "explanation": "De gemeente heeft creatieve mogelijkheden voor maatwerk, om zo de mensen die het het meest nodig hebben te kunnen helpen (bijzondere bijstand)."
+        },
+        "109076": {
+          "position": "agree",
+          "explanation": "Verkeersveiligheid en controle beter."
+        },
+        "109077": {
+          "position": "agree",
+          "explanation": "Altena heeft een bijzondere signatuur waarbij we iedereen de zorg willen aanbieden die past bij hun behoefte."
+        },
+        "109079": {
+          "position": "disagree",
+          "explanation": "De ozb mag alleen verhoogd worden als daar passende voorzieningen tegenover staan."
+        },
+        "109083": {
+          "position": "agree",
+          "explanation": "AltenaLokaal is voorstander van het vrijgeven. Het is aan een ondernemer of hij daar gebruik van maakt."
+        },
+        "109084": {
+          "position": "disagree",
+          "explanation": "Wij volgen daarin de wetgeving."
+        },
+        "109092": {
+          "position": "agree",
+          "explanation": "Zowel voor starters als voor spoedzoekers moet er noodopvang mogelijk zijn."
+        },
+        "109094": {
+          "position": "disagree",
+          "explanation": "Er moet meer gestimuleerd worden dat er andere vormen van mobiliteit zijn."
+        },
+        "109096": {
+          "position": "agree",
+          "explanation": "Gezien onze signatuur in Altena is dit geen kerkgenootschap dat daar bij aansluit."
+        },
+        "109097": {
+          "position": "disagree",
+          "explanation": "Dat is geen gemeentelijke taak. Faciliteren wel."
+        },
+        "109098": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "109099": {
+          "position": "agree",
+          "explanation": "Het is een provinciale taak om te zorgen voor een adequate busverbinding. In de praktijk is dat onvoldoende mogelijk. De gemeente moet busvervoer daarom in de kern zelf gaan regelen."
+        }
+      }
+    },
+    {
+      "id": 109029,
+      "name": "SGP",
+      "fullName": "Staatkundig Gereformeerde Partij",
+      "website": "https://sgp.nl/home",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "109043": {
+          "position": "neither",
+          "explanation": "De SGP heeft een positieve grondhouding maar het kan niet altijd en overal. Het moet per situatie bekeken worden."
+        },
+        "109045": {
+          "position": "agree",
+          "explanation": "SGP Altena vind distributiecentra niet passend in het landelijke gebied van de gemeente Altena."
+        },
+        "109046": {
+          "position": "neither",
+          "explanation": "Wettelijke taken uitvoeren binnen de kaders, zoals de gemeenteraad die heeft vastgesteld."
+        },
+        "109047": {
+          "position": "agree",
+          "explanation": "Mits kleinschalig en volgens kwaliteitsnormen en alleen voor seizoenarbeiders die ook bij het desbetreffende bedrijf werkzaam zijn."
+        },
+        "109049": {
+          "position": "agree",
+          "explanation": "Het is wel belangrijk om te bekijken hoe overlast zoveel mogelijk beperkt kan worden."
+        },
+        "109051": {
+          "position": "disagree",
+          "explanation": "SGP Altena is voorstander van een vuurwerkvrij Altena."
+        },
+        "109055": {
+          "position": "disagree",
+          "explanation": "Gezamenlijk met boeren die stoppen moet er naar maatwerkoplossingen gezocht worden."
+        },
+        "109059": {
+          "position": "agree",
+          "explanation": "SGP Altena is voorstander van het herinvoeren van subsidie voor individueel muziekonderwijs."
+        },
+        "109060": {
+          "position": "disagree",
+          "explanation": "Sportverenigingen hebben een eigen verantwoordelijkheid om voldoende inkomsten te genereren."
+        },
+        "109063": {
+          "position": "neither",
+          "explanation": "Als de noodzaak zich aandient dan is uitbreiding van het aantal boa’s terecht."
+        },
+        "109064": {
+          "position": "neither",
+          "explanation": "In geval van problemen moeten er incidenteel camera’s ingezet worden. Goede verlichting en open structuren verhogen ook de veiligheid."
+        },
+        "109066": {
+          "position": "agree",
+          "explanation": "De huidige situatie moet worden gecontinueerd."
+        },
+        "109069": {
+          "position": "disagree",
+          "explanation": "Dit is niet passend binnen de geldende bestemmingsplannen."
+        },
+        "109071": {
+          "position": "agree",
+          "explanation": "SGP Altena is voorstander van wederkerigheid."
+        },
+        "109073": {
+          "position": "disagree",
+          "explanation": "De armoedegrens wordt bepaald aan de hand van landelijke normen."
+        },
+        "109076": {
+          "position": "disagree",
+          "explanation": "SGP Altena vind dat dit per situatie verschillend kan zijn en daarom per kern bekeken moet worden welke maximumsnelheid van toepassing kan zijn."
+        },
+        "109077": {
+          "position": "agree",
+          "explanation": "SGP Altena is voorstander van identiteitsgebonden zorg."
+        },
+        "109079": {
+          "position": "disagree",
+          "explanation": "SGP Altena is van mening dat de gemeente eerst de eigen uitgaven goed tegen het licht moet houden, voordat er sprake is van een ozb-verhoging."
+        },
+        "109083": {
+          "position": "disagree",
+          "explanation": "De zondag is in de christelijke traditie een rustdag, deze dag is bedoeld om God te eren en te dienen. SGP Altena wil dit graag behouden."
+        },
+        "109084": {
+          "position": "disagree",
+          "explanation": "De gemeente moet barmhartig omgaan met vluchtelingen, maar dit kan niet ten koste gaan van onze eigen inwoners."
+        },
+        "109092": {
+          "position": "disagree",
+          "explanation": "Geen voorstander van. SGP Altena heeft wél een positieve houding ten opzichte van woningsplitsing."
+        },
+        "109094": {
+          "position": "neither",
+          "explanation": "Dit moet per gebied worden bekeken en beoordeeld."
+        },
+        "109096": {
+          "position": "neither",
+          "explanation": "Beoordelen op basis van regelgeving Ruimtelijke Ordening."
+        },
+        "109097": {
+          "position": "disagree",
+          "explanation": "SGP Altena ziet het niet als taak van de gemeente om te investeren in uitgaansmogelijkheden voor jongeren."
+        },
+        "109098": {
+          "position": "agree",
+          "explanation": "Voor de leefbaarheid en klimaatadaptatie is voldoende natuur en schaduw van belang."
+        },
+        "109099": {
+          "position": "neither",
+          "explanation": "De gemeente moet, in samenwerking met de provincie, actief meedenken over alternatieve vervoersvormen in onze regio."
+        }
+      }
+    },
+    {
+      "id": 128450,
+      "name": "Progressief Altena",
+      "fullName": "Progressief Altena",
+      "website": "https://www.progressiefaltena.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "109043": {
+          "position": "agree",
+          "explanation": "Nevenactiviteiten helpen boeren hun inkomen gezond te houden. Daarbij moeten we letten op leefbaarheid, natuur en verkeersveiligheid, zodat het voor iedereen prettig blijft. De band tussen boerenbedrijven en onze dorpen is waardevol en verdient bescherming."
+        },
+        "109045": {
+          "position": "agree",
+          "explanation": "We zien het liefst bedrijven die versneld afgaan van fossiele energie in onze gemeente. Duurzaamheid, circulariteit en lokale werkgelegenheid maken we daarom zwaarwegende criteria. Bedrijven die vooral afhankelijk zijn van arbeidsmigranten (zoals distributiecentra) krijgen geen voorrang."
+        },
+        "109046": {
+          "position": "agree",
+          "explanation": "We vangen mensen op die vluchten voor oorlog en geweld, zoals afgesproken met de provincie. We blijven gastvrij en zorgen dat asielzoekers en statushouders snel kunnen meedoen via werk, sport en ontmoeting."
+        },
+        "109047": {
+          "position": "neither",
+          "explanation": "Het is belangrijk dat seizoenarbeiders over goede huisvesting beschikken en dat eventuele overlast wordt voorkomen. Of deze huisvesting op het bedrijfsterrein van de werkgever moet plaatsvinden, hangt af van de situatie ter plaatse."
+        },
+        "109049": {
+          "position": "neither",
+          "explanation": "Houtstook kan overlast veroorzaken. Het is daarom belangrijk om bewust om te gaan met stoken en bestaande adviezen van instanties zoals GGD, MilieuCentraal en RIVM te gebruiken ter ondersteuning van zorgvuldige keuzes."
+        },
+        "109051": {
+          "position": "agree",
+          "explanation": "We willen dat elke kern de mogelijkheid heeft een oudjaarsfeest voor alle inwoners te geven waarbij een gemeenschappelijke vuurwerkshow de overgang naar het nieuwe jaar inluidt."
+        },
+        "109055": {
+          "position": "agree",
+          "explanation": "Landbouwgronden die vrijkomen bestemmen we zo mogelijk voor natuur en woningbouw, waarbij we oog houden voor het behoud van het open landschap."
+        },
+        "109059": {
+          "position": "agree",
+          "explanation": "We behouden het programma ‘Muziekwijzer Altena’ en breiden het uit naar alle PO- en VO-scholen."
+        },
+        "109060": {
+          "position": "agree",
+          "explanation": "Sportverenigingen zijn meer dan alleen plekken om te bewegen: ze zijn dé sociale motoren van onze gemeenschap. Volgens ons verdienen ze daarom ondersteuning, zodat ze ook in de toekomst een verbindende rol kunnen blijven spelen."
+        },
+        "109063": {
+          "position": "neither",
+          "explanation": "Handhaving kan op verschillende manieren worden vormgegeven. Zowel boa’s als meer ondersteunende rollen kunnen bijdragen aan veiligheid en leefbaarheid. Wat passend is, hangt af van de lokale behoefte."
+        },
+        "109064": {
+          "position": "neither",
+          "explanation": "Wanneer alle andere mogelijkheden uitgeput zijn, zoals investeren in sociale aanwezigheid en preventie, zou dit gericht mogelijk moeten zijn. Wel dienen er waarborgen voor de privacy van inwoners geregeld te zijn."
+        },
+        "109066": {
+          "position": "agree",
+          "explanation": "Een starterslening helpt jonge kopers om de stap naar een eigen huis te zetten en voorkomt dat ze buiten de woningmarkt worden gedrukt. Zo bevordert de gemeente gelijke kansen en betaalbare huisvesting voor iedereen die wil starten."
+        },
+        "109069": {
+          "position": "disagree",
+          "explanation": "Vakantiewoningen legaliseren is geen oplossing voor de wooncrisis. Er moeten meer kwalitatief goede woningen worden gebouwd. Vakantieparken zijn om te recreëren."
+        },
+        "109071": {
+          "position": "disagree",
+          "explanation": "De bijstand is geen moeras van sancties en verplichtingen, maar een springplank naar meedoen in de samenleving. Meedoen en mee kunnen doen aan de maatschappij zijn het belangrijkste doel van de bijstand. Dat kan met werk, mantelzorg of een extra opleiding, maar niet als 'tegenprestatie'."
+        },
+        "109073": {
+          "position": "agree",
+          "explanation": "Meer geld voor armoedebestrijding en eenvoudigere regelingen. Niemand zou in armoede moeten leven. Daarom stellen we minimaregelingen open voor huishoudens met een inkomen tot 130 procent van het minimumloon. In huishoudens met kinderen hanteren we de grens van 150 procent van het minimumloon."
+        },
+        "109076": {
+          "position": "agree",
+          "explanation": "Bij voorkeur scheiden we auto- en fietsverkeer, maar in de bebouwde kom is dat vaak niet mogelijk. Dan gaat de maximumsnelheid naar 30 km/u voor meer veiligheid, minder verkeersslachtoffers en een betere leefkwaliteit."
+        },
+        "109077": {
+          "position": "disagree",
+          "explanation": "Bij voorkeur zouden mensen moeten kunnen kiezen voor zorg die past bij hun geloof, cultuur of levensovertuiging, maar het mag niet ten koste gaan van de kwaliteit van de geboden zorg."
+        },
+        "109079": {
+          "position": "agree",
+          "explanation": "Wij vinden een beperkte verhoging van de ozb voor het behoud van het voorzieningenniveau in Altena gerechtvaardigd. We onderzoeken hoe we die inkomensafhankelijk maken, zodat de sterkste schouders de zwaarste lasten dragen. We schuiven de lasten niet door naar volgende generaties."
+        },
+        "109083": {
+          "position": "agree",
+          "explanation": "Zondagopenstelling maken we mogelijk voor ondernemers die dat willen."
+        },
+        "109084": {
+          "position": "agree",
+          "explanation": "We zijn gastvrij in Altena en geven statushouders een thuis, zoals afgesproken met de provincie."
+        },
+        "109092": {
+          "position": "agree",
+          "explanation": "Door de woningnood kunnen kamers een passende extra woonvorm zijn. We staan dit toe wanneer de kwaliteit van wonen, veiligheid en leefbaarheid goed zijn geborgd. Zo dragen losse kamers bij aan meer woonruimte zonder concessies te doen aan een prettige woonomgeving."
+        },
+        "109094": {
+          "position": "neither",
+          "explanation": "Wij willen hier maatwerk kunnen bieden. Wel merken wij op dat meer parkeerplaatsen er voor zorgen dat mensen vaker de auto gebruiken en nemen ruimte weg voor groen, fietsen en speelplekken. Het is beter om kernen gezellig en duurzaam te houden."
+        },
+        "109096": {
+          "position": "agree",
+          "explanation": "Wij zijn tegen de bouw van deze grote kerk. De omvang en het intensieve gebruik passen niet in Dussen en hebben te veel impact op de leefomgeving. Een zorgvuldige ruimtelijke afweging laat zien dat deze ontwikkeling hier niet wenselijk is."
+        },
+        "109097": {
+          "position": "agree",
+          "explanation": "In de afgelopen 10 tot 20 jaar is veel te veel voor jongeren verdwenen in Altena. Meer uitgaansmogelijkheden geven jongeren veilige plekken om elkaar te ontmoeten, plezier te hebben en zich te ontwikkelen, wat bijdraagt aan een levendige en sociale gemeente."
+        },
+        "109098": {
+          "position": "agree",
+          "explanation": "Bij nieuwbouw of grootschalig onderhoud in de wijk planten we extra bomen en parken (volgens het 3-30-300-principe: 3 bomen vanuit je raam, 30 procent bladerdek, groen binnen 300 meter) en maken we voorzieningen voor vogels en insecten."
+        },
+        "109099": {
+          "position": "agree",
+          "explanation": "Bereikbaarheid is voor inwoners van Altena ondermaats, zonder auto kom je bijna nergens, dat kan en moet beter! Extra buslijnen maken het makkelijker om je duurzaam en onafhankelijk te verplaatsen, waardoor minder mensen de auto nodig hebben en de gemeente leefbaarder wordt."
+        }
+      }
+    },
+    {
+      "id": 109027,
+      "name": "ChristenUnie",
+      "fullName": "ChristenUnie",
+      "website": "https://www.christenunie.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "109043": {
+          "position": "agree",
+          "explanation": "Er moet ruimte zijn om activiteiten te ontwikkelen zolang dit anderen niet hindert. Maar de overheid moet ook haar best doen om boeren van hun primaire bedrijf te kunnen laten leven zonder daar gedwongen van alles bij te moeten doen."
+        },
+        "109045": {
+          "position": "agree",
+          "explanation": "Het levert te veel extra verkeersbewegingen op en trekt extra arbeidsmigranten aan die moeten worden gehuisvest."
+        },
+        "109046": {
+          "position": "agree",
+          "explanation": "Het moet niet, maar we staan er niet afwijzend tegenover. Ook asielzoekers verdienen een menswaardige opvang."
+        },
+        "109047": {
+          "position": "disagree",
+          "explanation": "Arbeidsmigranten verdienen een menswaardig verblijf, maar moeten daarbij niet te afhankelijk zijn van hun werkgever."
+        },
+        "109049": {
+          "position": "disagree",
+          "explanation": "We volgen hierin het landelijk beleid waarin steeds strengere eisen worden gesteld aan kwaliteit en stookgedrag."
+        },
+        "109051": {
+          "position": "agree",
+          "explanation": "Zonder vuurwerkshows is een vuurwerkverbod onhoudbaar"
+        },
+        "109055": {
+          "position": "disagree",
+          "explanation": "Een enkel huis moet geen probleem zijn op grotere percelen, maar dat geldt dan niet alleen voor boeren. Meerdere huizen is projectontwikkeling en daar moet de gemeente de regie houden."
+        },
+        "109059": {
+          "position": "neither",
+          "explanation": "Subsidie is voor mensen die het niet zelf kunnen betalen. Wel moet de gemeente muziekles extra stimuleren."
+        },
+        "109060": {
+          "position": "disagree",
+          "explanation": "Financiële bijdrage is geen automatisme. Bij bijzondere of onvoorziene omstandigheden kan de gemeente financieel bijspringen."
+        },
+        "109063": {
+          "position": "disagree",
+          "explanation": "Er zijn voldoende handhavers, wel strenger optreden bij onveilige situaties."
+        },
+        "109064": {
+          "position": "disagree",
+          "explanation": "Wij zijn geen voorstander van een surveillancemaatschappij."
+        },
+        "109066": {
+          "position": "disagree",
+          "explanation": "Meer subsidiëring van startersleningen drijft de prijzen van woningen op, wat een ongewenst effect is."
+        },
+        "109069": {
+          "position": "disagree",
+          "explanation": "Wonen op vakantieparken leidt regelmatig tot onveilige en sociaal onwenselijke situaties."
+        },
+        "109071": {
+          "position": "disagree",
+          "explanation": "Mensen moeten de kans krijgen om maatschappelijk zinvol werk te doen, maar dit verplichten bij een bijstandsuitkering is geen oplossing. Ook mensen met betaald werk moeten maatschappelijk zinvol werk doen, maar dat gebeurt ook niet altijd."
+        },
+        "109073": {
+          "position": "agree",
+          "explanation": "Ook bij een inkomen van 120-130 procent van het minimumloon is er nog veel armoede."
+        },
+        "109076": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "109077": {
+          "position": "agree",
+          "explanation": "identiteitsgebonden zorg is vooral voor psycho-sociale hulpverlening essentieel"
+        },
+        "109079": {
+          "position": "neither",
+          "explanation": "De ozb moet zijn gekoppeld aan de ambities. Beloven om niet te verhogen is een loze belofte."
+        },
+        "109083": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "109084": {
+          "position": "neither",
+          "explanation": "Dit is een wettelijke taak die we netjes moeten uitvoeren."
+        },
+        "109092": {
+          "position": "disagree",
+          "explanation": "kamerverhuur leidt al heel snel tot ongewenste situaties. Een of twee kamers verhuren door de hoofdbewoner is geen probleem, hele huizen onderverdelen in kamers is ongewenst."
+        },
+        "109094": {
+          "position": "disagree",
+          "explanation": "We moeten blijven inzetten op deelmobiliteit en beter openbaar vervoer."
+        },
+        "109096": {
+          "position": "disagree",
+          "explanation": "De ChristenUnie is niet tegen (grote) kerken."
+        },
+        "109097": {
+          "position": "disagree",
+          "explanation": "Uitgaansmogelijkheden exploiteren is geen gemeentetaak. Maar waar mogelijk moet de gemeente particuliere initiatieven hiertoe wel voldoende faciliteren."
+        },
+        "109098": {
+          "position": "agree",
+          "explanation": "Tegengaan van hittestress in nieuwbouw is essentieel."
+        },
+        "109099": {
+          "position": "neither",
+          "explanation": "Buslijnen in stand houden die niet worden gebruikt heeft geen zin. Wel moet de gemeente blijven inzetten op mobiliteitsoplossingen passend bij ons landelijk gebied en blijven lobbyen bij de provincie om hun budgetten voor openbaar vervoer ook in te zetten in onze gemeente."
+        }
+      }
+    },
+    {
+      "id": 109030,
+      "name": "VVD",
+      "fullName": "Volkspartij voor Vrijheid en Democratie",
+      "website": "https://www.vvd.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "109043": {
+          "position": "disagree",
+          "explanation": "Als een winkel of camping geen hinder veroorzaakt, bijvoorbeeld voor andere agrariërs, dan moet deze ruimte worden geboden. Dit mag echter niet ten koste gaan van andere ondernemers in het buitengebied."
+        },
+        "109045": {
+          "position": "disagree",
+          "explanation": "De gemeente moet de vestiging van distributiecentra niet per se tegengaan, maar het moet wel in het plaatje van Altena met het open landschap passen. De VVD Altena vindt het belangrijk dat ondernemers onder de juiste voorwaarden en in het belang van de bredere samenleving stappen kunnen zetten."
+        },
+        "109046": {
+          "position": "disagree",
+          "explanation": "Vanuit het belang van onze inwoners, zouden wij bij voorkeur geen azc willen. Er ligt echter wel een landelijke uitdaging in de opvang van asielzoekers. Altena is een onderdeel van Nederland, dus als de landelijke overheid ons hiertoe verplicht, zullen wij daaraan meewerken."
+        },
+        "109047": {
+          "position": "agree",
+          "explanation": "Arbeidsmigranten zijn nodig voor onze lokale economie. Wel stellen we daarbij als voorwaarde dat onze inwoners hier geen last van hebben. De VVD Altena is tegen hoge concentraties arbeidsmigranten en wil dat zij dicht bij hun werkgever wonen, waarbij het aantal past bij de nabijgelegen kern."
+        },
+        "109049": {
+          "position": "agree",
+          "explanation": "Wat de VVD Altena betreft moet alles in de juiste proporties worden gezien. Het is prima als inwoners genieten van een gezellig haardvuurtje, maar natuurlijk vinden we het niet goed als een onverantwoorde inwoner vuil aan het verbranden is met overlast voor andere inwoners als gevolg."
+        },
+        "109051": {
+          "position": "disagree",
+          "explanation": "Onze gemeente is samengesteld uit heel veel kernen. Wij denken dat een vuurwerkshow vooral genot zou bieden aan een kleine groep kernen, terwijl het wel door iedereen betaald moet worden. Dat vinden we niet zo eerlijk. Ten slotte past het niet bij de kerntaken van de gemeente."
+        },
+        "109055": {
+          "position": "disagree",
+          "explanation": "De VVD Altena vindt het belangrijk dat er meer huizen komen voor onze inwoners. Ook vinden we het belangrijk dat benodigde vergunning zo efficiënt mogelijk verleend worden. Maar we kunnen mensen geen vrij spel geven om zomaar huizen te bouwen. Boer of geen boer: zorg voor een degelijk proces."
+        },
+        "109059": {
+          "position": "disagree",
+          "explanation": "De VVD Altena vindt het belangrijk dat de gemeente de uitgaven beperkt tot haar kerntaken. Muziekles is leuk en mooi, maar is een extra waarin inwoners zichzelf moeten voorzien. Zo houden we de gemeentefinanciën onder controle en zorgen we voor rust in de portemonnee van inwoners."
+        },
+        "109060": {
+          "position": "disagree",
+          "explanation": "De VVD Altena vindt gezondheid en samenkomst van inwoners belangrijk, maar sportverenigingen zijn in de basis zelfstandige organisaties met een eigen verantwoordelijkheid voor inkomstengeneratie en kostenbeheersing. De VVD Altena wil voorkomen dat er automatisch naar de gemeente wordt gekeken."
+        },
+        "109063": {
+          "position": "agree",
+          "explanation": "De veiligheid in Altena is niet op orde. Er is te vaak sprake van bijvoorbeeld drugshandel en -productie en ondermijning. We moeten hier werk van maken door onder andere meer boa's aan het werk te zetten voor onze veiligheid. Wij zien liever handhavers, dan beleidsmedewerkers."
+        },
+        "109064": {
+          "position": "agree",
+          "explanation": "Er zijn in Altena hotspots waar bijvoorbeeld drugs worden verhandeld, maar ook andere misdaden worden begaan. De VVD Altena wil dit tegengaan met onder andere strenger cameratoezicht. Het is daarmee onderdeel van een uitgebreider plan."
+        },
+        "109066": {
+          "position": "disagree",
+          "explanation": "Een starterslening klinkt sympathiek, maar drijft de prijzen alleen maar verder op en zadelt mensen op met meer schulden. De VVD Altena wil alle fricties uit de woningmarkt halen om op die manier voor betaalbaarheid en beschikbaarheid te zorgen."
+        },
+        "109069": {
+          "position": "disagree",
+          "explanation": "De VVD Altena houdt zaken graag gescheiden. Als iets een vakantiewoning is, dan dient die ook zo gebruikt te worden. Maar we gaan niet direct moeilijk doen als een vakantiewoning zorgt voor een tijdelijke oplossing. Maar het is dus geen permanente oplossing."
+        },
+        "109071": {
+          "position": "agree",
+          "explanation": "De VVD Altena vindt het belangrijk dat mensen meedoen in de samenleving. Als je dankzij de samenleving kunt profiteren van een uitkering, is het netjes om daar wat voor terug te doen. Ook zorgt het ervoor dat mensen een normale baan weer sneller zullen oppikken als ze werken aan hun vaardigheden."
+        },
+        "109073": {
+          "position": "disagree",
+          "explanation": "De VVD Altena vindt het belangrijk dat mensen zijn voorzien in hun noodzakelijke behoeften. Maar vervolgens willen we de prikkel zo hoog mogelijk houden om mensen weer te laten deelnemen in het maatschappelijke verkeer en hun eigen boontjes te laten doppen."
+        },
+        "109076": {
+          "position": "disagree",
+          "explanation": "De VVD Altena wil niet klakkeloos alles beperken tot een maximum van 30 km/u. Het gaat ons om de veiligheid. Als de veiligheid het vereist, schroeven we het maximum zo ver als nodig terug. Is dat niet nodig, dan voorkomen we dat we inwoners beperken."
+        },
+        "109077": {
+          "position": "disagree",
+          "explanation": "De VVD Altena gunt inwoners alle vrijheden zolang die niet ten koste gaan van vrijheden van anderen. We voorkomen dat de gemeente de kosten draagt van specifieke inwoners met specifieke wensen die niet algemeen noodzakelijk zijn. Zo houden we uitgaven onder controle."
+        },
+        "109079": {
+          "position": "disagree",
+          "explanation": "De VVD Altena gunt alle inwoners rust in de portemonnee. We zijn voorstander van een efficiënte, kleine overheid. Daarbij horen ook lage belastingen. De ozb wordt alleen verhoogd met de inflatie en als die verhoging niet nodig is, dan laten we die ook achterwege."
+        },
+        "109083": {
+          "position": "agree",
+          "explanation": "VVD Altena vindt dat winkeliers zelf mogen kiezen of zij op zondag open zijn of niet. De horeca heeft deze keuzevrijheid al. Waarom winkeliers niet? Wij schaffen de verplichte sluiting op zondag af en laten de keuze bij de winkelier."
+        },
+        "109084": {
+          "position": "disagree",
+          "explanation": "De VVD Altena vindt dat toewijzing van sociale huurwoningen op een eerlijke en weloverwogen manier moet verlopen. Dat betekent niet dat vluchtelingen standaard voorrang krijgen, maar wel dat hun belangen eerlijk worden gewogen."
+        },
+        "109092": {
+          "position": "agree",
+          "explanation": "De VVD Altena vindt het belangrijk om regelgeving omtrent de woningmarkt te beperken. Als iemand met een bescheiden inkomen bijvoorbeeld op jonge leeftijd het huis uit wil/moet, helpt het om wat flexibiliteit in de regelgeving te houden."
+        },
+        "109094": {
+          "position": "disagree",
+          "explanation": "De VVD Altena kijkt graag naar de parkeerbehoeften binnen iedere kern. Als er een tekort is, pakken we dat graag per kern aan. Zo voorkomen we dat we onnodig veel parkeerplaatsen aanleggen en daarmee onnodige kosten maken."
+        },
+        "109096": {
+          "position": "agree",
+          "explanation": "De VVD Altena vindt het belangrijk dat er veel draagvlak is voordat een dergelijk project wordt verwezenlijkt. Zodra de gemeente merkt dat er heel weinig draagvlak is, moet de gemeente de beschikbare middelen gebruiken om dit tegen te gaan om de belangen van inwoners te behartigen."
+        },
+        "109097": {
+          "position": "disagree",
+          "explanation": "VVD Altena vindt het waardevol dat jongeren kunnen genieten van hun jonge jaren, ook binnen de gemeente. Populariteit van uitgaansgelegenheden is commercieel vaak goed te meten. Als het financieel zelf niet uit kan, moet de gemeente voorkomen geld te stoppen in iets waar onvoldoende vraag naar is."
+        },
+        "109098": {
+          "position": "agree",
+          "explanation": "VVD Altena vindt het belangrijk dat mensen verkoeling hebben op warmere dagen en dat woningen worden gebouwd voor de lange termijn. Daar zijn natuur en schaduw een goed middel voor. Het is verstandig woningbouwbeleid als natuur en schaduw wordt opgenomen in de bouwplannen."
+        },
+        "109099": {
+          "position": "disagree",
+          "explanation": "VVD Altena vindt het belangrijk dat mensen beschikking hebben over goede mobiliteit, want dat creëert kansen. Tegelijkertijd moeten buslijnen goed gevuld zijn om de kosten te verantwoorden. De VVD Altena houdt graag goed in de gaten hoe de behoefte zich ontwikkelt om het aanbod daarop aan te passen."
+        }
+      }
+    },
+    {
+      "id": 128453,
+      "name": "Vrije Volkspartij Altena",
+      "fullName": "Vrije Volkspartij Altena",
+      "website": "https://www.vrijevolkspartij.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "109043": {
+          "position": "agree",
+          "explanation": "Dat is per situatie verschillend maar een andere bestemming moet tot de mogelijkheden behoren."
+        },
+        "109045": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "109046": {
+          "position": "disagree",
+          "explanation": "Absoluut geen AZC."
+        },
+        "109047": {
+          "position": "disagree",
+          "explanation": "Geen verkapte afhankelijkheid van bed, bad, brood. Deze zaken horen gescheiden te zijn."
+        },
+        "109049": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "109051": {
+          "position": "neither",
+          "explanation": "Wie betaalt de kosten?"
+        },
+        "109055": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "109059": {
+          "position": "neither",
+          "explanation": "De subsidiekraan moet tegen het licht gehouden worden."
+        },
+        "109060": {
+          "position": "disagree",
+          "explanation": "Iedereen zijn eigen broek ophouden."
+        },
+        "109063": {
+          "position": "disagree",
+          "explanation": "Minder boa's! Het enorme kostenapparaat juridische zaken moet flink uitgedund worden. inwoners zijn geen geldboom of kleine kinderen. Het serviceniveau moet omhoog in plaats van meer controle!"
+        },
+        "109064": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "109066": {
+          "position": "disagree",
+          "explanation": "De gemeente is geen bank. Garantstelling is wellicht een betere keuze."
+        },
+        "109069": {
+          "position": "neither",
+          "explanation": "Van de situatie afhankelijk."
+        },
+        "109071": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "109073": {
+          "position": "neither",
+          "explanation": "Kijk niet naar inkomensgrens maar naar bestedingsgrens."
+        },
+        "109076": {
+          "position": "disagree",
+          "explanation": "Dit creëert schijnveiligheid."
+        },
+        "109077": {
+          "position": "disagree",
+          "explanation": "Dit heeft niets te maken met zorg verlenen."
+        },
+        "109079": {
+          "position": "disagree",
+          "explanation": "Als het moet dan moet dat aangetoond worden en NIET omdat het gemeentelijk apparaat de kosten niet kan beheersten."
+        },
+        "109083": {
+          "position": "disagree",
+          "explanation": "Respecteer de omgeving, zoek niet de verschillen maar neem de rust van het toch al dagelijks drukke leven. Kan dat niet op zondag?"
+        },
+        "109084": {
+          "position": "disagree",
+          "explanation": "Zeker niet! Altena First!"
+        },
+        "109092": {
+          "position": "neither",
+          "explanation": "Van de situatie afhankelijk."
+        },
+        "109094": {
+          "position": "agree",
+          "explanation": "Schiet bij elk plan tekort dat roepen wij al vier jaar."
+        },
+        "109096": {
+          "position": "neither",
+          "explanation": "Beoordelen op feiten."
+        },
+        "109097": {
+          "position": "agree",
+          "explanation": "Hier mag op geïnvesteerd worden."
+        },
+        "109098": {
+          "position": "agree",
+          "explanation": "De natuur moet altijd betrokken worden. maar mens gaat wel boven natuur."
+        },
+        "109099": {
+          "position": "agree",
+          "explanation": "Er valt hier nog veel te verbeteren!"
+        }
+      }
+    },
+    {
+      "id": 109028,
+      "name": "FvD",
+      "fullName": "Forum voor Democratie",
+      "website": "https://fvd.nl/",
+      "hasSeats": false,
+      "participates": true,
+      "positions": {
+        "109043": {
+          "position": "agree",
+          "explanation": "Boeren moeten de ruimte krijgen om te ondernemen en hun bedrijf toekomstbestendig te maken. Nevenactiviteiten zoals een winkel of camping versterken het platteland, vergroten het verdienvermogen en houden Altena leefbaar. Minder regels, meer vrijheid."
+        },
+        "109045": {
+          "position": "disagree",
+          "explanation": "De gemeente moet niet vooraf blokkeren, maar streng toetsen op locatie, schaal en impact. Distributiecentra kunnen werkgelegenheid en economische waarde brengen, mits ze passen bij landschap, infrastructuur en lokale belangen."
+        },
+        "109046": {
+          "position": "disagree",
+          "explanation": "Een azc brengt stelselmatige onveiligheid, overlast en druk op voorzieningen. Altena is geen opvangregio. De gemeente moet haar inwoners beschermen en kiest voor rust, veiligheid en samenhang."
+        },
+        "109047": {
+          "position": "agree",
+          "explanation": "Werkgevers moeten verantwoordelijkheid nemen voor hun eigen personeel. Huisvesting mag niet ten koste gaan van woningen en leefbaarheid voor onze eigen inwoners."
+        },
+        "109049": {
+          "position": "agree",
+          "explanation": "Wij behouden aardgas, houtkachels en andere verwarming zonder druk of verbod. Wij verzetten ons tegen gedwongen aansluitingen en afsluiting van bestaande systemen."
+        },
+        "109051": {
+          "position": "disagree",
+          "explanation": "Vuurwerk is een traditie van inwoners, geen taak van de gemeente. Publiek geld hoort niet naar centrale vuurwerkshows te gaan. Laat mensen zelf oud en nieuw vieren zoals zij willen."
+        },
+        "109055": {
+          "position": "agree",
+          "explanation": "Boeren moeten vrijheid krijgen om op eigen grond woningen of een tiny house te bouwen voor familie, opvolging of personeel. Dat versterkt het platteland, voorkomt leegloop en doorbreekt onnodige ruimtelijke regels. Minder regels, meer vertrouwen."
+        },
+        "109059": {
+          "position": "agree",
+          "explanation": "Muziekonderwijs draagt bij aan de ontwikkeling en creativiteit van kinderen. Met een gerichte subsidie krijgt ieder basisschoolkind de kans om talent te ontdekken: investeren in de jeugd van Altena."
+        },
+        "109060": {
+          "position": "agree",
+          "explanation": "Sportverenigingen zijn onmisbaar voor gezondheid, jeugd en sociale samenhang. De gemeente ondersteunt hen en zoekt actief samenwerking. Zo stimuleren we kinderen en jongeren om te sporten."
+        },
+        "109063": {
+          "position": "disagree",
+          "explanation": "Wij zetten handhaving in voor toezicht en dienstverlening, niet om inkomsten te genereren via boetebeleid."
+        },
+        "109064": {
+          "position": "disagree",
+          "explanation": "Cameratoezicht mag geen standaardmaatregel worden. Het kan worden ingezet op specifieke plekken, maar vrijheid en privacy blijven het uitgangspunt. Veiligheid begint met sociale samenhang en zichtbare aanwezigheid van politie, niet met overal camera’s ophangen."
+        },
+        "109066": {
+          "position": "disagree",
+          "explanation": "Startersleningen lossen weinig op. De echte blokkades zijn de stikstofregels en dwang om van het gas af te gaan, die bouwen duur en traag maken. Hef die belemmeringen op, bouw meer woningen en help starters écht."
+        },
+        "109069": {
+          "position": "agree",
+          "explanation": "Als vakantiewoningen veilig en geschikt zijn, moeten mensen er permanent mogen wonen. Dat vergroot het woningaanbod snel en zonder nieuwbouw. Minder betutteling, meer woonvrijheid voor inwoners van Altena."
+        },
+        "109071": {
+          "position": "agree",
+          "explanation": "Wie kan werken, kan iets terugdoen voor de samenleving. Dat versterkt eigenwaarde en betrokkenheid. Daarbij is begrip en menselijke beoordeling nodig voor mensen die door gezondheid of omstandigheden niet kunnen meedoen."
+        },
+        "109073": {
+          "position": "disagree",
+          "explanation": "De huidige inkomensgrens is voldoende. De gemeente moet gericht helpen waar het echt nodig is, niet steeds uitbreiden."
+        },
+        "109076": {
+          "position": "disagree",
+          "explanation": "Een algemene 30 km/u-regel werkt niet. Zonder bewezen en duidelijk veiligheidseffect leggen we geen snelheidsbeperkingen op of plaatsen we extra verkeersdrempels. Het verkeer vraagt om gerichte oplossingen, niet om overal dezelfde maatregel."
+        },
+        "109077": {
+          "position": "agree",
+          "explanation": "Wij willen vrije artsenkeuze garanderen. De patiënt beslist zelf bij wie hij in behandeling gaat. Zorg moet aansluiten bij vertrouwen en persoonlijke overtuiging, zonder dwang of beperking vanuit de gemeente."
+        },
+        "109079": {
+          "position": "disagree",
+          "explanation": "De ozb verhogen raakt huiseigenaren, huurders en ondernemers direct. In tijden van hoge lasten moet de gemeente zuinig en efficiënt besturen, niet de rekening doorschuiven naar inwoners. Belastingen omlaag, niet omhoog."
+        },
+        "109083": {
+          "position": "disagree",
+          "explanation": "Bij blijvende of toenemende discussie over de zondagsrust willen wij een lokaal referendum organiseren, zodat inwoners zich rechtstreeks kunnen uitspreken. Wanneer er geen duidelijk draagvlak is voor verandering, blijven winkels op zondag gesloten, zoals dit altijd het uitgangspunt is geweest."
+        },
+        "109084": {
+          "position": "disagree",
+          "explanation": "Voorrang voor statushouders vergroot wachttijden. Sociale huur is bedoeld voor de eigen gemeenschap. Inwoners van Altena die hier wonen, werken en bijdragen, moeten voorrang krijgen. Zo behouden we sociale samenhang, verkorten we wachttijden en houden we dorpen leefbaar."
+        },
+        "109092": {
+          "position": "agree",
+          "explanation": "Kamerverhuur kan extra woonruimte opleveren, vooral voor starters en alleenstaanden. De gemeente moet dit toestaan met duidelijke regels om overlast te voorkomen en de leefbaarheid in wijken te beschermen."
+        },
+        "109094": {
+          "position": "agree",
+          "explanation": "Voldoende parkeerplaatsen zijn nodig voor alle inwoners en bezoekers. Ze zorgen voor bereikbaarheid van winkels, voorzieningen en woningen en houden de dorpen leefbaar. Parkeerbeleid moet praktisch zijn, niet beperkend."
+        },
+        "109096": {
+          "position": "neither",
+          "explanation": "De gemeente moet neutraal en zorgvuldig afwegen op basis van ruimtelijke inpassing, verkeersdruk, leefbaarheid en draagvlak. Niet tegenhouden op voorhand, maar ook geen automatische goedkeuring. Besluiten horen inhoudelijk en lokaal onderbouwd te zijn."
+        },
+        "109097": {
+          "position": "agree",
+          "explanation": "De gemeente moet ruimte creëren voor veilige en verantwoorde ontmoetingsplekken voor jongeren. Dat versterkt de binding met dorpen en gemeenschap en helpt overlast voorkomen. Gericht investeren werkt beter dan verbieden of wegkijken."
+        },
+        "109098": {
+          "position": "agree",
+          "explanation": "In de bebouwde kom houden we groen verzorgd en toegankelijk. Aan de randen krijgt natuur ruimte om te groeien. We planten meer bomen voor schaduw en verkoeling en herstellen hagen en heggen in het buitengebied. Natuur hoort bij goed bouwen."
+        },
+        "109099": {
+          "position": "agree",
+          "explanation": "Goede bereikbaarheid is essentieel voor leefbare dorpen. Extra buslijnen, met betere aansluitingen tussen kernen, helpen inwoners naar werk, school en zorg. Openbaar vervoer moet praktisch en betrouwbaar zijn, niet verder worden uitgekleed."
+        }
+      }
+    }
+  ],
+  "statements": [
+    {
+      "id": 109096,
+      "index": 1,
+      "theme": "Frontrunners Ministries",
+      "themeId": "frontrunners-ministries",
+      "title": "The municipality of Altena should stop the construction plans for a large church in Dussen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109046,
+      "index": 2,
+      "theme": "Asylum seekers' center",
+      "themeId": "asielzoekerscentrum",
+      "title": "An asylum seekers' center (AZC) should be established in our municipality.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109043,
+      "index": 3,
+      "theme": "Farm campsites",
+      "themeId": "boerencampings",
+      "title": "The municipality should always allow farmers to open, for example, a shop or campsite at their farm.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109045,
+      "index": 4,
+      "theme": "Distribution centers",
+      "themeId": "distributiecentra",
+      "title": "The municipality must oppose the establishment of new distribution centers.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109047,
+      "index": 5,
+      "theme": "Housing for foreign workers",
+      "themeId": "huisvesting-buitenlandse-werknemers",
+      "title": "Employers in agriculture and horticulture should provide housing for seasonal workers on their own premises.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109051,
+      "index": 6,
+      "theme": "Fireworks",
+      "themeId": "vuurwerk",
+      "title": "The municipality should organize a fireworks show on New Year's Eve.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109063,
+      "index": 7,
+      "theme": "Enforcement officers",
+      "themeId": "handhavers",
+      "title": "Altena should have more municipal enforcement officers (BOAs) who focus on safety.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109099,
+      "index": 8,
+      "theme": "Additional buses",
+      "themeId": "extra-bussen",
+      "title": "The municipality of Altena should invest money in extra bus lines.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109055,
+      "index": 9,
+      "theme": "Building on agricultural land",
+      "themeId": "bouwen-op-landbouwgrond",
+      "title": "It should be possible for farmers to build houses themselves on their land.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109059,
+      "index": 10,
+      "theme": "Music lessons",
+      "themeId": "muziekles",
+      "title": "Every primary school child should be able to receive music lessons subsidized by the municipality.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109049,
+      "index": 11,
+      "theme": "Wood burning",
+      "themeId": "houtstook",
+      "title": "In Altena the use of open fireplaces and wood-burning stoves should remain permitted.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109066,
+      "index": 12,
+      "theme": "Starter loan",
+      "themeId": "starterslening",
+      "title": "First-time homebuyers should be able to receive a starter loan from the municipality.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109064,
+      "index": 13,
+      "theme": "Camera surveillance",
+      "themeId": "cameratoezicht",
+      "title": "There should be more camera surveillance in Altena.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109060,
+      "index": 14,
+      "theme": "Sports clubs",
+      "themeId": "sportverenigingen",
+      "title": "If sports clubs are struggling, the municipality should contribute financially.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109069,
+      "index": 15,
+      "theme": "Holiday homes",
+      "themeId": "vakantiewoningen",
+      "title": "The municipality must allow holiday homes to be used as a permanent residence.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109073,
+      "index": 16,
+      "theme": "Combating poverty",
+      "themeId": "armoedebestrijding",
+      "title": "The municipality should raise the income threshold for receiving poverty assistance.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109077,
+      "index": 17,
+      "theme": "Choice of healthcare",
+      "themeId": "zorgkeuze",
+      "title": "People who need care should always be able to choose a caregiver who matches their religion, culture, or beliefs.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109097,
+      "index": 18,
+      "theme": "Nightlife",
+      "themeId": "uitgaan",
+      "title": "The municipality of Altena should invest in more entertainment options for young people.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109071,
+      "index": 19,
+      "theme": "Work requirement for welfare recipients",
+      "themeId": "tegenprestatie-voor-uitkering",
+      "title": "People receiving social assistance should, in return, do socially useful work.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109076,
+      "index": 20,
+      "theme": "Car speeds",
+      "themeId": "snelheid-auto-s",
+      "title": "The maximum speed limit in built-up areas should be set to 30 km/h.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109092,
+      "index": 21,
+      "theme": "Subdivision into multiple rooms",
+      "themeId": "verkamering",
+      "title": "The municipality should allow landlords to rent out individual rooms instead of entire houses.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109079,
+      "index": 22,
+      "theme": "Tax on buildings",
+      "themeId": "belasting-op-gebouwen",
+      "title": "The property tax (ozb) should be increased.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109094,
+      "index": 23,
+      "theme": "More parking spaces",
+      "themeId": "meer-parkeerplaatsen",
+      "title": "There should be more parking spaces in the town centers.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109084,
+      "index": 24,
+      "theme": "Priority for refugees",
+      "themeId": "voorrang-voor-vluchtelingen",
+      "title": "The municipality must continue to give refugees with a residence permit priority for social housing.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109083,
+      "index": 25,
+      "theme": "Sunday shopping",
+      "themeId": "koopzondagen",
+      "title": "The municipality should allow shopping on Sundays.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 109098,
+      "index": 26,
+      "theme": "Heat stress",
+      "themeId": "hittestress",
+      "title": "All plans for new construction must incorporate nature and shade.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    }
+  ]
+}

@@ -1,0 +1,979 @@
+{
+  "id": "GM0866",
+  "name": "Waalre",
+  "slug": "waalre",
+  "parties": [
+    {
+      "id": 126304,
+      "name": "GroenLinks-PvdA",
+      "fullName": "Groenlinks - Partij van de Arbeid",
+      "website": "https://groenlinkspvda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "126312": {
+          "position": "agree",
+          "explanation": "Het is belangrijk dat iedereen zich vertegenwoordigt voelt in het bestuur van de gemeente. Natuurlijk moeten de wethouders en burgemeester wel goed gekwalificeerd zijn, onafhankelijk van hun gender."
+        },
+        "126313": {
+          "position": "agree",
+          "explanation": "Wij vinden het erg belangrijk dat inwoners mee kunnen beslissen over hoe het hier in Waalre gaat. Wanneer een onderwerp enorm speelt, kan een referendum een mooie en eerlijke manier zijn om een besluit te nemen. Ook willen wij graag andere vormen van burgerparticipatie bevorderen."
+        },
+        "126316": {
+          "position": "agree",
+          "explanation": "We stimuleren onze boeren om over te schakelen op natuurinclusief of biologisch boeren. Door het toestaan van bijverdiensten zoals kamperen, kleinschalige horeca of verkoop van lokale producten helpen we om de overstap te maken."
+        },
+        "126317": {
+          "position": "agree",
+          "explanation": "Een duurzame toekomst is belangrijk voor ons allemaal. Daar moet de gemeente aan bijdragen, vooral voor inwoners met een lager inkomen."
+        },
+        "126320": {
+          "position": "neither",
+          "explanation": "Het is belangrijk dat agrariërs bijdragen aan een goede huisvesting van de mensen die voor hen werken. Dit kan ook buiten hun eigen terrein zijn. Voor uitbuiting en overlast is in onze gemeente geen plek."
+        },
+        "126322": {
+          "position": "disagree",
+          "explanation": "Veel mensen ervaren overlast van houtstook in onze gemeente. Ook voor het milieu is het slecht. GroenLinks-PvdA wil houtstook terugdringen zodat de lucht gezond is om in te ademen, voor iedereen. De stookwijzer is hierbij leidend."
+        },
+        "126324": {
+          "position": "neither",
+          "explanation": "De gemeente moet onderzoeken op welke manier de jaarwisseling zonder vuurwerk voor iedereen aantrekkelijk gemaakt kan worden."
+        },
+        "126325": {
+          "position": "agree",
+          "explanation": "Als grofvuil opgehaald wordt hebben we meer grip op het hergebruik hiervan. Daarnaast wordt er dan minder in de natuur gedumpt. Win win voor het milieu."
+        },
+        "126328": {
+          "position": "agree",
+          "explanation": "Er is een enorm woningtekort en een extra woning op het erf kan een goede oplossing zijn. Als extra inkomstenbron of als geschikte plek voor een ouder die niet meer zelfstandig kan wonen. We willen dit graag mogelijk maken voor boeren die dat willen."
+        },
+        "126335": {
+          "position": "agree",
+          "explanation": "In Waalre moet het fijn wonen en bewegen zijn voor iedereen. Om die veiligheid te garanderen, ook in bijvoorbeeld het verkeer, is handhaving nodig."
+        },
+        "126336": {
+          "position": "disagree",
+          "explanation": "Het is heel belangrijk om je veilig te voelen op straat. Maar meer camera's vinden wij niet de juiste oplossing. Je privacy is een groot goed dat niet zomaar mag worden aangetast. Daarom kiezen wij eerder voor meer handhavers op straat, die ook meteen kunnen ingrijpen als er iets misgaat."
+        },
+        "126338": {
+          "position": "agree",
+          "explanation": "Iedereen moet mee kunnen doen in onze gemeente. Een fijne woning hoort hier ook bij. Starters kunnen hierbij wel een steuntje in de rug gebruiken."
+        },
+        "126341": {
+          "position": "agree",
+          "explanation": "Om de woningnood tijdelijk op te vangen is gebruik van vakantiewoningen een goede oplossing. Wel is het belangrijk om ervoor te zorgen dat er genoeg nieuwe woningen gebouwd worden, zodat alle mensen in een echt huis kunnen wonen."
+        },
+        "126342": {
+          "position": "agree",
+          "explanation": "Naast de uitbreidingslocaties Waalre Noord en Ekenrooi Zuid moeten nieuwe woningen alleen in de huidige kernen en wijken komen. Dit doen wij om de natuur en het landschap te beschermen."
+        },
+        "126343": {
+          "position": "disagree",
+          "explanation": "Mensen zitten niet in de bijstand omdat ze geen zin hebben om te werken. Zij hebben behoefte aan een stabiele basis en vertrouwen vanuit de gemeente. Door hen minder regels op te leggen kunnen zij zich meer focussen op hun toekomst en de draad weer oppakken."
+        },
+        "126347": {
+          "position": "agree",
+          "explanation": "Het moet aantrekkelijker worden om over te stappen op elektrisch rijden. Hiervoor is het belangrijk dat voldoende laadpalen zijn."
+        },
+        "126348": {
+          "position": "agree",
+          "explanation": "Het verlagen van de snelheid is beter voor iedereen. Het is veiliger voor spelende kinderen, voetgangers, fietsers en automobilisten. Ook is het beter voor de luchtkwaliteit, gezondheid en het milieu. Daarnaast is het duidelijker als de snelheid overal gelijk is in onze gemeente."
+        },
+        "126349": {
+          "position": "agree",
+          "explanation": "We vinden het erg belangrijk dat iedereen goede zorg kan krijgen in onze gemeente. Daarbij is maatwerk onze insteek."
+        },
+        "126350": {
+          "position": "disagree",
+          "explanation": "Bij het leveren van hulp is vooral de kwaliteit erg belangrijk. Goede zorg betekent op de lange termijn juist lagere kosten."
+        },
+        "126353": {
+          "position": "agree",
+          "explanation": "De toeristenbelasting maken wij gelijk aan die in Eindhoven. Zo hebben wij meer geld om te investeren in ons dorp, zonder de belasting voor de inwoners te hoeven verhogen."
+        },
+        "126356": {
+          "position": "agree",
+          "explanation": "Mensen met de hoogste nood moeten als eerste een woning krijgen, vluchtelingen horen daar ook bij."
+        },
+        "126361": {
+          "position": "agree",
+          "explanation": "Nederland is een waterland en elk kind hoort te leren zwemmen. Ook kinderen wiens ouders geen eigen zwemles kunnen betalen. Helaas is dit nog steeds niet eerlijk geregeld. De beste oplossing: schoolzwemmen voor ieder kind, met steun van de gemeente."
+        },
+        "126362": {
+          "position": "neither",
+          "explanation": "Dialect is een waardevolle vorm van cultuur. Scholen moeten zelf kunnen bepalen of zij aandacht besteden aan het Brabantse dialect. "
+        },
+        "126366": {
+          "position": "disagree",
+          "explanation": "De gemeente moet toezicht houden op kamerverhuur. De woningen moeten van goede kwaliteit zijn voor de bewoners en er mag geen overlast zijn voor de omgeving."
+        },
+        "126369": {
+          "position": "agree",
+          "explanation": "Er moet een goede plek komen voor de waardevolle collectie van het Waalres Museum. Kunst en geschiedenis zijn belangrijk en moeten beschermd worden."
+        },
+        "126371": {
+          "position": "agree",
+          "explanation": "De gemeente moet investeren in het vergroenen van onze gemeente. Hierbij moet zoveel mogelijk gebruik gemaakt worden van inheemse soorten om de biodiversiteit te versterken."
+        }
+      }
+    },
+    {
+      "id": 126300,
+      "name": "AWB",
+      "fullName": "Aalst Waalre Belang",
+      "website": "https://www.aalstwaalrebelang.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "126312": {
+          "position": "disagree",
+          "explanation": "Kwaliteit gaat boven man of vrouw zijn."
+        },
+        "126313": {
+          "position": "disagree",
+          "explanation": "Burgerparticipatie staat bij ons hoog in het vaandel. Het houden van een referendum kan een mogelijkheid zijn maar zeker geen moeten."
+        },
+        "126316": {
+          "position": "disagree",
+          "explanation": "Boeren moeten ruime mogelijkheden hebben om bij hun boerenbedrijf een nevenactiviteit uit te oefenen. Bij het geheel dan wel deels beëindigen van het boerenbedrijf moet de mogelijkheid worden geboden om een passend nieuw bedrijf of activiteit op te zetten."
+        },
+        "126317": {
+          "position": "disagree",
+          "explanation": "De gemeente kan wellicht wel op een andere wijze faciliteren."
+        },
+        "126320": {
+          "position": "agree",
+          "explanation": "Los daarvan hebben we in Waalre niet te maken met land- en tuinbouwbedrijven waar seizoenarbeiders worden ingezet."
+        },
+        "126322": {
+          "position": "agree",
+          "explanation": "Maar wel met inachtneming van de stookwijzer."
+        },
+        "126324": {
+          "position": "agree",
+          "explanation": "In principe me eens, maar daar hangt wel een prijskaartje aan."
+        },
+        "126325": {
+          "position": "disagree",
+          "explanation": "De gemeente kan het ophalen van grofvuil faciliteren, doch moet dit niet gratis ophalen of laten ophalen. Ook hier geldt dat de vervuiler betaalt."
+        },
+        "126328": {
+          "position": "disagree",
+          "explanation": "Wij zijn tegen verdere verstening van het buitengebied."
+        },
+        "126335": {
+          "position": "disagree",
+          "explanation": "Het aantal boa's in Waalre lijkt ons voldoende. Daarentegen dient de zichtbaarheid van de boa's te worden vergroot."
+        },
+        "126336": {
+          "position": "disagree",
+          "explanation": "Waalre werkt niet met cameratoezicht. Tot nu toe is van een noodzaak daartoe ook niet gebleken."
+        },
+        "126338": {
+          "position": "disagree",
+          "explanation": "Waalre moet eerst voldoende sociale huur en betaalbare koopwoningen bouwen. Indien die woningen beschikbaar komen kan een starterslening worden overwogen."
+        },
+        "126341": {
+          "position": "disagree",
+          "explanation": "Dit lijkt ons, ondanks de krapte op de woningmarkt, een slechte ontwikkeling."
+        },
+        "126342": {
+          "position": "agree",
+          "explanation": "Waarbij we aannemen dat met de bestaande dorpsgrenzen de \"bebouwde kom\" wordt bedoeld."
+        },
+        "126343": {
+          "position": "disagree",
+          "explanation": "Niet iedereen die een uitkering krijgt kan maatschappelijk werk verrichten. Op vrijwillige basis kan dit worden gestimuleerd."
+        },
+        "126347": {
+          "position": "agree",
+          "explanation": "Wordt al aan gewerkt."
+        },
+        "126348": {
+          "position": "agree",
+          "explanation": "Nagenoeg voor de gehele bebouwde kom gerealiseerd, doch de automobilist houdt zich er niet aan. Bovendien kan er niet op worden gehandhaafd."
+        },
+        "126349": {
+          "position": "disagree",
+          "explanation": "Het is al moeilijk genoeg om voldoende zorgverleners op de been te brengen. Deze keuze is niet uitvoerbaar en voert ons dus veel te ver."
+        },
+        "126350": {
+          "position": "agree",
+          "explanation": "Naast kwaliteit is de prijs belangrijk. De kosten voor de jeugdzorg rijzen de pan uit."
+        },
+        "126353": {
+          "position": "agree",
+          "explanation": "De toeristenbelasting kan omhoog omdat de inwoners daardoor niet rechtstreeks worden getroffen en met de opbrengst voorzieningen in stand gehouden kunnen worden en/of verbeterd."
+        },
+        "126356": {
+          "position": "disagree",
+          "explanation": "Oneens omdat dit leidt tot scheve verhoudingen. Inwoners die al lang in de rij staan voor een sociale huurwoning worden daarmee achtergesteld. Voor ons geldt: gelijke monniken gelijke kappen."
+        },
+        "126361": {
+          "position": "agree",
+          "explanation": "Het opnieuw invoeren van schoolzwemmen zou een goede zaak zijn. In principe is dit een rijkstaak en zou het rijk dit moeten regelen en hiervoor gelden beschikbaar moeten stellen."
+        },
+        "126362": {
+          "position": "disagree",
+          "explanation": "Het Brabantse dialect bestaat niet. Dus zou in iedere Brabantse plaats of dorp aan het lokaal dialect aandacht moet worden besteed. Onmogelijke opgave. Laat de scholen maar eerst meer aandacht besteden aan het lezen, schrijven en begrijpen van de Nederlandse taal."
+        },
+        "126366": {
+          "position": "agree",
+          "explanation": "Het verhuren van losse kamers kan leiden tot ongewenste situaties. Wij zouden liever werken met ontheffingen, zodat de verhuur kan worden gereguleerd."
+        },
+        "126369": {
+          "position": "disagree",
+          "explanation": "Wij hebben niet meegewerkt aan het beëindigen van het subsidie aan het Waalres Museum. Met als gevolg dat het museum met ingang van 1 januari 2026 noodgedwongen moet sluiten. De collecties heeft het museum in bruikleen en gaan terug naar de rechthebbenden."
+        },
+        "126371": {
+          "position": "disagree",
+          "explanation": "Het groenonderhoud kan altijd beter. Nog meer geld steken in groenonderhoud betekent echter dat op andere taken dient te worden bezuinigd. Kijk liever hoe de openbare ruimte onderhoudsvriendelijker kan worden ingericht."
+        }
+      }
+    },
+    {
+      "id": 126301,
+      "name": "CDA",
+      "fullName": "Christen-Democratisch Appèl",
+      "website": "https://www.cda.nl/noord-brabant/waalre/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "126312": {
+          "position": "disagree",
+          "explanation": "Het gaat niet om de verhouding man/vrouw in het college, maar om de kwaliteiten van de leden van het college."
+        },
+        "126313": {
+          "position": "disagree",
+          "explanation": "Referenda reduceren ingewikkelde besluiten tot een ja of nee keuze en dat doet geen recht aan de complexiteit van veel voorstellen. Bij verkiezingen kunnen mensen volksvertegenwoordigers kiezen die zij vertrouwen en voor hen besluiten nemen over de vele mogelijke voorstellen die er zijn."
+        },
+        "126316": {
+          "position": "agree",
+          "explanation": "Mits het niet belemmerend is voor de uitoefening van hun boerenbedrijf en ze zich ook aan de wetten en regels voor detailhandel en recreatie en toerisme-sector houden."
+        },
+        "126317": {
+          "position": "disagree",
+          "explanation": "Geen financiële steun, maar wel steun bij samenwerking, vergunningen en uitvoering."
+        },
+        "126320": {
+          "position": "disagree",
+          "explanation": "Zij moeten wel zorgen voor fatsoenlijke huisvesting, maar dat hoeft niet op eigen terrein te zijn. Belangrijk is dat bij einde dienstverband de werknemer niet meteen op straat komt te staan."
+        },
+        "126322": {
+          "position": "agree",
+          "explanation": "Geen verbod, maar wel stoken volgens de stookwijzer."
+        },
+        "126324": {
+          "position": "agree",
+          "explanation": "Als hier behoefte aan is in het dorp, is dit een goede manier om de gemeenschapszin te bevorderen."
+        },
+        "126325": {
+          "position": "disagree",
+          "explanation": "Het moet wel mogelijk blijven om grofvuil weg te brengen naar milieustraat, daarbij moet snel en makkelijk op te zoeken zijn wat de kosten zijn voor het wegbrengen naar de milieustraat."
+        },
+        "126328": {
+          "position": "disagree",
+          "explanation": "Per geval moet bekeken worden wat de mogelijkheden zijn. Daarbij moet ook rekening gehouden worden met mogelijke beperkingen door en voor omliggende boerenbedrijven."
+        },
+        "126335": {
+          "position": "neither",
+          "explanation": "Als er concrete signalen zijn dat inwoners zich onveilig voelen kan door meer boa's het gevoel van veiligheid bij inwoners vergroot worden. Ook kunnen ze zorgen voor snellere reactie op overlast, hoewel ze ook extra middelen en bescherming nodig hebben om hun werk veilig te doen."
+        },
+        "126336": {
+          "position": "neither",
+          "explanation": "Er is geen sprake van acute problemen in Waalre waarvoor dit nu nodig is. Meer cameratoezicht is alleen nodig bij een helder, acuut probleem, maar alleen als laatste oplossing, als extra verlichting etc. niet werken. En het mag de privacy van mensen niet onnodig schenden."
+        },
+        "126338": {
+          "position": "neither",
+          "explanation": "Het is belangrijker om eerst te zorgen voor voldoende aanbod van woningen voor starters dan te zorgen voor een starterslening. Als blijkt dat ondanks voldoende aanbod starters onvoldoende financiële middelen hebben kan een starterslening een oplossing zijn."
+        },
+        "126341": {
+          "position": "disagree",
+          "explanation": "Dit is niet de bedoeling van een vakantiepark."
+        },
+        "126342": {
+          "position": "disagree",
+          "explanation": "Om voldoende woningen te kunnen bouwen moeten we buiten de bestaande grenzen bouwen. We moeten wel rekening houden met het groene karakter van Waalre en niet alles volbouwen."
+        },
+        "126343": {
+          "position": "neither",
+          "explanation": "Mensen in de bijstand moeten er alles aan doen om uit de bijstand te komen. Mits dit mogelijk is, voor bijv. een alleenstaande moeder met jonge kinderen moeten andere eisen gelden. Het is en blijft maatwerk."
+        },
+        "126347": {
+          "position": "neither",
+          "explanation": "Het moet makkelijk zijn om een parkeerplaats ook te gebruiken als oplaadplek voor een elektrische auto."
+        },
+        "126348": {
+          "position": "neither",
+          "explanation": "Op de meeste wegen moet de snelheid naar 30km/u. De inrichting van de wegen moet daar dan wel bij passen. Op deze wegen moet je ook veilig kunnen fietsen."
+        },
+        "126349": {
+          "position": "neither",
+          "explanation": "Zorg moet betaalbaar en bereikbaar blijken. Als het mogelijk is wordt daarbij rekening gehouden met geloof, cultuur en levensovertuiging."
+        },
+        "126350": {
+          "position": "disagree",
+          "explanation": "Kwaliteit en continuïteit zijn belangrijker dan de prijs."
+        },
+        "126353": {
+          "position": "disagree",
+          "explanation": "De toeristenbelasting is recent verhoogd en moet gezien de btw verhoging niet nog verder verhoogd worden."
+        },
+        "126356": {
+          "position": "neither",
+          "explanation": "We volgen hier de landelijke richtlijnen."
+        },
+        "126361": {
+          "position": "neither",
+          "explanation": "We willen dat iedereen kan zwemmen, dus iedereen moet zwemles kunnen krijgen. Indien nodig met een bijdrage van de gemeente."
+        },
+        "126362": {
+          "position": "neither",
+          "explanation": "Er moet aandacht zijn voor Brabants cultureel erfgoed, waaronder het Brabantse dialect. Dit is uiteraard niet belangrijker dan aandacht voor rekenen en taal."
+        },
+        "126366": {
+          "position": "agree",
+          "explanation": "Het moet wel mogelijk zijn om kamers te verhuren in de woning waar je zelf woont. Er moeten in Waalre geen studentenwoningen gerealiseerd worden. Wel moeten er kleinere zelfstandige wooneenheden gerealiseerd worden voor starters etc."
+        },
+        "126369": {
+          "position": "neither",
+          "explanation": "De collectie moet wel beschikbaar blijven voor onze inwoners, maar hoeft niet perse altijd te zichtbaar te zijn."
+        },
+        "126371": {
+          "position": "disagree",
+          "explanation": "Meer geld is niet nodig. Er moet wel goed nagedacht worden over de planning van het onderhoud zodat overlast in de herfstmaanden beperkt wordt."
+        }
+      }
+    },
+    {
+      "id": 126302,
+      "name": "D66",
+      "fullName": "D66",
+      "website": "https://d66.nl/waalre/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "126312": {
+          "position": "neither",
+          "explanation": "Een gemengd bestuur neemt betere besluiten. Wij willen een gemeente waar ieders talent telt en iedereen zich thuis voelt."
+        },
+        "126313": {
+          "position": "agree",
+          "explanation": "Wij zien liever burgerberaden en vroegtijdige inspraak. Zo kunnen inwoners écht meepraten en ideeën aandragen voordat besluiten vastliggen, in plaats van alleen ja of nee stemmen achteraf."
+        },
+        "126316": {
+          "position": "agree",
+          "explanation": "Wij geven onze boeren de ruimte meer te doen met hun land, zeker als dit bijdraagt aan natuurinclusieve landbouw en groene recreatie."
+        },
+        "126317": {
+          "position": "agree",
+          "explanation": "Samen energie maken is de toekomst. Wij steunen groepen inwoners die dit doen, zo zorgen we dat de opbrengsten lokaal blijven."
+        },
+        "126320": {
+          "position": "agree",
+          "explanation": "Een goede werkgever zorgt ook voor een goede menswaardige woning. Als dit op eigen terrein kan, zorgt het niet voor minder woonrumte in Waalre."
+        },
+        "126322": {
+          "position": "agree",
+          "explanation": "Wij zetten in op bewustwording via stookalerts en de overstap naar schonere warmtebronnen. Een verbod gaat nog te ver, maar de luchtkwaliteit en gezondheid van onze inwoners staan voorop."
+        },
+        "126324": {
+          "position": "agree",
+          "explanation": "Een centrale, professionele vuurwerkshow of lichtshow is een veilig en feestelijk alternatief voor consumentenvuurwerk. Zo behouden we de traditie van samen vieren, maar met minder overlast en schade."
+        },
+        "126325": {
+          "position": "disagree",
+          "explanation": "Het is eerlijk als je betaalt voor je eigen afval. Dan scheiden mensen afval ook beter en gooien ze minder weg. Wel zorgen we ervoor dat de milieustraat toegankelijk blijft en kan tegen betaling (via Big Bags) afval aan huis opgehaald worden."
+        },
+        "126328": {
+          "position": "agree",
+          "explanation": "Wij staan open voor splitsing van boerderijen of kleinschalige bouw (bijv. knooperven). Het landschap moet hier wél beter van worden. We willen veel bouw in het buitengebied voorkomen. De kwaliteit staat voorop."
+        },
+        "126335": {
+          "position": "disagree",
+          "explanation": "Een veilig gevoel in de wijk is belangrijk. Voldoende wijkagenten en boa's, die zichtbaar en aanspreekbaar zijn voor inwoners. Zo blijft Waalre veilig met de mensen die we nu al hebben."
+        },
+        "126336": {
+          "position": "disagree",
+          "explanation": "In een dorp als Waalre is cameratoezicht nu niet nodig. Wij kiezen voor privacy en vrijheid. Veiligheid lossen we op door goed naar elkaar om te kijken, niet door overal camera's op te hangen."
+        },
+        "126338": {
+          "position": "disagree",
+          "explanation": "Een starterslening is een optie, maar wij kiezen een andere weg. Wij willen meer betaalbare (huur)woningen bouwen. Met meer woningen helpen we jongeren aan een eigen plek in Waalre."
+        },
+        "126341": {
+          "position": "disagree",
+          "explanation": "We willen in principe geen permanente bewoning in recreatieparken. Want we willen dat de kwaliteit van recreatie en natuur goed blijft. In noodgevallen zoeken we naar tijdelijke oplossingen."
+        },
+        "126342": {
+          "position": "disagree",
+          "explanation": "Wij zijn zuinig op het buitengebied en bouwen het liefst binnen het dorp, Inbreiding gaat voor uitbreiding. Maar dit is onvoldoende. De grotere woningbouwplannen die nodig zijn om het woningtekort op te lossen liggen tegen de dorpsgrenzen aan."
+        },
+        "126343": {
+          "position": "neither",
+          "explanation": "Wij geloven in kansen, niet in verplichtingen. Wij helpen mensen liever via scholing en begeleiding naar betaald werk dat bij hen past. Vrijwilligerswerk wordt wel gewaardeerd en gestimuleerd. Maar het moet een vrije keuze blijven. Anders kun je het ook niet 'vrijwillig' noemen."
+        },
+        "126347": {
+          "position": "neither",
+          "explanation": "Elektrisch rijden is de toekomst. Wij zorgen voor een dekkend netwerk van laadpalen in de openbare ruimte. Dan kunnen inwoners en bezoekers hun auto gemakkelijk opladen en wordt de luchtkwaliteit beter."
+        },
+        "126348": {
+          "position": "agree",
+          "explanation": "Veiligheid staat voorop. We willen dat 30 km/u de norm wordt in woonwijken. Dan wordt het veiliger voor fietsers, voetgangers en spelende kinderen. Er is dan ook minder geluidsoverlast en de lucht wordt schoner."
+        },
+        "126349": {
+          "position": "disagree",
+          "explanation": "Zorg moet primair gericht zijn op gezondheid en welzijn, ongeacht geloof, cultuur of levensovertuiging."
+        },
+        "126350": {
+          "position": "disagree",
+          "explanation": "Kwaliteit van zorg staat altijd op één. Bij kwetsbare kinderen mag de prijs niet het belangrijkst zijn. Wij investeren in goede jeugdhulp om ergere problemen te voorkomen."
+        },
+        "126353": {
+          "position": "agree",
+          "explanation": "Toeristen maken gebruik van onze voorzieningen en mooie omgeving. Het is eerlijk dat zij via toeristenbelasting een bijdrage leveren aan het onderhoud hiervan."
+        },
+        "126356": {
+          "position": "neither",
+          "explanation": "Statushouders hebben recht op een woning, net als andere woningzoekenden. Wij willen geen groepen tegen elkaar uitspelen, maar het woningtekort oplossen door sneller en meer (tijdelijke) woningen te bouwen voor iedereen."
+        },
+        "126361": {
+          "position": "disagree",
+          "explanation": "We vinden dat alle kinderen hun zwemdiploma moeten kunnen halen. Met bijvoorbeeld het Jeugdfonds Sport & Cultuur en de meedoenbijdrage als ouders dit niet zelf kunnen betalen."
+        },
+        "126362": {
+          "position": "disagree",
+          "explanation": "Taal en tradities horen bij wie we zijn. Als scholen zelf aandacht willen besteden aan het dialect, vinden wij dat een prima idee. Het verrijkt het onderwijs en zorgt voor verbinding met de regio. Maar het is niet aan de gemeente om dit onderwijs te betalen."
+        },
+        "126366": {
+          "position": "agree",
+          "explanation": "Wij willen overlast in woonwijken voorkomen en de leefbaarheid bewaken. 'Verkamering' via professionele verhuurders kan leiden tot o.a. parkeerdruk en geluidsoverlast."
+        },
+        "126369": {
+          "position": "agree",
+          "explanation": "Het verhaal van Waalre moet zichtbaar blijven. Dat kan op veel manieren: via kleine tentoonstellingen in het dorp, digitalisering of samenwerking met musea in de regio. Wij vinden het heel belangrijk dat het erfgoed van Waalre in de regio blijft, zodat het zijn waarde niet verliest."
+        },
+        "126371": {
+          "position": "agree",
+          "explanation": "Een groene gemeente verplicht tot goed onderhoud. Wij willen niet alleen meer groen aanplanten, maar ook zorgen dat het er netjes bij ligt. Dit vergroot het woongenot en de waardering voor onze mooie buitenruimte."
+        }
+      }
+    },
+    {
+      "id": 126303,
+      "name": "VVD",
+      "fullName": "Volkspartij voor Vrijheid en Democratie",
+      "website": "https://waalre.vvd.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "126312": {
+          "position": "disagree",
+          "explanation": "Voor een zelfstandige gemeente Waalre moet kwaliteit van de bestuurders voorop staan."
+        },
+        "126313": {
+          "position": "disagree",
+          "explanation": "Wij willen inwoners meer betrekken bij belangrijke besluitvorming zodat alle meningen gehoord worden, maar de uiteindelijke beslissing blijft bij de gekozen volksvertegenwoordigers in de gemeenteraad."
+        },
+        "126316": {
+          "position": "agree",
+          "explanation": "Wij willen minder beperkende regels voor ondernemers. Daarom staan we positief tegenover dergelijke initatieven, die ook bijdragen aan toerisme en recreatie en daarmee de transitie van het buitengebied."
+        },
+        "126317": {
+          "position": "disagree",
+          "explanation": "Dit vinden wij geen taak voor de gemeente. Voor coöperatieve energieopwekking kan bijvoorbeeld een beroep worden gedaan op de nationale subsidieregeling SCE."
+        },
+        "126320": {
+          "position": "disagree",
+          "explanation": "We hebben in Nederland goede (basis)regels voor huisvesting. Het gaat in Waalre hooguit om kleine aantallen, wij zien daarin geen reden voor afwijkend beleid."
+        },
+        "126322": {
+          "position": "agree",
+          "explanation": "VVD Aalst-Waalre is tegen een verbod op houtstook."
+        },
+        "126324": {
+          "position": "disagree",
+          "explanation": "Voor een kleine gemeente als Waalre is een vuurwerkshow, die aantrekkeljk genoeg is om mensen te trekken, te duur."
+        },
+        "126325": {
+          "position": "disagree",
+          "explanation": "Wij willen dat inwoners meer soorten afval binnen de gemeente Waalre kwijt kunnen. Maar het gratis ophalen van grofvuil zorgt voor een stijging van de afvalstoffenheffing en daarmee hogere lasten, ook voor mensen die hier geen gebruik van maken."
+        },
+        "126328": {
+          "position": "agree",
+          "explanation": "Wij willen ruimte bieden aan agrarische ondernemers voor woningbouw op hun eigen terrein bij beeindiging van hun bedrijf. Dit moet wel gebeuren binnen duidelijke regels. Geen wildgroei, maar maatwerk: kwaliteit boven kwantiteit."
+        },
+        "126335": {
+          "position": "agree",
+          "explanation": "VVD Aalst-Waalre wil meer boa's op straat en in het buitengebied, die overlast aanpakken en regels handhaven. Dit draagt bij aan een gevoel van veiligheid."
+        },
+        "126336": {
+          "position": "agree",
+          "explanation": "VVD Aalst-Waalre wil gericht camera's kunnen inzetten op plekken waar regelmatig sprake is van overlast of vernielingen. Cameratoezicht vergroot de pakkans en biedt monitoring op risicoplekken."
+        },
+        "126338": {
+          "position": "agree",
+          "explanation": "Juist in deze tijd, waarin starters en jonge gezinnen met de grootste moeite een betaalbare koopwoning kunnen vinden, is het belangrijk dat de gemeente hierbij een helpende hand kan bieden."
+        },
+        "126341": {
+          "position": "agree",
+          "explanation": "Het toestaan van bewoning van vakantiewoningen kan bijdragen aan verlichting van de woningnood. Het aanbod in Waalre is klein en overzichtelijk en daarmee is bewoning, via een tijdelijke ontheffing, ook handhaafbaar."
+        },
+        "126342": {
+          "position": "disagree",
+          "explanation": "Er is een grote vraag naar betaalbare woningen, in Aalst-Waalre en de omliggende Brainport regio. Wij willen daarom alle kansen voor woningbouw kunnen benutten en geen ontwikkelingen op voorhand uitsluiten."
+        },
+        "126343": {
+          "position": "agree",
+          "explanation": "De bijstand is een vangnet voor wie het echt nodig heeft. Het is belangrijk dat onze samenleving dat vangnet biedt, maar daar vragen wij ook een tegenprestatie voor. Daarmee lever je een bijdrage aan de maatschappij, je ontmoet nieuwe mensen en houdt regelmaat in je leven."
+        },
+        "126347": {
+          "position": "agree",
+          "explanation": "Wij willen zorgen voor verduurzaming van het wagenpark door elektrisch rijden te ondersteunen en te zorgen voor een ruim aanbod van openbare laadplekken. Iedereen moet zijn elektrische auto op loopafstand van zijn woning kunnen opladen."
+        },
+        "126348": {
+          "position": "disagree",
+          "explanation": "Waar een maximumsnelheid van 30 km/u geldt, moet effectief gehandhaafd worden. Omdat veel wegen daarvoor opnieuw ingericht moeten worden met bijbehorende kosten, willen wij 50 km/u blijven toestaan op doorgaande wegen waar dat veilig kan. Dat bevordert ook doorstroming en bereikbaarheid."
+        },
+        "126349": {
+          "position": "neither",
+          "explanation": "WIj vinden een passend aanbod van zorg geen verantwoordelijkheid van de gemeente, maar van de zorgverzekeringen."
+        },
+        "126350": {
+          "position": "disagree",
+          "explanation": "Efficient inzetten van gemeentelijke middelen betekent ook kijken naar kwaliteit. Wij willen dus niet alleen selecteren op prijs. Goedkoop wordt anders duurkoop."
+        },
+        "126353": {
+          "position": "disagree",
+          "explanation": "De toeristenbelasting in Waalre is de afgelopen jaren al fors verhoogd. Wij zien nu geen reden deze nog verder te verhogen."
+        },
+        "126356": {
+          "position": "disagree",
+          "explanation": "Sociale huurwoningen moeten als eerste beschikbaar komen voor inwoners van Aalst-Waalre of mensen met een vitaal maatschappelijk beroep, zoals agenten, verplegers en leraren. Wij willen de voorrangsregeling voor migranten met een verblijfsvergunning afschaffen."
+        },
+        "126361": {
+          "position": "disagree",
+          "explanation": "Wij zien het belang van schoolzwemmen, maar het ontbreken van een openbaar zwembad in Aalst-Waalre is een te grote hindernis om dit goed te kunnen organiseren."
+        },
+        "126362": {
+          "position": "disagree",
+          "explanation": "De gemeente bemoeit zich niet met de inhoud van het onderwijs programma. Basisscholen, die dat willen, kunnen zelf aandacht besteden aan het Brabants dialect, maar wij vinden dat de gemeente dit niet moet faciliteren."
+        },
+        "126366": {
+          "position": "disagree",
+          "explanation": "Wij vinden dat in deze tijd van grote woningnood kamerverhuur een middel kan zijn om extra woonruimte beschikbaar te krijgen. Een verbod kan hooguit nuttig zijn wanneer kamerverhuur leidt tot overlast, maar daar is naar onze mening in Waalre geen sprake van."
+        },
+        "126369": {
+          "position": "disagree",
+          "explanation": "Wij betreuren dat het Waalres Museum is gesloten, maar concluderen daaruit dat er kennelijk niet voldoende interesse bestond in de collectie. Wij vinden het dan ook niet wenselijk dat de gemeente hierin alsnog investeert."
+        },
+        "126371": {
+          "position": "disagree",
+          "explanation": "Wij zien meer waarde in goede samenwerking met inwoners dan in simpelweg meer geld uitgeven. Initiatieven van inwoners en organisaties om straat of wijk te vergroenen en onderhouden worden van harte ondersteund."
+        }
+      }
+    },
+    {
+      "id": 126305,
+      "name": "ZW14",
+      "fullName": "Zelfstandig Waalre 14",
+      "website": "https://zw14.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "126312": {
+          "position": "disagree",
+          "explanation": "De kwaliteit van de wethouders telt: liefst een lokale wethouder die met respect omgaat met tegengeluid. Zowel achter de schermen als in de openbaarheid. Een wethouder die ook luistert naar mensen die geen luide stem hebben. Een wethouder die onafhankelijk van ambtenaren durft te opereren."
+        },
+        "126313": {
+          "position": "agree",
+          "explanation": "Het is sterk afhankelijk van het onderwerp of het zinvol is en kan ook maar beperkt toegepast worden. Bij alle belangrijke onderwerpen moeten inwoners informatie krijgen over verschillende aspecten ervan. Openbare bijeenkomsten, waar geluisterd wordt, zijn daarom zeker zo belangrijk als een referendum."
+        },
+        "126316": {
+          "position": "neither",
+          "explanation": "Het is ongewenst dat overal een camping komt. Dat zou het landschap en mogelijk het woongenot van anderen te veel aantasten. Een kleine winkel met lokale boerenproducten zou wel overal toegestaan kunnen worden. De gemeente kan besluiten zelf zoveel mogelijk lokale producten te gebruiken."
+        },
+        "126317": {
+          "position": "disagree",
+          "explanation": "Voor duurzame energie bestaat er al subsidie zoals de teruggave van BTW. Door samenwerking worden de kosten lager en de opbrengsten hoger dus is financiële steun minder relevant. Wel kan de gemeente stimuleren dat lokaal kennis gedeeld wordt over samen energie opwekken en gebruiken."
+        },
+        "126320": {
+          "position": "disagree",
+          "explanation": "Deze situatie speelt niet meer in Waalre. Maar toen het wel speelde bij het steken van asperges was het op deze manier netjes geregeld."
+        },
+        "126322": {
+          "position": "agree",
+          "explanation": "Maar stoken van nat hout of stoken tijdens mist levert veel overlast. Dat is ongewenst. Deel kennis met inwoners over gewenst stookgedrag. Gebruik hiervoor informatie van de Stookwijzer van het Rijks Instituut Volksgezondheid en Milieu."
+        },
+        "126324": {
+          "position": "disagree",
+          "explanation": "Als veel inwoners de wens hiervoor uitspreken, ook als de kosten bekend zijn, dan kan via een motie aan het college B&W gevraagd worden om een centrale vuurwerkshow te organiseren, zoals in Voorschoten is gedaan. Tot op heden zijn die wensen niet geuit door inwoners."
+        },
+        "126325": {
+          "position": "neither",
+          "explanation": "Het tarief voor het storten van grofvuil in Veldhoven is beperkt en ophalen binnen Waalre is ook mogelijk tegen beperkte kosten. Er zijn geen problemen bekend met het illegaal storten van grofvuil."
+        },
+        "126328": {
+          "position": "disagree",
+          "explanation": "Ongebreidelde verstedelijking van het platteland is ongewenst. Elke akker kan op deze manier een landgoed worden dat daarna ontoegankelijk en onzichtbaar is voor de dorpsbewoners. (Pre-)mantelzorgwoningen moeten in het buitengebied gewoon mogelijk zijn, net zoals binnen de bebouwde kom."
+        },
+        "126335": {
+          "position": "neither",
+          "explanation": "Vooralsnog is er geen behoefte aan uitbreiding van het aantal handhavers. Wel zou het fijn zijn als zij meer met de fiets gaan i.p.v. met de auto. Op de fiets herken je hen gemakkelijker en kun je hen aanspreken. Het is mooi dat ook de lokale krant De Schakel bekendheid geeft aan de BOA’s."
+        },
+        "126336": {
+          "position": "disagree",
+          "explanation": "ZW14 ziet weinig toegevoegde waarde in meer cameratoezicht. Inwoners kunnen zelf ook bijdragen hieraan met bijvoorbeeld videodeurbellen en veiligheidscamera’s en actieve buurtapps."
+        },
+        "126338": {
+          "position": "agree",
+          "explanation": "Een starterslening kan bij nieuwbouwhuizen nuttig zijn. Praktijkervaring leert dat voor bestaande huizen het lastig is en veel extra kosten met zich meebrengt. Belangrijker is om starterswoningen op te nemen in nieuwbouwplannen en te zorgen dat deze voor starters en eigen inwoners behouden blijven."
+        },
+        "126341": {
+          "position": "neither",
+          "explanation": "Er zijn weinig vakantiewoningen in Waalre en die zouden vakantiewoning moeten blijven. Onder voorwaarden kan het gebruikt worden als woonadres."
+        },
+        "126342": {
+          "position": "neither",
+          "explanation": "Behoud het groene karakter van Waalre door niet alles vol te bouwen. Kijk dan eerder naar alternatieven zoals meer kleine woontorens, die passen bij Waalre en eventueel langs de snelwegen beperkt hoogbouw. En ga bestaande stenen beter benutten, door woningsplitsing, gedeeltelijke verhuur etc."
+        },
+        "126343": {
+          "position": "agree",
+          "explanation": "Uiteraard betreft dit alleen mensen met een bijstandsuitkering die daartoe in staat zijn. Als maatschappelijk werk niet direct past bij iemand of hij/zij er niet direct geschikt voor is kan de gemeente een leertraject daarvoor organiseren."
+        },
+        "126347": {
+          "position": "disagree",
+          "explanation": "Het is prima als er meer oplaadplekken voor elektrische auto’s komen, maar ook niet-elektrische auto’s moeten daar kunnen parkeren. ZW14 wil aanleg van kabelgoten en eigen laadpalen bij inwoners stimuleren, zodat teveel opgewekte energie ook door anderen gebruikt kan worden."
+        },
+        "126348": {
+          "position": "disagree",
+          "explanation": "Het verdient de voorkeur als iedereen binnen de bebouwde kom maximaal 30 km/uur rijdt, maar dat is niet realistisch. Wel dient op wegvlakken waar 30 km/uur geldt -zeker rond scholen-, streng gehandhaafd te worden. Op termijn moeten alle 30 km wegen een inrichting hebben die rustig rijden afdwingt."
+        },
+        "126349": {
+          "position": "disagree",
+          "explanation": "Zorgmedewerkers zijn opgeleid om met vele verschillende mensen te kunnen omgaan. Het is ongewenst als hier een segregatie in gaat ontstaan. ZW14 wil ook het aantal zorgverleners terugbrengen, zodat een betere controle op kwaliteit/effectiviteit en prijs mogelijk is."
+        },
+        "126350": {
+          "position": "disagree",
+          "explanation": "De gemeente moet uiteraard kritisch kijken naar de prijs, maar de effectiviteit /kwaliteit is het belangrijkste. Organisaties met veel overhead of ongepaste winsten dienen geweerd te worden. Ook het aantal organisaties voor jeugdhulp dient beperkt te worden, zodat een betere controle mogelijk is."
+        },
+        "126353": {
+          "position": "neither",
+          "explanation": "Waalre laat de toeristenbelasting gelijklopen met die van Eindhoven. Op dit moment betalen kleine accommodaties, zoals Bed&Breakfast niet voor elke persoon die overnacht en in Eindhoven wel. Dat moet dus ook gelijk getrokken worden, waardoor de opbrengsten iets zullen toenemen."
+        },
+        "126356": {
+          "position": "disagree",
+          "explanation": "De gemeente moet wettelijk aan een aantal vluchtelingen met verblijfsvergunning (‘statushouders’) een woning toewijzen. Dit is een klein deel van de sociale huurwoningen die vrijkomen. Passend toewijzen is belangrijk gezien de woningnood: dus geen gezinswoningen voor alleenstaande statushouders!"
+        },
+        "126361": {
+          "position": "agree",
+          "explanation": "Het behalen van een zwemdiploma kost veel geld en kan voor ouders lastig zijn om te organiseren. Helaas hebben daardoor steeds meer kinderen in ons waterland geen zwemdiploma. Het zou goed zijn om na te gaan of scholen bij de oplossing hiervan een rol kunnen spelen."
+        },
+        "126362": {
+          "position": "agree",
+          "explanation": "Het Brabantse dialect is onderdeel van onze cultuur. Aandacht voor cultuur inclusief het Brabantse dialect zien wij als waardevol. ''Niks mis mi''."
+        },
+        "126366": {
+          "position": "disagree",
+          "explanation": "ZW14 wil juist dat er meer woonruimtes op deze manier beschikbaar komen voor bewoning mits in beheersbare aantallen. Op een bepaald moment in iemands wooncarrière kan dit prima passen. Wel moet voorkomen worden dat hele straten ‘verkamerd’ worden en gelden maximale sociale huurprijzen."
+        },
+        "126369": {
+          "position": "disagree",
+          "explanation": "Helaas is er onvoldoende belangstelling voor de collectie van het Waalres Museum waardoor het museum niet levensvatbaar bleek."
+        },
+        "126371": {
+          "position": "neither",
+          "explanation": "Waalre heeft een onderhoudsplan voor groen inclusief voldoende financiele middelen. Bij reconstructies van wegen en wijken wordt meer groen aangelegd om hittestress tegen te gaan en regenwater langer vast te houden. Er is dus al meer aandacht (en dus meer geld) voor groen beschikbaar."
+        }
+      }
+    }
+  ],
+  "statements": [
+    {
+      "id": 126369,
+      "index": 1,
+      "theme": "Waalre Museum",
+      "themeId": "waalres-museum",
+      "title": "The Waalre Museum's collection should always remain on display for residents.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126324,
+      "index": 2,
+      "theme": "Fireworks",
+      "themeId": "vuurwerk",
+      "title": "The municipality should organize a fireworks show on New Year's Eve.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126342,
+      "index": 3,
+      "theme": "Housing construction",
+      "themeId": "woningbouw",
+      "title": "The municipality should prevent new construction outside existing village boundaries.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126312,
+      "index": 4,
+      "theme": "Mayor and municipal executive",
+      "themeId": "burgemeester-en-college",
+      "title": "The new college of mayor and aldermen must have an equal number of men and women.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126322,
+      "index": 5,
+      "theme": "Wood burning",
+      "themeId": "houtstook",
+      "title": "In Waalre the use of open fireplaces and wood stoves should remain allowed.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126320,
+      "index": 6,
+      "theme": "Housing for foreign workers",
+      "themeId": "huisvesting-buitenlandse-werknemers",
+      "title": "Employers in agriculture and horticulture should provide housing for seasonal workers on their own premises.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126317,
+      "index": 7,
+      "theme": "Sustainable energy",
+      "themeId": "duurzame-energie",
+      "title": "Residents who want to generate sustainable energy together should receive financial support from the municipality.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126335,
+      "index": 8,
+      "theme": "Enforcement officers",
+      "themeId": "handhavers",
+      "title": "Waalre should have more municipal enforcement officers (BOAs) who focus on safety.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126347,
+      "index": 9,
+      "theme": "Electric vehicle charging stations",
+      "themeId": "elektrische-laadpalen",
+      "title": "The municipality should designate more parking spaces as charging points for electric cars.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126313,
+      "index": 10,
+      "theme": "Referendum",
+      "themeId": "referendum",
+      "title": "Residents of Waalre should be able to express their opinion on important issues via a referendum.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126353,
+      "index": 11,
+      "theme": "Tourist tax",
+      "themeId": "toeristenbelasting",
+      "title": "The tourist tax should be increased.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126325,
+      "index": 12,
+      "theme": "Bulky waste",
+      "themeId": "grofvuil",
+      "title": "Bulky waste must be collected from homes free of charge.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126336,
+      "index": 13,
+      "theme": "Camera surveillance",
+      "themeId": "cameratoezicht",
+      "title": "There should be more camera surveillance in Waalre.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126328,
+      "index": 14,
+      "theme": "Building on agricultural land",
+      "themeId": "bouwen-op-landbouwgrond",
+      "title": "It should be possible for farmers to build houses themselves on their land.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126348,
+      "index": 15,
+      "theme": "Car speeds",
+      "themeId": "snelheid-auto-s",
+      "title": "The maximum speed limit in built-up areas should be set to 30 km/h.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126338,
+      "index": 16,
+      "theme": "Starter loan",
+      "themeId": "starterslening",
+      "title": "First-time homebuyers should be able to receive a starter loan from the municipality.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126356,
+      "index": 17,
+      "theme": "Priority for refugees",
+      "themeId": "voorrang-voor-vluchtelingen",
+      "title": "The municipality should give refugees with a residence permit priority for social housing.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126316,
+      "index": 18,
+      "theme": "Farm campsites",
+      "themeId": "boerencampings",
+      "title": "The municipality should always allow farmers to open, for example, a shop or a campsite at their farm.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126366,
+      "index": 19,
+      "theme": "Subdivision into multiple rooms",
+      "themeId": "verkamering",
+      "title": "The municipality must prohibit landlords from renting out separate rooms instead of whole houses.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126343,
+      "index": 20,
+      "theme": "Work requirement for welfare recipients",
+      "themeId": "tegenprestatie-voor-uitkering",
+      "title": "People receiving social assistance should, in return, do socially useful work.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126349,
+      "index": 21,
+      "theme": "Choice of healthcare",
+      "themeId": "zorgkeuze",
+      "title": "People who need care should always be able to choose a caregiver who matches their religion, culture, or beliefs.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126361,
+      "index": 22,
+      "theme": "School swimming",
+      "themeId": "schoolzwemmen",
+      "title": "The municipality should allocate money for school swimming.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126341,
+      "index": 23,
+      "theme": "Holiday homes",
+      "themeId": "vakantiewoningen",
+      "title": "The municipality must allow holiday homes to be used as a permanent residence.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126362,
+      "index": 24,
+      "theme": "Regional language",
+      "themeId": "streektaal",
+      "title": "The municipality must make it possible for all primary schools to include attention to the Brabant dialect.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126350,
+      "index": 25,
+      "theme": "Youth care",
+      "themeId": "jeugdzorg",
+      "title": "When selecting organizations for youth care, the municipality should primarily pay attention to price.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 126371,
+      "index": 26,
+      "theme": "Maintenance of green spaces",
+      "themeId": "groen-onderhoud",
+      "title": "Waalre should spend more money on maintaining green spaces in the municipality.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    }
+  ]
+}

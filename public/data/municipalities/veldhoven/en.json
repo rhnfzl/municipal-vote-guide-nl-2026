@@ -1,0 +1,1379 @@
+{
+  "id": "GM0861",
+  "name": "Veldhoven",
+  "slug": "veldhoven",
+  "parties": [
+    {
+      "id": 125501,
+      "name": "Hart voor Veldhoven",
+      "fullName": "Hart voor Veldhoven",
+      "website": "https://hartvoorveldhoven.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "125521": {
+          "position": "disagree",
+          "explanation": "We kiezen de beste mensen op basis van kwaliteit en betrokkenheid, niet op basis van geslacht. Diversiteit is belangrijk, maar dwang past niet bij ons."
+        },
+        "125522": {
+          "position": "agree",
+          "explanation": "We staan midden in de samenleving en luisteren naar onze inwoners. Bij belangrijke beslissingen moet de stem van Veldhovenaren gehoord worden."
+        },
+        "125525": {
+          "position": "agree",
+          "explanation": "We staan kleinschalige bedrijvigheid toe en denken in mogelijkheden. Boeren moeten kunnen ondernemen, met respect voor de omgeving."
+        },
+        "125529": {
+          "position": "agree",
+          "explanation": "Werkgevers die arbeidskrachten aantrekken, hebben ook verantwoordelijkheid voor hun huisvesting. Dit ontlast de woningmarkt."
+        },
+        "125530": {
+          "position": "agree",
+          "explanation": "Bomen willen we beter beschermen met een duidelijk plan. De gemeente geeft het goede voorbeeld door onnodige bomenkap te voorkomen."
+        },
+        "125531": {
+          "position": "agree",
+          "explanation": "We vertrouwen op eigen verantwoordelijkheid van inwoners. Verbieden past niet bij onze pragmatische aanpak."
+        },
+        "125535": {
+          "position": "disagree",
+          "explanation": "Evenementen bevorderen levendigheid en kunnen rekenen op onze steun. We faciliteren organisatoren in plaats van ze te beperken."
+        },
+        "125537": {
+          "position": "disagree",
+          "explanation": "We bouwen veel, maar op de juiste plekken. Verspreide woningbouw op landbouwgrond past niet bij behoud van ons groene karakter."
+        },
+        "125540": {
+          "position": "agree",
+          "explanation": "Goed onderwijs verdient goede faciliteiten. Schoolgebouwen moeten goed onderhouden worden en ook dienen als ontmoetingsplek."
+        },
+        "125544": {
+          "position": "disagree",
+          "explanation": "Veiligheid is belangrijk, maar meer BOA's is niet automatisch de oplossing. We zetten in op buurtpreventie en betrokkenheid."
+        },
+        "125545": {
+          "position": "disagree",
+          "explanation": "Een oplettende buurt is een veilige buurt. We vertrouwen op buurtpreventie en actieve betrokkenheid in plaats van extra camera's."
+        },
+        "125547": {
+          "position": "agree",
+          "explanation": "Veldhovense jongeren moeten hier kunnen blijven wonen. Lokale binding is belangrijk en gezinnen moeten bij elkaar kunnen blijven."
+        },
+        "125549": {
+          "position": "agree",
+          "explanation": "De woningnood is enorm. Als mensen in een vakantiewoning willen wonen zonder overlast, moeten we dit toestaan. Pragmatisme boven bureaucratie."
+        },
+        "125550": {
+          "position": "neither",
+          "explanation": "We moeten veel bouwen, maar op de juiste plekken. Dit vraagt maatwerk per situatie, met behoud van ons groene karakter."
+        },
+        "125553": {
+          "position": "disagree",
+          "explanation": "We bieden maatwerk aan kwetsbare inwoners, maar verhogen van grenzen betekent hogere kosten voor alle inwoners. Balans is belangrijk."
+        },
+        "125555": {
+          "position": "disagree",
+          "explanation": "Onlangs zijn er al nieuwe plekken aangewezen aan aangelegd om Veldhoven klaar te maken voor de toekomst. Op dit moment zien we geen aanleiding om meer parkeerplaatsen aan te wijzen."
+        },
+        "125556": {
+          "position": "disagree",
+          "explanation": "Verkeersveiligheid staat voorop, maar 30 km/u overal is te rigide. We kiezen voor maatwerk per wijk en situatie."
+        },
+        "125557": {
+          "position": "disagree",
+          "explanation": "Passende zorg is belangrijk, maar volledige keuzevrijheid altijd garanderen is niet realistisch. Kwaliteit van zorg staat voorop."
+        },
+        "125560": {
+          "position": "agree",
+          "explanation": "We houden lokale lasten zo laag mogelijk. Hondenvoorzieningen betalen we als collectief, net als andere voorzieningen, zonder aparte belasting voor één groep."
+        },
+        "125563": {
+          "position": "agree",
+          "explanation": "Een levendig Veldhoven vereist flexibiliteit. Ondernemers moeten zelf kunnen bepalen wanneer ze open willen zijn."
+        },
+        "125564": {
+          "position": "neither",
+          "explanation": "We voldoen aan onze maatschappelijke verantwoordelijkheid en zijn hierbij gebonden aan landelijke wetgeving. Dit is geen keuze voor de gemeente."
+        },
+        "125566": {
+          "position": "disagree",
+          "explanation": "We investeren in duurzaamheid. Zonnepanelen op landbouwgrond kunnen onder voorwaarden bijdragen aan energietransitie zonder groen te schaden."
+        },
+        "125567": {
+          "position": "disagree",
+          "explanation": "De bibliotheek is waardevol en is onlangs vernieuwd. We onderhouden wat we hebben en zoeken naar slimme oplossingen."
+        },
+        "125569": {
+          "position": "disagree",
+          "explanation": "Zwemmen is belangrijk, maar dit is primair een taak voor ouders. Als vangnet kan er een beroep worden gedaan op Stichting Leergeld."
+        },
+        "125571": {
+          "position": "disagree",
+          "explanation": "Dit past niet bij het karakter van Veldhoven als gezinsvriendelijke gemeente. We zien geen meerwaarde voor onze inwoners."
+        },
+        "125575": {
+          "position": "agree",
+          "explanation": "In elke wijk willen we een ontmoetingsplek waar mensen elkaar zien, spreken en helpen. Schoolgebouwen, sportaccommodaties en wijkcentra kunnen hiervoor gebruikt worden."
+        },
+        "125576": {
+          "position": "disagree",
+          "explanation": "Gratis twee uur parkeren willen we behouden. Een toegankelijk centrum is belangrijk voor inwoners en ondernemers."
+        },
+        "125577": {
+          "position": "disagree",
+          "explanation": "Er zijn nu voldoende plekken. Bij transformatie komen er extra waar nodig, maar de focus ligt op voetgangers, fietsers en openbaar vervoer stimuleren."
+        },
+        "125579": {
+          "position": "neither",
+          "explanation": "We luisteren naar inwoners en zoeken maatwerk, maar woningnood is urgent. Goede betrokkenheid vooraf, daadkracht wanneer nodig."
+        },
+        "125580": {
+          "position": "agree",
+          "explanation": "Fietsers en voetgangers krijgen voorrang in wijken. We vergroten de fietsenstalling en zorgen voor veilige routes."
+        }
+      }
+    },
+    {
+      "id": 125502,
+      "name": "GBV",
+      "fullName": "Gemeente Belangen Veldhoven",
+      "website": "https://gbveldhoven.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "125521": {
+          "position": "disagree",
+          "explanation": "Voor GBV staat kwaliteit van de persoon op één. Wij kijken naar de geschiktheid van de kandidaat-wethouder, ongeacht het geslacht. Een evenwichtige verdeling is een mooi streven, maar mag geen verplichte eis zijn."
+        },
+        "125522": {
+          "position": "disagree",
+          "explanation": "GBV wil inwoners actief betrekken, maar niet via een referendum. Complexe plannen, zeker over de inrichting van de Veldhovense leefomgeving, zijn ongeschikt voor een simpel 'ja' of 'nee'. Wij kiezen voor participatievormen met meer ruimte voor nuance en dialoog."
+        },
+        "125525": {
+          "position": "disagree",
+          "explanation": "GBV is positief over ondernemerschap en nevenactiviteiten bij boerenbedrijven als dit past in de omgeving. We willen ondernemers de ruimte geven, maar het woord 'altijd' gaat ons te ver. Per situatie wordt bekeken wat mogelijk is."
+        },
+        "125529": {
+          "position": "agree",
+          "explanation": "Huisvesting van seizoensarbeiders in de land- en tuinbouw op het eigen bedrijfsterrein is een goed idee. Voorwaarde is wel dat de huisvesting veilig en van goede kwaliteit is."
+        },
+        "125530": {
+          "position": "agree",
+          "explanation": "GBV koestert het Veldhovense groen en is voorstander van een balans waarbij bomen zoveel mogelijk worden behouden. Als een boom toch gekapt wordt dan moet deze wat GBV betreft worden gecompenseerd."
+        },
+        "125531": {
+          "position": "agree",
+          "explanation": "GBV wil geen verbod op houtkachels. Wel kan de gemeente in het kader van een goede luchtkwaliteit tools als de Stookwijzer actiever promoten om overlast te voorkomen."
+        },
+        "125535": {
+          "position": "disagree",
+          "explanation": "Veldhoven heeft al regels voor geluid bij evenementen, zoals de kermis. Strengere regels zijn voor GBV niet nodig; wel een adequate handhaving van die regels."
+        },
+        "125537": {
+          "position": "agree",
+          "explanation": "GBV steunt dit alleen als de omgevingskwaliteit verbetert. Bijvoorbeeld door oude stallen te slopen of nieuwe natuur aan te leggen."
+        },
+        "125540": {
+          "position": "disagree",
+          "explanation": "GBV vindt dat elk kind recht heeft op een goed schoolgebouw dichtbij huis. Alle scholen in vier jaar tijd aanpakken is financieel onhaalbaar. Bovendien is er bij een aantal scholen geen noodzaak omdat deze gebouwen relatief nieuw zijn."
+        },
+        "125544": {
+          "position": "agree",
+          "explanation": "Om overlast in de Veldhovense woonwijken op een effectieve manier aan te pakken, wil GBV dat er meer geïnvesteerd wordt in boa’s. Dit draagt bij aan een meer leefbare buurt."
+        },
+        "125545": {
+          "position": "agree",
+          "explanation": "GBV vindt voorkomen beter dan genezen, maar praten alleen lost overlast niet op. Daarom wil GBV investeren in meer boa's en cameratoezicht op straat om problemen met overlast direct aan te pakken."
+        },
+        "125547": {
+          "position": "agree",
+          "explanation": "Veldhovense jongeren verdienen een eerlijke kans op een woning in onze gemeente. GBV wil een onderzoek naar hoe we de kansen voor onze starters op de woningmarkt concreet kunnen vergroten, waarin voorrang voor eigen inwoners als serieuze mogelijkheid wordt meegenomen."
+        },
+        "125549": {
+          "position": "neither",
+          "explanation": "Er spelen landelijke ontwikkelingen rondom permanente bewoning op recreatieparken. GBV wil de uitwerking vanuit Den Haag eerst afwachten. Daarna bepalen we wat wenselijk en haalbaar is voor Veldhoven."
+        },
+        "125550": {
+          "position": "agree",
+          "explanation": "GBV wil snel meer woningen, maar mét behoud van het dorpse karakter in de 4 kerkdorpen. Daarom bouwen we binnen de bebouwde kom: bijvoorbeeld langs de stedelijke as, in het City Centrum en op de Run"
+        },
+        "125553": {
+          "position": "neither",
+          "explanation": "GBV focust liever op het bereiken van inwoners die nu al recht hebben op inkomensondersteuning, maar de regelingen niet benutten. Dit gebeurt nog té vaak. We zetten in op betere voorlichting en vroegsignalering om schulden te voorkomen, in plaats van alleen de inkomensgrens te verhogen."
+        },
+        "125555": {
+          "position": "disagree",
+          "explanation": "De gemeente moet kijken wat per buurt nodig is. Nu worden soms laadpalen geplaatst waar ze weinig worden gebruikt. GBV wil maatwerk. Wij willen dat Veldhovenaren hun elektrische auto met eigen stroom kunnen laden, bijvoorbeeld met kabelgoottegels."
+        },
+        "125556": {
+          "position": "disagree",
+          "explanation": "GBV is tegen een algemene verlaging naar 30 km/u. GBV handhaaft daarom 70 km/u op de Kempenbaan en Heerbaan, en 50 km/u op verbindingswegen met vrijliggend fietspad zoals de Sondervick, Provincialeweg, Dorpstraat, Sterrenlaan en Burgemeester van Hoofflaan."
+        },
+        "125557": {
+          "position": "agree",
+          "explanation": "GBV vindt dat inwoners zoveel mogelijk keuzevrijheid moeten hebben binnen de mogelijkheden die er zijn."
+        },
+        "125560": {
+          "position": "agree",
+          "explanation": "De hondenbelasting is fors verlaagd (2024: € 95,94 → 2025: € 50,00 per hond) en wordt gebruikt voor onder andere uitlaatterreinen en handhaving. GBV vindt dat dit basisvoorzieningen zijn en wil daarom de hondenbelasting afschaffen."
+        },
+        "125563": {
+          "position": "agree",
+          "explanation": "In principe is GBV voor méér koopzondagen. Wel vinden we dat dit in goed overleg met de ondernemers moet worden bepaald. Draagvlak bij de middenstand is voor ons belangrijk."
+        },
+        "125564": {
+          "position": "disagree",
+          "explanation": "In principe wil GBV af van de voorrangsregeling. Dit is echter pas haalbaar als de taakstelling vanuit het Rijk minder dwingend wordt. Een versoepeling vanuit Den Haag is hiervoor dus noodzakelijk."
+        },
+        "125566": {
+          "position": "disagree",
+          "explanation": "GBV volgt de zonneladder. Dat betekent: eerst zonnepanelen op daken, terreinen en objecten. Pas als dat onvoldoende is, komt landbouwgrond in beeld. Wij willen dit niet vooraf verbieden, maar wel als laatste optie bewaren."
+        },
+        "125567": {
+          "position": "agree",
+          "explanation": "De huidige huisvesting van de bibliotheek is toe aan vervanging of renovatie. Wat GBV betreft verdient de bibliotheek een plaats in een nieuw te ontwikkelen culturele hotspot in het centrum, waarover het in de afgelopen jaren veel is gegaan."
+        },
+        "125569": {
+          "position": "agree",
+          "explanation": "GBV wil geld voor schoolzwemmen beschikbaar stellen, mits de scholen bereid zijn dit weer te organiseren."
+        },
+        "125571": {
+          "position": "disagree",
+          "explanation": "GBV ziet geen noodzaak voor de vestiging van een coffeeshop in Veldhoven."
+        },
+        "125575": {
+          "position": "agree",
+          "explanation": "GBV vindt dat er in Veldhovense wijken ruimte is voor herkenbare ontmoetingsplekken en toekomstbestendige gemeenschapshuizen, passend bij de behoefte die er in de wijk is."
+        },
+        "125576": {
+          "position": "disagree",
+          "explanation": "GBV is tegen het duurder maken van parkeren in het centrum. Met de blauwe zone en de eerste 2 uur gratis parkeren blijft het City Centrum bereikbaar en aantrekkelijk voor bezoekers én ondernemers."
+        },
+        "125577": {
+          "position": "agree",
+          "explanation": "Meer woningen betekent simpelweg meer auto's. GBV is realistisch: de auto blijft belangrijk. Bij 1000 nieuwe woningen moet de parkeercapaciteit daarom evenredig meegroeien om parkeerchaos te voorkomen."
+        },
+        "125579": {
+          "position": "neither",
+          "explanation": "Inwoners moeten zo vroeg mogelijk worden betrokken bij bouwplannen. De gemeente moet erop toezien dat dit ook echt gebeurt. Maar er mogen geen valse verwachtingen ontstaan. Meedenken is niet hetzelfde als meebeslissen. GBV wil dat er sneller, meer woningen worden gebouwd in Veldhoven."
+        },
+        "125580": {
+          "position": "agree",
+          "explanation": "De gemeente moet wandelen en fietsen meer stimuleren. Dat begint met veilige stoepen en fietspaden. Op sommige plekken ontbreekt een goed voetpad of is het fietspad slecht. Daarom wil GBV extra geld voor onderhoud en veilige routes."
+        }
+      }
+    },
+    {
+      "id": 125503,
+      "name": "VVD",
+      "fullName": "Volkspartij voor Vrijheid en Democratie",
+      "website": "https://www.vvd.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "125521": {
+          "position": "disagree",
+          "explanation": "Kwaliteit en ervaring zijn belangrijker."
+        },
+        "125522": {
+          "position": "disagree",
+          "explanation": "De gemeenteraad is democratisch gekozen om besluiten te nemen."
+        },
+        "125525": {
+          "position": "agree",
+          "explanation": "Ondernemerschap moet volgens De Veldhovense VVD de ruimte krijgen."
+        },
+        "125529": {
+          "position": "neither",
+          "explanation": "Dit is niet echt een issue in Veldhoven."
+        },
+        "125530": {
+          "position": "neither",
+          "explanation": "In openbaar gebied moet dit gebeuren waar mogelijk is, maar we willen dit op particulier terrein zeker niet gaan verplichten."
+        },
+        "125531": {
+          "position": "agree",
+          "explanation": "De Veldhovense VVD is voor keuzevrijheid, mits geen overlast."
+        },
+        "125535": {
+          "position": "disagree",
+          "explanation": "Evenementen brengen leven en gezelligheid in Veldhoven. Ze zorgen voor ontmoeting, versterken onze verenigingen en leveren ook nog economische voordelen op voor horeca en winkels."
+        },
+        "125537": {
+          "position": "agree",
+          "explanation": "De Veldhovense VVD is van mening dat er flexibel om moet worden gegaan met ruimtegebruik."
+        },
+        "125540": {
+          "position": "agree",
+          "explanation": "Goed onderwijs verdient goede huisvesting. Dit is ook al gepland."
+        },
+        "125544": {
+          "position": "agree",
+          "explanation": "We vinden het belangrijk dat de politie en buitengewone opsporingsambtenaren (BOA’s) zichtbaar zijn op straat. De afdeling toezicht en handhaving ziet toe op naleving van regels. Dit kan gaan om verkeerd geparkeerde auto’s of jeugd die tot overlast is."
+        },
+        "125545": {
+          "position": "neither",
+          "explanation": "Alleen als het aantoonbaar bijdraagt aan veiligheid en preventie."
+        },
+        "125547": {
+          "position": "agree",
+          "explanation": "Wij vinden dat inwoners van onze gemeente voorrang moeten krijgen op nieuwbouwwoningen. Veel mensen die hier al wonen, kunnen geen betaalbaar huis vinden. Ze moeten noodgedwongen weg uit Veldhoven, terwijl hun werk, familie en vrienden hier zijn."
+        },
+        "125549": {
+          "position": "agree",
+          "explanation": "Ook Veldhoven kent helaas een groot tekort aan woningen. Dit is onder meer te zien aan de vele mensen die op vakantieparken (moeten) wonen. Het mogelijk maken van permanente bewoning op vakantieparken kan bijdragen aan het deels oplossen van het woningtekort op dit moment."
+        },
+        "125550": {
+          "position": "disagree",
+          "explanation": "Dit is, waar mogelijk, nodig om de krapte op de woningmarkt aan te pakken."
+        },
+        "125553": {
+          "position": "neither",
+          "explanation": "Wij willen mensen in armoede gericht helpen, maar geen generiek beleid."
+        },
+        "125555": {
+          "position": "agree",
+          "explanation": "Faciliteren van verduurzaming."
+        },
+        "125556": {
+          "position": "disagree",
+          "explanation": "De Veldhovense VVD wil veilige straten, zeker in woonwijken. Daar is 30 km/u vaak goed. Maar op doorgaande wegen binnen Veldhoven wil de Veldhovense VVD 50 km/u of 70 km/u behouden. Zo blijft het verkeer doorrijden en blijft Veldhoven goed bereikbaar. Dus niet overal 30, maar maatwerk per straat."
+        },
+        "125557": {
+          "position": "agree",
+          "explanation": "Persoonlijke keuze staat centraal."
+        },
+        "125560": {
+          "position": "agree",
+          "explanation": "Hondenbelasting is een oneerlijke belasting, aangezien je ook geen belasting betaalt voor bijvoorbeeld een kat. Om die reden hebben veel gemeenten de hondenbelasting reeds afgeschaft."
+        },
+        "125563": {
+          "position": "agree",
+          "explanation": "Keuzevrijheid voor ondernemers en consumenten. Waar kan ook soepeler omgaan met winkeltijden op zondagen."
+        },
+        "125564": {
+          "position": "disagree",
+          "explanation": "Niet mee eens. Wat ons betreft krijgen Veldhovenaren zelf voorrang."
+        },
+        "125566": {
+          "position": "agree",
+          "explanation": "Eerst daken van woningen en bedrijfsgebouwen vol leggen. Op landbouwgrond kunnen uiteindelijk woningen worden gebouwd."
+        },
+        "125567": {
+          "position": "agree",
+          "explanation": "De bibliotheek moet een culturele hotspot worden als onder andere ontmoetingsplek en kenniscentrum."
+        },
+        "125569": {
+          "position": "agree",
+          "explanation": "Veiligheid van onze kinderen staat voorop."
+        },
+        "125571": {
+          "position": "disagree",
+          "explanation": "Niet mee eens."
+        },
+        "125575": {
+          "position": "disagree",
+          "explanation": "Niet overal nodig of haalbaar. We moeten eerst zorgen dat de bestaande dorpscentra en buurthuizen kunnen blijven bestaan."
+        },
+        "125576": {
+          "position": "disagree",
+          "explanation": "De Veldhovense VVD hecht veel waarde aan goede bereikbaarheid van het Citycentrum voor zowel inwoners, ondernemers als bezoekers. Gratis parkeren in het centrum moet wat ons betreft dus ook gratis blijven."
+        },
+        "125577": {
+          "position": "agree",
+          "explanation": "De Veldhovense VVD hecht veel waarde aan goede bereikbaarheid van het Citycentrum voor zowel inwoners, ondernemers als bezoekers. Minder parkeerplekken kunnen leiden tot minder bezoekers en schade aan de lokale economie."
+        },
+        "125579": {
+          "position": "disagree",
+          "explanation": "Inwoners moeten kunnen meepraten over woningbouw. De gemeente Veldhoven moet luisteren naar inwoners. Maar we hebben snel nieuwe huizen nodig, dus mag het niet teveel extra tijd in beslag nemen, zodat bouwplannen geen vertraging oplopen. Op dit moment hebben we al een uitgebreid participatieproces."
+        },
+        "125580": {
+          "position": "agree",
+          "explanation": "Gezond, duurzaam en aantrekkelijk."
+        }
+      }
+    },
+    {
+      "id": 125504,
+      "name": "GroenLinks-PvdA",
+      "fullName": "Groenlinks - Partij van de Arbeid",
+      "website": "https://groenlinkspvda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "125521": {
+          "position": "disagree",
+          "explanation": "Het gaat primair om kwaliteit. Dat kan leiden tot meer vrouwen dan mannen in het college. Maar ook tot meer mannen dan vrouwen in het college. Bij gelijkwaardige toetsing zou een vrouw de voorkeur verdienen."
+        },
+        "125522": {
+          "position": "disagree",
+          "explanation": "In een referendum ontbreekt de nuance. Er vindt geen dialoog plaats. Terwijl bestuurlijke besluiten juist nuance en het gesprek vereisen. Om samen tot een oplossing te komen. Daarom zijn er veel goede alternatieve instrumenten die wél de dialoog mogelijk maken en waarmee inwoners in positie komen."
+        },
+        "125525": {
+          "position": "disagree",
+          "explanation": "Het buitengebied moet worden gekoesterd. Meer steen en commercie kan niet de standaardhouding zijn. Dit zal altijd moeten worden onderworpen aan bredere visies, natuurwaarden en effecten op het milieu. Een brede belangenbenadering is daarin een voorwaarde."
+        },
+        "125529": {
+          "position": "disagree",
+          "explanation": "Het huisvesten van arbeiders is een maatschappelijke taak. Temeer omdat het ingewikkeld is om arbeiders te vinden. Dat maakt dat veel land- en tuinbouwbedrijven zijn aangewezen op externe oplossingen en seizoenarbeiders. Samen hebben we de verantwoordelijkheid zaken als goede huisvesting te regelen."
+        },
+        "125530": {
+          "position": "agree",
+          "explanation": "Wat GroenLinks & PvdA Veldhoven betreft kappen we enkel bomen als dit noodzakelijk is. Voor elke gekapte boom planten we twee bomen terug. Hiermee behouden we het groen in de openbare ruimte en het buitengebied, wat belangrijk is voor biodiversiteit, een goede gezondheid en schone lucht."
+        },
+        "125531": {
+          "position": "disagree",
+          "explanation": "Het gebruik van houtkachels is slecht voor het milieu en draagt niet bij aan een schone lucht. We hebben een verantwoordelijkheid in het verduurzamen van woningen en het terugdringen van de uitstoot. Houtstook past hier niet in, tenzij de vorm binnen duurzaamheids- en schone lucht criteria past."
+        },
+        "125535": {
+          "position": "disagree",
+          "explanation": "Festivals en evenementen dragen bij aan verbinding en samenkomst. Daarmee hebben ze een grote maatschappelijke meerwaarde. De geluidsnormen zijn daarbij voldoende scherp en afgebakend. Tegelijk moet worden voorkomen dat de frequentie van de overlast toeneemt, bijvoorbeeld met innovatieve oplossingen"
+        },
+        "125537": {
+          "position": "disagree",
+          "explanation": "Het buitengebied moet worden gekoesterd. Meer steen kan niet de standaardhouding zijn. Dit zal altijd moeten worden onderworpen aan bredere visies, natuurwaarden, de woningbouwopgave en effecten op het milieu. Een brede belangenbenadering is daarin een voorwaarde."
+        },
+        "125540": {
+          "position": "agree",
+          "explanation": "GroenLinks & PvdA Veldhoven vindt dat alle kinderen kansrijk moeten kunnen opgroeien. Goed en toegankelijk onderwijs speelt daarbij een belangrijke rol, evenals de huisvesting ervan. Daarom investeren we wat ons betreft ook de komende jaren fors in de staat en toegankelijkheid van het onderwijs."
+        },
+        "125544": {
+          "position": "disagree",
+          "explanation": "Op dit moment zijn er genoeg boa's. Wij willen juist meer inzetten op een prettige en veilige buurt via preventie en ingrepen in de openbare ruimte. Zoals verlichting, buurtpreventienetwerken en wijk- en buurtwerk. Deze zijn bewezen effectiever in het voorkomen van onveiligheid."
+        },
+        "125545": {
+          "position": "agree",
+          "explanation": "Voor veilige buurten willen we investeren in ingrepen in de publieke ruimte. Cameratoezicht is hierbij een mogelijkheid, net als bijvoorbeeld verlichting of preventienetwerken. In het licht van sociale onveiligheid voor vrouwen hebben we dan ook eerder, samen met de VVD, hier aandacht voor gevraagd."
+        },
+        "125547": {
+          "position": "neither",
+          "explanation": "Op dit moment mag 50% van de woningen toegewezen worden aan eigen inwoners. Uit onderzoek blijkt dat in Veldhoven dit percentage al hoger ligt. Daarmee is het nu niet logisch om een minimum op te leggen, gezien de wettelijke mogelijkheden lager zijn dan hoeveel er nu naar eigen inwoners gaat."
+        },
+        "125549": {
+          "position": "agree",
+          "explanation": "GroenLinks & PvdA Veldhoven vindt dat bewoning op vakantieparken, mede gezien de grote woningnood, voorlopig toegestaan moet blijven. Met een uitsterf-constructie."
+        },
+        "125550": {
+          "position": "agree",
+          "explanation": "Wij vinden dat gebouwd moet worden binnen de bebouwde kom waarbij het groene buitengebied zoveel mogelijk wordt ontzien. Hier is dan ook bijna geen ruimte meer in de praktijk. Nieuwbouw moet worden gerealiseerd op leegstaande plekken, voormalige kantoorgebouwen of andere beschikbare locaties."
+        },
+        "125553": {
+          "position": "agree",
+          "explanation": "Wij vinden dat we inwoners in armoede goed moeten ondersteunen, zodat zij uit de financiële problemen komen en volwaardig kunnen deelnemen aan de maatschappij. Hierom zijn verschillende minimaregelingen verhoogd, en is op ons initiatief onderzoek gedaan naar verhoging van de bijzondere bijstand."
+        },
+        "125555": {
+          "position": "agree",
+          "explanation": "GroenLinks & PvdA Veldhoven vindt dat als we elektrisch rijden willen stimuleren het faciliteren van voldoende oplaadplekken essentieel is. Daarom plaatsen we voldoende laadpalen in de openbare ruimte, en maken we privaat gebruik waar nodig makkelijker."
+        },
+        "125556": {
+          "position": "disagree",
+          "explanation": "Een lagere snelheid draagt bij aan verkeersveiligheid en een gezondere leefomgeving. Echter, het volledig 30 km/u maken binnen de bebouwde kom heeft niet onze voorkeur. Wel willen we dit in alle wijken, waarbij op hoofdwegen zoals de Heerbaan de standaard 50 km/u is."
+        },
+        "125557": {
+          "position": "agree",
+          "explanation": "Zolang de inwoner zelf de financiering draagt, moet deze ook zelf kunnen besluiten welke zorgaanbieder het beste past. Wanneer de gemeente de financiering draagt, kan niet altijd maatwerk worden geleverd. Dat zou de zorg, en daarmee de maatschappelijke kosten, te duur maken."
+        },
+        "125560": {
+          "position": "agree",
+          "explanation": "Landelijk is de tendens dat gemeenten de hondenbelasting afschaffen. Omdat het tot een onevenredige lastenverdeling leidt en financiële drempels voor hondenbezitters. Tegelijk maakt de gemeente wel kosten, uitsluitend voor de hondenbezitter. Bij afschaffing moeten we op deze kosten kritisch zijn."
+        },
+        "125563": {
+          "position": "agree",
+          "explanation": "Winkeliers moeten zelf de vrijheid hebben om te besluiten wanneer ze open zijn. Als een extra koopzondag kan bijdragen aan een beter verdienmodel en de inwoner tegelijk meer flexibiliteit geeft, dan moeten we daar zeker voor open staan."
+        },
+        "125564": {
+          "position": "neither",
+          "explanation": "Wat GroenLinks-PvdA Veldhoven betreft bepalen we voorrang op basis van urgentie. Zo doen we dit nu ook. Statushouders kunnen hier ook in aanmerking voor komen. Vluchtelingen komen in de regel vanuit een vaak tijdelijk en druk verblijf in Nederland met mindere omstandigheden, en zullen moeten doorstromen. En komen in dat soort gevallen in aanmerking voor voorrang. Ook andere groepen zoals mensen in een conflict scheiding of huiselijk geweld zoeken soms met urgentie een woning. Hiervoor zijn duidelijke criteria die we blijven handhaven.  Die gelden voor alle doelgroepen die hiervoor in aanmerking komen."
+        },
+        "125566": {
+          "position": "disagree",
+          "explanation": "Wij vinden dat het plaatsen van zonnepanelen op landbouwgrond mogelijk moet zijn. Zo is er al een zonneweide in Veldhoven die de Veldhovense maatschappij van veel energie voorziet. Gezien de tekorten zijn ook dit soort oplossingen van groot belang, en behoren dus ook tot de mogelijkheden."
+        },
+        "125567": {
+          "position": "agree",
+          "explanation": "Mede op ons aandringen is er de afgelopen periode een Visie op de Bibliotheek opgeleverd. Hiermee wordt toegewerkt naar de Bibliotheek als kennisknooppunt, met educatie, ontmoeting en onspanning. De Bibliotheek is hier al goed naar op weg en hier zal de komende jaren op blijven worden ingezet."
+        },
+        "125569": {
+          "position": "agree",
+          "explanation": "Schoolzwemmen is een primaire levensvaardigheid. En een brede maatschappelijke verantwoordelijkheid. Geld mag geen belemmering zijn in het aanbod van zwemlessen op school. Daarbij ondersteunen we specifiek die kinderen en gezinnen voor wie dit nu wel een belemmering is."
+        },
+        "125571": {
+          "position": "disagree",
+          "explanation": "Een coffeeshop past minder bij de omvang en de dynamiek van Veldhoven. Tegelijk ligt er wel een verantwoordelijkheid om dit goed te organiseren. Regionaal beleid, waarin regionale afspraken worden gemaakt, zou daarbij kunnen helpen. Waarbij ook aan de inwoner van Veldhoven recht wordt gedaan."
+        },
+        "125575": {
+          "position": "agree",
+          "explanation": "Wij willen in elke wijk een toegankelijke wijkcentrum als sociaal hart van de wijk. Als een centrum voor ontmoeting en ondersteuning, wat aansluit op de behoefte van inwoners. Daarbij krijgt elk wijkcentrum een wijkregisseur als aanspreekpunt, die samen met bewoners werkt aan een verbonden wijk."
+        },
+        "125576": {
+          "position": "disagree",
+          "explanation": "Op dit moment is het parkeren de eerste 2 uur gratis. Dit zal voor nu het geval blijven. Het is legitiem om over enkele jaren opnieuw de afweging te maken of alle inwoners aan de kosten van onderhoud en parkeren moeten bijdragen zoals nu. Waarbij we juist de voet, fiets en OV willen stimuleren."
+        },
+        "125577": {
+          "position": "disagree",
+          "explanation": "De herontwikkeling van het City Centrum vraagt niet om meer parkeerplaatsen dan nodig en op dit moment voorziet het aanbod. Wij kiezen juist voor het toevoegen van groen en huizen, voor een aantrekkelijk centrum om in te wonen en recreëren. Daarbij willen we juist het lopen, fietsen en OV stimuleren."
+        },
+        "125579": {
+          "position": "agree",
+          "explanation": "Wij vinden dat inwoners vanaf het begin bij nieuw beleid goed betrokken moeten worden. En ook echt kunnen meedenken, meepraten en meebeslissen. Per project kan de mate van participatie verschillen, maar altijd willen we inwoners goed betrekken. We willen ellenlange vertragende procedures voorkomen."
+        },
+        "125580": {
+          "position": "agree",
+          "explanation": "Wij zijn voorstander van het stimuleren van wandelen en fietsen. Het draagt bij aan de bereikbaarheid, en is gezonder en veiliger voor inwoners en het klimaat. Dit doen we door voorrang te geven aan lopen, fietsen en openbaar vervoer. En zijn dagelijkse voorzieningen binnen 15 minuten bereikbaar."
+        }
+      }
+    },
+    {
+      "id": 125505,
+      "name": "Senioren Veldhoven",
+      "fullName": "Senioren Veldhoven",
+      "website": "https://seniorenveldhoven.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "125521": {
+          "position": "agree",
+          "explanation": "Maar kennis gaat voor gender."
+        },
+        "125522": {
+          "position": "disagree",
+          "explanation": "Inwoners kunnen een keer per 4 jaar hun vertegenwoordigers kiezen."
+        },
+        "125525": {
+          "position": "neither",
+          "explanation": "Dit hangt sterk van de plaatselijke situatie af."
+        },
+        "125529": {
+          "position": "agree",
+          "explanation": "Maar dan wel op een menswaardige manier."
+        },
+        "125530": {
+          "position": "agree",
+          "explanation": "Hiervoor is al wetgeving."
+        },
+        "125531": {
+          "position": "agree",
+          "explanation": "Mits de weeromstandigheden dit toelaten."
+        },
+        "125535": {
+          "position": "agree",
+          "explanation": "Geluid mag maar dan wel binnen de eisen."
+        },
+        "125537": {
+          "position": "neither",
+          "explanation": "Hier zijn wettelijke regels voor."
+        },
+        "125540": {
+          "position": "agree",
+          "explanation": "Dit doet de Gemeente al."
+        },
+        "125544": {
+          "position": "agree",
+          "explanation": "Dit zou heel prettig zijn"
+        },
+        "125545": {
+          "position": "neither",
+          "explanation": "Alleen in die gebieden waar het echt noodzakelijk is."
+        },
+        "125547": {
+          "position": "agree",
+          "explanation": "Dit omdat ze dan bijvoorbeeld mantelzorger kunnen worden en als je elkaar kent is het veiliger en de sociale samenhang groter."
+        },
+        "125549": {
+          "position": "agree",
+          "explanation": "Zeker in deze tijd van woningnood."
+        },
+        "125550": {
+          "position": "disagree",
+          "explanation": "Met bebouwing binnen de de bestaande dorpsgrenzen gaan alle stukjes noodzakelijk groen verloren aan beton."
+        },
+        "125553": {
+          "position": "agree",
+          "explanation": "Is al gebeurd."
+        },
+        "125555": {
+          "position": "neither",
+          "explanation": "Waar halen wij al die elektriciteit vandaan?"
+        },
+        "125556": {
+          "position": "agree",
+          "explanation": "Veiligheid voor alles."
+        },
+        "125557": {
+          "position": "agree",
+          "explanation": "Als die voorhanden is."
+        },
+        "125560": {
+          "position": "disagree",
+          "explanation": "Is niet mogelijk vanwege de kosten voor onder andere de honden uitlaat terreinen."
+        },
+        "125563": {
+          "position": "agree",
+          "explanation": "Maar het initiatief blijft bij de winkeliers zelf."
+        },
+        "125564": {
+          "position": "disagree",
+          "explanation": "Wij gaan niets extra's doen voor deze mensen."
+        },
+        "125566": {
+          "position": "neither",
+          "explanation": "Het is wel een vorm van duurzame stroomopwekking, maar we geven er de voorkeur aan om dit op een andere plek/manier op te wekken (daken bijv)"
+        },
+        "125567": {
+          "position": "neither",
+          "explanation": "Hiervoor is al een nieuw plan opgesteld."
+        },
+        "125569": {
+          "position": "agree",
+          "explanation": "Een gezonde bijdrage hiervoor is verantwoord."
+        },
+        "125571": {
+          "position": "disagree",
+          "explanation": "Er zijn er genoeg binnen 15 minuten afstand van Veldhoven."
+        },
+        "125575": {
+          "position": "agree",
+          "explanation": "Dit onder andere voor de noodzakelijke sociale contacten."
+        },
+        "125576": {
+          "position": "disagree",
+          "explanation": "Dit is slecht voor de winkeliers."
+        },
+        "125577": {
+          "position": "neither",
+          "explanation": "Er is op dit moment voldoende parkeerruimte."
+        },
+        "125579": {
+          "position": "agree",
+          "explanation": "De Gemeente is er voor de inwoners."
+        },
+        "125580": {
+          "position": "neither",
+          "explanation": "Met goede wandel- en fietspaden stimuleren wij dit al voldoende."
+        }
+      }
+    },
+    {
+      "id": 125506,
+      "name": "D66",
+      "fullName": "D66",
+      "website": "https://d66.nl/veldhoven/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "125521": {
+          "position": "neither",
+          "explanation": "Wij vinden diversiteit belangrijk, juist ook in het gemeentebestuur. Voor ons is diversiteit is meer dan de man/vrouw verhoudingen. Wij denken daarbij ook aan aspecten als leeftijd, opleiding en werkervaring."
+        },
+        "125522": {
+          "position": "disagree",
+          "explanation": "Wij hechten veel waarde aan inspraak en participatie van inwoners. Een referendum is lastig: de vraag moet leiden tot een ja/nee antwoord, nuances, redeneringen en ‘nee, maar’-opties vallen weg. Daarom kiezen wij voor versterkte regie op de participatie, met experimenten zoals een inwonerspanel."
+        },
+        "125525": {
+          "position": "disagree",
+          "explanation": "Wij vinden dat de gemeente een rol heeft in de transitie van het buitengebied naar een vitale groene leefomgeving. Dit betekent ook boeren ondersteunen bij de stap naar andere vormen van ondernemen. We moeten per locatie in Veldhoven bekijken wat mogelijk is, niet alles zal overal kunnen."
+        },
+        "125529": {
+          "position": "agree",
+          "explanation": "Wij vinden dat seizoensarbeiders een goed onderkomen verdienen. Werkgevers die deze seizoensarbeiders inzetten of naar Veldhoven halen, moeten ook zorgen voor een goed onderkomen. Dit kan ook op het eigen bedrijfsterrein gebeuren."
+        },
+        "125530": {
+          "position": "agree",
+          "explanation": "Bomen zijn belangrijk voor Veldhoven. Kap heeft vaak een goede reden, maar we willen groen blijven. Jaarlijks moeten er netto meer bomen bijkomen dan we kappen. We planten ze niet alleen in buitengebieden, maar juist ook in bebouwd gebied tegen hittestress en voor een mooiere leefomgeving."
+        },
+        "125531": {
+          "position": "agree",
+          "explanation": "Wij willen inwoners beter informeren over stookgedrag, o.a. via de Stookwijzer. Voordat we aan een verbod denken, vinden we het beter om mensen eerst goed te informeren en vervolgens aan te spreken op hun gedrag waar nodig."
+        },
+        "125535": {
+          "position": "neither",
+          "explanation": "Wij willen in Veldhoven blijven investeren in evenementen en activiteiten. Dat bevordert ontmoetingen, sociale contacten en integratie van nieuwe inwoners. De regels hiervoor moeten helder en consequent gehandhaafd worden. Wij zien geen reden voor strengere of soepelere regels."
+        },
+        "125537": {
+          "position": "agree",
+          "explanation": "We moeten de transitie naar een vitaal, groen buitengebied steunen. Boeren die stoppen of inkrimpen kunnen ter compensatie enkele woningen bouwen, mits dit de totale leefomgeving versterkt. Maatwerk blijft nodig: niet elke plek is geschikt."
+        },
+        "125540": {
+          "position": "agree",
+          "explanation": "Wij staan voor fijne, kwalitatieve schoolgebouwen voor elk kind en elke docent in Veldhoven. Omdat veel locaties verouderd zijn, maken we graag werk van nieuwbouw en grondige renovaties of uitbreidingen. Een goede leeromgeving is voor ons echt belangrijk."
+        },
+        "125544": {
+          "position": "agree",
+          "explanation": "BOA's zijn onmisbaar om Veldhoven een fijne woonplek te laten zijn. De capaciteit is nu onvoldoende om in Veldhoven ook zichtbaar aanwezig te zijn voor de veiligheid en alle andere taken te vervullen zoals het bestrijden van bijvoorbeeld bijplaatsingen van afval."
+        },
+        "125545": {
+          "position": "agree",
+          "explanation": "Wij vinden dat cameratoezicht een forse maatregel is. Er zijn wel plekken denkbaar waar dit wel echt kan bijdragen aan een vermindering van onveiligheid en overlast. Maar deze inzet is wat ons betreft niet de eindoplossing voor structurele problematiek."
+        },
+        "125547": {
+          "position": "disagree",
+          "explanation": "Voorrang voor Veldhovenaren klinkt goed, maar werkt bijvoorbeeld averechts voor veel starters die gestudeerd hebben in de stad. Wij willen regionale vrijheid behouden zodat iedereen flexibel kan wonen. De echte oplossing voor de woningnood is niet uitsluiten, maar simpelweg: bouwen, bouwen, bouwen!"
+        },
+        "125549": {
+          "position": "agree",
+          "explanation": "Permanente bewoning van vakantieparken vinden we onwenselijk, maar door de woningnood zetten we bepaalde huidige bewoners niet op straat. Zij krijgen persoonsgebonden zekerheid tegen handhaving. Voor nieuwe gevallen geldt dit niet; De enige structurele oplossing is echt méér nieuwe woningen bouwen."
+        },
+        "125550": {
+          "position": "agree",
+          "explanation": "Wij zien in Veldhoven de lijn City Centrum, Burgemeester van Hoofflaan en De Run als de plek waar veruit meeste nieuwe woningen in Veldhoven moeten komen. Dit is qua mobiliteit en voorzieningen eenvoudigweg de beste plek om dit goed te doen."
+        },
+        "125553": {
+          "position": "disagree",
+          "explanation": "Wij vinden dat mensen die het echt nodig hebben hulp moeten kunnen vragen aan de gemeente bij hun armoedeproblematiek. We hanteren in de gemeente nu de 130% bijstandsnorm als inkomensgrens. Veel hulp is ook beschikbaar voor elke inwoner bij onze maatschappelijke partners, ongeacht het inkomen."
+        },
+        "125555": {
+          "position": "agree",
+          "explanation": "Elektrisch rijden is de toekomst, maar zonder eigen oprit is laden in Veldhoven lastig. Om de overstap naar elektrisch rijden voor inwoners en bezoekers te stimuleren, zijn er meer openbare laadpalen nodig. Hierbij bewaken we de balans: er moet voldoende parkeerruimte blijven voor alle buurtbewoners"
+        },
+        "125556": {
+          "position": "disagree",
+          "explanation": "Wij willen dat de auto te gast is: een lagere snelheid maakt onze wijken veiliger en prettiger om in te wonen, dat moet hier de standaard zijn. Maar op doorgaande hoofdverbindingen (bijvoorbeeld de Kempenbaan en de Heerbaan) zien we dat anders. Want op deze wegen wordt al het verkeer vanuit Veldhoven samengebracht en deze wegen moeten al dat verkeer binnen de beperkte ruimte vlot kunnen verwerken.\r\n "
+        },
+        "125557": {
+          "position": "disagree",
+          "explanation": "De zorgvraag groeit hard, dus extra eisen aan zorgverleners vinden we niet realistisch. Wel is het cruciaal dat zij kennis van en begrip hebben voor diverse achtergronden en levensovertuigingen, zodra dit de zorg raakt. Zo blijft zorg in Veldhoven toegankelijk en respectvol voor iedereen."
+        },
+        "125560": {
+          "position": "disagree",
+          "explanation": "Wij zijn voor het handhaven van de hondenbelasting, zodat deze ten minste deels de kosten dekt voor onderhoud en schoonmaak van hondenuitlaatvelden in Veldhoven."
+        },
+        "125563": {
+          "position": "agree",
+          "explanation": "Wij vinden dat ondernemers in Veldhoven zelf mogen beslissen welke dagen ze graag klanten willen bedienen. Wij zien geen redenen om het aantal koopzondagen te beperken."
+        },
+        "125564": {
+          "position": "neither",
+          "explanation": "We hebben een wettelijke taak om een bepaald aantal statushouders in Veldhoven huisvesting te bieden elk jaar. Daarvoor duiken we niet weg, we hebben begrip voor de frustratie die dat oproept bij sommigen. Als de wetgever vraagt om voorrang te moeten geven doen we dat, als de wetgever dat op een andere manier wil organiseren voeren we dat op die manier uit. De rijksoverheid is volgens ons in de lead en we wachten dus op uitsluitsel daarover. \r\nIn een ambitieus tempo woningen bouwen zien wij als de echte oplossing."
+        },
+        "125566": {
+          "position": "agree",
+          "explanation": "Wij kiezen in Veldhoven voor zon-op-dak, daar is nog heel veel potentie in Veldhoven, ook als daken eerst versterkt moeten worden. Zonnepanelen op landbouwgrond zijn we niet voor: die schaarse ruimte is te kostbaar om zomaar in te zetten voor alleen energieopwekking."
+        },
+        "125567": {
+          "position": "agree",
+          "explanation": "Enkele jaren geleden ontstond het idee om een culturele hotspot te bouwen met de bibliotheek, De Schalm en Museum ’t Oude Slot samen. Wij zijn groot voorstander hiervan. Deze hotspot zou prachtig passen op het vernieuwde Meiveld."
+        },
+        "125569": {
+          "position": "agree",
+          "explanation": "Zwemmen is in ons waterrijke land een essentiële basisvaardigheid. Daarom willen wij het schoolzwemmen in Veldhoven terugbrengen. Dit is extra belangrijk voor kinderen van internationals, voor wie zwemles minder vanzelfsprekend is."
+        },
+        "125571": {
+          "position": "neither",
+          "explanation": "Nu staat Veldhoven geen coffeeshops toe. Als een ondernemer er een wil openen, vinden wij dat het gesprek moet gaan over waar en onder welke voorwaarden, niet over een permanent verbod. Maar door het gedoogbeleid en daardoor de illegale teelt kunnen wij nu lokaal geen duidelijke voorstander zijn."
+        },
+        "125575": {
+          "position": "agree",
+          "explanation": "Door vergrijzing en groeiende zorgvraag willen we in Veldhoven samenredzaamheid versterken. Wijkcentra zijn cruciaal als ontmoetingsplek, organisatiepunt en nabije contactplek tussen inwoners, instellingen en gemeente – van jong tot oud. Niet elke wijk hoeft er een, maar wel binnen korte afstand"
+        },
+        "125576": {
+          "position": "agree",
+          "explanation": "Gratis parkeren bestaat niet; bij het Citycentrum kost dit de gemeenschap tonnen. Wij willen fiets en OV stimuleren en autogebruik ontmoedigen. Een parkeertarief werkt als kleine prikkel om vaker de fiets te pakken, wat beter is voor de bereikbaarheid en leefbaarheid in Veldhoven."
+        },
+        "125577": {
+          "position": "disagree",
+          "explanation": "Wij kiezen echt voor de fiets en het OV. De auto blijft welkom, maar minder dominant. In een groener Citycentrum verkiezen wij meer bomen boven veel meer parkeervakken. Ruimte voor de auto is niet langer vanzelfsprekend; wij geven prioriteit aan een gezonde, groene leefomgeving voor alle inwoners"
+        },
+        "125579": {
+          "position": "agree",
+          "explanation": "Wij hechten veel waarde aan participatie bij bouwprojecten. Een goed proces waarbij inwoners hun ideeën en zorgen kunnen delen, is cruciaal – vaak leidt dit tot betere plannen. Wij willen dat de gemeente de regie over het participatieproces overneemt, in plaats van de ontwikkelaars."
+        },
+        "125580": {
+          "position": "agree",
+          "explanation": "Wij vinden dat wandelen en fietsen de standaard moeten zijn in Veldhoven. Wij willen investeren in goede, verlichte paden, voldoende bankjes en veilige fietsenstallingen. Door de juiste infrastructuur te bieden, maken we gezond en duurzaam bewegen aantrekkelijk en veilig voor elke inwoner."
+        }
+      }
+    },
+    {
+      "id": 125507,
+      "name": "CDA",
+      "fullName": "Christen-Democratisch Appèl",
+      "website": "https://www.cda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "125521": {
+          "position": "disagree",
+          "explanation": "CDA lokaal Veldhoven kiest voor kwaliteit en niet voor een verplicht evenwicht. Een goede afspiegeling van de bevolking vinden we voor raad en college belangrijk. Diversiteit is een breder vraagstuk dan alleen de verdeling vrouw-man."
+        },
+        "125522": {
+          "position": "disagree",
+          "explanation": "CDA lokaal Veldhoven kiest voor andere vormen van participatie. Zo zijn we voorstander van een burgerberaad bij specifieke onderwerpen, dus dat inwoners meedenken over een vraagstuk. Een referendum is een toets nadat beleid al gemaakt is, daar zijn we geen voorstander van."
+        },
+        "125525": {
+          "position": "agree",
+          "explanation": "CDA lokaal Veldhoven is van mening dat in de huidige situatie het voor boeren op veel manieren moeilijk is. Inkomen uit andere activiteiten is een goed idee."
+        },
+        "125529": {
+          "position": "neither",
+          "explanation": "CDA lokaal Veldhoven is van mening dat het goed is als werkgevers verantwoordelijkheid nemen voor de huisvesting. Het verplicht onderdak bieden op eigen terrein is niet in alle gevallen de beste oplossing."
+        },
+        "125530": {
+          "position": "disagree",
+          "explanation": "CDA lokaal Veldhoven is bezorgd dat een boom-voor-een-boom regel een excuus wordt om waardevolle bomen te kappen. Het ergens planten van 1 boom is dan voldoende voor kap. Het duurt echter lang voor een jonge boom een bijdrage levert aan CO2 opvang. We kiezen voor andere groene maatregelen."
+        },
+        "125531": {
+          "position": "neither",
+          "explanation": "CDA lokaal Veldhoven vindt dat mensen geen overlast van kachels moeten ondervinden. Het volledig verbieden vinden we een te ingrijpende maatregel."
+        },
+        "125535": {
+          "position": "disagree",
+          "explanation": "CDA lokaal Veldhoven kiest voor het handhaven van de huidige normen. Feesten en festivals zijn belangrijk: ze brengen mensen met elkaar in contact en zijn belangrijk voor de horeca."
+        },
+        "125537": {
+          "position": "neither",
+          "explanation": "CDA lokaal Veldhoven vindt dat we zuinig moeten zijn op ons buitengebied. Het is afhankelijk van de specifieke situatie of woningbouw mogelijk is."
+        },
+        "125540": {
+          "position": "neither",
+          "explanation": "CDA lokaal Veldhoven is van mening dat Veldhoven over goede gebouwen beschikt. We moeten in de komende periode nadenken over de groei in het aanbod. Dus mogelijk uitbreiden in plaats van verbeteren."
+        },
+        "125544": {
+          "position": "agree",
+          "explanation": "CDA lokaal Veldhoven vindt dat het aantal BOA's moet meegroeien met de groei van de gemeente."
+        },
+        "125545": {
+          "position": "neither",
+          "explanation": "CDA lokaal Veldhoven denkt dat meer camera's niet automatisch leidt tot meer veiligheid. Je moet ook de mensen hebben om te reageren op de beelden. Extra cameratoezicht kan in specifieke situaties zinvol zijn."
+        },
+        "125547": {
+          "position": "disagree",
+          "explanation": "CDA lokaal Veldhoven vindt dat er voorrang moet zijn voor urgente gevallen. Voorrang voor eigen inwoners kan zorgen dat de wachttijden langer worden omdat omliggende gemeenten dat dan ook gaan doen."
+        },
+        "125549": {
+          "position": "disagree",
+          "explanation": "CDA lokaal Veldhoven vindt dat vakantiewoningen niet zijn bedoeld als vast woonadres."
+        },
+        "125550": {
+          "position": "agree",
+          "explanation": "CDA lokaal Veldhoven vindt dat we zuinig moeten zijn op het buitengebied."
+        },
+        "125553": {
+          "position": "neither",
+          "explanation": "In Veldhoven ligt deze grens al hoger dan de wettelijke grens. CDA lokaal Veldhoven vindt dat positief en wil dat zo houden."
+        },
+        "125555": {
+          "position": "neither",
+          "explanation": "CDA lokaal Veldhoven vindt dat de huidige afspraken binnen Veldhoven voldoen."
+        },
+        "125556": {
+          "position": "agree",
+          "explanation": "CDA lokaal Veldhoven is voor 30 km/u in de bebouwde kom. Het zorgt voor meer veiligheid."
+        },
+        "125557": {
+          "position": "disagree",
+          "explanation": "CDA lokaal Veldhoven vindt dat we elkaar niet mogen discrimineren. Mensen zijn in staat om samen op een goede manier culturele verschillen te overbruggen zonder dat daar specifieke regels voor nodig zijn."
+        },
+        "125560": {
+          "position": "agree",
+          "explanation": "CDA lokaal Veldhoven is voor modernere vormen van belastingen. Hondenbelasting stamt uit een ander tijdperk. De gemeente moet zoeken naar alternatieven."
+        },
+        "125563": {
+          "position": "disagree",
+          "explanation": "CDA lokaal Veldhoven wil het huidige aanbod aan koopzondagen handhaven."
+        },
+        "125564": {
+          "position": "agree",
+          "explanation": "CDA lokaal Veldhoven is van mening dat deze maatregel hoort binnen de huidige, landelijke afspraken. Mensen met een verblijfsvergunning moeten zo snel mogelijk mee kunnen doen."
+        },
+        "125566": {
+          "position": "disagree",
+          "explanation": "CDA lokaal Veldhoven denkt dat zonnepanelen op landbouwgrond een bijdrage kunnen leveren aan de energietransitie. Ook biedt het boeren een alternatieve inkomstenbron."
+        },
+        "125567": {
+          "position": "agree",
+          "explanation": "CDA lokaal Veldhoven is trots op bibliotheek in Veldhoven. De bibliotheek speelt een belangrijke rol en verdient steun. "
+        },
+        "125569": {
+          "position": "disagree",
+          "explanation": "CDA lokaal Veldhoven is van mening dat schoolzwemmen betekent dat veel geld wordt besteed aan zwemles aan kinderen die al kunnen zwemmen. Wel willen we aandacht geven aan het belang van zwemles en kijken hoe dat voor alle kinderen bereikbaar kan zijn."
+        },
+        "125571": {
+          "position": "disagree",
+          "explanation": "CDA lokaal Veldhoven denkt dat een coffeeshop een verkeerd signaal geeft. We zijn voor een gezonde omgeving en een rookvrije generatie."
+        },
+        "125575": {
+          "position": "agree",
+          "explanation": "CDA lokaal Veldhoven vindt het belangrijk dat er voldoende ontmoetingsplaatsen zijn. Deze locaties bieden verenigingen en clubs de ruimte om activiteiten te organiseren."
+        },
+        "125576": {
+          "position": "neither",
+          "explanation": "CDA lokaal Veldhoven iziet betaald parkeren en de hoogte van het parkeertarief als deelvraag binnen de plannen voor de herinrichting van het Citycentrum. Het antwoord is afhankelijk van de definitieve plannen."
+        },
+        "125577": {
+          "position": "disagree",
+          "explanation": "CDA lokaal Veldhoven vindt het belangrijker dat bij de herinrichting er voldoende woningen, groen en fietsenstallingen komen."
+        },
+        "125579": {
+          "position": "agree",
+          "explanation": "CDA lokaal Veldhoven denkt dat goede participatie belangrijk is bij nieuwbouw."
+        },
+        "125580": {
+          "position": "agree",
+          "explanation": "CDA lokaal Veldhoven is van mening dat een gezonde en schone omgeving met goede wandel- en fietspaden uitnodigend werkt om meer te bewegen en minder vaak de auto te gebruiken voor korte afstanden."
+        }
+      }
+    },
+    {
+      "id": 125508,
+      "name": "SP",
+      "fullName": "Socialistische Partij",
+      "website": "https://www.sp.nl/",
+      "hasSeats": false,
+      "participates": true,
+      "positions": {
+        "125521": {
+          "position": "agree",
+          "explanation": "Het zou mooi zijn als dat zou lukken, maar dat ligt natuurlijk ook aan het aantal vrouwen dat zich kandideert."
+        },
+        "125522": {
+          "position": "agree",
+          "explanation": "Dit is een landelijk SP standpunt. Een referendum is een goed instrument om de inwoners van Veldhoven hun mening te laten geven."
+        },
+        "125525": {
+          "position": "agree",
+          "explanation": "Dit zijn extra inkomsten voor een boer en als dat de veestapel verkleint, is dat helemaal mooi meegenomen"
+        },
+        "125529": {
+          "position": "disagree",
+          "explanation": "Dit lokt uitbuiting uit. Als ze hun baan kwijt raken, dan zijn ze ook gelijk dakloos."
+        },
+        "125530": {
+          "position": "agree",
+          "explanation": "Onze bomen zijn de longen van de aarde en daar moeten we zuinig op zijn. Dus bij kap, moeten er net zoveel bomen terug komen."
+        },
+        "125531": {
+          "position": "agree",
+          "explanation": "Voor mensen die in de energie armoede zitten, is dit een mooie oplossing. Wel moeten we denken aan de uitstoot hiervan, dus wel zoveel mogelijk beperken."
+        },
+        "125535": {
+          "position": "disagree",
+          "explanation": "Die paar dagen per jaar dat er culturele activiteiten zijn, moeten we maar tolereren. Deze activiteiten zorgen voor verbinding."
+        },
+        "125537": {
+          "position": "agree",
+          "explanation": "Maar wel onder strenge voorwaarden, zoals betaalbare huizen voor iedereen, dus niet alleen voor familie."
+        },
+        "125540": {
+          "position": "agree",
+          "explanation": "Als deze nog niet op orde zijn qua isolatie en luchtkwaliteit, dan moet hier snel actie op ondernomen worden. Het gaat hier om onze jeugd en onderwijzers. Zij zijn de toekomst en moeten gezond kunnen opgroeien."
+        },
+        "125544": {
+          "position": "agree",
+          "explanation": "Helaas is dit nodig, er zijn te veel kleine vergrijpen die niet aangepakt kunnen worden, vanwege een tekort aan BOA's"
+        },
+        "125545": {
+          "position": "agree",
+          "explanation": "Als er niet genoeg geld is om genoeg BOA's aan te stellen, dan is cameratoezicht een goede (tijdelijke) maatregel. En camera's geven ook een veilig gevoel."
+        },
+        "125547": {
+          "position": "agree",
+          "explanation": "Teveel jongeren kunnen niet aan hun toekomst beginnen. Maar ook statushouders moeten kans hebben op een woning."
+        },
+        "125549": {
+          "position": "agree",
+          "explanation": "Er is een wooncrisis, dus alle beschikbare ruimte moeten we inzetten om te kunnen wonen."
+        },
+        "125550": {
+          "position": "disagree",
+          "explanation": "Vanwege de wooncrisis en het steeds verder groeiende inwoneraantal door onder andere kenniswerkers, moeten we zoveel mogelijk ruimte gebruiken om te bouwen. Hier staat wel tegenover dat het groen dat daardoor verdwijnt, volledig gecompenseerd moet worden."
+        },
+        "125553": {
+          "position": "agree",
+          "explanation": "Ook middeninkomens hebben het moeilijk. Prijzen van de boodschappen en energie blijven maar stijgen."
+        },
+        "125555": {
+          "position": "disagree",
+          "explanation": "Deze plekken staan vaak leeg als de auto is opgeladen. Er zijn veel parkeerproblemen en veel mensen kunnen een elektrische auto niet betalen."
+        },
+        "125556": {
+          "position": "agree",
+          "explanation": "Maar er moet eerst beter onderzoek komen naar verkeersveiligheid en geluidshinder en milieu."
+        },
+        "125557": {
+          "position": "agree",
+          "explanation": "Veel medelanders hebben een andere geloofsovertuiging en hebben dus andere gewoonten, hier moeten we dus rekening mee houden."
+        },
+        "125560": {
+          "position": "agree",
+          "explanation": "Dit is de sluitpost voor de begroting van de gemeente. Beter is om te onderzoeken hoe de begroting wel sluitend kan zijn."
+        },
+        "125563": {
+          "position": "disagree",
+          "explanation": "Er is meer dan voldoende gelegenheid om te winkelen. Er is een tekort aan personeel en de winkeliers moeten ook voldoende uit kunnen rusten van een werkweek."
+        },
+        "125564": {
+          "position": "agree",
+          "explanation": "Deze mensen kunnen niet eeuwig in een opvang blijven wonen. Het percentage wat een woning toegewezen krijgt is minder dan 10%. Dus er zouden voldoende woningen over moeten blijven voor onze jeugd en andere woningzoekenden. Dat zou de ideale situatie zijn, helaas is er een wooncrisis en zijn er te weinig woningen."
+        },
+        "125566": {
+          "position": "disagree",
+          "explanation": "We moeten zoveel mogelijk elektriciteit opwekken, maar dit kan pas als het stroomnet voldoende is uitgebreid."
+        },
+        "125567": {
+          "position": "disagree",
+          "explanation": "De bieb heeft al verschillende verbouwingen ondergaan en is momenteel voldoende uitgerust voor de toekomst. Alleen als er grote noodzakelijke wijzigingen zijn, dan zal de bieb vernieuwd moeten worden. Dit moet dan wel goed onderzocht worden of de kosten opwegen tegen de voordelen."
+        },
+        "125569": {
+          "position": "agree",
+          "explanation": "Er zijn teveel kinderen die niet kunnen zwemmen. Niet alle ouders zijn zich bewust van de gevaren van water. Maar er zijn ook veel ouders die de dure lessen niet kunnen betalen. Schoolzwemmen is hier dan een goede oplossing voor."
+        },
+        "125571": {
+          "position": "agree",
+          "explanation": "Om drugsoverlast door dealen in het openbaar te beperken is een legale locatie veel beter. Dan kan het gereguleerd en gehandhaafd worden."
+        },
+        "125575": {
+          "position": "agree",
+          "explanation": "Een buurthuis is de verbindende factor in een wijk. Het gaat eenzaamheid tegen, jongeren kunnen er een plek vinden om te hangen. Een buurthuis heeft veel voordelen."
+        },
+        "125576": {
+          "position": "disagree",
+          "explanation": "Het centrum moet toegankelijk blijven voor iedereen. Veel mensen zullen bij een verhoging het centrum gaan mijden. Na de invoering van het betaald parkeren zag je dat er veel minder mensen naar het centrum gingen. Nu de eerste twee uur gratis zijn, is het bezoek weer toegenomen."
+        },
+        "125577": {
+          "position": "disagree",
+          "explanation": "Het centrum moet zoveel mogelijk autovrij worden. We kunnen beter investeren in betere fietsenstallingen en goede busverbindingen."
+        },
+        "125579": {
+          "position": "agree",
+          "explanation": "Als de omgeving verandert door bouwprojecten moeten de inwoners daar in mee kunnen beslissen."
+        },
+        "125580": {
+          "position": "agree",
+          "explanation": "Het bevordert de gezondheid en het is beter voor het milieu."
+        }
+      }
+    }
+  ],
+  "statements": [
+    {
+      "id": 125579,
+      "index": 1,
+      "theme": "Participation",
+      "themeId": "participatie",
+      "title": "The municipality should involve residents more in new construction projects.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 125529,
+      "index": 2,
+      "theme": "Housing for foreign workers",
+      "themeId": "huisvesting-buitenlandse-werknemers",
+      "title": "Employers in agriculture and horticulture should provide housing for seasonal workers on their own premises.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 125525,
+      "index": 3,
+      "theme": "Farm campsites",
+      "themeId": "boerencampings",
+      "title": "The municipality should always allow farmers to open, for example, a shop or a campsite at their farm.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 125537,
+      "index": 4,
+      "theme": "Building on agricultural land",
+      "themeId": "bouwen-op-landbouwgrond",
+      "title": "It should be possible for farmers to build houses themselves on their land.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 125521,
+      "index": 5,
+      "theme": "Mayor and municipal executive",
+      "themeId": "burgemeester-en-college",
+      "title": "The new college of mayor and aldermen must have an equal number of men and women.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 125531,
+      "index": 6,
+      "theme": "Wood burning",
+      "themeId": "houtstook",
+      "title": "In Veldhoven the use of open fireplaces and wood stoves should remain allowed.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 125549,
+      "index": 7,
+      "theme": "Holiday homes",
+      "themeId": "vakantiewoningen",
+      "title": "The municipality must allow holiday homes to be used as a permanent residence.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 125540,
+      "index": 8,
+      "theme": "Improving school buildings",
+      "themeId": "verbeteren-schoolgebouwen",
+      "title": "The municipality should invest money in improving all school buildings during the next council term.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 125550,
+      "index": 9,
+      "theme": "Housing construction",
+      "themeId": "woningbouw",
+      "title": "The municipality should prevent new construction outside existing village boundaries.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 125535,
+      "index": 10,
+      "theme": "Festival noise",
+      "themeId": "festivalgeluid",
+      "title": "Noise standards at festivals and parties must be made stricter.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 125545,
+      "index": 11,
+      "theme": "Camera surveillance",
+      "themeId": "cameratoezicht",
+      "title": "In Veldhoven there should be more camera surveillance.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 125575,
+      "index": 12,
+      "theme": "Neighborhood center",
+      "themeId": "buurtcentrum",
+      "title": "Every village and neighborhood in the municipality should have its own village center or community center.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 125530,
+      "index": 13,
+      "theme": "Trees",
+      "themeId": "bomen",
+      "title": "For every tree cut down in the municipality, a new one must be planted.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 125577,
+      "index": 14,
+      "theme": "More parking spaces",
+      "themeId": "meer-parkeerplaatsen",
+      "title": "More parking spaces should be created in the center.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 125553,
+      "index": 15,
+      "theme": "Combating poverty",
+      "themeId": "armoedebestrijding",
+      "title": "The municipality should raise the income threshold for receiving poverty assistance.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 125544,
+      "index": 16,
+      "theme": "Enforcement officers",
+      "themeId": "handhavers",
+      "title": "Veldhoven should have more municipal enforcement officers (BOAs) who focus on safety.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 125555,
+      "index": 17,
+      "theme": "Electric vehicle charging stations",
+      "themeId": "elektrische-laadpalen",
+      "title": "The municipality should designate more parking spaces as charging points for electric cars.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 125563,
+      "index": 18,
+      "theme": "Sunday shopping",
+      "themeId": "koopzondagen",
+      "title": "The municipality should allow more Sunday shopping days.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 125556,
+      "index": 19,
+      "theme": "Car speeds",
+      "themeId": "snelheid-auto-s",
+      "title": "The maximum speed limit in built-up areas should be set to 30 km/h.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 125547,
+      "index": 20,
+      "theme": "Priority for housing",
+      "themeId": "voorrang-huisvesting",
+      "title": "When allocating social housing, applicants from the municipality should be given priority.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 125564,
+      "index": 21,
+      "theme": "Priority for refugees",
+      "themeId": "voorrang-voor-vluchtelingen",
+      "title": "The municipality should continue to give refugees with residence permits priority for social rental housing.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 125566,
+      "index": 22,
+      "theme": "Solar panels on farmland",
+      "themeId": "zonnepanelen-op-landbouwgrond",
+      "title": "The municipality should ban solar panels on agricultural land.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 125576,
+      "index": 23,
+      "theme": "Paid parking more expensive",
+      "themeId": "betaald-parkeren-duurder",
+      "title": "Paid parking in the city center should become more expensive.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 125567,
+      "index": 24,
+      "theme": "Veldhoven Library",
+      "themeId": "bibliotheek-veldhoven",
+      "title": "Veldhoven should renovate/renew Library Veldhoven.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 125571,
+      "index": 25,
+      "theme": "Coffeeshop (cannabis shop)",
+      "themeId": "coffeeshop",
+      "title": "The municipality should allow the establishment of a coffeeshop.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 125522,
+      "index": 26,
+      "theme": "Referendum",
+      "themeId": "referendum",
+      "title": "Residents of Veldhoven should be able to express their opinion on important issues via a referendum.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 125560,
+      "index": 27,
+      "theme": "Dog tax",
+      "themeId": "hondenbelasting",
+      "title": "The municipality should abolish the dog tax.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 125569,
+      "index": 28,
+      "theme": "School swimming",
+      "themeId": "schoolzwemmen",
+      "title": "The municipality should allocate money for school swimming.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 125557,
+      "index": 29,
+      "theme": "Choice of healthcare",
+      "themeId": "zorgkeuze",
+      "title": "People who need care should always be able to choose a caregiver who matches their religion, culture, or beliefs.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 125580,
+      "index": 30,
+      "theme": "Sustainable mobility",
+      "themeId": "duurzame-mobiliteit",
+      "title": "The municipality should do more to encourage walking and cycling.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    }
+  ]
+}

@@ -1054,7 +1054,9 @@
       "moreInfo": "De toeristenbelasting is de belasting die toeristen voor elke overnachting in een hotel of op een camping betalen. In Lochem betaalt een toerist in een hotel 2,80 per nacht. Op een camping betaalt een toerist 1,10 per nacht.",
       "pro": "Toeristen betalen de toeristenbelasting. Daarom is het eerlijk om dit geld alleen aan toerisme uit te geven.",
       "con": "De gemeente heeft het geld uit de toeristenbelasting ook nodig voor andere zaken, zoals het onderhoud van gemeentelijk groen.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "The municipality may only spend tourist tax revenue on tourism and recreation, such as scenic cycling routes.",
+      "themeEn": "Tourist tax"
     },
     {
       "id": 155621,
@@ -1065,7 +1067,9 @@
       "moreInfo": "Een bedrijventerrein is een gebied voor fabrieken, distributiebedrijven en kantoren. De gemeente bepaalt waar zo’n gebied komt. In de gemeente Lochem zijn nu tien bedrijventerreinen. Twee daarvan worden nu aangelegd.",
       "pro": "Bedrijventerreinen zorgen voor meer bedrijven en meer banen in de gemeente.De gemeente Lochem moet bedrijven ruimte geven, zodat ze niet vertrekken naar andere gemeenten.Er is te weinig ruimte op de bestaande bedrijventerreinen om te groeien.",
       "con": "Meer bedrijventerreinen gaan ten koste van de natuur.De bestaande bedrijventerreinen kunnen nog groeien. Er is te weinig ruimte in de gemeente voor nog meer bedrijventerreinen.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "More business parks should be developed in Lochem.",
+      "themeEn": "Business parks"
     },
     {
       "id": 155628,
@@ -1076,7 +1080,9 @@
       "moreInfo": "Gemeenten kunnen zelf regels maken voor het gebruik van houtkachels en open haarden.",
       "pro": "In de gemeente Lochem worden open haarden en houtkachels veel gebruikt. De gemeente kan inwoners voorlichten over verantwoord stoken. Daarom is het verbieden van open haarden en houtkachels niet nodig.",
       "con": "Open haarden en houtkachels zijn slecht voor het milieu. Open haarden en houtkachels zijn slecht voor de gezondheid.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "The municipality of Lochem should continue to allow the use of open fireplaces and wood stoves.",
+      "themeEn": "Wood burning"
     },
     {
       "id": 155634,
@@ -1087,7 +1093,9 @@
       "moreInfo": "Voor een sociale huurwoning betaal je een lagere huur. Ze zijn meestal eigendom van een woningcorporatie. Alleen mensen met een lager inkomen kunnen zo’n woning krijgen. Veel mensen willen zo’n woning. De wachtlijst is lang.",
       "pro": "Sociale huurwoningen zijn belangrijk voor mensen met weinig geld.",
       "con": "Jonge starters in de gemeente Lochem hebben geen sociale huurwoningen nodig, maar vooral goedkope koopwoningen.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "At least 35% of newly built homes in Lochem must be social rental housing. In Lochem, 17% of homes are currently social rental housing.",
+      "themeEn": "Social housing"
     },
     {
       "id": 155620,
@@ -1098,7 +1106,9 @@
       "moreInfo": "Via een promotiecampagne kan de gemeente aan bedrijven laten zien waarom het aantrekkelijk is om zich in de gemeente Lochem te vestigen. Dit kan via advertenties, sociale media of een website.",
       "pro": "Er komen meer banen in de gemeente als er meer bedrijven komen.",
       "con": "Als er meer bedrijven komen, verdwijnt er meer groene ruimte en wordt de gemeente Lochem minder prettig om in te wonen.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "The municipality should invest in a promotional campaign for Lochem as an attractive location for businesses.",
+      "themeEn": "City marketing"
     },
     {
       "id": 155629,
@@ -1109,7 +1119,9 @@
       "moreInfo": "In de gemeente Lochem gelden regels voor kleine zonneparken. Zo mag het landschap bijvoorbeeld niet worden aangetast. De gemeente geeft voorlopig geen toestemming meer voor grote zonneparken. Dit komt doordat er geen ruimte is op het stroomnet.",
       "pro": "Zonnepanelen kunnen ook op daken worden gelegd. Landbouwgrond moet altijd landbouwgrond blijven, zodat er genoeg voedsel is.",
       "con": "Kleine zonneparken die geen overlast geven, moeten mogelijk blijven. De gemeente moet per plek bekijken of zonnepanelen passen. Er is geen reden om een verbod in te voeren.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "The municipality should ban solar panels on agricultural land.",
+      "themeEn": "Solar panels on farmland"
     },
     {
       "id": 155635,
@@ -1120,7 +1132,9 @@
       "moreInfo": "Gemeenten kunnen een zelfbewoningsplicht opleggen aan kopers van huizen. Dit betekent dat kopers zelf in het huis moeten wonen dat ze kopen voor een bepaalde periode. Deze periode is meestal tussen de 2 en 5 jaar. In die periode mogen kopers het huis niet verhuren of verkopen.",
       "pro": "Particuliere verhuurders kopen woningen om winst te maken. Zij vragen hoge huren, waardoor wonen duurder wordt.Als kopers van nieuwe huizen er zelf in moeten wonen, komen woningen bij inwoners van Lochem terecht.",
       "con": "woning kunnen kopen waar hun kind in kan wonen.Als mensen in huis kopen, mogen ze zelf bepalen wie erin woont.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "Anyone who buys a home in our municipality must live in it themselves.",
+      "themeEn": "Owner-occupancy of a home"
     },
     {
       "id": 155650,
@@ -1131,7 +1145,9 @@
       "moreInfo": "Een sociale werkvoorziening is een plek waar mensen met een lichamelijke, verstandelijke of psychische beperking kunnen werken. Tot 2015 hadden veel gemeenten zo’n voorziening. De landelijke overheid besloot dat mensen met een beperking bij gewone bedrijven konden werken, met begeleiding. Sindsdien zijn bijna alle sociale werkvoorzieningen dicht gegaan, ook in de gemeente Lochem.",
       "pro": "Mensen met een beperking kunnen niet altijd bij gewone werkgevers werken en hebben extra begeleiding nodig. Een sociale werkplaats is een stap naar een gewone baan.",
       "con": "De gemeente Lochem hoeft geen sociale werkplaats te hebben. Dit kan worden geregeld met andere gemeenten in de buurt. Mensen met een beperking kunnen ook bij normale werkgevers aan de slag.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "Lochem should invest in a new sheltered employment facility.",
+      "themeEn": "Sheltered employment"
     },
     {
       "id": 155644,
@@ -1142,7 +1158,9 @@
       "moreInfo": "De gemeente Lochem moet van de landelijke overheid vluchtelingen met een verblijfsvergunning een woning aanbieden. In 2025 vonden 34 mensen een woning, 42 vluchtelingen met een verblijfsvergunning wachten nog op een woning in de gemeente Lochem.",
       "pro": "Tijdelijke woningen voor vluchtelingen kunnen later ook worden gebruikt door inwoners.Een paar jaar geleden bouwde de gemeente tijdelijke woningen voor vluchtelingen uit Oekraïne. Dat was een succes.",
       "con": "De gemeente moet geen woningen bouwen of betalen, maar dat overlaten aan bedrijven.Er zijn in de gemeente al opvangplekken genoeg voor vluchtelingen met een verblijfsvergunning.De gemeente Lochem moet geen geld uitgeven aan tijdelijke huisvesting voor vluchtelingen met een verblijfsvergunning. Dat moet de landelijke overheid doen.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "The municipality should spend more on temporary housing for refugees with residence permits, for example in container housing.",
+      "themeEn": "Refugee housing"
     },
     {
       "id": 155641,
@@ -1153,7 +1171,9 @@
       "moreInfo": "Woonplekken waar ouderen verzorgd kunnen worden zijn bijvoorbeeld hofjes waar ouderen zelfstandig kunnen wonen, maar waar zorg in de buurt is. In Lochem is ongeveer één op de drie inwoners ouder dan 65 jaar, 14 procent van de inwoners is ouder dan 75 jaar. In de komende jaren neemt het aantal ouderen toe.",
       "pro": "In de gemeente Lochem wonen steeds meer ouderen. Daarom moet de gemeente geld steken in woonvormen voor ouderen. Als ouderen verhuizen naar seniorenwoningen, komen hun huizen vrij voor jonge gezinnen.",
       "con": "De gemeente hoeft geen geld te geven aan woonplekken waar ouderen samen kunnen wonen en zorg krijgen. De gemeente kan dit overlaten aan bedrijven die huizen bouwen. Als er genoeg vraag is, bouwen zij vanzelf woonplekken voor ouderen.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "The municipality should invest in new housing where older people can live together and receive care.",
+      "themeEn": "Housing for the elderly"
     },
     {
       "id": 155676,
@@ -1164,7 +1184,9 @@
       "moreInfo": "In de gemeente Lochem zijn geen openbare toiletten op openbare plekken zoals pleinen, parken of bushaltes. Via de Hoge Nood App kunnen mensen wel terecht bij 22 opengestelde toiletten in cafés, winkels of musea.",
       "pro": "Voldoende toiletten maken het, vooral voor ouderen, makkelijker om eropuit te gaan.",
       "con": "Er zijn voldoende toiletten bij ondernemers, zoals cafés en restaurants.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "The municipality of Lochem should provide more public toilets.",
+      "themeEn": "Public toilets"
     },
     {
       "id": 155649,
@@ -1175,7 +1197,9 @@
       "moreInfo": "Basisbanen zijn banen die de gemeente zelf creëert voor mensen die moeilijk een baan kunnen vinden. Vaak zijn het banen in de buurt. In de gemeente Lochem leeft 2,4 procent van de huishoudens van een bijstandsuitkering. Dat zijn 370 huishoudens.",
       "pro": "Werk geeft langdurig werklozen zelfvertrouwen. Daarom moet de gemeente werk voor hen organiseren.",
       "con": "De gemeente Lochem doet genoeg om mensen die langdurig werkloos aan een baan te helpen.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "The municipality should offer sheltered jobs to people who have been unemployed long-term; they could, for example, pick up litter or have coffee with lonely people.",
+      "themeEn": "Basic jobs"
     },
     {
       "id": 155656,
@@ -1186,7 +1210,9 @@
       "moreInfo": "Een burgerberaad is een groep inwoners die de gemeenteraad helpt bij belangrijke beslissingen. Inwoners kunnen zichzelf niet aanmelden, de gemeente loot en stuurt inwoners een brief als ze mee mogen doen. Zo komen er zoveel mogelijk verschillende soorten mensen in het burgerberaad. Het burgerberaad krijgt advies van onafhankelijke experts, maar kan ook zelf belangenorganisaties uitnodigen. De deelnemers gaan met elkaar in gesprek om uiteindelijk een advies te geven aan de gemeente. De gemeente is niet verplicht dit advies over te nemen.",
       "pro": "Een burgerberaad vergroot de betrokkenheid van inwoners bij belangrijke bestuurlijke besluiten. Uit een burgerberaad komen vaak mooie en onverwachte ideeën en oplossingen.",
       "con": "De gekozen gemeenteraad spreekt al voor de inwoners van Lochem. Een burgerberaad is daarom niet nodig. In de gemeente Lochem kunnen inwoners al voldoende meepraten als de gemeente belangrijke besluiten neemt.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "Lochem should form a citizens' assembly by lottery to advise the municipality.",
+      "themeEn": "Citizens' assembly"
     },
     {
       "id": 155660,
@@ -1197,7 +1223,9 @@
       "moreInfo": "In de gemeente Lochem zijn vier grote parken met meer dan honderd vakantiehuisjes. Daarnaast zijn er acht kleinere parken met minder dan vijftig huisjes of stacaravans.",
       "pro": "De komst van nog meer vakantieparken gaat ten koste van natuur en leefbaarheid.",
       "con": "Toerisme is belangrijk voor de economie van de gemeente Lochem. Daarvoor zijn nieuwe vakantieparken nodig.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "No new holiday parks should be allowed in the municipality of Lochem.",
+      "themeEn": "Holiday parks"
     },
     {
       "id": 155655,
@@ -1208,7 +1236,9 @@
       "moreInfo": "Een jongerenraad is een groep jongeren die de gemeente adviseert. Jongeren tussen van 18 tot en met 25 jaar kunnen meedenken met de gemeente. De jongerenraad mag ook zelf met ideeën komen. De gemeente is niet verplicht het advies over te nemen.",
       "pro": "Jongeren hebben nieuwe ideeën en een frisse blik. Via een jongerenraad komen deze ideeën bij de gemeente. Een jongerenraad betrekt jongeren meer bij de gemeentepolitiek.",
       "con": "De gemeenteraad spreekt namens alle inwoners, ook jongeren. Daarom is een jongerenraad niet nodig. De gemeente Lochem had een paar jaar geleden een jongerenraad. Die werkte niet goed en is gestopt.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "Lochem should establish a youth council to advise the municipality.",
+      "themeEn": "Youth council"
     },
     {
       "id": 155675,
@@ -1219,7 +1249,9 @@
       "moreInfo": "De Veiligheidsregio is een samenwerkingsverband tussen gemeenten dat zorgt voor brandweerzorg, crisisbeheer en ambulancezvakaorg.  De gemeente kan wel meedenken over de aanrijtijden en veiligheid, en een locatie voor een ambulance aanbieden.",
       "pro": "De ambulance komt nu vanuit Zutphen, Apeldoorn en Deventer. Daardoor duurt het soms lang voordat er hulp in de gemeente Lochem is. Daarom is een eigen standplaats nodig.",
       "con": "Een vaste standplaats is te duur.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "The municipality should invest in its own ambulance station.",
+      "themeEn": "Ambulance station"
     },
     {
       "id": 155661,
@@ -1230,7 +1262,9 @@
       "moreInfo": "Voor het gebruik van (landbouw)gif gelden landelijke regels. Toch kan de gemeente ook extra dingen doen. Zo kan de gemeente een spuitvrije zone instellen bij nieuwe woningen. Dit is een gebied van ongeveer 50 meter rond de woning waar niet met (landbouw)gif mag worden gewerkt.",
       "pro": "Zolang landbouwgif niet landelijk wordt verboden, moet de gemeente Lochem zelf ingrijpen. Landbouwgif is schadelijk voor de gezondheid. Daarom moeten er strengere regels komen voor het gebruik rond scholen, woningen en natuurgebieden.",
       "con": "Er zijn al landelijke regels over het gebruik van landbouwgif. Extra regels van de gemeente zijn niet nodig. De gemeente Lochem heeft geen kennis in huis over landbouwgif.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "The municipality should create stricter rules for the use of (agricultural) pesticides around schools, homes and nature areas.",
+      "themeEn": "Agricultural pesticides"
     },
     {
       "id": 155662,
@@ -1241,7 +1275,9 @@
       "moreInfo": "De paasvuren in de gemeente Lochem zijn er elk jaar op Eerste Paasdag. Ze zijn er op meerdere locaties, en worden georganiseerd door verschillende organisaties. In 2025 gingen de paasvuren bijna niet door vanwege de droogte, waardoor het risico op natuurbranden groot leek. Uiteindelijk liet de gemeente de paasvuren toch doorgaan.",
       "pro": "Paasvuren vormen een traditie in de gemeente Lochem en horen bij de lokale cultuur.",
       "con": "Paasvuren zijn slecht voor de luchtkwaliteit.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "The municipality of Lochem should continue to allow Easter fires.",
+      "themeEn": "Easter fires"
     },
     {
       "id": 155665,
@@ -1252,7 +1288,9 @@
       "moreInfo": "In de gemeente Lochem betaalt ieder huishouden het vaste tarief van 117,18 voor de afvalstoffenheffing. Daarnaast moeten inwoners betalen per container. Een container met groente-, fruit- en tuinafval (gft) kost 2,87 per container. Voor restafval geldt 10,10 euro per container.",
       "pro": "Inwoners betalen per container in Lochem. Om kosten te besparen, dumpen zij vaker afval illegaal. Dat moet stoppen.",
       "con": "Betalen per container afval stimuleert inwoners om afval beter te scheiden.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "The municipality should stop the system where residents pay per container for their waste.",
+      "themeEn": "Paid waste collection"
     },
     {
       "id": 155677,
@@ -1263,7 +1301,9 @@
       "moreInfo": "Graffiti is beeldtaal die vaak met spuitbussen illegaal op muren wordt gespoten. Straatkunst is een kunstvorm die varieert van muurschilderingen tot aan stickers. Een voorbeeld van straatkunst is de muurschildering op de zijwanden van de opslagsilo’s aan de Goorseweg in Lochem. Dit kunstwerk is 1300 vierkante meter groot en is daarmee een van de grootste straatkunstwerken in Nederland.",
       "pro": "In de gemeente Lochem moet meer ruimte komen voor creativiteit. De overlast wordt minder als er legale plekken voor graffiti komen. Graffiti en straatkunst maken de openbare ruimte in Lochem levendiger.",
       "con": "Het is verboden gebouwen te beschadigen, ook als het gepresenteerd wordt als kunst. De overlast stopt niet als er legale plekken voor graffiti komen  Graffiti kan ook op terreinen van jeugdhonken en andere creatieve centra. Dat hoeft niet in de openbare ruimte.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "The municipality should designate legal spaces for graffiti and street art.",
+      "themeEn": "Street art"
     },
     {
       "id": 155668,
@@ -1274,7 +1314,9 @@
       "moreInfo": "Een noodstroomvoorziening is een systeem dat stroom levert als het gewone netwerk uitvalt.",
       "pro": "In noodsituaties, zoals een storm, is stroom belangrijk. Daarom moet de gemeente geld geven aan noodstroomvoorzieningen. Noodstroomvoorzieningen maken inwoners van Lochem minder afhankelijk van regionale of landelijke hulp.",
       "con": "Het kost te veel geld om elk dorp een eigen noodstroomvoorziening te geven. Stroomvoorzieningen zijn een taak van de provincie. De provincie moet daarom zorgen voor noodstroomvoorzieningen.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "Each village should have its own emergency power supply.",
+      "themeEn": "Emergency power supply"
     },
     {
       "id": 155645,
@@ -1285,7 +1327,9 @@
       "moreInfo": "In Lochem is in 2025 een asielzoekerscentrum (azc) geopend aan de Ampenseweg. De gemeenteraad besloot dat daar maximaal 250 asielzoekers worden opgevangen. In heel Nederland is een groot tekort aan opvangplekken.",
       "pro": "De Lochemse gemeenteraad heeft eind 2025 besloten dat er maximaal 250 mensen worden opgevangen in het asielzoekerscentrum. Aan die afspraak moet de gemeente zich houden. Grote asielzoekerscentra zorgen voor overlast",
       "con": "De gemeente moet mensen opvangen die vluchten voor oorlog en geweld. De Lochemse gemeenteraad heeft eind 2025 besloten dat er 250 mensen worden opgevangen in het asielzoekerscentrum. Maar extra opvang moet mogelijk zijn.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "No more than 250 people should ever be accommodated in the asylum seekers' centre (AZC).",
+      "themeEn": "Asylum seekers"
     },
     {
       "id": 155669,
@@ -1296,7 +1340,9 @@
       "moreInfo": "Het ministerie van Defensie heeft overal in Nederland terreinen aangewezen waar militairen kunnen oefenen. Vanaf het terrein Het Groote Veld zal worden geoefend met laagvliegende helikopters.",
       "pro": "Laagvliegende helikopters zorgen voor overlast.",
       "con": "Militairen moeten ergens oefenen om ons land veilig te houden.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "The municipality should object to low-flying military helicopters from the Het Groote Veld training area.",
+      "themeEn": "Military exercises"
     },
     {
       "id": 155671,
@@ -1307,7 +1353,9 @@
       "moreInfo": "Een fietsstraat is een straat waar fietsers voorrang hebben. Zo’n straat heeft vaak rood asfalt en een bordje met ‘auto te gast’. Auto’s mogen hier maximaal 30 kilometer per uur rijden. Ze mogen fietsers niet hinderen.",
       "pro": "Straten worden niet veiliger als fietsers op sommige plekken voorrang krijgen op auto’s. Dat zorgt voor verwarring.",
       "con": "Straten waar fietsers altijd voor auto’s gaan, zijn veiliger.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "Cyclists should have priority over cars in villages and neighbourhoods.",
+      "themeEn": "Priority for cyclists"
     },
     {
       "id": 155667,
@@ -1318,7 +1366,9 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "The municipality should help residents protect themselves against online dangers, such as digital scams.",
+      "themeEn": "Cybersecurity"
     },
     {
       "id": 155672,
@@ -1329,7 +1379,9 @@
       "moreInfo": "Een deelauto is een auto die door meerdere mensen wordt gebruikt. Vaak huren mensen ze via bedrijven en betalen ze per dag of gereden kilometer. Gebruikers kunnen de auto’s vinden via een app of een speciale parkeerplaats die is gereserveerd voor deelauto’s. In de gemeente Lochem staan nu acht deelauto’s op zo’n vaste parkeerplek. Andere auto’s mag je daar niet parkeren.",
       "pro": "Vaste parkeerplekken maken het gebruik van deelauto’s makkelijker.",
       "con": "Deelauto’s kunnen op normale, openbare parkeerplekken staan.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "The municipality should designate more parking spaces for car-sharing vehicles.",
+      "themeEn": "Car-sharing"
     },
     {
       "id": 155633,
@@ -1340,7 +1392,9 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "When allocating social rental housing, teachers, nurses and police officers should be given priority.",
+      "themeEn": "Priority for housing"
     },
     {
       "id": 155639,
@@ -1351,7 +1405,9 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "The maximum speed limit in built-up areas should be set to 30 km/h.",
+      "themeEn": "Car speeds"
     },
     {
       "id": 155673,
@@ -1362,7 +1418,9 @@
       "moreInfo": "Bomen langs wegen en paden in het buitengebied zijn gemiddeld 60 jaar oud. Lange takken die over de weg groeien, zijn gevaarlijk voor het verkeer. De gemeente snoeit daarom elk jaar een vijfde deel van de tienduizend laanbomen op het grondgebied van de gemeente Lochem. Als een boom zelf voor onveilige situaties zorgt, wordt de boom gekapt.",
       "pro": "Voor Verkeersveiligheid is belangrijker dan het beschermen van bomen. Voor een gekapte boom kan een andere boom op een veiligere plek worden geplant.",
       "con": "Bomen zijn belangrijk voor de natuur en leefbaarheid. Daarom moeten ze worden beschermd. Het verlagen van de maximumsnelheid maakt het verkeer veiliger dan het kappen van bomen.",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "The municipality should cut down trees that pose a danger to traffic.",
+      "themeEn": "Road safety"
     },
     {
       "id": 155651,
@@ -1373,7 +1431,9 @@
       "moreInfo": "",
       "pro": "",
       "con": "",
-      "isShootout": false
+      "isShootout": false,
+      "titleEn": "The municipality should invest in a fund for innovative ideas from entrepreneurs.",
+      "themeEn": "Innovation"
     }
   ]
 }

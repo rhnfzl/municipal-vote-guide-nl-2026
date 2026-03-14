@@ -1,0 +1,834 @@
+{
+  "id": "GM0431",
+  "name": "Oostzaan",
+  "slug": "oostzaan",
+  "parties": [
+    {
+      "id": 121448,
+      "name": "VVD",
+      "fullName": "Volkspartij voor Vrijheid en Democratie",
+      "website": "https://www.vvd.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "121458": {
+          "position": "disagree",
+          "explanation": "Bestuurders kies je op kwaliteit en geschiktheid. Gelijke kansen zijn belangrijk, vaste quota niet."
+        },
+        "121459": {
+          "position": "neither",
+          "explanation": "Inwoners moeten goed worden betrokken, maar een referendum is niet altijd het beste middel. Soms werkt inspraak of participatie beter."
+        },
+        "121462": {
+          "position": "agree",
+          "explanation": "Ondernemersvrijheid is belangrijk, maar niet automatisch. Het moet passen bij het gebied en voldoen aan regels."
+        },
+        "121464": {
+          "position": "agree",
+          "explanation": "Gebruik kan blijven, maar met oog voor gezondheid en luchtkwaliteit. Duidelijke regels zijn nodig."
+        },
+        "121465": {
+          "position": "disagree",
+          "explanation": "Dit is geen kerntaak van de gemeente en kost veel geld. Overlast en kosten wegen niet altijd op tegen het effect."
+        },
+        "121467": {
+          "position": "disagree",
+          "explanation": "Toegankelijkheid is belangrijk, maar hulp moet gericht zijn. Ondernemers blijven primair zelf verantwoordelijk."
+        },
+        "121468": {
+          "position": "agree",
+          "explanation": "Kleinschalige bouw kan helpen bij woningnood en familie-opvolging, zolang het past bij het dorp en de regels."
+        },
+        "121471": {
+          "position": "disagree",
+          "explanation": "Cultuur is waardevol, maar dit is geen gemeentelijke kerntaak. Scholen en ouders maken hierin keuzes."
+        },
+        "121478": {
+          "position": "disagree",
+          "explanation": "Dit zorgt voor extra druk op voorzieningen en handhaving. Vakantiewoningen zijn daar niet voor bedoeld."
+        },
+        "121479": {
+          "position": "disagree",
+          "explanation": "Bouwen aan de randen kan nodig zijn om woningnood aan te pakken, mits het dorpskarakter behouden blijft."
+        },
+        "121480": {
+          "position": "agree",
+          "explanation": "Wie kan meedoen, doet mee. Een tegenprestatie helpt bij structuur, eigenwaarde en contact."
+        },
+        "121481": {
+          "position": "agree",
+          "explanation": "Geen automatische kwijtschelding. Hulp moet gericht zijn, maar iedereen draagt naar vermogen bij."
+        },
+        "121482": {
+          "position": "disagree",
+          "explanation": "Hulp is bedoeld voor wie het echt nodig heeft. Verhoging kan leiden tot hogere kosten en minder maatwerk."
+        },
+        "121485": {
+          "position": "disagree",
+          "explanation": "Geen standaard 30 km/u. De snelheid moet passen bij de weg en de inrichting."
+        },
+        "121486": {
+          "position": "disagree",
+          "explanation": "Keuzevrijheid is belangrijk, maar niet onbeperkt. Zorg moet toegankelijk, doelmatig en betaalbaar blijven."
+        },
+        "121489": {
+          "position": "neither",
+          "explanation": "Afschaffen is aantrekkelijk, maar kost geld. Eerst moet duidelijk zijn of dit financieel haalbaar is."
+        },
+        "121490": {
+          "position": "disagree",
+          "explanation": "Verhoging raakt toerisme en ondernemers. We moeten voorzichtig zijn met lastenverzwaring."
+        },
+        "121493": {
+          "position": "disagree",
+          "explanation": "Bij schaarste moet voorrang gaan naar eigen inwoners en mensen die hier werken."
+        },
+        "121495": {
+          "position": "disagree",
+          "explanation": "Zonnepanelen horen vooral op daken. Landbouwgrond is schaars en waardevol."
+        },
+        "121496": {
+          "position": "disagree",
+          "explanation": "Zwemvaardigheid is belangrijk, maar de verantwoordelijkheid ligt primair bij ouders."
+        },
+        "121499": {
+          "position": "disagree",
+          "explanation": "Hoge flats passen niet bij het dorpskarakter van Oostzaan. We bouwen passend bij de omgeving."
+        },
+        "121501": {
+          "position": "agree",
+          "explanation": "Parkeerdruk is hoog. Mensen moeten hun auto dichtbij huis kwijt kunnen."
+        },
+        "121504": {
+          "position": "disagree",
+          "explanation": "Dit is geen kerntaak van de gemeente en levert weinig meerwaarde op."
+        },
+        "121506": {
+          "position": "disagree",
+          "explanation": "Twiske Poort biedt kansen voor sport en jeugd, mits natuur en dorp worden beschermd."
+        },
+        "121507": {
+          "position": "agree",
+          "explanation": "Evenementen zijn mogelijk binnen duidelijke afspraken over geluid en bescherming van natuur."
+        }
+      }
+    },
+    {
+      "id": 121449,
+      "name": "GroenLinks",
+      "fullName": "GroenLinks",
+      "website": "https://oostzaan.groenlinks.nl/home",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "121458": {
+          "position": "agree",
+          "explanation": "Een college met evenveel mannen als vrouwen brengt verschillende ervaringen en perspectieven samen. Dat leidt tot betere keuzes en een bestuur waarin meer mensen zich herkennen."
+        },
+        "121459": {
+          "position": "disagree",
+          "explanation": "GroenLinks vind participatie erg belangrijk, en heeft het initiatief genomen voor het instellen van een Burgeradviesraad (BAR). Inspraak van burgers kan op veel verschillende manieren en mede omdat Oostzaan geen referendumverordening heeft, vinden we een referendum niet het beste middel."
+        },
+        "121462": {
+          "position": "disagree",
+          "explanation": "Extra activiteiten passen niet altijd bij natuur, bijzonder provinciaal landschap en leefomgeving. Maatwerk is nodig: ruimte voor boeren waar dat kan, maar alleen als het zorgvuldig gebeurt en de omgeving niet wordt belast."
+        },
+        "121464": {
+          "position": "disagree",
+          "explanation": "Houtstook zorgt voor veel fijnstof en heeft grote nadelige gezondseffecten. Mensen met een longziekte zoals astma of COPD, ouderen en kinderen hebben hier extra last van."
+        },
+        "121465": {
+          "position": "disagree",
+          "explanation": "De gemeente kan wel een vuurwerkshow faciliteren, zoals bijvoorbeeld door de COE, maar hoeft dit niet zelf te organiseren."
+        },
+        "121467": {
+          "position": "agree",
+          "explanation": "Toegankelijkheid is essentieel voor een inclusieve samenleving. Maar: de financiële ruimte van de gemeente is zeer beperkt, dus ondersteuning moet gericht en eerlijk worden ingezet."
+        },
+        "121468": {
+          "position": "disagree",
+          "explanation": "Er is in Oostzaan beperkte ruimte door Bijzonder Provinciaal Landschap en Natura2000. Daarom is GroenLinks terughoudend met nieuwe bouw, maar wél voor wonen op vaders of moeders erf: kleinschalig, landschappelijk ingepast en zonder aantasting van natuur en openheid."
+        },
+        "121471": {
+          "position": "agree",
+          "explanation": "We vinden muziekonderwijs heel belangrijk, maar de gemeentelijk financiën moeten daarvoor dan wel ruimte bieden."
+        },
+        "121478": {
+          "position": "neither",
+          "explanation": "Dit is eigenlijk niet van toepassing op Oostzaan."
+        },
+        "121479": {
+          "position": "agree",
+          "explanation": "We moeten eerst binnen de dorpsgrenzen bouwen en zorgvuldig omgaan met groen en landschap."
+        },
+        "121480": {
+          "position": "disagree",
+          "explanation": "Verplichte tegenprestaties zetten mensen onder druk, terwijl niet iedereen hiertoe in staat is door gezondheid of persoonlijke omstandigheden. Vertrouwen, maatwerk en goede begeleiding werken beter."
+        },
+        "121481": {
+          "position": "disagree",
+          "explanation": "Kwijtschelding geeft inwoners met een laag inkomen lucht. Het voorkomt dat mensen in financiële problemen raken en draagt bij aan gelijke kansen en bestaanszekerheid in de gemeente."
+        },
+        "121482": {
+          "position": "agree",
+          "explanation": "Inflatie- en energiearmoede zijn nog steeds een probleem, ook in Oostzaan."
+        },
+        "121485": {
+          "position": "agree",
+          "explanation": "30-zones helpen om straten veiliger en prettiger te maken. Ook als niet iedereen exact 30 rijdt, gaan mensen gemiddeld langzamer. Dat zorgt voor meer rust, minder ernstige ongevallen en meer ruimte voor voetgangers, fietsers en een fijne buurt."
+        },
+        "121486": {
+          "position": "agree",
+          "explanation": "Als mensen zich begrepen en gerespecteerd voelen in hun geloof, cultuur of overtuiging, werkt zorg beter. Keuzevrijheid vergroot vertrouwen, gelijkwaardigheid en toegankelijkheid voor iedereen."
+        },
+        "121489": {
+          "position": "agree",
+          "explanation": "De opbrengsten komen in de algemene middelen terecht, handhaving is relatief duur en de inkomsten zijn beperkt. Afschaffing is eerlijker en eenvoudiger voor zowel inwoners als gemeente."
+        },
+        "121490": {
+          "position": "agree",
+          "explanation": "Een hogere toeristenbelasting zorgt dat bezoekers eerlijk meebetalen aan onderhoud en schoonmaak. Zo kan de gemeente investeren in leefbaarheid en natuur, terwijl en inwoners daarvan profiteren."
+        },
+        "121493": {
+          "position": "agree",
+          "explanation": "Deze maatregel helpt mensen met een verblijfsvergunning snel een veilige start te geven. Vaste huisvesting versnelt integratie, toegang tot werk en onderwijs."
+        },
+        "121495": {
+          "position": "agree",
+          "explanation": "Waar dat mogelijk en wenselijk is. Dit mag niet ten koste gaan van natuur of waardevol landschap."
+        },
+        "121496": {
+          "position": "agree",
+          "explanation": "Zwemvaardigheid is in deze waterrijke omgeving ongelofelijk belangrijk."
+        },
+        "121499": {
+          "position": "disagree",
+          "explanation": "Woningbouw moet passen binnen de omgeving. Dit betekent in de meeste gevallen: Twee lagen en een kap."
+        },
+        "121501": {
+          "position": "disagree",
+          "explanation": "Meer parkeerplaatsen gaan vaak ten koste van groen en speelruimte. Door te kiezen voor minder auto’s en meer ruimte voor lopen, fietsen en ontmoeting worden wijken gezonder, veiliger en prettiger voor iedereen."
+        },
+        "121504": {
+          "position": "agree",
+          "explanation": "Door samen te werken met Ducktopia investeren we in een lokale, diervriendelijke oplossing. Een lokaal initiatief dat de dieren en omgeving kent, zorgt voor zorgvuldige opvang én een prettige en schone leefomgeving voor mens en dier."
+        },
+        "121506": {
+          "position": "neither",
+          "explanation": "GroenLinks is niet perse tegen het ontwikkelen van Twiske Poort, maar het moet natuur-inclusief en kleinschalig zijn en passen bij Het Twiske. De huidige plannen zijn dit niet. Oostzaan moet ook zelf kunnen beslissen over ontwikkelingen op ons grondgebied, niet alleen het recreatieschap."
+        },
+        "121507": {
+          "position": "disagree",
+          "explanation": "Grote festivals moet je niet in een Natura2000 gebied houden, en al helemaal niet in het broedseizoen."
+        }
+      }
+    },
+    {
+      "id": 121450,
+      "name": "CDA",
+      "fullName": "Christen-Democratisch Appèl",
+      "website": "https://www.cda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "121458": {
+          "position": "agree",
+          "explanation": "'Streven naar' een gelijkwaardige verdeling is realistischer dan 'moeten'. Partijen die vanaf maart een coalitie gaan vormen hebben het in eigen hand."
+        },
+        "121459": {
+          "position": "disagree",
+          "explanation": "Het CDA wil op korte termijn een officiële Dorpsraad oprichten. Een representatieve groep Oostzaners die (on)gevraagd haar mening kan geven richting gemeenteraad. Sneller, duidelijker, genuanceerder en goedkoper dan steeds een referendum te moeten organiseren."
+        },
+        "121462": {
+          "position": "agree",
+          "explanation": "Als dit helpt om actief te kunnen blijven boeren ja, maar qua winkel wel met boerderij gerelateerde producten, liefst biologisch. Voor wat betreft een camping alleen als het kleinschalig, natuurlijk en zonder overlast voor de buurt wordt ingericht."
+        },
+        "121464": {
+          "position": "agree",
+          "explanation": "Wel met voorlichting over verantwoord gebruik, o.m. door met schoon en droog hout om rookvorming te beperken. Ook kan nagedacht worden om binnen de bebouwde kom op bepaalde momenten een stookverbod in te voeren / te adviseren."
+        },
+        "121465": {
+          "position": "agree",
+          "explanation": "Wel gecombineerd met een oudejaarsfeest waar Oostzaners elkaar kunnen ontmoeten."
+        },
+        "121467": {
+          "position": "disagree",
+          "explanation": "Voor wat betreft gemeentelijke gebouwen en schoolgebouwen ja, voor gebouwen van private ondernemingen ligt die verantwoordelijkheid bij de ondernemer."
+        },
+        "121468": {
+          "position": "disagree",
+          "explanation": "Bouwen in 2e lijn van het lint of op voormalige bedrijventerreinen kan aantrekkelijk zijn om de woningnood te helpen oplossen. Zelf bouwen op het land leidt tot verrommeling van en schade aan het veenweide- en natuurgebieden. Ook is de infrastructuur daar niet op ingericht."
+        },
+        "121471": {
+          "position": "disagree",
+          "explanation": "Muziekonderwijs is voor veel kinderen plezierig om te krijgen, net als voor sportbeoefening geldt. Subsidie voor elk kind is daarbij niet nodig."
+        },
+        "121478": {
+          "position": "agree",
+          "explanation": "Alleen zolang er sprake is van woningnood en onder strenge voorwaarden en toezicht, zoals alleen voor een gedeelte van een park om ruimte te houden voor recreatie. De regeling moet dus van tijdelijke aard zijn."
+        },
+        "121479": {
+          "position": "disagree",
+          "explanation": "Zeker nu met woningnood helpen aan beetjes, bijv. 1. nieuwbouw op voormalige bedrijventerreinen in Oostzaan, 2. wonen in de tweede lijn van een lint, kunnen toevoegingen zijn die meer mensen binden aan Oostzaan en om lokale voorzieningen helpen overeind te blijven."
+        },
+        "121480": {
+          "position": "agree",
+          "explanation": "Een bijstandsuitkering werkt als een sociaal-maatschappelijk vangnet voor mensen die dat nodig hebben. Dat is mooi. Als een ontvanger in ruil daarvoor zich inzet voor maatschappelijk zinvol werk kan daarmee ook een andere inwoner weer geholpen worden. Dat is samenleven."
+        },
+        "121481": {
+          "position": "disagree",
+          "explanation": "Zolang het belastingstelsel landelijk en lokaal nog werkt met kwijtscheldingen en/of toeslagen getuigt het van solidariteit om mensen met een laag inkomen financieel te ondersteunen. Belangrijke grens in deze steun blijft dat werken moet lonen."
+        },
+        "121482": {
+          "position": "disagree",
+          "explanation": "Maatwerk is een goede oplossing voor schrijnende gevallen. Het in brede zin verhogen van de inkomensgrens klinkt nobel, maar is niet altijd nodig en gezien de krappe financiën van de gemeente al snel onbetaalbaar."
+        },
+        "121485": {
+          "position": "agree",
+          "explanation": "Binnen de bebouwde kom is er meestal sprake van menging tussen voetgangers, fietsers en auto's. Daar is 30km/u voor de veiligheid van toegevoegde waarde. Buiten de bebouwde kom, zeker bij aparte fietspaden, ligt dat anders."
+        },
+        "121486": {
+          "position": "disagree",
+          "explanation": "Zorg- en hulpverlening zijn regelmatig acuut nodig, dan kan 'altijd kunnen kiezen' levensbedreigend worden. Zorg en hulpverlening die worden vergoed zijn in beginsel van algemene aard."
+        },
+        "121489": {
+          "position": "agree",
+          "explanation": "De (ambtelijke) kosten om de hondenbelasting te kunnen heffen is in feite verloren belastinggeld. De huidige netto opbrengst kan effectiever via de ozb worden geïnd."
+        },
+        "121490": {
+          "position": "disagree",
+          "explanation": "De toeristenbelasting in Oostzaan ligt ruim boven het Noord-Hollands gemiddelde. Een maatregel die relatief weinig oplevert en de drempel om aangifte te doen mogelijk verhoogt."
+        },
+        "121493": {
+          "position": "disagree",
+          "explanation": "Elke gemeente heeft een opgave voor het huisvesten van statushouders, maar in tijden van woningnood, zoals nu, kan de gemeente uit solidariteit met andere woningzoekenden ook tijdelijke oplossingen bedenken voor het huisvesten van statushouders. Denk aan de opvang voor Oekraïners."
+        },
+        "121495": {
+          "position": "disagree",
+          "explanation": "Eerst andere mogelijkheden benutten, zoals panelen op daken van gemeentelijk vastgoed en bedrijfspanden, of isolatie van pand, dan pas hierover nadenken."
+        },
+        "121496": {
+          "position": "agree",
+          "explanation": "Binnen het waterrijke Oostzaan is op jonge leeftijd leren zwemmen van levensbelang. Klassikaal zwemles krijgen is ook goed voor de band tussen kinderen op school en voor meer beweging voor jonge kinderen."
+        },
+        "121499": {
+          "position": "disagree",
+          "explanation": "Omdat de mogelijkheden om woningen te bouwen in Oostzaan uiterst beperkt zijn, is het CDA wel voorstander van middelhoogbouw, zoals het bestemmingsplan soms al toelaat (max. 5 verdiepingen). Resultaat is meer woningen voor Oostzaners in het dorp, ook goed voor het winkelbestand en voorzieningen."
+        },
+        "121501": {
+          "position": "agree",
+          "explanation": "Al dan niet tijdelijk, om op plekken waar sprake is parkeerdrukte lucht te bieden, bijvoorbeeld bij nieuwbouw in de buurt of omdat kinderen (met auto) bij gebrek aan woningen langer thuis moeten blijven wonen. Voorkeur om hierbij waterdoorlatende tegels te gebruiken."
+        },
+        "121504": {
+          "position": "disagree",
+          "explanation": "De muskuseenden vormen in aantallen een bekend probleem in het waterrijke Oostzaan, bovendien vervuilen ze de openbare ruimte. Opvangen is kostbaar en 'dweilen met de kraan open'."
+        },
+        "121506": {
+          "position": "agree",
+          "explanation": "Het doel van Twiske Poort is het Twiske meer recreatieve aantrekkingskracht te geven. Regio Amsterdam wil dit graag, maar hoe is de balans tussen lasten en lusten voor Oostzaan als een groot deel van het jaar sprake is van extra verkeer, toename van geluid en drukte?"
+        },
+        "121507": {
+          "position": "disagree",
+          "explanation": "Er is geen noodzaak om 'grote' festivals te organiseren in het Twiske. Regio Amsterdam wil dit graag, maar hoe is de balans tussen lasten en lusten voor het natuurgebied en Oostzaan? Het CDA wil in het belang van de inwoners eerst een goede evaluatie vanuit het perspectief van Oostzaan."
+        }
+      }
+    },
+    {
+      "id": 121451,
+      "name": "PvdA",
+      "fullName": "Partij van de Arbeid",
+      "website": "https://www.pvdaoostzaan.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "121458": {
+          "position": "agree",
+          "explanation": "iedereen is gelijk bij de PvdA."
+        },
+        "121459": {
+          "position": "agree",
+          "explanation": "Wij als Pvda vinden de mening van alle Oostzaners zeer belangrijk. Zij moeten een onderdeel zijn van zeer belangrijke onderwerpen om mee te kunnen beslissen."
+        },
+        "121462": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "121464": {
+          "position": "neither",
+          "explanation": ""
+        },
+        "121465": {
+          "position": "agree",
+          "explanation": "Dit zou een zeer goed alternatief zijn om de overlast tijdens oudejaarsavond aan te pakken."
+        },
+        "121467": {
+          "position": "agree",
+          "explanation": "Iedereen moet overal mee kunnen doen dus ook hier zijn wij voorstander van dat ook mensen met een beperking overal in moeten kunnen en als wij daar als gemeente ondernemers kunnen helpen staan wij daar alleen maar achter."
+        },
+        "121468": {
+          "position": "neither",
+          "explanation": ""
+        },
+        "121471": {
+          "position": "agree",
+          "explanation": "Muziekles op school is zeer belangrijk voor ieder kind."
+        },
+        "121478": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "121479": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "121480": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "121481": {
+          "position": "disagree",
+          "explanation": "Wij als PvdA willen graag dat ook mensen met een laag inkomen een normaal leven kunnen leven. Wij kunnen hun daarmee helpen door de gemeente belastingen kwijt te schelden."
+        },
+        "121482": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "121485": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "121486": {
+          "position": "neither",
+          "explanation": ""
+        },
+        "121489": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "121490": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "121493": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "121495": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "121496": {
+          "position": "agree",
+          "explanation": "Wij als PvdA vinden dit zeer belangrijk dat kinderen al op een jonge leeftijd leren zwemmen."
+        },
+        "121499": {
+          "position": "agree",
+          "explanation": "Wij als PvdA willen graag meer bouwen in Oostzaan."
+        },
+        "121501": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "121504": {
+          "position": "agree",
+          "explanation": "Wij steunen dit initiatief. Als hiermee de populatie beperkt kan worden."
+        },
+        "121506": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "121507": {
+          "position": "agree",
+          "explanation": "Als deze maar voldoen aan alle normen die er aan gesteld zijn dan vinden wij het als PvdA niet erg dat er één festival blijft in het Twiske."
+        }
+      }
+    },
+    {
+      "id": 121452,
+      "name": "D66",
+      "fullName": "D66",
+      "website": "https://d66.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "121458": {
+          "position": "disagree",
+          "explanation": "Wethouders komen vanuit meerdere partijen. Daarnaast zijn bestuurlijke ervaring en kennis van Oostzaan en de regio Zaanstreek-Waterland van belang."
+        },
+        "121459": {
+          "position": "agree",
+          "explanation": "D66 is voor democratische vernieuwing als aanvulling op de representatieve democratie. Referenda en burgeradviesraden zijn een goede aanvulling."
+        },
+        "121462": {
+          "position": "disagree",
+          "explanation": "Altijd is te definitief. Winkels zijn echt iets anders dan campings. Bij campings spelen ook zaken als natuur, verkeer, stikstof en omwonenden."
+        },
+        "121464": {
+          "position": "agree",
+          "explanation": "Met het advies om de adviezen van de \"Stookwijzer\" op te volgen."
+        },
+        "121465": {
+          "position": "agree",
+          "explanation": "Draagt bij aan saamhorigheid en gemeenschapszin."
+        },
+        "121467": {
+          "position": "agree",
+          "explanation": "Toegankelijkheid en inclusie is belangrijk."
+        },
+        "121468": {
+          "position": "disagree",
+          "explanation": "Bouwen op \"ouders erf\" is een redelijk alternatief. Bouwen op landbouwgrond via de ruimtelijke visie."
+        },
+        "121471": {
+          "position": "agree",
+          "explanation": "Cultuuronderwijs in brede zin vergroot de ontwikkeling van kinderen."
+        },
+        "121478": {
+          "position": "agree",
+          "explanation": "Toestaan voor tijdsperiodes van 10 - 15 jaar."
+        },
+        "121479": {
+          "position": "disagree",
+          "explanation": "Alle mogelijke woningbouwlocaties gebruiken."
+        },
+        "121480": {
+          "position": "agree",
+          "explanation": "Voor mensen die hier toe in staat zijn, met begeleiding als opstap naar werk en opleiding."
+        },
+        "121481": {
+          "position": "disagree",
+          "explanation": "Kwijtschelding voorkomt schulden en stress."
+        },
+        "121482": {
+          "position": "agree",
+          "explanation": "Een inkomensgrens van 120% van het minimum zorgt ervoor dat werkende armen en net-boven-minimum groepen niet tussen wal en schip vallen. De armoedeval zo klein mogelijk maken. "
+        },
+        "121485": {
+          "position": "agree",
+          "explanation": "30 km/u is goed voor de verkeersveiligheid en zorgt voor aanzienlijk minder letsel."
+        },
+        "121486": {
+          "position": "disagree",
+          "explanation": "Altijd is te definitief. Dit kan botsen met beschikbaarheid van zorg."
+        },
+        "121489": {
+          "position": "agree",
+          "explanation": "Hondenbelasting is een algemene heffing zonder tegenprestatie."
+        },
+        "121490": {
+          "position": "disagree",
+          "explanation": "Hogere toeristenbelasting kan de lokale economie schaden."
+        },
+        "121493": {
+          "position": "disagree",
+          "explanation": "Humane opvang en snelle integratie zijn nodig, maar op de huizenmarkt is een eerlijk verdeelsysteem met andere groepen woningzoekenden nodig."
+        },
+        "121495": {
+          "position": "neither",
+          "explanation": "Hangt af van de lokale situatie. Voorkeur gaat uit naar daken en gevels."
+        },
+        "121496": {
+          "position": "agree",
+          "explanation": "In het belang van kansengelijkheid en veiligheid."
+        },
+        "121499": {
+          "position": "disagree",
+          "explanation": "De huidige bouwhoogtes van 3 lagen met een kap handhaven."
+        },
+        "121501": {
+          "position": "disagree",
+          "explanation": "Huidig aantal parkeerplekken in wijken is voldoende. Bij uitbreiding van het aantal woningen in een wijk ook parkeerplekken realiseren."
+        },
+        "121504": {
+          "position": "disagree",
+          "explanation": "Bij goed beheer met preventie is een opvanglocatie in de gemeente Oostzaan niet nodig."
+        },
+        "121506": {
+          "position": "disagree",
+          "explanation": "Eerder was op dezelfde locatie De Blauwe Poort."
+        },
+        "121507": {
+          "position": "agree",
+          "explanation": "Binnen de bestaande afspraken."
+        }
+      }
+    }
+  ],
+  "statements": [
+    {
+      "id": 121507,
+      "index": 1,
+      "theme": "Festivals in Twiske",
+      "themeId": "festivals-in-twiske",
+      "title": "The municipality should continue to allow large festivals in the recreation and nature area Het Twiske.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 121458,
+      "index": 2,
+      "theme": "Mayor and municipal executive",
+      "themeId": "burgemeester-en-college",
+      "title": "The new college of mayor and aldermen must have an equal number of men and women.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 121465,
+      "index": 3,
+      "theme": "Fireworks",
+      "themeId": "vuurwerk",
+      "title": "The municipality should organize a fireworks show on New Year's Eve.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 121462,
+      "index": 4,
+      "theme": "Farm campsites",
+      "themeId": "boerencampings",
+      "title": "The municipality should always allow farmers to open, for example, a shop or a campsite at their farm.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 121471,
+      "index": 5,
+      "theme": "Music lessons",
+      "themeId": "muziekles",
+      "title": "Every primary school child should be able to receive music lessons subsidized by the municipality.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 121468,
+      "index": 6,
+      "theme": "Building on agricultural land",
+      "themeId": "bouwen-op-landbouwgrond",
+      "title": "It should be possible for farmers to build houses themselves on their land.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 121482,
+      "index": 7,
+      "theme": "Combating poverty",
+      "themeId": "armoedebestrijding",
+      "title": "The municipality should raise the income threshold for receiving poverty assistance.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 121495,
+      "index": 8,
+      "theme": "Solar panels on farmland",
+      "themeId": "zonnepanelen-op-landbouwgrond",
+      "title": "The municipality must allow solar panels on agricultural land.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 121459,
+      "index": 9,
+      "theme": "Referendum",
+      "themeId": "referendum",
+      "title": "Residents of Oostzaan should be able to give their opinion on important issues via a referendum.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 121481,
+      "index": 10,
+      "theme": "Stop debt forgiveness",
+      "themeId": "kwijtschelding-stoppen",
+      "title": "The municipality should stop forgiving municipal taxes for low-income residents.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 121504,
+      "index": 11,
+      "theme": "Muscovy ducks",
+      "themeId": "muskuseenden",
+      "title": "The municipality should fund a new shelter for muscovy ducks.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 121478,
+      "index": 12,
+      "theme": "Holiday homes",
+      "themeId": "vakantiewoningen",
+      "title": "The municipality must allow holiday homes to be used as a permanent residence.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 121464,
+      "index": 13,
+      "theme": "Wood burning",
+      "themeId": "houtstook",
+      "title": "In Oostzaan the use of open fireplaces and wood-burning stoves should remain permitted.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 121486,
+      "index": 14,
+      "theme": "Choice of healthcare",
+      "themeId": "zorgkeuze",
+      "title": "People who need care should always be able to choose a caregiver who matches their religion, culture, or beliefs.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 121490,
+      "index": 15,
+      "theme": "Tourist tax",
+      "themeId": "toeristenbelasting",
+      "title": "The tourist tax should be increased.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 121480,
+      "index": 16,
+      "theme": "Work requirement for welfare recipients",
+      "themeId": "tegenprestatie-voor-uitkering",
+      "title": "People receiving social assistance should, in return, do socially useful work.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 121485,
+      "index": 17,
+      "theme": "Car speeds",
+      "themeId": "snelheid-auto-s",
+      "title": "The maximum speed limit in built-up areas should be set to 30 km/h.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 121479,
+      "index": 18,
+      "theme": "Housing construction",
+      "themeId": "woningbouw",
+      "title": "The municipality should prevent new construction outside existing village boundaries.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 121493,
+      "index": 19,
+      "theme": "Priority for refugees",
+      "themeId": "voorrang-voor-vluchtelingen",
+      "title": "The municipality should give refugees with a residence permit priority for social housing.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 121501,
+      "index": 20,
+      "theme": "Parking spaces",
+      "themeId": "parkeerplaatsen",
+      "title": "There should be more parking spaces in the neighborhoods.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 121467,
+      "index": 21,
+      "theme": "Accessibility of buildings",
+      "themeId": "toegankelijkheid-gebouwen",
+      "title": "The municipality should financially help business owners to make their buildings accessible to people with disabilities.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 121499,
+      "index": 22,
+      "theme": "Apartment buildings",
+      "themeId": "woonflats",
+      "title": "High-rise residential towers may be built in Oostzaan.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 121496,
+      "index": 23,
+      "theme": "School swimming",
+      "themeId": "schoolzwemmen",
+      "title": "The municipality should allocate money for school swimming.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 121489,
+      "index": 24,
+      "theme": "Dog tax",
+      "themeId": "hondenbelasting",
+      "title": "The municipality should abolish the dog tax.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 121506,
+      "index": 25,
+      "theme": "Twiske Gate",
+      "themeId": "twiske-poort",
+      "title": "Oostzaan must block the construction of Twiske Poort.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    }
+  ]
+}

@@ -1,0 +1,1509 @@
+{
+  "id": "GM0388",
+  "name": "Enkhuizen",
+  "slug": "enkhuizen",
+  "parties": [
+    {
+      "id": 113657,
+      "name": "Enkhuizen Vooruit",
+      "fullName": "Enkhuizen Vooruit",
+      "website": "https://www.enkhuizenvooruit.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "113674": {
+          "position": "disagree",
+          "explanation": "Kwaliteit en betrokkenheid bij Enkhuizen staan voorop. Diversiteit, waaronder een goede vertegenwoordiging van vrouwen, vinden we belangrijk, maar een vaste verdeling mag niet leidend zijn."
+        },
+        "113675": {
+          "position": "agree",
+          "explanation": "Inwoners moeten bij belangrijke onderwerpen hun stem kunnen laten horen, maar een referendum is een aanvulling op de raad en vraagt om duidelijke spelregels en goede informatie."
+        },
+        "113678": {
+          "position": "disagree",
+          "explanation": "Extra activiteiten bij een boerenbedrijf kunnen kansen bieden, maar passen niet overal. De gemeente moet per situatie beoordelen wat ruimtelijk, verkeerskundig en voor de omgeving verantwoord is."
+        },
+        "113682": {
+          "position": "disagree",
+          "explanation": "Werkgevers hebben een verantwoordelijkheid voor goede huisvesting van seizoenarbeiders, maar dit hoeft niet altijd op het eigen terrein. De gemeente moet ruimte bieden voor maatwerk dat past bij omgeving, leefbaarheid en regels."
+        },
+        "113684": {
+          "position": "agree",
+          "explanation": "Open haarden en houtkachels mogen worden gebruikt, met aandacht voor gezondheid en overlast. Bewust stoken, goede voorlichting en handhaving bij overlast zijn daarbij belangrijk."
+        },
+        "113689": {
+          "position": "disagree",
+          "explanation": "Toegankelijkheid is belangrijk, maar de verantwoordelijkheid ligt in eerste instantie bij ondernemers zelf. De gemeente kan het goede voorbeeld geven in eigen gebouwen en stimuleren met kennis en advies, niet met structurele subsidies."
+        },
+        "113691": {
+          "position": "agree",
+          "explanation": "Sport en bewegen zijn belangrijk voor gezondheid en meedoen in de samenleving. Met bestaande regelingen kan ondersteuning worden geboden aan mensen die het lidmaatschap niet zelf kunnen betalen, zodat geld geen drempel vormt om te sporten."
+        },
+        "113694": {
+          "position": "disagree",
+          "explanation": "Muziekonderwijs is waardevol, maar het is niet nodig om dit voor elk kind te subsidiëren. De gemeente kan muziekonderwijs stimuleren via scholen en bestaande regelingen, met extra aandacht voor kinderen voor wie dit anders niet bereikbaar is."
+        },
+        "113696": {
+          "position": "disagree",
+          "explanation": "Monumenten zijn belangrijk voor de identiteit en aantrekkingskracht van Enkhuizen. Goed onderhoud voorkomt hogere kosten in de toekomst en draagt bij aan leefbaarheid, toerisme en behoud van het historische karakter van de stad."
+        },
+        "113698": {
+          "position": "neither",
+          "explanation": "Op specifieke plekken met aanhoudende veiligheidsproblemen kan cameratoezicht een passend middel zijn. Dit gebeurt alleen gericht en tijdelijk, na besluit van de officier van justitie, met oog voor privacy en als aanvulling op toezicht en preventie."
+        },
+        "113702": {
+          "position": "disagree",
+          "explanation": "Vakantiewoningen zijn bedoeld voor recreatie en toerisme. Permanent wonen zorgt voor druk op voorzieningen en handhaving en tast het recreatieve karakter aan. Wonen lossen we op met echte, passende woningen."
+        },
+        "113703": {
+          "position": "agree",
+          "explanation": "Nieuwbouw moet zoveel mogelijk binnen de bestaande stadsgrenzen plaatsvinden. Zo beschermen we het open landschap, benutten we ruimte beter en houden we Enkhuizen compact en leefbaar, met aandacht voor kwaliteit en passende woningbouw."
+        },
+        "113704": {
+          "position": "disagree",
+          "explanation": "Meedoen in de samenleving is belangrijk, maar mag geen verplichting zijn. We zetten in op begeleiding, activering en passend werk vanuit vertrouwen, waarbij rekening wordt gehouden met iemands situatie en mogelijkheden."
+        },
+        "113706": {
+          "position": "agree",
+          "explanation": "De huidige inkomensgrenzen sluiten niet altijd aan bij de werkelijkheid. Door de grens te verhogen, bereiken we ook mensen die net boven het minimum zitten maar wel moeite hebben om rond te komen."
+        },
+        "113708": {
+          "position": "agree",
+          "explanation": "Goede laadinfrastructuur is nodig voor de overstap naar elektrisch rijden. Door meer parkeerplaatsen geschikt te maken voor laden ondersteunen we deze ontwikkeling, met aandacht voor een eerlijke verdeling van de openbare ruimte."
+        },
+        "113709": {
+          "position": "disagree",
+          "explanation": "30 km/u kan op sommige straten bijdragen aan verkeersveiligheid en leefbaarheid, maar is niet overal passend. We kiezen voor maatwerk per straat, afhankelijk van functie, inrichting en verkeersdruk."
+        },
+        "113710": {
+          "position": "agree",
+          "explanation": "Goede zorg sluit aan bij de persoon. Waar mogelijk moeten mensen kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of levensovertuiging, binnen de grenzen van kwaliteit, beschikbaarheid en betaalbaarheid."
+        },
+        "113712": {
+          "position": "disagree",
+          "explanation": "De ozb is nodig om voorzieningen op peil te houden. We kiezen niet voor een algemene verlaging, maar kijken gericht naar betaalbaarheid en naar slimme keuzes in uitgaven, zodat lasten en voorzieningen in balans blijven."
+        },
+        "113714": {
+          "position": "disagree",
+          "explanation": "De toeristenbelasting is recent verhoogd. Nog een verhoging vinden we nu niet passend, omdat toerisme belangrijk is voor Enkhuizen en bijdraagt aan levendigheid en economische vitaliteit."
+        },
+        "113715": {
+          "position": "agree",
+          "explanation": "Bedrijventerreinen moeten ruimte bieden aan lokale ondernemers om te groeien en te verduurzamen. Uitbreiding kan, mits zorgvuldig ingepast, passend bij de schaal van Enkhuizen en met aandacht voor leefbaarheid en landschap."
+        },
+        "113717": {
+          "position": "disagree",
+          "explanation": "Sociale huurwoningen zijn schaars. We kiezen voor een eerlijke verdeling, waarbij urgentie telt maar geen groepen structureel worden voorgetrokken. We zetten in op voldoende woningbouw zodat iedereen perspectief heeft."
+        },
+        "113719": {
+          "position": "disagree",
+          "explanation": "Zonnepanelen horen in eerste instantie op daken en bestaande verharding. Landbouwgrond is schaars en belangrijk voor landschap en voedselproductie. Alleen in uitzonderlijke gevallen kan maatwerk worden overwogen."
+        },
+        "113720": {
+          "position": "disagree",
+          "explanation": "Cinema Enkhuizen is een belangrijke culturele voorziening en ontmoetingsplek. Gemeentelijke steun helpt om een divers en toegankelijk filmaanbod in stand te houden en draagt bij aan de levendigheid van de stad."
+        },
+        "113724": {
+          "position": "disagree",
+          "explanation": "Een vast aandeel van 40% sociale huur doet onvoldoende recht aan de lokale situatie. Enkhuizen heeft al een hoog aandeel sociale huur. Door per locatie te sturen op een goede woningmix ontstaat meer keuze, kwaliteit en doorstroming op de woningmarkt."
+        },
+        "113725": {
+          "position": "disagree",
+          "explanation": "Hoge woonflats passen niet bij het karakter en de schaal van Enkhuizen. We kiezen voor woningbouw die aansluit bij de omgeving en bijdraagt aan leefbaarheid, met oog voor kwaliteit en inpassing in de stad."
+        },
+        "113727": {
+          "position": "disagree",
+          "explanation": "Meer parkeerplaatsen in het centrum gaat ten koste van ruimte voor wonen, groen en verblijven. We zetten in op parkeren aan de randen van de stad en goede bereikbaarheid, zodat het centrum leefbaar en aantrekkelijk blijft."
+        },
+        "113729": {
+          "position": "disagree",
+          "explanation": "Een verplichte registratie voor alle boten is niet nodig. We kiezen voor duidelijke regels en handhaving waar dat nodig is, zonder extra administratieve lasten voor de gemeente en booteigenaren."
+        },
+        "113731": {
+          "position": "neither",
+          "explanation": "Een gemeentelijke fusie is geen doel op zich. Eerst moeten we onze eigen organisatie en financiën op orde hebben. Vanuit een sterke en zelfstandige positie kan daarna worden bekeken of intensievere samenwerking of samenvoeging meerwaarde heeft."
+        },
+        "113732": {
+          "position": "disagree",
+          "explanation": "Een nachtelijk verbod voor elektrische fietsen gaat te ver. We kiezen voor duidelijke regels, goed gedrag en handhaving bij gevaar of overlast, zodat voetgangers veilig zijn zonder onnodige verboden."
+        },
+        "113733": {
+          "position": "agree",
+          "explanation": "Meer openbare toiletten vergroten de toegankelijkheid en leefbaarheid van het centrum. Ze zijn belangrijk voor ouderen, gezinnen en bezoekers en dragen bij aan een gastvrije en aantrekkelijke stad."
+        }
+      }
+    },
+    {
+      "id": 129693,
+      "name": "SP",
+      "fullName": "Socialistische Partij",
+      "website": "https://sp.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "113674": {
+          "position": "agree",
+          "explanation": "Eens. Helaas gaan de partijen niet over de nieuw voor te dragen wethouders. Helaas is het ook zo dat de politiek tot op heden nog steeds een mannenbolwerk is en de keuze aan mannen daarmee groter is dan de keuze aan vrouwen."
+        },
+        "113675": {
+          "position": "agree",
+          "explanation": "Hier pleit de SP al jaren voor. Het instellen van burgerberaden, waar meer en meer goede ervaringen mee zijn, is een tussenoplossing om inwoners weer meer vertrouwen in de politiek en meer zeggenschap te geven. Referenda kunnen daar aanvullend op zijn."
+        },
+        "113678": {
+          "position": "agree",
+          "explanation": "De boeren hebben het moeilijk en ondersteuning waar kan, is wenselijk. Dit moet uitsluitend gaan over boeren die zelfstandig boeren en niet in dienst zijn van grote 'heren'boeren."
+        },
+        "113682": {
+          "position": "disagree",
+          "explanation": "Het rapport Roemer heeft geadviseerd dat seizoensarbeiders niet voor huisvesting afhankelijk moeten zijn van hun werkgever. Een centrale huisvestingslocatie van seizoensarbeiders, zoals in Zeewolde, met voldoende voorzieningen is een goede oplossing."
+        },
+        "113684": {
+          "position": "agree",
+          "explanation": "Er zijn inwoners met een smalle beurs, die met de houtkachel hun energierekening naar beneden brengen. Wel moeten inwoners met elkaar rekening houden door niet te stoken bij mist of windstil weer. Een optie zou kunnen zijn om een deel van een nog nieuw te bouwen wijk houtkachelvrij te laten."
+        },
+        "113689": {
+          "position": "disagree",
+          "explanation": "De omgeving is de verantwoordelijkheid van de gemeente. De toegang tot het gebouw van de ondernemer zelf is eigen verantwoordelijkheid. Mocht het een bijzondere situatie betreffen dan kan gekeken worden of de gemeente kan adviseren."
+        },
+        "113691": {
+          "position": "agree",
+          "explanation": "Hiervoor is het participatiefonds ingericht en subsidieert de gemeente ook Stichting Leergeld die hier ook ondersteuning voor biedt. Maar ook hier geldt dat we met meer maatwerk meer kunnen oplossen."
+        },
+        "113694": {
+          "position": "agree",
+          "explanation": "Zonder kennismaking geen talentontwikkeling. Elk kind moet kennis kunnen maken met kunst en cultuur. Het gaat om meer dan muziekles alleen. De kennismaking moet gesubsidieerd worden door de gemeente. Mocht een kind talentvol zijn dan is het aan de ouders om hun kind te ondersteunen bij het vervolg."
+        },
+        "113696": {
+          "position": "disagree",
+          "explanation": "Monumenten vertellen onze geschiedenis, we hebben ze te leen van onze voorouders en moeten ze weer doorgeven aan de volgende generatie.Wel moeten gemeenten met veel monumenten ondersteund worden door de landelijke overheid. De geschiedenis is belangrijk voor heel Nederland, voor ons en de toeristen."
+        },
+        "113698": {
+          "position": "disagree",
+          "explanation": "Cameratoezicht is een uiterste middel en creërt een waterbedeffect. De boa's moeten meer op straat zichtbaar zijn. Ze zijn de gastheren en gastvrouwen van onze stad. Inzetten op het voorkomen van overlast is veel belangrijker en vraagt vooral luisteren naar onze inwoners."
+        },
+        "113702": {
+          "position": "agree",
+          "explanation": "Als tijdelijke maatregel om de nijpende woningnood op te lossen moet dit een tijdelijke mogelijkheid zijn. Want er zijn teveel mensen die geen dak boven hun hoofd hebben of in een nijpende verblijfsituatie verkeren."
+        },
+        "113703": {
+          "position": "disagree",
+          "explanation": "Ja, want de woningnood is hoog en binnenstedelijk bouwen zeer duur. Zolang inwonenden nog jaren op een wachtlijst staan voor een sociale huurwoning moet er gebouwd worden."
+        },
+        "113704": {
+          "position": "disagree",
+          "explanation": "Bestaanszekerheid is een recht. Ook hier is maatwerk de oplossing. De beste weg uit armoede is betaald werk. We helpen bijstandsgerechtigden zoveel mogelijk op weg naar betaald werk, zinvol vrijwilligerswerk of goede dagbesteding. Naar ieders kunnen en maatwerk. Lukt het niet dan is er geen plicht."
+        },
+        "113706": {
+          "position": "agree",
+          "explanation": "Ondersteuning en preventieve maatregelen zijn heel belangrijk. Maatwerk zou de oplossing moeten zijn. De inkomensgrens verhogen zal de problemen en uiteindelijk duurdere oplossingen voorkomen. Wetenschappelijk onderzoek laat keer op keer zien dat elke geïnvesteerde euro meerdere euro's oplevert."
+        },
+        "113708": {
+          "position": "agree",
+          "explanation": "De oplaadplekken voor electrische auto's moeten zo worden ingericht dat er geen auto's staan die niet worden opgeladen. Dus de plaats is alleen beschikbaar voor opladen. We zetten in op innovatie door bijvoorbeeld van lantaarnpalen ook oplaadpalen te maken."
+        },
+        "113709": {
+          "position": "disagree",
+          "explanation": "De doorgaande wegen moeten op 50km per uur blijven. Een mobiele flitspaal kan ingezet worden om de snelheid te temperen. Op de andere wegen moet de inrichting zo zijn dat er 30 km gereden wordt. Maar een verandering in mentaliteit om met elkaar veilig van onze wegen gebruik te maken is ook nodig."
+        },
+        "113710": {
+          "position": "disagree",
+          "explanation": "Er zijn grote tekorten in de zorg. Indien het mogelijk is een match te maken op basis van geloof, cultuur of levensovertuiging is dat prima, maar het mag geen voorwaarde zijn. Dit kunnen we ons niet permitteren gezien de huidige situatie op de arbeidsmarkt."
+        },
+        "113712": {
+          "position": "disagree",
+          "explanation": "In principe alleen verhogen met het inflatiecorrectiepercentage. Maar de afgelopen jaren is het wel verhoogd vanwege de verlaging van het geld wat van het rijk komt. Het afgelopen jaar t.g.v. groenonderhoud. De OZB verhoging gaat om een fractie van de huurverhoging die huurders jaarlijks krijgen."
+        },
+        "113714": {
+          "position": "agree",
+          "explanation": "De toeristenbelasting verhogen we met het inflatiecorrectiepercentage, maar we kijken ook naar de andere gemeenten in de regio om met hen in één lijn te blijven."
+        },
+        "113715": {
+          "position": "agree",
+          "explanation": "Binnen de huidige bestemmingsplannen. Daar liggen nog vrije kavels en meer grond heeft Enkhuizen niet meer."
+        },
+        "113717": {
+          "position": "agree",
+          "explanation": "Vluchtelingen hebben niet de mogelijkheid om zich tijdig in te schrijven. De woningnood is niet de schuld van de vluchteling maar van slecht landelijk beleid. Sociale huurwoningen worden verkocht en er wordt te weinig bijgebouwd. Er moet 40% sociaal komen zodat er voor iedereen een huis is."
+        },
+        "113719": {
+          "position": "disagree",
+          "explanation": "Eerst zon op dak. Er zijn nog voldoende geschikte daken die niet bedekt zijn met zonnepanelen. Dat gaat voor. Ook kunnen parkeerterreinen nog overdekt worden met zonnepanelen."
+        },
+        "113720": {
+          "position": "disagree",
+          "explanation": "Cinema Enkhuizen heeft net als iedere andere vereniging/club recht om subsidie aan te vragen. Mits het past binnen het subsidiebeleid en een maatschappelijke meerwaarde meebrengt."
+        },
+        "113724": {
+          "position": "agree",
+          "explanation": "In Enkhuizen is het aantal sociale huurwoningen ook 28%. De wachttijd voor een sociale huurwoning is 11,51 jaar en de eerste woningnood kan het snelst worden verlicht door minimaal 40% sociaal te bouwen. We bouwen naar behoefte, wonen is een recht, geen verdienmodel."
+        },
+        "113725": {
+          "position": "agree",
+          "explanation": "Maar uitsluitend langs de randen van de stad. En maximaal 5 woonlagen."
+        },
+        "113727": {
+          "position": "disagree",
+          "explanation": "Parkeren doen we aan de randen van de stad. De parkeerplaatsen die er in het centrum zijn worden ingezet voor de mensen die in de stad wonen. Parkeerplaatsen voor invaliden of mensen die slecht ter been zijn komen wel in de stad."
+        },
+        "113729": {
+          "position": "agree",
+          "explanation": "De overlast op het water is groot. De handhaving is erg ingewikkeld, registreren met kenteken kan helpen de overlastgevers uit de anonimiteit te krijgen. Recreëren op het water moet voor iedereen aangenaam zijn. We gaan hierover bij de inwoners te rade of zij willen meedenken voor oplossingen."
+        },
+        "113731": {
+          "position": "disagree",
+          "explanation": "Enkhuizen blijft vooralsnog zelfstandig. Ons sociaal beleid is meer sociaal dan dat van onze buurgemeenten. We hebben al een ambtelijke fusie. Over een bestuurlijke fusie moeten inwoners zich kunnen uitspreken via burgerberaad of referendum."
+        },
+        "113732": {
+          "position": "disagree",
+          "explanation": "Winkels open dan moet men lopen. Wanneer de winkels gesloten zijn mag men fietsen, of het electrisch is of gewoon. Dat maakt geen verschil."
+        },
+        "113733": {
+          "position": "agree",
+          "explanation": "Er zijn tekort openbare toiletten. De hoge noodapp biedt deels een oplossing maar buiten openingstijden niet. Dan moeten er voldoende openbare toiletten toegankelijk zijn. Uitbreiding van het aantal openbare toiletten in binnen- en buitenstad komt ook de ondernemers ten goede."
+        }
+      }
+    },
+    {
+      "id": 113660,
+      "name": "CDA",
+      "fullName": "Christen-Democratisch Appèl",
+      "website": "https://www.cda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "113674": {
+          "position": "disagree",
+          "explanation": "CDA Enkhuizen vindt een goede afspiegeling van de samenleving in het college en de gemeenteraad belangrijk. Dat betekent echter niet dat het aantal mannen en vrouwen in het college verplicht gelijk moet zijn. Bestuurders moeten bovenal gekozen worden op basis van kwaliteit, niet geslacht."
+        },
+        "113675": {
+          "position": "disagree",
+          "explanation": "Met een referendum kan je alleen 'ja' of 'nee' antwoorden op ingewikkelde onderwerpen. Dit zorgt ervoor dat besluiten genomen gaan worden puur op basis van emotie i.p.v. feiten en nuance. Wij pleiten voor meer betrokkenheid van burgers voordat beleid wordt vastgesteld. Denk aan een burgerpanel."
+        },
+        "113678": {
+          "position": "agree",
+          "explanation": "CDA-afdelingen zijn over het algemeen voor het toestaan van een winkel of camping bij een boerenbedrijf. Dit helpt boeren namelijk aan extra inkomsten en versterkt de lokale economie. Wel moet dit passen bij het landschap, het bestemmingsplan en met omwonenden worden afgestemd."
+        },
+        "113682": {
+          "position": "agree",
+          "explanation": "De West-Friese gemeenten moeten werkgevers in de land- en tuinbouw zoveel mogelijk stimuleren om zelf te zorgen voor de huisvesting van seizoensarbeiders. Een win-winsituatie voor iedereen: het neemt overlast weg bij onze inwoners en het maakt huizen in woonwijken vrij voor onze inwoners."
+        },
+        "113684": {
+          "position": "agree",
+          "explanation": "Gemeenten kunnen het gebruik van open haarden en houtkachels niet verbieden. Ze zijn namelijk toegestaan als product op de Europese markt. Wel is CDA Enkhuizen voorstander van het reguleren van het gebruik hiervan om luchtvervuiling zoveel mogelijk te beperken."
+        },
+        "113689": {
+          "position": "disagree",
+          "explanation": "Voor CDA Enkhuizen is het helder: iedereen die kan, doet mee. In Enkhuizen staat niemand langs de kant. Niet alleen de gemeente, maar de hele samenleving heeft de verantwoordelijkheid om ervoor te zorgen dat iedereen mee kan doen. Ondernemers hebben ook een eigen verantwoordelijkheid hierin."
+        },
+        "113691": {
+          "position": "agree",
+          "explanation": "CDA Enkhuizen wil sportpassen geven aan kinderen uit gezinnen die het minder breed hebben. Zo wordt sporten voor hen toegankelijker."
+        },
+        "113694": {
+          "position": "disagree",
+          "explanation": "Muziek en cultuur verbinden mensen en stimuleren persoonlijke ontwikkeling. CDA Enkhuizen wil cultuur aan iedereen meegeven. Dit betekent echter niet dat elk basisschoolkind subsidie hiervoor nodig heeft. We kijken daarom op maat hoe we dit kunnen stimuleren bij kinderen die het minder breed hebben."
+        },
+        "113696": {
+          "position": "disagree",
+          "explanation": "Enkhuizen ademt monumenten. Van de Drommedaris tot de Zuiderkerk. Deze cultuur willen wij aan iedereen meegeven. Daarom hebben we de afgelopen jaren veel geld geïnvesteerd in het onderhoud van monumenten. Wat ons betreft wordt hier niet bezuinigd hierop, maar gaat er ook niet nog meer geld naartoe."
+        },
+        "113698": {
+          "position": "agree",
+          "explanation": "Meer cameratoezicht in de openbare ruimte draagt bij aan preventie en vergroting van de pakkans van daders. Op verzoek van ondernemers wil CDA Enkhuizen camerabewaking op Schepenwijk en Krabbersplaat uitbreiden. Hiermee pakken we criminaliteit en overlast aan."
+        },
+        "113702": {
+          "position": "disagree",
+          "explanation": "Permanent toestaan van wonen in vakantiewoningen is geen duurzame oplossing voor het grote woningtekort. Vakantiewoningen zijn namelijk niet ingericht voor permanent verblijf. De echte oplossing zit in het bouwen van meer woningen en het beter benutten van de bestaande woonvoorraad."
+        },
+        "113703": {
+          "position": "disagree",
+          "explanation": "CDA is over het algemeen voorstander van een straatje erbij. Een van de oorzaken van het grote woningtekort is dat nieuwbouw buiten de bestaande dorpsgrenzen te lang is tegengehouden door o.a. de provincie."
+        },
+        "113704": {
+          "position": "agree",
+          "explanation": "Maatschappelijk zinvol werk geeft structuur, zingeving en sociale contacten. Zo blijven mensen betrokken en wordt eenzaamheid tegengegaan. Indien mensen in de bijstand dit kunnen doen, willen we dat daarom zoveel mogelijk stimuleren."
+        },
+        "113706": {
+          "position": "disagree",
+          "explanation": "De inkomensgrens om hulp te krijgen bij armoede ligt in Enkhuizen al hoger (120%) dan in Stede Broec en Drechterland (110%). Een verdere verhoging leidt tot een aanzuigende werking vanuit buurgemeenten en hogere lasten voor inwoners. Deze vorm van hulp blijft bedoeld voor wie het echt nodig heeft."
+        },
+        "113708": {
+          "position": "agree",
+          "explanation": "Het gebruik van elektrische auto's zal de komende jaren blijven toenemen. Dat betekent simpelweg dat er meer oplaadplekken bij moeten komen. CDA Enkhuizen wil hiervoor vooral kijken naar de randen van de binnenstad om het risico op grote schade door brand zoveel mogelijk te beperken."
+        },
+        "113709": {
+          "position": "agree",
+          "explanation": "De openbare weg moet voor iedereen veilig en toegankelijk zijn. Het wordt steeds drukker op de weg. Hiermee neemt de kans op ongelukken toe. Een lagere maximumsnelheid verbetert de verkeersveiligheid."
+        },
+        "113710": {
+          "position": "agree",
+          "explanation": "Zorg die aansluit bij iemands geloof of cultuur vergroot het gevoel van veiligheid en vertrouwen. Zonder deze keuzevrijheid kunnen sommige groepen zorgmijden of pas later hulp zoeken. Dat leidt tot onnodige gezondheidsverschillen tussen groepen."
+        },
+        "113712": {
+          "position": "agree",
+          "explanation": "CDA Enkhuizen verzet zich al jaren tegen forse verhogingen van de ozb. Zo betalen ondernemers in Enkhuizen al 56% meer ozb dan in alle andere West-Friese gemeenten. Ons standpunt is glashelder: we laten de ozb niet boven inflatie stijgen. We kijken eerst naar besparingen binnen de gemeente zelf."
+        },
+        "113714": {
+          "position": "agree",
+          "explanation": "Wat CDA Enkhuizen betreft is toerisme geen bijzaak. Wij willen de komende jaren investeren om Enkhuizen nog aantrekkelijker te maken voor toeristen. Dit kan o.a. betaald worden uit een verhoging van de toeristenbelasting. Toeristen betalen dan direct mee aan meer en betere voorzieningen."
+        },
+        "113715": {
+          "position": "agree",
+          "explanation": "We pakken door met de uitbreiding van Schepenwijk 2.0. Hiermee krijgen bedrijven ruimte om te groeien. Minder focus op kleine units. Daarnaast breiden we camerabewaking op Schepenwijk en Krabbersplaat uit. Dit zorgt voor meer banen en inkomsten voor onze stad."
+        },
+        "113717": {
+          "position": "disagree",
+          "explanation": "De huisvesting van statushouders wordt landelijk bepaald via een taakstelling van het Rijk. Gemeenten zijn niet verplicht om extra voorrang te geven op sociale huur. In West-Friesland gaat al circa 6% van de woningen naar statushouders; verdere voorrang vergroot de druk voor andere woningzoekenden."
+        },
+        "113719": {
+          "position": "disagree",
+          "explanation": "Voor CDA is zonnepanelen op landbouwgrond de allerlaatste optie. Wij vinden het eeuwig zonde om op vruchtbare grond zonneweides te plaatsen. Over het algemeen is hier lokaal ook geen draagvlak voor. Zonnepanelen op daken en boven parkeerplaatsen zijn wel goede opties."
+        },
+        "113720": {
+          "position": "agree",
+          "explanation": "De gemeente moet samen met de Drom kijken hoe de bioscoop rendabel gemaakt kan worden. Als dit niet lukt, willen we samen met het postkantoor in Bovenkarspel een rendabele bioscoop realiseren. Hierdoor kan de Drom twee zalen meer verhuren, waardoor de Drom zelf meer inkomsten kan genereren."
+        },
+        "113724": {
+          "position": "disagree",
+          "explanation": "40% sociale huur is niet haalbaar en betaalbaar. Woningbouwcorporaties draaien gemiddeld 48 euro per woning per maand verlies. CDA Enkhuizen wil in nieuwbouwwijken 30% sociale huur; 35% betaalbare koop en middenhuur; en 35% duur. Zo heb je een mooie mix aan woningen voor diverse doelgroepen."
+        },
+        "113725": {
+          "position": "agree",
+          "explanation": "CDA Enkhuizen wil in onze nieuw te bouwen wijken Gouwe Vaart en Nijevoert ook woonflats realiseren. 40% van de actieve woningzoekenden in deze regio wil namelijk het liefst in een appartement wonen. Het bouwen van appartementen is ook nodig om woningbouwprojecten betaalbaar te houden."
+        },
+        "113727": {
+          "position": "agree",
+          "explanation": "De parkeerdruk zal de komende jaren toenemen waardoor er mogelijk meer parkeerplaatsen nodig zijn. Indien mogelijk kijken we daarom naar locaties waar meer parkeerplaatsen gerealiseerd kunnen worden. Wel erkennen we dat dit lastig is."
+        },
+        "113729": {
+          "position": "disagree",
+          "explanation": "De boten boven 20pk moeten al geregistreerd worden. Extra registratie is dus overbodig. Daarnaast hebben we de capaciteit qua handhaving hiervoor niet."
+        },
+        "113731": {
+          "position": "agree",
+          "explanation": "CDA Enkhuizen is in principe voor een bestuurlijke fusie met Stede Broec en Drechterland. Het leidt namelijk tot efficiënter werken, lagere kosten en betere dienstverlening. Voorwaarden zijn wel dat inwoners erachter staan, buurgemeenten meedoen en dat Enkhuizen zijn eigenheid behoudt."
+        },
+        "113732": {
+          "position": "agree",
+          "explanation": "Elektrische fietsen rijden vaak sneller en geruislozer. Voetgangers zijn in het donker minder alert. Dit kan 's nachts extra gevaar opleveren. Bovendien voorkomt één regel voor dag en nacht verwarring."
+        },
+        "113733": {
+          "position": "agree",
+          "explanation": "In een toeristische en gastvrije stad horen er genoeg openbare toiletten te zijn. Gelukkig zijn de toiletlocaties in het stadhuis en de haven al openbaar en te vinden via de app. Daarnaast vinden wij dat de gemeente ondernemers moet motiveren om hun toiletten vindbaar te maken."
+        }
+      }
+    },
+    {
+      "id": 113661,
+      "name": "D66",
+      "fullName": "D66",
+      "website": "https://d66.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "113674": {
+          "position": "agree",
+          "explanation": "Hier streven we naar."
+        },
+        "113675": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "113678": {
+          "position": "agree",
+          "explanation": "Waar mogelijk."
+        },
+        "113682": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "113684": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "113689": {
+          "position": "agree",
+          "explanation": "Voor zover haalbaar."
+        },
+        "113691": {
+          "position": "disagree",
+          "explanation": "Dat lijkt niet financieel haalbaar."
+        },
+        "113694": {
+          "position": "agree",
+          "explanation": "Voor zover haalbaar."
+        },
+        "113696": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "113698": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "113702": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "113703": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "113704": {
+          "position": "agree",
+          "explanation": "Zo mogelijk"
+        },
+        "113706": {
+          "position": "disagree",
+          "explanation": "De gemeente moet de landelijke norm voor het sociaal minimum aanhouden."
+        },
+        "113708": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "113709": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "113710": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "113712": {
+          "position": "neither",
+          "explanation": "Hangt af van de financiële toestand van de gemeente."
+        },
+        "113714": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "113715": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "113717": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "113719": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "113720": {
+          "position": "disagree",
+          "explanation": ""
+        },
+        "113724": {
+          "position": "disagree",
+          "explanation": "30% moet de norm blijven."
+        },
+        "113725": {
+          "position": "neither",
+          "explanation": "De vraag is hoe hoog en waar."
+        },
+        "113727": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "113729": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "113731": {
+          "position": "neither",
+          "explanation": "Hopelijk is er een andere oplossing."
+        },
+        "113732": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "113733": {
+          "position": "agree",
+          "explanation": ""
+        }
+      }
+    },
+    {
+      "id": 113662,
+      "name": "GroenLinks-PvdA",
+      "fullName": "Groenlinks - Partij van de Arbeid",
+      "website": "https://groenlinkspvda.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "113674": {
+          "position": "neither",
+          "explanation": "Diversiteit in het college is een mooi streven, maar het belangrijkste is dat het college bestaat uit mensen die zich maximaal inzetten voor de stad."
+        },
+        "113675": {
+          "position": "disagree",
+          "explanation": "Inspraak is uiteraard belangrijk. Wij vinden dat dit al voldoende is geregeld middels verkiezingen en mogelijkheid tot inspraak bij vergaderingen van de gemeenteraad."
+        },
+        "113678": {
+          "position": "neither",
+          "explanation": "Dit is situatieafhankelijk."
+        },
+        "113682": {
+          "position": "neither",
+          "explanation": "Seizoensarbeiders moeten fatsoenlijk worden gehuisvest. Dit kan op verschillende manieren. Het is belangrijk om misstanden te voorkomen."
+        },
+        "113684": {
+          "position": "disagree",
+          "explanation": "Wij kiezen ervoor om bewoners te stimuleren om de woning duurzaam te verwarmen."
+        },
+        "113689": {
+          "position": "agree",
+          "explanation": "Wij willen dat iedereen mee kan doen in de samenleving. Als dergelijke initiatieven daaraan bijdragen steunen we dat."
+        },
+        "113691": {
+          "position": "agree",
+          "explanation": "Dit is bestaand beleid en daar gaan wij mee door."
+        },
+        "113694": {
+          "position": "neither",
+          "explanation": "Wij zijn geen voorstander van een algemene subsidie voor muziekles. Wij zien wel kansen om samen met verschillende verenigingen initiatieven op te zetten als het gaat om onderwijs, sport en cultuur."
+        },
+        "113696": {
+          "position": "disagree",
+          "explanation": "Een groot deel hiervan wordt betaald door het rijk. Daarnaast horen monumenten bij onze stad en die moeten wij koesteren."
+        },
+        "113698": {
+          "position": "neither",
+          "explanation": "De afweging tussen privacy en veiligheid is een hele zorgvuldige. Dit is maatwerk."
+        },
+        "113702": {
+          "position": "disagree",
+          "explanation": "Vakantieparken zijn niet geschikt voor permanente bewoning."
+        },
+        "113703": {
+          "position": "disagree",
+          "explanation": "De nieuw te realiseren woonwijk Gouwe Vaart en Nijevoert worden gerealiseerd buiten de dorpsgrenzen. Deze projecten blijven wij steunen."
+        },
+        "113704": {
+          "position": "disagree",
+          "explanation": "Wij stimuleren dit, maar we willen dit niet verplichten."
+        },
+        "113706": {
+          "position": "neither",
+          "explanation": "Wij willen het huidige beleid in stand houden en de inkomensgrens zeker niet verlagen. Armoedebeleid is een speerpunt van onze partij."
+        },
+        "113708": {
+          "position": "agree",
+          "explanation": "Wij steunen de energietransitie. We zullen hier als gemeente op moeten inspelen."
+        },
+        "113709": {
+          "position": "agree",
+          "explanation": "Vanwege de veiligheid en milieu zijn we het eens met deze stelling."
+        },
+        "113710": {
+          "position": "agree",
+          "explanation": "Wij zijn het eens met deze stelling, maar twijfelen over de invloed van de gemeente op dit punt."
+        },
+        "113712": {
+          "position": "disagree",
+          "explanation": "Vanwege de financiële situatie van de gemeente vinden wij het niet verstandig om de ozb te verlagen."
+        },
+        "113714": {
+          "position": "neither",
+          "explanation": "De toeristenbelasting is recent verhoogd. Wijzigingen in de toekomst sluiten wij niet uit."
+        },
+        "113715": {
+          "position": "disagree",
+          "explanation": "Op dit moment zien wij geen noodzaak om bedrijventerreinen uit te bereiden."
+        },
+        "113717": {
+          "position": "agree",
+          "explanation": "We houden ons hiermee vast aan het huidige beleid."
+        },
+        "113719": {
+          "position": "agree",
+          "explanation": "Dit is situatieafhankelijk. We zetten eerst in op zonnepanelen op daken, pas daarna gaan we op zoek naar alternatieve locaties."
+        },
+        "113720": {
+          "position": "disagree",
+          "explanation": "We moeten de voorzieningen in Enkhuizen op peil houden. Wij dragen de Drom en de Cinema een warm hart toe."
+        },
+        "113724": {
+          "position": "disagree",
+          "explanation": "Wij streven naar 30% sociale huur, 40% betaalbare koop en 30% vrije sector."
+        },
+        "113725": {
+          "position": "agree",
+          "explanation": "Met de huidige woningnood ontkomen we hier niet aan. We vinden het belangrijk dat dit goed ingepast wordt met veel openbaar groen."
+        },
+        "113727": {
+          "position": "disagree",
+          "explanation": "Het doel van het parkeerbeleid is in onze ogen een autoluwere binnenstad."
+        },
+        "113729": {
+          "position": "disagree",
+          "explanation": "Booteigenaren betalen al havengeld. Registratie van de boten heeft geen toegevoegde waarde."
+        },
+        "113731": {
+          "position": "agree",
+          "explanation": "Wij zijn voorstander van een bestuurlijke fusie tussen Enkhuizen, Stede Broec en Drechterland."
+        },
+        "113732": {
+          "position": "disagree",
+          "explanation": "Het huidige beleid volstaat. Daarnaast is dit verbod niet te handhaven."
+        },
+        "113733": {
+          "position": "agree",
+          "explanation": "Het gebrek aan openbare toiletten is een groot probleem in Nederland. Voor inwoners en bezoekers moeten we ons inzetten voor openbare toiletten."
+        }
+      }
+    },
+    {
+      "id": 113658,
+      "name": "HEA",
+      "fullName": "Het Enkhuizer Alternatief",
+      "website": "https://heaenkhuizen.com/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "113674": {
+          "position": "agree",
+          "explanation": "HEA streeft ernaar om een juiste afspiegeling na te streven in aanwezigheid van vrouwen en mannen in alle geledingen van de maatschappij, dus ook in een college van B&W. Voor de verkiezingen van 2026 staan bij HEA 2 vrouwen bij de eerste 3 plaatsen en 4 vrouwen bij de eerste 9 kandidaten."
+        },
+        "113675": {
+          "position": "agree",
+          "explanation": "HEA streeft naar een optimale transparantie en openheid in de politiek. Over belangrijke onderwerpen zou een referendum een goed instrument kunnen zijn om de participatie van inwoners te vergroten. Participeren in plaats van enkel informeren."
+        },
+        "113678": {
+          "position": "neither",
+          "explanation": "Het is logisch dat een Gemeente toetst of er naast een boerenbedrijf een camping of winkel gerealiseerd kan worden en daarvoor een vergunning verstrekt maar niet op voorhand dit verbieden en of toestaan."
+        },
+        "113682": {
+          "position": "neither",
+          "explanation": "Niet per definitie, echter er is een woningtekort De inzet van woningen voor seizoenarbeiders op eigen bedrijventerrein zal de druk op de woningmarkt niet vergroten. Huisvesting van seizoenarbeiders is meer een en en verhaal met een gemeenschappelijke verantwoordelijkheid, werkgever en overheid."
+        },
+        "113684": {
+          "position": "neither",
+          "explanation": "Er dient een goed doordacht en acceptabel stookbeleid te komen vanuit de Gemeente waarin is vastgelegd wanneer er wel en of niet geadviseerd wordt om te stoken."
+        },
+        "113689": {
+          "position": "neither",
+          "explanation": "Wet en regelgeving zijn leidend in deze, bij historische gebouwen in Enkhuizen is het lastig om een gebouw toegankelijker te maken. Overleg in deze is belangrijk om de (on) mogelijkheden met elkaar te bespreken en tot oplossingen te komen. Overleg met elkaar en komen tot aanvaardbare oplossingen."
+        },
+        "113691": {
+          "position": "agree",
+          "explanation": "Bewegen voor jong en oud is essentieel voor de gezondheid. Wanneer door financiële beperkingen en niet gezond gesport kan worden dient de lokale overheid hierin in alle redelijkheid een tegemoetkoming te verstrekken."
+        },
+        "113694": {
+          "position": "neither",
+          "explanation": "Het zou een beter alternatief zijn wanneer basisschoolkinderen muziekles op de basisschool krijgen las onderdeel van het lesaanbod."
+        },
+        "113696": {
+          "position": "disagree",
+          "explanation": "HEA ziet erfgoed niet als last, maar als troef. Monumenten en historische structuren dragen bij aan de identiteit, het toerisme en de leefbaarheid van Enkhuizen. Daarom verdient ons erfgoed een actief en toekomstbestendig beleid. Erfgoed moet met respect en liefde onderhouden worden."
+        },
+        "113698": {
+          "position": "agree",
+          "explanation": "Cameratoezicht is een van de meest voor de hand liggende opties om te komen tot een veiligere stad en omgeving. Cameratoezicht is een van de ingrijpendste vormen van toezicht ten aanzien van privacy. Er dient een goede balans te zijn tussen de inzet/doel en privacy waarborging."
+        },
+        "113702": {
+          "position": "agree",
+          "explanation": "Mits wet en regelgeving zich daar niet tegen verzetten. Anders deze wet/regelgeving aanpassen op lokaal Gemeentelijk niveau, gezien de schaarste en krapte op de woningmarkt."
+        },
+        "113703": {
+          "position": "disagree",
+          "explanation": "Er dient gebouwd te worden en dat kan ook buiten bestaande dorpsgrenzen mits wet en regelgeving dit mogelijk maken."
+        },
+        "113704": {
+          "position": "agree",
+          "explanation": "Om de sociale cohesie, inclusie, eigenwaarde door actief deel te nemen aan het maatschappelijke verkeer en dit te bevorderen zou het wenselijk zijn wanneer dit mogelijk zou kunnen zijn."
+        },
+        "113706": {
+          "position": "agree",
+          "explanation": "Eens, maar verhogen betekend ook extra kosten , de taart wordt niet groter maar het aantal afnemers wel. We kunnen daarnaast beter inzetten op preventie/voorlichting/bewustwording als middel om (uitbreiding) van armoede het hoofd te kunnen bieden. Het is een en en verhaal."
+        },
+        "113708": {
+          "position": "agree",
+          "explanation": "Efficiënt gebruik van ruimte in en rondom de stad door combinaties van wonen, parkeren en werken te creëren. Stimuleren van initiatieven van ondernemers op bestaande industrieterreinen ten aanzien van parkeren, milieu en verduurzaming. Kortom een breed integraal parkeerbeleid vorm gaan geven."
+        },
+        "113709": {
+          "position": "agree",
+          "explanation": "Zeker in het kader van veiligheid, kinderen die deelnemen aan het verkeer, verkeerdruk/snelheid in een historische smalle binnenstad. Maar bij het verlagen van de maximale snelheid dient wel gehandhaafd te worden op snelheidsovertredingen."
+        },
+        "113710": {
+          "position": "agree",
+          "explanation": "Het uitgangspunt is dat iedereen die zorg nodig heeft een beroep op voorzieningen die zorg vertrekken kunnen doen en daarbij voorkeur kunnen uitspreken voor een zorgverlener die bij hun past. Gezien de schaarste kan het voorkomen dat dit niet altijd gehonoreerd kan worden."
+        },
+        "113712": {
+          "position": "agree",
+          "explanation": "De OZB is de afgelopen jaren teveel gestegen in Enkhuizen en wordt door de inwoners als melkkoe gezien welke telkens bij ( mogelijke) tekorten wordt aangewend om deze te verhogen."
+        },
+        "113714": {
+          "position": "agree",
+          "explanation": "Jaarlijkse verhoging, naast de indexsering, de verhoging dient ten goede te komen aan het toerisme en verfraaiing van de historische binnenstad en havens."
+        },
+        "113715": {
+          "position": "agree",
+          "explanation": "Wanneer er voldoende grond beschikbaar is voor uitbreiding is dit zeker een optie. Uitbreiding mede gericht op verduurzamen van het bedrijventerreinen."
+        },
+        "113717": {
+          "position": "disagree",
+          "explanation": "Iedereen met een woonwens die ingeschreven staat als woningzoekende dient gelijk behandeld te worden."
+        },
+        "113719": {
+          "position": "neither",
+          "explanation": "Voorkeur gaat uit naar daken etc. en andere vormen van verduurzaming ten aanzien van de energietransitie. Zonneweides gaan vaak ten koste van beschikbare en kostbare landbouwgronden."
+        },
+        "113720": {
+          "position": "disagree",
+          "explanation": "Cultuur zorgt ervoor dat mensen elkaar ontmoeten ,zich thuis voelen in hun stad, of het nu gaat om een voorstelling in het cinema, exposities in het Zuiderzeemuseum, muziekavond in de binnenstad, of creatieve activiteit in het buurthuis. Daarom wil HEA dat cultuur toegankelijk voor iedereen is."
+        },
+        "113724": {
+          "position": "agree",
+          "explanation": "Enkhuizen is een Gemeente met een relatief grote groep mensen die in aanmerking komen voor een sociale huurwoning, echter 40% is een hoog aantal ten opzichte van het landelijk gemiddelde."
+        },
+        "113725": {
+          "position": "disagree",
+          "explanation": "Gezien het historische karakter van de stad en zijn vele monumenten/Skyline lijkt me flats die hoger zijn dan de bestaande flats niet echt wenselijk."
+        },
+        "113727": {
+          "position": "disagree",
+          "explanation": "Uitbreiding van de parkeercapaciteit op bijvoorbeeld de Ossenmarkt door realiseren meerdere parkeerdekken. Inzet van locaties zoals het Flevoland-terrein als langparkeerplaatsen voor auto’s. Stimuleren initiatieven van ondernemers op bestaande industrieterreinen ten aanzien van parkeren (Mhub)."
+        },
+        "113729": {
+          "position": "agree",
+          "explanation": "Dit in verband met handhaving in gebieden buiten de reguliere havens."
+        },
+        "113731": {
+          "position": "agree",
+          "explanation": "HEA is een voorstander van een bestuurlijk samengaan van de deelnemende Gemeentes binnen de SED. Naast een sterke volwaardige gemeente die efficiënter/effectiever kan werken veranderd het dynamische krachtenveld jegens de regio/provincie. Samengaan gebaseerd op gelijkwaardigheid en eigenheid."
+        },
+        "113732": {
+          "position": "agree",
+          "explanation": "Voetgangersgebied is voetgangersgebied, afwijkingen in begaanbaarheid leidt tot verwarring, onduidelijkheid en mogelijk gevaarlijke situaties, dat geld zowel voor overdag als in de nachtelijke uren."
+        },
+        "113733": {
+          "position": "agree",
+          "explanation": "Inderdaad meer openbare toiletten, die toegankelijk zijn voor mensen met een beperking, goed hygiënisch onderhouden worden en als service gezien kunnen worden naar de inwoners en toeristen die in de stad aan het winkelen zijn."
+        }
+      }
+    },
+    {
+      "id": 113663,
+      "name": "VVD",
+      "fullName": "Volkspartij voor Vrijheid en Democratie",
+      "website": "https://www.vvd.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "113674": {
+          "position": "disagree",
+          "explanation": "Wij zijn van mening dat het college gevuld moet zijn met mensen die verstand van zaken hebben. Voorkeur op basis van geslacht mag nooit een specifiek selectie onderdeel zijn!"
+        },
+        "113675": {
+          "position": "neither",
+          "explanation": "Wij staan hier dubbel in, natuurlijk moet de burger gehoord worden. Maar als alles onderdeel van een referendum kan worden wordt onze stad onbestuurbaar."
+        },
+        "113678": {
+          "position": "agree",
+          "explanation": "Als ondernemers partij juichen wij dit zeker toe!"
+        },
+        "113682": {
+          "position": "agree",
+          "explanation": "Wij zijn van mening dat dit zoveel als mogelijk moet, hierdoor spelen wij woningen vrij voor onze eigen inwoners. Ook is hier beter controle mogelijk op de leefomstandigheden van de seizoenarbeiders."
+        },
+        "113684": {
+          "position": "agree",
+          "explanation": "Het is een Utopische gedachte dat het gebruik van kachels of open haarden kan worden afgeschaft. Wel zijn zijn van mening dat de gemeenten wel een meer adviserende rol kan nemen, denk bijvoorbeeld aan voorlichting wanneer er beter niet gestookt kan worden vanwege de weesromstandgheden."
+        },
+        "113689": {
+          "position": "disagree",
+          "explanation": "Hoewel wij dit punt snappen is dit iets wat zeker bij de ondernemer ligt en niet bij de gemeente."
+        },
+        "113691": {
+          "position": "disagree",
+          "explanation": "Hoewel wij de wens begrijpen vinden wij toch dat ook hier de verantwoording bij de persoon zelf ligt. Voor kinderen bestaat een dergelijke regeling, maar voor volwassenen denk ik dat er genoeg opties zin om met de diverse clubs af te spreken."
+        },
+        "113694": {
+          "position": "agree",
+          "explanation": "Muziek is een belangrijk deel van de opvoeding van een kind. Hier mag de gemeente zeker in faciliteren."
+        },
+        "113696": {
+          "position": "disagree",
+          "explanation": "Enkhuizen is een stad met een rijke historie en daardoor ook veel monumenten. Door hier op te gaan bezuinigen zorgt er op de lange termijn voor dat er hogere kosten zullen volgen. Wel zijn wij van mening dat wij kritisch moeten zijn op wat er gedaan wordt."
+        },
+        "113698": {
+          "position": "agree",
+          "explanation": "Het is voor bewoners uiterst belangrijk om overlast terug te dringen. Camera toezicht op overlast locaties zoals het Koperwiekplein maar ook bij de Drecht, Schepenwijk of Krabbersplaat is wat ons betreft van belang voor zowel inwoners als ondernemers."
+        },
+        "113702": {
+          "position": "disagree",
+          "explanation": "Een vakantie woning is niet gericht op permanente bewoning."
+        },
+        "113703": {
+          "position": "disagree",
+          "explanation": "In de huidige markt zullen wij ook buiten de grenzen moeten gaan bouwen om te zorgen dat wonen ook in de toekomst bereikbaar is. Wel moeten wij kritisch kijken naar een plan of het op de locatie passend is."
+        },
+        "113704": {
+          "position": "agree",
+          "explanation": "Wij vinden het belangrijk dat mensen met een uitkering die kunnen werken zeker maatschappelijk zinvol werk doen. Maar nog belangrijker is dat deze mensen de weg naar regulier betaald werk vinden. Het maatschappelijk werk kan hier zeker toe bijdragen"
+        },
+        "113706": {
+          "position": "disagree",
+          "explanation": "Hoe erg het klinkt is het antwoord nee. Wij hebben al een verhoogde grens. Wij zijn van mening dat er daar waar mogelijk geholpen kan worden maar dat dit ook aan de persoon zelf ligt."
+        },
+        "113708": {
+          "position": "neither",
+          "explanation": "Met de netcongestie welke wij nu zien zijn wij niet van mening dat extra laadplekken iet zullen helpen. Wel zijn wij van mening dat de gemeente onderzoek moet doen hoe wij beter kunnen faciliteren zodat auto's voor de deur kunnen worden opgeladen."
+        },
+        "113709": {
+          "position": "disagree",
+          "explanation": "Een verlaging van de maximumsnelheid is voor ons onbespreekbaar omdat het simpelweg niet te handhaven is. ons lijkt het beter om dan te kijken naar de inrichting van de wegen om op plekken waar het nodig is de snelheid eruit te halen."
+        },
+        "113710": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "113712": {
+          "position": "agree",
+          "explanation": "OZB is in Enkhuizen de laatste jaren een Melkkoe geworden van de huidige coalitie. In plaats van kritisch naar de uitgaven te kijken is OZB als een Pinautomaat gebruikt."
+        },
+        "113714": {
+          "position": "disagree",
+          "explanation": "De afgelopen periode is deze reeds verhoogd. Als VVD zijn wij van mening dat wij eerst de effecten hiervan moeten afwachten"
+        },
+        "113715": {
+          "position": "agree",
+          "explanation": "Om onze ondernemers te kunnen faciliteren en werkgelegenheid op een lokale manier te krijgen is dit voor ons zeker belangrijk!"
+        },
+        "113717": {
+          "position": "disagree",
+          "explanation": "Hoewel dit wettelijk geregeld is zijn wij van mening dat de eigen inwoners wel degelijk voorrang moeten krijgen."
+        },
+        "113719": {
+          "position": "disagree",
+          "explanation": "Er zijn heel veel opties om zonnepanelen te plaatsen, denk bijvoorbeeld aan parkeerterreinen en op daken van bedrijven. Landbouwgrond hiervoor opofferen is in onze ogen niet de manier."
+        },
+        "113720": {
+          "position": "disagree",
+          "explanation": "Het staat Cinema Enkhuizen vrij om subsidies aan te vragen."
+        },
+        "113724": {
+          "position": "disagree",
+          "explanation": "Doorstroming op de woning markt gaan wij enkel bereiken als wij minder sociale huurwoningen gaan bouwen maat meer ingaan zetten op goedkopere koopwoningen om de woon carrière een stap voorwaarts te geven, wel dienen wij hier heldere afspraken over te maken."
+        },
+        "113725": {
+          "position": "agree",
+          "explanation": "Aan de randen van Enkhuizen, denk aan de Gouw, langs de spoorlijn en de Haling zou het mogelijk moeten worden om meer lagen te kunnen bouwen. Dit zorgt immers voor meer woningen voor onze inwoners."
+        },
+        "113727": {
+          "position": "disagree",
+          "explanation": "Er moeten meer parkerplaatsen aan de rand an het centrum komen, plaatsen waar wij al lang om vragen maar waar er door het huidige college niet veel prioriteit wordt gegeven. Waar wel meer plekken moeten komen is in de wijken buiten het centrum waar de parkeerdruk zeer hoog is."
+        },
+        "113729": {
+          "position": "agree",
+          "explanation": "Om overlast te beperken en handhaving te vergemakkelijken zou dit een goede stap zijn."
+        },
+        "113731": {
+          "position": "agree",
+          "explanation": "Enkhuizen zal in de toekomst samen moeten gaan, het is gewoon niet te doen voor een gemeente van onze afmetingen om alleen te blijven bestaan. Het huidige SED orgaan is opgezet om uiteindelijk meer samen te werken en op termijn gemeente te worden. De uitdagingen worden te groot en kostbaar."
+        },
+        "113732": {
+          "position": "disagree",
+          "explanation": "Dit zou in onze ogen enkel kunnen als het voor alle fietsen gaat gelden, niet enkel voor elektrische."
+        },
+        "113733": {
+          "position": "agree",
+          "explanation": "Dit zou voor een binnenstad als ons zeker een belangrijke stap zijn."
+        }
+      }
+    },
+    {
+      "id": 129696,
+      "name": "Piratenpartij Enkhuizen",
+      "fullName": "Piratenpartij Enkhuizen",
+      "website": "https://enkhuizen.piratenpartij.nl/",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "113674": {
+          "position": "disagree",
+          "explanation": "Iedereen gelijke kansen. We willen de beste c.q. meest geschikte. Wij weten dat dit onafhankelijk is van het geslacht. Bij gelijke kansen, kan vrouw zijn een pluspunt zijn."
+        },
+        "113675": {
+          "position": "agree",
+          "explanation": "Nu is er veel schijnparticipatie. Enkel door de burger directe invloed te geven, gaan er dingen veranderen."
+        },
+        "113678": {
+          "position": "agree",
+          "explanation": "Kleinschaligheid en de lokale economie verbeteren."
+        },
+        "113682": {
+          "position": "disagree",
+          "explanation": "Er zijn nog veel meer sectors waar men gebruik maakt van arbeidsmigranten. Waarom onderscheid maken? Als een boer zelf huisvesting aanbied, zal hij meer aanbod van werknemers krijgen."
+        },
+        "113684": {
+          "position": "neither",
+          "explanation": ""
+        },
+        "113689": {
+          "position": "disagree",
+          "explanation": "Er zijn al vereisten. Geen noodzaak om hiervoor publiekelijk geld beschikbaar voor te stellen."
+        },
+        "113691": {
+          "position": "agree",
+          "explanation": "Idee is mooi. Gemeente zou ook een deel kunnen betalen of een minima-pas introduceren. We gaan hiernaar kijken!"
+        },
+        "113694": {
+          "position": "agree",
+          "explanation": "Sowieso op school."
+        },
+        "113696": {
+          "position": "agree",
+          "explanation": "Als het economisch tegenzit, moet je ook als gemeente een stap op de plaats doen."
+        },
+        "113698": {
+          "position": "disagree",
+          "explanation": "Camera's verplaatsen voornamelijk het probleem. Meer handhaving!"
+        },
+        "113702": {
+          "position": "disagree",
+          "explanation": "Oneens. Maar NIET handhaven. Vaak zitten mensen hier uit nood!"
+        },
+        "113703": {
+          "position": "agree",
+          "explanation": "Enkhuizen heeft verder geen ruimte. Wel voorkomen dat alles grijs wordt. Veel groen!"
+        },
+        "113704": {
+          "position": "disagree",
+          "explanation": "Geen dwang-arbeid."
+        },
+        "113706": {
+          "position": "disagree",
+          "explanation": "De inflatie maakt het probleem alleen maar erger."
+        },
+        "113708": {
+          "position": "agree",
+          "explanation": "Gaat nog steeds te traag."
+        },
+        "113709": {
+          "position": "disagree",
+          "explanation": "Eerst meer handhaven!"
+        },
+        "113710": {
+          "position": "disagree",
+          "explanation": "Zorg zou neutraal moeten zijn van geloof, cultuur en levensovertuiging. Dit betekent uiteraard niet dat die problemen niet besproken kunnen worden."
+        },
+        "113712": {
+          "position": "disagree",
+          "explanation": "Al jaar op jaar verhoogd. Ondanks de belofte van de coalitie dit niet te doen. Gemeente moet eerst op eigen kosten letten in plaats van steeds de rekening bij de burger te leggen!"
+        },
+        "113714": {
+          "position": "disagree",
+          "explanation": "Al jaar op jaar verhoogd."
+        },
+        "113715": {
+          "position": "agree",
+          "explanation": "Mag nog wel een stukje bij! Ondernemers creëren ook banen. Cruciaal voor een kleine gemeente."
+        },
+        "113717": {
+          "position": "disagree",
+          "explanation": "Als een vluchteling eenmaal een verblijfsvergunning heeft, dan die mensen in dezelfde wachtrij plaatsen als de lokale bevolking. Ook geen 'positieve' discriminatie."
+        },
+        "113719": {
+          "position": "disagree",
+          "explanation": "Geen optie in Enkhuizen"
+        },
+        "113720": {
+          "position": "disagree",
+          "explanation": "Afgelopen jaar geld gegeven om alles op orde te krijgen. Met 2 jaar herzien hoe het gaat."
+        },
+        "113724": {
+          "position": "agree",
+          "explanation": "Meer sociale huurwoningen."
+        },
+        "113725": {
+          "position": "agree",
+          "explanation": "Enorm veel vraag naar huisvesting. Als er een laag op kan, bijvoorbeeld bij het spoor (Nijevoort) of in Gommer West-West, waar hoogbouw is ingepland, kijken of er een extra laag op kan. Mits de omgeving dit toelaat."
+        },
+        "113727": {
+          "position": "disagree",
+          "explanation": "Maar ook niet minder! Parkeren voor toeristen buiten het centrum!"
+        },
+        "113729": {
+          "position": "disagree",
+          "explanation": "Meer handhaven ipv dmv administratie het probleem te laten oplossen. Want ook dan moet men handhaven!"
+        },
+        "113731": {
+          "position": "disagree",
+          "explanation": "Maakt alleen de overhead en de afstand tot de burger groter."
+        },
+        "113732": {
+          "position": "disagree",
+          "explanation": "Mag na openingstijden."
+        },
+        "113733": {
+          "position": "agree",
+          "explanation": "Wordt nu afgewimpeld op een mobiele app, maar gemeente zou hier hoffelijkheid mee tonen. Zeker gezien de toeristenbelasting die recentelijk is verhoogd! Daar mag men ook wat voor verwachten!"
+        }
+      }
+    },
+    {
+      "id": 258159,
+      "name": "SGP",
+      "fullName": "SGP",
+      "website": "https://enkhuizen.sgp.nl/home",
+      "hasSeats": true,
+      "participates": true,
+      "positions": {
+        "113674": {
+          "position": "disagree",
+          "explanation": "We hebben in Enkhuizen wethouders nodig die kundig zijn; het geslacht maakt voor SGP Enkhuizen niet uit."
+        },
+        "113675": {
+          "position": "agree",
+          "explanation": "Het kan behulpzaam zijn, maar het is wel afhankelijk van het soort referendum. Ook moet van tevoren heel duidelijk zijn wat het doel van het referendum is en op welke manier de uitkomst wordt betrokken in het besluitvormingsproces."
+        },
+        "113678": {
+          "position": "agree",
+          "explanation": "Waar het kan, moeten we boeren de ruimte bieden om iets extra's te doen bij de boerderij. Meestal is dat een winkeltje, heel zelden een camping. Via gemeentelijk beleid bepaal je in welke omstandigheden er wel of niet iets mogelijk is."
+        },
+        "113682": {
+          "position": "agree",
+          "explanation": "In Westfriesland hebben we al ervaring met het huisvesten van seizoenarbeiders bij het bedrijf; dat gaat goed. Wij vinden het ook prima als een tuinbouwer de arbeiders bij een collega-tuinbouwer kan huisvesten."
+        },
+        "113684": {
+          "position": "agree",
+          "explanation": "Overlast nemen wij zeer serieus. Een volledig verbod is echter niet realistisch. Het is wel noodzakelijk om maatregelen te treffen die overlast beperken en verantwoord stookgedrag bevorderen."
+        },
+        "113689": {
+          "position": "disagree",
+          "explanation": "Het is goed als zoveel mogelijk gebouwen toegankelijk zijn voor mensen met een beperking. De gemeente regelt dat voor haar gebouwen, de ondernemers voor hun eigen gebouwen. Iedereen heeft daarin een eigen verantwoordelijkheid."
+        },
+        "113691": {
+          "position": "agree",
+          "explanation": "Kinderen mogen niet de dupe worden van de financiële situatie van hun ouders."
+        },
+        "113694": {
+          "position": "disagree",
+          "explanation": "We helpen al gezinnen die te weinig geld hebben om hun kinderen op muziekles te laten gaan. Subsidie is niet nodig voor alle basisschoolkinderen."
+        },
+        "113696": {
+          "position": "disagree",
+          "explanation": "De SGP is trots op de Enkhuizer monumenten. Dit erfgoed moeten we koesteren en goed verzorgen zodat ook de generaties na ons er trots op kunnen zijn."
+        },
+        "113698": {
+          "position": "neither",
+          "explanation": "Op locaties waar herhaaldelijk overlast is, kan een camera soms een oplossing zijn. Belangrijk om te weten: voor het toepassen van cameratoezicht gelden strikte eisen, een 'gevoel van onveiligheid' is geen goede onderbouwing. Een gemeente mag dus niet zomaar cameratoezicht toepassen."
+        },
+        "113702": {
+          "position": "disagree",
+          "explanation": "Een vakantiepark is niet geschikt als woonwijk. Enkhuizen heeft behoefte aan goede woonwijken."
+        },
+        "113703": {
+          "position": "disagree",
+          "explanation": "Een geschikte plek om te bouwen, benutten we graag, ook als dat buiten de bebouwde kom is."
+        },
+        "113704": {
+          "position": "agree",
+          "explanation": "Van inwoners die een uitkering ontvangen, mag een ‘tegenprestatie’ verwacht worden. Dit kan bijvoorbeeld in de vorm van vrijwilligerswerk of een werkervaringsplek, en moet zoveel mogelijk gericht zijn op actief meedoen."
+        },
+        "113706": {
+          "position": "disagree",
+          "explanation": "Je hebt altijd gezinnen die net buiten de inkomensgrens vallen. Wij kiezen voor de oplossing om voor die gezinnen een percentage van de hulp te bieden."
+        },
+        "113708": {
+          "position": "disagree",
+          "explanation": "Wij steunen innovatieve oplossingen om de oplaadkabel via de stoep veilig bij de auto te brengen. De parkeerplaatsen moeten beschikbaar zijn voor zowel elektrische als niet-elektrische auto's. Op grotere terreinen, zoals bij het NS-station, is er wel ruimte om plaatsen te reserveren als oplaadplek."
+        },
+        "113709": {
+          "position": "disagree",
+          "explanation": "De meeste wegen zijn nu al begrensd op 30 km/u. Eind vorig jaar stelde de gemeenteraad een nieuw verkeersplan vast dat de snelheid op sommige wegen verlaagt van 50 naar 30 km/u. Een aantal wegen zijn echter prima geschikt voor een maximumsnelheid van 50 km/u; daar is dus geen aanpassing nodig."
+        },
+        "113710": {
+          "position": "agree",
+          "explanation": "Als je zorg nodig hebt, wil je geholpen worden op een manier die bij je past. Die vrijheid moet de overheid niet zomaar inperken."
+        },
+        "113712": {
+          "position": "agree",
+          "explanation": "Als we de zaken efficiënter regelen in Enkhuizen, wordt er minder geld verspild en kan de OZB naar beneden."
+        },
+        "113714": {
+          "position": "neither",
+          "explanation": "We moeten voorkomen dat Enkhuizen veel prijziger is dan de omliggende gemeenten. In de toekomst is een verhoging van de toeristenbelasting denkbaar. Dat zal mede afhankelijk zijn van de keuzes van andere gemeenten in de regio."
+        },
+        "113715": {
+          "position": "agree",
+          "explanation": "Ondernemers in het midden– en kleinbedrijf zijn de ruggengraat van onze economie. Indien uitbreiding mogelijk is, is de SGP daarvan voorstander."
+        },
+        "113717": {
+          "position": "disagree",
+          "explanation": "Voorrang willen we geven aan mensen die urgent een woning nodig hebben, bijvoorbeeld bij acute gezinsontwrichting waarbij kinderen gevaar lopen."
+        },
+        "113719": {
+          "position": "disagree",
+          "explanation": "Landbouwgrond gebruiken we voor de voedselvoorziening."
+        },
+        "113720": {
+          "position": "agree",
+          "explanation": "We subsidiëren Cinema Enkhuizen alleen wanneer ze voldoen aan de subsidieregeling."
+        },
+        "113724": {
+          "position": "disagree",
+          "explanation": "De locatie is voor ons bepalend voor het soort woningen dat er komt. Senioren hebben dikwijls een woning die te groot is geworden. Voor hen willen we degelijke appartementen op de beste locaties van Enkhuizen. Op die locaties vinden wij sociale huurwoningen niet verstandig."
+        },
+        "113725": {
+          "position": "agree",
+          "explanation": "Er zijn locaties in Enkhuizen waar je prima iets hogere wooncomplexen kunt bouwen, kijk maar naar de appartementen bij het Koperwiek of de Paktuinen. Echt veel hogere woonflats passen niet bij Enkhuizen."
+        },
+        "113727": {
+          "position": "agree",
+          "explanation": "Maar niet ten koste van het openbaar groen."
+        },
+        "113729": {
+          "position": "disagree",
+          "explanation": "Registratie van de boten is niet nodig om te kunnen handhaven. Als de handhaving beter geregeld wordt, verminderen de problemen."
+        },
+        "113731": {
+          "position": "disagree",
+          "explanation": "Het bestuur moet dicht bij de inwoners staan: Enkhuizers bepalen wat er in Enkhuizen gebeurt. Onderzoeken laten daarnaast zien dat een herindeling zelden een kostenbesparing oplevert."
+        },
+        "113732": {
+          "position": "disagree",
+          "explanation": "In de Westerstraat kan er buiten de openingstijden van de winkels prima gefietst worden. Tijdens openingstijden moet er beter gehandhaafd worden zodat er op dat moment niet gefietst wordt."
+        },
+        "113733": {
+          "position": "disagree",
+          "explanation": "Er zijn nu al een heel aantal locaties in Enkhuizen, zichtbaar via een app, waar bezoekers naar het toilet kunnen. Het realiseren van een openbaar toilet door de gemeente kost vaak (veel) meer dan 60.000 euro."
+        }
+      }
+    }
+  ],
+  "statements": [
+    {
+      "id": 113731,
+      "index": 1,
+      "theme": "Merger with another municipality",
+      "themeId": "fusie-met-andere-gemeente",
+      "title": "Enkhuizen should merge with another municipality.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113682,
+      "index": 2,
+      "theme": "Housing for foreign workers",
+      "themeId": "huisvesting-buitenlandse-werknemers",
+      "title": "Employers in agriculture and horticulture should provide housing for seasonal workers on their own premises.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113710,
+      "index": 3,
+      "theme": "Choice of healthcare",
+      "themeId": "zorgkeuze",
+      "title": "People who need care should always be able to choose a caregiver who matches their religion, culture, or beliefs.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113678,
+      "index": 4,
+      "theme": "Farm campsites",
+      "themeId": "boerencampings",
+      "title": "The municipality should always allow farmers to open, for example, a shop or a campsite at their farm.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113702,
+      "index": 5,
+      "theme": "Holiday homes",
+      "themeId": "vakantiewoningen",
+      "title": "The municipality must allow holiday homes to be used as a permanent residence.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113696,
+      "index": 6,
+      "theme": "Monuments",
+      "themeId": "monumenten",
+      "title": "The municipality should cut spending on heritage conservation.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113689,
+      "index": 7,
+      "theme": "Accessibility of buildings",
+      "themeId": "toegankelijkheid-gebouwen",
+      "title": "The municipality should financially help business owners to make their buildings accessible to people with disabilities.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113684,
+      "index": 8,
+      "theme": "Wood burning",
+      "themeId": "houtstook",
+      "title": "The use of open fireplaces and wood-burning stoves should remain allowed in Enkhuizen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113674,
+      "index": 9,
+      "theme": "Mayor and municipal executive",
+      "themeId": "burgemeester-en-college",
+      "title": "The new college of mayor and aldermen must have an equal number of men and women.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113698,
+      "index": 10,
+      "theme": "Camera surveillance",
+      "themeId": "cameratoezicht",
+      "title": "There should be more camera surveillance in Enkhuizen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113694,
+      "index": 11,
+      "theme": "Music lessons",
+      "themeId": "muziekles",
+      "title": "Every primary school child should be able to receive music lessons subsidized by the municipality.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113732,
+      "index": 12,
+      "theme": "Pedestrian area",
+      "themeId": "voetgangersgebied",
+      "title": "The pedestrian area should also be off-limits to electric bicycles at night.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113703,
+      "index": 13,
+      "theme": "New construction outside village boundaries",
+      "themeId": "nieuwbouw-buiten-dorpsgrenzen",
+      "title": "The municipality should prevent new construction outside existing village boundaries.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113706,
+      "index": 14,
+      "theme": "Combating poverty",
+      "themeId": "armoedebestrijding",
+      "title": "The municipality should raise the income threshold for receiving poverty assistance.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113675,
+      "index": 15,
+      "theme": "Referendum",
+      "themeId": "referendum",
+      "title": "The residents of Enkhuizen should be able to express their opinion on important issues via a referendum.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113691,
+      "index": 16,
+      "theme": "Sports membership fees",
+      "themeId": "contributie-sport",
+      "title": "The municipality should pay the membership fees for a sports club for people receiving social assistance.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113712,
+      "index": 17,
+      "theme": "Tax on buildings",
+      "themeId": "belasting-op-gebouwen",
+      "title": "The property tax (onroerendezaakbelasting, OZB) should be reduced.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113709,
+      "index": 18,
+      "theme": "Car speeds",
+      "themeId": "snelheid-auto-s",
+      "title": "The maximum speed limit in built-up areas should be set to 30 km/h.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113725,
+      "index": 19,
+      "theme": "Apartment buildings",
+      "themeId": "woonflats",
+      "title": "More tall residential blocks should be allowed in Enkhuizen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113714,
+      "index": 20,
+      "theme": "Tourist tax",
+      "themeId": "toeristenbelasting",
+      "title": "The tourist tax should be increased.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113727,
+      "index": 21,
+      "theme": "More parking spaces",
+      "themeId": "meer-parkeerplaatsen",
+      "title": "More parking spaces should be created in the center.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113729,
+      "index": 22,
+      "theme": "Boat registration",
+      "themeId": "bootregistratie",
+      "title": "Owners should be required to register their boat with the municipality.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113704,
+      "index": 23,
+      "theme": "Work requirement for welfare recipients",
+      "themeId": "tegenprestatie-voor-uitkering",
+      "title": "People receiving social assistance should, in return, do socially useful work.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113717,
+      "index": 24,
+      "theme": "Priority for refugees",
+      "themeId": "voorrang-voor-vluchtelingen",
+      "title": "The municipality should give refugees with a residence permit priority for social housing.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113715,
+      "index": 25,
+      "theme": "Business parks",
+      "themeId": "bedrijventerreinen",
+      "title": "Industrial/business parks in Enkhuizen should be allowed to expand.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113719,
+      "index": 26,
+      "theme": "Solar panels on farmland",
+      "themeId": "zonnepanelen-op-landbouwgrond",
+      "title": "The municipality must allow solar panels on agricultural land.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113720,
+      "index": 27,
+      "theme": "Enkhuizen cinema",
+      "themeId": "cinema-enkhuizen",
+      "title": "Enkhuizen should stop providing funding to Cinema Enkhuizen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113724,
+      "index": 28,
+      "theme": "Social housing",
+      "themeId": "sociale-huurwoningen",
+      "title": "Of the newly built homes in Enkhuizen, at least 40% should be social rental housing. Currently 28% of homes in the Netherlands are social rental housing.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113708,
+      "index": 29,
+      "theme": "Electric vehicle charging stations",
+      "themeId": "elektrische-laadpalen",
+      "title": "The municipality should designate more parking spaces as charging points for electric cars.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    },
+    {
+      "id": 113733,
+      "index": 30,
+      "theme": "Public toilets",
+      "themeId": "openbare-toiletten",
+      "title": "The municipality of Enkhuizen should provide more public toilets in the town center.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": false
+    }
+  ]
+}
