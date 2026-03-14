@@ -88,6 +88,24 @@ function processMunicipality(
     })
     .sort((a, b) => a.index - b.index);
 
+  // Shootout statements (for tie-breaking)
+  const shootoutStatements = statements
+    .filter((s) => s.isShootout as boolean)
+    .map((s) => {
+      const moreInfo = (s.moreInfo as Record<string, string>) || {};
+      return {
+        id: s.id as number,
+        index: s.index as number,
+        theme: (s.theme as string) || "",
+        themeId: (s.themeId as string) || "",
+        title: getPlainText(s.title),
+        moreInfo: stripHtml(moreInfo.text),
+        pro: stripHtml(moreInfo.pro),
+        con: stripHtml(moreInfo.con),
+        isShootout: true,
+      };
+    });
+
   const processedParties = parties.map((p) => {
     const partyStatements =
       (p.statements as Array<Record<string, unknown>>) || [];
@@ -96,14 +114,25 @@ function processMunicipality(
       { position: string; explanation: string }
     > = {};
 
+    // Include ALL positions (regular + shootout)
     for (const ps of partyStatements) {
       const stmtId = ps.id as number;
-      if (stmtLookup[stmtId] && !(stmtLookup[stmtId].isShootout as boolean)) {
+      if (stmtLookup[stmtId]) {
         positions[stmtId] = {
           position: (ps.position as string) || "neither",
           explanation: (ps.explanation as string) || "",
         };
       }
+    }
+
+    // Also include shootout statement positions
+    const partyShootouts = (p.shootoutStatements as Array<Record<string, unknown>>) || [];
+    for (const ps of partyShootouts) {
+      const stmtId = ps.id as number;
+      positions[stmtId] = {
+        position: (ps.position as string) || "neither",
+        explanation: (ps.explanation as string) || "",
+      };
     }
 
     return {
@@ -125,6 +154,7 @@ function processMunicipality(
     slug,
     parties: processedParties,
     statements: processedStatements,
+    shootoutStatements,
   };
 }
 

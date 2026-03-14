@@ -13,6 +13,7 @@ export interface MunicipalityData {
   slug: string;
   parties: Party[];
   statements: Statement[];
+  shootoutStatements?: Statement[];
 }
 
 export interface Party {
