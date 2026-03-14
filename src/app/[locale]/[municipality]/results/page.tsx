@@ -394,11 +394,10 @@ export default function ResultsPage() {
           {t("startOver")}
         </Button>
         <Button
-          variant="outline"
-          className="rounded-xl"
+          className="rounded-xl bg-blue-600 text-white hover:bg-blue-700"
           onClick={() => router.push(`/${locale}/explore`)}
         >
-          {locale === "en" ? "Explore All Municipalities" : "Verken Alle Gemeenten"}
+          {locale === "en" ? "Explore All Municipalities" : "Verken Alle Gemeenten"} →
         </Button>
       </div>
     </div>
