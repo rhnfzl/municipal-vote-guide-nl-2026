@@ -35,7 +35,7 @@
   },
   "questionnaire": {
     "title": "Vragenlijst",
-    "questionOf": "Stelling {current} van {total}",
+    "questionOf": "Stelling {current} van de {total}",
     "agree": "Eens",
     "disagree": "Oneens",
     "neither": "Geen van beide",
@@ -64,8 +64,8 @@
     "noArguments": "Geen argumenten beschikbaar."
   },
   "results": {
-    "title": "Jouw Resultaten",
-    "subtitle": "Partijmatches voor {municipality}",
+    "title": "Jouw Partijmatches",
+    "subtitle": "voor {municipality}",
     "matchPercentage": "{percentage}% match",
     "agreed": "Eens",
     "disagreed": "Oneens",
