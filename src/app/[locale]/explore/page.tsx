@@ -200,7 +200,7 @@ export default function ExplorePage() {
         />
 
         <div className="grid gap-2 sm:grid-cols-2 lg:grid-cols-3">
-          {filtered.slice(0, 60).map((m) => (
+          {filtered.map((m) => (
             <button
               key={m.slug}
               onClick={() => router.push(`/${locale}/${m.slug}/questionnaire`)}
@@ -222,11 +222,9 @@ export default function ExplorePage() {
           ))}
         </div>
 
-        {filtered.length > 60 && (
-          <p className="text-center text-sm text-gray-400">
-            {t("showing", { shown: 60, total: filtered.length })}
-          </p>
-        )}
+        <p className="text-center text-sm text-gray-400">
+          {filtered.length} {locale === "en" ? "municipalities" : "gemeenten"}
+        </p>
       </div>
     </div>
   );

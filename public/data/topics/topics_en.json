@@ -25,11 +25,11 @@
         "score": 0.0431
       },
       {
-        "word": "who themselves",
+        "word": "who/that",
         "score": 0.0425
       },
       {
-        "word": "that come",
+        "word": "who come",
         "score": 0.042
       },
       {
@@ -54,23 +54,23 @@
     ],
     "topThemes": [
       {
-        "theme": "Cameratoezicht",
+        "theme": "camera surveillance",
         "count": 200
       },
       {
-        "theme": "Handhavers",
+        "theme": "enforcement officers",
         "count": 164
       },
       {
-        "theme": "Wapenstok",
+        "theme": "baton",
         "count": 2
       },
       {
-        "theme": "Handhavers voor veiligheid",
+        "theme": "safety enforcement officers",
         "count": 2
       },
       {
-        "theme": "Boa's",
+        "theme": "BOAs (special enforcement officers)",
         "count": 2
       }
     ]
@@ -113,7 +113,7 @@
         "score": 0.0216
       },
       {
-        "word": "there must be",
+        "word": "there must",
         "score": 0.0215
       },
       {
@@ -130,23 +130,23 @@
     ],
     "topThemes": [
       {
-        "theme": "Parkeervergunningen",
+        "theme": "parking permits",
         "count": 24
       },
       {
-        "theme": "Meer parkeerplaatsen",
+        "theme": "more parking spaces",
         "count": 22
       },
       {
-        "theme": "Parkeerplaatsen",
+        "theme": "parking spaces",
         "count": 12
       },
       {
-        "theme": "Betaald parkeren goedkoper",
+        "theme": "cheaper paid parking",
         "count": 9
       },
       {
-        "theme": "Gratis parkeren",
+        "theme": "free parking",
         "count": 8
       }
     ]
@@ -181,7 +181,7 @@
         "score": 0.0629
       },
       {
-        "word": "issues",
+        "word": "topics",
         "score": 0.0629
       },
       {
@@ -206,30 +206,30 @@
     ],
     "topThemes": [
       {
-        "theme": "Referendum",
+        "theme": "referendum",
         "count": 190
       },
       {
-        "theme": "Burgerpanel",
+        "theme": "citizen panel",
         "count": 1
       },
       {
-        "theme": "Asielopvang",
+        "theme": "asylum reception",
         "count": 1
       },
       {
-        "theme": "Handtekeningen referendum",
+        "theme": "referendum signatures",
         "count": 1
       },
       {
-        "theme": "Fusie",
+        "theme": "merger",
         "count": 1
       }
     ]
   },
   {
     "id": 3,
-    "label": "money | more money | must allocate more money",
+    "label": "money | more money | must have more money",
     "count": 125,
     "keywords": [
       {
@@ -241,11 +241,11 @@
         "score": 0.0264
       },
       {
-        "word": "must allocate more money",
+        "word": "must have more money",
         "score": 0.024
       },
       {
-        "word": "municipality must allocate more",
+        "word": "the municipality must do more",
         "score": 0.018
       },
       {
@@ -257,7 +257,7 @@
         "score": 0.0142
       },
       {
-        "word": "invest money",
+        "word": "to invest money",
         "score": 0.014
       },
       {
@@ -269,7 +269,7 @@
         "score": 0.0139
       },
       {
-        "word": "to invest",
+        "word": "to put",
         "score": 0.0138
       }
     ],
@@ -282,30 +282,30 @@
     ],
     "topThemes": [
       {
-        "theme": "Beheer door burgers",
+        "theme": "management by citizens",
         "count": 5
       },
       {
-        "theme": "Jeugdzorg",
+        "theme": "youth care",
         "count": 5
       },
       {
-        "theme": "Sportverenigingen",
+        "theme": "sports clubs",
         "count": 3
       },
       {
-        "theme": "Lokale media",
+        "theme": "local media",
         "count": 3
       },
       {
-        "theme": "Informele zorg",
+        "theme": "informal care",
         "count": 2
       }
     ]
   },
   {
     "id": 4,
-    "label": "a social rental home | social housing | rental housing",
+    "label": "a social rental home | social rental home | rental home",
     "count": 117,
     "keywords": [
       {
@@ -313,11 +313,11 @@
         "score": 0.0385
       },
       {
-        "word": "social housing",
+        "word": "social rental home",
         "score": 0.0384
       },
       {
-        "word": "rental housing",
+        "word": "rental home",
         "score": 0.0384
       },
       {
@@ -337,11 +337,11 @@
         "score": 0.0296
       },
       {
-        "word": "are rental homes",
+        "word": "to be rental homes",
         "score": 0.0291
       },
       {
-        "word": "are social housing",
+        "word": "to be social rental homes",
         "score": 0.0289
       },
       {
@@ -358,23 +358,23 @@
     ],
     "topThemes": [
       {
-        "theme": "Sociale huurwoningen",
+        "theme": "social rental homes",
         "count": 105
       },
       {
-        "theme": "Voorrang huisvesting",
+        "theme": "housing priority",
         "count": 2
       },
       {
-        "theme": "Sociale huur",
+        "theme": "social rent",
         "count": 2
       },
       {
-        "theme": "Goedkope huizen",
+        "theme": "affordable housing",
         "count": 1
       },
       {
-        "theme": "Woningmarkt",
+        "theme": "housing market",
         "count": 1
       }
     ]
@@ -421,7 +421,7 @@
         "score": 0.047
       },
       {
-        "word": "must have more",
+        "word": "must do more",
         "score": 0.0413
       }
     ],
@@ -434,30 +434,30 @@
     ],
     "topThemes": [
       {
-        "theme": "Bedrijventerreinen",
+        "theme": "Business parks",
         "count": 102
       },
       {
-        "theme": "Meer bedrijventerreinen",
+        "theme": "More business parks",
         "count": 3
       },
       {
-        "theme": "Wonen op een bedrijventerrein",
+        "theme": "living on a business park",
         "count": 1
       },
       {
-        "theme": "Bedrijventerrein",
+        "theme": "Business park",
         "count": 1
       },
       {
-        "theme": "Glastuinbouw",
+        "theme": "greenhouse horticulture",
         "count": 1
       }
     ]
   },
   {
     "id": 6,
-    "label": "apartment blocks | apartment blocks to be built | tall apartment blocks to be built",
+    "label": "apartment blocks | apartment blocks coming | tall apartment blocks coming",
     "count": 100,
     "keywords": [
       {
@@ -465,11 +465,11 @@
         "score": 0.1231
       },
       {
-        "word": "apartment blocks to be built",
+        "word": "apartment blocks coming",
         "score": 0.1211
       },
       {
-        "word": "tall apartment blocks to be built",
+        "word": "tall apartment blocks coming",
         "score": 0.1184
       },
       {
@@ -497,7 +497,7 @@
         "score": 0.0837
       },
       {
-        "word": "more high-rise apartment buildings",
+        "word": "more tall apartment blocks",
         "score": 0.0825
       }
     ],
@@ -510,23 +510,23 @@
     ],
     "topThemes": [
       {
-        "theme": "Woonflats",
+        "theme": "Apartment blocks",
         "count": 82
       },
       {
-        "theme": "Flats",
+        "theme": "apartment buildings",
         "count": 9
       },
       {
-        "theme": "Hoogbouw",
+        "theme": "high-rise buildings",
         "count": 6
       },
       {
-        "theme": "Woningbouw Tuunterveld",
+        "theme": "Tuunterveld housing development",
         "count": 1
       },
       {
-        "theme": "Hoteltoren Deltaweg",
+        "theme": "hotel tower Deltaweg",
         "count": 1
       }
     ]
@@ -586,26 +586,26 @@
     ],
     "topThemes": [
       {
-        "theme": "Houtstook",
+        "theme": "wood burning",
         "count": 80
       },
       {
-        "theme": "Gasloos wonen",
+        "theme": "gas-free living",
         "count": 1
       },
       {
-        "theme": "Speeltuinen",
+        "theme": "playgrounds",
         "count": 1
       }
     ]
   },
   {
     "id": 8,
-    "label": "must have a | come in | come",
+    "label": "must a | come in | come",
     "count": 76,
     "keywords": [
       {
-        "word": "must have a",
+        "word": "must a",
         "score": 0.1026
       },
       {
@@ -654,15 +654,15 @@
     ],
     "topThemes": [
       {
-        "theme": "Geweld tegen vrouwen",
+        "theme": "violence against women",
         "count": 70
       },
       {
-        "theme": "Blijf-van-mijn-lijf-huis",
+        "theme": "women's shelter",
         "count": 4
       },
       {
-        "theme": "Afscheidshuis",
+        "theme": "farewell house",
         "count": 1
       },
       {
@@ -673,7 +673,7 @@
   },
   {
     "id": 9,
-    "label": "wind turbines | to oppose | oppose",
+    "label": "wind turbines | oppose | oppose",
     "count": 73,
     "keywords": [
       {
@@ -681,7 +681,7 @@
         "score": 0.0785
       },
       {
-        "word": "to oppose",
+        "word": "oppose",
         "score": 0.0374
       },
       {
@@ -689,7 +689,7 @@
         "score": 0.0369
       },
       {
-        "word": "wind turbines to be built",
+        "word": "wind turbines coming",
         "score": 0.0322
       },
       {
@@ -726,30 +726,30 @@
     ],
     "topThemes": [
       {
-        "theme": "Windmolens",
+        "theme": "wind turbines",
         "count": 32
       },
       {
-        "theme": "Zonnepanelen op landbouwgrond",
+        "theme": "solar panels on agricultural land",
         "count": 4
       },
       {
-        "theme": "Vakantieparken",
+        "theme": "holiday parks",
         "count": 4
       },
       {
-        "theme": "Zonnepanelen op weilanden",
+        "theme": "solar panels on pastures",
         "count": 2
       },
       {
-        "theme": "Windturbines",
+        "theme": "wind turbines",
         "count": 2
       }
     ]
   },
   {
     "id": 10,
-    "label": "asylum seekers | shelter | to take in",
+    "label": "asylum seekers | shelter | to accommodate",
     "count": 72,
     "keywords": [
       {
@@ -761,7 +761,7 @@
         "score": 0.0496
       },
       {
-        "word": "to take in",
+        "word": "to accommodate",
         "score": 0.0345
       },
       {
@@ -769,7 +769,7 @@
         "score": 0.032
       },
       {
-        "word": "to take in asylum seekers",
+        "word": "receive asylum seekers",
         "score": 0.0306
       },
       {
@@ -785,11 +785,11 @@
         "score": 0.027
       },
       {
-        "word": "asylum seeker center",
+        "word": "asylum seekers' center",
         "score": 0.0264
       },
       {
-        "word": "offer",
+        "word": "provide",
         "score": 0.0263
       }
     ],
@@ -802,23 +802,23 @@
     ],
     "topThemes": [
       {
-        "theme": "Asielzoekerscentrum",
+        "theme": "Asylum seekers' center",
         "count": 13
       },
       {
-        "theme": "Opvang afgewezen asielzoekers",
+        "theme": "shelter for rejected asylum seekers",
         "count": 10
       },
       {
-        "theme": "Opvang asielzoekers",
+        "theme": "shelter for asylum seekers",
         "count": 10
       },
       {
-        "theme": "Asielzoekers",
+        "theme": "asylum seekers",
         "count": 6
       },
       {
-        "theme": "Asielopvang",
+        "theme": "asylum reception",
         "count": 4
       }
     ]
@@ -878,11 +878,11 @@
     ],
     "topThemes": [
       {
-        "theme": "Autovrij",
+        "theme": "car-free",
         "count": 58
       },
       {
-        "theme": "Autoluw",
+        "theme": "low-traffic",
         "count": 2
       },
       {
@@ -890,18 +890,18 @@
         "count": 1
       },
       {
-        "theme": "s' Gravenhof",
+        "theme": "'s Gravenhof",
         "count": 1
       },
       {
-        "theme": "Brink autovrij",
+        "theme": "Brink car-free",
         "count": 1
       }
     ]
   },
   {
     "id": 12,
-    "label": "allow | the municipality must build new housing | must build new housing",
+    "label": "allow | municipality must build new housing | must build new housing",
     "count": 53,
     "keywords": [
       {
@@ -909,7 +909,7 @@
         "score": 0.0298
       },
       {
-        "word": "the municipality must build new housing",
+        "word": "municipality must build new housing",
         "score": 0.0274
       },
       {
@@ -954,42 +954,42 @@
     ],
     "topThemes": [
       {
-        "theme": "Woningbouw",
+        "theme": "housing construction",
         "count": 11
       },
       {
-        "theme": "Nieuwbouw",
+        "theme": "new construction",
         "count": 4
       },
       {
-        "theme": "Nieuwe woonwijk",
+        "theme": "new residential neighborhood",
         "count": 3
       },
       {
-        "theme": "Bouwen op landbouwgrond",
+        "theme": "build on agricultural land",
         "count": 2
       },
       {
-        "theme": "Bouwen in de polder",
+        "theme": "build in the polder",
         "count": 2
       }
     ]
   },
   {
     "id": 13,
-    "label": "safety must | must focus on safety | BOAs who in",
+    "label": "must ensure safety | must prioritize safety | BOAs who are in",
     "count": 51,
     "keywords": [
       {
-        "word": "safety must",
+        "word": "must ensure safety",
         "score": 0.0932
       },
       {
-        "word": "must focus on safety",
+        "word": "must prioritize safety",
         "score": 0.0932
       },
       {
-        "word": "BOAs who in",
+        "word": "BOAs who are in",
         "score": 0.0926
       },
       {
@@ -1005,7 +1005,7 @@
         "score": 0.092
       },
       {
-        "word": "on safety",
+        "word": "for safety",
         "score": 0.0914
       },
       {
@@ -1030,22 +1030,22 @@
     ],
     "topThemes": [
       {
-        "theme": "Handhavers",
+        "theme": "enforcement officers",
         "count": 27
       },
       {
-        "theme": "Wapenstok",
+        "theme": "baton",
         "count": 23
       },
       {
-        "theme": "Boa's",
+        "theme": "BOAs (special enforcement officers)",
         "count": 1
       }
     ]
   },
   {
     "id": 14,
-    "label": "waste | to pay | become free of charge",
+    "label": "waste | to pay | to become free of charge",
     "count": 50,
     "keywords": [
       {
@@ -1057,7 +1057,7 @@
         "score": 0.0593
       },
       {
-        "word": "become free of charge",
+        "word": "to become free of charge",
         "score": 0.0458
       },
       {
@@ -1098,23 +1098,23 @@
     ],
     "topThemes": [
       {
-        "theme": "Milieustraat",
+        "theme": "recycling centre",
         "count": 12
       },
       {
-        "theme": "Afval",
+        "theme": "waste",
         "count": 12
       },
       {
-        "theme": "Afvalstoffenheffing",
+        "theme": "waste disposal tax",
         "count": 4
       },
       {
-        "theme": "Grofvuil",
+        "theme": "bulky waste",
         "count": 2
       },
       {
-        "theme": "Afvalinzameling",
+        "theme": "waste collection",
         "count": 2
       }
     ]
@@ -1137,7 +1137,7 @@
         "score": 0.0571
       },
       {
-        "word": "be built",
+        "word": "are being built",
         "score": 0.0562
       },
       {
@@ -1157,7 +1157,7 @@
         "score": 0.041
       },
       {
-        "word": "social housing",
+        "word": "social rental housing",
         "score": 0.0361
       },
       {
@@ -1174,23 +1174,23 @@
     ],
     "topThemes": [
       {
-        "theme": "Seniorenwoningen",
+        "theme": "senior housing",
         "count": 12
       },
       {
-        "theme": "Nieuwbouw",
+        "theme": "new construction",
         "count": 3
       },
       {
-        "theme": "Verkoop sociale huurwoningen",
+        "theme": "sale of social housing",
         "count": 2
       },
       {
-        "theme": "Gemengde wijken",
+        "theme": "mixed neighborhoods",
         "count": 2
       },
       {
-        "theme": "Sociale huurwoningen",
+        "theme": "social rental homes",
         "count": 2
       }
     ]
@@ -1217,11 +1217,11 @@
         "score": 0.0419
       },
       {
-        "word": "every village",
+        "word": "each village",
         "score": 0.0407
       },
       {
-        "word": "the municipality must have a",
+        "word": "municipalities must have a",
         "score": 0.0405
       },
       {
@@ -1250,34 +1250,34 @@
     ],
     "topThemes": [
       {
-        "theme": "Buurtcentrum",
+        "theme": "community centre",
         "count": 16
       },
       {
-        "theme": "Wijkagent",
+        "theme": "neighborhood police officer",
         "count": 2
       },
       {
-        "theme": "Dorpscentrum",
+        "theme": "village centre",
         "count": 2
       },
       {
-        "theme": "Zorg dichtbij",
+        "theme": "care nearby",
         "count": 2
       },
       {
-        "theme": "Voedseltuin",
+        "theme": "community food garden",
         "count": 1
       }
     ]
   },
   {
     "id": 17,
-    "label": "ban | coffeeshops | to prohibit the municipality",
+    "label": "to ban | coffeeshops | prohibit the municipality",
     "count": 40,
     "keywords": [
       {
-        "word": "ban",
+        "word": "to ban",
         "score": 0.0865
       },
       {
@@ -1285,11 +1285,11 @@
         "score": 0.0516
       },
       {
-        "word": "to prohibit the municipality",
+        "word": "prohibit the municipality",
         "score": 0.0501
       },
       {
-        "word": "to prohibit the",
+        "word": "prohibit the",
         "score": 0.0501
       },
       {
@@ -1326,38 +1326,38 @@
     ],
     "topThemes": [
       {
-        "theme": "Coffeeshops",
+        "theme": "coffeeshops",
         "count": 8
       },
       {
-        "theme": "Sekswerk",
+        "theme": "sex work",
         "count": 5
       },
       {
-        "theme": "Houtstook",
+        "theme": "wood burning",
         "count": 4
       },
       {
-        "theme": "Coffeeshop",
+        "theme": "coffeeshop",
         "count": 3
       },
       {
-        "theme": "Paasvuren",
+        "theme": "Easter fires",
         "count": 2
       }
     ]
   },
   {
     "id": 18,
-    "label": "renew | a new ... must | a new",
+    "label": "to renew | needs a new | a new",
     "count": 35,
     "keywords": [
       {
-        "word": "renew",
+        "word": "to renew",
         "score": 0.1315
       },
       {
-        "word": "a new ... must",
+        "word": "needs a new",
         "score": 0.0775
       },
       {
@@ -1381,7 +1381,7 @@
         "score": 0.0496
       },
       {
-        "word": "to build in",
+        "word": "to construct in",
         "score": 0.0446
       },
       {
@@ -1389,7 +1389,7 @@
         "score": 0.0431
       },
       {
-        "word": "to build",
+        "word": "to construct",
         "score": 0.0409
       }
     ],
@@ -1402,15 +1402,15 @@
     ],
     "topThemes": [
       {
-        "theme": "Nieuw cultureel centrum",
+        "theme": "new cultural center",
         "count": 5
       },
       {
-        "theme": "Theater de Speeldoos",
+        "theme": "Theater De Speeldoos",
         "count": 2
       },
       {
-        "theme": "Theater",
+        "theme": "theater",
         "count": 2
       },
       {
@@ -1418,7 +1418,7 @@
         "count": 1
       },
       {
-        "theme": "Cultureel centrum",
+        "theme": "cultural center",
         "count": 1
       }
     ]
@@ -1441,7 +1441,7 @@
         "score": 0.1062
       },
       {
-        "word": "out of",
+        "word": "out",
         "score": 0.0859
       },
       {
@@ -1465,7 +1465,7 @@
         "score": 0.0382
       },
       {
-        "word": "must have a",
+        "word": "must a",
         "score": 0.037
       }
     ],
@@ -1478,30 +1478,30 @@
     ],
     "topThemes": [
       {
-        "theme": "Milieuzone",
+        "theme": "environmental zone",
         "count": 22
       },
       {
-        "theme": "Zero-emissiezone",
+        "theme": "zero-emission zone",
         "count": 3
       },
       {
-        "theme": "Nulemissie",
+        "theme": "zero emission",
         "count": 1
       },
       {
-        "theme": "Milieuzone brommers",
+        "theme": "environmental zone for mopeds",
         "count": 1
       },
       {
-        "theme": "Milieuzone uitbreiden",
+        "theme": "to expand environmental zone",
         "count": 1
       }
     ]
   },
   {
     "id": 20,
-    "label": "swimming pool | new swimming pool | the pool must",
+    "label": "swimming pool | new swimming pool | needs a pool",
     "count": 34,
     "keywords": [
       {
@@ -1513,7 +1513,7 @@
         "score": 0.0712
       },
       {
-        "word": "the pool must",
+        "word": "needs a pool",
         "score": 0.0584
       },
       {
@@ -1521,7 +1521,7 @@
         "score": 0.0509
       },
       {
-        "word": "a new ... must",
+        "word": "needs a new",
         "score": 0.0507
       },
       {
@@ -1533,15 +1533,15 @@
         "score": 0.0486
       },
       {
-        "word": "renew",
+        "word": "to renew",
         "score": 0.0478
       },
       {
-        "word": "to build",
+        "word": "to construct",
         "score": 0.0445
       },
       {
-        "word": "the swimming pool must",
+        "word": "the pool must",
         "score": 0.0403
       }
     ],
@@ -1554,23 +1554,23 @@
     ],
     "topThemes": [
       {
-        "theme": "Zwembad",
+        "theme": "swimming pool",
         "count": 4
       },
       {
-        "theme": "Gemeentefusie",
+        "theme": "municipal merger",
         "count": 4
       },
       {
-        "theme": "Nieuw zwembad",
+        "theme": "new swimming pool",
         "count": 2
       },
       {
-        "theme": "Nieuw sportpark",
+        "theme": "new sports park",
         "count": 2
       },
       {
-        "theme": "Zwembad 't Derde Haad",
+        "theme": "Swimming pool 't Derde Haad",
         "count": 1
       }
     ]
@@ -1593,7 +1593,7 @@
         "score": 0.0657
       },
       {
-        "word": "in a nature reserve",
+        "word": "in nature reserve",
         "score": 0.063
       },
       {
@@ -1630,23 +1630,23 @@
     ],
     "topThemes": [
       {
-        "theme": "Landbouwgrond",
+        "theme": "agricultural land",
         "count": 10
       },
       {
-        "theme": "Uitbreiding industrie",
+        "theme": "industrial expansion",
         "count": 2
       },
       {
-        "theme": "G-gebied",
+        "theme": "G-area",
         "count": 1
       },
       {
-        "theme": "Intensieve veehouderij",
+        "theme": "intensive livestock farming",
         "count": 1
       },
       {
-        "theme": "Parkeerplaatsen",
+        "theme": "parking spaces",
         "count": 1
       }
     ]
@@ -1673,7 +1673,7 @@
         "score": 0.0341
       },
       {
-        "word": "people without shelter or a home",
+        "word": "homeless and people without a home",
         "score": 0.0341
       },
       {
@@ -1689,7 +1689,7 @@
         "score": 0.0321
       },
       {
-        "word": "housing will be provided",
+        "word": "housing to come",
         "score": 0.0293
       },
       {
@@ -1706,30 +1706,30 @@
     ],
     "topThemes": [
       {
-        "theme": "Daklozenopvang",
+        "theme": "homeless shelter",
         "count": 5
       },
       {
-        "theme": "Tijdelijke woningen",
+        "theme": "temporary housing",
         "count": 3
       },
       {
-        "theme": "Flexwoningen",
+        "theme": "flexible housing",
         "count": 3
       },
       {
-        "theme": "Opvang dak- en thuislozen",
+        "theme": "shelter for homeless people",
         "count": 2
       },
       {
-        "theme": "Dak- en thuislozen",
+        "theme": "homeless and people without a home",
         "count": 2
       }
     ]
   },
   {
     "id": 23,
-    "label": "advice | municipal council | municipal council",
+    "label": "advice | the municipal council | municipal council",
     "count": 32,
     "keywords": [
       {
@@ -1737,7 +1737,7 @@
         "score": 0.0672
       },
       {
-        "word": "municipal council",
+        "word": "the municipal council",
         "score": 0.0605
       },
       {
@@ -1757,19 +1757,19 @@
         "score": 0.0488
       },
       {
-        "word": "there must be a youth council",
+        "word": "must have a youth council",
         "score": 0.0438
       },
       {
-        "word": "that are / which are",
+        "word": "that by",
         "score": 0.0417
       },
       {
-        "word": "sit / serve",
+        "word": "to sit",
         "score": 0.0417
       },
       {
-        "word": "must have a",
+        "word": "must a",
         "score": 0.0416
       }
     ],
@@ -1782,30 +1782,30 @@
     ],
     "topThemes": [
       {
-        "theme": "Burgerberaad",
+        "theme": "citizens' assembly",
         "count": 15
       },
       {
-        "theme": "Jongerenraad",
+        "theme": "youth council",
         "count": 8
       },
       {
-        "theme": "Kinderburgemeester",
+        "theme": "children's mayor",
         "count": 2
       },
       {
-        "theme": "Seniorenadviesraad",
+        "theme": "seniors' advisory council",
         "count": 2
       },
       {
-        "theme": "Kinderburgermeester",
+        "theme": "children's mayor",
         "count": 1
       }
     ]
   },
   {
     "id": 24,
-    "label": "must not | must not spend money | municipality must not",
+    "label": "must not | must not spend money | the municipality must not",
     "count": 31,
     "keywords": [
       {
@@ -1817,7 +1817,7 @@
         "score": 0.0532
       },
       {
-        "word": "municipality must not",
+        "word": "the municipality must not",
         "score": 0.0486
       },
       {
@@ -1833,19 +1833,19 @@
         "score": 0.0405
       },
       {
-        "word": "must stop doing",
+        "word": "must stop",
         "score": 0.0389
       },
       {
-        "word": "stop doing",
+        "word": "to stop (doing)",
         "score": 0.0389
       },
       {
-        "word": "no / none",
+        "word": "no",
         "score": 0.0339
       },
       {
-        "word": "refrain",
+        "word": "to forgo",
         "score": 0.033
       }
     ],
@@ -1858,66 +1858,66 @@
     ],
     "topThemes": [
       {
-        "theme": "Regenboogsubsidies",
+        "theme": "rainbow subsidies",
         "count": 2
       },
       {
-        "theme": "Financiële steun Wildlands",
+        "theme": "financial support for Wildlands",
         "count": 1
       },
       {
-        "theme": "Burgerweeshuis en Schouwburg onder één dak",
+        "theme": "orphanage and theatre under one roof",
         "count": 1
       },
       {
-        "theme": "Luchthaven",
+        "theme": "Airport",
         "count": 1
       },
       {
-        "theme": "Topsport",
+        "theme": "Elite sports",
         "count": 1
       }
     ]
   },
   {
     "id": 25,
-    "label": "events | major events | permits",
+    "label": "Events | Major events | Permits",
     "count": 29,
     "keywords": [
       {
-        "word": "events",
+        "word": "Events",
         "score": 0.0859
       },
       {
-        "word": "major events",
+        "word": "Major events",
         "score": 0.0358
       },
       {
-        "word": "permits",
+        "word": "Permits",
         "score": 0.0345
       },
       {
-        "word": "a permit",
+        "word": "A permit",
         "score": 0.0345
       },
       {
-        "word": "permit",
+        "word": "Permit",
         "score": 0.0291
       },
       {
-        "word": "permits for",
+        "word": "Permits for",
         "score": 0.0281
       },
       {
-        "word": "large / major",
+        "word": "Large",
         "score": 0.028
       },
       {
-        "word": "allow events",
+        "word": "Allow events",
         "score": 0.0269
       },
       {
-        "word": "fewer / less",
+        "word": "Less",
         "score": 0.0234
       },
       {
@@ -1934,7 +1934,7 @@
     ],
     "topThemes": [
       {
-        "theme": "Evenementen",
+        "theme": "Events",
         "count": 4
       },
       {
@@ -1942,11 +1942,11 @@
         "count": 2
       },
       {
-        "theme": "Leges",
+        "theme": "Administrative fees",
         "count": 2
       },
       {
-        "theme": "Terrasbelasting",
+        "theme": "Terrace tax",
         "count": 1
       },
       {
@@ -1957,47 +1957,47 @@
   },
   {
     "id": 26,
-    "label": "newcomers | newcomers in | of newcomers",
+    "label": "Newcomers | Newcomers in | Of newcomers",
     "count": 27,
     "keywords": [
       {
-        "word": "newcomers",
+        "word": "Newcomers",
         "score": 0.0625
       },
       {
-        "word": "newcomers in",
+        "word": "Newcomers in",
         "score": 0.0392
       },
       {
-        "word": "of newcomers",
+        "word": "Of newcomers",
         "score": 0.0392
       },
       {
-        "word": "of newcomers in",
+        "word": "Of newcomers in",
         "score": 0.0392
       },
       {
-        "word": "spend money on",
+        "word": "Spend money on",
         "score": 0.0391
       },
       {
-        "word": "spend more money",
+        "word": "Spend more money",
         "score": 0.0384
       },
       {
-        "word": "spend on",
+        "word": "Spend on",
         "score": 0.0381
       },
       {
-        "word": "spend money",
+        "word": "Spend money",
         "score": 0.0375
       },
       {
-        "word": "spend",
+        "word": "Spend",
         "score": 0.0364
       },
       {
-        "word": "integration of newcomers",
+        "word": "Integration of newcomers",
         "score": 0.0337
       }
     ],
@@ -2010,30 +2010,30 @@
     ],
     "topThemes": [
       {
-        "theme": "Integratie",
+        "theme": "Integration",
         "count": 7
       },
       {
-        "theme": "Nederlands leren",
+        "theme": "Learn Dutch",
         "count": 3
       },
       {
-        "theme": "Gemeente communiceert Fries",
+        "theme": "Municipality communicates in Frisian",
         "count": 1
       },
       {
-        "theme": "Arbeidsmigranten",
+        "theme": "Labor migrants",
         "count": 1
       },
       {
-        "theme": "Taalcursus nieuwkomers",
+        "theme": "Language course for newcomers",
         "count": 1
       }
     ]
   },
   {
     "id": 27,
-    "label": "Sunday | on Sunday | shops / stores",
+    "label": "Sunday | On Sunday | Shops",
     "count": 26,
     "keywords": [
       {
@@ -2041,39 +2041,39 @@
         "score": 0.1299
       },
       {
-        "word": "on Sunday",
+        "word": "On Sunday",
         "score": 0.1234
       },
       {
-        "word": "shops / stores",
+        "word": "Shops",
         "score": 0.1069
       },
       {
-        "word": "allow",
+        "word": "Allow",
         "score": 0.0633
       },
       {
-        "word": "to be open",
+        "word": "Be open",
         "score": 0.0544
       },
       {
-        "word": "are the",
+        "word": "Are the",
         "score": 0.0493
       },
       {
-        "word": "open",
+        "word": "Open",
         "score": 0.0464
       },
       {
-        "word": "closed",
+        "word": "Closed",
         "score": 0.0452
       },
       {
-        "word": "are the municipality",
+        "word": "Are the municipality",
         "score": 0.0429
       },
       {
-        "word": "must be on",
+        "word": "Must be on",
         "score": 0.0399
       }
     ],
@@ -2086,42 +2086,42 @@
     ],
     "topThemes": [
       {
-        "theme": "Winkels dicht op zondag",
+        "theme": "Shops closed on Sunday",
         "count": 9
       },
       {
-        "theme": "Koopzondagen",
+        "theme": "Shopping Sundays",
         "count": 6
       },
       {
-        "theme": "Winkeltijden",
+        "theme": "Shop hours",
         "count": 3
       },
       {
-        "theme": "Verkoop alcohol",
+        "theme": "Sale of alcohol",
         "count": 1
       },
       {
-        "theme": "Burgerzaken openingstijden",
+        "theme": "Civil Affairs opening hours",
         "count": 1
       }
     ]
   },
   {
     "id": 28,
-    "label": "speed limit | the speed limit | to 30",
+    "label": "Speed limit | The speed limit | To 30",
     "count": 26,
     "keywords": [
       {
-        "word": "speed limit",
+        "word": "Speed limit",
         "score": 0.1851
       },
       {
-        "word": "the speed limit",
+        "word": "The speed limit",
         "score": 0.1741
       },
       {
-        "word": "to 30",
+        "word": "To 30",
         "score": 0.1133
       },
       {
@@ -2137,7 +2137,7 @@
         "score": 0.0664
       },
       {
-        "word": "area",
+        "word": "built-up area",
         "score": 0.0664
       },
       {
@@ -2149,7 +2149,7 @@
         "score": 0.0664
       },
       {
-        "word": "the built-up (area)",
+        "word": "the built-up",
         "score": 0.0664
       }
     ],
@@ -2162,23 +2162,23 @@
     ],
     "topThemes": [
       {
-        "theme": "Snelheid auto's",
+        "theme": "car speed",
         "count": 15
       },
       {
-        "theme": "Maximumsnelheid",
+        "theme": "maximum speed",
         "count": 5
       },
       {
-        "theme": "Maximumsnelheid Overijsselselaan",
+        "theme": "speed limit on Overijsselselaan",
         "count": 1
       },
       {
-        "theme": "Polderwegen",
+        "theme": "polder roads",
         "count": 1
       },
       {
-        "theme": "Maximumsnelheid bij scholen",
+        "theme": "speed limit near schools",
         "count": 1
       }
     ]
@@ -2221,7 +2221,7 @@
         "score": 0.0605
       },
       {
-        "word": "businesses",
+        "word": "companies",
         "score": 0.0549
       },
       {
@@ -2238,15 +2238,15 @@
     ],
     "topThemes": [
       {
-        "theme": "City marketing",
+        "theme": "city marketing",
         "count": 5
       },
       {
-        "theme": "Aantrekken bedrijven",
+        "theme": "attracting companies",
         "count": 4
       },
       {
-        "theme": "Promotiecampagne",
+        "theme": "promotional campaign",
         "count": 3
       },
       {
@@ -2254,14 +2254,14 @@
         "count": 2
       },
       {
-        "theme": "Bedrijven aantrekken",
+        "theme": "attract companies",
         "count": 1
       }
     ]
   },
   {
     "id": 30,
-    "label": "sustainable | businesses | work",
+    "label": "sustainable | companies | work",
     "count": 25,
     "keywords": [
       {
@@ -2269,7 +2269,7 @@
         "score": 0.0485
       },
       {
-        "word": "businesses",
+        "word": "companies",
         "score": 0.046
       },
       {
@@ -2281,7 +2281,7 @@
         "score": 0.04
       },
       {
-        "word": "businesses that",
+        "word": "companies that",
         "score": 0.0351
       },
       {
@@ -2314,42 +2314,42 @@
     ],
     "topThemes": [
       {
-        "theme": "Duurzame bedrijven",
+        "theme": "sustainable companies",
         "count": 4
       },
       {
-        "theme": "Klimaatneutraal",
+        "theme": "climate-neutral",
         "count": 4
       },
       {
-        "theme": "Energie kazerne",
+        "theme": "energy barracks",
         "count": 1
       },
       {
-        "theme": "Duurzaam inkopen",
+        "theme": "sustainable procurement",
         "count": 1
       },
       {
-        "theme": "Sociale ondernemingen",
+        "theme": "social enterprises",
         "count": 1
       }
     ]
   },
   {
     "id": 31,
-    "label": "attention is being paid to primary schools | attention in primary schools | attention for all primary schools",
+    "label": "attention is given to primary schools | attention to primary schools | attention to all primary schools",
     "count": 24,
     "keywords": [
       {
-        "word": "attention is being paid to primary schools",
+        "word": "attention is given to primary schools",
         "score": 0.0684
       },
       {
-        "word": "attention in primary schools",
+        "word": "attention to primary schools",
         "score": 0.0684
       },
       {
-        "word": "attention for all primary schools",
+        "word": "attention to all primary schools",
         "score": 0.0684
       },
       {
@@ -2390,30 +2390,30 @@
     ],
     "topThemes": [
       {
-        "theme": "Streektaal",
+        "theme": "Regional language",
         "count": 23
       },
       {
-        "theme": "Geschiedenisles",
+        "theme": "History lesson",
         "count": 1
       }
     ]
   },
   {
     "id": 32,
-    "label": "attention for all primary schools | attention is being paid to primary schools | attention in primary schools",
+    "label": "attention to all primary schools | attention is given to primary schools | attention to primary schools",
     "count": 21,
     "keywords": [
       {
-        "word": "attention for all primary schools",
+        "word": "attention to all primary schools",
         "score": 0.0689
       },
       {
-        "word": "attention is being paid to primary schools",
+        "word": "attention is given to primary schools",
         "score": 0.0689
       },
       {
-        "word": "attention in primary schools",
+        "word": "attention to primary schools",
         "score": 0.0689
       },
       {
@@ -2454,22 +2454,22 @@
     ],
     "topThemes": [
       {
-        "theme": "Streektaal",
+        "theme": "Regional language",
         "count": 21
       }
     ]
   },
   {
     "id": 33,
-    "label": "restaurants | cafes | and restaurants",
+    "label": "Restaurants | Cafes | and restaurants",
     "count": 20,
     "keywords": [
       {
-        "word": "restaurants",
+        "word": "Restaurants",
         "score": 0.0981
       },
       {
-        "word": "cafes",
+        "word": "Cafes",
         "score": 0.096
       },
       {
@@ -2477,11 +2477,11 @@
         "score": 0.0802
       },
       {
-        "word": "cafes and restaurants",
+        "word": "Cafes and restaurants",
         "score": 0.0707
       },
       {
-        "word": "cafes and",
+        "word": "Cafes and",
         "score": 0.0707
       },
       {
@@ -2489,11 +2489,11 @@
         "score": 0.0688
       },
       {
-        "word": "opening hours",
+        "word": "Opening hours",
         "score": 0.067
       },
       {
-        "word": "determine",
+        "word": "Determine",
         "score": 0.067
       },
       {
@@ -2514,46 +2514,46 @@
     ],
     "topThemes": [
       {
-        "theme": "Sluitingstijden horeca",
+        "theme": "Hospitality closing times",
         "count": 5
       },
       {
-        "theme": "Openingstijden",
+        "theme": "Opening hours",
         "count": 2
       },
       {
-        "theme": "Openingstijden horeca",
+        "theme": "Hospitality opening hours",
         "count": 2
       },
       {
-        "theme": "Terrassen",
+        "theme": "Terraces",
         "count": 2
       },
       {
-        "theme": "Openingstijden terrassen",
+        "theme": "Opening hours for terraces",
         "count": 2
       }
     ]
   },
   {
     "id": 34,
-    "label": "jobs | long-term | people with a",
+    "label": "Jobs | Long-term | People with a",
     "count": 20,
     "keywords": [
       {
-        "word": "jobs",
+        "word": "Jobs",
         "score": 0.0641
       },
       {
-        "word": "long-term",
+        "word": "Long-term",
         "score": 0.0564
       },
       {
-        "word": "people with a",
+        "word": "People with a",
         "score": 0.0425
       },
       {
-        "word": "people",
+        "word": "People",
         "score": 0.041
       },
       {
@@ -2565,15 +2565,15 @@
         "score": 0.04
       },
       {
-        "word": "people with",
+        "word": "People with",
         "score": 0.0389
       },
       {
-        "word": "disability",
+        "word": "Disability",
         "score": 0.0387
       },
       {
-        "word": "there must be",
+        "word": "there must",
         "score": 0.0331
       },
       {
@@ -2590,34 +2590,34 @@
     ],
     "topThemes": [
       {
-        "theme": "Gesubsidieerde banen",
+        "theme": "Subsidized jobs",
         "count": 6
       },
       {
-        "theme": "Mensen met een beperking",
+        "theme": "People with a disability",
         "count": 1
       },
       {
-        "theme": "Beschermde banen",
+        "theme": "Sheltered jobs",
         "count": 1
       },
       {
-        "theme": "Werkplekken",
+        "theme": "Workplaces",
         "count": 1
       },
       {
-        "theme": "Ondersteuning werkzoekenden",
+        "theme": "Support for jobseekers",
         "count": 1
       }
     ]
   },
   {
     "id": 35,
-    "label": "priority | with a residence permit | refugees with",
+    "label": "Priority | with a residence permit | Refugees with",
     "count": 19,
     "keywords": [
       {
-        "word": "priority",
+        "word": "Priority",
         "score": 0.0871
       },
       {
@@ -2625,11 +2625,11 @@
         "score": 0.0858
       },
       {
-        "word": "refugees with",
+        "word": "Refugees with",
         "score": 0.0842
       },
       {
-        "word": "refugees with a",
+        "word": "Refugees with a",
         "score": 0.0842
       },
       {
@@ -2637,7 +2637,7 @@
         "score": 0.0842
       },
       {
-        "word": "residence permit",
+        "word": "Residence permit",
         "score": 0.0828
       },
       {
@@ -2645,7 +2645,7 @@
         "score": 0.0801
       },
       {
-        "word": "give up",
+        "word": "give on",
         "score": 0.0729
       },
       {
@@ -2653,7 +2653,7 @@
         "score": 0.0715
       },
       {
-        "word": "refugees",
+        "word": "Refugees",
         "score": 0.0708
       }
     ],
@@ -2666,42 +2666,42 @@
     ],
     "topThemes": [
       {
-        "theme": "Voorrang voor vluchtelingen",
+        "theme": "Priority for refugees",
         "count": 9
       },
       {
-        "theme": "Voorrang statushouders",
+        "theme": "Priority for status holders",
         "count": 4
       },
       {
-        "theme": "Voorrang voor statushouders",
+        "theme": "Priority for status holders",
         "count": 2
       },
       {
-        "theme": "Vluchtelingen met verbijfsstatus",
+        "theme": "Refugees with residence status",
         "count": 1
       },
       {
-        "theme": "Toewijzing woning asielzoekers",
+        "theme": "Housing allocation for asylum seekers",
         "count": 1
       }
     ]
   },
   {
     "id": 36,
-    "label": "use of | the use of | the use",
+    "label": "Use of | The use of | The use",
     "count": 18,
     "keywords": [
       {
-        "word": "use of",
+        "word": "Use of",
         "score": 0.044
       },
       {
-        "word": "the use of",
+        "word": "The use of",
         "score": 0.044
       },
       {
-        "word": "the use",
+        "word": "The use",
         "score": 0.044
       },
       {
@@ -2721,7 +2721,7 @@
         "score": 0.0338
       },
       {
-        "word": "ban",
+        "word": "to ban",
         "score": 0.0328
       },
       {
@@ -2742,30 +2742,30 @@
     ],
     "topThemes": [
       {
-        "theme": "Landbouwgif",
+        "theme": "pesticides",
         "count": 3
       },
       {
-        "theme": "Bestrijdingsmiddelen",
+        "theme": "pesticides",
         "count": 2
       },
       {
-        "theme": "Asfaltcentrale Twente",
+        "theme": "Twente asphalt plant",
         "count": 1
       },
       {
-        "theme": "Lelieteelt",
+        "theme": "lily cultivation",
         "count": 1
       },
       {
-        "theme": "Spuitvrije zones",
+        "theme": "no-spray zones",
         "count": 1
       }
     ]
   },
   {
     "id": 37,
-    "label": "poverty | help | in poverty",
+    "label": "poverty | assistance | in poverty",
     "count": 18,
     "keywords": [
       {
@@ -2773,7 +2773,7 @@
         "score": 0.1056
       },
       {
-        "word": "help",
+        "word": "assistance",
         "score": 0.1002
       },
       {
@@ -2785,7 +2785,7 @@
         "score": 0.0743
       },
       {
-        "word": "to increase",
+        "word": "increase",
         "score": 0.0611
       },
       {
@@ -2793,7 +2793,7 @@
         "score": 0.0541
       },
       {
-        "word": "people",
+        "word": "People",
         "score": 0.0533
       },
       {
@@ -2801,11 +2801,11 @@
         "score": 0.0509
       },
       {
-        "word": "for help",
+        "word": "for assistance",
         "score": 0.0496
       },
       {
-        "word": "arrangements",
+        "word": "schemes",
         "score": 0.0449
       }
     ],
@@ -2818,23 +2818,23 @@
     ],
     "topThemes": [
       {
-        "theme": "Armoedebestrijding",
+        "theme": "poverty alleviation",
         "count": 11
       },
       {
-        "theme": "Bijverdienen in bijstand",
+        "theme": "earning extra while on welfare",
         "count": 1
       },
       {
-        "theme": "Financiële opvoeding",
+        "theme": "financial education",
         "count": 1
       },
       {
-        "theme": "Hulp bij armoede",
+        "theme": "poverty assistance",
         "count": 1
       },
       {
-        "theme": "Armoedeval",
+        "theme": "poverty trap",
         "count": 1
       }
     ]
@@ -2894,23 +2894,23 @@
     ],
     "topThemes": [
       {
-        "theme": "Coffeeshops",
+        "theme": "coffeeshops",
         "count": 5
       },
       {
-        "theme": "Coffeeshop",
+        "theme": "coffeeshop",
         "count": 3
       },
       {
-        "theme": "Hennepteelt",
+        "theme": "cannabis cultivation",
         "count": 1
       },
       {
-        "theme": "Nieuwe coffeeshops",
+        "theme": "new coffeeshops",
         "count": 1
       },
       {
-        "theme": "Coffeeshops buiten het centrum",
+        "theme": "coffeeshops outside the city center",
         "count": 1
       }
     ]
@@ -2937,7 +2937,7 @@
         "score": 0.0527
       },
       {
-        "word": "country",
+        "word": "land",
         "score": 0.0524
       },
       {
@@ -2970,30 +2970,30 @@
     ],
     "topThemes": [
       {
-        "theme": "Huisvesting buitenlandse werknemers",
+        "theme": "housing for foreign workers",
         "count": 10
       },
       {
-        "theme": "Arbeidsmigranten",
+        "theme": "Labor migrants",
         "count": 5
       },
       {
-        "theme": "Seizoensarbeiders",
+        "theme": "seasonal workers",
         "count": 1
       },
       {
-        "theme": "Huisvesting arbeidsmigranten",
+        "theme": "housing for migrant workers",
         "count": 1
       },
       {
-        "theme": "Internationale medewerkers",
+        "theme": "international employees",
         "count": 1
       }
     ]
   },
   {
     "id": 40,
-    "label": "trees | to plant | tree",
+    "label": "trees | plants | tree",
     "count": 18,
     "keywords": [
       {
@@ -3001,7 +3001,7 @@
         "score": 0.1023
       },
       {
-        "word": "to plant",
+        "word": "plants",
         "score": 0.0828
       },
       {
@@ -3025,11 +3025,11 @@
         "score": 0.0308
       },
       {
-        "word": "two of them",
+        "word": "there are two",
         "score": 0.0308
       },
       {
-        "word": "plant the",
+        "word": "the plants",
         "score": 0.0308
       },
       {
@@ -3046,34 +3046,34 @@
     ],
     "topThemes": [
       {
-        "theme": "Bomen",
+        "theme": "trees",
         "count": 5
       },
       {
-        "theme": "Bosaanleg",
+        "theme": "afforestation",
         "count": 1
       },
       {
-        "theme": "Verkeersveiligheid",
+        "theme": "road safety",
         "count": 1
       },
       {
-        "theme": "Vergroenen van de Markt",
+        "theme": "greening of the Market",
         "count": 1
       },
       {
-        "theme": "Herdenkingsbos",
+        "theme": "memorial forest",
         "count": 1
       }
     ]
   },
   {
     "id": 41,
-    "label": "their home | house | with a low",
+    "label": "their house | house | with a low",
     "count": 17,
     "keywords": [
       {
-        "word": "their home",
+        "word": "their house",
         "score": 0.042
       },
       {
@@ -3122,23 +3122,23 @@
     ],
     "topThemes": [
       {
-        "theme": "Energiearmoede",
+        "theme": "energy poverty",
         "count": 2
       },
       {
-        "theme": "Energiebesparing",
+        "theme": "energy saving",
         "count": 2
       },
       {
-        "theme": "Isoleren van huizen",
+        "theme": "insulating houses",
         "count": 2
       },
       {
-        "theme": "Isolatie woningen",
+        "theme": "home insulation",
         "count": 2
       },
       {
-        "theme": "Inkomensgrens verduurzaming",
+        "theme": "income threshold for sustainability measures",
         "count": 1
       }
     ]
@@ -3161,11 +3161,11 @@
         "score": 0.0635
       },
       {
-        "word": "must provide money",
+        "word": "needs money",
         "score": 0.0618
       },
       {
-        "word": "must put money",
+        "word": "must invest money",
         "score": 0.059
       },
       {
@@ -3173,19 +3173,19 @@
         "score": 0.0515
       },
       {
-        "word": "invest money",
+        "word": "to invest money",
         "score": 0.0515
       },
       {
-        "word": "municipality must provide money",
+        "word": "municipality must spend money",
         "score": 0.0511
       },
       {
-        "word": "to invest",
+        "word": "to put",
         "score": 0.051
       },
       {
-        "word": "put into",
+        "word": "invest in",
         "score": 0.051
       }
     ],
@@ -3198,23 +3198,23 @@
     ],
     "topThemes": [
       {
-        "theme": "Openbaar vervoer",
+        "theme": "public transport",
         "count": 11
       },
       {
-        "theme": "Nachtbus",
+        "theme": "night bus",
         "count": 2
       },
       {
-        "theme": "Gratis OV",
+        "theme": "free public transport",
         "count": 1
       },
       {
-        "theme": "Opknappen stations",
+        "theme": "refurbishing stations",
         "count": 1
       },
       {
-        "theme": "Pendelvervoer",
+        "theme": "commuter transport",
         "count": 1
       }
     ]
@@ -3249,7 +3249,7 @@
         "score": 0.038
       },
       {
-        "word": "to attract",
+        "word": "attract",
         "score": 0.0369
       },
       {
@@ -3261,7 +3261,7 @@
         "score": 0.0285
       },
       {
-        "word": "invest money",
+        "word": "to invest money",
         "score": 0.0285
       }
     ],
@@ -3274,23 +3274,23 @@
     ],
     "topThemes": [
       {
-        "theme": "Toerisme",
+        "theme": "tourism",
         "count": 6
       },
       {
-        "theme": "City marketing",
+        "theme": "city marketing",
         "count": 3
       },
       {
-        "theme": "Toeristenbelasting",
+        "theme": "tourist tax",
         "count": 3
       },
       {
-        "theme": "Toeristen",
+        "theme": "tourists",
         "count": 1
       },
       {
-        "theme": "Buitengebieden",
+        "theme": "outlying areas",
         "count": 1
       }
     ]
@@ -3321,11 +3321,11 @@
         "score": 0.0982
       },
       {
-        "word": "to receive priority",
+        "word": "to be given priority",
         "score": 0.0969
       },
       {
-        "word": "priority",
+        "word": "Priority",
         "score": 0.0967
       },
       {
@@ -3337,7 +3337,7 @@
         "score": 0.0855
       },
       {
-        "word": "people seeking housing",
+        "word": "housing applicants",
         "score": 0.0681
       }
     ],
@@ -3350,23 +3350,23 @@
     ],
     "topThemes": [
       {
-        "theme": "Voorrang huisvesting",
+        "theme": "housing priority",
         "count": 7
       },
       {
-        "theme": "Voorrang voor leraren, verplegers en politie",
+        "theme": "Priority for teachers, nurses, and police",
         "count": 1
       },
       {
-        "theme": "Daklozen",
+        "theme": "Homeless people",
         "count": 1
       },
       {
-        "theme": "Woningen voor jongeren",
+        "theme": "Housing for young people",
         "count": 1
       },
       {
-        "theme": "Voorrang voor vluchtelingen",
+        "theme": "Priority for refugees",
         "count": 1
       }
     ]
@@ -3393,7 +3393,7 @@
         "score": 0.0373
       },
       {
-        "word": "have the municipality",
+        "word": "the municipality has",
         "score": 0.0316
       },
       {
@@ -3405,7 +3405,7 @@
         "score": 0.0307
       },
       {
-        "word": "municipality must only",
+        "word": "the municipality must only",
         "score": 0.0307
       },
       {
@@ -3426,34 +3426,34 @@
     ],
     "topThemes": [
       {
-        "theme": "Warmtenet",
+        "theme": "Heat network",
         "count": 7
       },
       {
-        "theme": "WarmteStad",
+        "theme": "HeatCity",
         "count": 1
       },
       {
-        "theme": "Duurzame woningen",
+        "theme": "Sustainable homes",
         "count": 1
       },
       {
-        "theme": "Alternatief voor aardgas",
+        "theme": "Alternative to natural gas",
         "count": 1
       },
       {
-        "theme": "Energietransitie",
+        "theme": "Energy transition",
         "count": 1
       }
     ]
   },
   {
     "id": 46,
-    "label": "help | must residents | help the",
+    "label": "to help | must residents | help the",
     "count": 15,
     "keywords": [
       {
-        "word": "help",
+        "word": "to help",
         "score": 0.0464
       },
       {
@@ -3485,7 +3485,7 @@
         "score": 0.0308
       },
       {
-        "word": "to oneself",
+        "word": "to themselves",
         "score": 0.0308
       },
       {
@@ -3502,30 +3502,30 @@
     ],
     "topThemes": [
       {
-        "theme": "Verslaving",
+        "theme": "Addiction",
         "count": 2
       },
       {
-        "theme": "Cyberveiligheid",
+        "theme": "Cybersecurity",
         "count": 2
       },
       {
-        "theme": "Voorlichting vaccinatie",
+        "theme": "Vaccination education",
         "count": 1
       },
       {
-        "theme": "Wijkwerkers",
+        "theme": "Neighborhood workers",
         "count": 1
       },
       {
-        "theme": "Jongerenwerk",
+        "theme": "Youth work",
         "count": 1
       }
     ]
   },
   {
     "id": 47,
-    "label": "less money | must spend less money | must reduce",
+    "label": "less money | must less money | must less",
     "count": 14,
     "keywords": [
       {
@@ -3533,19 +3533,19 @@
         "score": 0.1269
       },
       {
-        "word": "must spend less money",
+        "word": "must less money",
         "score": 0.1199
       },
       {
-        "word": "must reduce",
+        "word": "must less",
         "score": 0.1194
       },
       {
-        "word": "municipality must reduce",
+        "word": "municipality must less",
         "score": 0.1157
       },
       {
-        "word": "fewer / less",
+        "word": "Less",
         "score": 0.1135
       },
       {
@@ -3553,19 +3553,19 @@
         "score": 0.0721
       },
       {
-        "word": "spend",
+        "word": "Spend",
         "score": 0.0578
       },
       {
-        "word": "spend on",
+        "word": "Spend on",
         "score": 0.0505
       },
       {
-        "word": "spend money",
+        "word": "Spend money",
         "score": 0.0497
       },
       {
-        "word": "spend money on",
+        "word": "Spend money on",
         "score": 0.0415
       }
     ],
@@ -3582,34 +3582,34 @@
         "count": 1
       },
       {
-        "theme": "Herverdeling subsidies",
+        "theme": "Redistribution of subsidies",
         "count": 1
       },
       {
-        "theme": "Minder subsidies",
+        "theme": "Fewer subsidies",
         "count": 1
       },
       {
-        "theme": "Renovatie gemeentehuis",
+        "theme": "Renovation of the town hall",
         "count": 1
       },
       {
-        "theme": "Stadspromotie",
+        "theme": "City promotion",
         "count": 1
       }
     ]
   },
   {
     "id": 48,
-    "label": "contribute (to the cost) | contribute to | contribute to a",
+    "label": "to contribute (financially) | to contribute to | contribute to a",
     "count": 14,
     "keywords": [
       {
-        "word": "contribute (to the cost)",
+        "word": "to contribute (financially)",
         "score": 0.0558
       },
       {
-        "word": "contribute to",
+        "word": "to contribute to",
         "score": 0.046
       },
       {
@@ -3637,7 +3637,7 @@
         "score": 0.0357
       },
       {
-        "word": "must provide money",
+        "word": "needs money",
         "score": 0.0352
       },
       {
@@ -3654,23 +3654,23 @@
     ],
     "topThemes": [
       {
-        "theme": "Buurtbatterijen",
+        "theme": "neighborhood batteries",
         "count": 2
       },
       {
-        "theme": "Waterbus",
+        "theme": "water bus",
         "count": 2
       },
       {
-        "theme": "Deelfietsen",
+        "theme": "shared bikes",
         "count": 2
       },
       {
-        "theme": "Snelle fietsverbinding",
+        "theme": "fast bike connection",
         "count": 1
       },
       {
-        "theme": "Fietstunnel",
+        "theme": "bike tunnel",
         "count": 1
       }
     ]
@@ -3705,7 +3705,7 @@
         "score": 0.0545
       },
       {
-        "word": "the public transport",
+        "word": "public transport",
         "score": 0.0525
       },
       {
@@ -3730,30 +3730,30 @@
     ],
     "topThemes": [
       {
-        "theme": "Gratis openbaar vervoer",
+        "theme": "free public transport",
         "count": 3
       },
       {
-        "theme": "Gratis OV",
+        "theme": "free public transport",
         "count": 3
       },
       {
-        "theme": "Gratis ov voor 67+'ers",
+        "theme": "free public transport for people aged 67+",
         "count": 1
       },
       {
-        "theme": "Gratis ov voor 65+",
+        "theme": "free public transport for 65+",
         "count": 1
       },
       {
-        "theme": "OV voor kinderen",
+        "theme": "public transport for children",
         "count": 1
       }
     ]
   },
   {
     "id": 50,
-    "label": "abolish | to renovate | build and",
+    "label": "abolish | renovate | build and",
     "count": 13,
     "keywords": [
       {
@@ -3761,7 +3761,7 @@
         "score": 0.0849
       },
       {
-        "word": "to renovate",
+        "word": "renovate",
         "score": 0.0638
       },
       {
@@ -3777,7 +3777,7 @@
         "score": 0.0358
       },
       {
-        "word": "be abolished",
+        "word": "are abolished",
         "score": 0.0351
       },
       {
@@ -3789,7 +3789,7 @@
         "score": 0.0351
       },
       {
-        "word": "the municipal must",
+        "word": "must the municipal",
         "score": 0.0351
       },
       {
@@ -3806,38 +3806,38 @@
     ],
     "topThemes": [
       {
-        "theme": "Welstandsregels",
+        "theme": "aesthetic regulations",
         "count": 5
       },
       {
-        "theme": "Bouweisen",
+        "theme": "building requirements",
         "count": 1
       },
       {
-        "theme": "Stadhuis",
+        "theme": "city hall",
         "count": 1
       },
       {
-        "theme": "Bouwen zonder vergunning",
+        "theme": "building without a permit",
         "count": 1
       },
       {
-        "theme": "Stadsdelen",
+        "theme": "city districts",
         "count": 1
       }
     ]
   },
   {
     "id": 51,
-    "label": "increase | raise the | tourist tax",
+    "label": "up | increase the | tourist tax",
     "count": 13,
     "keywords": [
       {
-        "word": "increase",
+        "word": "up",
         "score": 0.1589
       },
       {
-        "word": "raise the",
+        "word": "increase the",
         "score": 0.154
       },
       {
@@ -3845,11 +3845,11 @@
         "score": 0.1129
       },
       {
-        "word": "must be raised",
+        "word": "must be increased",
         "score": 0.101
       },
       {
-        "word": "must be raised (plural)",
+        "word": "must be increased",
         "score": 0.096
       },
       {
@@ -3882,46 +3882,46 @@
     ],
     "topThemes": [
       {
-        "theme": "Toeristenbelasting",
+        "theme": "tourist tax",
         "count": 5
       },
       {
-        "theme": "Grafrechten",
+        "theme": "burial rights",
         "count": 2
       },
       {
-        "theme": "Leges",
+        "theme": "Administrative fees",
         "count": 1
       },
       {
-        "theme": "Forensenbelasting",
+        "theme": "commuter tax",
         "count": 1
       },
       {
-        "theme": "Afval dumpen",
+        "theme": "dumping waste",
         "count": 1
       }
     ]
   },
   {
     "id": 52,
-    "label": "conduct a trial | carry out a trial | trial with",
+    "label": "run a trial | do a trial | to experiment with",
     "count": 13,
     "keywords": [
       {
-        "word": "conduct a trial",
+        "word": "run a trial",
         "score": 0.2728
       },
       {
-        "word": "carry out a trial",
+        "word": "do a trial",
         "score": 0.2728
       },
       {
-        "word": "trial with",
+        "word": "to experiment with",
         "score": 0.2728
       },
       {
-        "word": "must run a trial",
+        "word": "must have a trial",
         "score": 0.2682
       },
       {
@@ -3933,15 +3933,15 @@
         "score": 0.2639
       },
       {
-        "word": "do with",
+        "word": "to do with",
         "score": 0.2639
       },
       {
-        "word": "do / carry out",
+        "word": "to do",
         "score": 0.2161
       },
       {
-        "word": "must have a",
+        "word": "must a",
         "score": 0.0826
       },
       {
@@ -3958,22 +3958,22 @@
     ],
     "topThemes": [
       {
-        "theme": "Basisinkomen",
+        "theme": "basic income",
         "count": 13
       }
     ]
   },
   {
     "id": 53,
-    "label": "cut back on | cut spending | must cut spending",
+    "label": "to cut back on | to cut spending | must cut spending",
     "count": 12,
     "keywords": [
       {
-        "word": "cut back on",
+        "word": "to cut back on",
         "score": 0.117
       },
       {
-        "word": "cut spending",
+        "word": "to cut spending",
         "score": 0.1147
       },
       {
@@ -3981,11 +3981,11 @@
         "score": 0.1077
       },
       {
-        "word": "must cut spending on",
+        "word": "must cut back on",
         "score": 0.1077
       },
       {
-        "word": "the municipality must cut spending",
+        "word": "municipality must cut spending",
         "score": 0.0954
       },
       {
@@ -3997,7 +3997,7 @@
         "score": 0.0683
       },
       {
-        "word": "must spend less money",
+        "word": "must less money",
         "score": 0.0631
       },
       {
@@ -4005,7 +4005,7 @@
         "score": 0.0601
       },
       {
-        "word": "municipality must reduce",
+        "word": "municipality must less",
         "score": 0.0548
       }
     ],
@@ -4018,42 +4018,42 @@
     ],
     "topThemes": [
       {
-        "theme": "Armoedebestrijding",
+        "theme": "poverty alleviation",
         "count": 2
       },
       {
-        "theme": "Monumenten",
+        "theme": "monuments",
         "count": 1
       },
       {
-        "theme": "Integratie statushouders",
+        "theme": "integration of status holders (recognized refugees)",
         "count": 1
       },
       {
-        "theme": "Bezuinigen op jongerenwerk",
+        "theme": "cuts to youth work",
         "count": 1
       },
       {
-        "theme": "Minimabeleid",
+        "theme": "policy for low-income residents",
         "count": 1
       }
     ]
   },
   {
     "id": 54,
-    "label": "must enforce more strictly | the municipality must be stricter | check more strictly",
+    "label": "must check more strictly | municipality must be stricter | to check more strictly",
     "count": 12,
     "keywords": [
       {
-        "word": "must enforce more strictly",
+        "word": "must check more strictly",
         "score": 0.051
       },
       {
-        "word": "the municipality must be stricter",
+        "word": "municipality must be stricter",
         "score": 0.051
       },
       {
-        "word": "check more strictly",
+        "word": "to check more strictly",
         "score": 0.051
       },
       {
@@ -4069,19 +4069,19 @@
         "score": 0.0441
       },
       {
-        "word": "invest in the",
+        "word": "to put into the",
         "score": 0.0377
       },
       {
-        "word": "check for",
+        "word": "to check for",
         "score": 0.0373
       },
       {
-        "word": "stricter enforcement of",
+        "word": "to check more strictly for",
         "score": 0.0362
       },
       {
-        "word": "invest more money",
+        "word": "to put more money into",
         "score": 0.0316
       }
     ],
@@ -4094,30 +4094,30 @@
     ],
     "topThemes": [
       {
-        "theme": "Bijstandsfraude",
+        "theme": "welfare fraud",
         "count": 4
       },
       {
-        "theme": "Fraude",
+        "theme": "fraud",
         "count": 1
       },
       {
-        "theme": "Arbeidsmigranten",
+        "theme": "Labor migrants",
         "count": 1
       },
       {
-        "theme": "Bijstandsuitkering",
+        "theme": "welfare benefit",
         "count": 1
       },
       {
-        "theme": "Armoedehulp",
+        "theme": "poverty relief",
         "count": 1
       }
     ]
   },
   {
     "id": 55,
-    "label": "with which | only / just | sport",
+    "label": "with which | card | sports",
     "count": 12,
     "keywords": [
       {
@@ -4125,11 +4125,11 @@
         "score": 0.0763
       },
       {
-        "word": "only / just",
+        "word": "card",
         "score": 0.0523
       },
       {
-        "word": "sport",
+        "word": "sports",
         "score": 0.0487
       },
       {
@@ -4141,7 +4141,7 @@
         "score": 0.0458
       },
       {
-        "word": "people with",
+        "word": "People with",
         "score": 0.0406
       },
       {
@@ -4170,34 +4170,34 @@
     ],
     "topThemes": [
       {
-        "theme": "Stadspas",
+        "theme": "city pass",
         "count": 2
       },
       {
-        "theme": "Integratie met een Stadjerspas",
+        "theme": "integration with a Stadjerspas (city pass)",
         "count": 1
       },
       {
-        "theme": "Kortingspas",
+        "theme": "discount card",
         "count": 1
       },
       {
-        "theme": "Sport- en cultuurkaart",
+        "theme": "sports and culture card",
         "count": 1
       },
       {
-        "theme": "Sportkaart",
+        "theme": "sports card",
         "count": 1
       }
     ]
   },
   {
     "id": 56,
-    "label": "distribute | public | free",
+    "label": "to distribute | public | free",
     "count": 12,
     "keywords": [
       {
-        "word": "distribute",
+        "word": "to distribute",
         "score": 0.1132
       },
       {
@@ -4209,7 +4209,7 @@
         "score": 0.0747
       },
       {
-        "word": "the municipality must offer for free",
+        "word": "municipality must provide for free",
         "score": 0.049
       },
       {
@@ -4229,7 +4229,7 @@
         "score": 0.0278
       },
       {
-        "word": "realize the",
+        "word": "implement the",
         "score": 0.0278
       },
       {
@@ -4246,34 +4246,34 @@
     ],
     "topThemes": [
       {
-        "theme": "Gratis menstruatieproducten",
+        "theme": "Free menstrual products",
         "count": 6
       },
       {
-        "theme": "Openbare toiletten",
+        "theme": "Public toilets",
         "count": 3
       },
       {
-        "theme": "WC",
+        "theme": "Toilet",
         "count": 2
       },
       {
-        "theme": "Recreatieve voorzieningen",
+        "theme": "Recreational facilities",
         "count": 1
       }
     ]
   },
   {
     "id": 57,
-    "label": "property tax | the property tax (ozb) | property tax",
+    "label": "the property tax | the property tax (OZB) | property tax",
     "count": 12,
     "keywords": [
       {
-        "word": "property tax",
+        "word": "the property tax",
         "score": 0.2615
       },
       {
-        "word": "the property tax (ozb)",
+        "word": "the property tax (OZB)",
         "score": 0.2426
       },
       {
@@ -4281,15 +4281,15 @@
         "score": 0.24
       },
       {
-        "word": "ozb (property tax)",
+        "word": "OZB (property tax)",
         "score": 0.2252
       },
       {
-        "word": "property tax (ozb)",
+        "word": "property tax (OZB)",
         "score": 0.2252
       },
       {
-        "word": "increase",
+        "word": "up",
         "score": 0.1223
       },
       {
@@ -4297,7 +4297,7 @@
         "score": 0.0951
       },
       {
-        "word": "down / lower",
+        "word": "lower",
         "score": 0.0873
       },
       {
@@ -4305,7 +4305,7 @@
         "score": 0.0762
       },
       {
-        "word": "down the",
+        "word": "lower the",
         "score": 0.0744
       }
     ],
@@ -4318,30 +4318,30 @@
     ],
     "topThemes": [
       {
-        "theme": "Belasting op gebouwen",
+        "theme": "Tax on buildings",
         "count": 9
       },
       {
-        "theme": "Afvalstoffenheffing",
+        "theme": "waste disposal tax",
         "count": 1
       },
       {
-        "theme": "Onroerendezaakbelasting",
+        "theme": "Property tax",
         "count": 1
       },
       {
-        "theme": "Belasting op gebouwen omhoog",
+        "theme": "raise tax on buildings",
         "count": 1
       }
     ]
   },
   {
     "id": 58,
-    "label": "provide more funding | give more | no more money",
+    "label": "give more money | give more | no more money",
     "count": 12,
     "keywords": [
       {
-        "word": "provide more funding",
+        "word": "give more money",
         "score": 0.2591
       },
       {
@@ -4361,11 +4361,11 @@
         "score": 0.2237
       },
       {
-        "word": "no / none",
+        "word": "no",
         "score": 0.1316
       },
       {
-        "word": "the pool must",
+        "word": "needs a pool",
         "score": 0.088
       },
       {
@@ -4402,18 +4402,18 @@
         "count": 1
       },
       {
-        "theme": "Historisch Museum de Bevelanden",
+        "theme": "Historical Museum De Bevelanden",
         "count": 1
       },
       {
-        "theme": "Zwembad Reynaertland",
+        "theme": "Reynaertland Swimming Pool",
         "count": 1
       }
     ]
   },
   {
     "id": 59,
-    "label": "subsidy | the LGBTIQA+ community | must participate",
+    "label": "subsidy | the LGBTQIA community | must participate",
     "count": 11,
     "keywords": [
       {
@@ -4421,7 +4421,7 @@
         "score": 0.0511
       },
       {
-        "word": "the LGBTIQA+ community",
+        "word": "the LGBTQIA community",
         "score": 0.0501
       },
       {
@@ -4429,7 +4429,7 @@
         "score": 0.0501
       },
       {
-        "word": "LGBTIQA+ community",
+        "word": "LGBTQIA community",
         "score": 0.0501
       },
       {
@@ -4466,34 +4466,34 @@
     ],
     "topThemes": [
       {
-        "theme": "LHBTI",
+        "theme": "LGBTI",
         "count": 2
       },
       {
-        "theme": "Regenboogvlag",
+        "theme": "rainbow flag",
         "count": 2
       },
       {
-        "theme": "Lhbtqia+",
+        "theme": "LGBTQIA+",
         "count": 2
       },
       {
-        "theme": "Discriminatie",
+        "theme": "Discrimination",
         "count": 1
       },
       {
-        "theme": "Diversiteit en inclusie",
+        "theme": "Diversity and inclusion",
         "count": 1
       }
     ]
   },
   {
     "id": 60,
-    "label": "municipal council | municipal council | a year",
+    "label": "the municipal council | municipal council | one year",
     "count": 11,
     "keywords": [
       {
-        "word": "municipal council",
+        "word": "the municipal council",
         "score": 0.0434
       },
       {
@@ -4501,7 +4501,7 @@
         "score": 0.0434
       },
       {
-        "word": "a year",
+        "word": "one year",
         "score": 0.04
       },
       {
@@ -4542,34 +4542,34 @@
     ],
     "topThemes": [
       {
-        "theme": "Gemeenteraad",
+        "theme": "Municipal council",
         "count": 2
       },
       {
-        "theme": "Lobbyregister",
+        "theme": "Lobby register",
         "count": 2
       },
       {
-        "theme": "Raadsvergadering in de wijk",
+        "theme": "Council meeting in the neighborhood",
         "count": 1
       },
       {
-        "theme": "Gesprek tussen inwoners en gemeenteraadsleden",
+        "theme": "Conversation between residents and municipal council members",
         "count": 1
       },
       {
-        "theme": "Burgerparticipatie",
+        "theme": "Citizen participation",
         "count": 1
       }
     ]
   },
   {
     "id": 61,
-    "label": "to state | the children | for residents who",
+    "label": "to propose | the children | for residents who",
     "count": 11,
     "keywords": [
       {
-        "word": "to state",
+        "word": "to propose",
         "score": 0.0612
       },
       {
@@ -4589,7 +4589,7 @@
         "score": 0.0583
       },
       {
-        "word": "cannot do it themselves",
+        "word": "unable to do so themselves",
         "score": 0.0583
       },
       {
@@ -4597,7 +4597,7 @@
         "score": 0.055
       },
       {
-        "word": "who/that",
+        "word": "who do so",
         "score": 0.0529
       },
       {
@@ -4618,38 +4618,38 @@
     ],
     "topThemes": [
       {
-        "theme": "Relatietherapie",
+        "theme": "Couples therapy",
         "count": 6
       },
       {
-        "theme": "Zwangerschapscursus",
+        "theme": "Prenatal course",
         "count": 1
       },
       {
-        "theme": "Vergoeding relatietherapie",
+        "theme": "Reimbursement for couples therapy",
         "count": 1
       },
       {
-        "theme": "Echtscheidingen",
+        "theme": "Divorces",
         "count": 1
       },
       {
-        "theme": "Relaties",
+        "theme": "Relationships",
         "count": 1
       }
     ]
   },
   {
     "id": 62,
-    "label": "funds available | propose | available",
+    "label": "available funds | to propose | available",
     "count": 11,
     "keywords": [
       {
-        "word": "funds available",
+        "word": "available funds",
         "score": 0.0783
       },
       {
-        "word": "propose",
+        "word": "to propose",
         "score": 0.0765
       },
       {
@@ -4657,27 +4657,27 @@
         "score": 0.0733
       },
       {
-        "word": "to state",
+        "word": "to propose",
         "score": 0.0683
       },
       {
-        "word": "must make funds available",
+        "word": "money must be made available",
         "score": 0.064
       },
       {
-        "word": "primary schools",
+        "word": "Primary schools",
         "score": 0.048
       },
       {
-        "word": "municipality must provide money",
+        "word": "municipality must spend money",
         "score": 0.045
       },
       {
-        "word": "give money for",
+        "word": "provide funds for",
         "score": 0.0443
       },
       {
-        "word": "must provide money",
+        "word": "needs money",
         "score": 0.0435
       },
       {
@@ -4694,38 +4694,38 @@
     ],
     "topThemes": [
       {
-        "theme": "Schoolzwemmen",
+        "theme": "School swimming",
         "count": 6
       },
       {
-        "theme": "Spreiding scholen",
+        "theme": "Distribution of schools",
         "count": 1
       },
       {
-        "theme": "Schoolmoestuin",
+        "theme": "School vegetable garden",
         "count": 1
       },
       {
-        "theme": "Sport op school",
+        "theme": "Sports at school",
         "count": 1
       },
       {
-        "theme": "Zwemabonnementen",
+        "theme": "Swimming memberships",
         "count": 1
       }
     ]
   },
   {
     "id": 63,
-    "label": "remain a municipality | remain | must be on",
+    "label": "to remain a municipality | to remain | must be on",
     "count": 10,
     "keywords": [
       {
-        "word": "remain a municipality",
+        "word": "to remain a municipality",
         "score": 0.1377
       },
       {
-        "word": "remain",
+        "word": "to remain",
         "score": 0.0929
       },
       {
@@ -4741,7 +4741,7 @@
         "score": 0.07
       },
       {
-        "word": "location",
+        "word": "Location",
         "score": 0.0549
       },
       {
@@ -4770,54 +4770,54 @@
     ],
     "topThemes": [
       {
-        "theme": "Brandweerkazerne",
+        "theme": "Fire station",
         "count": 1
       },
       {
-        "theme": "Gemeentelijke herindeling",
+        "theme": "Municipal reorganization",
         "count": 1
       },
       {
-        "theme": "Herindeling",
+        "theme": "Reorganization",
         "count": 1
       },
       {
-        "theme": "Duiven zelfstandig",
+        "theme": "Duiven independent",
         "count": 1
       },
       {
-        "theme": "Modelbouwclub",
+        "theme": "Model building club",
         "count": 1
       }
     ]
   },
   {
     "id": 64,
-    "label": "dogs | off-leash | be able to run",
+    "label": "Dogs | Off-leash | able to walk",
     "count": 10,
     "keywords": [
       {
-        "word": "dogs",
+        "word": "Dogs",
         "score": 0.1384
       },
       {
-        "word": "off-leash",
+        "word": "Off-leash",
         "score": 0.09
       },
       {
-        "word": "be able to run",
+        "word": "able to walk",
         "score": 0.09
       },
       {
-        "word": "run",
+        "word": "walk",
         "score": 0.0862
       },
       {
-        "word": "nature reserves",
+        "word": "Nature reserves",
         "score": 0.0521
       },
       {
-        "word": "more places",
+        "word": "More places",
         "score": 0.0496
       },
       {
@@ -4825,7 +4825,7 @@
         "score": 0.0389
       },
       {
-        "word": "more places available",
+        "word": "more places to be created",
         "score": 0.0339
       },
       {
@@ -4846,30 +4846,30 @@
     ],
     "topThemes": [
       {
-        "theme": "Hondenbeleid",
+        "theme": "dog policy",
         "count": 1
       },
       {
-        "theme": "Losloopgebied",
+        "theme": "off‑leash area",
         "count": 1
       },
       {
-        "theme": "Honden",
+        "theme": "dogs",
         "count": 1
       },
       {
-        "theme": "Ulvenhoutse Bos",
+        "theme": "Ulvenhout Forest",
         "count": 1
       },
       {
-        "theme": "Loslopende honden",
+        "theme": "dogs running loose",
         "count": 1
       }
     ]
   },
   {
     "id": 65,
-    "label": "people who need care | to choose / to vote | to opt for",
+    "label": "people who need care | choose | opt for",
     "count": 10,
     "keywords": [
       {
@@ -4877,11 +4877,11 @@
         "score": 0.0918
       },
       {
-        "word": "to choose / to vote",
+        "word": "choose",
         "score": 0.0918
       },
       {
-        "word": "to opt for",
+        "word": "opt for",
         "score": 0.0918
       },
       {
@@ -4893,11 +4893,11 @@
         "score": 0.0833
       },
       {
-        "word": "to need",
+        "word": "need",
         "score": 0.0833
       },
       {
-        "word": "needed",
+        "word": "necessary",
         "score": 0.0745
       },
       {
@@ -4922,23 +4922,23 @@
     ],
     "topThemes": [
       {
-        "theme": "Zorgkeuze",
+        "theme": "choice of care",
         "count": 3
       },
       {
-        "theme": "Kunstmatige intelligentie",
+        "theme": "artificial intelligence",
         "count": 1
       },
       {
-        "theme": "Skaters",
+        "theme": "skaters",
         "count": 1
       },
       {
-        "theme": "Ontmoetingsplekken jeugd",
+        "theme": "meeting places for youth",
         "count": 1
       },
       {
-        "theme": "Hangplekken",
+        "theme": "hangouts",
         "count": 1
       }
     ]
@@ -4973,7 +4973,7 @@
         "score": 0.0656
       },
       {
-        "word": "check for",
+        "word": "to check for",
         "score": 0.0628
       },
       {
@@ -4981,7 +4981,7 @@
         "score": 0.0612
       },
       {
-        "word": "there at the",
+        "word": "with the",
         "score": 0.0611
       },
       {
@@ -5002,19 +5002,19 @@
         "count": 5
       },
       {
-        "theme": "Parkeerschijf",
+        "theme": "parking disc",
         "count": 1
       },
       {
-        "theme": "Boete passeren bussluisen vervangen door waarschuwing",
+        "theme": "replace fines for passing bus gates with a warning",
         "count": 1
       },
       {
-        "theme": "Straatintimidatie",
+        "theme": "street harassment",
         "count": 1
       },
       {
-        "theme": "Snelheidscontrole",
+        "theme": "speed checks",
         "count": 1
       }
     ]
@@ -5045,7 +5045,7 @@
         "score": 0.0439
       },
       {
-        "word": "subsidised",
+        "word": "subsidized",
         "score": 0.0417
       },
       {
@@ -5053,7 +5053,7 @@
         "score": 0.0417
       },
       {
-        "word": "subsidised by",
+        "word": "subsidized by",
         "score": 0.0417
       },
       {
@@ -5074,23 +5074,23 @@
     ],
     "topThemes": [
       {
-        "theme": "Muziekles",
+        "theme": "music lessons",
         "count": 3
       },
       {
-        "theme": "Talentontwikkeling",
+        "theme": "talent development",
         "count": 1
       },
       {
-        "theme": "Jeugdzorg",
+        "theme": "youth care",
         "count": 1
       },
       {
-        "theme": "Voorschoolse educatie",
+        "theme": "preschool education",
         "count": 1
       },
       {
-        "theme": "Sport en muziek voor kinderen",
+        "theme": "sports and music for children",
         "count": 1
       }
     ]
@@ -5125,7 +5125,7 @@
         "score": 0.0618
       },
       {
-        "word": "to pay for",
+        "word": "pay for",
         "score": 0.0579
       },
       {
@@ -5150,22 +5150,22 @@
     ],
     "topThemes": [
       {
-        "theme": "Contributie sport",
+        "theme": "sports membership fee",
         "count": 7
       },
       {
-        "theme": "Volwassenenfonds",
+        "theme": "adults' fund",
         "count": 1
       },
       {
-        "theme": "Nieuwkomers gratis lidmaatschap",
+        "theme": "free membership for newcomers",
         "count": 1
       }
     ]
   },
   {
     "id": 69,
-    "label": "to pay | for people with | people with",
+    "label": "to pay | for people with | People with",
     "count": 9,
     "keywords": [
       {
@@ -5177,7 +5177,7 @@
         "score": 0.0725
       },
       {
-        "word": "people with",
+        "word": "People with",
         "score": 0.0665
       },
       {
@@ -5185,11 +5185,11 @@
         "score": 0.0659
       },
       {
-        "word": "people with little",
+        "word": "people with little means",
         "score": 0.0598
       },
       {
-        "word": "to pay for people",
+        "word": "pay for people",
         "score": 0.0579
       },
       {
@@ -5205,7 +5205,7 @@
         "score": 0.0514
       },
       {
-        "word": "people",
+        "word": "People",
         "score": 0.0491
       }
     ],
@@ -5218,34 +5218,34 @@
     ],
     "topThemes": [
       {
-        "theme": "Dierenartskosten",
+        "theme": "veterinary costs",
         "count": 2
       },
       {
-        "theme": "Zorgkosten",
+        "theme": "care costs",
         "count": 1
       },
       {
-        "theme": "Eigen bijdrage",
+        "theme": "own contribution",
         "count": 1
       },
       {
-        "theme": "Dierenzorg",
+        "theme": "animal care",
         "count": 1
       },
       {
-        "theme": "Zorgverzekering",
+        "theme": "health insurance",
         "count": 1
       }
     ]
   },
   {
     "id": 70,
-    "label": "with the province | wolf | province",
+    "label": "at the provincial level | wolf | province",
     "count": 9,
     "keywords": [
       {
-        "word": "with the province",
+        "word": "at the provincial level",
         "score": 0.0895
       },
       {
@@ -5281,7 +5281,7 @@
         "score": 0.0758
       },
       {
-        "word": "there at the",
+        "word": "with the",
         "score": 0.0685
       }
     ],
@@ -5294,19 +5294,19 @@
     ],
     "topThemes": [
       {
-        "theme": "Wolven",
+        "theme": "wolves",
         "count": 3
       },
       {
-        "theme": "Wolf",
+        "theme": "wolf",
         "count": 3
       },
       {
-        "theme": "Jacht",
+        "theme": "hunting",
         "count": 2
       },
       {
-        "theme": "Uitkoop boeren",
+        "theme": "buying out farmers",
         "count": 1
       }
     ]
@@ -5333,7 +5333,7 @@
         "score": 0.0459
       },
       {
-        "word": "to write off",
+        "word": "write-off of",
         "score": 0.0417
       },
       {
@@ -5366,23 +5366,23 @@
     ],
     "topThemes": [
       {
-        "theme": "Schuldhulpverlening",
+        "theme": "debt counseling",
         "count": 3
       },
       {
-        "theme": "Gemeentelijke schulden",
+        "theme": "municipal debts",
         "count": 1
       },
       {
-        "theme": "Jongeren met schulden",
+        "theme": "young people with debts",
         "count": 1
       },
       {
-        "theme": "Schulden",
+        "theme": "debts",
         "count": 1
       },
       {
-        "theme": "Schulden opkopen",
+        "theme": "buying up debts",
         "count": 1
       }
     ]
@@ -5409,7 +5409,7 @@
         "score": 0.0574
       },
       {
-        "word": "to advocate for",
+        "word": "to advocate for / to work for",
         "score": 0.0552
       },
       {
@@ -5421,11 +5421,11 @@
         "score": 0.0499
       },
       {
-        "word": "again",
+        "word": "there again",
         "score": 0.0499
       },
       {
-        "word": "municipality must",
+        "word": "the municipality must",
         "score": 0.0437
       },
       {
@@ -5442,11 +5442,11 @@
     ],
     "topThemes": [
       {
-        "theme": "Treinstation Wildervank",
+        "theme": "Wildervank train station",
         "count": 1
       },
       {
-        "theme": "Nachttrein",
+        "theme": "night train",
         "count": 1
       },
       {
@@ -5454,26 +5454,26 @@
         "count": 1
       },
       {
-        "theme": "Tram of monorail",
+        "theme": "tram or monorail",
         "count": 1
       },
       {
-        "theme": "Treinstation Maaspoort",
+        "theme": "Maaspoort train station",
         "count": 1
       }
     ]
   },
   {
     "id": 73,
-    "label": "a welfare benefit | welfare benefit | that a",
+    "label": "a social assistance benefit | social assistance benefit | that a",
     "count": 9,
     "keywords": [
       {
-        "word": "a welfare benefit",
+        "word": "a social assistance benefit",
         "score": 0.1677
       },
       {
-        "word": "welfare benefit",
+        "word": "social assistance benefit",
         "score": 0.1542
       },
       {
@@ -5481,11 +5481,11 @@
         "score": 0.1258
       },
       {
-        "word": "a welfare benefit that",
+        "word": "a social assistance benefit that",
         "score": 0.1087
       },
       {
-        "word": "welfare benefit that",
+        "word": "social assistance benefit that",
         "score": 0.1087
       },
       {
@@ -5493,15 +5493,15 @@
         "score": 0.1048
       },
       {
-        "word": "do / carry out",
+        "word": "to do",
         "score": 0.103
       },
       {
-        "word": "receiving a welfare benefit",
+        "word": "receiving social assistance",
         "score": 0.0899
       },
       {
-        "word": "people",
+        "word": "People",
         "score": 0.086
       },
       {
@@ -5518,22 +5518,22 @@
     ],
     "topThemes": [
       {
-        "theme": "Tegenprestatie voor uitkering",
+        "theme": "work in return for benefits",
         "count": 5
       },
       {
-        "theme": "Mantelzorg",
+        "theme": "informal caregiving",
         "count": 3
       },
       {
-        "theme": "Vrijstelling sollicitatieplicht",
+        "theme": "exemption from job application requirement",
         "count": 1
       }
     ]
   },
   {
     "id": 74,
-    "label": "owners | empty | owners of",
+    "label": "owners | vacant | owners of",
     "count": 9,
     "keywords": [
       {
@@ -5541,7 +5541,7 @@
         "score": 0.1324
       },
       {
-        "word": "empty",
+        "word": "vacant",
         "score": 0.0948
       },
       {
@@ -5549,7 +5549,7 @@
         "score": 0.0885
       },
       {
-        "word": "to stand",
+        "word": "are",
         "score": 0.0819
       },
       {
@@ -5573,7 +5573,7 @@
         "score": 0.0629
       },
       {
-        "word": "to let",
+        "word": "to allow",
         "score": 0.0616
       }
     ],
@@ -5586,34 +5586,34 @@
     ],
     "topThemes": [
       {
-        "theme": "Leegstandsbelasting",
+        "theme": "vacancy tax",
         "count": 2
       },
       {
-        "theme": "Leegstand",
+        "theme": "vacancy",
         "count": 2
       },
       {
-        "theme": "Leegstandsheffing",
+        "theme": "vacancy levy",
         "count": 1
       },
       {
-        "theme": "Huisvesting",
+        "theme": "housing",
         "count": 1
       },
       {
-        "theme": "Leegstand winkels",
+        "theme": "shop vacancies",
         "count": 1
       }
     ]
   },
   {
     "id": 75,
-    "label": "invest more money | maintenance of | maintenance",
+    "label": "to put more money into | maintenance of | maintenance",
     "count": 8,
     "keywords": [
       {
-        "word": "invest more money",
+        "word": "to put more money into",
         "score": 0.0746
       },
       {
@@ -5625,7 +5625,7 @@
         "score": 0.0724
       },
       {
-        "word": "must allocate more money",
+        "word": "must have more money",
         "score": 0.0721
       },
       {
@@ -5633,7 +5633,7 @@
         "score": 0.0685
       },
       {
-        "word": "invest in the",
+        "word": "to invest in the",
         "score": 0.0589
       },
       {
@@ -5662,23 +5662,23 @@
     ],
     "topThemes": [
       {
-        "theme": "Wateroverlast Eerbeek",
+        "theme": "flooding in Eerbeek",
         "count": 1
       },
       {
-        "theme": "Onderhoud",
+        "theme": "maintenance",
         "count": 1
       },
       {
-        "theme": "Openbaar groen",
+        "theme": "public green spaces",
         "count": 1
       },
       {
-        "theme": "Geluidsschermen A10",
+        "theme": "A10 noise barriers",
         "count": 1
       },
       {
-        "theme": "Wateroverlast voorkomen",
+        "theme": "prevent flooding",
         "count": 1
       }
     ]
@@ -5738,30 +5738,30 @@
     ],
     "topThemes": [
       {
-        "theme": "Meer natuur",
+        "theme": "More nature",
         "count": 1
       },
       {
-        "theme": "Groene wijken",
+        "theme": "Green neighborhoods",
         "count": 1
       },
       {
-        "theme": "Groen in de wijk",
+        "theme": "Green in the neighborhood",
         "count": 1
       },
       {
-        "theme": "Sportpark Haasbroek",
+        "theme": "Haasbroek sports park",
         "count": 1
       },
       {
-        "theme": "Natuurinclusief bouwen",
+        "theme": "Nature-inclusive building",
         "count": 1
       }
     ]
   },
   {
     "id": 77,
-    "label": "fatbikes | on fatbikes | bicycles",
+    "label": "fatbikes | on fatbikes | cycling",
     "count": 8,
     "keywords": [
       {
@@ -5773,11 +5773,11 @@
         "score": 0.0785
       },
       {
-        "word": "bicycles",
+        "word": "cycling",
         "score": 0.0687
       },
       {
-        "word": "ban",
+        "word": "to ban",
         "score": 0.0622
       },
       {
@@ -5797,7 +5797,7 @@
         "score": 0.0421
       },
       {
-        "word": "to be prohibited for",
+        "word": "be banned for",
         "score": 0.0421
       },
       {
@@ -5818,19 +5818,19 @@
         "count": 3
       },
       {
-        "theme": "Fietsverbod",
+        "theme": "Bicycle ban",
         "count": 2
       },
       {
-        "theme": "Fietspaden",
+        "theme": "Bicycle paths",
         "count": 1
       },
       {
-        "theme": "Fietsverbod centrum",
+        "theme": "Bicycle ban in the city center",
         "count": 1
       },
       {
-        "theme": "Voetgangersgebied",
+        "theme": "Pedestrian area",
         "count": 1
       }
     ]
@@ -5853,7 +5853,7 @@
         "score": 0.0886
       },
       {
-        "word": "the municipality must do it themselves",
+        "word": "municipality must do it themselves",
         "score": 0.0847
       },
       {
@@ -5873,7 +5873,7 @@
         "score": 0.0334
       },
       {
-        "word": "homes or",
+        "word": "dwellings or",
         "score": 0.0334
       },
       {
@@ -5890,30 +5890,30 @@
     ],
     "topThemes": [
       {
-        "theme": "Grondaankoop",
+        "theme": "land purchase",
         "count": 1
       },
       {
-        "theme": "Gebouwen kopen",
+        "theme": "Buying buildings",
         "count": 1
       },
       {
-        "theme": "Grondbeleid",
+        "theme": "land policy",
         "count": 1
       },
       {
-        "theme": "Groei Veenendaal",
+        "theme": "Veenendaal growth",
         "count": 1
       },
       {
-        "theme": "Landbouwgrond",
+        "theme": "agricultural land",
         "count": 1
       }
     ]
   },
   {
     "id": 79,
-    "label": "vacant | the municipality's homes | the homes",
+    "label": "vacant | municipal housing | houses the",
     "count": 8,
     "keywords": [
       {
@@ -5921,11 +5921,11 @@
         "score": 0.0989
       },
       {
-        "word": "the municipality's homes",
+        "word": "municipal housing",
         "score": 0.0958
       },
       {
-        "word": "the homes",
+        "word": "houses the",
         "score": 0.0958
       },
       {
@@ -5941,7 +5941,7 @@
         "score": 0.0565
       },
       {
-        "word": "must with",
+        "word": "must include",
         "score": 0.0565
       },
       {
@@ -5949,11 +5949,11 @@
         "score": 0.0565
       },
       {
-        "word": "subsidised by",
+        "word": "subsidized by",
         "score": 0.0536
       },
       {
-        "word": "subsidised",
+        "word": "subsidized",
         "score": 0.0536
       }
     ],
@@ -5966,23 +5966,23 @@
     ],
     "topThemes": [
       {
-        "theme": "Bedrijven worden woningen",
+        "theme": "Businesses turned into housing",
         "count": 2
       },
       {
-        "theme": "Kantoren worden woningen",
+        "theme": "Offices turned into housing",
         "count": 1
       },
       {
-        "theme": "Lege winkelpanden",
+        "theme": "Empty retail units",
         "count": 1
       },
       {
-        "theme": "Lokale ondernemers",
+        "theme": "Local entrepreneurs",
         "count": 1
       },
       {
-        "theme": "Muskuseenden",
+        "theme": "Muscovy ducks",
         "count": 1
       }
     ]
@@ -6013,7 +6013,7 @@
         "score": 0.0658
       },
       {
-        "word": "Schiphol",
+        "word": "Schiphol Airport",
         "score": 0.0633
       },
       {
@@ -6042,23 +6042,23 @@
     ],
     "topThemes": [
       {
-        "theme": "Vakantievluchten",
+        "theme": "holiday flights",
         "count": 1
       },
       {
-        "theme": "Oefeningen defensie",
+        "theme": "defense exercises",
         "count": 1
       },
       {
-        "theme": "Militaire oefeningen",
+        "theme": "military exercises",
         "count": 1
       },
       {
-        "theme": "Defensieplannen",
+        "theme": "defense plans",
         "count": 1
       },
       {
-        "theme": "Minder start- en landingsbewegingen",
+        "theme": "fewer take-off and landing movements",
         "count": 1
       }
     ]
@@ -6081,7 +6081,7 @@
         "score": 0.0568
       },
       {
-        "word": "the municipality's space",
+        "word": "municipal space",
         "score": 0.0568
       },
       {
@@ -6105,7 +6105,7 @@
         "score": 0.0435
       },
       {
-        "word": "invest more money",
+        "word": "to put more money into",
         "score": 0.0434
       }
     ],
@@ -6118,30 +6118,30 @@
     ],
     "topThemes": [
       {
-        "theme": "Evenementen",
+        "theme": "Events",
         "count": 2
       },
       {
-        "theme": "Lokale cultuur",
+        "theme": "local culture",
         "count": 1
       },
       {
-        "theme": "Kunst in Rensenpark",
+        "theme": "art in Rensenpark",
         "count": 1
       },
       {
-        "theme": "Kunstenaarswerkplekken",
+        "theme": "artists' workspaces",
         "count": 1
       },
       {
-        "theme": "Kunst bij rotondes",
+        "theme": "art at roundabouts",
         "count": 1
       }
     ]
   },
   {
     "id": 82,
-    "label": "farmers | provide funds | the municipality must support farmers",
+    "label": "farmers | give money | the municipality must farm",
     "count": 8,
     "keywords": [
       {
@@ -6149,19 +6149,19 @@
         "score": 0.098
       },
       {
-        "word": "provide funds",
+        "word": "give money",
         "score": 0.0498
       },
       {
-        "word": "the municipality must support farmers",
+        "word": "the municipality must farm",
         "score": 0.0482
       },
       {
-        "word": "must support farmers",
+        "word": "must farm",
         "score": 0.0482
       },
       {
-        "word": "provide funding to",
+        "word": "give money to",
         "score": 0.0467
       },
       {
@@ -6169,7 +6169,7 @@
         "score": 0.0442
       },
       {
-        "word": "give to",
+        "word": "care about",
         "score": 0.0422
       },
       {
@@ -6194,23 +6194,23 @@
     ],
     "topThemes": [
       {
-        "theme": "Biologische landbouw",
+        "theme": "organic farming",
         "count": 2
       },
       {
-        "theme": "Middelbare school Nieuwe Veste",
+        "theme": "secondary school Nieuwe Veste",
         "count": 1
       },
       {
-        "theme": "Open-erfdagen",
+        "theme": "Open Farm Days",
         "count": 1
       },
       {
-        "theme": "Natuur in de polder",
+        "theme": "nature in the polder",
         "count": 1
       },
       {
-        "theme": "Natuurbeheer",
+        "theme": "nature management",
         "count": 1
       }
     ]
@@ -6257,7 +6257,7 @@
         "score": 0.1528
       },
       {
-        "word": "instead of",
+        "word": "in place",
         "score": 0.1475
       }
     ],
@@ -6270,14 +6270,14 @@
     ],
     "topThemes": [
       {
-        "theme": "Bibliotheek",
+        "theme": "Library",
         "count": 7
       }
     ]
   },
   {
     "id": 84,
-    "label": "event site | be located next to | remain the",
+    "label": "event site | come next to | remain the",
     "count": 7,
     "keywords": [
       {
@@ -6285,7 +6285,7 @@
         "score": 0.1933
       },
       {
-        "word": "be located next to",
+        "word": "come next to",
         "score": 0.0571
       },
       {
@@ -6297,11 +6297,11 @@
         "score": 0.0571
       },
       {
-        "word": "in a park",
+        "word": "in the park",
         "score": 0.0571
       },
       {
-        "word": "events to be held",
+        "word": "events come",
         "score": 0.0571
       },
       {
@@ -6313,7 +6313,7 @@
         "score": 0.0571
       },
       {
-        "word": "more major events",
+        "word": "more large events",
         "score": 0.0571
       },
       {
@@ -6330,34 +6330,34 @@
     ],
     "topThemes": [
       {
-        "theme": "Evenemententerrein IJhorst",
+        "theme": "IJhorst event site",
         "count": 1
       },
       {
-        "theme": "Zwitsalterrein",
+        "theme": "Zwitsal site",
         "count": 1
       },
       {
-        "theme": "Evenemententerrein ",
+        "theme": "event site",
         "count": 1
       },
       {
-        "theme": "Grote evenementen",
+        "theme": "large events",
         "count": 1
       },
       {
-        "theme": "Evenemententerrein",
+        "theme": "event site",
         "count": 1
       }
     ]
   },
   {
     "id": 85,
-    "label": "residential occupancy | permanent | must allow",
+    "label": "residential use | permanent | must allow",
     "count": 7,
     "keywords": [
       {
-        "word": "residential occupancy",
+        "word": "residential use",
         "score": 0.1166
       },
       {
@@ -6385,15 +6385,15 @@
         "score": 0.0963
       },
       {
-        "word": "residence of",
+        "word": "residential use of",
         "score": 0.082
       },
       {
-        "word": "to allow the municipality",
+        "word": "allow the municipality",
         "score": 0.0783
       },
       {
-        "word": "to allow the",
+        "word": "allow the",
         "score": 0.0757
       }
     ],
@@ -6406,23 +6406,23 @@
     ],
     "topThemes": [
       {
-        "theme": "Vakantiehuisjes",
+        "theme": "holiday cottages",
         "count": 2
       },
       {
-        "theme": "Verkamering",
+        "theme": "conversion into rooms",
         "count": 1
       },
       {
-        "theme": "Vakantiewoningen",
+        "theme": "holiday homes",
         "count": 1
       },
       {
-        "theme": "Huizen splitsen",
+        "theme": "splitting up houses",
         "count": 1
       },
       {
-        "theme": "Permanente bewoning",
+        "theme": "permanent residence",
         "count": 1
       }
     ]
@@ -6457,7 +6457,7 @@
         "score": 0.0727
       },
       {
-        "word": "to write off",
+        "word": "write-off of",
         "score": 0.0718
       },
       {
@@ -6482,26 +6482,26 @@
     ],
     "topThemes": [
       {
-        "theme": "Kwijtschelding stoppen",
+        "theme": "stop debt forgiveness",
         "count": 4
       },
       {
-        "theme": "Sportvelden",
+        "theme": "sports fields",
         "count": 1
       },
       {
-        "theme": "Dubbelgebruik sportaccommodaties",
+        "theme": "dual use of sports facilities",
         "count": 1
       },
       {
-        "theme": "Gemeentelijk sportbedrijf",
+        "theme": "municipal sports company",
         "count": 1
       }
     ]
   },
   {
     "id": 87,
-    "label": "buy | that are for | first a",
+    "label": "buy | that for | first a",
     "count": 7,
     "keywords": [
       {
@@ -6509,7 +6509,7 @@
         "score": 0.1194
       },
       {
-        "word": "that are for",
+        "word": "that for",
         "score": 0.1185
       },
       {
@@ -6554,22 +6554,22 @@
     ],
     "topThemes": [
       {
-        "theme": "Starterslening",
+        "theme": "starter loan",
         "count": 5
       },
       {
-        "theme": "Spreiding sociale huur",
+        "theme": "distribution of social housing",
         "count": 1
       },
       {
-        "theme": "Starters",
+        "theme": "first-time buyers",
         "count": 1
       }
     ]
   },
   {
     "id": 88,
-    "label": "speed bumps | measures | to build",
+    "label": "speed bumps | measures | to construct",
     "count": 7,
     "keywords": [
       {
@@ -6581,7 +6581,7 @@
         "score": 0.0751
       },
       {
-        "word": "to build",
+        "word": "to construct",
         "score": 0.0492
       },
       {
@@ -6589,7 +6589,7 @@
         "score": 0.046
       },
       {
-        "word": "the Town Hall Street",
+        "word": "the Raadhuisstraat",
         "score": 0.046
       },
       {
@@ -6601,11 +6601,11 @@
         "score": 0.046
       },
       {
-        "word": "the village street in",
+        "word": "into the village street",
         "score": 0.046
       },
       {
-        "word": "Steenbergen must have more",
+        "word": "Steenbergen must do more",
         "score": 0.046
       },
       {
@@ -6622,70 +6622,70 @@
     ],
     "topThemes": [
       {
-        "theme": "Drempels",
+        "theme": "Speed bumps",
         "count": 2
       },
       {
-        "theme": "Dorpsstraat Borkel en Schaft",
+        "theme": "Village Street (Borkel en Schaft)",
         "count": 1
       },
       {
-        "theme": "Sluipverkeer",
+        "theme": "Cut-through traffic",
         "count": 1
       },
       {
-        "theme": "Snelheid Raadhuisstraat",
+        "theme": "Speed on Raadhuisstraat",
         "count": 1
       },
       {
-        "theme": "Verkeersdrempels",
+        "theme": "Speed bumps",
         "count": 1
       }
     ]
   },
   {
     "id": 89,
-    "label": "sports parks in | sports parks | sports",
+    "label": "Sports parks in | Sports parks | Sports",
     "count": 7,
     "keywords": [
       {
-        "word": "sports parks in",
+        "word": "Sports parks in",
         "score": 0.0669
       },
       {
-        "word": "sports parks",
+        "word": "Sports parks",
         "score": 0.0669
       },
       {
-        "word": "sports",
+        "word": "Sports",
         "score": 0.0617
       },
       {
-        "word": "redevelopment of",
+        "word": "Redevelopment of",
         "score": 0.0378
       },
       {
-        "word": "as much as possible",
+        "word": "As much as possible",
         "score": 0.0378
       },
       {
-        "word": "be brought",
+        "word": "Be brought",
         "score": 0.0378
       },
       {
-        "word": "football fields",
+        "word": "Football fields",
         "score": 0.0378
       },
       {
-        "word": "together",
+        "word": "Together",
         "score": 0.0378
       },
       {
-        "word": "during the redevelopment",
+        "word": "During the redevelopment",
         "score": 0.0378
       },
       {
-        "word": "other facilities",
+        "word": "Other facilities",
         "score": 0.0378
       }
     ],
@@ -6698,50 +6698,50 @@
     ],
     "topThemes": [
       {
-        "theme": "Sportcomplex",
+        "theme": "Sports complex",
         "count": 1
       },
       {
-        "theme": "Sportvoorzieningen",
+        "theme": "Sports facilities",
         "count": 1
       },
       {
-        "theme": "Sportvoorzieningen Geerenweg",
+        "theme": "Sports facilities (Geerenweg)",
         "count": 1
       },
       {
-        "theme": "Herinrichting Sportpark Markgouw",
+        "theme": "Redevelopment of Sportpark Markgouw",
         "count": 1
       },
       {
-        "theme": "Sportparken",
+        "theme": "Sports parks",
         "count": 1
       }
     ]
   },
   {
     "id": 90,
-    "label": "road verges | grass | less often",
+    "label": "Road verges | Grass | Less often",
     "count": 6,
     "keywords": [
       {
-        "word": "road verges",
+        "word": "Road verges",
         "score": 0.1748
       },
       {
-        "word": "grass",
+        "word": "Grass",
         "score": 0.1311
       },
       {
-        "word": "less often",
+        "word": "Less often",
         "score": 0.0963
       },
       {
-        "word": "verges and",
+        "word": "Verges and",
         "score": 0.0963
       },
       {
-        "word": "often",
+        "word": "Often",
         "score": 0.0913
       },
       {
@@ -6753,15 +6753,15 @@
         "score": 0.0879
       },
       {
-        "word": "improve the municipality",
+        "word": "Improve the municipality",
         "score": 0.0516
       },
       {
-        "word": "the municipality of Beuningen must",
+        "word": "Municipality of Beuningen must",
         "score": 0.0516
       },
       {
-        "word": "be replaced",
+        "word": "Be replaced",
         "score": 0.0516
       }
     ],
@@ -6774,62 +6774,62 @@
     ],
     "topThemes": [
       {
-        "theme": "Gras",
+        "theme": "Grass",
         "count": 3
       },
       {
-        "theme": "Minder maaien",
+        "theme": "Less mowing",
         "count": 2
       },
       {
-        "theme": "Gras maaien",
+        "theme": "Mowing grass",
         "count": 1
       }
     ]
   },
   {
     "id": 91,
-    "label": "water | must ensure | municipality must ensure",
+    "label": "Water | Must (for that) | Municipality must (for that)",
     "count": 6,
     "keywords": [
       {
-        "word": "water",
+        "word": "Water",
         "score": 0.064
       },
       {
-        "word": "must ensure",
+        "word": "Must (for that)",
         "score": 0.0486
       },
       {
-        "word": "municipality must ensure",
+        "word": "Municipality must (for that)",
         "score": 0.0486
       },
       {
-        "word": "must ensure",
+        "word": "Must ensure",
         "score": 0.0486
       },
       {
-        "word": "ensure that",
+        "word": "To ensure that",
         "score": 0.0479
       },
       {
-        "word": "ensure",
+        "word": "Ensure",
         "score": 0.0479
       },
       {
-        "word": "and the",
+        "word": "And the",
         "score": 0.046
       },
       {
-        "word": "for that",
+        "word": "For that",
         "score": 0.0444
       },
       {
-        "word": "ensure that",
+        "word": "Ensure that",
         "score": 0.0412
       },
       {
-        "word": "again",
+        "word": "Again",
         "score": 0.0405
       }
     ],
@@ -6846,38 +6846,38 @@
         "count": 1
       },
       {
-        "theme": "IJsselbrug",
+        "theme": "IJssel Bridge",
         "count": 1
       },
       {
-        "theme": "Varen",
+        "theme": "Sailing",
         "count": 1
       },
       {
-        "theme": "Gedempte grachten",
+        "theme": "Filled-in canals",
         "count": 1
       },
       {
-        "theme": "Gevangenpoort",
+        "theme": "Gevangenpoort (Prison Gate)",
         "count": 1
       }
     ]
   },
   {
     "id": 92,
-    "label": "grow | residents of the municipality | residents of the",
+    "label": "Grow | Residents of the municipality | the residents",
     "count": 5,
     "keywords": [
       {
-        "word": "grow",
+        "word": "Grow",
         "score": 0.1015
       },
       {
-        "word": "residents of the municipality",
+        "word": "Residents of the municipality",
         "score": 0.0979
       },
       {
-        "word": "residents of the",
+        "word": "the residents",
         "score": 0.0979
       },
       {
@@ -6885,11 +6885,11 @@
         "score": 0.06
       },
       {
-        "word": "more housing",
+        "word": "more homes",
         "score": 0.06
       },
       {
-        "word": "municipality must commit",
+        "word": "the municipality must commit",
         "score": 0.06
       },
       {
@@ -6918,23 +6918,23 @@
     ],
     "topThemes": [
       {
-        "theme": "Aantal inwoners",
+        "theme": "number of residents",
         "count": 1
       },
       {
-        "theme": "Landbouwgrond",
+        "theme": "agricultural land",
         "count": 1
       },
       {
-        "theme": "Groei aantal inwoners",
+        "theme": "increase in number of residents",
         "count": 1
       },
       {
-        "theme": "Uitbreiding stad",
+        "theme": "city expansion",
         "count": 1
       },
       {
-        "theme": "Gemeente moet groeien",
+        "theme": "the municipality must grow",
         "count": 1
       }
     ]
@@ -6957,15 +6957,15 @@
         "score": 0.0495
       },
       {
-        "word": "be replaced",
+        "word": "to be replaced",
         "score": 0.0495
       },
       {
-        "word": "be replaced by",
+        "word": "to be replaced by",
         "score": 0.0495
       },
       {
-        "word": "be carried out by",
+        "word": "to be carried out by",
         "score": 0.0495
       },
       {
@@ -6973,7 +6973,7 @@
         "score": 0.0495
       },
       {
-        "word": "implement",
+        "word": "to carry out",
         "score": 0.0495
       },
       {
@@ -6994,23 +6994,23 @@
     ],
     "topThemes": [
       {
-        "theme": "Repaircafé",
+        "theme": "Repair café",
         "count": 1
       },
       {
-        "theme": "Eenzaamheid",
+        "theme": "loneliness",
         "count": 1
       },
       {
-        "theme": "Mantelzorg steunen",
+        "theme": "support informal caregivers",
         "count": 1
       },
       {
-        "theme": "Professionele ondersteuning",
+        "theme": "professional support",
         "count": 1
       },
       {
-        "theme": "Erfgoed",
+        "theme": "heritage",
         "count": 1
       }
     ]
@@ -7037,7 +7037,7 @@
         "score": 0.0804
       },
       {
-        "word": "the municipality should reduce",
+        "word": "to reduce the municipality",
         "score": 0.0606
       },
       {
@@ -7057,7 +7057,7 @@
         "score": 0.0606
       },
       {
-        "word": "make with",
+        "word": "to deal with",
         "score": 0.0606
       }
     ],
@@ -7070,22 +7070,22 @@
     ],
     "topThemes": [
       {
-        "theme": "Alcoholgebruik",
+        "theme": "alcohol consumption",
         "count": 3
       },
       {
-        "theme": "Alcoholconvenant",
+        "theme": "alcohol agreement",
         "count": 1
       },
       {
-        "theme": "Handhaving alcoholregels",
+        "theme": "enforcement of alcohol regulations",
         "count": 1
       }
     ]
   },
   {
     "id": 95,
-    "label": "work | welfare benefit | the welfare benefit",
+    "label": "work | social assistance benefit | the social assistance benefit",
     "count": 5,
     "keywords": [
       {
@@ -7093,19 +7093,19 @@
         "score": 0.1375
       },
       {
-        "word": "welfare benefit",
+        "word": "social assistance benefit",
         "score": 0.1012
       },
       {
-        "word": "the welfare benefit",
+        "word": "the social assistance benefit",
         "score": 0.0785
       },
       {
-        "word": "cut",
+        "word": "to cut",
         "score": 0.0744
       },
       {
-        "word": "cut back on",
+        "word": "to cut back on",
         "score": 0.0744
       },
       {
@@ -7117,7 +7117,7 @@
         "score": 0.0647
       },
       {
-        "word": "people",
+        "word": "People",
         "score": 0.0564
       },
       {
@@ -7125,7 +7125,7 @@
         "score": 0.0542
       },
       {
-        "word": "if",
+        "word": "as",
         "score": 0.0492
       }
     ],
@@ -7138,30 +7138,30 @@
     ],
     "topThemes": [
       {
-        "theme": "Bijstand",
+        "theme": "social assistance",
         "count": 1
       },
       {
-        "theme": "Sollicitatieplicht",
+        "theme": "job application requirement",
         "count": 1
       },
       {
-        "theme": "Onafhankelijkheid",
+        "theme": "independence",
         "count": 1
       },
       {
-        "theme": "Bijstand en werk",
+        "theme": "social assistance and work",
         "count": 1
       },
       {
-        "theme": "Bijstandsuitkering",
+        "theme": "welfare benefit",
         "count": 1
       }
     ]
   },
   {
     "id": 96,
-    "label": "rules | national | national regulations",
+    "label": "rules | national | national rules",
     "count": 5,
     "keywords": [
       {
@@ -7173,7 +7173,7 @@
         "score": 0.127
       },
       {
-        "word": "national regulations",
+        "word": "national rules",
         "score": 0.1054
       },
       {
@@ -7185,11 +7185,11 @@
         "score": 0.0923
       },
       {
-        "word": "the municipality must support entrepreneurs",
+        "word": "municipality must entrepreneurs",
         "score": 0.0923
       },
       {
-        "word": "than the",
+        "word": "then the",
         "score": 0.0923
       },
       {
@@ -7197,7 +7197,7 @@
         "score": 0.0894
       },
       {
-        "word": "must support entrepreneurs",
+        "word": "must entrepreneurs",
         "score": 0.0894
       },
       {
@@ -7214,42 +7214,42 @@
     ],
     "topThemes": [
       {
-        "theme": "Aanpak overlast opvanglocaties",
+        "theme": "approach to nuisance at shelter locations",
         "count": 1
       },
       {
-        "theme": "Ondernemers",
+        "theme": "entrepreneurs",
         "count": 1
       },
       {
-        "theme": "Duurzaamheidsregels",
+        "theme": "sustainability rules",
         "count": 1
       },
       {
-        "theme": "Sportvissen",
+        "theme": "sport fishing",
         "count": 1
       },
       {
-        "theme": "Regels mkb",
+        "theme": "SME rules",
         "count": 1
       }
     ]
   },
   {
     "id": 97,
-    "label": "stricter enforcement of | must enforce more strictly | check more strictly",
+    "label": "to check more strictly for | must check more strictly | to check more strictly",
     "count": 5,
     "keywords": [
       {
-        "word": "stricter enforcement of",
+        "word": "to check more strictly for",
         "score": 0.0932
       },
       {
-        "word": "must enforce more strictly",
+        "word": "must check more strictly",
         "score": 0.0877
       },
       {
-        "word": "check more strictly",
+        "word": "to check more strictly",
         "score": 0.0877
       },
       {
@@ -7290,7 +7290,7 @@
     ],
     "topThemes": [
       {
-        "theme": "Loodgehalte",
+        "theme": "lead content",
         "count": 1
       },
       {
@@ -7298,7 +7298,7 @@
         "count": 1
       },
       {
-        "theme": "Vervuiling bedrijven",
+        "theme": "pollution by companies",
         "count": 1
       },
       {
@@ -7306,14 +7306,14 @@
         "count": 1
       },
       {
-        "theme": "Watervervuiling",
+        "theme": "water pollution",
         "count": 1
       }
     ]
   },
   {
     "id": 98,
-    "label": "organize | the municipality organises | organise the",
+    "label": "organize | organize the municipality | organize the",
     "count": 5,
     "keywords": [
       {
@@ -7321,11 +7321,11 @@
         "score": 0.2093
       },
       {
-        "word": "the municipality organises",
+        "word": "organize the municipality",
         "score": 0.1933
       },
       {
-        "word": "organise the",
+        "word": "organize the",
         "score": 0.1933
       },
       {
@@ -7337,7 +7337,7 @@
         "score": 0.0951
       },
       {
-        "word": "social",
+        "word": "societal",
         "score": 0.0761
       },
       {
@@ -7349,7 +7349,7 @@
         "score": 0.0761
       },
       {
-        "word": "municipality must each",
+        "word": "municipality must every",
         "score": 0.071
       },
       {
@@ -7366,19 +7366,19 @@
     ],
     "topThemes": [
       {
-        "theme": "Vuurwerk",
+        "theme": "fireworks",
         "count": 2
       },
       {
-        "theme": "Slavernijverleden",
+        "theme": "history of slavery",
         "count": 1
       },
       {
-        "theme": "Rampen oefenen",
+        "theme": "disaster exercises",
         "count": 1
       },
       {
-        "theme": "Vuurwerkshow",
+        "theme": "fireworks show",
         "count": 1
       }
     ]
@@ -7413,7 +7413,7 @@
         "score": 0.0944
       },
       {
-        "word": "receive for",
+        "word": "get for",
         "score": 0.0814
       },
       {
@@ -7425,7 +7425,7 @@
         "score": 0.0758
       },
       {
-        "word": "municipality must a",
+        "word": "municipality must have a",
         "score": 0.0712
       }
     ],
@@ -7438,30 +7438,30 @@
     ],
     "topThemes": [
       {
-        "theme": "Ombudsman",
+        "theme": "ombudsman",
         "count": 2
       },
       {
-        "theme": "Jeugdombudsman",
+        "theme": "youth ombudsman",
         "count": 1
       },
       {
-        "theme": "Jeugdzorg",
+        "theme": "youth care",
         "count": 1
       },
       {
-        "theme": "Ouderenombudsman",
+        "theme": "elderly ombudsman",
         "count": 1
       }
     ]
   },
   {
     "id": 100,
-    "label": "concerns | ensure a | must ensure",
+    "label": "ensure | ensure a | must ensure",
     "count": 5,
     "keywords": [
       {
-        "word": "concerns",
+        "word": "ensure",
         "score": 0.0933
       },
       {
@@ -7473,23 +7473,23 @@
         "score": 0.0704
       },
       {
-        "word": "must ensure",
+        "word": "Must ensure",
         "score": 0.0682
       },
       {
-        "word": "municipality must ensure",
+        "word": "Municipality must (for that)",
         "score": 0.0682
       },
       {
-        "word": "must ensure",
+        "word": "Must (for that)",
         "score": 0.0682
       },
       {
-        "word": "ensure",
+        "word": "Ensure",
         "score": 0.0672
       },
       {
-        "word": "ensure that",
+        "word": "To ensure that",
         "score": 0.0672
       },
       {
@@ -7510,19 +7510,19 @@
     ],
     "topThemes": [
       {
-        "theme": "Schoolontbijt",
+        "theme": "school breakfast",
         "count": 2
       },
       {
-        "theme": "Tandartsbus",
+        "theme": "mobile dental clinic",
         "count": 1
       },
       {
-        "theme": "Schoolmaaltijden",
+        "theme": "school meals",
         "count": 1
       },
       {
-        "theme": "Gratis schoolontbijt",
+        "theme": "free school breakfast",
         "count": 1
       }
     ]
@@ -7557,7 +7557,7 @@
         "score": 0.0701
       },
       {
-        "word": "be abolished",
+        "word": "are abolished",
         "score": 0.0701
       },
       {
@@ -7582,30 +7582,30 @@
     ],
     "topThemes": [
       {
-        "theme": "Reclamebelasting",
+        "theme": "advertising tax",
         "count": 1
       },
       {
-        "theme": "Ambtsgebed",
+        "theme": "official prayer",
         "count": 1
       },
       {
-        "theme": "Gebedsoproepen",
+        "theme": "call to prayer",
         "count": 1
       },
       {
-        "theme": "Gebedsruimte",
+        "theme": "prayer room",
         "count": 1
       },
       {
-        "theme": "Reclame",
+        "theme": "advertising",
         "count": 1
       }
     ]
   },
   {
     "id": 102,
-    "label": "limit | of housing | dwelling",
+    "label": "limit | of homes | dwelling",
     "count": 5,
     "keywords": [
       {
@@ -7613,7 +7613,7 @@
         "score": 0.1039
       },
       {
-        "word": "of housing",
+        "word": "of homes",
         "score": 0.0841
       },
       {
@@ -7621,11 +7621,11 @@
         "score": 0.069
       },
       {
-        "word": "dwelling must",
+        "word": "housing must",
         "score": 0.0588
       },
       {
-        "word": "that there is no",
+        "word": "that there are no",
         "score": 0.0588
       },
       {
@@ -7633,7 +7633,7 @@
         "score": 0.0588
       },
       {
-        "word": "year the",
+        "word": "the year",
         "score": 0.0588
       },
       {
@@ -7658,23 +7658,23 @@
     ],
     "topThemes": [
       {
-        "theme": "Vakantiewoningen",
+        "theme": "holiday homes",
         "count": 1
       },
       {
-        "theme": "Vakantieverhuur",
+        "theme": "vacation rental",
         "count": 1
       },
       {
-        "theme": "Woningverhuur",
+        "theme": "rental housing",
         "count": 1
       },
       {
-        "theme": "Splitsen van woningen",
+        "theme": "splitting of homes",
         "count": 1
       },
       {
-        "theme": "Bed & Breakfast",
+        "theme": "bed and breakfast",
         "count": 1
       }
     ]

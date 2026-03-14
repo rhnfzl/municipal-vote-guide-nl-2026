@@ -30,6 +30,7 @@ export default function HomePage() {
   const router = useRouter();
   const [municipalities, setMunicipalities] = useState<Municipality[]>([]);
   const [query, setQuery] = useState("");
+  const [showAll, setShowAll] = useState(false);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
@@ -52,7 +53,11 @@ export default function HomePage() {
   );
 
   const showResults = query.trim().length > 0;
-  const displayList = showResults ? filtered : popular;
+  const displayList = showResults
+    ? filtered
+    : showAll
+      ? municipalities
+      : popular;
 
   // Days until election
   const electionDate = new Date("2026-03-18");
@@ -101,14 +106,24 @@ export default function HomePage() {
           <h2 className="text-sm font-semibold uppercase tracking-wider text-gray-400">
             {showResults
               ? `${filtered.length} ${filtered.length === 1 ? "result" : "results"}`
-              : t("home.popularCities")}
+              : showAll
+                ? `${locale === "en" ? "All" : "Alle"} ${municipalities.length} ${locale === "en" ? "municipalities" : "gemeenten"}`
+                : t("home.popularCities")}
           </h2>
-          {!showResults && (
+          {!showResults && !showAll && (
             <button
-              onClick={() => setQuery(" ")}
+              onClick={() => setShowAll(true)}
               className="text-sm font-medium text-blue-600 hover:text-blue-700 dark:text-blue-400"
             >
               {t("home.browseAll", { count: municipalities.length })}
+            </button>
+          )}
+          {showAll && !showResults && (
+            <button
+              onClick={() => setShowAll(false)}
+              className="text-sm font-medium text-gray-500 hover:text-gray-700"
+            >
+              {locale === "en" ? "Show popular only" : "Toon alleen populaire"}
             </button>
           )}
         </div>
