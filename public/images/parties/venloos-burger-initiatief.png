@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+<head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>VBI - Venloos Burger Initiatief</title>
+    <meta name="description"
+        content="Venloos Burger Initiatief - Van de burgers, vóór de burgers en dóór de burgers. Lokale politiek voor Venlo." />
+    <!-- Google Analytics (GA4) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-47LHVMC1QK"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-47LHVMC1QK');
+    </script>
+  <script type="module" crossorigin src="/assets/index-2e5f7ac5.js"></script>
+  <link rel="stylesheet" href="/assets/index-d2a20e7a.css">
+</head>
+
+<body>
+    <div id="root"></div>
+    
+</body>
+
+</html>

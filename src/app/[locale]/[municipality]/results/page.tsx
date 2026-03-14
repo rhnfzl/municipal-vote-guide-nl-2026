@@ -12,6 +12,7 @@ import { ShareResults } from "@/components/share-results";
 import { PartyAvatar } from "@/components/party-avatar";
 import { MdCheckCircle, MdCancel, MdExpandMore, MdShare } from "@/components/icons";
 import { PoliticalCompass } from "@/components/political-compass";
+import { ConsensusMeter } from "@/components/consensus-meter";
 import { encodeAnswers, decodeAnswers, compareAnswers } from "@/lib/share-answers";
 import type { MunicipalityData, UserAnswer, PartyMatch } from "@/lib/types";
 
@@ -266,6 +267,9 @@ export default function ResultsPage() {
           </div>
         </details>
       )}
+
+      {/* Consensus Meter — which topics divide parties most */}
+      {data && <ConsensusMeter data={data} locale={locale} />}
 
       {/* Actions */}
       <div className="flex flex-wrap gap-3 justify-center pt-4">

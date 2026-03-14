@@ -62,17 +62,30 @@ export default function ExplorePage() {
   const funFacts = useMemo(() => {
     if (!municipalities.length || !stats) return [];
     const facts: string[] = [];
-    const sorted = [...municipalities];
-    const mostParties = sorted.sort((a, b) => b.numParties - a.numParties)[0];
-    const fewestParties = [...municipalities].sort((a, b) => a.numParties - b.numParties)[0];
-    const fewestStatements = [...municipalities].sort((a, b) => a.numStatements - b.numStatements)[0];
+    const sortedByParties = [...municipalities].sort((a, b) => b.numParties - a.numParties);
+    const mostParties = sortedByParties[0];
+    const fewestParties = sortedByParties[sortedByParties.length - 1];
+    const sortedByStmts = [...municipalities].sort((a, b) => b.numStatements - a.numStatements);
+    const mostStatements = sortedByStmts[0];
+    const fewestStatements = sortedByStmts[sortedByStmts.length - 1];
+    const avgParties = Math.round(municipalities.reduce((s, m) => s + m.numParties, 0) / municipalities.length);
+    const avgStatements = Math.round(municipalities.reduce((s, m) => s + m.numStatements, 0) / municipalities.length);
 
     if (mostParties) facts.push(t("funFactMostParties", { name: mostParties.name, count: mostParties.numParties }));
     if (fewestParties) facts.push(t("funFactFewestParties", { name: fewestParties.name, count: fewestParties.numParties }));
-    if (stats.topThemes[0]) facts.push(t("funFactTopTheme", { theme: stats.topThemes[0][0], count: stats.topThemes[0][1] }));
+    if (stats.topThemes[0]) facts.push(t("funFactTopTheme", { theme: translateTheme(stats.topThemes[0][0], locale), count: stats.topThemes[0][1] }));
     if (fewestStatements) facts.push(t("funFactFewestStatements", { name: fewestStatements.name, count: fewestStatements.numStatements }));
+
+    // Extra facts
+    facts.push(locale === "en"
+      ? `Average municipality has ${avgParties} parties and ${avgStatements} statements`
+      : `Gemiddelde gemeente heeft ${avgParties} partijen en ${avgStatements} stellingen`);
+    if (mostStatements) facts.push(locale === "en"
+      ? `${mostStatements.name} has the most statements (${mostStatements.numStatements})`
+      : `${mostStatements.name} heeft de meeste stellingen (${mostStatements.numStatements})`);
+
     return facts;
-  }, [municipalities, stats, t]);
+  }, [municipalities, stats, t, locale]);
 
   if (!stats) {
     return (
@@ -102,7 +115,7 @@ export default function ExplorePage() {
 
       {/* Fun Facts */}
       {funFacts.length > 0 && (
-        <div className="grid gap-3 sm:grid-cols-2">
+        <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
           {funFacts.map((fact, i) => (
             <div key={i} className="flex items-start gap-2 rounded-xl bg-blue-50 p-3 text-sm text-blue-800 dark:bg-blue-950/30 dark:text-blue-300">
               <MdLightbulb className="h-5 w-5 shrink-0 text-blue-600" />
