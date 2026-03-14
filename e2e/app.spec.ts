@@ -141,7 +141,7 @@ test.describe("Footer", () => {
 test.describe("Error Pages", () => {
   test("404 page renders for unknown route", async ({ page }) => {
     const response = await page.goto("/en/nonexistent-page-xyz");
-    // Should not crash — either 404 page or redirect
+    // Should not crash - either 404 page or redirect
     expect(response?.status()).toBeDefined();
   });
 });

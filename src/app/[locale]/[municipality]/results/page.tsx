@@ -111,12 +111,12 @@ export default function ResultsPage() {
         </p>
       </div>
 
-      {/* Share — prominent at top */}
+      {/* Share - prominent at top */}
       <div className="flex justify-center">
         <ShareResults matches={matches} municipality={data.name} locale={locale} />
       </div>
 
-      {/* Friends Comparison — share link */}
+      {/* Friends Comparison - share link */}
       <div className="flex items-center justify-center gap-3">
         <Button
           variant="outline"
@@ -192,7 +192,7 @@ export default function ResultsPage() {
         </Card>
       )}
 
-      {/* Ranked Results List — clean, StemWijzer-style */}
+      {/* Ranked Results List - clean, StemWijzer-style */}
       <div className="space-y-3">
         {matches.map((match, idx) => {
           const isTop = idx === 0;
@@ -254,7 +254,7 @@ export default function ResultsPage() {
         })}
       </div>
 
-      {/* Political Compass — collapsed at bottom with explanation */}
+      {/* Political Compass - collapsed at bottom with explanation */}
       {data && (
         <details className="rounded-xl border border-gray-200 dark:border-gray-800">
           <summary className="cursor-pointer p-4 text-sm font-medium text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-100 flex items-center gap-2">
@@ -272,7 +272,7 @@ export default function ResultsPage() {
         </details>
       )}
 
-      {/* Consensus Meter — which topics divide parties most */}
+      {/* Consensus Meter - which topics divide parties most */}
       {data && <ConsensusMeter data={data} locale={locale} />}
 
       {/* Actions */}

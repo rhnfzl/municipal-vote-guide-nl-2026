@@ -75,7 +75,7 @@ export default function ComparePartyPage() {
         <MdArrowBack className="h-4 w-4" /> {t("backToResults")}
       </Button>
 
-      {/* Party tab bar — horizontal scrollable */}
+      {/* Party tab bar - horizontal scrollable */}
       <div className="flex gap-2 overflow-x-auto pb-2 scrollbar-hide">
         {participatingParties.map((party, idx) => (
           <button
@@ -100,7 +100,7 @@ export default function ComparePartyPage() {
         </h2>
       )}
 
-      {/* Party Deep Dive — website + council status */}
+      {/* Party Deep Dive - website + council status */}
       {activeParty && (
         <div className="flex items-center justify-center gap-4 text-sm">
           {activeParty.hasSeats && (

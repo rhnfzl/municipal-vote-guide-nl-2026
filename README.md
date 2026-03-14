@@ -19,44 +19,44 @@ Covers **all 258 municipalities** in the Netherlands with **79,000+ translated p
 ## Features
 
 ### Core Questionnaire
-- **Interactive Questionnaire** — Answer agree/disagree/neither on your municipality's policy statements
-- **3-Tab Info System** — "What do parties think?" / "Learn more" / "Arguments" (matching StemWijzer)
-- **Glossary Tooltips** — Inline definitions for political terms (ombudsman, referendum, etc.)
-- **Bilingual Display** — Primary language large, alternate language shown below
-- **Speed Check** — Warning if questionnaire completed too quickly
+- **Interactive Questionnaire** - Answer agree/disagree/neither on your municipality's policy statements
+- **3-Tab Info System** - "What do parties think?" / "Learn more" / "Arguments" (matching StemWijzer)
+- **Glossary Tooltips** - Inline definitions for political terms (ombudsman, referendum, etc.)
+- **Bilingual Display** - Primary language large, alternate language shown below
+- **Speed Check** - Warning if questionnaire completed too quickly
 
 ### Post-Questionnaire Flow
-- **Important Topics** — Select up to 3 themes for 2x scoring weight
-- **Party Filter** — Choose which parties to include (all / incumbent / custom)
-- **Tie-breaker Shootout** — Extra questions when top parties are within 5%
+- **Important Topics** - Select up to 3 themes for 2x scoring weight
+- **Party Filter** - Choose which parties to include (all / incumbent / custom)
+- **Tie-breaker Shootout** - Extra questions when top parties are within 5%
 
 ### Results & Analysis
-- **Party Match Results** — Ranked matches with party logos + progress bars
-- **Political Profile Summary** — AI-generated description of your political stance
-- **Per-Party Comparison** — Side-by-side view with party tab bar (matches StemWijzer)
-- **Political Compass** — 2D scatter plot showing your position vs. parties
-- **Consensus Meter** — Which topics divide parties most vs. consensus
-- **"Why do I match?"** — Theme-based explanation of alignment
+- **Party Match Results** - Ranked matches with party logos + progress bars
+- **Political Profile Summary** - AI-generated description of your political stance
+- **Per-Party Comparison** - Side-by-side view with party tab bar (matches StemWijzer)
+- **Political Compass** - 2D scatter plot showing your position vs. parties
+- **Consensus Meter** - Which topics divide parties most vs. consensus
+- **"Why do I match?"** - Theme-based explanation of alignment
 
 ### Sharing & Social
-- **Share Results** — Generate images for Twitter/X, Instagram Stories, LinkedIn, Square
-- **Friends Comparison** — Shareable URL to compare results with friends (viral feature)
-- **Print/PDF Export** — Save results for offline reference
+- **Share Results** - Generate images for Twitter/X, Instagram Stories, LinkedIn, Square
+- **Friends Comparison** - Shareable URL to compare results with friends (viral feature)
+- **Print/PDF Export** - Save results for offline reference
 
 ### Explore & Data Analysis
-- **National Theme Statistics** — Bar charts of most common political themes
-- **BERTopic ML Analysis** — AI-powered topic modeling of 3,531 political statements
+- **National Theme Statistics** - Bar charts of most common political themes
+- **BERTopic ML Analysis** - AI-powered topic modeling of 3,531 political statements
   - Topic Map (interactive scatter plot)
   - Topic Clusters (treemap visualization)
   - Topic Network (similarity graph)
-- **Municipality Browser** — Search all 258 municipalities with alias support
+- **Municipality Browser** - Search all 258 municipalities with alias support
 
 ### Design & Accessibility
-- **Bilingual** — Full Dutch + English with SVG flag toggle
-- **Dark Mode** — Light default with system-aware toggle
-- **Mobile-first** — Responsive design for all devices
-- **Party Logos** — 600+ party favicons + color initials fallback
-- **Municipality Aliases** — "Den Bosch" → 's-Hertogenbosch, "The Hague" → 's-Gravenhage
+- **Bilingual** - Full Dutch + English with SVG flag toggle
+- **Dark Mode** - Light default with system-aware toggle
+- **Mobile-first** - Responsive design for all devices
+- **Party Logos** - 600+ party favicons + color initials fallback
+- **Municipality Aliases** - "Den Bosch" → 's-Hertogenbosch, "The Hague" → 's-Gravenhage
 
 ---
 
@@ -74,7 +74,7 @@ Covers **all 258 municipalities** in the Netherlands with **79,000+ translated p
 
 ## Data
 
-All data extracted from the official StemWijzer (ProDemos) for the 2026 municipal elections:
+All data scraped from the official [StemWijzer](https://stemwijzer.nl) (ProDemos) using [`nl-voting-data-scraper`](https://github.com/rhnfzl/nl-voting-data-scraper), an open-source Python package for extracting Dutch voting advice data.
 
 | Metric | Count |
 |--------|-------|
@@ -88,6 +88,43 @@ All data extracted from the official StemWijzer (ProDemos) for the 2026 municipa
 
 Top parties nationally: CDA (257), VVD (245), D66 (193), GroenLinks-PvdA (143), ChristenUnie (105).
 
+### Data Pipeline
+
+The full data pipeline uses [`nl-voting-data-scraper`](https://github.com/rhnfzl/nl-voting-data-scraper) to fetch raw data from StemWijzer, then transforms, translates, and enriches it:
+
+```
+nl-voting-data-scraper       prepare-data.ts         translate-*.mjs
+   (scrape StemWijzer)  -->  (transform & index)  -->  (NL -> EN)
+        data/raw/           public/data/municipalities/
+```
+
+```bash
+# 1. Install the scraper
+pip install nl-voting-data-scraper
+
+# 2. Scrape all 258 municipalities from StemWijzer
+npm run data:scrape
+
+# 3. Transform raw data into optimized per-municipality JSON
+npm run data:prepare
+
+# Or run both steps together:
+npm run data:pipeline
+```
+
+The scraper supports scraping specific municipalities, resuming interrupted runs, and multiple election types:
+
+```bash
+# Scrape specific municipalities
+python scripts/scrape-stemwijzer.py -m GM0014 -m GM0363
+
+# Resume an interrupted scrape
+python scripts/scrape-stemwijzer.py --resume
+
+# List available elections
+python scripts/scrape-stemwijzer.py --list-elections
+```
+
 ## Getting Started
 
 ```bash
@@ -100,11 +137,17 @@ Open [http://localhost:3000](http://localhost:3000).
 ## Scripts
 
 ```bash
+# Development
 npm run dev          # Start development server
 npm run build        # Production build
 npm test             # Run unit tests
 npm run test:e2e     # Run Playwright E2E tests
 npm run lint         # Lint code
+
+# Data pipeline
+npm run data:scrape    # Scrape StemWijzer via nl-voting-data-scraper
+npm run data:prepare   # Transform raw data for the app
+npm run data:pipeline  # Run full pipeline (scrape + prepare)
 ```
 
 ## Privacy

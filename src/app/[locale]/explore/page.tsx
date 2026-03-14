@@ -130,7 +130,7 @@ export default function ExplorePage() {
         </div>
       )}
 
-      {/* Themes Chart — full width */}
+      {/* Themes Chart - full width */}
       <Card className="overflow-hidden rounded-2xl border-0 shadow-md">
         <CardContent className="p-5">
           <h2 className="mb-4 text-lg font-semibold">{t("topThemes")}</h2>

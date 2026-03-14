@@ -156,15 +156,15 @@ export function generatePoliticalProfile(
   // Generate stance description
   let stance: string;
   if (locale === "en") {
-    if (agreeRatio > 0.7) stance = "You tend to agree with most proposals — you're open to change and new policies.";
-    else if (agreeRatio > 0.55) stance = "You have a moderate stance — you agree with some proposals and disagree with others.";
-    else if (agreeRatio > 0.4) stance = "You're balanced — you carefully weigh each issue on its merits.";
-    else stance = "You tend to disagree with most proposals — you prefer the current approach on many issues.";
+    if (agreeRatio > 0.7) stance = "You tend to agree with most proposals - you're open to change and new policies.";
+    else if (agreeRatio > 0.55) stance = "You have a moderate stance - you agree with some proposals and disagree with others.";
+    else if (agreeRatio > 0.4) stance = "You're balanced - you carefully weigh each issue on its merits.";
+    else stance = "You tend to disagree with most proposals - you prefer the current approach on many issues.";
   } else {
-    if (agreeRatio > 0.7) stance = "Je bent het vaak eens met voorstellen — je staat open voor verandering en nieuw beleid.";
-    else if (agreeRatio > 0.55) stance = "Je hebt een gematigd standpunt — je bent het met sommige voorstellen eens en met andere oneens.";
-    else if (agreeRatio > 0.4) stance = "Je bent evenwichtig — je weegt elk onderwerp zorgvuldig af.";
-    else stance = "Je bent het vaak oneens met voorstellen — je geeft de voorkeur aan de huidige aanpak.";
+    if (agreeRatio > 0.7) stance = "Je bent het vaak eens met voorstellen - je staat open voor verandering en nieuw beleid.";
+    else if (agreeRatio > 0.55) stance = "Je hebt een gematigd standpunt - je bent het met sommige voorstellen eens en met andere oneens.";
+    else if (agreeRatio > 0.4) stance = "Je bent evenwichtig - je weegt elk onderwerp zorgvuldig af.";
+    else stance = "Je bent het vaak oneens met voorstellen - je geeft de voorkeur aan de huidige aanpak.";
   }
 
   const summary = locale === "en"

@@ -133,7 +133,7 @@ function collectExplanations() {
 }
 
 // ── Phase 2: Translation ───────────────────────────────────────────────────────
-const SYSTEM_PROMPT = `You are a Dutch-to-English translator for a Dutch municipal election guide (Gemeenteraadsverkiezingen 2026). Translate each numbered Dutch text to clear, natural English. These are party position explanations — keep the political context and meaning accurate. Output a JSON object where keys are the numbers (as strings) and values are the English translations. Output ONLY valid JSON, no markdown fences or extra text.`;
+const SYSTEM_PROMPT = `You are a Dutch-to-English translator for a Dutch municipal election guide (Gemeenteraadsverkiezingen 2026). Translate each numbered Dutch text to clear, natural English. These are party position explanations - keep the political context and meaning accurate. Output a JSON object where keys are the numbers (as strings) and values are the English translations. Output ONLY valid JSON, no markdown fences or extra text.`;
 
 async function translateBatch(batch, model) {
   const numbered = batch
@@ -161,7 +161,7 @@ async function translateBatch(batch, model) {
       const output = response.output_text || "";
       let parsed = 0;
 
-      // Try JSON parse first (preferred — handles multiline)
+      // Try JSON parse first (preferred - handles multiline)
       try {
         // Strip markdown fences if model added them
         const cleaned = output.replace(/^```(?:json)?\s*\n?/m, "").replace(/\n?```\s*$/m, "").trim();
@@ -194,7 +194,7 @@ async function translateBatch(batch, model) {
       if (err.status === 429) {
         const retryAfter = parseInt(err.headers?.["retry-after"] || "5", 10) * 1000;
         rateLimitUntil = Math.max(rateLimitUntil, Date.now() + retryAfter);
-        console.error(`    Rate limited — all workers pausing ${retryAfter / 1000}s`);
+        console.error(`    Rate limited - all workers pausing ${retryAfter / 1000}s`);
         await new Promise((r) => setTimeout(r, retryAfter));
         continue;
       }
@@ -205,7 +205,7 @@ async function translateBatch(batch, model) {
       }
     }
   }
-  return 0; // All retries failed — texts stay uncached for next run
+  return 0; // All retries failed - texts stay uncached for next run
 }
 
 async function workerLoop(workerId, queue, totalBatches, opts) {

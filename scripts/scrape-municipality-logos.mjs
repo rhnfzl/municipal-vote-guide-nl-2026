@@ -7,10 +7,10 @@
  * (PD-NL-gemeentewapen).
  *
  * Strategy (two passes):
- *   Pass 1 — Try known filename patterns via thumb.php:
+ *   Pass 1 - Try known filename patterns via thumb.php:
  *     "{Name} wapen.svg", "Coat of arms of {Name}.svg",
  *     "Gemeentewapen {Name}.svg", "Wapen van {Name}.svg"
- *   Pass 2 — Search API fallback for any that failed:
+ *   Pass 2 - Search API fallback for any that failed:
  *     Query Wikimedia Commons search for "wapen {Name}" / "coat of arms {Name}"
  *     and download the first matching SVG coat of arms.
  *

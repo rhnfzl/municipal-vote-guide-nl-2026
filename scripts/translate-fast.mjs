@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Fast Translation Script — Statements Only
+ * Fast Translation Script - Statements Only
  * Translates statement titles, themes, pro/con arguments using gpt-5-mini.
  * Skips party explanations (they're secondary and can be translated later).
  * Deduplicates across all municipalities first, then translates once.
@@ -189,7 +189,7 @@ async function main() {
     const data = JSON.parse(fs.readFileSync(nlPath, "utf-8"));
     const enData = JSON.parse(JSON.stringify(data));
 
-    // Apply translations to en.json — regular statements
+    // Apply translations to en.json - regular statements
     for (let i = 0; i < enData.statements.length; i++) {
       const s = enData.statements[i];
       s.title = cache[s.title] || s.title;

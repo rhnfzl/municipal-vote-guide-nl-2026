@@ -178,11 +178,11 @@ async function main() {
     const enExists = fs.existsSync(path.join(MUNI_DIR, entry.slug, "en.json"));
 
     if (enExists) {
-      console.log(`  [${i + 1}/${index.length}] ${entry.slug} — English exists, skipping`);
+      console.log(`  [${i + 1}/${index.length}] ${entry.slug} - English exists, skipping`);
       continue;
     }
 
-    process.stdout.write(`  [${i + 1}/${index.length}] ${entry.slug} — translating...`);
+    process.stdout.write(`  [${i + 1}/${index.length}] ${entry.slug} - translating...`);
     await translateMunicipality(entry.slug);
     console.log(` done (${apiCalls} API calls, ${cacheHits} cache hits)`);
 

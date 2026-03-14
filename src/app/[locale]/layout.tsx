@@ -116,7 +116,7 @@ export default async function LocaleLayout({
               {children}
             </main>
 
-            {/* Footer — fully translated */}
+            {/* Footer - fully translated */}
             <footer className="mt-auto border-t border-gray-200/80 bg-white py-8 dark:border-gray-800/80 dark:bg-gray-950">
               <div className="mx-auto max-w-5xl px-4 text-center text-sm text-gray-500">
                 <p>

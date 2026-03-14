@@ -123,7 +123,7 @@ function processMunicipality(
     })
     .sort((a, b) => a.index - b.index);
 
-  // Shootout statements (for tie-breaking) — stored in separate array in raw data
+  // Shootout statements (for tie-breaking) - stored in separate array in raw data
   const rawShootouts =
     (rawData.shootoutStatements as Array<Record<string, unknown>>) || [];
   const shootoutStatements = rawShootouts.map((s) => {
@@ -202,7 +202,7 @@ function main() {
     fs.readFileSync(INDEX_PATH, "utf-8")
   );
 
-  // Only process Dutch (nl) entries — skip Frisian (fy) and English (en) handled separately
+  // Only process Dutch (nl) entries - skip Frisian (fy) and English (en) handled separately
   const nlEntries = index.filter((e) => e.language === "nl");
   const enEntries = index.filter((e) => e.language === "en");
 
@@ -273,7 +273,7 @@ function main() {
     });
 
     process.stdout.write(
-      `  [${municipalityIndex.length}/${nlEntries.length}] ${slug} — ${processed.parties.length} parties, ${processed.statements.length} statements${hasOfficialEnglish ? " +EN" : ""}\n`
+      `  [${municipalityIndex.length}/${nlEntries.length}] ${slug} - ${processed.parties.length} parties, ${processed.statements.length} statements${hasOfficialEnglish ? " +EN" : ""}\n`
     );
   }
 

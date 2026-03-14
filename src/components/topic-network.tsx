@@ -99,7 +99,7 @@ export function TopicNetwork({ locale }: { locale: string }) {
 
       <div className="rounded-xl border border-gray-200 bg-white dark:border-gray-800 dark:bg-gray-950 overflow-hidden">
         <svg viewBox="0 0 700 560" className="w-full h-auto" style={{ maxHeight: "560px" }}>
-          {/* Edges — only show when hovering or always show faintly */}
+          {/* Edges - only show when hovering or always show faintly */}
           {networkData.edges.map((edge, i) => {
             const src = networkData.nodes[edge.src];
             const tgt = networkData.nodes[edge.tgt];

@@ -6,7 +6,7 @@ import { useParams, useRouter, useSearchParams } from "next/navigation";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-// Switch removed — dealbreaker replaced by Important Topics step
+// Switch removed - dealbreaker replaced by Important Topics step
 import { Skeleton } from "@/components/ui/skeleton";
 import { Separator } from "@/components/ui/separator";
 import type { MunicipalityData, UserAnswer, Statement } from "@/lib/types";
@@ -39,7 +39,7 @@ export default function QuestionnairePage() {
   const [animating, setAnimating] = useState(false);
 
   useEffect(() => {
-    // ALWAYS start fresh — clear all previous session data for this municipality.
+    // ALWAYS start fresh - clear all previous session data for this municipality.
     // Each visit to the questionnaire page is a new start.
     // The only way to resume is within the same page (React state, not storage).
     sessionStorage.removeItem(`vg-${slug}-answers`);
@@ -52,7 +52,7 @@ export default function QuestionnairePage() {
     localStorage.removeItem(`vg-${slug}-answers`);
     localStorage.removeItem(`vg-${slug}-index`);
 
-    // No saved state to restore — always question 1
+    // No saved state to restore - always question 1
     const saved = null;
     const savedIdx = null;
 
@@ -74,7 +74,7 @@ export default function QuestionnairePage() {
       .then((r) => r.json())
       .then((d: MunicipalityData) => {
         setData(d);
-        // Always start at question 1 — no state restoration
+        // Always start at question 1 - no state restoration
         // Store num statements for speed check
         sessionStorage.setItem(`vg-${slug}-numStatements`, String(d.statements.length));
         setLoading(false);
@@ -87,13 +87,13 @@ export default function QuestionnairePage() {
       .catch(() => {}); // silently fail if no translation available
   }, [slug, locale]);
 
-  // No auto-save during questionnaire — answers saved only when advancing to next step
+  // No auto-save during questionnaire - answers saved only when advancing to next step
   // This ensures a fresh start on every visit to the questionnaire page
 
   const statements = data?.statements || [];
   const current: Statement | undefined = statements[currentIdx];
   const answeredCount = Object.keys(answers).length;
-  // Progress based on current question index (not answered count — that includes skipped revisits)
+  // Progress based on current question index (not answered count - that includes skipped revisits)
   const progress = statements.length ? Math.round(((currentIdx) / statements.length) * 100) : 0;
 
   // Party positions for current statement
@@ -174,7 +174,7 @@ export default function QuestionnairePage() {
 
   if (!data || !current) return null;
 
-  // Dealbreaker removed — replaced by Important Topics post-questionnaire step
+  // Dealbreaker removed - replaced by Important Topics post-questionnaire step
   const title = locale === "en" && current.titleEn ? current.titleEn : current.title;
   const theme = locale === "en" && current.themeEn ? current.themeEn : current.theme;
   const moreInfo = locale === "en" && current.moreInfoEn ? current.moreInfoEn : current.moreInfo;
@@ -239,10 +239,10 @@ export default function QuestionnairePage() {
             )}
           </div>
 
-          {/* Statement — with glossary tooltips if available */}
+          {/* Statement - with glossary tooltips if available */}
           <div>
             <h2 className="text-lg font-semibold leading-relaxed text-gray-900 dark:text-gray-100 sm:text-xl">
-              {current.titleParts ? (
+              {current.titleParts && locale !== "en" ? (
                 <GlossaryTitle titleParts={current.titleParts} />
               ) : (
                 title
@@ -255,9 +255,9 @@ export default function QuestionnairePage() {
             )}
           </div>
 
-          {/* Dealbreaker toggle removed — replaced by Important Topics step after questionnaire */}
+          {/* Dealbreaker toggle removed - replaced by Important Topics step after questionnaire */}
 
-          {/* Three Tabs — matching StemWijzer */}
+          {/* Three Tabs - matching StemWijzer */}
           <div className="flex rounded-lg border border-gray-200 overflow-hidden dark:border-gray-700">
             {tabs.map((tab) => (
               <button
@@ -292,7 +292,7 @@ export default function QuestionnairePage() {
               {/* Parties Tab */}
               {activeTab === "parties" && (
                 <div className="space-y-4">
-                  {/* Party explanations now fully translated — loaded from en.json in EN mode */}
+                  {/* Party explanations now fully translated - loaded from en.json in EN mode */}
                   {partyPositions.agree.length > 0 && (
                     <div>
                       <h4 className="flex items-center gap-2 text-sm font-bold text-green-700 dark:text-green-400 mb-2">
@@ -431,7 +431,7 @@ export default function QuestionnairePage() {
         </Button>
       </div>
 
-      {/* Auto-advances to Important Topics after last question — no "View Results" button */}
+      {/* Auto-advances to Important Topics after last question - no "View Results" button */}
 
       {/* Progress info */}
       <p className="text-center text-xs text-gray-400">

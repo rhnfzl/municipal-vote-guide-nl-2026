@@ -50,7 +50,7 @@ export function TopicHierarchy({ locale }: { locale: string }) {
           : "Top 25 thema-clusters. Bredere balken = meer stellingen. Klik voor details."}
       </p>
 
-      {/* Horizontal bar chart — cleaner than treemap */}
+      {/* Horizontal bar chart - cleaner than treemap */}
       <div className="space-y-1.5">
         {sortedTopics.map((topic, i) => {
           const widthPct = (topic.count / maxCount) * 100;

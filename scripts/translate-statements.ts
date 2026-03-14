@@ -230,13 +230,13 @@ async function main() {
 
     if (hasEnglish) {
       console.log(
-        `  [${i + 1}/${total}] ${entry.slug} — already has English, skipping`
+        `  [${i + 1}/${total}] ${entry.slug} - already has English, skipping`
       );
       continue;
     }
 
     console.log(
-      `  [${i + 1}/${total}] ${entry.slug} — translating (${entry.numStatements} statements, ${entry.numParties} parties)...`
+      `  [${i + 1}/${total}] ${entry.slug} - translating (${entry.numStatements} statements, ${entry.numParties} parties)...`
     );
 
     await translateMunicipality(entry.slug);
