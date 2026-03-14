@@ -123,7 +123,7 @@ export default function HomePage() {
               onClick={() => setShowAll(false)}
               className="text-sm font-medium text-gray-500 hover:text-gray-700"
             >
-              {locale === "en" ? "Show popular only" : "Toon alleen populaire"}
+              {locale === "en" ? "Show less" : "Toon minder"}
             </button>
           )}
         </div>
