@@ -83,41 +83,28 @@ export default function ImportantTopicsPage() {
 
   return (
     <div className="mx-auto max-w-2xl space-y-6">
-      {/* Speed check warning */}
+      {/* Speed check — blocks the entire page, only option is to go back */}
       {tooFast && !dismissed && (
-        <Card className="border-amber-300 bg-amber-50 dark:border-amber-700 dark:bg-amber-950/30">
-          <CardContent className="p-5 space-y-3">
-            <div className="flex items-start gap-3">
-              <MdWarning className="h-6 w-6 text-amber-600 shrink-0 mt-0.5" />
-              <div>
-                <h3 className="font-semibold text-amber-800 dark:text-amber-200">
-                  {t("speedWarning")}
-                </h3>
-                <p className="mt-1 text-sm text-amber-700 dark:text-amber-300">
-                  {t("speedWarningDesc")}
-                </p>
-              </div>
-            </div>
-            <div className="flex gap-3">
-              <Button
-                variant="outline"
-                size="sm"
-                className="border-amber-400"
-                onClick={() => router.push(`/${locale}/${slug}/questionnaire`)}
-              >
-                {t("goBack")}
-              </Button>
-              <Button
-                variant="ghost"
-                size="sm"
-                onClick={() => setDismissed(true)}
-              >
-                {t("continueAnyway")}
-              </Button>
-            </div>
-          </CardContent>
-        </Card>
+        <div className="mx-auto max-w-md text-center space-y-6 py-12">
+          <MdWarning className="h-16 w-16 text-amber-500 mx-auto" />
+          <h2 className="text-xl font-bold text-amber-800 dark:text-amber-200">
+            {t("speedWarning")}
+          </h2>
+          <p className="text-sm text-amber-700 dark:text-amber-300 leading-relaxed">
+            {t("speedWarningDesc")}
+          </p>
+          <Button
+            size="lg"
+            className="rounded-xl bg-amber-600 text-white hover:bg-amber-700 px-8"
+            onClick={() => router.push(`/${locale}/${slug}/questionnaire`)}
+          >
+            {t("goBack")}
+          </Button>
+        </div>
       )}
+
+      {/* Rest of page only shown if speed check passes */}
+      {(!tooFast || dismissed) && <>
 
       {/* Header */}
       <div className="text-center space-y-2">
@@ -183,6 +170,8 @@ export default function ImportantTopicsPage() {
           {t("nextStep")} →
         </Button>
       </div>
+
+      </>}
     </div>
   );
 }
