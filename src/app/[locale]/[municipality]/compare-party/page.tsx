@@ -120,13 +120,16 @@ export default function ComparePartyPage() {
                       <p className="font-medium text-sm leading-relaxed">{stmt.title}</p>
 
                       {/* Party explanation */}
+                      {partyPos.explanation && locale === "en" && (
+                        <p className="text-[10px] text-gray-400 italic mt-1">Dutch original — use browser translation</p>
+                      )}
                       {partyPos.explanation && (
                         <div className="mt-3 rounded-lg bg-gray-50 p-3 dark:bg-gray-800/50">
                           <p className="text-xs font-semibold text-gray-600 dark:text-gray-400 mb-1">
                             {t("whatDoesPartyThink", { party: activeParty.name })}
                           </p>
                           <p className="text-xs text-gray-500 leading-relaxed">
-                            {partyPos.explanation}
+                            <span lang="nl">{partyPos.explanation}</span>
                           </p>
                         </div>
                       )}

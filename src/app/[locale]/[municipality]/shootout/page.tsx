@@ -158,6 +158,11 @@ export default function ShootoutPage() {
             <p className="text-xs font-semibold text-gray-500">
               {t("whatDoesPartyThink", { party: `${party1.name} & ${party2.name}` })}
             </p>
+            {locale === "en" && (
+              <p className="text-[10px] text-gray-400 italic">
+                Party explanations are shown in Dutch (original). Use your browser&apos;s translation feature to translate.
+              </p>
+            )}
             {[party1, party2].map((party) => {
               const pos = party.positions[current.id];
               if (!pos) return null;
@@ -167,7 +172,7 @@ export default function ShootoutPage() {
                   <div>
                     <p className="text-xs font-medium">{party.name}: <span className={pos.position === "agree" ? "text-green-600" : pos.position === "disagree" ? "text-red-600" : "text-gray-500"}>{pos.position === "agree" ? tq("agree") : pos.position === "disagree" ? tq("disagree") : tq("neither")}</span></p>
                     {pos.explanation && (
-                      <p className="text-xs text-gray-500 mt-0.5">{pos.explanation}</p>
+                      <p className="text-xs text-gray-500 mt-0.5" lang="nl">{pos.explanation}</p>
                     )}
                   </div>
                 </div>

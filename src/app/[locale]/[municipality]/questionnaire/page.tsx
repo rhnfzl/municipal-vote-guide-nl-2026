@@ -36,22 +36,22 @@ export default function QuestionnairePage() {
   const [animating, setAnimating] = useState(false);
 
   useEffect(() => {
-    // Check if user is coming from a completed questionnaire (has results)
-    // If so, clear everything for a fresh start
-    const hasCompletedBefore = sessionStorage.getItem(`vg-${slug}-completed`);
-    if (hasCompletedBefore) {
-      // User completed before and is starting over — reset everything
-      sessionStorage.removeItem(`vg-${slug}-answers`);
-      sessionStorage.removeItem(`vg-${slug}-index`);
-      sessionStorage.removeItem(`vg-${slug}-completed`);
-      sessionStorage.removeItem(`vg-${slug}-startTime`);
-      sessionStorage.removeItem(`vg-${slug}-priorities`);
-      sessionStorage.removeItem(`vg-${slug}-selectedParties`);
-      sessionStorage.removeItem(`vg-${slug}-numStatements`);
-    }
+    // ALWAYS start fresh — clear all previous session data for this municipality.
+    // Each visit to the questionnaire page is a new start.
+    // The only way to resume is within the same page (React state, not storage).
+    sessionStorage.removeItem(`vg-${slug}-answers`);
+    sessionStorage.removeItem(`vg-${slug}-index`);
+    sessionStorage.removeItem(`vg-${slug}-completed`);
+    sessionStorage.removeItem(`vg-${slug}-startTime`);
+    sessionStorage.removeItem(`vg-${slug}-priorities`);
+    sessionStorage.removeItem(`vg-${slug}-selectedParties`);
+    sessionStorage.removeItem(`vg-${slug}-numStatements`);
+    localStorage.removeItem(`vg-${slug}-answers`);
+    localStorage.removeItem(`vg-${slug}-index`);
 
-    const saved = sessionStorage.getItem(`vg-${slug}-answers`);
-    const savedIdx = sessionStorage.getItem(`vg-${slug}-index`);
+    // No saved state to restore — always question 1
+    const saved = null;
+    const savedIdx = null;
 
     // Track start time for speed check
     if (!sessionStorage.getItem(`vg-${slug}-startTime`)) {
@@ -71,8 +71,7 @@ export default function QuestionnairePage() {
       .then((r) => r.json())
       .then((d: MunicipalityData) => {
         setData(d);
-        if (saved) setAnswers(JSON.parse(saved));
-        if (savedIdx) setCurrentIdx(parseInt(savedIdx));
+        // Always start at question 1 — no state restoration
         // Store num statements for speed check
         sessionStorage.setItem(`vg-${slug}-numStatements`, String(d.statements.length));
         setLoading(false);
@@ -85,11 +84,8 @@ export default function QuestionnairePage() {
       .catch(() => {}); // silently fail if no translation available
   }, [slug, locale]);
 
-  useEffect(() => {
-    if (!data) return;
-    sessionStorage.setItem(`vg-${slug}-answers`, JSON.stringify(answers));
-    sessionStorage.setItem(`vg-${slug}-index`, String(currentIdx));
-  }, [answers, currentIdx, slug, data]);
+  // No auto-save during questionnaire — answers saved only when advancing to next step
+  // This ensures a fresh start on every visit to the questionnaire page
 
   const statements = data?.statements || [];
   const current: Statement | undefined = statements[currentIdx];
@@ -287,6 +283,11 @@ export default function QuestionnairePage() {
               {/* Parties Tab */}
               {activeTab === "parties" && (
                 <div className="space-y-4">
+                  {locale === "en" && (
+                    <p className="text-[10px] text-gray-400 italic">
+                      Party explanations are shown in Dutch (original). Use your browser&apos;s built-in translation to translate.
+                    </p>
+                  )}
                   {partyPositions.agree.length > 0 && (
                     <div>
                       <h4 className="flex items-center gap-2 text-sm font-bold text-green-700 dark:text-green-400 mb-2">
@@ -303,7 +304,7 @@ export default function QuestionnairePage() {
                               {p.name}
                             </summary>
                             {p.explanation && (
-                              <p className="mt-2 text-xs text-gray-500 leading-relaxed">{p.explanation}</p>
+                              <p className="mt-2 text-xs text-gray-500 leading-relaxed" lang="nl">{p.explanation}</p>
                             )}
                           </details>
                         ))}
@@ -325,7 +326,7 @@ export default function QuestionnairePage() {
                               {p.name}
                             </summary>
                             {p.explanation && (
-                              <p className="mt-2 text-xs text-gray-500 leading-relaxed">{p.explanation}</p>
+                              <p className="mt-2 text-xs text-gray-500 leading-relaxed" lang="nl">{p.explanation}</p>
                             )}
                           </details>
                         ))}
@@ -349,7 +350,7 @@ export default function QuestionnairePage() {
                               {p.name}
                             </summary>
                             {p.explanation && (
-                              <p className="mt-2 text-xs text-gray-500 leading-relaxed">{p.explanation}</p>
+                              <p className="mt-2 text-xs text-gray-500 leading-relaxed" lang="nl">{p.explanation}</p>
                             )}
                           </details>
                         ))}
