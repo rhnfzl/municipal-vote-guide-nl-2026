@@ -100,6 +100,32 @@ export default function ComparePartyPage() {
         </h2>
       )}
 
+      {/* Party Deep Dive — website + council status */}
+      {activeParty && (
+        <div className="flex items-center justify-center gap-4 text-sm">
+          {activeParty.hasSeats && (
+            <span className="rounded-full bg-green-100 px-3 py-1 text-xs font-medium text-green-800 dark:bg-green-950 dark:text-green-300">
+              {locale === "en" ? "Currently in council" : "Zit in de gemeenteraad"}
+            </span>
+          )}
+          {!activeParty.hasSeats && (
+            <span className="rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600 dark:bg-gray-800 dark:text-gray-400">
+              {locale === "en" ? "Not currently in council" : "Niet in de gemeenteraad"}
+            </span>
+          )}
+          {activeParty.website && (
+            <a
+              href={activeParty.website.startsWith("http") ? activeParty.website : `https://${activeParty.website}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="rounded-full bg-blue-100 px-3 py-1 text-xs font-medium text-blue-700 hover:bg-blue-200 dark:bg-blue-950 dark:text-blue-300"
+            >
+              {locale === "en" ? "Visit website →" : "Bezoek website →"}
+            </a>
+          )}
+        </div>
+      )}
+
       {/* Per-question comparison */}
       {activeParty && (
         <div className="space-y-4">

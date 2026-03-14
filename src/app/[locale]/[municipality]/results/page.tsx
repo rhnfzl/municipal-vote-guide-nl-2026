@@ -7,7 +7,7 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Skeleton } from "@/components/ui/skeleton";
-import { calculateMatches, generateMatchSummary } from "@/lib/scoring";
+import { calculateMatches, generateMatchSummary, generatePoliticalProfile } from "@/lib/scoring";
 import { ShareResults } from "@/components/share-results";
 import { PartyAvatar } from "@/components/party-avatar";
 import { MdCheckCircle, MdCancel, MdExpandMore } from "@/components/icons";
@@ -95,6 +95,23 @@ export default function ResultsPage() {
       <div className="flex justify-center">
         <ShareResults matches={matches} municipality={data.name} locale={locale} />
       </div>
+
+      {/* Political Profile Summary */}
+      {data && Object.keys(answers).length > 0 && (() => {
+        const profile = generatePoliticalProfile(data, answers, locale);
+        return (
+          <Card className="rounded-xl border-blue-200 bg-blue-50/50 dark:border-blue-800 dark:bg-blue-950/20">
+            <CardContent className="p-4 space-y-2">
+              <h3 className="text-sm font-semibold text-blue-800 dark:text-blue-300">
+                {locale === "en" ? "Your Political Profile" : "Jouw Politiek Profiel"}
+              </h3>
+              <p className="text-sm text-blue-700 dark:text-blue-400 leading-relaxed">
+                {profile.summary}
+              </p>
+            </CardContent>
+          </Card>
+        );
+      })()}
 
       {/* Tie-breaker banner */}
       {showTieBreaker && (
@@ -201,6 +218,13 @@ export default function ResultsPage() {
 
       {/* Actions */}
       <div className="flex flex-wrap gap-3 justify-center pt-4">
+        <Button
+          variant="outline"
+          className="rounded-xl"
+          onClick={() => window.print()}
+        >
+          {locale === "en" ? "Print / Save PDF" : "Afdrukken / PDF opslaan"}
+        </Button>
         <Button
           variant="outline"
           className="rounded-xl"

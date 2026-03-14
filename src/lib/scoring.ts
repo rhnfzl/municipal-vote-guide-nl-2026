@@ -114,3 +114,62 @@ export function generateMatchSummary(
 
   return { agreeThemes, disagreeThemes };
 }
+
+/**
+ * Generate a political profile summary for the user.
+ * Analyzes answers to categorize user's political stance.
+ */
+export function generatePoliticalProfile(
+  data: MunicipalityData,
+  answers: Record<number, UserAnswer>,
+  locale: string,
+): {
+  summary: string;
+  topThemes: string[];
+  stance: string;
+} {
+  // Count agree/disagree by broad category
+  const categories: Record<string, { agree: number; disagree: number }> = {};
+
+  for (const stmt of data.statements) {
+    const answer = answers[stmt.id];
+    if (!answer || answer === "skip" || answer === "neither") continue;
+
+    const theme = locale === "en" && stmt.themeEn ? stmt.themeEn : stmt.theme;
+    if (!categories[theme]) categories[theme] = { agree: 0, disagree: 0 };
+    if (answer === "agree") categories[theme].agree++;
+    else categories[theme].disagree++;
+  }
+
+  // Find themes user cares most about (most agree OR disagree = strong opinion)
+  const topThemes = Object.entries(categories)
+    .sort((a, b) => (b[1].agree + b[1].disagree) - (a[1].agree + a[1].disagree))
+    .slice(0, 4)
+    .map(([theme]) => theme);
+
+  // Calculate overall agree ratio
+  const totalAgree = Object.values(categories).reduce((s, c) => s + c.agree, 0);
+  const totalDisagree = Object.values(categories).reduce((s, c) => s + c.disagree, 0);
+  const total = totalAgree + totalDisagree;
+  const agreeRatio = total > 0 ? totalAgree / total : 0.5;
+
+  // Generate stance description
+  let stance: string;
+  if (locale === "en") {
+    if (agreeRatio > 0.7) stance = "You tend to agree with most proposals — you're open to change and new policies.";
+    else if (agreeRatio > 0.55) stance = "You have a moderate stance — you agree with some proposals and disagree with others.";
+    else if (agreeRatio > 0.4) stance = "You're balanced — you carefully weigh each issue on its merits.";
+    else stance = "You tend to disagree with most proposals — you prefer the current approach on many issues.";
+  } else {
+    if (agreeRatio > 0.7) stance = "Je bent het vaak eens met voorstellen — je staat open voor verandering en nieuw beleid.";
+    else if (agreeRatio > 0.55) stance = "Je hebt een gematigd standpunt — je bent het met sommige voorstellen eens en met andere oneens.";
+    else if (agreeRatio > 0.4) stance = "Je bent evenwichtig — je weegt elk onderwerp zorgvuldig af.";
+    else stance = "Je bent het vaak oneens met voorstellen — je geeft de voorkeur aan de huidige aanpak.";
+  }
+
+  const summary = locale === "en"
+    ? `You have strong opinions on ${topThemes.slice(0, 3).join(", ")}. ${stance}`
+    : `Je hebt sterke meningen over ${topThemes.slice(0, 3).join(", ")}. ${stance}`;
+
+  return { summary, topThemes, stance };
+}
