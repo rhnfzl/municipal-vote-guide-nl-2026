@@ -1,18 +1,21 @@
 "use client";
 
-import { usePathname } from "next/navigation";
+import { usePathname, useSearchParams } from "next/navigation";
+import { Link } from "@/i18n/navigation";
 
 export function LanguageToggle({ locale }: { locale: string }) {
   const pathname = usePathname();
+  const searchParams = useSearchParams();
 
-  // Replace the locale prefix in the current path
-  // /en/s-hertogenbosch/questionnaire → /nl/s-hertogenbosch/questionnaire
-  function getLocalePath(targetLocale: string) {
-    if (!pathname) return `/${targetLocale}`;
-    // Remove current locale prefix and add new one
-    const pathWithoutLocale = pathname.replace(/^\/(en|nl)/, "");
-    return `/${targetLocale}${pathWithoutLocale}`;
+  // Build path without locale prefix (next-intl Link adds it via locale prop)
+  // Also preserves search params (?q=5, ?ref=xxx)
+  function getHref() {
+    const pathWithoutLocale = (pathname || "").replace(/^\/(en|nl)/, "") || "/";
+    const search = searchParams.toString();
+    return `${pathWithoutLocale}${search ? `?${search}` : ""}`;
   }
+
+  const href = getHref();
 
   return (
     <div
@@ -20,8 +23,9 @@ export function LanguageToggle({ locale }: { locale: string }) {
       role="group"
       aria-label="Language"
     >
-      <a
-        href={getLocalePath("en")}
+      <Link
+        href={href}
+        locale="en"
         className={`flex items-center gap-1.5 px-3 py-1.5 text-sm font-semibold transition-colors ${
           locale === "en"
             ? "bg-blue-600 text-white"
@@ -38,9 +42,10 @@ export function LanguageToggle({ locale }: { locale: string }) {
           <path d="M30,0v30M0,15h60" stroke="#C8102E" strokeWidth="6" />
         </svg>
         EN
-      </a>
-      <a
-        href={getLocalePath("nl")}
+      </Link>
+      <Link
+        href={href}
+        locale="nl"
         className={`flex items-center gap-1.5 px-3 py-1.5 text-sm font-semibold transition-colors border-l border-gray-200 dark:border-gray-700 ${
           locale === "nl"
             ? "bg-blue-600 text-white"
@@ -55,7 +60,7 @@ export function LanguageToggle({ locale }: { locale: string }) {
           <rect y="4" width="9" height="2" fill="#21468B" />
         </svg>
         NL
-      </a>
+      </Link>
     </div>
   );
 }

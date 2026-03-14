@@ -284,24 +284,238 @@ function main() {
     "utf-8"
   );
 
-  // National stats
+  // National stats - Pass 1: basic counts
   const themeCount: Record<string, number> = {};
   const partyCount: Record<string, number> = {};
+  const uniquePartyNames = new Set<string>();
+  let totalIncumbents = 0;
+  let totalParties = 0;
+  let maxChallengers = { name: "", slug: "", count: 0 };
+
+  // Pass 2: deep analysis accumulators
+  // Theme -> municipality name (for finding unique themes)
+  const themeMunicipality: Record<string, string[]> = {};
+  // Per-theme position tallies across all municipalities
+  const themePositions: Record<string, { agree: number; disagree: number; neither: number }> = {};
+  // Track best fence-sitter, political twins, harmonious/divided municipalities
+  let biggestFenceSitter = { party: "", municipality: "", neitherPct: 0 };
+  let neverNeutralCount = 0;
+  let politicalTwins = { municipality: "", partyA: "", partyB: "", agreePct: 0 };
+  let mostHarmonious = { name: "", avgAgreePct: 0 };
+  let mostDivided = { name: "", avgAgreePct: 100 };
+  let unanimousExample = { municipality: "", theme: "", partyCount: 0 };
+  let wordiestParty = { party: "", municipality: "", avgWords: 0 };
+  let mostThemesCovered = { name: "", themeCount: 0 };
+
   for (const entry of municipalityIndex) {
     const nlPath = path.join(MUNI_OUT_DIR, entry.slug, "nl.json");
     const data = JSON.parse(fs.readFileSync(nlPath, "utf-8"));
+
+    // Basic counts
+    const themes = new Set<string>();
     for (const s of data.statements) {
       themeCount[s.theme] = (themeCount[s.theme] || 0) + 1;
+      if (!themeMunicipality[s.theme]) themeMunicipality[s.theme] = [];
+      themeMunicipality[s.theme].push(entry.name);
+      themes.add(s.theme);
     }
+
+    // Most themes covered
+    if (themes.size > mostThemesCovered.themeCount) {
+      mostThemesCovered = { name: entry.name, themeCount: themes.size };
+    }
+
+    let muniIncumbents = 0;
     for (const p of data.parties) {
       partyCount[p.name] = (partyCount[p.name] || 0) + 1;
+      uniquePartyNames.add(p.name);
+      totalParties++;
+      if (p.hasSeats) {
+        muniIncumbents++;
+        totalIncumbents++;
+      }
+    }
+    const challengers = data.parties.length - muniIncumbents;
+    if (challengers > maxChallengers.count) {
+      maxChallengers = { name: entry.name, slug: entry.slug, count: challengers };
+    }
+
+    // Deep analysis: party positions
+    const partyPositionVectors: Array<{ name: string; positions: Record<number, string> }> = [];
+
+    for (const p of data.parties) {
+      const positions = p.positions as Record<string, { position: string; explanation: string }>;
+      let agreeCount = 0, disagreeCount = 0, neitherCount = 0;
+      let totalWords = 0;
+      let explanationCount = 0;
+      const posVector: Record<number, string> = {};
+
+      for (const [stmtId, pos] of Object.entries(positions)) {
+        posVector[Number(stmtId)] = pos.position;
+        if (pos.position === "agree") agreeCount++;
+        else if (pos.position === "disagree") disagreeCount++;
+        else neitherCount++;
+        if (pos.explanation) {
+          totalWords += pos.explanation.split(/\s+/).length;
+          explanationCount++;
+        }
+      }
+
+      partyPositionVectors.push({ name: p.name, positions: posVector });
+
+      // Fence-sitter: highest neither % (require 15+ positions, exclude all-neither)
+      const totalPos = agreeCount + disagreeCount + neitherCount;
+      if (totalPos >= 15) {
+        const neitherPct = Math.round((neitherCount / totalPos) * 100);
+        if (neitherPct > biggestFenceSitter.neitherPct && neitherPct < 100) {
+          biggestFenceSitter = { party: p.name, municipality: entry.name, neitherPct };
+        }
+        // Never neutral
+        if (neitherCount === 0) {
+          neverNeutralCount++;
+        }
+      }
+
+      // Wordiest party
+      if (explanationCount > 0) {
+        const avgWords = Math.round(totalWords / explanationCount);
+        if (avgWords > wordiestParty.avgWords) {
+          wordiestParty = { party: p.name, municipality: entry.name, avgWords };
+        }
+      }
+    }
+
+    // Per-statement analysis: unanimity + theme positions
+    for (const s of data.statements) {
+      let sAgree = 0, sDisagree = 0, sNeither = 0;
+      for (const p of data.parties) {
+        const pos = (p.positions as Record<string, { position: string }>)[String(s.id)];
+        if (!pos) continue;
+        if (pos.position === "agree") sAgree++;
+        else if (pos.position === "disagree") sDisagree++;
+        else sNeither++;
+      }
+
+      // Accumulate theme-level positions
+      if (!themePositions[s.theme]) themePositions[s.theme] = { agree: 0, disagree: 0, neither: 0 };
+      themePositions[s.theme].agree += sAgree;
+      themePositions[s.theme].disagree += sDisagree;
+      themePositions[s.theme].neither += sNeither;
+
+      // Check unanimity (all parties agree or all disagree, require 6+ parties)
+      const total = sAgree + sDisagree + sNeither;
+      if (total >= 6 && (sAgree === total || sDisagree === total)) {
+        if (total > unanimousExample.partyCount) {
+          unanimousExample = { municipality: entry.name, theme: s.theme, partyCount: total };
+        }
+      }
+    }
+
+    // Pairwise agreement analysis
+    if (partyPositionVectors.length >= 2) {
+      let totalPairAgreement = 0;
+      let pairCount = 0;
+
+      for (let i = 0; i < partyPositionVectors.length; i++) {
+        for (let j = i + 1; j < partyPositionVectors.length; j++) {
+          const a = partyPositionVectors[i];
+          const b = partyPositionVectors[j];
+          let matches = 0, compared = 0;
+
+          // Only compare statements both parties answered
+          for (const stmtId of Object.keys(a.positions)) {
+            if (b.positions[Number(stmtId)]) {
+              compared++;
+              if (a.positions[Number(stmtId)] === b.positions[Number(stmtId)]) matches++;
+            }
+          }
+
+          if (compared >= 20) {
+            const agreePct = Math.round((matches / compared) * 100);
+            totalPairAgreement += agreePct;
+            pairCount++;
+
+            // Political twins (skip perfect 100% which are usually edge cases)
+            if (agreePct > politicalTwins.agreePct && agreePct < 100) {
+              politicalTwins = { municipality: entry.name, partyA: a.name, partyB: b.name, agreePct };
+            }
+          }
+        }
+      }
+
+      if (pairCount > 0) {
+        const avgPairAgreement = Math.round(totalPairAgreement / pairCount);
+        if (avgPairAgreement > mostHarmonious.avgAgreePct) {
+          mostHarmonious = { name: entry.name, avgAgreePct: avgPairAgreement };
+        }
+        if (avgPairAgreement < mostDivided.avgAgreePct) {
+          mostDivided = { name: entry.name, avgAgreePct: avgPairAgreement };
+        }
+      }
     }
   }
+
+  // Post-processing: find unique themes (appear in only 1 municipality)
+  const uniqueThemes = Object.entries(themeMunicipality)
+    .filter(([, munis]) => munis.length === 1)
+    .map(([theme, munis]) => ({ theme, municipality: munis[0] }))
+    .slice(0, 5);
+
+  // Most divisive topic: closest to 50/50 agree/disagree split
+  let mostDivisiveTopic = { theme: "", agreePct: 0, disagreePct: 0 };
+  let smallestDivisiveGap = 100;
+  for (const [theme, pos] of Object.entries(themePositions)) {
+    const total = pos.agree + pos.disagree + pos.neither;
+    if (total < 50) continue; // skip rare themes
+    const aPct = Math.round((pos.agree / total) * 100);
+    const dPct = Math.round((pos.disagree / total) * 100);
+    const gap = Math.abs(aPct - dPct);
+    if (gap < smallestDivisiveGap) {
+      smallestDivisiveGap = gap;
+      mostDivisiveTopic = { theme, agreePct: aPct, disagreePct: dPct };
+    }
+  }
+
+  // Top party missing: find municipalities without the #1 party
+  const topPartyEntries = Object.entries(partyCount).sort((a, b) => b[1] - a[1]);
+  const topPartyName = topPartyEntries[0]?.[0] || "";
+  const topPartyPresentIn = topPartyEntries[0]?.[1] || 0;
+  const allMuniNames = new Set(municipalityIndex.map((m) => m.name));
+  const muniWithTopParty = new Set<string>();
+  for (const entry of municipalityIndex) {
+    const nlPath = path.join(MUNI_OUT_DIR, entry.slug, "nl.json");
+    const data = JSON.parse(fs.readFileSync(nlPath, "utf-8"));
+    for (const p of data.parties) {
+      if (p.name === topPartyName) muniWithTopParty.add(entry.name);
+    }
+  }
+  const topPartyMissingIn = [...allMuniNames].filter((n) => !muniWithTopParty.has(n));
+
+  // Local parties: appear in only 1 municipality
+  const localPartyCount = Object.values(partyCount).filter((c) => c === 1).length;
 
   const nationalStats = {
     totalMunicipalities: municipalityIndex.length,
     withOfficialEnglish: municipalityIndex.filter((m) => m.hasOfficialEnglish)
       .length,
+    totalUniqueParties: uniquePartyNames.size,
+    totalPartyEntries: totalParties,
+    totalIncumbents,
+    avgIncumbencyPct: Math.round((totalIncumbents / totalParties) * 100),
+    maxChallengers,
+    // Deep analysis results
+    unanimousExample,
+    mostDivisiveTopic,
+    biggestFenceSitter,
+    neverNeutralCount,
+    politicalTwins,
+    mostHarmonious,
+    mostDivided,
+    uniqueThemes,
+    topPartyMissing: { party: topPartyName, presentIn: topPartyPresentIn, missingIn: topPartyMissingIn },
+    localPartyCount,
+    wordiestParty,
+    mostThemesCovered,
     topThemes: Object.entries(themeCount)
       .sort((a, b) => b[1] - a[1])
       .slice(0, 30),

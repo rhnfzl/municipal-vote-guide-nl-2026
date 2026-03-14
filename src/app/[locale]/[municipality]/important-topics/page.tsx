@@ -97,7 +97,10 @@ export default function ImportantTopicsPage() {
           <Button
             size="lg"
             className="rounded-xl bg-amber-600 text-white hover:bg-amber-700 px-8"
-            onClick={() => router.push(`/${locale}/${slug}/questionnaire`)}
+            onClick={() => {
+              const savedIdx = sessionStorage.getItem(`vg-${slug}-index`);
+              router.push(`/${locale}/${slug}/questionnaire?q=${savedIdx || "0"}`);
+            }}
           >
             {t("goBack")}
           </Button>

@@ -21,6 +21,23 @@ import {
 interface NationalStats {
   totalMunicipalities: number;
   withOfficialEnglish: number;
+  totalUniqueParties: number;
+  totalPartyEntries: number;
+  totalIncumbents: number;
+  avgIncumbencyPct: number;
+  maxChallengers: { name: string; slug: string; count: number };
+  unanimousExample: { municipality: string; theme: string; partyCount: number };
+  mostDivisiveTopic: { theme: string; agreePct: number; disagreePct: number };
+  biggestFenceSitter: { party: string; municipality: string; neitherPct: number };
+  neverNeutralCount: number;
+  politicalTwins: { municipality: string; partyA: string; partyB: string; agreePct: number };
+  mostHarmonious: { name: string; avgAgreePct: number };
+  mostDivided: { name: string; avgAgreePct: number };
+  uniqueThemes: Array<{ theme: string; municipality: string }>;
+  topPartyMissing: { party: string; presentIn: number; missingIn: string[] };
+  localPartyCount: number;
+  wordiestParty: { party: string; municipality: string; avgWords: number };
+  mostThemesCovered: { name: string; themeCount: number };
   topThemes: [string, number][];
   topParties: [string, number][];
 }
@@ -71,23 +88,106 @@ export default function ExplorePage() {
     const mostParties = sortedByParties[0];
     const fewestParties = sortedByParties[sortedByParties.length - 1];
     const sortedByStmts = [...municipalities].sort((a, b) => b.numStatements - a.numStatements);
-    const mostStatements = sortedByStmts[0];
     const fewestStatements = sortedByStmts[sortedByStmts.length - 1];
     const avgParties = Math.round(municipalities.reduce((s, m) => s + m.numParties, 0) / municipalities.length);
     const avgStatements = Math.round(municipalities.reduce((s, m) => s + m.numStatements, 0) / municipalities.length);
+    const maxStmtCount = municipalities.filter((m) => m.numStatements === 30).length;
 
     if (mostParties) facts.push(t("funFactMostParties", { name: mostParties.name, count: mostParties.numParties }));
     if (fewestParties) facts.push(t("funFactFewestParties", { name: fewestParties.name, count: fewestParties.numParties }));
     if (stats.topThemes[0]) facts.push(t("funFactTopTheme", { theme: translateTheme(stats.topThemes[0][0], locale), count: stats.topThemes[0][1] }));
     if (fewestStatements) facts.push(t("funFactFewestStatements", { name: fewestStatements.name, count: fewestStatements.numStatements }));
 
-    // Extra facts
+    // Average stats
     facts.push(locale === "en"
       ? `Average municipality has ${avgParties} parties and ${avgStatements} statements`
       : `Gemiddelde gemeente heeft ${avgParties} partijen en ${avgStatements} stellingen`);
-    if (mostStatements) facts.push(locale === "en"
-      ? `${mostStatements.name} has the most statements (${mostStatements.numStatements})`
-      : `${mostStatements.name} heeft de meeste stellingen (${mostStatements.numStatements})`);
+
+    // Tier 1 fun facts (from index + basic stats)
+    if (stats.withOfficialEnglish > 0) {
+      facts.push(t("funFactEnglish", { count: stats.withOfficialEnglish }));
+    }
+    if (stats.topParties[0]) {
+      facts.push(t("funFactTopParty", { party: stats.topParties[0][0], count: stats.topParties[0][1], total: stats.totalMunicipalities }));
+    }
+    if (maxStmtCount > 0) {
+      facts.push(t("funFactMaxStatements", { count: maxStmtCount }));
+    }
+    if (stats.totalUniqueParties) {
+      facts.push(t("funFactUniqueParties", { count: stats.totalUniqueParties }));
+    }
+    if (stats.maxChallengers?.name) {
+      facts.push(t("funFactChallengers", { name: stats.maxChallengers.name, count: stats.maxChallengers.count }));
+    }
+    if (stats.avgIncumbencyPct) {
+      facts.push(t("funFactIncumbency", { pct: stats.avgIncumbencyPct }));
+    }
+
+    // Tier 2 fun facts (from deep analysis)
+    if (stats.unanimousExample?.municipality) {
+      facts.push(t("funFactUnanimous", {
+        municipality: stats.unanimousExample.municipality,
+        count: stats.unanimousExample.partyCount,
+        theme: translateTheme(stats.unanimousExample.theme, locale),
+      }));
+    }
+    if (stats.mostDivisiveTopic?.theme) {
+      facts.push(t("funFactDivisive", {
+        theme: translateTheme(stats.mostDivisiveTopic.theme, locale),
+        agreePct: stats.mostDivisiveTopic.agreePct,
+        disagreePct: stats.mostDivisiveTopic.disagreePct,
+      }));
+    }
+    if (stats.biggestFenceSitter?.party) {
+      facts.push(t("funFactFenceSitter", {
+        party: stats.biggestFenceSitter.party,
+        municipality: stats.biggestFenceSitter.municipality,
+        pct: stats.biggestFenceSitter.neitherPct,
+      }));
+    }
+    if (stats.neverNeutralCount > 0) {
+      facts.push(t("funFactNeverNeutral", { count: stats.neverNeutralCount }));
+    }
+    if (stats.politicalTwins?.municipality) {
+      facts.push(t("funFactTwins", {
+        municipality: stats.politicalTwins.municipality,
+        partyA: stats.politicalTwins.partyA,
+        partyB: stats.politicalTwins.partyB,
+        pct: stats.politicalTwins.agreePct,
+      }));
+    }
+    if (stats.mostHarmonious?.name) {
+      facts.push(t("funFactHarmonious", { name: stats.mostHarmonious.name, pct: stats.mostHarmonious.avgAgreePct }));
+    }
+    if (stats.mostDivided?.name) {
+      facts.push(t("funFactDivided", { name: stats.mostDivided.name, pct: stats.mostDivided.avgAgreePct }));
+    }
+    if (stats.uniqueThemes?.[0]) {
+      facts.push(t("funFactUniqueTheme", {
+        theme: translateTheme(stats.uniqueThemes[0].theme, locale),
+        municipality: stats.uniqueThemes[0].municipality,
+      }));
+    }
+    if (stats.topPartyMissing?.party) {
+      facts.push(t("funFactTopPartyMissing", {
+        party: stats.topPartyMissing.party,
+        count: stats.topPartyMissing.presentIn,
+        missingCount: stats.topPartyMissing.missingIn.length,
+      }));
+    }
+    if (stats.localPartyCount > 0) {
+      facts.push(t("funFactLocalParties", { count: stats.localPartyCount, total: stats.totalUniqueParties }));
+    }
+    if (stats.wordiestParty?.party) {
+      facts.push(t("funFactWordiest", {
+        party: stats.wordiestParty.party,
+        municipality: stats.wordiestParty.municipality,
+        count: stats.wordiestParty.avgWords,
+      }));
+    }
+    if (stats.mostThemesCovered?.name) {
+      facts.push(t("funFactMostThemes", { name: stats.mostThemesCovered.name, count: stats.mostThemesCovered.themeCount }));
+    }
 
     return facts;
   }, [municipalities, stats, t, locale]);

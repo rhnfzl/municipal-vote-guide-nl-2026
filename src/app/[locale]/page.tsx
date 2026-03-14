@@ -98,6 +98,10 @@ export default function HomePage() {
             autoFocus
           />
         </div>
+
+        <p className="mt-3 text-xs text-gray-400 dark:text-gray-500">
+          {t("home.coverage", { covered: municipalities.length || 258, total: 340 })}
+        </p>
       </div>
 
       {/* Section header */}

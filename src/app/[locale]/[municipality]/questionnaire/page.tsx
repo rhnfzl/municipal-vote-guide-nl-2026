@@ -5,17 +5,14 @@ import { useEffect, useState, useCallback, useMemo } from "react";
 import { useParams, useRouter, useSearchParams } from "next/navigation";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
-import { Badge } from "@/components/ui/badge";
-// Switch removed - dealbreaker replaced by Important Topics step
 import { Skeleton } from "@/components/ui/skeleton";
-import { Separator } from "@/components/ui/separator";
 import type { MunicipalityData, UserAnswer, Statement } from "@/lib/types";
 import { PartyAvatar } from "@/components/party-avatar";
 import { GlossaryTitle } from "@/components/glossary-title";
 import {
   MdThumbUp, MdThumbDown, MdRemove, MdChat, MdMenuBook,
-  MdBalance, MdFlag, MdArrowBack, MdSkipNext, MdClose,
-  MdCheckCircle, MdCancel, MdInfo,
+  MdBalance, MdArrowBack, MdClose,
+  MdCheckCircle, MdCancel,
 } from "@/components/icons";
 
 type InfoTab = "parties" | "moreInfo" | "arguments" | null;
@@ -74,15 +71,36 @@ export default function QuestionnairePage() {
   const [answers, setAnswers] = useState<Record<number, UserAnswer>>({});
   const [activeTab, setActiveTab] = useState<InfoTab>(null);
   const [loading, setLoading] = useState(true);
-  const [animating, setAnimating] = useState(false);
+
+  // Update both React state and URL when changing question
+  const setQuestion = useCallback((newIdx: number) => {
+    setCurrentIdx(newIdx);
+    setActiveTab(null);
+    const url = new URL(window.location.href);
+    url.searchParams.set("q", String(newIdx));
+    window.history.replaceState(null, "", url.toString());
+  }, []);
 
   useEffect(() => {
-    const completed = sessionStorage.getItem(`vg-${slug}-completed`);
     const savedAnswers = sessionStorage.getItem(`vg-${slug}-answers`);
-    const savedIdx = sessionStorage.getItem(`vg-${slug}-index`);
+    const qParam = new URLSearchParams(window.location.search).get("q");
 
-    if (completed || !savedAnswers) {
-      // Fresh start: first visit or returning after completing the questionnaire
+    if (qParam !== null && savedAnswers) {
+      // Resume: language switch (URL has ?q from LanguageToggle) or page refresh
+      sessionStorage.removeItem(`vg-${slug}-completed`);
+      setAnswers(JSON.parse(savedAnswers));
+      const savedIdx = sessionStorage.getItem(`vg-${slug}-index`);
+      const resumeIdx = parseInt(qParam, 10) || (savedIdx ? parseInt(savedIdx) : 0);
+      setCurrentIdx(resumeIdx);
+      // Sync URL
+      const url = new URL(window.location.href);
+      url.searchParams.set("q", String(resumeIdx));
+      window.history.replaceState(null, "", url.toString());
+    } else {
+      // Fresh start: first visit, revisit from homepage, or after "Start Over"
+      // Reset React state (needed when Next.js Router Cache restores stale component state)
+      setCurrentIdx(0);
+      setAnswers({});
       sessionStorage.removeItem(`vg-${slug}-answers`);
       sessionStorage.removeItem(`vg-${slug}-index`);
       sessionStorage.removeItem(`vg-${slug}-completed`);
@@ -94,10 +112,12 @@ export default function QuestionnairePage() {
       localStorage.removeItem(`vg-${slug}-index`);
 
       sessionStorage.setItem(`vg-${slug}-startTime`, String(Date.now()));
-    } else {
-      // Resume: language switch or back-navigation while in progress
-      setAnswers(JSON.parse(savedAnswers));
-      if (savedIdx) setCurrentIdx(parseInt(savedIdx));
+      // Clear stale ?q param
+      if (qParam !== null) {
+        const url = new URL(window.location.href);
+        url.searchParams.delete("q");
+        window.history.replaceState(null, "", url.toString());
+      }
     }
 
     const primary = locale === "en" ? "en" : "nl";
@@ -120,18 +140,9 @@ export default function QuestionnairePage() {
       .catch(() => {}); // silently fail if no translation available
   }, [slug, locale]);
 
-  // Auto-save answers and index to sessionStorage so language switches preserve progress
-  useEffect(() => {
-    if (Object.keys(answers).length > 0) {
-      sessionStorage.setItem(`vg-${slug}-answers`, JSON.stringify(answers));
-      sessionStorage.setItem(`vg-${slug}-index`, String(currentIdx));
-    }
-  }, [answers, currentIdx, slug]);
-
   const statements = data?.statements || [];
   const current: Statement | undefined = statements[currentIdx];
   const answeredCount = Object.keys(answers).length;
-  // Progress based on current question index (not answered count - that includes skipped revisits)
   const progress = statements.length ? Math.round(((currentIdx) / statements.length) * 100) : 0;
 
   // Party positions for current statement
@@ -152,48 +163,28 @@ export default function QuestionnairePage() {
     return { agree, disagree, neither };
   }, [data, current]);
 
-  const goToNextStep = useCallback(() => {
-    // Save answers and mark as completed
-    sessionStorage.setItem(`vg-${slug}-answers`, JSON.stringify(answers));
-    sessionStorage.setItem(`vg-${slug}-completed`, "true");
-    // Forward friend ref param through the flow
-    if (friendRef) sessionStorage.setItem(`vg-${slug}-friendRef`, friendRef);
-    router.push(`/${locale}/${slug}/important-topics`);
-  }, [answers, slug, locale, router, friendRef]);
-
-  const goNext = useCallback(() => {
-    setAnimating(true);
-    setActiveTab(null);
-    setTimeout(() => {
-      if (currentIdx < statements.length - 1) {
-        setCurrentIdx((i) => i + 1);
-      } else {
-        // Last question answered → auto-navigate to next step
-        goToNextStep();
-      }
-      setAnimating(false);
-    }, 150);
-  }, [currentIdx, statements.length, goToNextStep]);
-
   const answer = useCallback(
     (value: UserAnswer) => {
       if (!current) return;
       const newAnswers = { ...answers, [current.id]: value };
       setAnswers(newAnswers);
+      // Save answers immediately to sessionStorage
+      sessionStorage.setItem(`vg-${slug}-answers`, JSON.stringify(newAnswers));
 
-      // Check if this was the last question
       if (currentIdx >= statements.length - 1) {
-        // Save and auto-navigate
-        sessionStorage.setItem(`vg-${slug}-answers`, JSON.stringify(newAnswers));
-        setAnimating(true);
-        setTimeout(() => {
-          router.push(`/${locale}/${slug}/important-topics`);
-        }, 200);
+        // Last question — save and navigate to next step
+        sessionStorage.setItem(`vg-${slug}-completed`, "true");
+        sessionStorage.setItem(`vg-${slug}-index`, String(currentIdx));
+        if (friendRef) sessionStorage.setItem(`vg-${slug}-friendRef`, friendRef);
+        router.push(`/${locale}/${slug}/important-topics`);
       } else {
-        goNext();
+        // Advance to next question (synchronous — no setTimeout)
+        const nextIdx = currentIdx + 1;
+        sessionStorage.setItem(`vg-${slug}-index`, String(nextIdx));
+        setQuestion(nextIdx);
       }
     },
-    [current, currentIdx, statements.length, answers, goNext, slug, locale, router]
+    [current, currentIdx, statements.length, answers, setQuestion, slug, locale, router, friendRef]
   );
 
   if (loading) {
@@ -237,9 +228,9 @@ export default function QuestionnairePage() {
         <button
           onClick={() => {
             if (currentIdx > 0) {
-              setAnimating(true);
-              setActiveTab(null);
-              setTimeout(() => { setCurrentIdx((i) => i - 1); setAnimating(false); }, 150);
+              const prevIdx = currentIdx - 1;
+              sessionStorage.setItem(`vg-${slug}-index`, String(prevIdx));
+              setQuestion(prevIdx);
             } else {
               router.push(`/${locale}`);
             }
@@ -262,11 +253,10 @@ export default function QuestionnairePage() {
         />
       </div>
 
-      {/* Question Card */}
+      {/* Question Card — key forces remount on index change, triggering CSS entry animation */}
       <Card
-        className={`overflow-hidden rounded-2xl border-0 bg-white shadow-lg transition-all duration-200 dark:bg-gray-900 ${
-          animating ? "scale-[0.97] opacity-70" : "scale-100 opacity-100"
-        }`}
+        key={currentIdx}
+        className="overflow-hidden rounded-2xl border-0 bg-white shadow-lg dark:bg-gray-900 animate-[fadeScaleIn_200ms_ease-out]"
       >
         <CardContent className="space-y-4 p-6 sm:p-8">
           {/* Theme */}

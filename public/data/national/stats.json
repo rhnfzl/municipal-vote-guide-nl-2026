@@ -1,6 +1,94 @@
 {
   "totalMunicipalities": 258,
   "withOfficialEnglish": 5,
+  "totalUniqueParties": 864,
+  "totalPartyEntries": 2309,
+  "totalIncumbents": 1972,
+  "avgIncumbencyPct": 85,
+  "maxChallengers": {
+    "name": "Amsterdam",
+    "slug": "amsterdam",
+    "count": 21
+  },
+  "unanimousExample": {
+    "municipality": "Boxtel",
+    "theme": "Onderwijs",
+    "partyCount": 7
+  },
+  "mostDivisiveTopic": {
+    "theme": "Zorgkeuze",
+    "agreePct": 43,
+    "disagreePct": 43
+  },
+  "biggestFenceSitter": {
+    "party": "BBV",
+    "municipality": "Vijfheerenlanden",
+    "neitherPct": 64
+  },
+  "neverNeutralCount": 571,
+  "politicalTwins": {
+    "municipality": "'s-Hertogenbosch",
+    "partyA": "GROENLINKS / Partij van de Arbeid",
+    "partyB": "SP (Socialistische Partij) ",
+    "agreePct": 93
+  },
+  "mostHarmonious": {
+    "name": "'s-Hertogenbosch",
+    "avgAgreePct": 63
+  },
+  "mostDivided": {
+    "name": "Beesel",
+    "avgAgreePct": 17
+  },
+  "uniqueThemes": [
+    {
+      "theme": "Klimaatbeleid",
+      "municipality": "Groningen"
+    },
+    {
+      "theme": "Aardbevingsschade",
+      "municipality": "Groningen"
+    },
+    {
+      "theme": "Subsidies erfgoed",
+      "municipality": "Groningen"
+    },
+    {
+      "theme": "Integratie met een Stadjerspas",
+      "municipality": "Groningen"
+    },
+    {
+      "theme": "Extra geld zorg",
+      "municipality": "Groningen"
+    }
+  ],
+  "topPartyMissing": {
+    "party": "CDA",
+    "presentIn": 247,
+    "missingIn": [
+      "Zeewolde",
+      "Hardenberg",
+      "Hengelo (O.)",
+      "Druten",
+      "Heerde",
+      "Diemen",
+      "Tytsjerksteradiel",
+      "Stein (L.)",
+      "Gulpen-Wittem",
+      "Neder-Betuwe",
+      "Montferland"
+    ]
+  },
+  "localPartyCount": 804,
+  "wordiestParty": {
+    "party": "FvD",
+    "municipality": "Rotterdam",
+    "avgWords": 92
+  },
+  "mostThemesCovered": {
+    "name": "Groningen",
+    "themeCount": 30
+  },
   "topThemes": [
     [
       "Cameratoezicht",
