@@ -10,6 +10,10 @@ import { searchWithAliases } from "@/lib/municipality-aliases";
 import { MdLightbulb, MdChevronRight } from "@/components/icons";
 import { MunicipalityAvatar } from "@/components/municipality-avatar";
 import { translateTheme } from "@/lib/theme-translations";
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
+import { TopicMap } from "@/components/topic-map";
+import { TopicHierarchy } from "@/components/topic-hierarchy";
+import { TopicNetwork } from "@/components/topic-network";
 import {
   BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, Cell,
 } from "recharts";
@@ -150,6 +154,36 @@ export default function ExplorePage() {
               </BarChart>
             </ResponsiveContainer>
           </div>
+        </CardContent>
+      </Card>
+
+      {/* Topic Modeling Visualizations */}
+      <Card className="overflow-hidden rounded-2xl border-0 shadow-md">
+        <CardContent className="p-5 space-y-4">
+          <h2 className="text-lg font-semibold">
+            {locale === "en" ? "Topic Analysis (AI-powered)" : "Thema-analyse (AI-aangedreven)"}
+          </h2>
+          <p className="text-xs text-gray-500">
+            {locale === "en"
+              ? "BERTopic machine learning analysis of 3,531 political statements across 258 municipalities. Discover patterns in Dutch municipal politics."
+              : "BERTopic machine learning analyse van 3.531 politieke stellingen over 258 gemeenten. Ontdek patronen in de Nederlandse gemeentepolitiek."}
+          </p>
+          <Tabs defaultValue="map">
+            <TabsList className="grid grid-cols-3 w-full">
+              <TabsTrigger value="map" className="text-xs">
+                {locale === "en" ? "Topic Map" : "Thema-kaart"}
+              </TabsTrigger>
+              <TabsTrigger value="hierarchy" className="text-xs">
+                {locale === "en" ? "Topic Clusters" : "Thema-clusters"}
+              </TabsTrigger>
+              <TabsTrigger value="network" className="text-xs">
+                {locale === "en" ? "Topic Network" : "Thema-netwerk"}
+              </TabsTrigger>
+            </TabsList>
+            <TabsContent value="map"><TopicMap locale={locale} /></TabsContent>
+            <TabsContent value="hierarchy"><TopicHierarchy locale={locale} /></TabsContent>
+            <TabsContent value="network"><TopicNetwork locale={locale} /></TabsContent>
+          </Tabs>
         </CardContent>
       </Card>
 
