@@ -35,7 +35,6 @@ export function calculateMatches(
 
         totalAnswered++;
 
-        // Determine weight
         let weight = 1;
         const themeWeight = weightMap.get(stmt.themeId);
         if (themeWeight && themeWeight > 1) weight *= themeWeight;
@@ -77,8 +76,51 @@ export function calculateMatches(
       };
     })
     .sort((a, b) => {
-      if (a.isEliminated !== b.isEliminated)
-        return a.isEliminated ? 1 : -1;
+      if (a.isEliminated !== b.isEliminated) return a.isEliminated ? 1 : -1;
       return b.matchPercentage - a.matchPercentage;
     });
+}
+
+/**
+ * Generate a theme-based match summary explaining why user matches a party.
+ */
+export function generateMatchSummary(
+  data: MunicipalityData,
+  answers: Record<number, UserAnswer>,
+  partyId: number,
+  locale: string
+): { agreeThemes: string[]; disagreeThemes: string[] } {
+  const party = data.parties.find((p) => p.id === partyId);
+  if (!party) return { agreeThemes: [], disagreeThemes: [] };
+
+  const agreeByTheme: Record<string, number> = {};
+  const disagreeByTheme: Record<string, number> = {};
+
+  for (const stmt of data.statements) {
+    const userAnswer = answers[stmt.id];
+    if (!userAnswer || userAnswer === "skip") continue;
+
+    const partyPos = party.positions[stmt.id];
+    if (!partyPos) continue;
+
+    const theme = locale === "en" && stmt.themeEn ? stmt.themeEn : stmt.theme;
+
+    if (userAnswer === partyPos.position) {
+      agreeByTheme[theme] = (agreeByTheme[theme] || 0) + 1;
+    } else if (userAnswer !== "neither" && partyPos.position !== "neither") {
+      disagreeByTheme[theme] = (disagreeByTheme[theme] || 0) + 1;
+    }
+  }
+
+  const agreeThemes = Object.entries(agreeByTheme)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 4)
+    .map(([theme]) => theme);
+
+  const disagreeThemes = Object.entries(disagreeByTheme)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 3)
+    .map(([theme]) => theme);
+
+  return { agreeThemes, disagreeThemes };
 }

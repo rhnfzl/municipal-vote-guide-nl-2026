@@ -16,8 +16,7 @@ export const metadata: Metadata = {
     "Find your best party match for the 2026 Dutch municipal elections. Bilingual (NL/EN) vote matching for all 258 municipalities.",
   openGraph: {
     title: "Municipal Vote Guide NL 2026",
-    description:
-      "Find your best party match for the 2026 Dutch municipal elections.",
+    description: "Find your best party match for the 2026 Dutch municipal elections.",
     type: "website",
   },
 };
@@ -35,42 +34,80 @@ export default async function LocaleLayout({
 
   return (
     <html lang={locale} className={geist.variable} suppressHydrationWarning>
-      <body className="min-h-screen bg-white text-gray-900 antialiased dark:bg-gray-950 dark:text-gray-100">
+      <body className="min-h-screen bg-gray-50 text-gray-900 antialiased dark:bg-gray-950 dark:text-gray-100">
         <ThemeProvider>
           <NextIntlClientProvider locale={locale} messages={messages}>
-            <header className="sticky top-0 z-50 border-b border-gray-200 bg-white/80 backdrop-blur-sm dark:border-gray-800 dark:bg-gray-950/80">
+            {/* Header */}
+            <header className="sticky top-0 z-50 border-b border-gray-200/80 bg-white/90 backdrop-blur-md dark:border-gray-800/80 dark:bg-gray-950/90">
               <nav className="mx-auto flex max-w-5xl items-center justify-between px-4 py-3">
                 <a
                   href={`/${locale}`}
-                  className="text-lg font-semibold tracking-tight hover:opacity-80 transition-opacity"
+                  className="flex items-center gap-2 text-base font-bold tracking-tight text-gray-900 hover:text-gray-700 transition-colors dark:text-gray-100 dark:hover:text-gray-300 sm:text-lg"
+                  aria-label="Home"
                 >
-                  🗳️ Vote Guide NL 2026
+                  <span className="text-xl" aria-hidden="true">🗳️</span>
+                  <span className="hidden sm:inline">Vote Guide NL 2026</span>
+                  <span className="sm:hidden">VG NL 2026</span>
                 </a>
-                <div className="flex items-center gap-2">
+
+                <div className="flex items-center gap-1.5 sm:gap-2">
+                  {/* Explore link */}
                   <a
                     href={`/${locale}/explore`}
-                    className="hidden sm:inline-flex rounded-md px-3 py-1.5 text-sm font-medium text-gray-600 transition-colors hover:bg-gray-100 hover:text-gray-900 dark:text-gray-400 dark:hover:bg-gray-800 dark:hover:text-gray-100"
+                    className="rounded-lg px-2.5 py-1.5 text-sm font-medium text-gray-600 transition-colors hover:bg-gray-100 hover:text-gray-900 dark:text-gray-400 dark:hover:bg-gray-800 dark:hover:text-gray-100"
                   >
                     {locale === "en" ? "Explore" : "Verkennen"}
                   </a>
-                  <a
-                    href={locale === "en" ? `/nl${typeof globalThis !== "undefined" && "location" in globalThis ? "" : ""}` : `/en`}
-                    className="rounded-md border border-gray-300 px-3 py-1.5 text-sm font-medium transition-colors hover:bg-gray-100 dark:border-gray-700 dark:hover:bg-gray-800"
-                  >
-                    {locale === "en" ? "🇳🇱 NL" : "🇬🇧 EN"}
-                  </a>
+
+                  {/* Language Toggle — Both flags always visible */}
+                  <div className="flex rounded-lg border border-gray-200 overflow-hidden dark:border-gray-700" role="group" aria-label="Language">
+                    <a
+                      href="/en"
+                      className={`flex items-center gap-1 px-2.5 py-1.5 text-sm font-medium transition-colors ${
+                        locale === "en"
+                          ? "bg-blue-50 text-blue-700 dark:bg-blue-950 dark:text-blue-300"
+                          : "text-gray-500 hover:bg-gray-50 dark:text-gray-400 dark:hover:bg-gray-800"
+                      }`}
+                      aria-current={locale === "en" ? "true" : undefined}
+                      aria-label="English"
+                    >
+                      <span className="text-base" aria-hidden="true">🇬🇧</span>
+                      <span className="hidden sm:inline">EN</span>
+                    </a>
+                    <a
+                      href="/nl"
+                      className={`flex items-center gap-1 px-2.5 py-1.5 text-sm font-medium transition-colors border-l border-gray-200 dark:border-gray-700 ${
+                        locale === "nl"
+                          ? "bg-blue-50 text-blue-700 dark:bg-blue-950 dark:text-blue-300"
+                          : "text-gray-500 hover:bg-gray-50 dark:text-gray-400 dark:hover:bg-gray-800"
+                      }`}
+                      aria-current={locale === "nl" ? "true" : undefined}
+                      aria-label="Nederlands"
+                    >
+                      <span className="text-base" aria-hidden="true">🇳🇱</span>
+                      <span className="hidden sm:inline">NL</span>
+                    </a>
+                  </div>
+
+                  {/* Dark mode */}
                   <DarkModeToggle />
                 </div>
               </nav>
             </header>
-            <main className="mx-auto max-w-5xl px-4 py-8">{children}</main>
-            <footer className="border-t border-gray-200 py-8 dark:border-gray-800">
+
+            {/* Main */}
+            <main className="mx-auto max-w-5xl px-4 py-6 sm:py-8">
+              {children}
+            </main>
+
+            {/* Footer */}
+            <footer className="mt-auto border-t border-gray-200/80 bg-white py-8 dark:border-gray-800/80 dark:bg-gray-950">
               <div className="mx-auto max-w-5xl px-4 text-center text-sm text-gray-500">
                 <p>
-                  Open source on{" "}
+                  {locale === "en" ? "Open source on" : "Open source op"}{" "}
                   <a
                     href="https://github.com/rhnfzl/municipal-vote-guide-nl-2026"
-                    className="underline hover:text-gray-900 dark:hover:text-gray-100"
+                    className="font-medium underline underline-offset-4 hover:text-gray-900 dark:hover:text-gray-100"
                     target="_blank"
                     rel="noopener"
                   >
@@ -80,8 +117,8 @@ export default async function LocaleLayout({
                 </p>
                 <p className="mt-2 text-xs text-gray-400">
                   {locale === "en"
-                    ? "This is an independent project and is not affiliated with ProDemos or StemWijzer."
-                    : "Dit is een onafhankelijk project en is niet gelieerd aan ProDemos of StemWijzer."}
+                    ? "Independent project, not affiliated with ProDemos or StemWijzer. We do not store any personal data."
+                    : "Onafhankelijk project, niet gelieerd aan ProDemos of StemWijzer. Wij slaan geen persoonlijke gegevens op."}
                 </p>
               </div>
             </footer>

@@ -10,17 +10,27 @@
     "skip": "Overslaan",
     "close": "Sluiten",
     "search": "Zoeken",
-    "loading": "Laden..."
+    "loading": "Laden...",
+    "previous": "Vorige"
+  },
+  "nav": {
+    "explore": "Verkennen",
+    "lightMode": "Licht thema",
+    "darkMode": "Donker thema"
   },
   "home": {
     "title": "In welke gemeente stem jij?",
     "subtitle": "Zoek jouw gemeente om de vragenlijst te starten",
     "searchPlaceholder": "Zoek gemeente...",
+    "searchAriaLabel": "Zoek jouw gemeente",
     "parties": "partijen",
     "questions": "stellingen",
-    "startQuestionnaire": "Start Vragenlijst",
-    "browseAll": "Bekijk alle gemeenten",
-    "electionDate": "Gemeenteraadsverkiezingen: 18 maart 2026"
+    "startQuestionnaire": "Start",
+    "browseAll": "Bekijk alle {count} gemeenten",
+    "electionDate": "Gemeenteraadsverkiezingen: 18 maart 2026",
+    "popularCities": "Populaire steden",
+    "noResults": "Geen gemeenten gevonden voor \"{query}\"",
+    "daysUntil": "Nog {days} dagen tot de verkiezingen"
   },
   "questionnaire": {
     "title": "Vragenlijst",
@@ -28,14 +38,16 @@
     "agree": "Eens",
     "disagree": "Oneens",
     "neither": "Geen van beide",
-    "skip": "Overslaan",
+    "skip": "Sla deze vraag over",
     "dealbreaker": "Dealbreaker",
     "dealBreakerTooltip": "Markeer als dealbreaker — partijen die het oneens zijn worden zwaarder bestraft of uitgesloten",
     "moreInfo": "Meer informatie",
     "proArguments": "Argumenten voor",
     "conArguments": "Argumenten tegen",
     "viewResults": "Bekijk Resultaten",
-    "progress": "{answered} van {total} beantwoord"
+    "progress": "{answered} van {total} beantwoord",
+    "previous": "Vorige",
+    "markDealbreaker": "Markeer als dealbreaker"
   },
   "results": {
     "title": "Jouw Resultaten",
@@ -51,16 +63,60 @@
     "compareParties": "Vergelijk Partijen",
     "startOver": "Opnieuw beginnen",
     "whyMatch": "Waarom match ik?",
-    "dealbreakersViolated": "Gefaald op {count} dealbreaker(s)"
+    "dealbreakersViolated": "Gefaald op {count} dealbreaker(s)",
+    "loading": "Resultaten laden...",
+    "topMatch": "Beste Match",
+    "agreeOn": "Jullie zijn het eens over: {themes}",
+    "differOn": "Jullie verschillen over: {themes}",
+    "expandDetails": "Toon vraagdetails"
+  },
+  "compare": {
+    "title": "Vergelijk Partijen",
+    "selectParties": "Selecteer tot 4 partijen ({count}/4):",
+    "allThemes": "Alle thema's",
+    "divided": "Verdeeld",
+    "addParty": "Partij toevoegen"
+  },
+  "compass": {
+    "title": "Politiek Kompas",
+    "description": "Jouw positie (blauw) vergeleken met partijen (grijs) op basis van je antwoorden.",
+    "economicLeft": "Economisch Links",
+    "economicRight": "Economisch Rechts",
+    "progressive": "Progressief",
+    "conservative": "Conservatief",
+    "you": "Jij"
+  },
+  "tuning": {
+    "title": "Stem je resultaten af",
+    "description": "Tik op een onderwerp om het gewicht te verhogen. Belangrijke onderwerpen tellen zwaarder mee.",
+    "reset": "Reset",
+    "weight": "{weight}x"
+  },
+  "explore": {
+    "title": "Verken Alle Gemeenten",
+    "subtitle": "Gegevens van {count} Nederlandse gemeenten",
+    "topThemes": "Meest Voorkomende Thema's",
+    "topParties": "Meest Voorkomende Partijen Landelijk",
+    "times": "{count}x",
+    "outOf": "{count} van {total} gemeenten",
+    "stats": "{municipalities} gemeenten · {parties} partijen · {statements} stellingen"
   },
   "share": {
     "title": "Deel Jouw Resultaten",
-    "chooseFormat": "Kies formaat voor jouw platform",
-    "story": "Story (9:16)",
+    "chooseFormat": "Download een afbeelding voor jouw platform:",
+    "story": "Stories (9:16)",
     "twitter": "Twitter/X (16:9)",
     "square": "Vierkant (1:1)",
     "linkedin": "LinkedIn (1.91:1)",
     "copyLink": "Kopieer deelbare link",
-    "copied": "Gekopieerd!"
+    "copied": "Gekopieerd!",
+    "shareNative": "Delen...",
+    "watermark": "municipal-vote-guide-nl-2026"
+  },
+  "footer": {
+    "openSource": "Open source op",
+    "github": "GitHub",
+    "electionInfo": "Gemeenteraadsverkiezingen 18 maart 2026",
+    "disclaimer": "Dit is een onafhankelijk project en is niet gelieerd aan ProDemos of StemWijzer."
   }
 }

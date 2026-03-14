@@ -10,17 +10,27 @@
     "skip": "Skip",
     "close": "Close",
     "search": "Search",
-    "loading": "Loading..."
+    "loading": "Loading...",
+    "previous": "Previous"
+  },
+  "nav": {
+    "explore": "Explore",
+    "lightMode": "Switch to light mode",
+    "darkMode": "Switch to dark mode"
   },
   "home": {
     "title": "Which municipality do you vote in?",
     "subtitle": "Search for your municipality to start the questionnaire",
     "searchPlaceholder": "Search municipality...",
+    "searchAriaLabel": "Search for your municipality",
     "parties": "parties",
     "questions": "questions",
-    "startQuestionnaire": "Start Questionnaire",
-    "browseAll": "Browse all municipalities",
-    "electionDate": "Municipal elections: March 18, 2026"
+    "startQuestionnaire": "Start",
+    "browseAll": "Browse all {count} municipalities",
+    "electionDate": "Municipal elections: March 18, 2026",
+    "popularCities": "Popular cities",
+    "noResults": "No municipalities found for \"{query}\"",
+    "daysUntil": "{days} days until election day"
   },
   "questionnaire": {
     "title": "Questionnaire",
@@ -28,14 +38,16 @@
     "agree": "Agree",
     "disagree": "Disagree",
     "neither": "Neither",
-    "skip": "Skip",
+    "skip": "Skip this question",
     "dealbreaker": "Dealbreaker",
     "dealBreakerTooltip": "Mark as dealbreaker — parties that disagree will be penalized or eliminated",
     "moreInfo": "More information",
     "proArguments": "Arguments for",
     "conArguments": "Arguments against",
     "viewResults": "View Results",
-    "progress": "{answered} of {total} answered"
+    "progress": "{answered} of {total} answered",
+    "previous": "Previous",
+    "markDealbreaker": "Mark as dealbreaker"
   },
   "results": {
     "title": "Your Results",
@@ -51,16 +63,60 @@
     "compareParties": "Compare Parties",
     "startOver": "Start Over",
     "whyMatch": "Why do I match?",
-    "dealbreakersViolated": "Failed on {count} dealbreaker(s)"
+    "dealbreakersViolated": "Failed on {count} dealbreaker(s)",
+    "loading": "Loading results...",
+    "topMatch": "Top Match",
+    "agreeOn": "You both agree on: {themes}",
+    "differOn": "You differ on: {themes}",
+    "expandDetails": "Show question details"
+  },
+  "compare": {
+    "title": "Compare Parties",
+    "selectParties": "Select up to 4 parties ({count}/4):",
+    "allThemes": "All themes",
+    "divided": "Divided",
+    "addParty": "Add party"
+  },
+  "compass": {
+    "title": "Political Compass",
+    "description": "Your position (blue) compared to parties (gray) based on your answers.",
+    "economicLeft": "Economic Left",
+    "economicRight": "Economic Right",
+    "progressive": "Progressive",
+    "conservative": "Conservative",
+    "you": "You"
+  },
+  "tuning": {
+    "title": "Tune your results",
+    "description": "Tap a topic to increase its weight. Important topics count more in your results.",
+    "reset": "Reset",
+    "weight": "{weight}x"
+  },
+  "explore": {
+    "title": "Explore All Municipalities",
+    "subtitle": "Data from {count} Dutch municipalities",
+    "topThemes": "Most Common Themes",
+    "topParties": "Most Common Parties Nationally",
+    "times": "{count}x",
+    "outOf": "{count} of {total} municipalities",
+    "stats": "{municipalities} municipalities · {parties} parties · {statements} statements"
   },
   "share": {
     "title": "Share Your Results",
-    "chooseFormat": "Choose format for your platform",
-    "story": "Story (9:16)",
+    "chooseFormat": "Download an image for your preferred platform:",
+    "story": "Stories (9:16)",
     "twitter": "Twitter/X (16:9)",
     "square": "Square (1:1)",
     "linkedin": "LinkedIn (1.91:1)",
     "copyLink": "Copy shareable link",
-    "copied": "Copied!"
+    "copied": "Copied!",
+    "shareNative": "Share...",
+    "watermark": "municipal-vote-guide-nl-2026"
+  },
+  "footer": {
+    "openSource": "Open source on",
+    "github": "GitHub",
+    "electionInfo": "Gemeenteraadsverkiezingen 18 maart 2026",
+    "disclaimer": "This is an independent project and is not affiliated with ProDemos or StemWijzer."
   }
 }
