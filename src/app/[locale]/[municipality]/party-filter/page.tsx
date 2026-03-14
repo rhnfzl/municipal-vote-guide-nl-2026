@@ -76,7 +76,10 @@ export default function PartyFilterPage() {
 
   function proceed() {
     sessionStorage.setItem(`vg-${slug}-selectedParties`, JSON.stringify([...selectedIds]));
-    router.push(`/${locale}/${slug}/results`);
+    // Forward friend comparison ref if present
+    const friendRef = sessionStorage.getItem(`vg-${slug}-friendRef`);
+    const refParam = friendRef ? `?ref=${friendRef}` : "";
+    router.push(`/${locale}/${slug}/results${refParam}`);
   }
 
   const isValid = selectedIds.size >= 3;

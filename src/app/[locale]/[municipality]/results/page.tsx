@@ -10,8 +10,9 @@ import { Skeleton } from "@/components/ui/skeleton";
 import { calculateMatches, generateMatchSummary, generatePoliticalProfile } from "@/lib/scoring";
 import { ShareResults } from "@/components/share-results";
 import { PartyAvatar } from "@/components/party-avatar";
-import { MdCheckCircle, MdCancel, MdExpandMore } from "@/components/icons";
+import { MdCheckCircle, MdCancel, MdExpandMore, MdShare } from "@/components/icons";
 import { PoliticalCompass } from "@/components/political-compass";
+import { encodeAnswers, decodeAnswers, compareAnswers } from "@/lib/share-answers";
 import type { MunicipalityData, UserAnswer, PartyMatch } from "@/lib/types";
 
 export default function ResultsPage() {
@@ -26,7 +27,10 @@ export default function ResultsPage() {
   const [data, setData] = useState<MunicipalityData | null>(null);
   const [matches, setMatches] = useState<PartyMatch[]>([]);
   const [answers, setAnswers] = useState<Record<number, UserAnswer>>({});
-  const [expanded, setExpanded] = useState<number | null>(null);
+  const [friendComparison, setFriendComparison] = useState<{
+    agreed: number; disagreed: number; agreementPercentage: number; totalCompared: number;
+  } | null>(null);
+  const [friendLinkCopied, setFriendLinkCopied] = useState(false);
 
   useEffect(() => {
     const savedAnswers =
@@ -45,6 +49,17 @@ export default function ResultsPage() {
     const selectedPartyIds: number[] | null = savedPartyIds ? JSON.parse(savedPartyIds) : null;
 
     setAnswers(parsedAnswers);
+
+    // Check for friend comparison ref in URL
+    const urlParams = new URLSearchParams(window.location.search);
+    const friendRef = urlParams.get("ref");
+    if (friendRef) {
+      const friendAnswers = decodeAnswers(friendRef);
+      if (friendAnswers) {
+        const comparison = compareAnswers(parsedAnswers, friendAnswers);
+        setFriendComparison(comparison);
+      }
+    }
 
     fetch(`/data/municipalities/${slug}/${locale === "en" ? "en" : "nl"}.json`)
       .then((r) => (r.ok ? r : fetch(`/data/municipalities/${slug}/nl.json`)))
@@ -96,6 +111,45 @@ export default function ResultsPage() {
         <ShareResults matches={matches} municipality={data.name} locale={locale} />
       </div>
 
+      {/* Friends Comparison — share link */}
+      <div className="flex items-center justify-center gap-3">
+        <Button
+          variant="outline"
+          className="rounded-xl text-sm gap-2"
+          onClick={async () => {
+            const encoded = encodeAnswers(answers);
+            const url = `${window.location.origin}/${locale}/${slug}/questionnaire?ref=${encoded}`;
+            await navigator.clipboard.writeText(url);
+            setFriendLinkCopied(true);
+            setTimeout(() => setFriendLinkCopied(false), 3000);
+          }}
+        >
+          <MdShare className="h-4 w-4" />
+          {friendLinkCopied
+            ? (locale === "en" ? "Link copied!" : "Link gekopieerd!")
+            : (locale === "en" ? "Compare with a friend" : "Vergelijk met een vriend")}
+        </Button>
+      </div>
+
+      {/* Friend Comparison Result */}
+      {friendComparison && (
+        <Card className="rounded-xl border-purple-300 bg-purple-50/50 dark:border-purple-700 dark:bg-purple-950/20">
+          <CardContent className="p-4 text-center space-y-2">
+            <h3 className="text-sm font-semibold text-purple-800 dark:text-purple-300">
+              {locale === "en" ? "Friend Comparison" : "Vergelijking met vriend"}
+            </h3>
+            <p className="text-3xl font-black text-purple-600">
+              {friendComparison.agreementPercentage}%
+            </p>
+            <p className="text-sm text-purple-700 dark:text-purple-400">
+              {locale === "en"
+                ? `You agreed on ${friendComparison.agreed} of ${friendComparison.totalCompared} questions`
+                : `Jullie waren het eens over ${friendComparison.agreed} van ${friendComparison.totalCompared} stellingen`}
+            </p>
+          </CardContent>
+        </Card>
+      )}
+
       {/* Political Profile Summary */}
       {data && Object.keys(answers).length > 0 && (() => {
         const profile = generatePoliticalProfile(data, answers, locale);
@@ -137,10 +191,7 @@ export default function ResultsPage() {
       <div className="space-y-3">
         {matches.map((match, idx) => {
           const isTop = idx === 0;
-          const isExpanded = expanded === match.partyId;
-          const summary = isExpanded
-            ? generateMatchSummary(data, answers, match.partyId, locale)
-            : null;
+          // Cards are clickable → navigate to compare-party (no inline expansion)
 
           return (
             <Card

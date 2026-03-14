@@ -2,7 +2,7 @@
 
 import { useTranslations, useLocale } from "next-intl";
 import { useEffect, useState, useCallback, useMemo } from "react";
-import { useParams, useRouter } from "next/navigation";
+import { useParams, useRouter, useSearchParams } from "next/navigation";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
@@ -25,7 +25,9 @@ export default function QuestionnairePage() {
   const locale = useLocale();
   const params = useParams();
   const router = useRouter();
+  const searchParams = useSearchParams();
   const slug = params.municipality as string;
+  const friendRef = searchParams.get("ref") || "";
 
   const [data, setData] = useState<MunicipalityData | null>(null);
   const [altData, setAltData] = useState<MunicipalityData | null>(null);
@@ -115,8 +117,10 @@ export default function QuestionnairePage() {
     // Save answers and mark as completed
     sessionStorage.setItem(`vg-${slug}-answers`, JSON.stringify(answers));
     sessionStorage.setItem(`vg-${slug}-completed`, "true");
+    // Forward friend ref param through the flow
+    if (friendRef) sessionStorage.setItem(`vg-${slug}-friendRef`, friendRef);
     router.push(`/${locale}/${slug}/important-topics`);
-  }, [answers, slug, locale, router]);
+  }, [answers, slug, locale, router, friendRef]);
 
   const goNext = useCallback(() => {
     setAnimating(true);
