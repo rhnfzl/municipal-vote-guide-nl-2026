@@ -38,6 +38,15 @@ interface NationalStats {
   localPartyCount: number;
   wordiestParty: { party: string; municipality: string; avgWords: number };
   mostThemesCovered: { name: string; themeCount: number };
+  sharedStatements: {
+    totalStatements: number;
+    uniqueTitles: number;
+    sharedTitleCount: number;
+    mostRepeatedTitle: { title: string; count: number } | null;
+    uniqueThemeIds: number;
+    sharedThemeIds: number;
+    statementsWithSharedTheme: number;
+  };
   topThemes: [string, number][];
   topParties: [string, number][];
 }
@@ -155,6 +164,20 @@ export default function ExplorePage() {
     }
     if (stats.mostThemesCovered?.name) {
       facts.push(t("funFactMostThemes", { name: stats.mostThemesCovered.name, count: stats.mostThemesCovered.themeCount }));
+    }
+
+    // Shared statements analysis
+    if (stats.sharedStatements) {
+      const ss = stats.sharedStatements;
+      if (ss.sharedTitleCount > 0) {
+        facts.push(t("funFactSharedQuestions", { count: ss.sharedTitleCount, total: ss.totalStatements }));
+      }
+      if (ss.mostRepeatedTitle) {
+        facts.push(t("funFactMostRepeated", { count: ss.mostRepeatedTitle.count }));
+      }
+      if (ss.uniqueTitles) {
+        facts.push(t("funFactUniqueQuestions", { total: ss.totalStatements.toLocaleString(), unique: ss.uniqueTitles.toLocaleString() }));
+      }
     }
 
     return facts;

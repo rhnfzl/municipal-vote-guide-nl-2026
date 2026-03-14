@@ -89,6 +89,18 @@
     "name": "Groningen",
     "themeCount": 30
   },
+  "sharedStatements": {
+    "totalStatements": 7414,
+    "uniqueTitles": 3531,
+    "sharedTitleCount": 154,
+    "mostRepeatedTitle": {
+      "title": "Mensen die een bijstandsuitkering krijgen, moeten in ruil daarvoor maatschappelijk zinvol werk doen.",
+      "count": 174
+    },
+    "uniqueThemeIds": 1509,
+    "sharedThemeIds": 304,
+    "statementsWithSharedTheme": 6209
+  },
   "topThemes": [
     [
       "Cameratoezicht",

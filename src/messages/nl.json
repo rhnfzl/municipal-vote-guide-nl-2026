@@ -149,7 +149,10 @@
     "funFactTopPartyMissing": "{party} zit in {count} van 258 gemeenten, maar ontbreekt in {missingCount}",
     "funFactLocalParties": "{count} van {total} partijen zijn lokaal en doen mee in slechts een gemeente",
     "funFactWordiest": "{party} in {municipality} schrijft de langste toelichtingen, gemiddeld {count} woorden",
-    "funFactMostThemes": "{name} behandelt {count} verschillende thema's, het meest van alle gemeenten"
+    "funFactMostThemes": "{name} behandelt {count} verschillende thema's, het meest van alle gemeenten",
+    "funFactSharedQuestions": "{count} van {total} stellingen komen woord voor woord in meerdere gemeenten voor",
+    "funFactMostRepeated": "De meest herhaalde stelling komt voor in {count} van 258 gemeenten",
+    "funFactUniqueQuestions": "{total} stellingen in totaal, maar slechts {unique} zijn uniek geformuleerd"
   },
   "share": {
     "title": "Deel Jouw Resultaten",

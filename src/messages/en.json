@@ -149,7 +149,10 @@
     "funFactTopPartyMissing": "{party} is in {count} of 258 municipalities, but missing in {missingCount}",
     "funFactLocalParties": "{count} of {total} parties are local, appearing in only one municipality",
     "funFactWordiest": "{party} in {municipality} writes the longest explanations, averaging {count} words",
-    "funFactMostThemes": "{name} covers {count} different topics, the most of any municipality"
+    "funFactMostThemes": "{name} covers {count} different topics, the most of any municipality",
+    "funFactSharedQuestions": "{count} of {total} statements appear word-for-word in multiple municipalities",
+    "funFactMostRepeated": "The most repeated statement appears in {count} of 258 municipalities",
+    "funFactUniqueQuestions": "{total} total statements, but only {unique} are uniquely worded"
   },
   "share": {
     "title": "Share Your Results",

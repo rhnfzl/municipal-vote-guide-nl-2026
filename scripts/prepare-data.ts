@@ -297,6 +297,10 @@ function main() {
   const themeMunicipality: Record<string, string[]> = {};
   // Per-theme position tallies across all municipalities
   const themePositions: Record<string, { agree: number; disagree: number; neither: number }> = {};
+  // Statement title tracking (for shared questions analysis)
+  const statementTitleCount: Record<string, number> = {};
+  const themeIdCount: Record<string, number> = {};
+  let totalStatements = 0;
   // Track best fence-sitter, political twins, harmonious/divided municipalities
   let biggestFenceSitter = { party: "", municipality: "", neitherPct: 0 };
   let neverNeutralCount = 0;
@@ -318,6 +322,10 @@ function main() {
       if (!themeMunicipality[s.theme]) themeMunicipality[s.theme] = [];
       themeMunicipality[s.theme].push(entry.name);
       themes.add(s.theme);
+      // Track shared statements
+      statementTitleCount[s.title] = (statementTitleCount[s.title] || 0) + 1;
+      themeIdCount[s.themeId] = (themeIdCount[s.themeId] || 0) + 1;
+      totalStatements++;
     }
 
     // Most themes covered
@@ -494,6 +502,28 @@ function main() {
   // Local parties: appear in only 1 municipality
   const localPartyCount = Object.values(partyCount).filter((c) => c === 1).length;
 
+  // Shared statements analysis
+  const uniqueTitles = Object.keys(statementTitleCount).length;
+  const sharedTitles = Object.entries(statementTitleCount).filter(([, c]) => c > 1);
+  const sharedTitleCount = sharedTitles.length;
+  const mostRepeatedTitle = sharedTitles.sort((a, b) => b[1] - a[1])[0];
+  const uniqueThemeIds = Object.keys(themeIdCount).length;
+  const sharedThemeIds = Object.values(themeIdCount).filter((c) => c > 1).length;
+  // How many statements use a themeId that appears in 2+ municipalities
+  const statementsWithSharedTheme = Object.entries(themeIdCount)
+    .filter(([, c]) => c > 1)
+    .reduce((sum, [, c]) => sum + c, 0);
+
+  const sharedStatements = {
+    totalStatements,
+    uniqueTitles,
+    sharedTitleCount,
+    mostRepeatedTitle: mostRepeatedTitle ? { title: mostRepeatedTitle[0], count: mostRepeatedTitle[1] } : null,
+    uniqueThemeIds,
+    sharedThemeIds,
+    statementsWithSharedTheme,
+  };
+
   const nationalStats = {
     totalMunicipalities: municipalityIndex.length,
     withOfficialEnglish: municipalityIndex.filter((m) => m.hasOfficialEnglish)
@@ -516,6 +546,7 @@ function main() {
     localPartyCount,
     wordiestParty,
     mostThemesCovered,
+    sharedStatements,
     topThemes: Object.entries(themeCount)
       .sort((a, b) => b[1] - a[1])
       .slice(0, 30),
