@@ -33,6 +33,7 @@ export default function ResultsPage() {
     agreed: number; disagreed: number; agreementPercentage: number; totalCompared: number;
   } | null>(null);
   const [friendLinkCopied, setFriendLinkCopied] = useState(false);
+  const [isViewingFriendResults, setIsViewingFriendResults] = useState(false);
 
   useEffect(() => {
     const savedAnswers =
@@ -40,6 +41,29 @@ export default function ResultsPage() {
       localStorage.getItem(`vg-${slug}-answers`);
     const savedPriorities = sessionStorage.getItem(`vg-${slug}-priorities`);
     const savedPartyIds = sessionStorage.getItem(`vg-${slug}-selectedParties`);
+
+    // Check for friend comparison ref in URL
+    const urlParams = new URLSearchParams(window.location.search);
+    const friendRef = urlParams.get("ref");
+
+    if (!savedAnswers && friendRef) {
+      // Friend opened the link but hasn't taken the questionnaire yet
+      // Show the sharer's results (decoded from URL) so they can see what their friend got
+      const friendAnswers = decodeAnswers(friendRef);
+      if (friendAnswers) {
+        setAnswers(friendAnswers);
+        setIsViewingFriendResults(true);
+        // Load data and calculate results from friend's answers
+        fetch(`/data/municipalities/${slug}/${locale === "en" ? "en" : "nl"}.json`)
+          .then((r) => (r.ok ? r : fetch(`/data/municipalities/${slug}/nl.json`)))
+          .then((r) => r.json())
+          .then((d: MunicipalityData) => {
+            setData(d);
+            setMatches(calculateMatches(d, friendAnswers));
+          });
+        return;
+      }
+    }
 
     if (!savedAnswers) {
       router.push(`/${locale}/${slug}/questionnaire`);
@@ -52,9 +76,7 @@ export default function ResultsPage() {
 
     setAnswers(parsedAnswers);
 
-    // Check for friend comparison ref in URL
-    const urlParams = new URLSearchParams(window.location.search);
-    const friendRef = urlParams.get("ref");
+    // Compare own results with friend's if ref present
     if (friendRef) {
       const friendAnswers = decodeAnswers(friendRef);
       if (friendAnswers) {
@@ -111,6 +133,25 @@ export default function ResultsPage() {
         </p>
       </div>
 
+      {/* Friend's results banner */}
+      {isViewingFriendResults && (
+        <Card className="border-purple-300 bg-purple-50 dark:border-purple-700 dark:bg-purple-950/30">
+          <CardContent className="p-4 text-center space-y-3">
+            <p className="text-sm font-semibold text-purple-800 dark:text-purple-200">
+              {locale === "en"
+                ? "You're viewing a friend's results. Take the questionnaire yourself to compare!"
+                : "Je bekijkt de resultaten van een vriend. Doe zelf de vragenlijst om te vergelijken!"}
+            </p>
+            <Button
+              onClick={() => router.push(`/${locale}/${slug}/questionnaire`)}
+              className="rounded-xl bg-purple-600 text-white hover:bg-purple-700"
+            >
+              {locale === "en" ? "Take the questionnaire" : "Doe de vragenlijst"}
+            </Button>
+          </CardContent>
+        </Card>
+      )}
+
       {/* Share - prominent at top */}
       <div className="flex justify-center">
         <ShareResults matches={matches} municipality={data.name} locale={locale} />
@@ -123,7 +164,7 @@ export default function ResultsPage() {
           className="rounded-xl text-sm gap-2"
           onClick={async () => {
             const encoded = encodeAnswers(answers);
-            const url = `${window.location.origin}/${locale}/${slug}/questionnaire?ref=${encoded}`;
+            const url = `${window.location.origin}/${locale}/${slug}/results?ref=${encoded}`;
             await navigator.clipboard.writeText(url);
             setFriendLinkCopied(true);
             setTimeout(() => setFriendLinkCopied(false), 3000);
