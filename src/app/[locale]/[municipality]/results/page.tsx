@@ -31,9 +31,10 @@ export default function ResultsPage() {
   const [answers, setAnswers] = useState<Record<number, UserAnswer>>({});
   const [friendComparison, setFriendComparison] = useState<{
     agreed: number; disagreed: number; agreementPercentage: number; totalCompared: number;
+    friendMatches: PartyMatch[];
   } | null>(null);
   const [friendLinkCopied, setFriendLinkCopied] = useState(false);
-  const [isViewingFriendResults, setIsViewingFriendResults] = useState(false);
+  const [waitingForFriend, setWaitingForFriend] = useState(false);
 
   useEffect(() => {
     const savedAnswers =
@@ -47,22 +48,16 @@ export default function ResultsPage() {
     const friendRef = urlParams.get("ref");
 
     if (!savedAnswers && friendRef) {
-      // Friend opened the link but hasn't taken the questionnaire yet
-      // Show the sharer's results (decoded from URL) so they can see what their friend got
-      const friendAnswers = decodeAnswers(friendRef);
-      if (friendAnswers) {
-        setAnswers(friendAnswers);
-        setIsViewingFriendResults(true);
-        // Load data and calculate results from friend's answers
-        fetch(`/data/municipalities/${slug}/${locale === "en" ? "en" : "nl"}.json`)
-          .then((r) => (r.ok ? r : fetch(`/data/municipalities/${slug}/nl.json`)))
-          .then((r) => r.json())
-          .then((d: MunicipalityData) => {
-            setData(d);
-            setMatches(calculateMatches(d, friendAnswers));
-          });
-        return;
-      }
+      // Friend opened the link but hasn't taken the questionnaire yet.
+      // Don't show the sharer's results - just prompt them to take the questionnaire.
+      sessionStorage.setItem(`vg-${slug}-friendRef`, friendRef);
+      // Load municipality data just for the name/header
+      fetch(`/data/municipalities/${slug}/${locale === "en" ? "en" : "nl"}.json`)
+        .then((r) => (r.ok ? r : fetch(`/data/municipalities/${slug}/nl.json`)))
+        .then((r) => r.json())
+        .then((d: MunicipalityData) => setData(d));
+      setWaitingForFriend(true);
+      return;
     }
 
     if (!savedAnswers) {
@@ -76,23 +71,63 @@ export default function ResultsPage() {
 
     setAnswers(parsedAnswers);
 
-    // Compare own results with friend's if ref present
-    if (friendRef) {
-      const friendAnswers = decodeAnswers(friendRef);
-      if (friendAnswers) {
-        const comparison = compareAnswers(parsedAnswers, friendAnswers);
-        setFriendComparison(comparison);
-      }
-    }
-
     fetch(`/data/municipalities/${slug}/${locale === "en" ? "en" : "nl"}.json`)
       .then((r) => (r.ok ? r : fetch(`/data/municipalities/${slug}/nl.json`)))
       .then((r) => r.json())
       .then((d: MunicipalityData) => {
         setData(d);
-        setMatches(calculateMatches(d, parsedAnswers, priorities, selectedPartyIds));
+        const myMatches = calculateMatches(d, parsedAnswers, priorities, selectedPartyIds);
+        setMatches(myMatches);
+
+        // Compare with friend's answers if ref present
+        if (friendRef) {
+          const friendAnswers = decodeAnswers(friendRef);
+          if (friendAnswers) {
+            const comparison = compareAnswers(parsedAnswers, friendAnswers);
+            const friendMatches = calculateMatches(d, friendAnswers);
+            setFriendComparison({ ...comparison, friendMatches });
+          }
+        }
       });
   }, [slug, locale, router]);
+
+  // Friend opened the link but hasn't taken the questionnaire yet
+  if (waitingForFriend) {
+    return (
+      <div className="mx-auto max-w-2xl space-y-6">
+        <div className="text-center space-y-2">
+          {data && (
+            <div className="flex items-center justify-center gap-2">
+              <MunicipalityAvatar slug={slug} name={data.name} size="lg" />
+              <h1 className="text-2xl font-extrabold tracking-tight sm:text-3xl">
+                {data.name}
+              </h1>
+            </div>
+          )}
+        </div>
+        <Card className="border-purple-300 bg-purple-50 dark:border-purple-700 dark:bg-purple-950/30">
+          <CardContent className="p-6 text-center space-y-4">
+            <p className="text-lg font-semibold text-purple-800 dark:text-purple-200">
+              {locale === "en"
+                ? "A friend has shared their party match results with you!"
+                : "Een vriend heeft zijn partijmatch-resultaten met je gedeeld!"}
+            </p>
+            <p className="text-sm text-purple-700 dark:text-purple-300">
+              {locale === "en"
+                ? "Take the questionnaire yourself and see how your opinions compare."
+                : "Doe zelf de vragenlijst en ontdek hoe jullie meningen zich verhouden."}
+            </p>
+            <Button
+              onClick={() => router.push(`/${locale}/${slug}/questionnaire`)}
+              className="rounded-xl bg-purple-600 text-white hover:bg-purple-700 text-base px-6 py-2"
+            >
+              {locale === "en" ? "Take the questionnaire" : "Doe de vragenlijst"}
+            </Button>
+          </CardContent>
+        </Card>
+      </div>
+    );
+  }
 
   if (!data || matches.length === 0) {
     return (
@@ -129,25 +164,52 @@ export default function ResultsPage() {
           </h1>
         </div>
         <p className="text-gray-500">
-          {data.name} &mdash; {tf("resultSubtitle")}
+          {data.name} - {tf("resultSubtitle")}
         </p>
       </div>
 
-      {/* Friend's results banner */}
-      {isViewingFriendResults && (
-        <Card className="border-purple-300 bg-purple-50 dark:border-purple-700 dark:bg-purple-950/30">
-          <CardContent className="p-4 text-center space-y-3">
-            <p className="text-sm font-semibold text-purple-800 dark:text-purple-200">
-              {locale === "en"
-                ? "You're viewing a friend's results. Take the questionnaire yourself to compare!"
-                : "Je bekijkt de resultaten van een vriend. Doe zelf de vragenlijst om te vergelijken!"}
+      {/* Friend Comparison Result */}
+      {friendComparison && (
+        <Card className="rounded-xl border-purple-300 bg-purple-50/50 dark:border-purple-700 dark:bg-purple-950/20">
+          <CardContent className="p-5 space-y-4">
+            <h3 className="text-center text-sm font-semibold text-purple-800 dark:text-purple-300">
+              {locale === "en" ? "Friend Comparison" : "Vergelijking met vriend"}
+            </h3>
+            <p className="text-center text-3xl font-black text-purple-600">
+              {friendComparison.agreementPercentage}%
+              <span className="block text-sm font-normal text-purple-700 dark:text-purple-400 mt-1">
+                {locale === "en"
+                  ? `You agreed on ${friendComparison.agreed} of ${friendComparison.totalCompared} statements`
+                  : `Jullie waren het eens over ${friendComparison.agreed} van ${friendComparison.totalCompared} stellingen`}
+              </span>
             </p>
-            <Button
-              onClick={() => router.push(`/${locale}/${slug}/questionnaire`)}
-              className="rounded-xl bg-purple-600 text-white hover:bg-purple-700"
-            >
-              {locale === "en" ? "Take the questionnaire" : "Doe de vragenlijst"}
-            </Button>
+            {/* Side-by-side top 3 parties */}
+            <div className="grid grid-cols-2 gap-3 pt-2">
+              <div>
+                <p className="text-xs font-semibold text-purple-700 dark:text-purple-300 mb-2 text-center">
+                  {locale === "en" ? "Your top matches" : "Jouw top matches"}
+                </p>
+                {matches.slice(0, 3).map((m) => (
+                  <div key={m.partyId} className="flex items-center gap-2 py-1">
+                    <PartyAvatar name={m.partyName} size="sm" />
+                    <span className="text-xs truncate flex-1">{m.partyName}</span>
+                    <span className="text-xs font-bold">{m.matchPercentage}%</span>
+                  </div>
+                ))}
+              </div>
+              <div>
+                <p className="text-xs font-semibold text-purple-700 dark:text-purple-300 mb-2 text-center">
+                  {locale === "en" ? "Friend's top matches" : "Top matches vriend"}
+                </p>
+                {friendComparison.friendMatches.slice(0, 3).map((m) => (
+                  <div key={m.partyId} className="flex items-center gap-2 py-1">
+                    <PartyAvatar name={m.partyName} size="sm" />
+                    <span className="text-xs truncate flex-1">{m.partyName}</span>
+                    <span className="text-xs font-bold">{m.matchPercentage}%</span>
+                  </div>
+                ))}
+              </div>
+            </div>
           </CardContent>
         </Card>
       )}
@@ -176,25 +238,6 @@ export default function ResultsPage() {
             : (locale === "en" ? "Compare with a friend" : "Vergelijk met een vriend")}
         </Button>
       </div>
-
-      {/* Friend Comparison Result */}
-      {friendComparison && (
-        <Card className="rounded-xl border-purple-300 bg-purple-50/50 dark:border-purple-700 dark:bg-purple-950/20">
-          <CardContent className="p-4 text-center space-y-2">
-            <h3 className="text-sm font-semibold text-purple-800 dark:text-purple-300">
-              {locale === "en" ? "Friend Comparison" : "Vergelijking met vriend"}
-            </h3>
-            <p className="text-3xl font-black text-purple-600">
-              {friendComparison.agreementPercentage}%
-            </p>
-            <p className="text-sm text-purple-700 dark:text-purple-400">
-              {locale === "en"
-                ? `You agreed on ${friendComparison.agreed} of ${friendComparison.totalCompared} questions`
-                : `Jullie waren het eens over ${friendComparison.agreed} van ${friendComparison.totalCompared} stellingen`}
-            </p>
-          </CardContent>
-        </Card>
-      )}
 
       {/* Political Profile Summary */}
       {data && Object.keys(answers).length > 0 && (() => {
@@ -339,9 +382,12 @@ export default function ResultsPage() {
             localStorage.removeItem(`vg-${slug}-answers`);
             localStorage.removeItem(`vg-${slug}-index`);
             sessionStorage.removeItem(`vg-${slug}-answers`);
+            sessionStorage.removeItem(`vg-${slug}-index`);
+            sessionStorage.removeItem(`vg-${slug}-completed`);
             sessionStorage.removeItem(`vg-${slug}-priorities`);
             sessionStorage.removeItem(`vg-${slug}-selectedParties`);
             sessionStorage.removeItem(`vg-${slug}-startTime`);
+            sessionStorage.removeItem(`vg-${slug}-numStatements`);
             router.push(`/${locale}/${slug}/questionnaire`);
           }}
         >

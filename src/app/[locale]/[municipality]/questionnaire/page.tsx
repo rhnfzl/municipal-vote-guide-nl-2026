@@ -77,31 +77,28 @@ export default function QuestionnairePage() {
   const [animating, setAnimating] = useState(false);
 
   useEffect(() => {
-    // ALWAYS start fresh - clear all previous session data for this municipality.
-    // Each visit to the questionnaire page is a new start.
-    // The only way to resume is within the same page (React state, not storage).
-    sessionStorage.removeItem(`vg-${slug}-answers`);
-    sessionStorage.removeItem(`vg-${slug}-index`);
-    sessionStorage.removeItem(`vg-${slug}-completed`);
-    sessionStorage.removeItem(`vg-${slug}-startTime`);
-    sessionStorage.removeItem(`vg-${slug}-priorities`);
-    sessionStorage.removeItem(`vg-${slug}-selectedParties`);
-    sessionStorage.removeItem(`vg-${slug}-numStatements`);
-    localStorage.removeItem(`vg-${slug}-answers`);
-    localStorage.removeItem(`vg-${slug}-index`);
+    const completed = sessionStorage.getItem(`vg-${slug}-completed`);
+    const savedAnswers = sessionStorage.getItem(`vg-${slug}-answers`);
+    const savedIdx = sessionStorage.getItem(`vg-${slug}-index`);
 
-    // No saved state to restore - always question 1
-    const saved = null;
-    const savedIdx = null;
+    if (completed || !savedAnswers) {
+      // Fresh start: first visit or returning after completing the questionnaire
+      sessionStorage.removeItem(`vg-${slug}-answers`);
+      sessionStorage.removeItem(`vg-${slug}-index`);
+      sessionStorage.removeItem(`vg-${slug}-completed`);
+      sessionStorage.removeItem(`vg-${slug}-startTime`);
+      sessionStorage.removeItem(`vg-${slug}-priorities`);
+      sessionStorage.removeItem(`vg-${slug}-selectedParties`);
+      sessionStorage.removeItem(`vg-${slug}-numStatements`);
+      localStorage.removeItem(`vg-${slug}-answers`);
+      localStorage.removeItem(`vg-${slug}-index`);
 
-    // Track start time for speed check
-    if (!sessionStorage.getItem(`vg-${slug}-startTime`)) {
       sessionStorage.setItem(`vg-${slug}-startTime`, String(Date.now()));
+    } else {
+      // Resume: language switch or back-navigation while in progress
+      setAnswers(JSON.parse(savedAnswers));
+      if (savedIdx) setCurrentIdx(parseInt(savedIdx));
     }
-
-    // Clear any old localStorage data from previous sessions
-    localStorage.removeItem(`vg-${slug}-answers`);
-    localStorage.removeItem(`vg-${slug}-index`);
 
     const primary = locale === "en" ? "en" : "nl";
     const alt = locale === "en" ? "nl" : "en";
@@ -112,8 +109,6 @@ export default function QuestionnairePage() {
       .then((r) => r.json())
       .then((d: MunicipalityData) => {
         setData(d);
-        // Always start at question 1 - no state restoration
-        // Store num statements for speed check
         sessionStorage.setItem(`vg-${slug}-numStatements`, String(d.statements.length));
         setLoading(false);
       });
@@ -125,8 +120,13 @@ export default function QuestionnairePage() {
       .catch(() => {}); // silently fail if no translation available
   }, [slug, locale]);
 
-  // No auto-save during questionnaire - answers saved only when advancing to next step
-  // This ensures a fresh start on every visit to the questionnaire page
+  // Auto-save answers and index to sessionStorage so language switches preserve progress
+  useEffect(() => {
+    if (Object.keys(answers).length > 0) {
+      sessionStorage.setItem(`vg-${slug}-answers`, JSON.stringify(answers));
+      sessionStorage.setItem(`vg-${slug}-index`, String(currentIdx));
+    }
+  }, [answers, currentIdx, slug]);
 
   const statements = data?.statements || [];
   const current: Statement | undefined = statements[currentIdx];
