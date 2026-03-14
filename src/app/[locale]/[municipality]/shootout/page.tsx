@@ -46,11 +46,22 @@ export default function ShootoutPage() {
   const party1 = data.parties.find((p) => p.id === party1Id);
   const party2 = data.parties.find((p) => p.id === party2Id);
 
-  // StemWijzer uses max 5 shootout questions, must be odd number for clear winner
+  // Filter shootout questions: only show where the two parties DISAGREE
   const allShootout = data.shootoutStatements || [];
+  const disagreementStmts = allShootout.filter((stmt) => {
+    const pos1 = party1?.positions[stmt.id];
+    const pos2 = party2?.positions[stmt.id];
+    if (!pos1 || !pos2) return true; // Include if we can't determine
+    return pos1.position !== pos2.position; // Only where they differ
+  });
+
+  // Use disagreement questions, cap at 5 (odd number for clear winner)
   const maxQuestions = 5;
-  const shootoutStmts = allShootout.slice(0, maxQuestions % 2 === 0 ? maxQuestions - 1 : maxQuestions);
+  const filtered = disagreementStmts.length > 0 ? disagreementStmts : allShootout; // Fallback to all if none disagree
+  const shootoutStmts = filtered.slice(0, maxQuestions % 2 === 0 ? maxQuestions - 1 : maxQuestions);
   const current = shootoutStmts[currentIdx];
+
+  const allAgree = disagreementStmts.length === 0;
 
   if (!party1 || !party2) {
     return (
@@ -146,6 +157,17 @@ export default function ShootoutPage() {
       >
         <MdArrowBack className="h-4 w-4" /> {t("backToResults")}
       </Button>
+
+      {/* Warning if both parties agree on everything */}
+      {allAgree && (
+        <Card className="border-amber-300 bg-amber-50 dark:border-amber-700 dark:bg-amber-950/30">
+          <CardContent className="p-4 text-center text-sm text-amber-800 dark:text-amber-200">
+            {locale === "en"
+              ? "These two parties agree on all extra questions, so comparing them here won't help differentiate. All questions are shown below."
+              : "Deze twee partijen zijn het eens over alle extra stellingen, dus vergelijken helpt hier niet. Alle stellingen worden hieronder getoond."}
+          </CardContent>
+        </Card>
+      )}
 
       {/* Header with party logos */}
       <div className="flex items-center justify-center gap-4">
