@@ -1,7 +1,6 @@
 "use client";
 
 import { useEffect, useState, useMemo } from "react";
-import { ScatterChart, Scatter, XAxis, YAxis, Tooltip, ResponsiveContainer, Cell } from "recharts";
 import { Skeleton } from "@/components/ui/skeleton";
 
 interface Coordinate {
@@ -18,11 +17,10 @@ interface Topic {
   count: number;
 }
 
-const TOPIC_COLORS = [
-  "#3b82f6", "#ef4444", "#22c55e", "#f59e0b", "#8b5cf6", "#ec4899",
-  "#06b6d4", "#f97316", "#14b8a6", "#6366f1", "#84cc16", "#e11d48",
-  "#0891b2", "#a855f7", "#d946ef", "#65a30d", "#0d9488", "#dc2626",
-  "#7c3aed", "#059669", "#ca8a04", "#9333ea", "#2563eb", "#16a34a",
+const COLORS = [
+  "#2563eb", "#dc2626", "#16a34a", "#ca8a04", "#7c3aed", "#db2777",
+  "#0891b2", "#ea580c", "#0d9488", "#4f46e5", "#65a30d", "#be123c",
+  "#0284c7", "#9333ea", "#c026d3", "#4d7c0f", "#115e59", "#b91c1c",
 ];
 
 export function TopicMap({ locale }: { locale: string }) {
@@ -30,6 +28,8 @@ export function TopicMap({ locale }: { locale: string }) {
   const [topics, setTopics] = useState<Topic[]>([]);
   const [loading, setLoading] = useState(true);
   const [selectedTopic, setSelectedTopic] = useState<number | null>(null);
+  const [hoveredPoint, setHoveredPoint] = useState<Coordinate | null>(null);
+  const [viewBox, setViewBox] = useState({ x: -8, y: -10, w: 28, h: 32 });
 
   useEffect(() => {
     Promise.all([
@@ -43,83 +43,103 @@ export function TopicMap({ locale }: { locale: string }) {
   }, [locale]);
 
   const filteredCoords = useMemo(() => {
-    if (selectedTopic === null) return coords;
+    if (selectedTopic === null) return coords.filter(c => c.topic !== -1);
     return coords.filter((c) => c.topic === selectedTopic);
   }, [coords, selectedTopic]);
 
-  // Top 12 topics for legend
   const topTopics = useMemo(() =>
-    [...topics].sort((a, b) => b.count - a.count).slice(0, 12),
+    [...topics].sort((a, b) => b.count - a.count).slice(0, 10),
     [topics]
   );
 
   if (loading) return <Skeleton className="h-96 rounded-xl" />;
-  if (!coords.length) return <p className="text-sm text-gray-400 text-center py-8">No topic data available.</p>;
+  if (!coords.length) return null;
+
+  // Map coordinates to SVG space
+  const mapX = (x: number) => ((x - viewBox.x) / viewBox.w) * 800;
+  const mapY = (y: number) => ((y - viewBox.y) / viewBox.h) * 500;
 
   return (
-    <div className="space-y-4">
+    <div className="space-y-3">
       <p className="text-xs text-gray-500">
         {locale === "en"
-          ? "Each dot represents a political statement. Colors show discovered topic clusters. Hover to see details."
-          : "Elke stip vertegenwoordigt een politieke stelling. Kleuren tonen ontdekte thema-clusters. Hover voor details."}
+          ? "Each dot = a political statement. Colors = topic clusters. Click a topic to filter. Hover dots for details."
+          : "Elke stip = een politieke stelling. Kleuren = thema-clusters. Klik een thema om te filteren."}
       </p>
 
-      {/* Topic legend / filter */}
+      {/* Topic legend */}
       <div className="flex flex-wrap gap-1.5">
         <button
           onClick={() => setSelectedTopic(null)}
           className={`rounded-full px-2.5 py-1 text-[10px] font-medium transition-colors ${
-            selectedTopic === null
-              ? "bg-gray-900 text-white dark:bg-gray-100 dark:text-gray-900"
-              : "bg-gray-100 text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:text-gray-400"
+            selectedTopic === null ? "bg-gray-900 text-white dark:bg-white dark:text-gray-900" : "bg-gray-100 text-gray-600 dark:bg-gray-800"
           }`}
         >
-          {locale === "en" ? "All topics" : "Alle thema's"} ({coords.length})
+          {locale === "en" ? "All" : "Alle"} ({coords.filter(c => c.topic !== -1).length})
         </button>
         {topTopics.map((topic, i) => (
           <button
             key={topic.id}
             onClick={() => setSelectedTopic(selectedTopic === topic.id ? null : topic.id)}
-            className={`rounded-full px-2.5 py-1 text-[10px] font-medium transition-colors ${
-              selectedTopic === topic.id
-                ? "text-white"
-                : "bg-gray-100 text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:text-gray-400"
-            }`}
-            style={selectedTopic === topic.id ? { backgroundColor: TOPIC_COLORS[i % TOPIC_COLORS.length] } : {}}
+            className="rounded-full px-2.5 py-1 text-[10px] font-medium transition-colors flex items-center gap-1"
+            style={{
+              backgroundColor: selectedTopic === topic.id ? COLORS[i % COLORS.length] : undefined,
+              color: selectedTopic === topic.id ? "white" : undefined,
+            }}
           >
+            <span className="inline-block h-2 w-2 rounded-full" style={{ backgroundColor: COLORS[i % COLORS.length] }} />
             {topic.label.split(" | ")[0]} ({topic.count})
           </button>
         ))}
       </div>
 
-      {/* Scatter plot */}
-      <div className="h-96">
-        <ResponsiveContainer>
-          <ScatterChart margin={{ top: 10, right: 10, bottom: 10, left: 10 }}>
-            <XAxis type="number" dataKey="x" tick={false} axisLine={false} />
-            <YAxis type="number" dataKey="y" tick={false} axisLine={false} />
-            <Tooltip
-              content={({ payload }) => {
-                if (!payload?.[0]) return null;
-                const d = payload[0].payload as Coordinate;
-                return (
-                  <div className="max-w-xs rounded-lg border bg-white p-3 text-xs shadow-lg dark:bg-gray-900 dark:border-gray-700">
-                    <p className="font-semibold leading-snug">{d.title}</p>
-                    <p className="mt-1 text-gray-500">{d.theme}</p>
-                  </div>
-                );
-              }}
-            />
-            <Scatter data={filteredCoords} r={3} fillOpacity={0.7}>
-              {filteredCoords.map((entry, i) => (
-                <Cell
-                  key={i}
-                  fill={entry.topic === -1 ? "#d1d5db" : TOPIC_COLORS[(entry.topic) % TOPIC_COLORS.length]}
-                />
-              ))}
-            </Scatter>
-          </ScatterChart>
-        </ResponsiveContainer>
+      {/* Interactive SVG scatter plot */}
+      <div className="relative rounded-xl border border-gray-200 bg-white dark:border-gray-800 dark:bg-gray-950 overflow-hidden">
+        <svg viewBox="0 0 800 500" className="w-full h-auto" style={{ maxHeight: "500px" }}>
+          {/* Grid lines */}
+          {[0, 200, 400, 600, 800].map(x => (
+            <line key={`gx${x}`} x1={x} y1={0} x2={x} y2={500} stroke="#f3f4f6" strokeWidth={0.5} />
+          ))}
+          {[0, 125, 250, 375, 500].map(y => (
+            <line key={`gy${y}`} x1={0} y1={y} x2={800} y2={y} stroke="#f3f4f6" strokeWidth={0.5} />
+          ))}
+
+          {/* Points */}
+          {filteredCoords.map((point, i) => {
+            const topicIdx = topTopics.findIndex(t => t.id === point.topic);
+            const color = topicIdx >= 0 ? COLORS[topicIdx % COLORS.length] : "#94a3b8";
+            return (
+              <circle
+                key={i}
+                cx={mapX(point.x)}
+                cy={mapY(point.y)}
+                r={hoveredPoint === point ? 6 : 3.5}
+                fill={color}
+                fillOpacity={0.7}
+                stroke={hoveredPoint === point ? "#000" : "none"}
+                strokeWidth={1}
+                onMouseEnter={() => setHoveredPoint(point)}
+                onMouseLeave={() => setHoveredPoint(null)}
+                style={{ cursor: "pointer" }}
+              />
+            );
+          })}
+
+          {/* Hover tooltip */}
+          {hoveredPoint && (
+            <foreignObject
+              x={Math.min(mapX(hoveredPoint.x) + 10, 550)}
+              y={Math.max(mapY(hoveredPoint.y) - 60, 5)}
+              width={240}
+              height={55}
+            >
+              <div className="rounded-md border bg-white p-2 text-[10px] shadow-md dark:bg-gray-900 dark:border-gray-700">
+                <p className="font-semibold leading-tight line-clamp-2">{hoveredPoint.title}</p>
+                <p className="text-gray-400 mt-0.5">{hoveredPoint.theme}</p>
+              </div>
+            </foreignObject>
+          )}
+        </svg>
       </div>
     </div>
   );
