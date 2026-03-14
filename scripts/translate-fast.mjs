@@ -125,7 +125,6 @@ async function main() {
   const allCon = new Set();
 
   for (const entry of index) {
-    if (fs.existsSync(path.join(MUNI_DIR, entry.slug, "en.json"))) continue;
     const data = JSON.parse(fs.readFileSync(path.join(MUNI_DIR, entry.slug, "nl.json"), "utf-8"));
     for (const s of data.statements) {
       if (s.title) allTitles.add(s.title);
@@ -133,6 +132,11 @@ async function main() {
       if (s.moreInfo) allMoreInfo.add(s.moreInfo);
       if (s.pro) allPro.add(s.pro);
       if (s.con) allCon.add(s.con);
+    }
+    // Also collect shootout statement texts
+    for (const s of (data.shootoutStatements || [])) {
+      if (s.title) allTitles.add(s.title);
+      if (s.theme) allThemes.add(s.theme);
     }
   }
 
@@ -174,13 +178,12 @@ async function main() {
 
   for (const entry of index) {
     const enPath = path.join(MUNI_DIR, entry.slug, "en.json");
-    if (fs.existsSync(enPath)) continue;
-
+    // Always regenerate en.json (overwrite existing)
     const nlPath = path.join(MUNI_DIR, entry.slug, "nl.json");
     const data = JSON.parse(fs.readFileSync(nlPath, "utf-8"));
     const enData = JSON.parse(JSON.stringify(data));
 
-    // Apply translations to en.json
+    // Apply translations to en.json — regular statements
     for (let i = 0; i < enData.statements.length; i++) {
       const s = enData.statements[i];
       s.title = cache[s.title] || s.title;
@@ -188,6 +191,15 @@ async function main() {
       s.moreInfo = cache[s.moreInfo] || s.moreInfo;
       s.pro = cache[s.pro] || s.pro;
       s.con = cache[s.con] || s.con;
+    }
+
+    // Apply translations to shootout statements
+    if (enData.shootoutStatements) {
+      for (let i = 0; i < enData.shootoutStatements.length; i++) {
+        const s = enData.shootoutStatements[i];
+        s.title = cache[s.title] || s.title;
+        s.theme = cache[s.theme] || s.theme;
+      }
     }
 
     // Also add titleEn/themeEn to nl.json for bilingual display

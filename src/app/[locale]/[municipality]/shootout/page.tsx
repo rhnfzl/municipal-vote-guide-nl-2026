@@ -45,7 +45,11 @@ export default function ShootoutPage() {
 
   const party1 = data.parties.find((p) => p.id === party1Id);
   const party2 = data.parties.find((p) => p.id === party2Id);
-  const shootoutStmts = data.shootoutStatements;
+
+  // StemWijzer uses max 5 shootout questions, must be odd number for clear winner
+  const allShootout = data.shootoutStatements || [];
+  const maxQuestions = 5;
+  const shootoutStmts = allShootout.slice(0, maxQuestions % 2 === 0 ? maxQuestions - 1 : maxQuestions);
   const current = shootoutStmts[currentIdx];
 
   if (!party1 || !party2) {

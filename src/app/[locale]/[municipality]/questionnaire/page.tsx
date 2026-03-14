@@ -36,13 +36,19 @@ export default function QuestionnairePage() {
   const [animating, setAnimating] = useState(false);
 
   useEffect(() => {
-    const saved = localStorage.getItem(`vg-${slug}-answers`);
-    const savedIdx = localStorage.getItem(`vg-${slug}-index`);
+    // Use sessionStorage only — fresh start on each visit
+    // (localStorage was persisting old answers across hard refreshes)
+    const saved = sessionStorage.getItem(`vg-${slug}-answers`);
+    const savedIdx = sessionStorage.getItem(`vg-${slug}-index`);
 
     // Track start time for speed check
     if (!sessionStorage.getItem(`vg-${slug}-startTime`)) {
       sessionStorage.setItem(`vg-${slug}-startTime`, String(Date.now()));
     }
+
+    // Clear any old localStorage data from previous sessions
+    localStorage.removeItem(`vg-${slug}-answers`);
+    localStorage.removeItem(`vg-${slug}-index`);
 
     const primary = locale === "en" ? "en" : "nl";
     const alt = locale === "en" ? "nl" : "en";
@@ -69,8 +75,8 @@ export default function QuestionnairePage() {
 
   useEffect(() => {
     if (!data) return;
-    localStorage.setItem(`vg-${slug}-answers`, JSON.stringify(answers));
-    localStorage.setItem(`vg-${slug}-index`, String(currentIdx));
+    sessionStorage.setItem(`vg-${slug}-answers`, JSON.stringify(answers));
+    sessionStorage.setItem(`vg-${slug}-index`, String(currentIdx));
   }, [answers, currentIdx, slug, data]);
 
   const statements = data?.statements || [];
