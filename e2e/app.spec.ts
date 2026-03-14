@@ -60,6 +60,86 @@ test.describe("Questionnaire Flow", () => {
   });
 });
 
+test.describe("Questionnaire Fresh Start", () => {
+  test("answering 5 questions then revisiting from homepage resets to Q1", async ({ page }) => {
+    // Step 1: Homepage → click municipality (client-side nav via router.push)
+    await page.goto("/en");
+    await page.fill('input[type="search"]', "Den Bosch");
+    await page.waitForSelector("h3:has-text(\"'s-Hertogenbosch\")", { timeout: 8000 });
+    await page.locator("[role='button']:has-text(\"'s-Hertogenbosch\")").first().click();
+    await page.waitForSelector("text=1/30", { timeout: 10000 });
+
+    // Step 2: Answer Q1-Q5
+    for (let i = 0; i < 5; i++) {
+      await page.getByRole("button", { name: /Agree/i }).first().click();
+      await page.waitForTimeout(150);
+    }
+    await expect(page.locator("text=6/30")).toBeVisible();
+
+    // Step 3: Go back to homepage via header link
+    await page.locator('header a[aria-label="Home"]').click();
+    await expect(page.locator("h1")).toContainText("municipality", { timeout: 10000 });
+
+    // Step 4: Click the same municipality again
+    await page.fill('input[type="search"]', "Den Bosch");
+    await page.waitForSelector("h3:has-text(\"'s-Hertogenbosch\")", { timeout: 8000 });
+    await page.locator("[role='button']:has-text(\"'s-Hertogenbosch\")").first().click();
+
+    // Step 5: Must start at Q1, no highlights, 0 answered
+    await page.waitForSelector("text=/1\\/30/", { timeout: 10000 });
+    await expect(page.locator("text=1/30")).toBeVisible();
+    await expect(page.locator("button.ring-2")).toHaveCount(0);
+    await expect(page.getByText("0 of")).toBeVisible();
+  });
+
+  test("revisiting from homepage after full questionnaire resets to Q1 (real UI flow)", async ({ page }) => {
+    test.setTimeout(60000); // This test answers 30 questions — needs extra time
+    // This test mimics the exact user flow:
+    // 1. Go to homepage, click a municipality (client-side nav via router.push)
+    // 2. Answer ALL 30 questions (auto-advances to important-topics)
+    // 3. Go back to homepage via header link
+    // 4. Click the same municipality again
+    // 5. Assert: starts at Q1, no highlights, 0 answered
+
+    // Step 1: Homepage → search for Den Bosch → click the card
+    await page.goto("/en");
+    await page.fill('input[type="search"]', "Den Bosch");
+    await page.waitForSelector("h3:has-text(\"'s-Hertogenbosch\")", { timeout: 8000 });
+    // Click the municipality card (this uses router.push — client-side navigation)
+    await page.locator("[role='button']:has-text(\"'s-Hertogenbosch\")").first().click();
+    await page.waitForSelector("text=1/30", { timeout: 10000 });
+
+    // Step 2: Answer all 30 questions
+    for (let i = 0; i < 30; i++) {
+      await page.getByRole("button", { name: /Agree/i }).first().click();
+      await page.waitForTimeout(100);
+    }
+
+    // Should auto-advance to important-topics
+    await expect(page).toHaveURL(/important-topics/, { timeout: 10000 });
+
+    // Step 3: Go back to homepage by clicking the header logo/title
+    await page.locator('header a[aria-label="Home"]').click();
+    await expect(page.locator("h1")).toContainText("municipality", { timeout: 10000 });
+
+    // Step 4: Search and click the same municipality again
+    await page.fill('input[type="search"]', "Den Bosch");
+    await page.waitForSelector("h3:has-text(\"'s-Hertogenbosch\")", { timeout: 8000 });
+    await page.locator("[role='button']:has-text(\"'s-Hertogenbosch\")").first().click();
+
+    // Step 5: Should start at Q1 with no highlights
+    await page.waitForSelector("text=/1\\/30/", { timeout: 10000 });
+    await expect(page.locator("text=1/30")).toBeVisible();
+
+    // No answer buttons should be highlighted
+    const highlightedButtons = page.locator("button.ring-2");
+    await expect(highlightedButtons).toHaveCount(0);
+
+    // Progress should show 0 answered
+    await expect(page.getByText("0 of")).toBeVisible();
+  });
+});
+
 test.describe("Important Topics", () => {
   test("loads important topics page", async ({ page }) => {
     await page.goto("/en/s-hertogenbosch/important-topics");
