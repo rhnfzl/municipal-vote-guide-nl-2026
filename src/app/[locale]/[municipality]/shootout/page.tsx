@@ -158,13 +158,37 @@ export default function ShootoutPage() {
         <MdArrowBack className="h-4 w-4" /> {t("backToResults")}
       </Button>
 
-      {/* Warning if both parties agree on everything */}
+      {/* Warning if both parties agree on everything — offer alternatives */}
       {allAgree && (
         <Card className="border-amber-300 bg-amber-50 dark:border-amber-700 dark:bg-amber-950/30">
-          <CardContent className="p-4 text-center text-sm text-amber-800 dark:text-amber-200">
-            {locale === "en"
-              ? "These two parties agree on all extra questions, so comparing them here won't help differentiate. All questions are shown below."
-              : "Deze twee partijen zijn het eens over alle extra stellingen, dus vergelijken helpt hier niet. Alle stellingen worden hieronder getoond."}
+          <CardContent className="p-4 text-center space-y-3">
+            <p className="text-sm text-amber-800 dark:text-amber-200">
+              {locale === "en"
+                ? "These two parties agree on all extra questions, so comparing them here won't help differentiate."
+                : "Deze twee partijen zijn het eens over alle extra stellingen, dus vergelijken helpt hier niet."}
+            </p>
+            <p className="text-xs text-amber-700 dark:text-amber-300">
+              {locale === "en"
+                ? "Try comparing with a different party instead:"
+                : "Probeer in plaats daarvan te vergelijken met een andere partij:"}
+            </p>
+            <div className="flex flex-wrap justify-center gap-2">
+              {data.parties
+                .filter((p) => p.participates && p.id !== party1Id && p.id !== party2Id)
+                .slice(0, 4)
+                .map((p) => (
+                  <Button
+                    key={p.id}
+                    variant="outline"
+                    size="sm"
+                    className="gap-1.5 rounded-lg text-xs"
+                    onClick={() => router.push(`/${locale}/${slug}/shootout?party1=${party1Id}&party2=${p.id}`)}
+                  >
+                    <PartyAvatar name={p.name} size="sm" />
+                    {p.name}
+                  </Button>
+                ))}
+            </div>
           </CardContent>
         </Card>
       )}
