@@ -393,6 +393,13 @@ export default function ResultsPage() {
         >
           {t("startOver")}
         </Button>
+        <Button
+          variant="outline"
+          className="rounded-xl"
+          onClick={() => router.push(`/${locale}/explore`)}
+        >
+          {locale === "en" ? "Explore All Municipalities" : "Verken Alle Gemeenten"}
+        </Button>
       </div>
     </div>
   );
