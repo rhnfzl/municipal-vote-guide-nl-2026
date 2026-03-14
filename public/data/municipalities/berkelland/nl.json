@@ -51,6 +51,10 @@
           "position": "agree",
           "explanation": "Cultuur- en muziekonderwijs dragen bij aan brede ontwikkeling."
         },
+        "110399": {
+          "position": "agree",
+          "explanation": "Verenigingen zijn het hart van de gemeenschap."
+        },
         "110400": {
           "position": "disagree",
           "explanation": "Erfgoed verdient bescherming."
@@ -172,6 +176,10 @@
         "110398": {
           "position": "agree",
           "explanation": "Muziekles moet voor elk kind toegankelijk zijn. Muziek geeft rust, stimuleert creativiteit en is goed voor de mentale gezondheid. Daarom zijn wij voor subsidie op muziekonderwijs voor kinderen in de basisschoolleeftijd. Zo bieden we ieder kind gelijke kansen op contact met cultuur en kunst."
+        },
+        "110399": {
+          "position": "agree",
+          "explanation": "Sporten geeft veel energie en voldoening. Het houdt je gezond en de sportclub is een ontmoetingsplek. Als een sportclub omvalt, heeft een hele buurt daar last van. Daarom vinden we dat de gemeente moet bijspringen als het nodig is."
         },
         "110400": {
           "position": "disagree",
@@ -295,6 +303,10 @@
           "position": "disagree",
           "explanation": "Het programma kiest voor gerichte steun via een sport- en cultuurpas, niet voor brede muzieklessubsidies. Talentontwikkeling ligt ook bij onderwijs; keuzevrijheid en eigen verantwoordelijkheid staan voorop en passen bij lage lasten"
         },
+        "110399": {
+          "position": "disagree",
+          "explanation": "Sportverenigingen zijn van en voor inwoners. De gemeente faciliteert en investeert in voorzieningen, maar structureel financieel bijspringen past niet bij eigen verantwoordelijkheid."
+        },
         "110400": {
           "position": "disagree",
           "explanation": "Ons programma benadrukt het belang van cultuur en monumenten voor identiteit, welzijn en economie. Bezuinigen op monumentenzorg past daar niet bij."
@@ -416,6 +428,10 @@
         "110398": {
           "position": "agree",
           "explanation": "Kinderen horen de mogelijkheid te krijgen om muziekles te volgen, ook als dit niet lukt vanuit huis."
+        },
+        "110399": {
+          "position": "agree",
+          "explanation": "Verenigingen zijn de basis van onze gemeenschap. Maar alleen als de boekhouding klopt!"
         },
         "110400": {
           "position": "disagree",
@@ -539,6 +555,10 @@
           "position": "disagree",
           "explanation": "Muziek is relevant maar geld is maar 1 keer uit te geven. BBB verkiest eerder zwemlessen of verbetering van de kwaliteit van het onderwijs om geld in te steken."
         },
+        "110399": {
+          "position": "disagree",
+          "explanation": "Verenigingen kunnen van alles organiseren om financieel te overleven. Vergunningen en regels in deze moeten geen belemmering vormen. De gemeente moet faciliteren, niet financieren. Huidige subsidie regelingen voor o.a. jeugd zijn prima en moeten gehandhaafd worden."
+        },
         "110400": {
           "position": "agree",
           "explanation": "Monumenten zijn waardevol maar geld is slechts 1 keer uit te geven."
@@ -660,6 +680,10 @@
         "110398": {
           "position": "agree",
           "explanation": "De gemeente zorgt ervoor dat kinderen kunnen kennismaken met muziek en andere cultuurvormen. Het vervolg verloopt vaak via muziekverenigingen of particulier. Hierbij zijn verschillende subsidie vormen al aanwezig. Zeker voor ouders die het niet kunnen betalen."
+        },
+        "110399": {
+          "position": "agree",
+          "explanation": "Zijn nu al mogelijkheden voor, maar is niet onbeperkt."
         },
         "110400": {
           "position": "disagree",
@@ -1100,6 +1124,19 @@
       "isShootout": false,
       "titleEn": "The municipality should make it possible for all primary schools to include the Achterhoeks dialect in their teaching.",
       "themeEn": "Regional language"
+    }
+  ],
+  "shootoutStatements": [
+    {
+      "id": 110399,
+      "index": 32,
+      "theme": "Sportverenigingen",
+      "themeId": "sportverenigingen",
+      "title": "Als sportverenigingen het moeilijk hebben, moet de gemeente financieel bijdragen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
     }
   ]
 }

@@ -6,7 +6,7 @@ import { useParams, useRouter } from "next/navigation";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-import { Switch } from "@/components/ui/switch";
+// Switch removed — dealbreaker replaced by Important Topics step
 import { Skeleton } from "@/components/ui/skeleton";
 import { Separator } from "@/components/ui/separator";
 import type { MunicipalityData, UserAnswer, Statement } from "@/lib/types";
@@ -28,18 +28,21 @@ export default function QuestionnairePage() {
   const slug = params.municipality as string;
 
   const [data, setData] = useState<MunicipalityData | null>(null);
-  const [altData, setAltData] = useState<MunicipalityData | null>(null); // alternate language
+  const [altData, setAltData] = useState<MunicipalityData | null>(null);
   const [currentIdx, setCurrentIdx] = useState(0);
   const [answers, setAnswers] = useState<Record<number, UserAnswer>>({});
-  const [dealbreakers, setDealbreakers] = useState<Set<number>>(new Set());
   const [activeTab, setActiveTab] = useState<InfoTab>(null);
   const [loading, setLoading] = useState(true);
   const [animating, setAnimating] = useState(false);
 
   useEffect(() => {
     const saved = localStorage.getItem(`vg-${slug}-answers`);
-    const savedDb = localStorage.getItem(`vg-${slug}-dealbreakers`);
     const savedIdx = localStorage.getItem(`vg-${slug}-index`);
+
+    // Track start time for speed check
+    if (!sessionStorage.getItem(`vg-${slug}-startTime`)) {
+      sessionStorage.setItem(`vg-${slug}-startTime`, String(Date.now()));
+    }
 
     const primary = locale === "en" ? "en" : "nl";
     const alt = locale === "en" ? "nl" : "en";
@@ -51,8 +54,9 @@ export default function QuestionnairePage() {
       .then((d: MunicipalityData) => {
         setData(d);
         if (saved) setAnswers(JSON.parse(saved));
-        if (savedDb) setDealbreakers(new Set(JSON.parse(savedDb)));
         if (savedIdx) setCurrentIdx(parseInt(savedIdx));
+        // Store num statements for speed check
+        sessionStorage.setItem(`vg-${slug}-numStatements`, String(d.statements.length));
         setLoading(false);
       });
 
@@ -66,9 +70,8 @@ export default function QuestionnairePage() {
   useEffect(() => {
     if (!data) return;
     localStorage.setItem(`vg-${slug}-answers`, JSON.stringify(answers));
-    localStorage.setItem(`vg-${slug}-dealbreakers`, JSON.stringify([...dealbreakers]));
     localStorage.setItem(`vg-${slug}-index`, String(currentIdx));
-  }, [answers, dealbreakers, currentIdx, slug, data]);
+  }, [answers, currentIdx, slug, data]);
 
   const statements = data?.statements || [];
   const current: Statement | undefined = statements[currentIdx];
@@ -93,39 +96,46 @@ export default function QuestionnairePage() {
     return { agree, disagree, neither };
   }, [data, current]);
 
+  const goToNextStep = useCallback(() => {
+    // Save answers to sessionStorage for the post-questionnaire flow
+    sessionStorage.setItem(`vg-${slug}-answers`, JSON.stringify(answers));
+    router.push(`/${locale}/${slug}/important-topics`);
+  }, [answers, slug, locale, router]);
+
   const goNext = useCallback(() => {
     setAnimating(true);
     setActiveTab(null);
     setTimeout(() => {
-      if (currentIdx < statements.length - 1) setCurrentIdx((i) => i + 1);
+      if (currentIdx < statements.length - 1) {
+        setCurrentIdx((i) => i + 1);
+      } else {
+        // Last question answered → auto-navigate to next step
+        goToNextStep();
+      }
       setAnimating(false);
     }, 150);
-  }, [currentIdx, statements.length]);
+  }, [currentIdx, statements.length, goToNextStep]);
 
   const answer = useCallback(
     (value: UserAnswer) => {
       if (!current) return;
-      setAnswers((prev) => ({ ...prev, [current.id]: value }));
-      goNext();
+      const newAnswers = { ...answers, [current.id]: value };
+      setAnswers(newAnswers);
+
+      // Check if this was the last question
+      if (currentIdx >= statements.length - 1) {
+        // Save and auto-navigate
+        sessionStorage.setItem(`vg-${slug}-answers`, JSON.stringify(newAnswers));
+        setAnimating(true);
+        setTimeout(() => {
+          router.push(`/${locale}/${slug}/important-topics`);
+        }, 200);
+      } else {
+        goNext();
+      }
     },
-    [current, goNext]
+    [current, currentIdx, statements.length, answers, goNext, slug, locale, router]
   );
-
-  const toggleDealbreaker = useCallback(() => {
-    if (!current) return;
-    setDealbreakers((prev) => {
-      const next = new Set(prev);
-      if (next.has(current.id)) next.delete(current.id);
-      else next.add(current.id);
-      return next;
-    });
-  }, [current]);
-
-  const goToResults = useCallback(() => {
-    sessionStorage.setItem(`vg-${slug}-answers`, JSON.stringify(answers));
-    sessionStorage.setItem(`vg-${slug}-dealbreakers`, JSON.stringify([...dealbreakers]));
-    router.push(`/${locale}/${slug}/results`);
-  }, [answers, dealbreakers, slug, locale, router]);
 
   if (loading) {
     return (
@@ -143,7 +153,7 @@ export default function QuestionnairePage() {
 
   if (!data || !current) return null;
 
-  const isDealbreaker = dealbreakers.has(current.id);
+  // Dealbreaker removed — replaced by Important Topics post-questionnaire step
   const title = locale === "en" && current.titleEn ? current.titleEn : current.title;
   const theme = locale === "en" && current.themeEn ? current.themeEn : current.theme;
   const moreInfo = locale === "en" && current.moreInfoEn ? current.moreInfoEn : current.moreInfo;
@@ -220,16 +230,7 @@ export default function QuestionnairePage() {
             )}
           </div>
 
-          {/* Dealbreaker */}
-          <div className="flex items-center justify-between">
-            <label className="flex items-center gap-2 cursor-pointer" aria-label={t("markDealbreaker")}>
-              <span className="text-sm text-gray-500">{t("dealbreaker")}</span>
-              <Switch checked={isDealbreaker} onCheckedChange={toggleDealbreaker} />
-            </label>
-            {isDealbreaker && (
-              <Badge variant="destructive" className="text-xs flex items-center gap-1"><MdFlag className="h-3 w-3" /> {t("dealbreaker")}</Badge>
-            )}
-          </div>
+          {/* Dealbreaker toggle removed — replaced by Important Topics step after questionnaire */}
 
           {/* Three Tabs — matching StemWijzer */}
           <div className="flex rounded-lg border border-gray-200 overflow-hidden dark:border-gray-700">
@@ -404,18 +405,7 @@ export default function QuestionnairePage() {
         </Button>
       </div>
 
-      {/* View Results */}
-      {answeredCount >= 5 && (
-        <div className="text-center">
-          <Button
-            onClick={goToResults}
-            size="lg"
-            className="h-14 w-full rounded-xl bg-blue-600 px-8 text-base font-semibold text-white shadow-md hover:bg-blue-700 hover:shadow-lg active:scale-[0.98] sm:w-auto"
-          >
-            {t("viewResults")} →
-          </Button>
-        </div>
-      )}
+      {/* Auto-advances to Important Topics after last question — no "View Results" button */}
 
       {/* Progress info */}
       <p className="text-center text-xs text-gray-400">

@@ -1,22 +1,27 @@
 import type {
   UserAnswer,
   PartyMatch,
-  DealBreakerMode,
-  ThemeWeight,
   MunicipalityData,
 } from "./types";
 
+/**
+ * Calculate party matches using StemWijzer-compatible scoring.
+ * Priority statements get 2x weight (matches StemWijzer exactly).
+ */
 export function calculateMatches(
   data: MunicipalityData,
   answers: Record<number, UserAnswer>,
-  dealbreakers: Set<number>,
-  mode: DealBreakerMode,
-  themeWeights: ThemeWeight[]
+  priorityStatements: number[] = [],
+  selectedPartyIds: number[] | null = null,
 ): PartyMatch[] {
-  const weightMap = new Map(themeWeights.map((tw) => [tw.themeId, tw.weight]));
+  const prioritySet = new Set(priorityStatements);
 
   return data.parties
-    .filter((party) => party.participates)
+    .filter((party) => {
+      if (!party.participates) return false;
+      if (selectedPartyIds !== null && !selectedPartyIds.includes(party.id)) return false;
+      return true;
+    })
     .map((party) => {
       let totalWeight = 0;
       let matchWeight = 0;
@@ -24,7 +29,6 @@ export function calculateMatches(
       let disagreeCount = 0;
       let neitherCount = 0;
       let totalAnswered = 0;
-      const dealbreakersViolated: number[] = [];
 
       for (const stmt of data.statements) {
         const userAnswer = answers[stmt.id];
@@ -35,11 +39,8 @@ export function calculateMatches(
 
         totalAnswered++;
 
-        let weight = 1;
-        const themeWeight = weightMap.get(stmt.themeId);
-        if (themeWeight && themeWeight > 1) weight *= themeWeight;
-        if (dealbreakers.has(stmt.id) && mode === "weighted") weight *= 3;
-
+        // Priority statements get 2x weight (matching StemWijzer)
+        const weight = prioritySet.has(stmt.id) ? 2 : 1;
         totalWeight += weight;
 
         if (userAnswer === "neither" || partyPos.position === "neither") {
@@ -50,17 +51,11 @@ export function calculateMatches(
           agreeCount++;
         } else {
           disagreeCount++;
-          if (dealbreakers.has(stmt.id)) {
-            dealbreakersViolated.push(stmt.id);
-          }
         }
       }
 
       const matchPercentage =
         totalWeight > 0 ? Math.round((matchWeight / totalWeight) * 1000) / 10 : 0;
-
-      const isEliminated =
-        mode === "strict" && dealbreakersViolated.length > 0;
 
       return {
         partyId: party.id,
@@ -71,14 +66,11 @@ export function calculateMatches(
         disagreeCount,
         neitherCount,
         totalAnswered,
-        dealbreakersViolated,
-        isEliminated,
+        dealbreakersViolated: [],
+        isEliminated: false,
       };
     })
-    .sort((a, b) => {
-      if (a.isEliminated !== b.isEliminated) return a.isEliminated ? 1 : -1;
-      return b.matchPercentage - a.matchPercentage;
-    });
+    .sort((a, b) => b.matchPercentage - a.matchPercentage);
 }
 
 /**

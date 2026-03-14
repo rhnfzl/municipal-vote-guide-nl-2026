@@ -71,6 +71,10 @@
           "position": "neither",
           "explanation": "Dit is geen zaak van de gemeente maar van de winkeliers."
         },
+        "117035": {
+          "position": "disagree",
+          "explanation": "Ook onze IJsselsteinse inwoners wachten al heel erg lang."
+        },
         "117038": {
           "position": "disagree",
           "explanation": "Een nieuw buurthuis in IJsselveld Oost is belangrijk voor de cohesie in de wijk. Wij willen in iedere wijk een wijkcentrum."
@@ -172,6 +176,10 @@
         "117034": {
           "position": "agree",
           "explanation": "Dit bevordert de economische vitaliteit van de stad en het bruisende karakter van IJsselstein. Dit moet wel in samenspraak met de ondernemersverenigingen van de binnenstad worden georganiseerd. Zij moeten het ook kunnen bolwerken."
+        },
+        "117035": {
+          "position": "agree",
+          "explanation": "Doe je dat niet, dan moeten er aanzienlijk meer opvanglocaties bij komen. Daar hebben we in IJsselstein maar beperkte ruimte voor. Wij willen meer sociale huurwoningen (35 procent bij nieuwbouw) naast de 40 procent betaalbare koopwoningen. Ook willen we IJsselsteiners voorrang geven."
         },
         "117038": {
           "position": "disagree",
@@ -275,6 +283,10 @@
           "position": "agree",
           "explanation": "We geven de ondernemers de ruimte. We ondersteunen de winkeliersverenigingen om hier gezamenlijk afspraken over te maken. Onder andere door de koopzondagen bruist de stad, met dank aan de ondernemers!"
         },
+        "117035": {
+          "position": "agree",
+          "explanation": "We doen dit ook voor inwoners die werkzaam zijn in het onderwijs, de zorg, de politie of vrijwilliger zijn bij ons brandweerkorps."
+        },
         "117038": {
           "position": "agree",
           "explanation": "Vanwege de schade die is aangebracht aan Studio 10 is het pand niet meer veilig. De kosten om het te herstellen zijn te groot, waardoor slopen logisch is."
@@ -376,6 +388,10 @@
         "117034": {
           "position": "disagree",
           "explanation": "Het CDA ziet dat twaalf koopzondagen per jaar in de praktijk voldoende zijn. Uit signalen van ondernemers blijkt dat zij zelf juist naar minder koopzondagen willen, omdat op de huidige koopzondagen te weinig winkels geopend zijn."
+        },
+        "117035": {
+          "position": "neither",
+          "explanation": "Het CDA volgt de landelijke regelgeving. Op dit moment krijgen statushouders die toegewezen zijn aan de gemeente IJsselstein voorrang op een sociale huurwoning. De gemeente volgt dit beleid."
         },
         "117038": {
           "position": "disagree",
@@ -479,6 +495,10 @@
           "position": "agree",
           "explanation": "Ondernemers moeten zoveel mogelijk zelf over hun openingstijden gaan. Als er naast de vele activiteiten en elementen behoefte is aan ruimere openingstijden, dan faciliteren we dat."
         },
+        "117035": {
+          "position": "agree",
+          "explanation": "De asielketen staat onder druk, IJsselstein draagt bij aan de oplossing. Dit gaat om een klein deel van de vrijgekomen woningen per jaar in onze stad."
+        },
         "117038": {
           "position": "disagree",
           "explanation": "Het buurthuis is gesloopt. De gemeente moet zo snel mogelijk een nieuw buurthuis bouwen en in de tussentijd in de wijk, samen met jongerenwerk en de woningbouwvereniging, activiteiten organiseren."
@@ -580,6 +600,10 @@
         "117034": {
           "position": "disagree",
           "explanation": "De ChristenUnie is voorstander van een ritme waarin de samenleving ook rust neemt, zoals op de zondag. Op dit moment heeft IJsselstein een beperkt aantal koopzondagen. Dit is voor ondernemers een wisselend succes. De CU wil het huidige beleid niet wijzigen."
+        },
+        "117035": {
+          "position": "agree",
+          "explanation": "De ChristenUnie vindt dat gemeenten gehouden zijn om de wet uit te voeren, anders kunnen ze ook aan inwoners niet vragen zich aan de wet te houden. Tegelijk moet de gemeente nadenken over alternatieven, omdat Oekraïners vanaf maart 2027 een woning nodig hebben. CU IJsselstein wil tijdelijke woningen."
         },
         "117038": {
           "position": "disagree",
@@ -869,6 +893,19 @@
       "pro": "",
       "con": "",
       "isShootout": false
+    }
+  ],
+  "shootoutStatements": [
+    {
+      "id": 117035,
+      "index": 24,
+      "theme": "Voorrang voor vluchtelingen",
+      "themeId": "voorrang-voor-vluchtelingen",
+      "title": "De gemeente moet vluchtelingen met een verblijfsvergunning voorrang blijven geven op een sociale huurwoning.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
     }
   ]
 }

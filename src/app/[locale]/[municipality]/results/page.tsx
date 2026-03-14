@@ -6,24 +6,16 @@ import { useParams, useRouter } from "next/navigation";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-import { Separator } from "@/components/ui/separator";
 import { Skeleton } from "@/components/ui/skeleton";
 import { calculateMatches, generateMatchSummary } from "@/lib/scoring";
 import { ShareResults } from "@/components/share-results";
-import { IssueTuning } from "@/components/issue-tuning";
-import { PoliticalCompass } from "@/components/political-compass";
 import { PartyAvatar } from "@/components/party-avatar";
-import { MdCheckCircle, MdCancel, MdExpandMore, MdExpandLess, MdFlag } from "@/components/icons";
-import type {
-  MunicipalityData,
-  UserAnswer,
-  PartyMatch,
-  DealBreakerMode,
-  ThemeWeight,
-} from "@/lib/types";
+import { MdCheckCircle, MdCancel, MdExpandMore, MdInfo } from "@/components/icons";
+import type { MunicipalityData, UserAnswer, PartyMatch } from "@/lib/types";
 
 export default function ResultsPage() {
   const t = useTranslations("results");
+  const tf = useTranslations("flow");
   const tq = useTranslations("questionnaire");
   const locale = useLocale();
   const params = useParams();
@@ -32,19 +24,15 @@ export default function ResultsPage() {
 
   const [data, setData] = useState<MunicipalityData | null>(null);
   const [matches, setMatches] = useState<PartyMatch[]>([]);
-  const [mode, setMode] = useState<DealBreakerMode>("weighted");
-  const [expanded, setExpanded] = useState<number | null>(null);
   const [answers, setAnswers] = useState<Record<number, UserAnswer>>({});
-  const [dealbreakers, setDealbreakers] = useState<Set<number>>(new Set());
-  const [themeWeights, setThemeWeights] = useState<ThemeWeight[]>([]);
+  const [expanded, setExpanded] = useState<number | null>(null);
 
   useEffect(() => {
     const savedAnswers =
       sessionStorage.getItem(`vg-${slug}-answers`) ||
       localStorage.getItem(`vg-${slug}-answers`);
-    const savedDb =
-      sessionStorage.getItem(`vg-${slug}-dealbreakers`) ||
-      localStorage.getItem(`vg-${slug}-dealbreakers`);
+    const savedPriorities = sessionStorage.getItem(`vg-${slug}-priorities`);
+    const savedPartyIds = sessionStorage.getItem(`vg-${slug}-selectedParties`);
 
     if (!savedAnswers) {
       router.push(`/${locale}/${slug}/questionnaire`);
@@ -52,24 +40,19 @@ export default function ResultsPage() {
     }
 
     const parsedAnswers = JSON.parse(savedAnswers);
-    const parsedDb = savedDb ? new Set<number>(JSON.parse(savedDb)) : new Set<number>();
+    const priorities: number[] = savedPriorities ? JSON.parse(savedPriorities) : [];
+    const selectedPartyIds: number[] | null = savedPartyIds ? JSON.parse(savedPartyIds) : null;
 
     setAnswers(parsedAnswers);
-    setDealbreakers(parsedDb);
 
     fetch(`/data/municipalities/${slug}/${locale === "en" ? "en" : "nl"}.json`)
       .then((r) => (r.ok ? r : fetch(`/data/municipalities/${slug}/nl.json`)))
       .then((r) => r.json())
       .then((d: MunicipalityData) => {
         setData(d);
-        setMatches(calculateMatches(d, parsedAnswers, parsedDb, "weighted", []));
+        setMatches(calculateMatches(d, parsedAnswers, priorities, selectedPartyIds));
       });
   }, [slug, locale, router]);
-
-  useEffect(() => {
-    if (!data) return;
-    setMatches(calculateMatches(data, answers, dealbreakers, mode, themeWeights));
-  }, [mode, data, answers, dealbreakers, themeWeights]);
 
   if (!data || matches.length === 0) {
     return (
@@ -77,11 +60,18 @@ export default function ResultsPage() {
         <Skeleton className="h-8 w-64 mx-auto" />
         <Skeleton className="h-4 w-48 mx-auto" />
         {Array.from({ length: 5 }).map((_, i) => (
-          <Skeleton key={i} className="h-24 rounded-xl" />
+          <Skeleton key={i} className="h-20 rounded-xl" />
         ))}
       </div>
     );
   }
+
+  // Tie-breaker detection: top 2 parties within 5%
+  const showTieBreaker =
+    matches.length >= 2 &&
+    matches[0].matchPercentage - matches[1].matchPercentage <= 5 &&
+    data.shootoutStatements &&
+    data.shootoutStatements.length > 0;
 
   const matchColor = (pct: number) =>
     pct >= 70 ? "text-green-600 dark:text-green-400" :
@@ -92,8 +82,12 @@ export default function ResultsPage() {
     <div className="mx-auto max-w-2xl space-y-6">
       {/* Header */}
       <div className="text-center space-y-2">
-        <h1 className="text-2xl font-extrabold tracking-tight sm:text-3xl">{t("title")}</h1>
-        <p className="text-gray-500">{t("subtitle", { municipality: data.name })}</p>
+        <h1 className="text-2xl font-extrabold tracking-tight sm:text-3xl">
+          {tf("resultTitle")}
+        </h1>
+        <p className="text-gray-500">
+          {tf("resultSubtitle")}
+        </p>
       </div>
 
       {/* Share — prominent at top */}
@@ -101,52 +95,31 @@ export default function ResultsPage() {
         <ShareResults matches={matches} municipality={data.name} locale={locale} />
       </div>
 
-      {/* Dealbreaker Mode */}
-      {dealbreakers.size > 0 && (
-        <div className="flex items-center justify-center gap-3 rounded-xl bg-gray-100 p-3 dark:bg-gray-900">
-          <span className="text-sm font-medium">{t("dealBreakerMode")}:</span>
-          <div className="flex rounded-lg bg-white p-1 shadow-sm dark:bg-gray-800">
-            <button
-              onClick={() => setMode("weighted")}
-              className={`rounded-md px-3 py-1.5 text-sm font-medium transition-colors ${
-                mode === "weighted" ? "bg-blue-600 text-white shadow-sm" : "text-gray-600 hover:bg-gray-100 dark:text-gray-400"
-              }`}
+      {/* Tie-breaker banner */}
+      {showTieBreaker && (
+        <Card className="border-blue-300 bg-blue-50 dark:border-blue-700 dark:bg-blue-950/30">
+          <CardContent className="p-5 text-center space-y-3">
+            <p className="font-semibold text-blue-800 dark:text-blue-200">
+              {tf("tieBreaker")}
+            </p>
+            <p className="text-sm text-blue-600 dark:text-blue-300">
+              {tf("tieBreakerDesc")}
+            </p>
+            <Button
+              onClick={() => router.push(`/${locale}/${slug}/shootout?party1=${matches[0].partyId}&party2=${matches[1].partyId}`)}
+              className="rounded-xl bg-blue-600 text-white hover:bg-blue-700"
             >
-              {t("weighted")}
-            </button>
-            <button
-              onClick={() => setMode("strict")}
-              className={`rounded-md px-3 py-1.5 text-sm font-medium transition-colors ${
-                mode === "strict" ? "bg-red-600 text-white shadow-sm" : "text-gray-600 hover:bg-gray-100 dark:text-gray-400"
-              }`}
-            >
-              {t("strict")}
-            </button>
-          </div>
-        </div>
+              {tf("startExtraQuestions")}
+            </Button>
+          </CardContent>
+        </Card>
       )}
 
-      {/* Political Compass — visible by default */}
-      <Card className="overflow-hidden rounded-2xl border-0 shadow-md">
-        <CardContent className="p-5">
-          <PoliticalCompass data={data} answers={answers} locale={locale} />
-        </CardContent>
-      </Card>
-
-      {/* Issue Tuning */}
-      <IssueTuning
-        statements={data.statements}
-        weights={themeWeights}
-        onWeightsChange={setThemeWeights}
-        locale={locale}
-      />
-
-      {/* Results List */}
+      {/* Ranked Results List — clean, StemWijzer-style */}
       <div className="space-y-3">
         {matches.map((match, idx) => {
+          const isTop = idx === 0;
           const isExpanded = expanded === match.partyId;
-          const party = data.parties.find((p) => p.id === match.partyId);
-          const isTop = idx === 0 && !match.isEliminated;
           const summary = isExpanded
             ? generateMatchSummary(data, answers, match.partyId, locale)
             : null;
@@ -154,169 +127,48 @@ export default function ResultsPage() {
           return (
             <Card
               key={match.partyId}
-              className={`overflow-hidden rounded-xl transition-all duration-200 ${
-                match.isEliminated
-                  ? "opacity-50 border-red-300 dark:border-red-800"
-                  : isTop
-                    ? "ring-2 ring-amber-400 shadow-lg bg-gradient-to-r from-amber-50/50 to-white dark:from-amber-950/20 dark:to-gray-900"
-                    : "hover:shadow-md"
+              className={`overflow-hidden rounded-xl transition-all duration-200 cursor-pointer ${
+                isTop
+                  ? "ring-2 ring-amber-400 shadow-lg bg-gradient-to-r from-amber-50/50 to-white dark:from-amber-950/20 dark:to-gray-900"
+                  : "hover:shadow-md"
               }`}
+              onClick={() => router.push(`/${locale}/${slug}/compare-party?party=${match.partyId}`)}
             >
               <CardContent className="p-4 sm:p-5">
-                <div
-                  className="cursor-pointer"
-                  onClick={() => setExpanded(isExpanded ? null : match.partyId)}
-                  onKeyDown={(e) => {
-                    if (e.key === "Enter" || e.key === " ") {
-                      e.preventDefault();
-                      setExpanded(isExpanded ? null : match.partyId);
-                    }
-                  }}
-                  role="button"
-                  tabIndex={0}
-                  aria-expanded={isExpanded}
-                  aria-label={`${match.partyName}: ${match.matchPercentage}% match. ${t("expandDetails")}`}
-                >
-                  <div className="flex items-center gap-3">
-                    <span className="flex h-7 w-7 items-center justify-center rounded-full bg-gray-100 text-xs font-bold text-gray-400 dark:bg-gray-800 shrink-0">
-                      {idx + 1}
-                    </span>
-                    <PartyAvatar name={match.partyName} size="md" />
-                    <div className="flex-1 min-w-0">
-                      <div className="flex items-center gap-2">
-                        <h3 className="font-semibold truncate">{match.partyName}</h3>
-                        {isTop && (
-                          <Badge className="bg-amber-100 text-amber-800 text-xs dark:bg-amber-900 dark:text-amber-200">
-                            {t("topMatch")}
-                          </Badge>
-                        )}
-                      </div>
-                      {match.isEliminated && (
-                        <Badge variant="destructive" className="text-xs mt-1">{t("eliminated")}</Badge>
-                      )}
-                      {match.dealbreakersViolated.length > 0 && !match.isEliminated && (
-                        <span className="text-xs text-red-500">
-                          {t("dealbreakersViolated", { count: match.dealbreakersViolated.length })}
-                        </span>
+                <div className="flex items-center gap-3">
+                  <PartyAvatar name={match.partyName} size="lg" />
+                  <div className="flex-1 min-w-0">
+                    <div className="flex items-center gap-2">
+                      <h3 className="font-semibold truncate">{match.partyName}</h3>
+                      {isTop && (
+                        <Badge className="bg-amber-100 text-amber-800 text-xs dark:bg-amber-900 dark:text-amber-200">
+                          {t("topMatch")}
+                        </Badge>
                       )}
                     </div>
-                    <div className="text-right shrink-0">
-                      <span className={`text-3xl font-black ${matchColor(match.matchPercentage)}`}>
-                        {match.matchPercentage}%
+                    {/* Progress bar */}
+                    <div className="mt-2 h-2.5 overflow-hidden rounded-full bg-gray-100 dark:bg-gray-800">
+                      <div
+                        className={`h-full rounded-full transition-all duration-700 ease-out ${
+                          match.matchPercentage >= 70 ? "bg-green-500" :
+                          match.matchPercentage >= 40 ? "bg-amber-500" : "bg-red-500"
+                        }`}
+                        style={{ width: `${match.matchPercentage}%` }}
+                      />
+                    </div>
+                    <div className="mt-1.5 flex items-center gap-3 text-xs text-gray-500">
+                      <span className="text-green-600 flex items-center gap-0.5">
+                        <MdCheckCircle className="h-3 w-3" /> {match.agreeCount} {t("agreed")}
+                      </span>
+                      <span className="text-red-600 flex items-center gap-0.5">
+                        <MdCancel className="h-3 w-3" /> {match.disagreeCount} {t("disagreed")}
                       </span>
                     </div>
                   </div>
-
-                  {/* Progress bar */}
-                  <div className="mt-3 h-2.5 overflow-hidden rounded-full bg-gray-100 dark:bg-gray-800">
-                    <div
-                      className={`h-full rounded-full transition-all duration-700 ease-out ${
-                        match.matchPercentage >= 70
-                          ? "bg-green-500"
-                          : match.matchPercentage >= 40
-                            ? "bg-amber-500"
-                            : "bg-red-500"
-                      }`}
-                      style={{ width: `${match.matchPercentage}%` }}
-                    />
-                  </div>
-
-                  <div className="mt-2 flex items-center gap-4 text-sm text-gray-500">
-                    <span className="text-green-600 flex items-center gap-1"><MdCheckCircle className="h-3.5 w-3.5" /> {match.agreeCount} {t("agreed")}</span>
-                    <span className="text-red-600 flex items-center gap-1"><MdCancel className="h-3.5 w-3.5" /> {match.disagreeCount} {t("disagreed")}</span>
-                    <span className="ml-auto text-xs flex items-center gap-1">
-                      {isExpanded ? <MdExpandLess className="h-4 w-4" /> : <MdExpandMore className="h-4 w-4" />} {t("whyMatch")}
-                    </span>
-                  </div>
+                  <span className={`text-2xl font-black shrink-0 sm:text-3xl ${matchColor(match.matchPercentage)}`}>
+                    {match.matchPercentage}%
+                  </span>
                 </div>
-
-                {/* Expanded Detail */}
-                {isExpanded && party && (
-                  <div className="mt-4 space-y-3">
-                    <Separator />
-
-                    {/* Theme summary */}
-                    {summary && summary.agreeThemes.length > 0 && (
-                      <div className="rounded-lg bg-green-50 p-3 text-sm dark:bg-green-950/20">
-                        <p className="text-green-800 dark:text-green-300">
-                          {t("agreeOn", { themes: summary.agreeThemes.join(", ") })}
-                        </p>
-                      </div>
-                    )}
-                    {summary && summary.disagreeThemes.length > 0 && (
-                      <div className="rounded-lg bg-red-50 p-3 text-sm dark:bg-red-950/20">
-                        <p className="text-red-800 dark:text-red-300">
-                          {t("differOn", { themes: summary.disagreeThemes.join(", ") })}
-                        </p>
-                      </div>
-                    )}
-
-                    {/* Per-question breakdown */}
-                    <div className="space-y-2">
-                      {data.statements.map((stmt) => {
-                        const userAnswer = answers[stmt.id];
-                        if (!userAnswer || userAnswer === "skip") return null;
-                        const partyPos = party.positions[stmt.id];
-                        if (!partyPos) return null;
-
-                        const isMatch =
-                          userAnswer === partyPos.position ||
-                          userAnswer === "neither" ||
-                          partyPos.position === "neither";
-                        const isDealbreakerQ = dealbreakers.has(stmt.id);
-                        const stmtTitle = locale === "en" && stmt.titleEn ? stmt.titleEn : stmt.title;
-
-                        return (
-                          <div
-                            key={stmt.id}
-                            className={`rounded-lg p-3 text-sm ${
-                              isMatch
-                                ? "bg-green-50 dark:bg-green-950/20"
-                                : "bg-red-50 dark:bg-red-950/20"
-                            }`}
-                          >
-                            <div className="flex items-start justify-between gap-2">
-                              <p className="font-medium leading-snug flex-1">
-                                {isDealbreakerQ && <MdFlag className="h-3.5 w-3.5 text-red-500 inline mr-1" />}
-                                {stmtTitle}
-                              </p>
-                              <div className="flex gap-1.5 shrink-0 text-xs">
-                                <Badge
-                                  className={
-                                    userAnswer === "agree"
-                                      ? "bg-green-600 text-white"
-                                      : userAnswer === "disagree"
-                                        ? "bg-red-600 text-white"
-                                        : "bg-gray-200 text-gray-700"
-                                  }
-                                >
-                                  {userAnswer === "agree" ? tq("agree") : userAnswer === "disagree" ? tq("disagree") : tq("neither")}
-                                </Badge>
-                                <Badge
-                                  variant="outline"
-                                  className={
-                                    partyPos.position === "agree"
-                                      ? "border-green-500 text-green-700"
-                                      : partyPos.position === "disagree"
-                                        ? "border-red-500 text-red-700"
-                                        : ""
-                                  }
-                                >
-                                  {partyPos.position === "agree" ? tq("agree") : partyPos.position === "disagree" ? tq("disagree") : tq("neither")}
-                                </Badge>
-                              </div>
-                            </div>
-                            {partyPos.explanation && (
-                              <p className="mt-1.5 text-xs text-gray-500 italic leading-relaxed">
-                                {locale === "en" && partyPos.explanationEn ? partyPos.explanationEn : partyPos.explanation}
-                              </p>
-                            )}
-                          </div>
-                        );
-                      })}
-                    </div>
-                  </div>
-                )}
               </CardContent>
             </Card>
           );
@@ -337,8 +189,11 @@ export default function ResultsPage() {
           className="rounded-xl"
           onClick={() => {
             localStorage.removeItem(`vg-${slug}-answers`);
-            localStorage.removeItem(`vg-${slug}-dealbreakers`);
             localStorage.removeItem(`vg-${slug}-index`);
+            sessionStorage.removeItem(`vg-${slug}-answers`);
+            sessionStorage.removeItem(`vg-${slug}-priorities`);
+            sessionStorage.removeItem(`vg-${slug}-selectedParties`);
+            sessionStorage.removeItem(`vg-${slug}-startTime`);
             router.push(`/${locale}/${slug}/questionnaire`);
           }}
         >

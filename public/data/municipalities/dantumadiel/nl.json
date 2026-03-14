@@ -31,6 +31,10 @@
           "position": "disagree",
           "explanation": "Wij vinden het belangrijker dat er goede keuzes worden gemaakt, dan dat er meer geld aan wordt besteed."
         },
+        "229897": {
+          "position": "agree",
+          "explanation": "Wij vinden dat mensen die vaak een toilet nodig hebben, volwaardig mee moeten kunnen doen in de maatschappij."
+        },
         "229898": {
           "position": "disagree",
           "explanation": "Wij vinden dit een verantwoordelijkheid voor de ondernemer zelf."
@@ -160,6 +164,10 @@
         "229895": {
           "position": "agree",
           "explanation": "Goede integratie vraagt om investeren in taal, werk en participatie. Dat helpt nieuwkomers sneller mee te doen in en bij te dragen aan de mienskip; en voorkomt grotere sociale en financiële problemen op de lange termijn."
+        },
+        "229897": {
+          "position": "agree",
+          "explanation": "Goede voorzieningen horen bij een gastvrije en toegankelijke gemeente. Meer openbare toiletten helpen ouderen, gezinnen en bezoekers en ondersteunen levendige dorpskernen en recreatie."
         },
         "229898": {
           "position": "neither",
@@ -291,6 +299,10 @@
           "position": "disagree",
           "explanation": "Sociaal Links vindt dat nieuwkomers zo snel mogelijk werk moeten vinden, Dokwurk kan hierbij ondersteunen. Integreren heeft niets met geld te maken maar met meedoen."
         },
+        "229897": {
+          "position": "agree",
+          "explanation": "Sociaal Links staat hier pal achter juist vanwege oproepen van het maag- lever- darmfonds dat het voor een grote groep een cruciale voorziening is om deel te nemen aan de samenleving."
+        },
         "229898": {
           "position": "disagree",
           "explanation": "Sociaal Links vindt dit een verantwoordelijkheid van de ondernemers zelf. Als het gaat om maatschappelijke gebouwen of openbare ruimte moet de gemeente zich echter tot het uiterste inspannen voor toegankelijkheid."
@@ -420,6 +432,10 @@
         "229895": {
           "position": "disagree",
           "explanation": "Goede taal, participatie en begeleiding zijn belangrijk voor meedoen. Dit wordt door de rijksoverheid gefinancierd."
+        },
+        "229897": {
+          "position": "agree",
+          "explanation": "Leefbaarheid is belangrijk."
         },
         "229898": {
           "position": "agree",
@@ -551,6 +567,10 @@
           "position": "agree",
           "explanation": "De gemeente moet kaders stellen aan een goede opvang. Dat omvat niet alleen geld, maar ook begeleiding en steun door de gemeenschap. Bij de integratie moet er meer aandacht zijn voor het Fries en onze cultuur, bijvoorbeeld door een bezoek aan de Sûkerei. De FNP is voor begeleiding naar betaald werk."
         },
+        "229897": {
+          "position": "agree",
+          "explanation": "De FNP is voor meer openbare toiletten in Dantumadiel. Zo komt er meer aandacht voor mensen met blaas- of darmproblemen."
+        },
         "229898": {
           "position": "disagree",
           "explanation": "Dat gebouwen toegankelijk moeten zijn voor mensen met een beperking is al wettelijk vastgelegd bij nieuwbouw. De gemeente heeft de taak om hierop toe te zien. De gemeente moet ervoor zorgen dat openbare gebouwen en openbare buitenruimten toegankelijk zijn voor personen met een beperking."
@@ -681,6 +701,10 @@
           "position": "disagree",
           "explanation": "Niet zondermeer. De eerste stap liggen bij instanties die hiervoor zijn aangesteld."
         },
+        "229897": {
+          "position": "disagree",
+          "explanation": "Wat ons betreft niet echt nodig."
+        },
         "229898": {
           "position": "disagree",
           "explanation": "We vinden dat ondernemers dat prima zelf kunnen doen."
@@ -810,6 +834,10 @@
         "229895": {
           "position": "disagree",
           "explanation": "Goede integratie werkt het beste via ontmoeting. Door nieuwkomers in contact te brengen met sportclubs, verenigingen en vrijwilligers ontstaat echte verbinding. Dat versterkt het lokale verenigingsleven met nieuwe leden en kost geen extra gemeentegeld, maar bouwt op mienskip en vertrouwen."
+        },
+        "229897": {
+          "position": "agree",
+          "explanation": "BBB wil leefbare dorpen met voldoende voorzieningen. Extra openbare toiletten passen bij een toegankelijk en gastvrij Dantumadiel voor inwoners én bezoekers."
         },
         "229898": {
           "position": "disagree",
@@ -1304,6 +1332,19 @@
       "isShootout": false,
       "titleEn": "The municipality should more strictly check for misuse of Wmo and care funds.",
       "themeEn": "Wmo checks"
+    }
+  ],
+  "shootoutStatements": [
+    {
+      "id": 229897,
+      "index": 31,
+      "theme": "WC",
+      "themeId": "wc",
+      "title": "In Dantumadiel moeten meer openbare toiletten komen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
     }
   ]
 }

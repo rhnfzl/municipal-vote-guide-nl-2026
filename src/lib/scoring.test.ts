@@ -2,7 +2,6 @@ import { describe, it, expect } from "vitest";
 import { calculateMatches } from "./scoring";
 import type { MunicipalityData, UserAnswer } from "./types";
 
-// Minimal test data
 const mockData: MunicipalityData = {
   id: "TEST",
   name: "Test Municipality",
@@ -63,7 +62,7 @@ describe("calculateMatches", () => {
       102: "disagree",
       104: "agree",
     };
-    const results = calculateMatches(mockData, answers, new Set(), "weighted", []);
+    const results = calculateMatches(mockData, answers);
     const partyA = results.find((r) => r.partyId === 1)!;
     expect(partyA.matchPercentage).toBe(100);
   });
@@ -74,54 +73,41 @@ describe("calculateMatches", () => {
       102: "agree",
       104: "disagree",
     };
-    const results = calculateMatches(mockData, answers, new Set(), "weighted", []);
+    const results = calculateMatches(mockData, answers);
     const partyA = results.find((r) => r.partyId === 1)!;
     expect(partyA.matchPercentage).toBe(0);
   });
 
   it("excludes non-participating parties", () => {
     const answers: Record<number, UserAnswer> = { 101: "agree" };
-    const results = calculateMatches(mockData, answers, new Set(), "weighted", []);
+    const results = calculateMatches(mockData, answers);
     expect(results.length).toBe(2);
     expect(results.find((r) => r.partyId === 3)).toBeUndefined();
   });
 
   it("skips unanswered questions", () => {
     const answers: Record<number, UserAnswer> = { 101: "agree", 102: "skip" };
-    const results = calculateMatches(mockData, answers, new Set(), "weighted", []);
+    const results = calculateMatches(mockData, answers);
     const partyA = results.find((r) => r.partyId === 1)!;
     expect(partyA.totalAnswered).toBe(1);
     expect(partyA.matchPercentage).toBe(100);
   });
 
-  it("strict mode eliminates parties failing dealbreakers", () => {
+  it("priority statements get 2x weight", () => {
     const answers: Record<number, UserAnswer> = { 101: "agree", 102: "agree" };
-    const dealbreakers = new Set([102]); // Party A disagrees on 102
-    const results = calculateMatches(mockData, answers, dealbreakers, "strict", []);
+    const priorities = [101]; // Q101 gets 2x weight
+    const results = calculateMatches(mockData, answers, priorities);
     const partyA = results.find((r) => r.partyId === 1)!;
-    expect(partyA.isEliminated).toBe(true);
-    expect(partyA.dealbreakersViolated).toContain(102);
-  });
-
-  it("weighted mode does not eliminate but weights 3x", () => {
-    const answers: Record<number, UserAnswer> = { 101: "agree", 102: "agree" };
-    const dealbreakers = new Set([102]);
-    const results = calculateMatches(mockData, answers, dealbreakers, "weighted", []);
-    const partyA = results.find((r) => r.partyId === 1)!;
-    expect(partyA.isEliminated).toBe(false);
-    // Q101: agree=agree (weight 1, match 1), Q102: agree!=disagree (weight 3, match 0)
-    // Total weight = 4, match = 1, pct = 25%
-    expect(partyA.matchPercentage).toBe(25);
-  });
-
-  it("theme weighting doubles score impact", () => {
-    const answers: Record<number, UserAnswer> = { 101: "agree", 102: "agree" };
-    const weights = [{ themeId: "housing", weight: 2 }];
-    const results = calculateMatches(mockData, answers, new Set(), "weighted", weights);
-    const partyA = results.find((r) => r.partyId === 1)!;
-    // Q101: housing, weight 2, match. Q102: safety, weight 1, no match.
+    // Q101: agree=agree (weight 2, match 2), Q102: agree!=disagree (weight 1, match 0)
     // Total weight = 3, match = 2, pct = 66.7%
     expect(partyA.matchPercentage).toBe(66.7);
+  });
+
+  it("filters by selectedPartyIds", () => {
+    const answers: Record<number, UserAnswer> = { 101: "agree" };
+    const results = calculateMatches(mockData, answers, [], [1]); // only Party A
+    expect(results.length).toBe(1);
+    expect(results[0].partyId).toBe(1);
   });
 
   it("sorts by match percentage descending", () => {
@@ -131,15 +117,21 @@ describe("calculateMatches", () => {
       103: "agree",
       104: "agree",
     };
-    const results = calculateMatches(mockData, answers, new Set(), "weighted", []);
+    const results = calculateMatches(mockData, answers);
     expect(results[0].matchPercentage).toBeGreaterThanOrEqual(results[1].matchPercentage);
   });
 
   it("neither answers count as 0.5 match", () => {
     const answers: Record<number, UserAnswer> = { 103: "agree" };
-    // Party A has position "neither" on 103, user says "agree"
-    const results = calculateMatches(mockData, answers, new Set(), "weighted", []);
+    const results = calculateMatches(mockData, answers);
     const partyA = results.find((r) => r.partyId === 1)!;
     expect(partyA.matchPercentage).toBe(50);
+  });
+
+  it("no priority statements = equal weight", () => {
+    const answers: Record<number, UserAnswer> = { 101: "agree", 102: "disagree" };
+    const results = calculateMatches(mockData, answers);
+    const partyA = results.find((r) => r.partyId === 1)!;
+    expect(partyA.matchPercentage).toBe(100);
   });
 });

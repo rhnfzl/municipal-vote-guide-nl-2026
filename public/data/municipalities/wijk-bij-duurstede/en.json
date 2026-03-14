@@ -11,6 +11,10 @@
       "hasSeats": true,
       "participates": true,
       "positions": {
+        "230787": {
+          "position": "agree",
+          "explanation": "Kleinschalige verblijfsrecreatie in het buitengebied (kampeerboerderijen, B&B’s, kleine campings) biedt kansen voor extra/alternatieve inkomsten voor boeren. Tegelijk dragen we bij aan het terugdringen van stikstof en zoeken we duurzame herbestemmingen en nieuwe verdienmodellen voor landbouwgrond."
+        },
         "230788": {
           "position": "agree",
           "explanation": "Er is het afgelopen jaar flink bezuinigd op Vluchtelingenwerk. SamenWerkt continueert de steun aan bestaande initiatieven, gericht op de integratie van nieuwkomers en verhoogt deze waar mogelijk."
@@ -27,17 +31,41 @@
           "position": "agree",
           "explanation": "We willen meer groen in de wijken: groene wijken zijn gezonde wijken. Bomen sparen we zoveel mogelijk; bij kap herplanten we."
         },
+        "230793": {
+          "position": "disagree",
+          "explanation": "Wij zijn van mening dat er al voldoende regels zijn."
+        },
         "230796": {
           "position": "disagree",
           "explanation": "We beschermen ons historisch-cultureel erfgoed en ondersteunen laagdrempelige manieren om dit onder de mensen te brengen. Waar nodig vragen we Europese subsidies aan."
+        },
+        "230797": {
+          "position": "agree",
+          "explanation": "Natuurlijk: boa’s moeten zichtbaar zijn en wijk- en dorpsgericht werken. Ieder moet alert zijn op ondermijning, en een verdachte situatie melden. Alleen met elkaar kunnen we hier iets aan doen."
         },
         "230798": {
           "position": "disagree",
           "explanation": "Oneens, vanwege de hoge kosten die gepaard gaan met dit soort handhaving."
         },
+        "230799": {
+          "position": "agree",
+          "explanation": "Er is een groot woningtekort, vooral voor jongeren en starters. Wij willen alle maatregelen nemen, om op een eerlijke manier te zorgen dat onze inwoners voorrang krijgen bij de toekenning van woningen. Sowieso moeten er meer sociale huurwoningen worden gebouwd."
+        },
+        "230800": {
+          "position": "agree",
+          "explanation": "Wijk bij Duurstede moet betaalbaar blijven voor jongeren en starters. Daarom houden wij vast aan minimaal 35% sociale huurwoningen, zoals vastgelegd in de woonvisie (januari 2025) en komen we met ambitieuze plannen voor het bouwen van woningen voor jongeren. Door daarnaast te investeren in passende seniorenwoningen (bijvoorbeeld hofjes) bevorderen we de doorstroming."
+        },
         "230801": {
           "position": "disagree",
           "explanation": "Samen willen we de gemeente mooier maken. Dat betekent: investeren in groen, ontmoetingsplekken in wijken en natuurlijk betere wandel- en fietsroutes. Welstandregels spelen een belangrijke rol in het zorgen dat nieuwe gebouwen passen in de omgeving."
+        },
+        "230802": {
+          "position": "disagree",
+          "explanation": "In zware gevallen kan de sollicitatieplicht losgelaten worden."
+        },
+        "230803": {
+          "position": "agree",
+          "explanation": "SamenWerkt heeft zich de afgelopen periode opgeworpen als een voorvechter voor meer oplaadplekken."
         },
         "230804": {
           "position": "disagree",
@@ -59,6 +87,10 @@
           "position": "disagree",
           "explanation": "Eigenlijk is deze belasting niet van deze tijd, maar gezien de financiële situatie van onze gemeente is deze helaas nog noodzakelijk."
         },
+        "230811": {
+          "position": "agree",
+          "explanation": "Ja, het is goed om zoveel mogelijke lokale ondernemers te betrekken. Wel vormen (Europese) aanbestedingsregels soms een belemmering."
+        },
         "230813": {
           "position": "disagree",
           "explanation": "Dit heeft op dit moment geen prioriteit en zou landelijk geregeld moeten worden."
@@ -79,9 +111,17 @@
           "position": "agree",
           "explanation": "De vraag rijst: over welke overeenkomsten hebben we het? Wij zijn voor het terugdringen van gif, voor de boeren en alle andere omwonenden in het agrarisch gebied. Maar de gemeente heeft hier beperkt invloed op."
         },
+        "230819": {
+          "position": "disagree",
+          "explanation": "Een zwembad is prachtig, maar vooral de exploitatiekosten zijn voor onze gemeente te hoog, wij willen de inwoners geen valse belofte doen. Daarom kiezen wij hier niet voor."
+        },
         "230820": {
           "position": "disagree",
           "explanation": "De gemeente heeft zeker een rol te spelen in de voorschoolse educatie: de kosten hiervoor zijn echter hoog, waardoor SamenWerkt een andere keuze maakt."
+        },
+        "230822": {
+          "position": "agree",
+          "explanation": "Een theater/filmhuis is onmisbaar voor Wijk bij Duurstede; we blijven Calypso structureel financieel steunen."
         },
         "230823": {
           "position": "agree",
@@ -90,6 +130,10 @@
         "230824": {
           "position": "neither",
           "explanation": "Tegen een politiepost is niemand: invloed en mandaat van de gemeente liggen echter op \"preventie\". Via buurtpreventie/apps houden inwoners hun eigen wijk of dorp op de hoogte. Boa’s moeten zichtbaar zijn en wijk/dorpsgericht werken. Ieder moet alert zijn op ondermijning."
+        },
+        "230825": {
+          "position": "neither",
+          "explanation": "Tegen meer wijkagenten is niemand tegen: invloed en mandaat van de gemeente liggen echter op \"preventie\". Via buurtpreventie/apps houden inwoners hun eigen wijk of dorp op de hoogte. Boa’s moeten zichtbaar zijn en wijk/dorpsgericht werken. Ieder moet alert zijn op ondermijning."
         },
         "230827": {
           "position": "agree",
@@ -103,9 +147,21 @@
           "position": "agree",
           "explanation": "We creëren woonmogelijkheden voor onze vergrijzende inwoners, inclusief wonen met zorg en kleinschalige woonhofjes om doorstroming te bevorderen. We bouwen vooral kleine woningen voor alleenstaanden, starters/jongeren en spoedzoekers, zetten in op 35% sociale huur en zijn voor splitsing."
         },
+        "230832": {
+          "position": "agree",
+          "explanation": "We bouwen vooral kleine woningen voor alleenstaanden, starters/jongeren en spoedzoekers, en zetten in op 35% sociale huur."
+        },
         "230833": {
           "position": "agree",
           "explanation": "De toeslagenaffaire laat zien dat algoritmen onschuldige mensen onterecht kunnen beschuldigen, met grote gevolgen. Zulke systemen zijn vaak ondoorzichtig en foutgevoelig. Bij dit soort beslissingen moet de menselijke maat voorop staan."
+        },
+        "230834": {
+          "position": "disagree",
+          "explanation": "Dit is iets waar de gemeente niet tussen hoeft te komen. We zijn natuurlijk wel voor uitwisseling tussen de bedrijven en de scholen."
+        },
+        "230835": {
+          "position": "agree",
+          "explanation": "Goede bereikbaarheid hoort bij goed wonen. We willen veilige fietsroutes en rustige, autoluwe straten. We nemen slimme maatregelen zodat fietsers, voetgangers en auto’s veilig naast elkaar gebruik kunnen maken van de weg."
         },
         "230838": {
           "position": "disagree",
@@ -119,6 +175,10 @@
           "position": "agree",
           "explanation": "We ondersteunen activiteiten die ouderen in beweging brengen en uit hun isolement halen"
         },
+        "230841": {
+          "position": "agree",
+          "explanation": "We bestrijden armoede en schulden actief: vroegsignalering, een campagne om schaamte te doorbreken en meer bekendheid van hulpaanbod."
+        },
         "230842": {
           "position": "agree",
           "explanation": "Een waardig afscheid verdient een mooie plek."
@@ -126,6 +186,10 @@
         "230843": {
           "position": "neither",
           "explanation": "Wij zien de uitdagingen in de stijging van de kosten in het sociaal domein, maar jeugdhulp/zorg blijft een investering: we bieden op maat hulp en zoeken tegelijk naar slimme manieren om kosten te beheersen, zonder het individu uit het oog te verliezen."
+        },
+        "230844": {
+          "position": "disagree",
+          "explanation": "Het probleem in Wijk is op dit moment onvoldoende groot om hier prioriteit aan te geven."
         },
         "230846": {
           "position": "agree",
@@ -141,6 +205,10 @@
       "hasSeats": false,
       "participates": true,
       "positions": {
+        "230787": {
+          "position": "agree",
+          "explanation": "Elke ondernemer moet, passend binnen de omgeving, de vrijheid hebben te ondernemen."
+        },
         "230788": {
           "position": "agree",
           "explanation": "De VVD kan het eens zijn met deze stelling als dit tenminste een (tijdelijke) investering betreft die aantoonbaar tot snellere integratie leidt en de investering gelijk opgaat met een maximale inzet van de nieuwkomers."
@@ -157,17 +225,41 @@
           "position": "disagree",
           "explanation": "De VVD vindt dat dat afhangt van de aanleiding, het alternatief en of de boom op publiek of privaat terrein staat."
         },
+        "230793": {
+          "position": "disagree",
+          "explanation": "Het gaat ons inziens om de veiligheidsnormen."
+        },
         "230796": {
           "position": "disagree",
           "explanation": "De VVD is van mening dat een betere sturing op de uitvoering van de monumentenzorg belangrijker is dan bezuinigen, want wij vinden de historische waarden van onze kernen en onze buitengebieden belangrijk en economisch waardevol."
+        },
+        "230797": {
+          "position": "agree",
+          "explanation": "Scherp toezicht, effectieve handhaving en actieve participatie zijn belangrijk voor de VVD."
         },
         "230798": {
           "position": "agree",
           "explanation": "Scherp toezicht, effectieve handhaving en actieve participatie zijn belangrijk voor de VVD."
         },
+        "230799": {
+          "position": "agree",
+          "explanation": "Zolang er nog onvoldoende woningen zijn, kan de VVD zich voorstellen dat onder een gelijkwaardige afweging woningzoekenden uit de eigen gemeente voorrang krijgen. We moeten alles in het werk stellen om versneld te gaan bouwen. Ook in onze gemeente."
+        },
+        "230800": {
+          "position": "disagree",
+          "explanation": "De VVD vindt dat er gebouwd moet worden voor wat nodig is, zodat er voldoende doorstroming ontstaat."
+        },
         "230801": {
           "position": "agree",
           "explanation": "VVD vindt dat dit niet beperkt hoeft te blijven tot woonwijken."
+        },
+        "230802": {
+          "position": "disagree",
+          "explanation": "De VVD vindt dat mantelzorgers ook volledig onderdeel moeten blijven van de (werkende) maatschappij. Het niet verplicht te hoeven solliciteren zet de mantelzorger ook verder af van een netwerk en een vangnet.  "
+        },
+        "230803": {
+          "position": "agree",
+          "explanation": "De VVD kan hiermee instemmen, mits dit in lijn is met een aantoonbare behoefte."
         },
         "230804": {
           "position": "agree",
@@ -189,6 +281,10 @@
           "position": "agree",
           "explanation": "De VVD is van mening dat gemeentetekorten uit de gemeentelijke begroting moeten komen en niet op de hardwerkende inwoners moeten worden verhaald."
         },
+        "230811": {
+          "position": "agree",
+          "explanation": "De VVD is van mening dat dit een goede zaak is zolang kwaliteit, snelheid en kosten concurrerend zijn."
+        },
         "230813": {
           "position": "disagree",
           "explanation": "Los van of de VVD dit een smaakvolle oproep zou vinden, gaat de VVD ervan uit dat het publiek een dergelijke oproep op waarde(loosheid) kan schatten."
@@ -209,15 +305,27 @@
           "position": "agree",
           "explanation": "De VVD vindt dat als het om gif gaat, dat dit in alle overeenkomsten zou moeten worden/zijn opgenomen. "
         },
+        "230819": {
+          "position": "agree",
+          "explanation": "VVD is van mening dat er een zwembad kan komen, zodra dit langdurig financieel kan."
+        },
         "230820": {
           "position": "disagree",
           "explanation": "De VVD is van mening dat voorschoolse educatie primair een gezamenlijke verantwoordelijkheid van ouders en gemeente is, niet alleen van de overheid."
+        },
+        "230822": {
+          "position": "agree",
+          "explanation": "De VVD steunt theater Calypso zolang het zijn best blijft doen bezoekers met wervende programmering te blijven verleiden."
         },
         "230823": {
           "position": "disagree",
           "explanation": "De VVD is van mening dat deze goede zaak prima eerst door betrokkenen en inwoners zelf georganiseerd kan worden. Vervolgens kan de gemeente ondersteunen waar nodig."
         },
         "230824": {
+          "position": "agree",
+          "explanation": "De VVD wil meer wijkagenten in Groot Wijk, zodat politie zichtbaar is, preventief kan werken, snel kan ingrijpen bij inbraken, overlast en fraude, en samen met inwoners buurten veiliger maakt."
+        },
+        "230825": {
           "position": "agree",
           "explanation": "De VVD wil meer wijkagenten in Groot Wijk, zodat politie zichtbaar is, preventief kan werken, snel kan ingrijpen bij inbraken, overlast en fraude, en samen met inwoners buurten veiliger maakt."
         },
@@ -233,9 +341,21 @@
           "position": "disagree",
           "explanation": "De VVD is van mening dat de gemeente moet laten bouwen naar behoefte."
         },
+        "230832": {
+          "position": "neither",
+          "explanation": "De VVD is van mening dat de gemeente moet laten bouwen naar behoefte."
+        },
         "230833": {
           "position": "disagree",
           "explanation": "De VVD vindt dat opsporingsinstanties op wettelijke basis zeker gebruik moet kunnen maken van technologische onderzoeks- en opsporingsinstrumentarium zoals algoritmen, ook bij bijstandsfraude. "
+        },
+        "230834": {
+          "position": "neither",
+          "explanation": "De VVD is van mening dat ondernemers en onderwijsinstellingen dit eerst zelf op kunnen pakken. Vervolgens kan de gemeente dit ondersteunen als dit nodig is."
+        },
+        "230835": {
+          "position": "agree",
+          "explanation": "De VVD is van mening dat bereikbaarheid ook betekent dat de veilige bereikbaarheid per fiets aandacht moet krijgen. Een fietsstraat kan veiligheid en bereikbaarheid in één keer verbeteren."
         },
         "230838": {
           "position": "agree",
@@ -249,6 +369,10 @@
           "position": "disagree",
           "explanation": "De VVD is mening dat deze goede zaak prima door betrokkenen zelf georganiseerd kan worden. "
         },
+        "230841": {
+          "position": "disagree",
+          "explanation": "De VVD vraagt zich af of een dergelijke aanpak soelaas biedt, of dit niet juist bevooroordeeld werkt en of de overheid zich hiermee wel moet bemoeien."
+        },
         "230842": {
           "position": "disagree",
           "explanation": "De VVD vindt niet dat dit MOET. Willen particulieren dit zelf graag doen, dan kan de gemeente waar wenselijk en mogelijk hulp bieden."
@@ -256,6 +380,10 @@
         "230843": {
           "position": "disagree",
           "explanation": "VVD is van mening dat we met minder geld betere resultaten kunnen behalen in het belang van de jeugd."
+        },
+        "230844": {
+          "position": "disagree",
+          "explanation": "De VVD vindt dat volwassenen zelf vrij moeten kunnen kiezen voor sekswerk, zolang het legaal en vrijwillig is.\r\n"
         },
         "230846": {
           "position": "agree",
@@ -271,6 +399,10 @@
       "hasSeats": true,
       "participates": true,
       "positions": {
+        "230787": {
+          "position": "neither",
+          "explanation": "De gemeente moet dit niet altijd automatisch toestaan, maar wel per situatie bekijken. Waar het kan, moet er ruimte zijn voor maatwerk en extra activiteiten bij boerenbedrijven."
+        },
         "230788": {
           "position": "disagree",
           "explanation": "Het gaat bij integratie niet om meer geld, maar om een goede aanpak. Met duidelijke afspraken en goede begeleiding kunnen nieuwkomers meedoen zonder extra uitgaven."
@@ -287,17 +419,41 @@
           "position": "agree",
           "explanation": "Bomen zijn belangrijk, echter maatwerk is wel nodig."
         },
+        "230793": {
+          "position": "disagree",
+          "explanation": "Evenementen horen bij een levendige gemeente, maar overlast moet worden beperkt. Een goede balans is nodig."
+        },
         "230796": {
           "position": "disagree",
           "explanation": "Monumenten horen bij onze identiteit. Bezuinigen hierop tast het karakter van de gemeente aan."
+        },
+        "230797": {
+          "position": "neither",
+          "explanation": "Meer handhavers zorgen niet automatisch voor meer veiligheid of meer vertrouwen in de buurt. Alleen zichtbaarheid is niet genoeg om problemen op te lossen. Tegelijk kost het aannemen van extra handhavers veel geld, dat niet beschikbaar is. Daarom zijn wij niet duidelijk voor of tegen meer handhavers."
         },
         "230798": {
           "position": "neither",
           "explanation": "Cameratoezicht lost veiligheidsproblemen niet vanzelf op en betekent het verzamelen van data van burgers. Dat past niet bij een veilige en vrije buurt. Bovendien is het duur. Daarom zijn wij niet voor en niet tegen cameratoezicht, maar terughoudend."
         },
+        "230799": {
+          "position": "agree",
+          "explanation": "Als je sociale samenhang belangrijk vindt, moeten inwoners uit de eigen gemeente meer kans krijgen op een sociale huurwoning. Dit helpt om buurten stabiel te houden en versterkt de kwaliteit van de gemeenschap. Mensen kennen de wijk en voelen zich er verantwoordelijk voor."
+        },
+        "230800": {
+          "position": "agree",
+          "explanation": "Betaalbaar wonen is belangrijk en het staat al in de woonvisie."
+        },
         "230801": {
           "position": "disagree",
           "explanation": "Welstandsregels zorgen voor samenhang en kwaliteit in woonwijken. Zonder deze regels ontstaat er een ratjetoe aan gebouwen en dat verlaagt de aantrekkelijkheid van de kernen."
+        },
+        "230802": {
+          "position": "agree",
+          "explanation": "Mantelzorg is belangrijk werk. Deze mensen moeten ruimte krijgen om te zorgen."
+        },
+        "230803": {
+          "position": "agree",
+          "explanation": "Laadpalen zijn nodig, maar mogen niet ten koste gaan van parkeerplaatsen voor inwoners."
         },
         "230804": {
           "position": "agree",
@@ -319,6 +475,10 @@
           "position": "agree",
           "explanation": "De hondenbelasting is oneerlijk en levert weinig op. Inwoners krijgen er geen voorzieningen voor terug; het is vooral bedoeld om gaten in de begroting te dichten. Afschaffen verlaagt de lasten en is eerlijker beleid."
         },
+        "230811": {
+          "position": "agree",
+          "explanation": "Gemeentelijke projecten moeten zoveel mogelijk worden uitgevoerd door lokale ondernemers. Dat houdt geld in de regio, versterkt de lokale economie en zorgt voor werkgelegenheid. Eerst lokaal, dan pas verder kijken."
+        },
         "230813": {
           "position": "disagree",
           "explanation": "De gemeente moet terughoudend zijn met verboden. Vrijheid en normen moeten in balans blijven."
@@ -339,9 +499,17 @@
           "position": "disagree",
           "explanation": "Boeren zijn partners van de gemeente. Een algemeen verbod op landbouwgif is niet realistisch en kan zorgen voor lagere opbrengsten en risico’s voor de voedselvoorziening. De agrarische sector werkt al met strenge regels, blijft binnen Europese normen en zet in op maximale vermindering."
         },
+        "230819": {
+          "position": "agree",
+          "explanation": "Er is behoefte aan een zwembad. Door sluiting van zwembaden moeten inwoners ver reizen voor zwemles of om te sporten, wat drempels oplevert. Een zwembad bevordert gezondheid, voorkomt verdrinkingen en vergroot het aanbod aan voorzieningen. De gemeente moet de haalbaarheid onderzoeken."
+        },
         "230820": {
           "position": "agree",
           "explanation": "Vroege ondersteuning helpt kinderen om later beter mee te doen op school. Het Rijk is hiervoor primair verantwoordelijk, maar de gemeente heeft een belangrijke rol in de uitvoering en het bereiken van gezinnen die extra steun nodig hebben."
+        },
+        "230822": {
+          "position": "agree",
+          "explanation": "Het Calypso Theater is een belangrijke culturele ontmoetingsplek en moet blijven bestaan. De gemeente moet goed controleren of het theater zijn geld verstandig gebruikt en genoeg mensen bereikt. Zo blijft het theater betaalbaar voor iedereen."
         },
         "230823": {
           "position": "agree",
@@ -350,6 +518,10 @@
         "230824": {
           "position": "agree",
           "explanation": "Een politiepost zorgt voor snellere hulp en meer zichtbaarheid van de politie. Dat vergroot het gevoel van veiligheid. Door centralisatie is de politie nu veel minder zichtbaar in de wijken. Daarom moet de gemeente actief lobbyen voor een politiepost."
+        },
+        "230825": {
+          "position": "agree",
+          "explanation": "Wijkagenten zijn onmisbaar voor vertrouwen en veiligheid in de buurt. Zij kennen de wijken en signaleren problemen vroeg. Met voldoende wijkagenten kan sneller worden ingegrepen en wordt escalatie voorkomen. Wij staan voor buurtgericht werken, dicht bij de samenleving."
         },
         "230827": {
           "position": "disagree",
@@ -363,9 +535,21 @@
           "position": "agree",
           "explanation": "Gemengd wonen voor jong en oud versterkt sociale samenhang en zorg in de buurt."
         },
+        "230832": {
+          "position": "agree",
+          "explanation": "Er is grote behoefte aan kleine en betaalbare woningen. Deze zijn belangrijk voor starters en jongeren, maar ook voor senioren en mensen met een middeninkomen. De gemeente moet zorgen voor een gevarieerd woningaanbod dat past bij verschillende levensfasen."
+        },
         "230833": {
           "position": "agree",
           "explanation": "Algoritmes kunnen fouten maken en inwoners schaden. Menselijk oordeel blijft belangrijk."
+        },
+        "230834": {
+          "position": "agree",
+          "explanation": "Samenwerking tussen ondernemers en onderwijs helpt jongeren aan werk en bedrijven aan personeel."
+        },
+        "230835": {
+          "position": "neither",
+          "explanation": "Fietsstraten kunnen bijdragen aan veilig verkeer en het gebruik van de fiets. Tegelijk zijn wij tevreden met de huidige balans tussen fiets, auto en voetganger. Nieuwe fietsstraten moeten alleen worden aangelegd waar dit echt nodig, passend en financieel mogelijk is."
         },
         "230838": {
           "position": "agree",
@@ -379,6 +563,10 @@
           "position": "agree",
           "explanation": "Goede rijvaardigheid en verkeersveilig gedrag zijn belangrijk om senioren veilig en mobiel te houden. De gemeente moet daarom, bij voorkeur samen met partners zoals Veilig Verkeer Nederland, investeren in rijvaardigheidstrainingen. Dat doen we wel binnen de beschikbare middelen: gericht, efficiënt en zonder dure nieuwe programma’s."
         },
+        "230841": {
+          "position": "agree",
+          "explanation": "Schaamte houdt mensen vaak tegen om hulp te vragen. Voorlichting kan helpen om problemen eerder aan te pakken. Nog belangrijker is dat hulpverleners zichtbaar aanwezig zijn in de buurt en makkelijk aanspreekbaar zijn, zodat problemen snel worden gezien en mensen op tijd hulp krijgen."
+        },
         "230842": {
           "position": "neither",
           "explanation": "Een herdenkingsbos is een mooi idee, maar alleen haalbaar met voldoende draagvlak en een geschikte locatie. Eerder onderzoek liet zien dat dit op dit moment niet goed realiseerbaar is."
@@ -386,6 +574,10 @@
         "230843": {
           "position": "disagree",
           "explanation": "De kosten voor jeugdzorg lopen te hard op. De gemeente moet inzetten op preventie, kwaliteit en betere organisatie, niet op steeds meer geld uitgeven."
+        },
+        "230844": {
+          "position": "disagree",
+          "explanation": "De gemeente heeft op dit moment nog geen vergunning verleend dus dit punt is niet relevant. "
         },
         "230846": {
           "position": "disagree",
@@ -401,6 +593,10 @@
       "hasSeats": true,
       "participates": true,
       "positions": {
+        "230787": {
+          "position": "agree",
+          "explanation": "Als een ondernemer wil ondernemen, zou de grondhouding altijd moeten zijn: ja, we geven als gemeente de ruimte om te ondernemen. En als het toch lastig blijkt, dan als gemeente meedenken over hoe het toch zou kunnen."
+        },
         "230788": {
           "position": "disagree",
           "explanation": "De gemeente investeert hier al flink in. Samen met vrijwilligersorganisaties. Het CDA is blij dat veel vrijwilligers zich inzetten om nieuwkomers te integreren in onze samenleving. Niet meer geld, maar nog meer vrijwilligers zou beter zijn."
@@ -417,17 +613,41 @@
           "position": "agree",
           "explanation": "Het CDA wil er zelfs jaarlijks 800 bomen per jaar bij. Planten van bomen kan door de gemeente. Maar ook door inwoners en ondernemers. Op openbare grond en op hun eigen erf. "
         },
+        "230793": {
+          "position": "disagree",
+          "explanation": "Er liggen nu al strenge normen. Het is zaak die normen goed te handhaven. En om festivalorganisaties die niet professioneel zijn te weren."
+        },
         "230796": {
           "position": "agree",
           "explanation": "De financiële situatie van de gemeente is slecht. En dan ontkomt ook monumentenzorg niet aan bezuinigingen. CDA wil terughoudend omgaan met bezuinigingen op de rijke cultuurhistorie."
+        },
+        "230797": {
+          "position": "agree",
+          "explanation": "Het CDA wil het aantal boa's uitbreiden."
         },
         "230798": {
           "position": "agree",
           "explanation": "Het CDA wil gericht flexibel cameratoezicht om criminaliteit en overlast tegen te gaan."
         },
+        "230799": {
+          "position": "agree",
+          "explanation": "Het CDA ziet graag dat onze eigen jongeren woonruimte vinden in onze eigen gemeente. Dat is goed voor de sociale cohesie. Voorrang geven kan nu helaas maar beperkt."
+        },
+        "230800": {
+          "position": "agree",
+          "explanation": "Het CDA vindt dat er meer sociale huurwoningen moeten komen. Maar ziet ook graag dat er meer sociale koop komt."
+        },
         "230801": {
           "position": "neither",
           "explanation": "Het CDA ziet hierover eerst graag een gesprek met de inwoners in zo'n wijk. Er is namelijk al heel veel vergunningsrvrij."
+        },
+        "230802": {
+          "position": "disagree",
+          "explanation": "Een betaalde baan is heel belangrijk. Verplicht solliciteren draagt daaraan bij. Een algemene ontheffing is veel te kort door de bocht. Bekijk dit per geval. Met deeltijd werken zal in veel gevallen ook mantelzorg mogelijk zijn."
+        },
+        "230803": {
+          "position": "agree",
+          "explanation": "Het aantal ev's neemt snel toe. Dat vraagt ook om toename van het aantal laadplekken. Het CDA wil dat openbare laadplekken bi-directioneel inzetbaar zijn. Zodat ev's in onze gemeente ook kunnen bijdragen aan het stabieler maken van het energienet."
         },
         "230804": {
           "position": "agree",
@@ -449,6 +669,10 @@
           "position": "agree",
           "explanation": "Het CDA heeft indertijd de hondenbelasting afgeschaft. En helaas; vanwege de zeer slechte financiële situatie is de belasting weer ingevoerd. Zodra het financieel weer kan, wil het CDA de hondenbelasting weer afschaffen."
         },
+        "230811": {
+          "position": "agree",
+          "explanation": "Het CDA wil lokale kennis en vakmanschap optimaal benutten. En het zorgt ook nog voor minder werkbusjes op de weg. En extra lokaal inkomen."
+        },
         "230813": {
           "position": "neither",
           "explanation": "Het CDA vind reclame voor vreemdgaan niet fraai en onwenselijk. Het is echter de vraag of verbieden juridisch mogelijk is."
@@ -469,9 +693,17 @@
           "position": "disagree",
           "explanation": "Gebruik van gif is al verboden bij het groenonderhoud. Het CDA is tegen aanvullend beleid vanuit de gemeente m.b.t. de inzet van gewasbeschermingsmiddelen door agrariërs en fruittelers. Daar moet de landelijke overheid over gaan."
         },
+        "230819": {
+          "position": "disagree",
+          "explanation": "De gemeente heeft geen geld om financieel bij te dragen aan de exploitatie van een zwembad. Als een ondernemer een zwembad gaat aanleggen en die zonder financiële bijdrage van de gemeente weet te exploiteren, dan is deze van harte welkom.  "
+        },
         "230820": {
           "position": "disagree",
           "explanation": "De gemeente heeft hiervoor het geld niet. Er zijn nu inkomensafhankelijke ouderbijdragen."
+        },
+        "230822": {
+          "position": "agree",
+          "explanation": "Calypso heeft een belangrijke maatschappelijke functie. Wel is het zaak om ook hier te kijken hoe het verdienvermogen te vergroten is."
         },
         "230823": {
           "position": "neither",
@@ -480,6 +712,10 @@
         "230824": {
           "position": "agree",
           "explanation": "Zou mooi zijn als de politiepost terugkomt. De vraag is echter hoe realistisch dit is."
+        },
+        "230825": {
+          "position": "agree",
+          "explanation": "Dat gebeurt ook al. Zou mooi zijn als er meer wijkagenten komen. De vraag is echter hoe realistisch dit is. Het alternatief is wat het CDA betreft extra boa-capaciteit. Ook in financieel moeilijke tijden wil het CDA hier geld voor vrijmaken."
         },
         "230827": {
           "position": "disagree",
@@ -493,9 +729,21 @@
           "position": "disagree",
           "explanation": "Het idee van gemengde wooncomplexen van jong en oud spreekt het CDA aan. Maar het CDA zie niet waarom de gemeente daar geld in moet steken. Veelal is oud financieel draagkrachtig en jong niet. Samen zouden deze generaties er zonder geld van de overheid uit moeten kunnen komen."
         },
+        "230832": {
+          "position": "agree",
+          "explanation": "Voor het CDA zijn er twee belangrijke doelgroepen: jongeren, maar ook ouderen. Jongeren, om het huis uit te gaan. Maar ook ouderen, die uit hun gezinswoning naar een appartement gaan. En zorgen voor doorstroming."
+        },
         "230833": {
           "position": "disagree",
           "explanation": "Het toepassen van algoritmen om bijstandsfraude op te sporen, is alleen maar onder zeer strikte voorwaarden toegestaan. Waarmee er volgens het CDA voldoende waarborgen zijn ingebouwd om schending van mensenrechten te voorkomen."
+        },
+        "230834": {
+          "position": "agree",
+          "explanation": "Te weinig aanbod van goed personeel remt de groei van onze lokale bedrijven. Het is cruciaal voor de economische groei van onze gemeente."
+        },
+        "230835": {
+          "position": "agree",
+          "explanation": "Meer op de fiets naar het centrum in de stad en naar de voorzieningen in het dorp."
         },
         "230838": {
           "position": "disagree",
@@ -509,6 +757,10 @@
           "position": "disagree",
           "explanation": "Dat is de verantwoordelijkheid van de senioren zelf."
         },
+        "230841": {
+          "position": "neither",
+          "explanation": "Het CDA onderschrijft het doel. SchuldHulpMaatje en Stichting Binding doen hier al veel aan. Of het meerwaarde heeft om hiervoor een voorlichtingscampagne op te zetten, kan het CDA niet overzien. Dat laat ze graag over aan beide genoemde organisaties."
+        },
         "230842": {
           "position": "agree",
           "explanation": "Het CDA ziet graag realisatie via particulier initiatief."
@@ -516,6 +768,10 @@
         "230843": {
           "position": "disagree",
           "explanation": "Het CDA wil dat de gemeente meer grip krijgt op de uitgaven. Bijvoorbeeld door niet alles op te lossen via professionele zorg. Maar door meer in te zetten op sterke gemeenschappen, contact met anderen en activiteiten in de wijk. Het CDA wil betere jeugdzorg binnen het huidige budget. "
+        },
+        "230844": {
+          "position": "disagree",
+          "explanation": "Via de APV is geregeld waar sekswerkers aan moeten voldoen. Daarmee kan de gemeente ingrijpen als er overlast voor omwonenden ontstaat, maar ook ingrijpen als er aanwijzingen zijn voor misstanden (mensenhandel, te jong, etc.)."
         },
         "230846": {
           "position": "disagree",
@@ -531,6 +787,10 @@
       "hasSeats": true,
       "participates": true,
       "positions": {
+        "230787": {
+          "position": "agree",
+          "explanation": "Als nevenactiviteit kan dat al. De regels van de provincie zijn hierbij wel belangrijk."
+        },
         "230788": {
           "position": "disagree",
           "explanation": "Dat budget moet eerst vanuit Den Haag komen."
@@ -547,17 +807,41 @@
           "position": "disagree",
           "explanation": "Een boom voor een boom is niet de beste oplossing. Een grote kruin is van veel groter belang voor de gezondheid en biodiversiteit."
         },
+        "230793": {
+          "position": "disagree",
+          "explanation": "Het aantal klachten over geluid is minimaal. Waarom dan strenger worden?"
+        },
         "230796": {
           "position": "disagree",
           "explanation": "Monumenten zijn de parels voor cultuur en erfgoed. Zij maken de gemeente aantrekkelijk voor iedereen."
+        },
+        "230797": {
+          "position": "agree",
+          "explanation": "Hoewel de gemeente tot de veiligste gemeenten van het land behoort, kunnen boa's kleine irritaties aanpakken. Met de invoering van de bestuurlijke boete gaat dat geld niet naar Den Haag, maar blijf het lokaal."
         },
         "230798": {
           "position": "disagree",
           "explanation": "Overlast verplaatst zich en dat maakt camera's duur. Zet op andere middelen in."
         },
+        "230799": {
+          "position": "agree",
+          "explanation": "Daar waar dat wettelijk kan (Cothen en Langbroek), moeten we dat behouden."
+        },
+        "230800": {
+          "position": "agree",
+          "explanation": "Dankzij de SP is dat al vastgelegd. Voer die plannen uit!"
+        },
         "230801": {
           "position": "agree",
           "explanation": "Dat kan al. Wel moet de participatie voor de omgeving op orde zijn."
+        },
+        "230802": {
+          "position": "agree",
+          "explanation": "Zo gebruiken we ook deze krachten uit de samenleving."
+        },
+        "230803": {
+          "position": "disagree",
+          "explanation": "Parkeren is op sommige plekken een probleem. Dan moet rekening gehouden worden met alle bestuurders."
         },
         "230804": {
           "position": "disagree",
@@ -579,6 +863,10 @@
           "position": "agree",
           "explanation": "Is een verouderd principe. Pak liever hondenpoep aan."
         },
+        "230811": {
+          "position": "agree",
+          "explanation": "Als het past binnen de wetgeving (aanbesteding), dan genieten lokale bedrijven een voorkeur. Projecten moeten wel betaalbaar blijven."
+        },
         "230813": {
           "position": "neither",
           "explanation": "Onze energie gaat uit naar andere sociale problemen in onze gemeente."
@@ -599,9 +887,17 @@
           "position": "disagree",
           "explanation": "Boeren doen het lokaal al heel erg goed. We gebruiken hun kracht (kennis en kunde) om de gezondheid in ons buitengebied verder te verbeteren."
         },
+        "230819": {
+          "position": "disagree",
+          "explanation": "Onbetaalbaar. Of we moeten kijken hoe we de bouwkosten zo laag mogelijk houden. Helaas heeft de raad een onderzoek afgewezen."
+        },
         "230820": {
           "position": "agree",
           "explanation": "Gelijke kansen voor elk kind."
+        },
+        "230822": {
+          "position": "agree",
+          "explanation": "Theater Calypso is een cultureel monument voor de gehele gemeenschap, jong en oud. Zo is het een belangrijk uithangbord van de Wijkse binnenstad en een van de pijlers voor een aantrekkelijk vestigingsklimaat."
         },
         "230823": {
           "position": "agree",
@@ -610,6 +906,10 @@
         "230824": {
           "position": "disagree",
           "explanation": "Hoewel het weghalen van een bureau (dankzij landelijke bezuinigingen op de politie) zonde is, kost dit te veel energie en geld. We zijn al genoeg afhankelijk van de Haagse grillen. Laten we de veiligheid lokaal samen nog beter maken."
+        },
+        "230825": {
+          "position": "agree",
+          "explanation": "De gemeente hoort bij de veiligste gemeenten van ons land. Meer blauw op straat maakt de straten nog veiliger."
         },
         "230827": {
           "position": "agree",
@@ -623,9 +923,21 @@
           "position": "agree",
           "explanation": "De markt kijkt alleen naar winst. Op deze manier kijken we weer naar behoeften. Met inwoners, ondernemers en organisaties benutten we de krachten om dit voor de samenleving mogelijk te maken. Wonen levert zo naast geld ook lokaal plezier op."
         },
+        "230832": {
+          "position": "neither",
+          "explanation": "Bouwen van kleine woningen voor lokale starters is een van de doelen. Bouwen voor de lokale ouderen is net zo belangrijk."
+        },
         "230833": {
           "position": "agree",
           "explanation": "Voorkom de lokale toeslagenaffaire."
+        },
+        "230834": {
+          "position": "agree",
+          "explanation": "Door lokaal samen te werken, benutten we elkaars kracht. Daarbij is ook de inzet in de regio gericht op samenwerking in de arbeidsmarkt, met andere gemeenten, werkgevers, werknemers en onderwijsinstellingen."
+        },
+        "230835": {
+          "position": "agree",
+          "explanation": "Begin met het verbeteren van de gevaarlijke fietspunten. Daarmee versterkt de gemeente de fietsveiligheid al."
         },
         "230838": {
           "position": "disagree",
@@ -639,6 +951,10 @@
           "position": "disagree",
           "explanation": "Hier moet de landelijke overheid regelingen voor treffen. En knaken voor meegeven. Lokaal kan een gemeente met ouderenorganisaties kijken wat hier door samenwerking mogelijk is."
         },
+        "230841": {
+          "position": "agree",
+          "explanation": "Dit gebeurt al. We kunnen nog meer krachten van verenigingen gebruiken om de schaamte te doorbreken."
+        },
         "230842": {
           "position": "agree",
           "explanation": "De ruimte is er. Geef ruimte voor particuliere initiatieven."
@@ -646,6 +962,10 @@
         "230843": {
           "position": "agree",
           "explanation": "Jongeren zijn de toekomst. Die zijn een investering waard. Hierbij praten we met jongeren (preventie) en niet alleen over jongeren. Zo gebruiken we hun krachten voor de samenleving."
+        },
+        "230844": {
+          "position": "disagree",
+          "explanation": "De wet is de wet. Verbieden kan dus niet."
         },
         "230846": {
           "position": "agree",
@@ -661,6 +981,10 @@
       "hasSeats": true,
       "participates": true,
       "positions": {
+        "230787": {
+          "position": "agree",
+          "explanation": "Het boerenbedrijf staat onder druk. Een alternatief verdienmodel moet mogelijk zijn."
+        },
         "230788": {
           "position": "agree",
           "explanation": "Weet niet of geld het belangrijkste is, maar juiste hulp wel."
@@ -677,17 +1001,41 @@
           "position": "agree",
           "explanation": "Bomen en groen zijn van levensbelang!"
         },
+        "230793": {
+          "position": "agree",
+          "explanation": "Ter voorkoming van overlast en gehoorschade."
+        },
         "230796": {
           "position": "agree",
           "explanation": "Indien mogelijk: doen."
+        },
+        "230797": {
+          "position": "agree",
+          "explanation": "Politie trekt zich terug, boa’s kunnen dit tekort opvangen!"
         },
         "230798": {
           "position": "agree",
           "explanation": "Als dit helpt de overlast te beperken."
         },
+        "230799": {
+          "position": "agree",
+          "explanation": "Wij hebben een lange lijst met woningzoekenden in de gemeente."
+        },
+        "230800": {
+          "position": "agree",
+          "explanation": "Er is een grote behoefte aan sociale huurwoningen."
+        },
         "230801": {
           "position": "disagree",
           "explanation": "We moeten verrommeling tegengaan."
+        },
+        "230802": {
+          "position": "disagree",
+          "explanation": "Er zijn ook werkende mensen, die ook mantelzorger zijn. Dus daar geen onderscheid in.\r\n\r\n "
+        },
+        "230803": {
+          "position": "agree",
+          "explanation": "Elektrisch vervoer heeft blijkbaar de toekomst en dat moet dan wel gefaciliteerd worden."
         },
         "230804": {
           "position": "disagree",
@@ -709,6 +1057,10 @@
           "position": "agree",
           "explanation": "Hondenbelasting is een middel om de algemene middelen te verhogen. Eigenlijk zou het alleen een doelbelasting mogen zijn om faciliteiten voor hondeneigenaren te maken."
         },
+        "230811": {
+          "position": "agree",
+          "explanation": "In het kader van duurzaamheid en de lokale economie zijn we het hiermee eens. De lokale economie moet gesteund worden."
+        },
         "230813": {
           "position": "agree",
           "explanation": "Overspel geeft alleen maar verliezers en moet niet gestimuleerd worden."
@@ -729,9 +1081,17 @@
           "position": "neither",
           "explanation": ""
         },
+        "230819": {
+          "position": "disagree",
+          "explanation": "De exploitatie is niet te betalen."
+        },
         "230820": {
           "position": "agree",
           "explanation": "Eens, elk kind een goede start is zeer belangrijk."
+        },
+        "230822": {
+          "position": "disagree",
+          "explanation": "Calypso Theater is een onderneming en moet de tarieven van de toegangskaarten verhogen."
         },
         "230823": {
           "position": "agree",
@@ -740,6 +1100,10 @@
         "230824": {
           "position": "neither",
           "explanation": ""
+        },
+        "230825": {
+          "position": "agree",
+          "explanation": "Wijkagenten en/of boa’s zijn belangrijk voor veiligheid en leefbaarheid."
         },
         "230827": {
           "position": "disagree",
@@ -753,9 +1117,21 @@
           "position": "agree",
           "explanation": "Jong en oud kunnen elkaar versterken."
         },
+        "230832": {
+          "position": "agree",
+          "explanation": "Deze dan levensbestendig maken, zodat er ook ouderen kunnen wonen."
+        },
         "230833": {
           "position": "disagree",
           "explanation": "Alles moet ingezet worden om bijstandsfraude tegen te gaan."
+        },
+        "230834": {
+          "position": "agree",
+          "explanation": "Dit is belangrijk om jeugdwerkloosheid tegen te gaan."
+        },
+        "230835": {
+          "position": "agree",
+          "explanation": "Fietsen is gezond voor jong en oud en dit scheelt parkeerplekken."
         },
         "230838": {
           "position": "disagree",
@@ -769,6 +1145,10 @@
           "position": "disagree",
           "explanation": "Ze kunnen ook partijen benaderen die dit willen/kunnen verzorgen."
         },
+        "230841": {
+          "position": "agree",
+          "explanation": "Preventie is altijd het beste."
+        },
         "230842": {
           "position": "disagree",
           "explanation": "Herdenken heeft niets met een bos te maken.\r\n\r\n "
@@ -776,6 +1156,10 @@
         "230843": {
           "position": "agree",
           "explanation": "Preventie in de jeugdzorg is van groot belang bijvoorbeeld hulp bij opvoeding!"
+        },
+        "230844": {
+          "position": "agree",
+          "explanation": "Dit willen wij absoluut niet stimuleren."
         },
         "230846": {
           "position": "agree",
@@ -791,6 +1175,10 @@
       "hasSeats": true,
       "participates": true,
       "positions": {
+        "230787": {
+          "position": "agree",
+          "explanation": "Ja. D66 is voor een duurzame transitie van de landbouw. In het verkiezingsprogramma van D66 (p. 14) staat: \"De agrarische sector kan door een combinatie van landbouw en toerisme/recreatie de lokale economie en werkgelegenheid versterken, en daarmee ook de eigen sector.''"
+        },
         "230788": {
           "position": "agree",
           "explanation": "In onze agrarische gemeente, de zorg en andere sectoren is grote arbeidsmarktkrapte. Door integratie te bevorderen, dragen nieuwkomers bij aan onze krappe arbeidsmarkt en kunnen ze sneller aan de slag. De leefbaarheid van de gemeente neemt hierdoor toe."
@@ -807,17 +1195,41 @@
           "position": "agree",
           "explanation": "D66 wil zogenaamde 'herplantingsplicht'. Dat wil zeggen: minimaal voor elke gekapte boom een nieuwe boom."
         },
+        "230793": {
+          "position": "disagree",
+          "explanation": "De huidige wettelijke normen zijn prima. D66 is voor een levendige gemeente, waar ook voor de jeugd wat te doen is."
+        },
         "230796": {
           "position": "disagree",
           "explanation": "D66 is een cultuurpartij en wil een levendige gemeente, die zuinig is op zijn cultureel erfgoed."
+        },
+        "230797": {
+          "position": "agree",
+          "explanation": "Lokale overlast: vuurwerkschade, parkeerovertredingen, hondenpoep. Inwoners hebben hier last van. Daarom is D66 voor meer gemeentelijke handhavers."
         },
         "230798": {
           "position": "disagree",
           "explanation": "Cameratoezicht heeft nadelige gevolgen voor de privacy van onze inwoners."
         },
+        "230799": {
+          "position": "disagree",
+          "explanation": "Dat lijkt sympathiek. Maar als omliggende gemeenten, zoals Houten, Utrechtse Heuvelrug en Utrecht dit voorbeeld volgen en (Wijkse, Cothense of Langbroekse) woningzoekenden benadelen boven hun eigen woningzoekenden, dan raakt dat onze woningzoekende."
+        },
+        "230800": {
+          "position": "agree",
+          "explanation": "D66 steunde (en steunt) minimaal 35% sociale huur en sociale koop."
+        },
         "230801": {
           "position": "agree",
           "explanation": "D66 is een liberale partij."
+        },
+        "230802": {
+          "position": "agree",
+          "explanation": "D66 is voor preventie. Inzet van een mantelzorger voorkomt hogere zorgkosten."
+        },
+        "230803": {
+          "position": "agree",
+          "explanation": "Ja. D66 wil verduurzamen."
         },
         "230804": {
           "position": "disagree",
@@ -839,6 +1251,10 @@
           "position": "agree",
           "explanation": "De heffing kost meer dan deze opbrengt."
         },
+        "230811": {
+          "position": "disagree",
+          "explanation": "Er zijn Europese aanbestedingsregels. Zeker bij grote projecten is het door deze regels niet toegestaan om sommige (lokale) ondernemers te bevoordelen bij de aanbesteding."
+        },
         "230813": {
           "position": "disagree",
           "explanation": "Het vrije woord is heilig. Wat de een smakeloos vindt, is voor de ander toelaatbaar. D66 vindt dat de overheid terughoudend moet zijn bij het verbieden van teksten."
@@ -859,9 +1275,17 @@
           "position": "agree",
           "explanation": "De gemeente moet zich aan wettelijke richtlijnen houden, onder andere om de kwaliteit van het grondwater en de bodem te beschermen. Gemeente Bunnik en Houten hebben al aangekondigd om bij nieuwe pachtovereenkomsten gebruik van chemische bestrijdingsmiddelen uit te sluiten. Dit wil D66 ook in Wijk."
         },
+        "230819": {
+          "position": "agree",
+          "explanation": "De meest waterrijke gemeente van Nederland heeft geen zwembad. Dat is geen goed idee. Preventie, bewegen: heel gezond voor de mens. Dit kan door i) inzet van verdiend geld door energietransitie, ii) samenwerking met een andere gemeente en iii) samenwerking met bedrijven."
+        },
         "230820": {
           "position": "agree",
           "explanation": "Onderwijspartij D66 is hier groot voorstander van. Ieder kind gelijke kansen."
+        },
+        "230822": {
+          "position": "agree",
+          "explanation": "Cultuurpartij D66 steunt dit belangrijke theater."
         },
         "230823": {
           "position": "agree",
@@ -870,6 +1294,10 @@
         "230824": {
           "position": "disagree",
           "explanation": "De bereikbaarheid van ambulance, politie en brandweer moet optimaal zijn in de hele gemeente. Een politiepost garandeert niet dat de diensten bereikbaar zijn buiten kantooruren. D66 wil dat aanrijdtijden in de gehele gemeente 24 uur per etmaal worden behaald."
+        },
+        "230825": {
+          "position": "agree",
+          "explanation": "D66 is voor preventie. Voldoende wijkagenten horen hierbij."
         },
         "230827": {
           "position": "disagree",
@@ -883,9 +1311,21 @@
           "position": "disagree",
           "explanation": "Dit is een taak voor projectontwikkelaars en woningbouwcorporaties."
         },
+        "230832": {
+          "position": "agree",
+          "explanation": "Met het oog op de grote woningnood en hoge huisprijzen voor starters, is D66 hiervoor."
+        },
         "230833": {
           "position": "agree",
           "explanation": "De toeslagenaffaire heeft geleerd dat gebruik van algoritmen grote nadelen met zich mee kan brengen. D66 wil dat sociale recherche onderzoek doet naar vermoedelijke bijstandsfraude op basis van een gerichte verdenking. Niet: 'computer says no'."
+        },
+        "230834": {
+          "position": "agree",
+          "explanation": "Dit bevordert een toegankelijke arbeidsmarkt, ook voor onze inwoners met een grotere afstand tot de reguliere arbeidsmarkt."
+        },
+        "230835": {
+          "position": "agree",
+          "explanation": "Het \"auto te gast\"-principe wordt gesteund door D66."
         },
         "230838": {
           "position": "disagree",
@@ -899,6 +1339,10 @@
           "position": "neither",
           "explanation": ""
         },
+        "230841": {
+          "position": "agree",
+          "explanation": "Schaamte is een grote factor waarom inwoners geen (of te laat) hulp zoeken. Daar wil D66 vanuit het oogpunt van preventie wat aan doen."
+        },
         "230842": {
           "position": "disagree",
           "explanation": "De gemeente heeft de zorg voor veel beleidstaken. Een herdenkingsbos is sympathiek, maar is geen gemeentelijke beleidstaak."
@@ -906,6 +1350,10 @@
         "230843": {
           "position": "disagree",
           "explanation": "Nee, er moet meer geld naar preventie. Zodat er minder geld voor jeugdzorg nodig is."
+        },
+        "230844": {
+          "position": "disagree",
+          "explanation": "Dit is geen goed idee. Een systeem van vergunningen voorkomt illegale prostitutie, uitbuiting of andere overlast. Bovendien kan de sekswerker die in beeld is van de overheid. gebruik maken van overheidsdiensten, zoals GGD."
         },
         "230846": {
           "position": "agree",
@@ -921,6 +1369,10 @@
       "hasSeats": true,
       "participates": true,
       "positions": {
+        "230787": {
+          "position": "agree",
+          "explanation": "Lokaal Liberaal gelooft in meer doen en minder regels. Zeker voor onze agrarische sector die door landelijke ontwikkelingen fors onder druk staat."
+        },
         "230788": {
           "position": "disagree",
           "explanation": "Eerst moet de instroom van asielzoekers sterk worden verminderd. We willen eerst investeren in een veilig en leefbaar woonklimaat in onze gemeente voor onze eigen inwoners. Op dit moment gaat er genoeg geld naar integratie."
@@ -937,17 +1389,41 @@
           "position": "agree",
           "explanation": "Wij geloven in een duurzaam en groen bomenbestand. Een gekapte boom (bijvoorbeeld door ziekte) vervangen, sluit hierbij prima aan."
         },
+        "230793": {
+          "position": "disagree",
+          "explanation": "De geluidsnormen bij festivals zijn wettelijk bepaald. Wel vinden we het belangrijk dat inwoners niet onnodig veel of langdurig overlast ervaren."
+        },
         "230796": {
           "position": "disagree",
           "explanation": "Gemeenten zijn verplicht geld uit te geven aan monumentenzorg. Wij kunnen hier niet verder op bezuinigen."
+        },
+        "230797": {
+          "position": "agree",
+          "explanation": "Veiligheid is goud waard en de basis van een goed en fijn leven. Handhaving is daarbij belangrijk, anders blijven regels maar regels."
         },
         "230798": {
           "position": "agree",
           "explanation": "Elke inwoner moet veilig over straat kunnen. Het is wetenschappelijk bewezen dat cameratoezicht bijdraagt aan een het tegengaan van overlast, maar ook criminaliteit."
         },
+        "230799": {
+          "position": "agree",
+          "explanation": "Onze inwoners, en vooral jongeren, moeten de kans krijgen hier te blijven wonen."
+        },
+        "230800": {
+          "position": "agree",
+          "explanation": "In de Woonvisie van Wijk bij Duurstede is al het percentage van 35 vastgelegd."
+        },
         "230801": {
           "position": "agree",
           "explanation": "WIj geloven in minder regels, meer doen. Zo willen we onze inwoners de mogelijkheid bieden zelf te beslissen over hun eigen woning."
+        },
+        "230802": {
+          "position": "disagree",
+          "explanation": "Wij geloven in maatwerk voor mensen in de bijstand. De ene mantelzorger is de andere niet en de één verleent veel mantelzorg en de ander minder. Door het goede gesprek met mensen in de bijstand te voeren, verhogen wij hun kansen in het leven en op de arbeidsmarkt."
+        },
+        "230803": {
+          "position": "disagree",
+          "explanation": "Op dit moment is er in de gemeente een groot tekort aan parkeerplaatsen. Meer parkeerplaatsen voor elektrische auto's kan dat probleem verergeren. Daarom geloven wij in laden aan huis makkelijker maken, zoals bijvoorbeeld door het toestaan van kabelgootjes."
         },
         "230804": {
           "position": "agree",
@@ -969,6 +1445,10 @@
           "position": "agree",
           "explanation": "Lokaal Liberaal is voorstander van zo laag mogelijke lasten voor de burgers. Het leven is al duur genoeg"
         },
+        "230811": {
+          "position": "agree",
+          "explanation": "Wij geloven in de lokale economie en stimuleren graag, daar waar mogelijk, dat onze mensen onze klussen doen."
+        },
         "230813": {
           "position": "disagree",
           "explanation": "Wij geloven dat inwoners zelf mogen bepalen wat ze met hun leven doen."
@@ -989,9 +1469,17 @@
           "position": "disagree",
           "explanation": "We moeten boeren de mogelijkheid geven om boer te kunnen blijven. Wel zijn we voor het sterk stimuleren van duurzame oplossingen in de agrarische sector."
         },
+        "230819": {
+          "position": "agree",
+          "explanation": "Als we de financiële middelen weer hebben, is een nieuw zwembad ook weer een serieuze mogelijkheid."
+        },
         "230820": {
           "position": "disagree",
           "explanation": "Dit is een taak van de nationale overheid."
+        },
+        "230822": {
+          "position": "agree",
+          "explanation": "Wij vinden Calypso een prachtig theater, en zien tegelijkertijd ook commerciële groeikansen om de afhankelijkheid van de gemeente te verminderen."
         },
         "230823": {
           "position": "agree",
@@ -1000,6 +1488,10 @@
         "230824": {
           "position": "agree",
           "explanation": "Zorg en veiligheid moeten veel lokaler geregeld worden. De politie moet dichtbij onze inwoners staan. Het vergroot het vertrouwen in de politie en de meldingsbereidheid."
+        },
+        "230825": {
+          "position": "agree",
+          "explanation": "De wijkagenten zijn belangrijk in de wijken dichtbij de inwoners. We moeten daarbij ook gerichter naar de aanpak van specifieke problemen kijken."
         },
         "230827": {
           "position": "disagree",
@@ -1013,9 +1505,21 @@
           "position": "agree",
           "explanation": "Wij geloven sterk in gemengde wooncomplexen voor jong en oud.  "
         },
+        "230832": {
+          "position": "agree",
+          "explanation": "De woningnood is hoog. Maar we moeten de doorstroom van eengezinswoningen naar kleinere levensloopbestendige woningen voor ouderen ook stimuleren. Daar moet ook voor gebouwd worden."
+        },
         "230833": {
           "position": "agree",
           "explanation": "De toeslagenaffaire heeft bewezen dat dit geen goed idee is. Het aantal mensen in de bijstand is te overzien. Bovendien is maatwerk in de bijstand van groot belang en is een goed contact met je bijstandsgerechtigden het begin van een betere situatie voor hen. Houdt het persoonlijk."
+        },
+        "230834": {
+          "position": "agree",
+          "explanation": "Het verkleinen van het gat tussen vraag en aanbod is altijd goed om aan te pakken. Door leerlingen/jongeren op te leiden voor werk voor onze bedrijven, kunnen ze daar gaan werken en blijven ze hier wonen."
+        },
+        "230835": {
+          "position": "neither",
+          "explanation": "Bij de vaststelling van de omgevingsvisie worden verkeersveiligheid, bereikbaarheid, duurzaamheid en kosten betrokken. Lokaal Liberaal wil deze zaken zo goed mogelijk op elkaar afstemmen. Een fietsstraat zal daarbij zeker worden meegenomen."
         },
         "230838": {
           "position": "disagree",
@@ -1029,6 +1533,10 @@
           "position": "disagree",
           "explanation": "Mensen zijn zelf verantwoordelijk voor hun eigen rijvaardigheid."
         },
+        "230841": {
+          "position": "agree",
+          "explanation": "Ieder mens kan in schulden komen. Wij geloven dat dat niet iets is om je voor te schamen en zien de toegevoegde waarde van een gemeente die dit bespreekbaar maakt en houdt, en daar hulp voor verleent."
+        },
         "230842": {
           "position": "disagree",
           "explanation": "Dit heeft geen prioriteit voor Lokaal Liberaal, maar we zullen ook niet tegen stemmen als dit zonder kosten voor de gemeente uitgevoerd kan worden. Bijvoorbeeld door sponsoring of donaties."
@@ -1036,6 +1544,10 @@
         "230843": {
           "position": "agree",
           "explanation": "Jeugdzorg is belangrijk. De jeugd heeft de toekomst. De zorg is compleet vastgelopen, omdat onze jeugd steeds meer zorg nodig heeft. Het is een wettelijke taak. Het geld dat de landelijke overheid hiervoor beschikbaar stelt, willen wij beter inzetten, met minder tussenlagen, waardoor het goedkoper kan."
+        },
+        "230844": {
+          "position": "disagree",
+          "explanation": "Het verbieden van sekswerk kan een illegaal circuit in de hand werken. Dat maakt dat er geen enkel zicht meer op is, en dat maakt de situatie voor sekswerkers onveilig. Iedereen moet zijn eigen beroep kunnen kiezen en veilig kunnen uitvoeren."
         },
         "230846": {
           "position": "disagree",
@@ -1374,6 +1886,184 @@
       "pro": "",
       "con": "",
       "isShootout": false
+    }
+  ],
+  "shootoutStatements": [
+    {
+      "id": 230803,
+      "index": 31,
+      "theme": "Elektrische laadpalen",
+      "themeId": "elektrische-laadpalen",
+      "title": "De gemeente moet meer parkeerplaatsen aanwijzen als oplaadplekken voor elektrische auto's.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
+    },
+    {
+      "id": 230800,
+      "index": 32,
+      "theme": "Sociale huurwoningen",
+      "themeId": "sociale-huurwoningen",
+      "title": "Van de nieuw te bouwen woningen in Wijk bij Duurstede moet minimaal 35% een sociale huurwoning zijn. In de gemeente is nu 22,9% van de woningen een sociale huurwoning.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
+    },
+    {
+      "id": 230793,
+      "index": 33,
+      "theme": "Festivalgeluid",
+      "themeId": "festivalgeluid",
+      "title": "De geluidsnormen bij festivals moeten strenger worden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
+    },
+    {
+      "id": 230802,
+      "index": 34,
+      "theme": "Vrijstelling sollicitatieplicht",
+      "themeId": "vrijstelling-sollicitatieplicht",
+      "title": "Mensen met een bijstandsuitkering die een familielid of bekende verzorgen als mantelzorger, hoeven niet verplicht te solliciteren.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
+    },
+    {
+      "id": 230832,
+      "index": 35,
+      "theme": "Jongeren en starters",
+      "themeId": "jongeren-en-starters",
+      "title": "De gemeente moet vooral kleine woningen en appartementen bouwen voor starters.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
+    },
+    {
+      "id": 230799,
+      "index": 36,
+      "theme": "Voorrang huisvesting",
+      "themeId": "voorrang-huisvesting",
+      "title": "Bij de toewijzing van een sociale huurwoning moeten woningzoekenden uit de eigen gemeente voorrang krijgen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
+    },
+    {
+      "id": 230834,
+      "index": 37,
+      "theme": "Arbeidsmarkt",
+      "themeId": "arbeidsmarkt",
+      "title": "De gemeente moet met ondernemers en onderwijsinstellingen samenwerken om vraag en aanbod op de arbeidsmarkt beter op elkaar te laten aansluiten.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
+    },
+    {
+      "id": 230811,
+      "index": 38,
+      "theme": "Lokale ondernemers",
+      "themeId": "lokale-ondernemers",
+      "title": "De gemeente moet bij grote projecten zoveel mogelijk lokale ondernemers inschakelen, bijvoorbeeld bij woningbouw.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
+    },
+    {
+      "id": 230822,
+      "index": 39,
+      "theme": "Calypso Theater",
+      "themeId": "calypso-theater",
+      "title": "De gemeente moet het Calypso Theater financieel blijven ondersteunen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
+    },
+    {
+      "id": 230825,
+      "index": 40,
+      "theme": "Wijkagenten",
+      "themeId": "wijkagenten",
+      "title": "De gemeente moet de politie vragen om meer wijkagenten.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
+    },
+    {
+      "id": 230844,
+      "index": 41,
+      "theme": "Sekswerk",
+      "themeId": "sekswerk",
+      "title": "De gemeente moet stoppen met het verstrekken van vergunningen aan sekswerkers.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
+    },
+    {
+      "id": 230835,
+      "index": 42,
+      "theme": "Fietsstraat",
+      "themeId": "fietsstraat",
+      "title": "De gemeente moet meer straten als fietsstraten inrichten.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
+    },
+    {
+      "id": 230797,
+      "index": 43,
+      "theme": "Handhavers",
+      "themeId": "handhavers",
+      "title": "In Wijk bij Duurstede moeten meer gemeentelijke handhavers (boa’s) komen die zich met veiligheid bezighouden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
+    },
+    {
+      "id": 230787,
+      "index": 44,
+      "theme": "Boeren",
+      "themeId": "boeren",
+      "title": "De gemeente moet boeren altijd toestaan om bij hun boerenbedrijf een winkel of camping te openen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
+    },
+    {
+      "id": 230819,
+      "index": 45,
+      "theme": "Zwembad",
+      "themeId": "zwembad",
+      "title": "Er moet een zwembad komen in Wijk bij Duurstede.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
+    },
+    {
+      "id": 230841,
+      "index": 46,
+      "theme": "Voorlichtingscampagne armoede",
+      "themeId": "voorlichtingscampagne-armoede",
+      "title": "De gemeente moet een voorlichtingscampagne opzetten om de schaamte rondom armoede en schulden te doorbreken.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
     }
   ]
 }

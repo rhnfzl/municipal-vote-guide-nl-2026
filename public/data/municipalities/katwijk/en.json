@@ -15,6 +15,10 @@
           "position": "disagree",
           "explanation": "De gemeente moet kijken naar prijs en kwaliteit. Daarnaast vinden we inkopen bij lokale ondernemers belangrijk."
         },
+        "167206": {
+          "position": "agree",
+          "explanation": "Wat de gemeente zelf kan doen, moet in beginsel ook zelf gedaan worden."
+        },
         "167207": {
           "position": "disagree",
           "explanation": "DURF heeft het referendum mogelijk gemaakt. Dat is mensen écht een stem geven. Een burgerberaad doet dat niet en heeft geen democratisch mandaat."
@@ -22,6 +26,10 @@
         "167208": {
           "position": "agree",
           "explanation": "De overheid moet religieus neutraal zijn. Het ambtsgebed is dat nu niet. Daarom willen wij dat de burgemeester voortaan begint met het belang van onze democratie, vrijheid en grondwet te benadrukken - en dan een kort moment stilte, zodat iedereen op zijn eigen manier de raadsvergadering kan beginnen."
+        },
+        "167209": {
+          "position": "agree",
+          "explanation": "Jongeren moeten mee kunnen doen. DURF steunt altijd initiatieven die daaraan bijdragen."
         },
         "167210": {
           "position": "disagree",
@@ -35,13 +43,29 @@
           "position": "disagree",
           "explanation": "Vakantiegangers weten Katwijk al goed te vinden. Verdere promotie is een verantwoordelijkheid van ondernemers en verhuurders."
         },
+        "167213": {
+          "position": "disagree",
+          "explanation": "Er is al voldoende ruimte voor toerisme. DURF wil inzetten op een hoogwaardige kenniseconomie, door het versterken van het economisch cluster in Valkenburg, in het verlengde van het Bio Science Park."
+        },
+        "167214": {
+          "position": "agree",
+          "explanation": "Horeca-ondernemers moeten meer ruimte krijgen. DURF staat voor een levendig en gezellig Katwijk, Rijnsburg en Valkenburg en daar blijven we ons voor inzetten."
+        },
         "167215": {
           "position": "disagree",
           "explanation": "DURF vindt dat ondernemers hun winkel op zondag mogen openen. Dit moet buiten de kerktijden plaatsvinden en ondernemers moeten hier met elkaar goede afspraken over maken, bijvoorbeeld over het aantal koopzondagen."
         },
+        "167216": {
+          "position": "disagree",
+          "explanation": "DURF wil als gemeente niet inzetten op extra en duur klimaatbeleid."
+        },
         "167217": {
           "position": "agree",
           "explanation": "Arbeidsmigranten mogen geen extra druk leggen op onze schaarse woningen. Bovendien moet een bedrijf goed voor haar werknemers zorgen."
+        },
+        "167219": {
+          "position": "agree",
+          "explanation": "De taal leren is cruciaal om mee te kunnen doen en werk te vinden. Iedereen moet zich inspannen Nederlands te leren. Als men ervoor kiest thuis een andere taal te spreken, is dat een eigen keuze waarvoor ouders de verantwoordelijkheid dragen."
         },
         "167220": {
           "position": "agree",
@@ -51,6 +75,10 @@
           "position": "agree",
           "explanation": "DURF steunt onze evenementen en wil waar dat kan, extra ruimte bieden. Wij kiezen voor meer levendigheid in Katwijk, Rijnsburg en Valkenburg."
         },
+        "167222": {
+          "position": "disagree",
+          "explanation": "We doen niet meer dan wettelijk verplicht is. Betaalbare woningbouw is het doel en extra maatregelen maken woningen duurder voor starters."
+        },
         "167224": {
           "position": "disagree",
           "explanation": "Dit is een verantwoordelijkheid van ondernemers om hier zorg voor te dragen."
@@ -58,6 +86,18 @@
         "167226": {
           "position": "disagree",
           "explanation": "DURF is tegen onhaalbare klimaatdoelen. Niemand moet gedwongen worden van het gas af te gaan. We zetten in op isoleren."
+        },
+        "167227": {
+          "position": "agree",
+          "explanation": "Sport is gezond en leert kinderen samenwerken en vrienden maken. Ieder kind moet de kans krijgen om mee te kunnen doen."
+        },
+        "167228": {
+          "position": "agree",
+          "explanation": "Met name voor een kustgemeente is het belangrijk dat iedereen kan zwemmen. Iedereen zou diploma A moeten kunnen halen met schoolzwemmen."
+        },
+        "167229": {
+          "position": "disagree",
+          "explanation": "DURF vindt dat muzikale vorming een verantwoordelijkheid is van ouders, die zouden dat zelf moeten betalen."
         },
         "167230": {
           "position": "agree",
@@ -75,6 +115,14 @@
           "position": "agree",
           "explanation": "In onze gemeente is een coffeeshop niet wenselijk."
         },
+        "167235": {
+          "position": "disagree",
+          "explanation": "De demonstratie op de Voorstraat had verboden moeten worden."
+        },
+        "167236": {
+          "position": "disagree",
+          "explanation": "We moeten onze straten leefbaar en veilig houden. De openbare ruimte is geen slaapplaats, voor dak- en thuislozen is er opvang."
+        },
         "167237": {
           "position": "agree",
           "explanation": "Als het kan, zullen we niet schromen om van camera toezicht gebruik te maken, bijvoorbeeld om fietsendiefstallen te bestrijden."
@@ -82,6 +130,14 @@
         "167238": {
           "position": "agree",
           "explanation": "DURF is altijd voor een groene en onbebouwde Kwakelwei geweest. Onze dorpen verdienen een mooi park in het hart van de gemeente."
+        },
+        "167239": {
+          "position": "agree",
+          "explanation": "We bouwen in beginsel voor onze eigen jongeren, gezinnen en ouderen. Daarom is het goed om hen voorrang te geven."
+        },
+        "167240": {
+          "position": "agree",
+          "explanation": "Bij sloop- en nieuwbouw moeten er altijd minimaal hetzelfde aantal woningen terug gebouwd worden. Wel kan er bij grotere ontwikkelingen gekeken worden naar een evenwichtigere spreiding van koop- en huurwoningen."
         },
         "167241": {
           "position": "agree",
@@ -95,21 +151,53 @@
           "position": "agree",
           "explanation": "Geen belemmeringen op de woningbouw. We moeten hoger bouwen als we écht meer betaalbaar willen bouwen. Dat is het eerlijke verhaal. We doen dat overigens alleen waar het past in de omgeving."
         },
+        "167244": {
+          "position": "agree",
+          "explanation": "Woningen zijn om in te wonen, niet voor beleggers en speculanten om winst mee te maken."
+        },
+        "167245": {
+          "position": "agree",
+          "explanation": "Veel Katwijkers verblijven vanwege de woningnood in zomerhuisjes. Dit moet op een veilige manier mogelijk worden gemaakt."
+        },
         "167246": {
           "position": "disagree",
           "explanation": "DURF wil minder belemmeringen op de woningbouw. Er zijn al te veel regels die de bouw frustreren."
+        },
+        "167247": {
+          "position": "agree",
+          "explanation": "DURF is altijd voorstander van een leegstandsboete geweest, als aangetoond kan worden dat een pand bewust leeg blijft staan. Dit versterkt onze lokale economie."
         },
         "167248": {
           "position": "disagree",
           "explanation": "De grens is een paar jaar geleden door het college al verhoogd naar 130 procent van het sociaal minimum. De middenklasse heeft het financieel ook zwaar en heeft geen recht op regelingen."
         },
+        "167249": {
+          "position": "agree",
+          "explanation": "DURF wil dat mensen die een uitkering ontvangen iets terug doen voor de samenleving."
+        },
         "167250": {
           "position": "agree",
           "explanation": "De taal leren is cruciaal om mee te kunnen doen en werk te vinden. Wie zich daarvoor als nieuwkomer niet inspant, moet gekort worden op zijn uitkering."
         },
+        "167251": {
+          "position": "agree",
+          "explanation": "DURF is initiatiefnemer geweest van de mondzorgkaravaan en het verhogen van de armoederegelingen. Goede mondzorg bespaart veel kosten op langere termijn."
+        },
+        "167252": {
+          "position": "agree",
+          "explanation": "Er is al een regeling om mensen hierbij financieel te ondersteunen. Die willen we handhaven."
+        },
+        "167253": {
+          "position": "agree",
+          "explanation": "Dit is veiliger voor fietsers en stimuleert de doorstroming van het (auto)verkeer."
+        },
         "167254": {
           "position": "disagree",
           "explanation": "Doorstroming van het verkeer is belangrijk in een drukke en bebouwde omgeving. Wij zien geen wegen die geschikt zouden zijn om een fietsstraat van te maken."
+        },
+        "167255": {
+          "position": "disagree",
+          "explanation": "Het huidige systeem van gereguleerd parkeren voldoet in Katwijk aan Zee, zodat bewoners hun auto altijd kwijt kunnen."
         },
         "167256": {
           "position": "disagree",
@@ -118,6 +206,22 @@
         "167257": {
           "position": "disagree",
           "explanation": "Het is belangrijk dat de huidige parkeerplaatsen zo veel mogelijk behouden blijven."
+        },
+        "167258": {
+          "position": "disagree",
+          "explanation": "DURF is tegen de uitbreiding van gereguleerd parkeren, tenzij bewoners aangeven dit te willen."
+        },
+        "167260": {
+          "position": "agree",
+          "explanation": "Ondernemers kunnen hiertoe gestimuleerd worden, maar het is verder niet aan de gemeente."
+        },
+        "167261": {
+          "position": "disagree",
+          "explanation": "Dit maakt het verkeer niet perse veiliger, maar kan wel voor slechtere bereikbaarheid en langere reistijd zorgen."
+        },
+        "167263": {
+          "position": "agree",
+          "explanation": "De zorg is door het grote aantal aanbieders enorm complex geworden. Dit moet teruggeschroefd worden naar een paar betrouwbare partners."
         },
         "167264": {
           "position": "disagree",
@@ -145,6 +249,10 @@
           "position": "disagree",
           "explanation": "Natuurlijk staat het CDA achter maatregelen om de aarde te bewaren. Maar dat is niet het enige wat telt. We vinden het óók belangrijk dat de gemeente inkoopt bij bedrijven uit onze dorpen of uit de regio. Ook dát is duurzaam: het beperkt autokilometers en het ondersteunt lokale ondernemers."
         },
+        "167206": {
+          "position": "agree",
+          "explanation": "Samenwerken is mooi en zinvol en op sommige terreinen nodig. Tegelijkertijd betekenen al die samenwerkingsverbanden véél vergaderen, hoge kosten en besluitvorming door anderen dan wijzelf. Het CDA gelooft in sterk lokaal bestuur. In Katwijk zijn we prima in staat onze eigen zaken goed te regelen."
+        },
         "167207": {
           "position": "agree",
           "explanation": "Als er nou één onderwerp is waar we kritisch over zijn rond het huidige college dan is dat wel de inspraak van onze inwoners en participatie. Keer op keer heeft het college daar flinke steken laten vallen. Dus een burgerberaad omarmen we graag. Goede maatregelen neem je mét onze inwoners samen."
@@ -152,6 +260,10 @@
         "167208": {
           "position": "disagree",
           "explanation": "Het ambtsgebed is een traditie die past bij onze dorpen. Misschien geloof je niet in het bestaan van een hogere macht. Ook dan kunnen deze woorden je inspireren. Het draagt bij aan het besef dat we afhankelijk zijn, van God, van elkaar, om onze samenleving vorm te geven. Dat is het behouden waard!"
+        },
+        "167209": {
+          "position": "agree",
+          "explanation": "Elk initiatief van inwoners om de samenhang in onze dorpen te versterken steunen wij. Dus ook als jongeren een evenement of buurtproject willen opzetten. Het CDA is dé partij die gelooft in de kracht van de samenleving en open staat voor initiatieven uit de samenleving."
         },
         "167210": {
           "position": "agree",
@@ -165,13 +277,29 @@
           "position": "agree",
           "explanation": "Meer toeristen is goed voor onze economie. Dat levert omzet op voor ondernemers en werkgelegenheid voor onze inwoners. Daarbij heeft onze gemeente iets unieks om uit te dragen: een familiebadplaats waar ruimte en rust te vinden zijn. Dat willen we graag bewaren, ook met wat extra toeristen erbij."
         },
+        "167213": {
+          "position": "agree",
+          "explanation": "Meer toeristen is goed voor onze economie. Dat levert omzet op voor ondernemers en werkgelegenheid voor onze inwoners. Daarbij heeft onze gemeente iets unieks om uit te dragen: een familiebadplaats waar ruimte en rust te vinden zijn. Dat willen we graag bewaren, ook met wat extra toeristen erbij."
+        },
+        "167214": {
+          "position": "agree",
+          "explanation": "Ondernemers moeten in vrijheid kunnen ondernemen en zelf bepalen hoe laat de zaak opengaat. Wel zijn we kritischer over sluitingstijden. We houden óók rekening met de belangen van de buurt: hoe later op de avond, vaak des te meer overlast. Daarom maken we goede afspraken over de sluitingstijd."
+        },
         "167215": {
           "position": "agree",
           "explanation": "In onze dorpen is alles een beetje anders, ook op zondag. Het CDA hecht veel waarde aan deze dag, voor bezinning, ontmoeting en ontspanning. Een rustdag is voor íedereen belangrijk, om even afstand te nemen van de dagelijkse drukte. Dus is het CDA geen voorstander van winkelopenstelling op zondag."
         },
+        "167216": {
+          "position": "agree",
+          "explanation": "Of we nou willen of niet, onze energievoorziening moet duurzamer. Dat kan een huiseigenaar alleen doen, maar samen is slimmer. Als je ideeën bundelt en samen inkoopt, sta je sterker. Een project kan dan ingewikkelder en duurder worden. Met een steuntje in de rug van de gemeente kom je dan verder."
+        },
         "167217": {
           "position": "agree",
           "explanation": "Er is een flink tekort aan woningen. Als er een woning beschikbaar komt, dan moeten eigen inwoners voorrang krijgen. Veel woningzoekenden wachten al járen op een huis. Wil een ondernemer arbeidsmigranten inzetten in zijn bedrijf, dan moet hij zelf huisvesting voor hen organiseren."
+        },
+        "167219": {
+          "position": "disagree",
+          "explanation": "Taal is de sleutel om verder te komen in het leven. We moeten er dus alles aan doen om achterstanden terug te dringen. Dat is fijn voor het kind, maar ook voor de samenleving als geheel. Want met meer bagage in je rugzak, ben je minder snel afhankelijk van een uitkering of ondersteuning."
         },
         "167220": {
           "position": "agree",
@@ -181,6 +309,10 @@
           "position": "agree",
           "explanation": "Evenementen maken Katwijk levendig en aantrekkelijk. Maar omwonenden ervaren soms overlast. Daar moet oog voor zijn. Maar tegelijkertijd is het niet elke dag feest. Door het laatste uur in te kleden als een afkoeluurtje, kan het feest wat langer duren en neemt de geluidsoverlast af."
         },
+        "167222": {
+          "position": "agree",
+          "explanation": "Door klimaatverandering zijn er vaker weerextremen en heftige regenbuien. Dat vraagt om een robuuste riolering, waarin schoon en vuil water van elkaar scheiden worden. Het is ook veel goedkoper om regenwater niet eerst te zuiveren: het water kan zo de sloot in. Prima om hier regels voor te maken!"
+        },
         "167224": {
           "position": "agree",
           "explanation": "Iedereen moet mee kunnen doen in Katwijk, of je nu op leeftijd bent of een beperking hebt. Met financiële steun kunnen kleine bedrijven hun zaak toegankelijk maken, bijvoorbeeld met een helling bij de ingang of bredere deuren, zodat ook iemand met een beperking veilig en zelfstandig naar binnen kan."
@@ -188,6 +320,18 @@
         "167226": {
           "position": "disagree",
           "explanation": "Laten we realistisch zijn: in 20 jaar gasvrij is onhaalbaar. Het gaat gepaard met hoge kosten voor inwoners. Want de stelling zegt ‘de gemeente moet ervoor zorgen’, maar uiteindelijk zijn het vooral de huiseigenaren die de portemonnee moeten trekken. Dat kan onze gemeente zelf allemaal niet dragen."
+        },
+        "167227": {
+          "position": "agree",
+          "explanation": "Iedereen mee kunnen doen. Ook, of juíst, kinderen uit gezinnen die het niet zo breed hebben. Daar zijn er helaas teveel van in onze dorpen. Als de gemeente meebetaalt aan de kosten van een sportvereniging, dan is dat een kleine investering om dat kind samen te laten spelen met zijn of haar vriendjes."
+        },
+        "167228": {
+          "position": "agree",
+          "explanation": "Er is veel water in onze dorpen. Dan is het belangrijk dat kinderen leren zwemmen. Schoolzwemmen heeft veel impact op het dagelijkse onderwijs. Maar met incidentele schoolzwemprojecten kunnen kinderen zwemmen ontdekken. Ouders kunnen hen daarna op zwemles doen."
+        },
+        "167229": {
+          "position": "agree",
+          "explanation": "In onze dorpen kennen we een mooie traditie met muziek. DVS, de Floraband, de Uni en de Harmonie nemen binnen onze dorpen belangrijke plaatsen in. Het CDA ondersteunt het muziekonderwijs voor kinderen dat binnen verenigingen en scholen wordt aangeboden."
         },
         "167230": {
           "position": "agree",
@@ -205,6 +349,14 @@
           "position": "agree",
           "explanation": "Als het over softdrugs gaat, dan zijn we bij het CDA ouderwets: dat vinden we helemaal niks. In onze dorpen zijn geen coffeeshops en dat houden we graag zo. Coffeeshops verkopen troep, geven overlast en onveiligheid. Dat moeten we in onze dorpen niet willen!"
         },
+        "167235": {
+          "position": "disagree",
+          "explanation": "Katwijk is gelukkig Amsterdam niet. Er wordt hier zelden gedemonstreerd. En voor de enkele keer dat het wel gebeurt zijn er al goede afspraken met de politie. Wat het CDA betreft hoeft hier de OZB niet voor verhoogd te worden."
+        },
+        "167236": {
+          "position": "agree",
+          "explanation": "In onze dorpen kennen we gelukkig weinig buitenslapers. Vaak zijn dat mensen die door omstandigheden in de goot terecht zijn gekomen. Die mensen moet je geen boete geven maar juist helpen om hun leven weer op de rit te krijgen."
+        },
         "167237": {
           "position": "agree",
           "explanation": "Gelukkig is de criminaliteit in onze dorpen laag. Toch ervaren inwoners soms onveiligheid. En jonge meisjes en vrouwen moeten helaas altijd nadenken over hun veiligheid. Het CDA is voorstander van ingrepen die kunnen bijdragen aan een hoger veiligheidsgevoel. Extra cameratoezicht kan daarbij helpen."
@@ -212,6 +364,14 @@
         "167238": {
           "position": "agree",
           "explanation": "We zeggen dit al járen: niet bouwen in de Kwakelwei. Het CDA wil dit gebied inrichten als een park, een groene long midden in onze gemeente. Met ruimte voor natuur, om te wandelen, te spelen en lekker in het gras te liggen. Met een pont of brug kunnen Rijnsburgers het gebied makkelijk bereiken."
+        },
+        "167239": {
+          "position": "agree",
+          "explanation": "Wij Katwijkers, Rijnsburgers en Valkenburgers zitten zo in elkaar dat we graag in eigen dorp blijven wonen. Dus moeten we ervoor zorgen dat huizen beschikbaar blijven voor eigen inwoners en jongeren. Waar dat binnen de regels kan, zoeken we de ruimte maximaal op om dit te realiseren."
+        },
+        "167240": {
+          "position": "agree",
+          "explanation": "Niet iedereen is in staat om een huis te kopen of hoge huren op te brengen. Er moeten voldoende sociale huurwoningen zijn voor inwoners uit onze dorpen die daarop aangewezen zijn. De wachttijden voor zo’n woning zijn al belachelijk lang. Dus we gaan niet voor minder maar voor meer."
         },
         "167241": {
           "position": "disagree",
@@ -225,21 +385,53 @@
           "position": "disagree",
           "explanation": "Wij willen het karakter van onze dorpen behouden. Dat verpest je met woontorens XXL. Het huidige college wil ze graag, als wapen tegen woningnood. Maar die torens gaan niet meer weg. Ze zijn ook niet nodig. Binnen de dorpen is nog plek genoeg om te bouwen zonder het dorpsaangezicht te slopen."
         },
+        "167244": {
+          "position": "agree",
+          "explanation": "Woningen zijn om in te wonen, niet om mee te cashen. Als er gekozen moet worden tussen huizenbeleggers en woningzoekenden, dan staat het CDA aan de kant van die laatste groep. Altijd."
+        },
+        "167245": {
+          "position": "agree",
+          "explanation": "In Katwijk aan Zee hebben heel veel huizen een vakantiehuisje in de achtertuin staan. Prima toch als iemand dat als woonplek gaat gebruiken? Elk zomerhuisje dat hiervoor beschikbaar komt, is een kans op een eigen woning voor een jongere."
+        },
         "167246": {
           "position": "agree",
           "explanation": "Onderzoeken laten keer op keer zien dat mensen gelukkiger zijn als er voldoende groen is in hun leefomgeving. Bij warm weer zorgen bomen voor verkoeling, de straat ziet er vriendelijker uit, het geeft mensen lucht en ruimte. Doen dat groen!"
+        },
+        "167247": {
+          "position": "agree",
+          "explanation": "Wie zijn huis wil opknappen, moet daar natuurlijk de tijd voor kunnen nemen. Maar een woning zo maar leeg laten staan terwijl talloze inwoners op zoek zijn naar woonruimte, dat willen we niet. Dan maar een beetje dwang om huiseigenaren een duwtje in de goede richting te geven,"
         },
         "167248": {
           "position": "agree",
           "explanation": "Je hoort het steeds vaker: mensen met een baan lukt het niet om de eindjes aan elkaar te knopen. Het leven is ook zo duur geworden. Door de grens voor allerlei steunregelingen te verhogen kunnen meer inwoners geholpen worden. Zo blijven ze uit de schuldenproblemen. Want dat wens je niemand toe."
         },
+        "167249": {
+          "position": "agree",
+          "explanation": "Wie kan, doet mee. Voor het CDA is dat een belangrijk uitgangspunt. Niet iedereen kan werken, door lichamelijke of psychische beperkingen. Dan kun je vaak nog wel op een andere manier een bijdrage leveren, bijvoorbeeld als vrijwilliger. Dat helpt ook mee om weer op eigen benen te leren staan."
+        },
         "167250": {
           "position": "agree",
           "explanation": "Wie onze taal niet beheerst, vindt moeilijker werk en kan minder goed meedoen in de samenleving. Een bijstandsuitkering is wat het CDA betreft niet vrijblijvend. Daar mag eigen inzet voor teruggevraagd worden, bijvoorbeeld in de vorm van voldoende inspanningen om onze taal te leren."
         },
+        "167251": {
+          "position": "disagree",
+          "explanation": "Er bestaan al regelingen om mensen in de bijstand te helpen bij onverwachte uitgaven. De inzet moet steeds zijn dat mensen weer op eigen benen komen te staan. Dan helpt het niet om allerlei onkosten voor mensen te gaan betalen. Ondersteuning moet gericht zijn op het terugwinnen van zelfstandigheid."
+        },
+        "167252": {
+          "position": "disagree",
+          "explanation": "Er bestaan al regelingen om mensen in de bijstand te helpen bij onverwachte uitgaven. De inzet moet steeds zijn dat mensen weer op eigen benen komen te staan. Dan helpt het niet om allerlei onkosten voor mensen te gaan betalen. Ondersteuning moet gericht zijn op het terugwinnen van zelfstandigheid."
+        },
+        "167253": {
+          "position": "agree",
+          "explanation": "In Katwijk zijn we op dit punt eigenwijs en wat ons betreft blijven we dat. Veel onderzoeken laten zien dat het voor fietsers veiliger is als auto’s voorrang hebben op een rotonde. Fietsers letten dan beter op. Het kost hen amper tijdverlies door even te wachten, maar ze komen wél veilig thuis."
+        },
         "167254": {
           "position": "disagree",
           "explanation": "Net zoals bij rotondes laten onderzoeken zien dat fietsstraten, waar fietsers en auto’s samen rijden maar fietsers voorrang hebben, juist onveiliger zijn voor fietsers. Fietsers letten dan minder goed op, waardoor er meer ongelukken gebeuren. Niet doen dus!"
+        },
+        "167255": {
+          "position": "disagree",
+          "explanation": "Klinkt leuk hoor, maar hoe gaan we dat organiseren? Alle inwoners van onze gemeente een pas om hun auto specifiek langs de boulevard te mogen parkeren? Dat klinkt nogal inefficiënt. We zijn er wél voorstander van om deze parkeerplekken te reserveren voor de boulevardbewoners en hun gasten."
         },
         "167256": {
           "position": "disagree",
@@ -248,6 +440,22 @@
         "167257": {
           "position": "disagree",
           "explanation": "De parkeerdruk is op veel plekken in onze dorpen al hoog, Dan moeten we geen parkeerplekken gaan opofferen aan voorzieningen waar in onze dorpen nauwelijks gebruik van wordt gemaakt."
+        },
+        "167258": {
+          "position": "disagree",
+          "explanation": "In 2024 was er een referendum over betaald parkeren. Onze inwoners zeiden massaal: niet doen! Het huidige college wilde betaald parkeren op heel veel plekken in onze dorpen doordrukken. Gelukkig hebben onze inwoners met de uitslag van het referendum een heldere boodschap afgegeven."
+        },
+        "167260": {
+          "position": "agree",
+          "explanation": "Op veel plekken in onze dorpen is de stoep smal en de voortuin klein. Dan verpest een bus voor het raam je uitzicht. Aparte parkeerplekken voor werkbussen kunnen dan een oplossing zijn. Dat moet wel veilig, inbraak of diefstal moet voorkomen worden. We zijn tegen een verbod op busjes in de wijk."
+        },
+        "167261": {
+          "position": "disagree",
+          "explanation": "Op veel plekken binnen onze dorpen geldt 30 kilometer per uur. De snelheid van auto’s gaat niet omlaag door een 30-bord langs de kant van de weg. Daarvoor moet je een straat ook anders inrichten, anders haalt dat bord niets uit. Wil je toch maatregelen nemen, dan liever aparte paden voor fietsers."
+        },
+        "167263": {
+          "position": "disagree",
+          "explanation": "Het CDA kiest voor dichtbij en persoonlijk. Lokale zorgaanbieders kennen onze inwoners en kunnen sneller inspelen op hulpvragen, afgestemd op de identiteit van onze inwoners. Grootschalige instellingen maken zorg onpersoonlijk."
         },
         "167264": {
           "position": "agree",
@@ -275,6 +483,10 @@
           "position": "disagree",
           "explanation": "Duurzaam inkopen is belangrijk en verdient aandacht. Maar als eis mag het niet zo streng worden dat goede, betaalbare of lokale bedrijven worden uitgesloten of dat kosten onnodig stijgen."
         },
+        "167206": {
+          "position": "disagree",
+          "explanation": "Samen met andere gemeenten dingen regelen kan goedkoper en beter zijn. Wel moeten we goed kijken of de afgesproken doelen wel gehaald worden en moet de gemeente bij kunnen sturen."
+        },
         "167207": {
           "position": "disagree",
           "explanation": "De gemeenteraad is democratisch gekozen en moet besluiten nemen. Inwoners betrekken we graag, maar via inspraak en overleg, niet door een geloot burgerberaad dat geen brede vertegenwoordiging of mandaat heeft."
@@ -282,6 +494,10 @@
         "167208": {
           "position": "disagree",
           "explanation": "Zeker in de verantwoordelijke taak die we hebben is het belangrijk dat we ons afhankelijk weten van onze God."
+        },
+        "167209": {
+          "position": "agree",
+          "explanation": "Jongeren die zich inzetten voor hun buurt of een positief evenement verdienen steun. Een jongerenfonds kan initiatief en betrokkenheid vergroten, mits het geld zorgvuldig wordt besteed en goed wordt begeleid."
         },
         "167210": {
           "position": "disagree",
@@ -295,13 +511,29 @@
           "position": "agree",
           "explanation": "De SGP vindt goede voorzieningen voor toeristen belangrijk, maar eventuele promotiecampagnes moeten in lijn zijn met hoe recreatie hier beleefd kan worden. Het gaat vooral om verantwoorde recreatie, behoud van rust, natuur en het eigen karakter van Katwijk als familie(bad)plaats."
         },
+        "167213": {
+          "position": "agree",
+          "explanation": "De SGP wil dat Katwijk een familiebadplaats blijft met rust en ruimte. Nieuwe hotels mogen alleen beperkt en zorgvuldig worden toegestaan, zodat natuur, leefomgeving en het karakter van de dorpskernen behouden blijven."
+        },
+        "167214": {
+          "position": "disagree",
+          "explanation": "De SGP wil dat cafés en horeca binnen duidelijke kaders werken. Een afgesproken sluitingsuur helpt overlast te beperken en het karakter van Katwijk als rustige familiebadplaats te behouden, dus vrije openingstijden zijn niet passend. Ook beperkt dit overlast voor omwonenden."
+        },
         "167215": {
           "position": "agree",
           "explanation": "De zondag moet behouden blijven als dag van rust, bezinning en ontmoeting, zoals de Bijbel ons leert. Ook praktisch gezien bevordert het gesloten houden van winkels ontspanning, sociale verbondenheid en een gezonde werk-privébalans voor werknemers en ondernemers."
         },
+        "167216": {
+          "position": "agree",
+          "explanation": "Initiatieven waarbij inwoners samen een oplossing verzinnen om minder energie te verbruiken of zelf op te wekken moet, mits haalbaar, door de gemeente gestimuleerd worden."
+        },
         "167217": {
           "position": "agree",
           "explanation": "Voordat bedrijven arbeidsmigranten aannemen, moet er passende huisvesting beschikbaar zijn. Zo blijft de leefomgeving rustig, worden overlast en woningdruk beperkt, en is er ruimte voor een zorgvuldige, tijdelijke woonoplossing zoals flexwonen."
+        },
+        "167219": {
+          "position": "disagree",
+          "explanation": "Kinderen met een taalachterstand verdienen ondersteuning, ongeacht het inkomen van de ouders. Extra taalprogramma’s moeten door de gemeente of met rijksmiddelen beschikbaar zijn, zodat geen kind achterblijft door financiële drempels."
         },
         "167220": {
           "position": "agree",
@@ -311,6 +543,10 @@
           "position": "disagree",
           "explanation": "De SGP vindt dat overlast voor omwonenden beperkt moet blijven. Het huidige einduur van 23.00 uur helpt rust en leefbaarheid te bewaren, passend bij het karakter van Katwijk als familiebadplaats."
         },
+        "167222": {
+          "position": "agree",
+          "explanation": "Regenwater is veel schoner dan afvalwater en hoeft dus niet door het (dure) zuiveringsproces te gaan. Ook bij grote regenbuien is het dan minder erg als dit dan direct geloosd wordt in sloten of rivieren."
+        },
         "167224": {
           "position": "agree",
           "explanation": "Ondernemers moeten mensen met een beperking de kans geven om mee te doen. De gemeente kan helpen met geld zodat gebouwen beter toegankelijk worden, zodat iedereen veilig en zelfstandig binnen kan komen."
@@ -318,6 +554,18 @@
         "167226": {
           "position": "disagree",
           "explanation": "De SGP wil verduurzamen, maar snel afscheid nemen van aardgas kan te veel kosten en problemen geven voor inwoners. Over twintig jaar kan het doel worden bekeken, maar stap voor stap en met oog voor betaalbaarheid en betrouwbaarheid."
+        },
+        "167227": {
+          "position": "agree",
+          "explanation": "De kosten van zwemles en de contributie voor sportverenigingen is voor minimagezinnen en grote gezinnen, die buiten de doe-mee regeling vallen, vaak een prijzige aangelegenheid. Subsidie/ondersteuning kan voor deze groep zwemles en sportlidmaatschap toch binnen het bereik brengen."
+        },
+        "167228": {
+          "position": "agree",
+          "explanation": "Schoolzwemmen is belangrijk voor de veiligheid van kinderen. De gemeente kan hier geld voor beschikbaar stellen, zodat alle kinderen leren zwemmen en veilig in het water kunnen zijn."
+        },
+        "167229": {
+          "position": "agree",
+          "explanation": "Muziek is belangrijk voor de ontwikkeling van kinderen. De gemeente kan helpen zodat alle basisschoolkinderen de kans krijgen om muziekles te volgen, bijvoorbeeld via samenwerking met de muziekschool of verenigingen."
         },
         "167230": {
           "position": "agree",
@@ -335,6 +583,14 @@
           "position": "agree",
           "explanation": "De SGP is tegen coffeeshops in Katwijk. De gemeente moet zich houden aan een streng drugsbeleid. Het is niet uit te leggen dat er veel geld wordt uitgegeven aan drugspreventie, maar er wel een coffeeshop toegelaten wordt door de gemeente."
         },
+        "167235": {
+          "position": "disagree",
+          "explanation": "De SGP vindt dat iedereen veilig zijn mening moet kunnen uiten. De gemeente biedt, samen met de politie, hierbij al alle mogelijkheden om dit veilig te laten gebeuren. Méér geld is dus niet nodig."
+        },
+        "167236": {
+          "position": "disagree",
+          "explanation": "In eerste instantie moet goed hulp en opvang worden geboden aan dak- en thuislozen, zodat niemand buiten hóéft te slapen. De mogelijkheid om boetes uit te delen blijft echter nodig om de openbare orde te beschermen en te zorgen dat de leefomgeving veilig en schoon blijft."
+        },
         "167237": {
           "position": "agree",
           "explanation": "De SGP vindt veiligheid belangrijk, ook in het uitgaansgebied. Cameratoezicht kan helpen overlast en criminaliteit te voorkomen, zolang het alleen op de juiste plekken en met duidelijke regels gebeurt. Zodra cameratoezicht afgeschaald kan worden, moet dit ook weer gebeuren."
@@ -342,6 +598,14 @@
         "167238": {
           "position": "disagree",
           "explanation": "Er is veel steun voor een park op de Kwakelwei. De SGP vindt dat er beperkte, passende (woning)bouw mag komen om dit te financieren, liefst samen met Marente, waarbij ook het cultuurhistorische Heerenschoolbos in oude staat wordt hersteld. Op deze manier kost het ook zo min mogelijk belastinggeld!"
+        },
+        "167239": {
+          "position": "agree",
+          "explanation": "De SGP vindt dat inwoners van Katwijk eerst recht hebben op een sociale huurwoning. Zo krijgen lokale gezinnen en kwetsbaren de kans om dichtbij werk, school en familie te wonen."
+        },
+        "167240": {
+          "position": "agree",
+          "explanation": "De SGP vindt dat bij sloop van torenflats het aantal sociale huurwoningen behouden moet blijven. Zo blijft er voldoende betaalbare woningruimte voor gezinnen en kwetsbare inwoners in Hoornes."
         },
         "167241": {
           "position": "agree",
@@ -355,21 +619,53 @@
           "position": "disagree",
           "explanation": "De SGP vindt dat hoogbouw uitzondering moet blijven. Het dorpskarakter van Katwijk, Rijnsburg en Valkenburg is belangrijk en nieuwe woningen moeten leefbaar, veilig en goed bereikbaar zijn, met ruimte voor scholen, groen en voorzieningen."
         },
+        "167244": {
+          "position": "agree",
+          "explanation": "De SGP vindt dat kopers hun eigen woning zelf moeten bewonen. Dit voorkomt speculatie, houdt woningen beschikbaar voor echte bewoners en beschermt het dorpskarakter van Katwijk."
+        },
+        "167245": {
+          "position": "disagree",
+          "explanation": "De SGP wil dat vakantiewoningen hun recreatieve functie behouden."
+        },
         "167246": {
           "position": "agree",
           "explanation": "De SGP vindt groen en natuur in nieuwe wijken belangrijk voor leefbaarheid en identiteit. Minimaal 20% reserveren zorgt voor speelruimte, ontmoetingsplekken en behoud van landschap, zonder dat de woningen ten koste gaan van de omgeving."
+        },
+        "167247": {
+          "position": "agree",
+          "explanation": "De SGP vindt dat leegstand niet mag leiden tot verspilling van woningen, winkels of bedrijfsruimten. Het verminderen van leegstand vraagt allereerst om samenwerking met eigenaren. Pas wanneer dat niet werkt, kan handhaving worden ingezet om panden weer in gebruik te krijgen."
         },
         "167248": {
           "position": "disagree",
           "explanation": "De SGP vindt het belangrijk dat hulp bij armoede doelgericht blijft. De huidige grens van 130% van het sociaal minimum is ruimhartig genoeg en zorgt dat hulp terechtkomt bij de mensen die het echt nodig hebben."
         },
+        "167249": {
+          "position": "agree",
+          "explanation": "De SGP vindt dat bijstand niet alleen een uitkering is, maar ook een kans om bij te dragen aan de samenleving. Maatschappelijk zinvol werk helpt mensen actief te blijven en versterkt de gemeenschap."
+        },
         "167250": {
           "position": "agree",
           "explanation": "De SGP vindt het belangrijk dat mensen zo snel mogelijk meedoen in de samenleving. Het verlagen van de bijstand kan helpen om de druk erop te houden om Nederlands te leren, met goede begeleiding en redelijke verwachtingen vanuit de gemeente."
         },
+        "167251": {
+          "position": "disagree",
+          "explanation": "De SGP vindt dat tandartszorg primair via de zorgverzekering geregeld moet worden. Het is geen taak van de gemeente om tandartskosten te vergoeden."
+        },
+        "167252": {
+          "position": "disagree",
+          "explanation": "De SGP vindt dat het eigen risico van de zorgverzekering een landelijke taak is, niet van de gemeente. De gemeente kan mensen met een laag inkomen wel op andere manieren ondersteunen, maar het betalen van het eigen risico hoort daar niet bij."
+        },
+        "167253": {
+          "position": "agree",
+          "explanation": "De SGP vindt dat auto’s op rotondes duidelijk voorrang moeten hebben. Dit zorgt voor een vlotte doorstroming en voorkomt onduidelijkheid, wat uiteindelijk ook veiliger is voor fietsers en voetgangers."
+        },
         "167254": {
           "position": "agree",
           "explanation": "De SGP vindt dat fietsers veilig en goed door Katwijk moeten kunnen rijden. Meer fietsstraten, waar zij voorrang hebben, maken het verkeer veiliger, stimuleren fietsen en verbeteren de verbindingen tussen wijken en belangrijke bestemmingen."
+        },
+        "167255": {
+          "position": "disagree",
+          "explanation": "De SGP vindt dat de boulevard een plek is voor inwoners én bezoekers. Toegang beperken tot alleen inwoners zou toerisme en recreatie beperken, terwijl beide belangrijk zijn voor Katwijk aan Zee. Aan de Boulevard aan de zuidkant zijn ruim voldoende parkeerplaatsen."
         },
         "167256": {
           "position": "disagree",
@@ -378,6 +674,22 @@
         "167257": {
           "position": "agree",
           "explanation": "De SGP vindt dat deelauto’s duurzaam vervoer stimuleren. Meer parkeerplaatsen voor deze auto’s maken het gebruik makkelijker, verminderen de druk op gewone parkeerplaatsen en dragen bij aan schoner verkeer."
+        },
+        "167258": {
+          "position": "disagree",
+          "explanation": "De SGP is niet principieel tegen gereguleerd parkeren, maar dit is geen doel op zich. Per wijk moet gekeken worden wat nodig is, zodat parkeren voor bewoners goed geregeld blijft zonder onnodige regels op te leggen."
+        },
+        "167260": {
+          "position": "agree",
+          "explanation": "De SGP vindt dat bedrijfsbussen veilig en buiten de woonwijken moeten kunnen parkeren. Parkeerplaatsen aan de rand van de wijken houden de straten vrij voor auto’s en vergroten de veiligheid en leefbaarheid in de wijken."
+        },
+        "167261": {
+          "position": "disagree",
+          "explanation": "De SGP vindt 30 km/u belangrijk waar het echt nodig is, zoals woonwijken en bij scholen. Op andere wegen zonder fietspad kan 50 km/u blijven om doorstroming te behouden, zolang de verkeersveiligheid goed wordt gewaarborgd."
+        },
+        "167263": {
+          "position": "disagree",
+          "explanation": "De SGP vindt dat zorg en ondersteuning juist dichtbij inwoners en passend bij hun identiteit moeten blijven. Samenwerking met grote aanbieders mag, maar mag niet ten koste gaan van persoonlijke zorg, lokale initiatieven en wijkteams."
         },
         "167264": {
           "position": "agree",
@@ -405,6 +717,10 @@
           "position": "agree",
           "explanation": "Publiek geld moet verantwoord worden besteed. Door duurzaam in te kopen, nemen we zorg voor de schepping serieus en investeren we in een gezonde toekomst voor volgende generaties."
         },
+        "167206": {
+          "position": "disagree",
+          "explanation": "Sommige taken, zoals zorg en veiligheid, vragen om regionale samenwerking. Door samen te werken kunnen we kwaliteit waarborgen, kosten beheersen en kennis delen, terwijl lokale keuzes lokaal blijven."
+        },
         "167207": {
           "position": "agree",
           "explanation": "Een burgerberaad geeft inwoners op een zorgvuldige manier invloed bij lastige keuzes. Door loting ontstaat een goede afspiegeling van de samenleving en is er ruimte voor verdieping en luisteren naar elkaar. Dat past bij onze visie op samen beslissen, als alternatief voor polariserende referenda."
@@ -412,6 +728,10 @@
         "167208": {
           "position": "disagree",
           "explanation": "Het ambtsgebed is meer dan een gebed. Het is ook een symbool voor bezinning en verantwoordelijkheid. Het herinnert raadsleden eraan dat politiek mensen raakt en vraagt om wijsheid en zorgvuldigheid. Een deel van de raad vind het fijn om onze Schepper te betrekken bij onze beslissingen."
+        },
+        "167209": {
+          "position": "agree",
+          "explanation": "Jongeren zijn de toekomst van Katwijk. Door hen verantwoordelijkheid en vertrouwen te geven, groeien betrokkenheid en eigenaarschap. Een jongerenfonds biedt ruimte om ideeën voor evenementen of buurtprojecten zelf uit te voeren en mee te bouwen aan de samenleving."
         },
         "167210": {
           "position": "agree",
@@ -425,13 +745,29 @@
           "position": "disagree",
           "explanation": "Katwijk is al een populaire badplaats. Extra promotie is niet nodig en kan de drukte verder vergroten. Wij kiezen liever voor investeren in leefbaarheid en balans tussen toerisme en het dagelijks leven van inwoners."
         },
+        "167213": {
+          "position": "agree",
+          "explanation": "Katwijk is een geliefde plek voor toeristen uit binnen- en buitenland. Om gastvrij te blijven, zijn verblijfplaatsen nodig. Meer hotels ondersteunen het toerisme, helpen lokale ondernemers en houden Katwijk aantrekkelijk als familiebadplaats."
+        },
+        "167214": {
+          "position": "disagree",
+          "explanation": "Vrijheid is belangrijk, maar vraagt ook om grenzen. Gemeentelijke openingstijden helpen overlast te beperken en zorgen voor rust, veiligheid en leefbaarheid voor omwonenden."
+        },
         "167215": {
           "position": "agree",
           "explanation": "De zondag is een dag van rust en ontmoeting. Winkelsluiting beschermt werknemers en helpt om balans te houden tussen werken, leven en samen zijn."
         },
+        "167216": {
+          "position": "agree",
+          "explanation": "Lokale energie-initiatieven versterken de gemeenschap en dragen bij aan duurzaamheid. Gemeentelijke steun helpt goede ideeën van de grond te krijgen."
+        },
         "167217": {
           "position": "agree",
           "explanation": "Wie medewerkers uit het buitenland aantrekt, moet ook zorgdragen voor fatsoenlijke woon- en leefomstandigheden van zijn werknemers."
+        },
+        "167219": {
+          "position": "disagree",
+          "explanation": "Ieder kind verdient gelijke kansen. Een taalachterstand mag niet afhangen van de portemonnee van ouders, want onderwijs is een gezamenlijke verantwoordelijkheid."
         },
         "167220": {
           "position": "disagree",
@@ -441,6 +777,10 @@
           "position": "disagree",
           "explanation": "Evenementen zijn waardevol, maar moeten in balans zijn met rust voor omwonenden. Een vaste eindtijd helpt om overlast te beperken en zorgt voor duidelijkheid voor iedereen."
         },
+        "167222": {
+          "position": "agree",
+          "explanation": "Door regenwater en afvalwater te scheiden, voorkomen we wateroverlast en beschermen we het milieu. Dit is verstandig en toekomstbestendig beleid."
+        },
         "167224": {
           "position": "agree",
           "explanation": "Iedereen moet mee kunnen doen. Door ondernemers te helpen bij toegankelijkheid, maken we de samenleving inclusiever en gastvrijer."
@@ -448,6 +788,18 @@
         "167226": {
           "position": "agree",
           "explanation": "De overstap naar duurzame energie is nodig voor het klimaat. De gemeente moet deze overgang zorgvuldig en betaalbaar begeleiden."
+        },
+        "167227": {
+          "position": "agree",
+          "explanation": "Sport is belangrijk voor gezondheid en sociale ontwikkeling. Geen enkel kind mag buitengesloten worden vanwege geldgebrek."
+        },
+        "167228": {
+          "position": "agree",
+          "explanation": "Zwemvaardigheid is een kwestie van veiligheid. Schoolzwemmen zorgt ervoor dat alle kinderen leren zwemmen, ongeacht hun thuissituatie. Tegelijkertijd weten we dat dit erg kostbaar. Bovendien moet de school dit zelf ook willen. Wij zijn daarom vooral voorstander van voortzetting van het Sportfonds."
+        },
+        "167229": {
+          "position": "disagree",
+          "explanation": "Wij zijn groot voorstander van muziek en cultuur. Dat is belangrijk voor de ontwikkeling van kinderen. Gemeentelijke bekostiging voor ieder kind gaat echter te ver. Er zijn al regelingen voor gezinnen met een kleine portemonnee en muzieklessen op school kunnen worden gestimuleerd."
         },
         "167230": {
           "position": "agree",
@@ -465,6 +817,14 @@
           "position": "agree",
           "explanation": "Drugsgebruik brengt risico’s met zich mee voor gezondheid en veiligheid. De gemeente moet kiezen voor preventie en bescherming van jongeren en kwetsbaren."
         },
+        "167235": {
+          "position": "disagree",
+          "explanation": "Preventieve bewaking past niet bij een demonstratie. Demonstreren is een grondrecht en hoort veilig mogelijk te zijn. De politie faciliteert dit. Beveiliging suggereert escalatie. We zetten liever in op respectvol gedrag en dialoog dan op extra kosten voor preventieve bewaking."
+        },
+        "167236": {
+          "position": "agree",
+          "explanation": "Dakloosheid is geen keuze maar een noodsituatie. Boetes lossen niets op en maken problemen groter. De gemeente moet helpen met opvang en begeleiding. Tegelijk blijven strand en duinen geen kampeerplek; handhaving blijft nodig, mét oog voor de mens."
+        },
         "167237": {
           "position": "agree",
           "explanation": "Gericht cameratoezicht kan bijdragen aan veiligheid en opsporing in het uitgaansgebied. Het werkt ondersteunend aan de politie, ook preventief, zonder extra handhavers in het nachtleven. Voorwaarde is dat het zorgvuldig en proportioneel wordt ingezet, zodat het geen schijnveiligheid biedt."
@@ -472,6 +832,14 @@
         "167238": {
           "position": "agree",
           "explanation": "De Kwakelwei is een waardevol groen gebied. We moeten zorgvuldig omgaan met schaarse open ruimte en deze beschermen voor huidige en toekomstige generaties."
+        },
+        "167239": {
+          "position": "agree",
+          "explanation": "Door voorrang te geven aan woningzoekenden uit de eigen gemeente, neemt de gemeente verantwoordelijkheid voor haar eigen inwoners, met oog voor jongeren en starters. Dit wordt bij meerdere andere gemeente ook toegepast."
+        },
+        "167240": {
+          "position": "agree",
+          "explanation": "Sociale huurwoningen zijn hard nodig. Bij sloop mag de voorraad niet afnemen. Zo voorkomen we dat mensen met een lager inkomen verder in de knel komen op de woningmarkt."
         },
         "167241": {
           "position": "agree",
@@ -485,21 +853,53 @@
           "position": "agree",
           "explanation": "Om het woningtekort aan te pakken, is hoogbouw soms nodig en passend. De ChristenUnie pleit voor een maximum van 32 meter, en uitzonderingen tot 40 waar dat past bij het straatbeeld. Zoals waar de torenflats nu staan, of in Valkenhorst. Zo realiseren we meer woningen en houden we ruimte voor groen."
         },
+        "167244": {
+          "position": "agree",
+          "explanation": "Huizen zijn bedoeld om in te wonen, niet om mee te speculeren. Deze maatregel helpt starters en gezinnen en voorkomt dat beleggers woningen wegkopen."
+        },
+        "167245": {
+          "position": "disagree",
+          "explanation": "Vakantiewoningen zijn niet bedoeld voor permanente bewoning. Dit kan leiden tot onveilige situaties en verdringing. Structurele woningnood vraagt om echte woningen, niet om noodoplossingen."
+        },
         "167246": {
           "position": "agree",
           "explanation": "Groen is essentieel voor leefbaarheid en klimaatadaptatie. Door ruimte voor natuur te reserveren, zorgen we voor gezonde wijken en bereiden we ons voor op extremer weer."
+        },
+        "167247": {
+          "position": "agree",
+          "explanation": "Leegstand is zonde van de ruimte, zeker bij woningnood. Door leegstand aan te pakken stimuleren we dat panden weer worden gebruikt voor wonen of werken."
         },
         "167248": {
           "position": "agree",
           "explanation": "Veel mensen vallen nu net buiten de regelingen. Door de grens te verhogen, helpen we meer huishoudens die moeite hebben om rond te komen. We vinden het belangrijk dat de hulp stapsgewijs wordt afgebouwd bij meer inkomen, om te voorkomen dat mensen in een armoedeval komen."
         },
+        "167249": {
+          "position": "agree",
+          "explanation": "Meedoen is belangrijk. Zinvol werk kan structuur geven, talenten ontwikkelen en bijdragen aan de samenleving, mits er oog is voor maatwerk en persoonlijke omstandigheden."
+        },
         "167250": {
           "position": "agree",
           "explanation": "We vinden het belangrijk dat mensen actief meedoen in de samenleving. Taal is daarvoor essentieel. De gemeente kan stimuleren en ondersteunen bij taalaanbod, maar maatwerk blijft cruciaal; soms zijn er geldige redenen waardoor het leren moeilijker gaat. Daar hebben we oog voor."
         },
+        "167251": {
+          "position": "agree",
+          "explanation": "Goede mondzorg is geen luxe. Slechte tanden kunnen grote gevolgen hebben voor gezondheid en zelfvertrouwen. Deze zorg moet voor iedereen toegankelijk zijn. Door op tijd zorg te bieden kunnen bovendien veel kosten bespaard worden."
+        },
+        "167252": {
+          "position": "agree",
+          "explanation": "Het eigen risico is voor veel mensen een drempel om zorg te zoeken. Door dit te vergoeden, zorgen we dat mensen tijdig geholpen worden. Door op tijd goede zorg te bieden kunnen bovendien veel kosten in de toekomst bespaard worden."
+        },
+        "167253": {
+          "position": "disagree",
+          "explanation": "Katwijk is een van de weinige gemeente waar fietsers geen voorrang hebben. Fietsers zijn kwetsbaarder en verdienen extra bescherming in het verkeer."
+        },
         "167254": {
           "position": "agree",
           "explanation": "Fietsstraten maken wijken veiliger en stimuleren duurzaam vervoer. Dat is goed voor gezondheid, leefbaarheid en het milieu."
+        },
+        "167255": {
+          "position": "disagree",
+          "explanation": "De boulevard is een plek voor inwoners én bezoekers. Katwijk is een gastvrije badplaats waar ook toeristen, ondernemers en bezoekers welkom zijn. Parkeerbeleid moet zorgen voor een goede balans tussen bereikbaarheid en leefbaarheid, zonder uit te sluiten op basis van woonplaats."
         },
         "167256": {
           "position": "disagree",
@@ -508,6 +908,22 @@
         "167257": {
           "position": "agree",
           "explanation": "Deelauto’s besparen ruimte en verminderen het aantal auto’s in de wijk. Dat draagt bij aan duurzaamheid en leefbaarheid."
+        },
+        "167258": {
+          "position": "disagree",
+          "explanation": "Vergunningen kunnen helpen om parkeerdruk eerlijk te verdelen en wijken leefbaar te houden. Maar het is een ingrijpende maatregel. Daarom vinden wij dat dit alleen moet gebeuren waar bewoners het zelf willen en waar het echt nodig is. Geen top-down beleid, maar samen met inwoners keuzes maken."
+        },
+        "167260": {
+          "position": "agree",
+          "explanation": "Niet als verplichting, maar als service. Dit voorkomt scheelt parkeerplek in de wijk en ondersteunt ondernemers en vakmensen."
+        },
+        "167261": {
+          "position": "agree",
+          "explanation": "Waar auto’s en fietsers de weg delen, is veiligheid extra belangrijk. Een lagere snelheid zorgt ervoor dat kinderen veilig naar school kunnen fietsen en dat auto’s rustiger en met meer aandacht langs fietsers rijden. Dit vergroot de verkeersveiligheid en het gevoel van veiligheid in de wijk."
+        },
+        "167263": {
+          "position": "disagree",
+          "explanation": "Keuzevrijheid en maatwerk zijn belangrijk in de zorg. Met voldoende aanbieders kunnen inwoners ondersteuning krijgen die past bij hun situatie, zonder dat kwaliteit of toegankelijkheid onder druk komt te staan."
         },
         "167264": {
           "position": "agree",
@@ -535,6 +951,10 @@
           "position": "agree",
           "explanation": "De gemeente geeft het goede voorbeeld. Inkopen doen we bij groene en lokale ondernemers die goed voor hun personeel zorgen."
         },
+        "167206": {
+          "position": "disagree",
+          "explanation": "Meer dingen zelf regelen is geen doel op zich. De gemeente moet blijven samenwerken in de regio en opkomen voor haar inwoners. Dan worden de belangen van Katwijkers goed vertegenwoordigd."
+        },
         "167207": {
           "position": "agree",
           "explanation": "Inwoners zijn de baas in de gemeente! Een burgerberaad is een mooi idee dat de politiek dichter bij de mensen brengt."
@@ -542,6 +962,10 @@
         "167208": {
           "position": "agree",
           "explanation": "Als we moeten kiezen is het antwoord eens. Maar als PvdA willen we graag respecteren dat mensen geloven. Het ambtsgebed is voor veel mensen in onze raad en daarbuiten waardevol. Voor ons is dit dan ook geen politiek thema. Leven en laten leven is belangrijk."
+        },
+        "167209": {
+          "position": "agree",
+          "explanation": "Jongeren moeten zich thuis voelen in Katwijk. Daarom moeten ze meer voor het zeggen krijgen. Met een apart fonds kunnen goede ideeën succesvol worden, net als het skatepark bij SCUM dat door jongeren zelf is bedacht."
         },
         "167210": {
           "position": "disagree",
@@ -555,13 +979,29 @@
           "position": "disagree",
           "explanation": "Het is in de zomer al gezellig druk in Katwijk! Onze gemeente heeft geen extra promotie nodig om bekend te staan als aantrekkelijke vakantiebestemming. Het geld voor zo'n campagne besteedt de PvdA Katwijk liever aan de inwoners zelf of lage lasten."
         },
+        "167213": {
+          "position": "agree",
+          "explanation": "Katwijk trekt veel toeristen. Ondernemers kunnen zelf besluiten om een hotel te starten. De gemeente moet dat niet tegenhouden."
+        },
+        "167214": {
+          "position": "agree",
+          "explanation": "Het mag gezelliger in Katwijk! Dat betekent sluitingstijden die passen bij de locatie zodat je langer uit kan gaan in onze dorpen. Cafés kunnen dat het best zelf besluiten, zodat het aansluit op de omgeving."
+        },
         "167215": {
           "position": "disagree",
           "explanation": "Inwoners en ondernemers mogen zelf bepalen wat ze op zondag doen. De PvdA Katwijk staat voor vrijheid voor inwoners en ondernemers. Overigens met respect voor een ieder. Zo doen we dat in Katwijk. We begrijpen ook dat er mensen zijn die zondagsrust willen, daar moet ook ruimte voor zijn."
         },
+        "167216": {
+          "position": "agree",
+          "explanation": "Als je energie lokaal opwekt, komt dat direct in de eigen wijk terecht. De PvdA Katwijk steunt zulke coöperaties van harte en vindt dat de gemeente ze goed moet ondersteunen."
+        },
         "167217": {
           "position": "agree",
           "explanation": "De gemeente moet grenzen stellen aan arbeidsmigratie. Werknemers mogen niet uitgebuit worden of op straat worden gezet. De PvdA Katwijk houdt bedrijven verantwoordelijk voor goede huisvesting voor arbeidsmigranten."
+        },
+        "167219": {
+          "position": "disagree",
+          "explanation": "De taal beheersen zorgt ervoor dat je mee kan doen in de samenleving. Elk kind verdient een eerlijke kans. Als ouders zelf extra taallessen moeten betalen, betekent dat dat kinderen uit arme gezinnen die kans niet krijgen. De PvdA Katwijk is het daar niet mee eens."
         },
         "167220": {
           "position": "disagree",
@@ -571,6 +1011,10 @@
           "position": "agree",
           "explanation": "Er moet wat te beleven zijn in Katwijk! Op feesten moet de muziek een uur langer door kunnen gaan. Zo worden evenementen nog leuker en hoeven jongeren niet weg uit onze dorpen voor een leuke avond."
         },
+        "167222": {
+          "position": "agree",
+          "explanation": "Te veel regenwater in het riool zorgt voor problemen. Daarom zorgen we voor goede afvoer bij nieuwe huizen om wateroverlast te voorkomen. Je kan regenwater ook hergebruiken door het op te slaan in tonnen!"
+        },
         "167224": {
           "position": "agree",
           "explanation": "Als het aan de PvdA Katwijk ligt, hebben we in 2028 de meest toegankelijke gemeente van Nederland. Alle plekken moeten toegankelijk zijn voor mensen met een beperking. De gemeente moet ervoor zorgen dat bestaande gebouwen aangepast worden."
@@ -578,6 +1022,18 @@
         "167226": {
           "position": "agree",
           "explanation": "De PvdA is voor een groen en duurzaam Katwijk. Gasloos kan veel voordelen hebben. We hebben wel duidelijke voorwaarden: de landelijke overheid moet het betalen en voor inwoners moet de energierekening omlaag. We dwingen niemand om mee te doen en de termijn waarop het gebeurt moet realistisch zijn."
+        },
+        "167227": {
+          "position": "agree",
+          "explanation": "Op het sportveld is iedereen gelijk! De PvdA Katwijk wil dat elk kind kan sporten, of die nou arm is of rijk. We investeren in gelijke kansen voor alle kinderen door sporten toegankelijk te maken voor gezinnen met weinig geld."
+        },
+        "167228": {
+          "position": "agree",
+          "explanation": "Als kustgemeente moet Katwijk ervoor zorgen dat kinderen goed kunnen zwemmen. Dan kan elk kind genieten van het strand en veilig het water in. Daarom moet er geld komen voor schoolzwemmen. Dan is het hebben van een zwemdiploma niet afhankelijk van het inkomen van je ouders."
+        },
+        "167229": {
+          "position": "agree",
+          "explanation": "Muziek en kunst verbindt ons. Kinderen moeten hun talenten ontdekken door nieuwe dingen te proberen. Met muzieklessen kunnen kinderen ervaren hoe het is om een instrument te spelen."
         },
         "167230": {
           "position": "agree",
@@ -595,6 +1051,14 @@
           "position": "disagree",
           "explanation": "Als een ondernemer een Katwijkse coffeeshop wil beginnen, moet dat kunnen."
         },
+        "167235": {
+          "position": "agree",
+          "explanation": "Demonstreren is een recht. Iedereen moet zijn of haar stem kunnen laten horen! Met betere beveiliging kunnen meer demonstraties vreedzaam plaatsvinden. Dan hoeft de burgemeester geen demonstraties af te wijzen door zorgen over de veiligheid van de demonstranten."
+        },
+        "167236": {
+          "position": "agree",
+          "explanation": "Dakloosheid is geen misdaad. Door dakloze mensen te beboeten los je geen problemen op, je maakt ze alleen maar groter. De PvdA Katwijk wil het besluit om wel boetes uit te delen terugdraaien. De gemeente moet juist hulp aanbieden om mensen van straat te krijgen."
+        },
         "167237": {
           "position": "disagree",
           "explanation": "Cameratoezicht is schijnveiligheid. Het voorkomt geen misdaad en beperkt onze privacy. De PvdA Katwijk kiest voor meer handhavers in het uitgaansgebied. Deze professionals kunnen direct problemen oplossen en conflicten bemiddelen."
@@ -602,6 +1066,14 @@
         "167238": {
           "position": "agree",
           "explanation": "Katwijk heeft een dorpspark nodig. De PvdA Katwijk kiest voor een groen en gratis Rijnpark op de Kwakelwei waar inwoners van de natuur kunnen genieten. Daar horen geen dure villa's."
+        },
+        "167239": {
+          "position": "agree",
+          "explanation": "Te veel mensen moeten noodgedwongen verhuizen uit Katwijk omdat er geen huizen zijn. Wij willen dat mensen de kans krijgen om hier te blijven wonen. Katwijk bouwt ook veel woningen, dus die ruimte is er."
+        },
+        "167240": {
+          "position": "agree",
+          "explanation": "De Hoornes heeft een opknapbeurt nodig, maar dat betekent niet dat er betaalbare woningen mogen verdwijnen. De PvdA Katwijk strijdt voor het behoud van de 468 sociale woningen. Mensen die door de renovatie moeten verhuizen, moeten met voorrang hier opnieuw een woning kunnen krijgen."
         },
         "167241": {
           "position": "agree",
@@ -615,21 +1087,53 @@
           "position": "agree",
           "explanation": "We gaan huizen bouwen! Maar we zien hier alleen mogelijkheden voor op Valkenhorst. Op bestaande plekken in Katwijk is het niet passend bij de omgeving en dus onrealistisch. Ook klinkt het leuk, maar hoger bouwen betekent zeker niet altijd goedkopere huizen en je krijgt extra parkeerproblemen."
         },
+        "167244": {
+          "position": "agree",
+          "explanation": "In deze tijd van woningcrisis moeten we alles op alles zetten voor onze inwoners. Als je een huis koopt in de gemeente, moet je daar wonen. Zo wil de PvdA Katwijk voorkomen dat beleggers de beschikbare huizen opkopen om geld mee te verdienen. Huizen zijn om in te wonen."
+        },
+        "167245": {
+          "position": "agree",
+          "explanation": "Je weet nooit hoe iemands thuissituatie er uit ziet. Als je tijdelijk in een vakantiewoning woont, bijvoorbeeld omdat je anders dakloos zou zijn, moet je ook post kunnen ontvangen. De PvdA Katwijk wil toestaan dat een vakantiewoning als vast woonadres wordt gezien."
+        },
         "167246": {
           "position": "agree",
           "explanation": "Een groene wijk is fijn en houdt ons gezond! Daarom wil de PvdA Katwijk bij alle nieuwbouwprojecten meer plek voor bomen en planten. Dat is fijn voor de inwoners en de natuur."
+        },
+        "167247": {
+          "position": "agree",
+          "explanation": "Gebouwen zijn om in te wonen of te ondernemen. Als je een jaar lang een gebouw bezet houdt, moeten er boetes komen. Zo voorkomt de PvdA Katwijk leegstand in een tijd dat ruimte al heel schaars is."
         },
         "167248": {
           "position": "agree",
           "explanation": "Te veel Katwijkers leven in armoede. Steeds meer gezinnen met middeninkomens komen ook in de knel. We moeten arrmoede bestrijden door op tijd hulp aan te bieden aan gezinnen. De PvdA Katwijk komt altijd op voor mensen die het financieel moeilijk hebben."
         },
+        "167249": {
+          "position": "agree",
+          "explanation": "Door te werken word je een onmisbaar deel van de samenleving. Daarom spoort de PvdA Katwijk mensen in de bijstand aan om zinvol werk te doen. Er is natuurlijk een uitzondering voor mensen die om wat voor reden niet kunnen werken."
+        },
         "167250": {
           "position": "disagree",
           "explanation": "Momenteel worden gezinnen die de taal niet leren al gekort op hun uitkering. De PvdA Katwijk wil dat mensen zo snel mogelijk Nederlands leren zodat ze kunnen meedoen in de samenleving. Dit kan ook zonder te morren met de uitkering waar mensen van afhankelijk zijn."
         },
+        "167251": {
+          "position": "agree",
+          "explanation": "Iedereen moet gezond kunnen leven. Een gezond gebit voorkomt veel problemen, maar de tandarts is duur. De PvdA Katwijk wil dat mondzorg vergoed wordt door de gemeente."
+        },
+        "167252": {
+          "position": "agree",
+          "explanation": "Het eigen risico is een boete op ziek zijn die voor veel gezinnen onbetaalbaar is. De PvdA Katwijk wil niet dat mensen zorg gaan vermijden omdat ze geen geld hebben. Daarom moet de gemeente het eigen risico opvangen van Katwijkers met geldproblemen."
+        },
+        "167253": {
+          "position": "disagree",
+          "explanation": "De PvdA Katwijk zet de fietser op #1 in het verkeer. Net als in bijna alle andere gemeenten moeten fietsers voorrang krijgen op rotondes. Het is gevaarlijk dat rotondes in Katwijk nu anders zijn dan in omliggende gemeenten!"
+        },
         "167254": {
           "position": "agree",
           "explanation": "Fietsen is gezond. Om fietsers veilig te houden, wil de PvdA Katwijk meer straten waar auto's moeten wijken voor fietsers."
+        },
+        "167255": {
+          "position": "disagree",
+          "explanation": "We gaan zoveel mogelijk mensen aanmoedigen om in onze mooie ondergrondse parkeergarage te parkeren. Maar een verbod op parkeren op de boulevard schrikt toeristen af en is niet te handhaven."
         },
         "167256": {
           "position": "disagree",
@@ -638,6 +1142,22 @@
         "167257": {
           "position": "agree",
           "explanation": "Deelauto's zorgen ervoor dat er uiteindelijk minder parkeerplekken nodig zijn. Dat betekent meer ruimte voor woningen en natuur. Door meer bestaande plekken aan te wijzen voor deelauto's wordt dit soort vervoer aantrekkelijker."
+        },
+        "167258": {
+          "position": "agree",
+          "explanation": "Dit kan inwoners meer gelegenheid bieden om in hun wijk te parkeren als het heel druk is. Maar het is geen doel op zich. Als inwoners het zelf willen kan het."
+        },
+        "167260": {
+          "position": "agree",
+          "explanation": "Er zijn veel vakbedrijven in Katwijk, Rijnsburg en Valkenburg. Samen met ondernemers wil de PvdA Katwijk plekken bekijken waar bedrijfsbusjes geparkeerd kunnen worden. Dat kan buiten de woonwijken, maar bijvoorbeeld ook op parkeerplaatsen van bedrijven in onze gemeente."
+        },
+        "167261": {
+          "position": "agree",
+          "explanation": "Auto's en fietsers op hetzelfde wegdek is gevaarlijk als de auto's te snel rijden. Daarom worden straten zonder fietspad 30km/u-zones, zodat het altijd duidelijk is dat auto's rustig moeten rijden."
+        },
+        "167263": {
+          "position": "disagree",
+          "explanation": "Mensen moeten de zorg kunnen krijgen die ze nodig hebben. Wij willen niet perse grote aanbieders, de PvdA wil betere afspraken met minder aanbieders. Deze aanbieders zijn bij voorkeur lokale organisaties die onze gemeente kennen en waardoor mensen zich veilig voelen bij de zorgverleners."
         },
         "167264": {
           "position": "agree",
@@ -665,6 +1185,10 @@
           "position": "disagree",
           "explanation": "Extra regels en vereisten leiden tot extra kosten voor de gemeente, en daarmee de inwoner. De Katwijkse VVD acht een verplichting op dit gebied daarom onverstandig. Wel kan in aanbestedingen gekeken worden naar de duurzaamheid van bijvoorbeeld materialen en werkwijze."
         },
+        "167206": {
+          "position": "disagree",
+          "explanation": "Wanneer het kosten verlaagt en de efficiëntie verhoogt, vindt de Katwijkse VVD het verstandig om regionaal samen te werken op gebieden zoals bereikbaarheid, sociaal domein, belastingen en woningbouw."
+        },
         "167207": {
           "position": "disagree",
           "explanation": "Bij de gemeenteraadsverkiezingen kiest u uw gewenste volksvertegenwoordiger. De Katwijkse VVD gaat er vanuit dat hij of zij u goed vertegenwoordigt en verstandige afwegingen maakt. Een extra orgaan, naast bijvoorbeeld de al bestaande wijkraden, biedt voor ons geen toegevoegde waarde."
@@ -672,6 +1196,10 @@
         "167208": {
           "position": "neither",
           "explanation": "De Katwijkse VVD vindt niet dat het afschaffen van het ambtsgebed 'moet'. Wel kunnen we ons indenken dat het gebed plaatsvindt buiten de officiële vergadering om."
+        },
+        "167209": {
+          "position": "agree",
+          "explanation": "De Katwijkse VVD stimuleert graag initiatieven vanuit de samenleving. Een klein bedrag kan jongeren helpen om een initiatief door te zetten. Dit moet wel met goede voorwaarden worden onderbouwd."
         },
         "167210": {
           "position": "agree",
@@ -685,13 +1213,29 @@
           "position": "agree",
           "explanation": "Vakantiegangers en dagjesmensen komen niet vanzelf in onze gemeente terecht. Het is voor onze lokale economie belangrijk om onze dorpen onder de aandacht te brengen. De Katwijkse VVD zet hier graag op in."
         },
+        "167213": {
+          "position": "agree",
+          "explanation": "Er zijn in onze gemeente relatief weinig hotelbedden. Wanneer hier belangstelling voor is, bieden we de ruimte voor meer hotels."
+        },
+        "167214": {
+          "position": "agree",
+          "explanation": "In beginsel vindt de Katwijkse VVD dat ondernemers zelf moeten bepalen wanneer zij wel of niet de deuren openen. Hierbij houden we wel rekening met de omgeving."
+        },
         "167215": {
           "position": "disagree",
           "explanation": "Katwijk is de grootste gemeente van Nederland (qua inwoners) waar een verplichte sluiting van winkels op zondag geldt. Dit is oneerlijk voor ondernemers. Daarbij hechten we veel waarde aan de vrijheid van inwoners om zelf te bepalen hoe zij hun dag invullen, óók op zondag."
         },
+        "167216": {
+          "position": "disagree",
+          "explanation": "De Katwijkse VVD vindt dat hierin het initiatief bij inwoners zelf moet blijven. Een (extra) lokale overheidsbijdrage vinden we geen noodzakelijke taak van de gemeente."
+        },
         "167217": {
           "position": "disagree",
           "explanation": "De Katwijkse VVD acht extra lokale regels hieromtrent onverstandig. Dit is belemmerend voor ondernemers en in de praktijk ook lastig uitvoerbaar."
+        },
+        "167219": {
+          "position": "disagree",
+          "explanation": "Een goed begrip van de Nederlandse taal is essentieel om mee te kunnen doen in de samenleving. De lokale overheid zet de reeds bestaande hulp op dit gebied voort voor gevallen waarbij dit nodig is."
         },
         "167220": {
           "position": "agree",
@@ -701,6 +1245,10 @@
           "position": "agree",
           "explanation": "Onze gemeente kan wel wat meer gezelligheid en reuring gebruiken, ook bij buitenevenementen. De Katwijkse VVD biedt hier de ruimte voor, waarbij we rekening houden met de omgeving."
         },
+        "167222": {
+          "position": "disagree",
+          "explanation": "Het scheiden van regen- en rioolwater is verstandig en gebeurt al. Maar de Katwijkse VVD is tegen toenemende verplichtingen voor ontwikkelaars, die al aan veel regels moeten voldoen bij nieuwbouw van woningen. Extra lokale regels zorgen voor een verdere vertraging van de woningbouw."
+        },
         "167224": {
           "position": "disagree",
           "explanation": "De Katwijkse VVD hecht een grote waarde aan de toegankelijkheid van gebouwen. In ieder geval overheidsgebouwen, maar bijvoorbeeld ook bushaltes, moeten toegankelijk zijn voor reizigers. Het extra financieel helpen van ondernemers hierbij zien we niet als een gemeentelijke taak."
@@ -708,6 +1256,18 @@
         "167226": {
           "position": "disagree",
           "explanation": "De Katwijkse VVD ziet dit niet als een gemeentelijke taak en volgt de koers die vanuit het Rijk wordt bepaald."
+        },
+        "167227": {
+          "position": "agree",
+          "explanation": "Geen kind mag buitenspel staan. We ondersteunen daarom financieel bij het sporten van kinderen als hun ouders dit niet kunnen betalen."
+        },
+        "167228": {
+          "position": "disagree",
+          "explanation": "De verplichte invoering van schoolzwemmen gaat ten koste van de basisvaardigheden rekenen, taal en burgerschap. Deze staan op basisscholen al jarenlang onder druk. Bovendien leidt het tot een stevige toename van de lokale belastingen."
+        },
+        "167229": {
+          "position": "disagree",
+          "explanation": "De Katwijkse VVD ziet dit niet als een noodzakelijke gemeentelijke taak."
         },
         "167230": {
           "position": "disagree",
@@ -725,6 +1285,14 @@
           "position": "agree",
           "explanation": "De Katwijkse VVD wenst het gebruik van drugs niet te normaliseren of laagdrempeliger te maken dan soms al het geval lijkt. De komst van een coffeeshop in een van onze dorpen steunen we derhalve niet."
         },
+        "167235": {
+          "position": "disagree",
+          "explanation": "Bij demonstraties verwachten we de benodigde inzet van de politie, op basis van de inschatting van de gemeente, politie en justitie. Het is niet aan de gemeente om hier (extra) financiële middelen in te steken."
+        },
+        "167236": {
+          "position": "agree",
+          "explanation": "Voor de Katwijkse VVD heeft het geen toegevoegde waarde om boetes uit te delen aan mensen die veelal om verdrietige redenen op straat (moeten) slapen."
+        },
         "167237": {
           "position": "agree",
           "explanation": "Veiligheid in onze dorpen is van groot belang, zeker ook in het uitgaansgebied. We zijn daarom voorstander van actief cameratoezicht waar dat naar inschatting van de politie passend is."
@@ -732,6 +1300,14 @@
         "167238": {
           "position": "disagree",
           "explanation": "De gemeente heeft meermaals verzuimd om de grond van de Kwakelwei aan te kopen. Onteigening van de grond is zeer kostbaar. De Katwijkse VVD werkt daarom veel liever goed samen met de huidige grondeigenaar en biedt, naast ruimte voor groen, de mogelijkheid voor (beperkte) woningbouw."
+        },
+        "167239": {
+          "position": "agree",
+          "explanation": "De Katwijkse VVD vindt het belangrijk dat inwoners uit onze gemeente, zoals jongeren die nog thuis wonen, snel een woning in de buurt kunnen vinden. Ook zou Katwijk geen 'opvang' moeten zijn voor inwoners uit buurgemeenten waar het aandeel sociale woningbouw soms lager ligt."
+        },
+        "167240": {
+          "position": "agree",
+          "explanation": "Het is belangrijk dat er verspreid over de gemeente voldoende sociale woningbouw blijft. Ook wanneer de torenflats verdwijnen. Niet alle sociale huurwoningen hoeven op deze locatie terug te komen."
         },
         "167241": {
           "position": "disagree",
@@ -745,21 +1321,53 @@
           "position": "agree",
           "explanation": "We waren, zijn en blijven voorstander van hoogbouw waar dat goed inpasbaar is in de omgeving, met voldoende parkeergelegenheid en openbaar vervoer."
         },
+        "167244": {
+          "position": "disagree",
+          "explanation": "Te veel woningregels zetten de lokale markt op slot en zorgen juist voor minder bouw of huurmogelijkheden. Bovendien kan voor inwoners of kleine ondernemers een tweede woning onderdeel zijn van het pensioen. Alleen om excessen te voorkomen accepteren we beperkte regelgeving."
+        },
+        "167245": {
+          "position": "agree",
+          "explanation": "De schaarste aan woningen is nog altijd groot. Bijvoorbeeld het gebruik van zomerhuisjes als (tijdelijk) woonadres kan hier deels in helpen. Wel houden we daarbij rekening met bestaande parkeernormen."
+        },
         "167246": {
           "position": "disagree",
           "explanation": "De Katwijkse VVD is tegen extra regels die de bouw van woningen vertragen. Het is verkeerd om ontwikkelaars hier verder mee te belasten."
+        },
+        "167247": {
+          "position": "disagree",
+          "explanation": "Wanneer het niet lukt om een pand te verhuren, is het extra vervelend wanneer je ook nog met een boete wordt belast. Bovendien zal voor handhaving extra personeel nodig zijn. We zijn hier dan ook tegen. Liever denken we op een positieve wijze en actief mee hoe we verhuurders kunnen helpen."
         },
         "167248": {
           "position": "disagree",
           "explanation": "De Katwijkse VVD vindt dat we gemeentelijke hulp moeten beperken tot de inwoners die het echt nodig hebben. Zo houden we de uitgaven onder controle én blijft het lonen om te werken."
         },
+        "167249": {
+          "position": "agree",
+          "explanation": "De Katwijkse VVD ziet de bijstand als een springplank. We stimuleren mensen zonder baan om aan de slag te gaan. Voor wie niet (meer) kan werken, wordt gekeken naar mogelijkheden zoals een werkplek op maat als iemand een beperking heeft of zinvolle dagbesteding."
+        },
         "167250": {
           "position": "agree",
           "explanation": "De Katwijkse VVD vindt het belangrijk dat iedereen de Nederlandse taal goed machtig is. Wanneer dit niet het geval is en mensen de taal niet (willen) leren, heeft dit consequenties voor bijvoorbeeld de bijstandsuitkering."
         },
+        "167251": {
+          "position": "disagree",
+          "explanation": "Dit is geen gemeentelijke taak. De Katwijkse VVD kan dit derhalve niet steunen."
+        },
+        "167252": {
+          "position": "disagree",
+          "explanation": "De Katwijkse VVD ziet dit niet als een gemeentelijke taak."
+        },
+        "167253": {
+          "position": "agree",
+          "explanation": "We behouden de voorrang voor automobilisten op rotondes. Dit is veiliger voor fietsers en verbetert de doorstroming."
+        },
         "167254": {
           "position": "disagree",
           "explanation": "Ruimte voor fietsers is belangrijk en is er inmiddels al in grote mate. De Katwijkse VVD is geen voorstander van extra fietsstraten waar de fietser voorrang heeft op de auto."
+        },
+        "167255": {
+          "position": "disagree",
+          "explanation": "Deze beperking zou zeer nadelig zijn voor onze lokale economie en vereist extra administratieve handelingen en dus kosten voor de gemeente. Met het huidige vergunningensysteem in gebieden waar betaald moet worden voor parkeren, bieden we inwoners al de ruimte in de buurt te parkeren."
         },
         "167256": {
           "position": "disagree",
@@ -768,6 +1376,22 @@
         "167257": {
           "position": "disagree",
           "explanation": "In onze gemeente is vrijwel geen vraag naar, of aanbod van deelauto's. Meer parkeerplekken aanwijzen zien we onder de huidige voorwaarden als anti-autobeleid, omdat één parkeerplaats voor deelauto's ten koste gaat van meerdere reguliere parkeerplaatsen."
+        },
+        "167258": {
+          "position": "disagree",
+          "explanation": "De afgelopen jaren heeft de Katwijkse VVD zich stevig ingezet tegen de uitbreiding van betaald- en/of vergunningparkeren. Met succes. Deze lijn zetten we voort."
+        },
+        "167260": {
+          "position": "agree",
+          "explanation": "We gaan met ondernemers in de gemeente in gesprek om hen te motiveren en stimuleren om bedrijfsbusjes zo veel mogelijk op eigen terrein te parkeren. Dit ontlast de parkeerdruk in de wijken. Hierbij kijken we ook naar de mogelijkheden om centrale parkeergelegenheden te scheppen om veilig te parkeren."
+        },
+        "167261": {
+          "position": "disagree",
+          "explanation": "De Katwijkse VVD wil niet dat onze dorpen veranderen in boemeldorpjes waar je alleen nog maar stapvoets in en uit kunt rijden. Restricties als deze zullen daar wel aan bijdragen en steunen we derhalve niet."
+        },
+        "167263": {
+          "position": "disagree",
+          "explanation": "De Katwijkse VVD vindt dat we op dit gebied altijd moeten afwegen wat het best passend is. Kiezen voor grote aanbieders puur omdat het grote aanbieders zijn vinden we onverstandig."
         },
         "167264": {
           "position": "agree",
@@ -795,6 +1419,10 @@
           "position": "agree",
           "explanation": "GemeenteBelangen vindt dat de gemeente duurzaam moet inkopen en daarmee bedrijven stimuleert die bijdragen aan de circulaire economie. We bieden ruimte aan kleinschalige, innovatieve ondernemers en kiezen daarbij bij voorkeur voor lokale bedrijven, zodat we investeren in onze eigen gemeenschap."
         },
+        "167206": {
+          "position": "agree",
+          "explanation": "GemeenteBelangen ziet voordelen in samenwerking met andere gemeenten. Als dit in eigen hand ook efficient en effectief kan, maar niet duurder wordt, heeft dat wel onze voorkeur."
+        },
         "167207": {
           "position": "agree",
           "explanation": "GemeenteBelangen vindt dat burgerparticipatie echt moet verbeteren. We willen daarom bewoners actief betrekken bij grote onderwerpen. Dat doen we via burgerberaden: een groep inwoners die via loting wordt gekozen. De gemeente neemt dat advies serieus en gebruikt het bij het maken van keuzes."
@@ -802,6 +1430,10 @@
         "167208": {
           "position": "disagree",
           "explanation": "GemeenteBelangen hanteert het principe dat kerk en staat gescheiden zijn. We vinden het niet erg dat de traditie van het ambstgebed blijft bestaan in het raad als de meerderheid van de raad dit belangrijk vindt."
+        },
+        "167209": {
+          "position": "agree",
+          "explanation": "GemeenteBelangen wil een jongerenfonds oprichten. We staan open voor ideeën van jongeren en willen daar ook financiële ruimte aan bieden."
         },
         "167210": {
           "position": "agree",
@@ -815,13 +1447,29 @@
           "position": "disagree",
           "explanation": "GemeenteBelangen kiest voor een slanke, wendbare overheid met duidelijke prioriteiten. Als we serieus willen proberen om de OZB niet te verhogen moeten we kiezen waar we ons gemeenschapsgeld aan uitgeven."
         },
+        "167213": {
+          "position": "agree",
+          "explanation": "Voor GemeenteBelangen zijn meer bedden in onze gemeente niet erg, maar het moet wel gespreid worden over de gemeente. Niet het centrum/boulevard verder volbouwen. Er moet rekening gehouden worden met de leefbaarheid."
+        },
+        "167214": {
+          "position": "disagree",
+          "explanation": "De verruiming van de glijdende sluitingstijd van 1 naar 2 uur heeft voor meer overlast in de omgeving gezorgd. GemeenteBelangen wil daarom terug naar de oorspronkelijke glijdende sluitingstijd van 1 uur."
+        },
         "167215": {
           "position": "disagree",
           "explanation": "Zondag is voor sommigen een dag van rust, voor anderen een moment om eropuit te gaan. GemeenteBelangen respecteert beide. Daarom vinden wij dat winkeliers zelf mogen kiezen of ze op zondag open zijn. Zo geven we ruimte aan ondernemers én aan inwoners die juist op zondag hun boodschappen willen doen."
         },
+        "167216": {
+          "position": "agree",
+          "explanation": "Er zijn al diverse subsidies voor duurzame initiatieven. De gemeente moet inwoners hierbij wel ondersteunen en stimuleren. GemeenteBelangen vindt het wel belangrijk dat het om initiatieven van voldoende schaal gaat, want anders staan de gemeentelijke kosten vaak niet in verhouding tot het effect."
+        },
         "167217": {
           "position": "agree",
           "explanation": "GemeenteBelangen wil geen uitbreiding van bedrijven die veel arbeidsmigranten nodig hebben. Zij zorgen voor extra druk op woningmarkt, infrastructuur en voorzieningen. We willen voorkomen dat Katwijkers hierdoor geen woning meer kunnen krijgen en we bouwen aan een duurzame en stabiele gemeenschap."
+        },
+        "167219": {
+          "position": "disagree",
+          "explanation": "De Nederlandse taal goed spreken is heel belangrijk om mee te kunnen doen in de samenleving. GemeenteBelangen zorgt dat iedereen toegang heeft tot taalles en (vrijwilligers)werk, zodat ook zij actief kunnen meedoen in Katwijk"
         },
         "167220": {
           "position": "agree",
@@ -831,6 +1479,10 @@
           "position": "disagree",
           "explanation": "GemeenteBelangen is voor een ruimhartig evenementen beleid, maar om nu ALLE buitenevenementen tot 24:00 geluid te laten produceren gaat iets te ver. Dit is vergunningsplichting en kan per geval bekeken en beoordeeld worden om zo de overlast van de buurt tot een minimum te beperken."
         },
+        "167222": {
+          "position": "agree",
+          "explanation": "Het riool kan de huidige water aanvoer met de klimaatverandering en daarmee gepaarde extreme weersomstandigheden, nu al niet meer aan. GemeenteBelangen vindt een gescheiden riool beter voor de afvoer van water."
+        },
         "167224": {
           "position": "disagree",
           "explanation": "GemeenteBelangen kiest voor een slanke, wendbare overheid met duidelijke prioriteiten. Het financieel helpen om gebouwen toegankelijk te maken vinden wij geen taak van de gemeente. Als we serieus willen proberen om de OZB niet te verhogen moeten we kiezen waar we ons gemeenschapsgeld aan uitgeven."
@@ -838,6 +1490,18 @@
         "167226": {
           "position": "agree",
           "explanation": "GemeenteBelangen wil dat Katwijk voldoet aan de landelijke regels om woningen voor 2050 van het aardgas af te halen. We vinden het daarbij wel belangrijk dat het te allen tijde betaalbaar is."
+        },
+        "167227": {
+          "position": "agree",
+          "explanation": "In gemeente Katwijk bestaat al een regeling dat inwoners met een laag inkomen in aanmerking kunnen komen om het lidmaatschap van sportclubs te kunnen betalen. Deze regeling wil GemeenteBelangen graag voortzetten."
+        },
+        "167228": {
+          "position": "disagree",
+          "explanation": "GemeenteBelangen kiest voor een slanke, wendbare overheid met duidelijke prioriteiten. Het door de gemeente betaald schoolzwemmen vinden wij geen taak van de overheid. Voor de inwoners met een laag inkomen is er een regeling om tegemoet te komen in de kosten."
+        },
+        "167229": {
+          "position": "agree",
+          "explanation": "Deze stelling kan op twee manieren gelezen worden; het volledig betalen van een muziekopleiding aan de muziekschool vindt GemeenteBelangen niet een taak van de gemeente. Als het gaat om algemene muzikale vorming op de scholen is het wel iets wat de gemeente kan stimuleren en ondersteunen."
         },
         "167230": {
           "position": "disagree",
@@ -855,6 +1519,14 @@
           "position": "disagree",
           "explanation": "We zien geen grond om een coffeeshop op voorhand te weigeren. Tegelijkertijd vindt GemeenteBelangen openbare orde en leefbaarheid belangrijk. Een coffeeshop is voor ons bespreekbaar als deze geen overlast veroorzaakt in de omgeving."
         },
+        "167235": {
+          "position": "disagree",
+          "explanation": "GemeenteBelangen vindt dat iedereen vrij en veilig moet kunnen demonstreren, dat is een groot recht in Nederland. Maar de beveiliging ligt in de handen van de politie, daar kan de gemeente niet met meer geld meer aandacht vragen. Natuurlijk blijft het gesprek met politie en justitie er altijd."
+        },
+        "167236": {
+          "position": "agree",
+          "explanation": "Dakloze mensen hebben vaak ook geen tot weinig geld. GemeenteBelangen vindt niet dat je deze mensen moet bestraffen met een boete die ze toch niet kunnen betalen. Ga het gesprek aan en help ze op weg."
+        },
         "167237": {
           "position": "agree",
           "explanation": "Het veiligheidsgevoel moet omhoog. Of meer camera's daar aan zullen bijdragen is niet geheel duidelijk. GemeenteBelangen wil wel meer handhavers op straat. Zo zorgen we voor meer toezicht en een veiliger gevoel."
@@ -862,6 +1534,14 @@
         "167238": {
           "position": "agree",
           "explanation": "GemeenteBelangen blijft bij haar standpunt: de Kwakelwei blijft groen. We willen geen bebouwing in dit waardevolle groengebied, maar juist ruimte maken voor een park."
+        },
+        "167239": {
+          "position": "agree",
+          "explanation": "Woningzoekenden uit de eigen gemeente hebben nu al voorrang bij sociale huurwoningen. Voor GemeenteBelangen blijft dat zo."
+        },
+        "167240": {
+          "position": "agree",
+          "explanation": "GemeenteBelangen vindt dat in deze verhitte en krappe woningmarkt het zaak is om niet minder woningen te realiseren, maar evenveel en vooral betaalbare woningen."
         },
         "167241": {
           "position": "agree",
@@ -875,21 +1555,53 @@
           "position": "disagree",
           "explanation": "Hoogbouw kan helpen om meer woningen te bouwen. Voor GemeenteBelangen is het mogelijk om op locaties waar dit past in het omgevingsbeeld hoger te bouwen."
         },
+        "167244": {
+          "position": "agree",
+          "explanation": "De zelfbewoningsplicht wordt in Katwijk al toegepast. GemeenteBelangen wil onderzoeken hoe we dit, net als in andere gemeenten, verder kunnen uitbreiden. In sommige gemeenten mogen mensen van buiten bijvoorbeeld alleen duurdere woningen kopen."
+        },
+        "167245": {
+          "position": "agree",
+          "explanation": "Er is veel vraag naar woningen. Tegelijkertijd kost nieuwbouw van woningen tijd. Daarom wil GemeenteBelangen bestaande gebouwen beter benutten. We maken het mogelijk om zomerhuisjes permanent te bewonen. Ook maken we het makkelijker om panden te splitsen of leegstaande gebouwen om te bouwen."
+        },
         "167246": {
           "position": "agree",
           "explanation": "GemeenteBelangen is de groenste partij van Katwijk. Deze maatregel is een prima start om onze leeftomgeving wat groener te maken, meer mag natuurlijk altijd."
+        },
+        "167247": {
+          "position": "agree",
+          "explanation": "Voor GemeenteBelangen is de leegstand boete is een goed middel om de leegstand in de winkelstraat tegen te gaan."
         },
         "167248": {
           "position": "agree",
           "explanation": "Onze gemeenschap is zorgzaam naar elkaar, natuurlijk kost deze maatregel de gemeente geld, maar GemeenteBelangen vindt wel dat we naar de minderbedeelden moeten omkijken en helpen waar mogelijk."
         },
+        "167249": {
+          "position": "agree",
+          "explanation": "De bijstand is niet altijd een keuze. Daarom vindt GemeenteBelangen dat een tegenprestatie prima is, maar dat er geen sancties mogen volgen als iemand dit niet kan uitvoeren. Het doel is meedoen, niet straffen."
+        },
         "167250": {
           "position": "disagree",
           "explanation": "Taal is belangrijk om mee te kunnen doen, maar wat is niet snel genoeg? Er moet een duidelijke termijn zijn. GemeenteBelangen vindt het bovendien polariserend om mensen in de bijstand neer te zetten als mensen die nog geen goed Nederlands spreken."
         },
+        "167251": {
+          "position": "agree",
+          "explanation": "De gemeente heeft een eigen zorgverzekering voor inwoners met een lager inkomen. Deze mag voor GemeenteBelangen voorgezet worden"
+        },
+        "167252": {
+          "position": "agree",
+          "explanation": "De gemeente heeft een eigen zorgverzekering voor inwoners met een lager inkomen. Deze mag voor GemeenteBelangen voorgezet worden"
+        },
+        "167253": {
+          "position": "disagree",
+          "explanation": "Meer ruimte voor de fiets betekent ook aandacht voor het comfort van fietsers. Het steeds moeten afstappen bij rotondes of verkeerslichten zorgt voor minder fietsplezier. Door eenduidigheid in alle gemeenten wordt het veiliger voor alle weggebruikers."
+        },
         "167254": {
           "position": "agree",
           "explanation": "Katwijk groeit en daarmee ook de druk op de openbare ruimte. GemeenteBelangen wil dat iedereen zich goed kan verplaatsen. Daarom zetten we in op: meer ruimte voor lopen, fietsen, deelmobiliteit en openbaar vervoer. Auto’s blijven welkom, maar krijgen een kleinere rol in het straatbeeld."
+        },
+        "167255": {
+          "position": "disagree",
+          "explanation": "GemeenteBelangen vindt het belangrijk dat iedereen kan parkeren op de Boulevard en niet alleen inwoners van Katwijk. Bovendien is handhaving te ingewikkeld zolang niet in heel Katwijk betaald parkeren geldt."
         },
         "167256": {
           "position": "agree",
@@ -898,6 +1610,22 @@
         "167257": {
           "position": "agree",
           "explanation": "Eén deelauto vervangt tot vijftien gewone auto’s. Dit zorgt voor minder parkeerdruk en schonere lucht. GemeenteBelangen wil samen met inwoners bepalen we waar de deelauto’s komen."
+        },
+        "167258": {
+          "position": "disagree",
+          "explanation": "Wijken moeten leefbaar zijn, dus de rol van de auto op straat is minder belangrijk, maar natuurlijk is auto nog gewoon nodig. Voor GemeenteBelangen kunnen er alleen meer plekken komen met een parkeervergunning als de wijk dat zelf ook onderschrijft."
+        },
+        "167260": {
+          "position": "agree",
+          "explanation": "In de APV staan nu al regels voor grote bussen die niet (overal) in de gemeente mogen parkeren. GemeenteBelangen ziet kansen om, met extra parkeerplekken buiten de wijken, ook kleinere busjes uit de woonwijken te weren. Daarvoor zijn wel parkeervergunningen nodig om te kunnen handhaven."
+        },
+        "167261": {
+          "position": "agree",
+          "explanation": "GemeenteBelangen is van mening dat de leefbaarheid (qua veiligheid en geluidoverlast) van een wijk toeneemt als het gemotoriseerd verkeer minder hard mag rijden."
+        },
+        "167263": {
+          "position": "disagree",
+          "explanation": "Voor GemeenteBelangen moet de zorg effectief en efficiënt zijn, daarom pleiten wij voor MINDER zorgaanbieders. We hebben daarbij geen voorkeur of dit grote of kleine zorgaanbieders moeten zijn. Het gaat om de kwaliteit die ze leveren in verhouding tot de kosten die ze daarvoor rekenen."
         },
         "167264": {
           "position": "agree",
@@ -925,6 +1653,10 @@
           "position": "disagree",
           "explanation": "KiesKatwijk vindt dat de gemeente verantwoordelijk is voor het geld van de inwoners. De gemeente moet inkopen op basis van beste offertes, niet op basis van duurzaam werken."
         },
+        "167206": {
+          "position": "neither",
+          "explanation": "De gemeente doet veel zelf maar ook in samenwerkingsverbanden. In sommige gevallen is gezamenlijk inkopen beter. Niet alle samenwerkingen zijn goed, maar sommige zeker wel!"
+        },
         "167207": {
           "position": "disagree",
           "explanation": "We hebben als Katwijk ingezet op participatie. Daarin zijn veel mogelijkheden. Dit opzetten kost veel geld en niet elke inwoner zit daar op te wachten. KiesKatwijk wil wel een betere participatie dan dat er in de afgelopen periode heeft plaatsgevonden."
@@ -932,6 +1664,10 @@
         "167208": {
           "position": "agree",
           "explanation": "KiesKatwijk is voor de scheiding van kerk en staat. Een ambtsgebed hoort dan ook niet thuis in een gemeentehuis."
+        },
+        "167209": {
+          "position": "disagree",
+          "explanation": "Er zijn verschillende mogelijkheden om subsidies te krijgen. Iedereen kan daar beroep op doen. Wij zien geen noodzaak voor een speciaal jongerenfonds."
         },
         "167210": {
           "position": "agree",
@@ -945,13 +1681,29 @@
           "position": "disagree",
           "explanation": "In de zomer zijn de hotels, B&B's en appartementen al helemaal afgehuurd. Als de campagne over de wintermaanden gaat dan is dit een goed plan, anders niet. Promotie voor deze periode zal dan ten goede komen voor de gehele gemeente (bedrijven,horeca enz)"
         },
+        "167213": {
+          "position": "disagree",
+          "explanation": "Er is geen ruimte voor!"
+        },
+        "167214": {
+          "position": "agree",
+          "explanation": "Door de horeca zelf sluitingstijden te laten bepalen zoals andere steden en dorpen ook doen, zie je dat de de overlast afneemt. Mensen staan niet massaal ineens op straat waardoor er soms veel overlast is. Door bezoekers zelf te laten weten wanneer ze weg kunnen voorkom je dit."
+        },
         "167215": {
           "position": "disagree",
           "explanation": "De ondernemer weet zelf het beste hoe die moet ondernemen. Als de ondernemer denkt dat hij op zondag geld kan verdienen, dan moet hij de keuze hebben om open te gaan. We moeten dit in ieder geval niet beperken."
         },
+        "167216": {
+          "position": "disagree",
+          "explanation": "Inwoners kunnen allemaal projecten opzetten. Dat neemt niet weg dat de gemeente niet overal maar voor moet zorgen of moet bijspringen. Als een groep mensen gezamenlijk iets willen doen is dat meestal wel mogelijk met een sluitende begroting of een lening bij de bank."
+        },
         "167217": {
           "position": "agree",
           "explanation": "Veelal weten bedrijven vooraf niet of ze arbeidsmigranten nodig hebben. Als ze dat wel weten dan is het handig om daar ook huisvesting voor te hebben."
+        },
+        "167219": {
+          "position": "agree",
+          "explanation": "Er zijn genoeg initiatieven bij bibliotheken en instellingen om kosteloos je taal bij te spijkeren. Als mensen een taalcursus van een instelling willen dan zullen ze dat zelf moeten bekostigen. Er zijn namelijk genoeg gratis opties vanuit de gemeente."
         },
         "167220": {
           "position": "agree",
@@ -961,6 +1713,10 @@
           "position": "agree",
           "explanation": "Evenementen zijn kort van duur en we hebben als gemeente een maximum aan evenementen. Geef de organisatoren de mogelijkheid om daar het maximale uit te halen."
         },
+        "167222": {
+          "position": "agree",
+          "explanation": "Een gescheiden inrichting is beter voor iedereen en het heeft voordelen op de zuivering waardoor de kosten eventueel omlaag kunnen op de gemeentelijke belastingen."
+        },
         "167224": {
           "position": "disagree",
           "explanation": "Ondernemers zijn zelf verplicht om te zorgen dat hun gebouw toegankelijk is. Ook de gemeente zelf is dit verplicht voor alle openbare gebouwen. Gemeente heeft niet de taak om dat voor iedereen te moeten gaan regelen."
@@ -968,6 +1724,18 @@
         "167226": {
           "position": "disagree",
           "explanation": "Dit is niet haalbaar binnen 20 jaar. Het is wel het streven naar maar een datum of jaar er op vast prikken is geen goed idee. Het moet ook betaalbaar en haalbaar blijven voor de inwoners"
+        },
+        "167227": {
+          "position": "disagree",
+          "explanation": "Gemeente kan niet alles maar blijven betalen voor iedereen. Er bestaan al veel soorten maatschappelijke organisaties die hier ondersteuning in bieden."
+        },
+        "167228": {
+          "position": "agree",
+          "explanation": "Aangezien we aan de kust wonen is het essentieel dat onze inwoners kunnen zwemmen."
+        },
+        "167229": {
+          "position": "disagree",
+          "explanation": "De gemeente kan niet alles blijven betalen. Muzieklessen zijn subjectief aan waar een gemeente verantwoordelijk voor zou moeten zijn."
         },
         "167230": {
           "position": "disagree",
@@ -985,6 +1753,14 @@
           "position": "disagree",
           "explanation": "Iedereen mag ondernemen in Katwijk, dus ook een coffeeshop."
         },
+        "167235": {
+          "position": "disagree",
+          "explanation": "Kost al veel geld, de politie is eerste aanspreekpunt. Als er geen goede basis is voor veiligheid dan kan de demonstratie niet doorgaan"
+        },
+        "167236": {
+          "position": "agree",
+          "explanation": "Met een boete lost je niks op want die mensen hebben al geen geld. Je moet kijken waar ze naartoe door kan verwijzen zodat ze niet meer op straat hoeven te slapen."
+        },
         "167237": {
           "position": "disagree",
           "explanation": "Geen noodzaak voor op dit moment."
@@ -992,6 +1768,14 @@
         "167238": {
           "position": "agree",
           "explanation": "Het is het laatste stukje groen tussen onze dorpen in. Laten we dat proberen te behouden. Daarnaast helpt het enorm bij klimaat-adaptatie doelstellingen."
+        },
+        "167239": {
+          "position": "agree",
+          "explanation": "Inwoners willen graag bij familie en vrienden blijven wonen. We moeten er voor zorgen dat waar dat kan ook toegepast kan worden. Eerst eigen inwoners aan een huis helpen dan pas de rest."
+        },
+        "167240": {
+          "position": "disagree",
+          "explanation": "We moeten hier eerlijk blijven. Een project ontwikkelaar kijkt naar wat mogelijk is. Als een project niet door kan gaan omdat de kosten negatief uitvallen dan zit je vast. Soms moet je dan extra koopwoningen hebben om project te doen slagen."
         },
         "167241": {
           "position": "disagree",
@@ -1005,21 +1789,53 @@
           "position": "agree",
           "explanation": "Alleen waar het kan. In de Hoornes zou dit kunnen naast de huidige torenflats. Maar je kan niet op de boulevard een torenflat neerzetten. Dat ziet er niet uit. Dus waar het esthetisch kan moet het kunnen."
         },
+        "167244": {
+          "position": "agree",
+          "explanation": "We hebben niks aan huizen speculatie. Er mogen geen woningen worden ingeruild als vakantie woningen. Onze inwoners hebben de woningen nodig."
+        },
+        "167245": {
+          "position": "agree",
+          "explanation": "Wel zelf bewoning, geen verhuur. Als dit een inwoner kan helpen bij eigen woonruimte voor een overstap naar een gewone woning moeten we dit toestaan. De woningnood is te hoog op dit moment."
+        },
         "167246": {
           "position": "agree",
           "explanation": "Er is bewezen dat het wooncomfort verbetert bij een groene wijk. Daarnaast helpt het de gemeente met klimaat-adaptatie."
+        },
+        "167247": {
+          "position": "disagree",
+          "explanation": "Een eigenaar wil altijd dat een gebouw zo snel mogelijk weer in gebruik kan worden genomen. Anders hebben ze zelf veel kosten. Een boete daar weer boven op geven is absurd. Ga in gesprek met de eigenaar waarom dit zo is."
         },
         "167248": {
           "position": "disagree",
           "explanation": "Er zijn heel veel landelijke subsidies waardoor inwoners genoeg hebben om rond te komen."
         },
+        "167249": {
+          "position": "agree",
+          "explanation": "Als de gemeente ze een uitkering geeft kunnen ze daar zeker wat voor terug doen! Er valt altijd wel iets te doen. Stil zitten en ontvangen is voor ons geen optie."
+        },
         "167250": {
           "position": "agree",
           "explanation": "Als je geen Nederlands wil leren, kom je minder snel aan een baan en dat kost iedereen geld. Een extra stimulans is dan inkorten op uitkering zodat mensen Nederlands leren zodat je mee kan doen in de samenleving."
         },
+        "167251": {
+          "position": "disagree",
+          "explanation": "Daar zijn collectieve verzekeringen voor. De gemeente moet geen verzekeringsmaatschappij gaan worden."
+        },
+        "167252": {
+          "position": "disagree",
+          "explanation": "Krijgen mensen toeslagen voor van de overheid."
+        },
+        "167253": {
+          "position": "agree",
+          "explanation": "Het is nu al gevaarlijk, maar als de fietsers voorrang krijgen dan zien we veel meer ongelukken plaatsvinden omdat dan geen enkele fietser meer oplet."
+        },
         "167254": {
           "position": "disagree",
           "explanation": "Kijk naar de rotondes. Als je dit nu verandert gaan er juist meer ongelukken gebeuren. Laten we ons aan de landelijke richtlijnen houden."
+        },
+        "167255": {
+          "position": "disagree",
+          "explanation": "Laten we de regels niet moeilijker maken dan dat ze al zijn."
         },
         "167256": {
           "position": "disagree",
@@ -1028,6 +1844,22 @@
         "167257": {
           "position": "disagree",
           "explanation": "We hebben al te weinig plek in Katwijk. Laten we de plekken die er zijn dan niet ook nog eens aanwijzen voor specifieke voertuigen."
+        },
+        "167258": {
+          "position": "disagree",
+          "explanation": "Gebied met vergunningen is al te groot."
+        },
+        "167260": {
+          "position": "agree",
+          "explanation": "Bedrijfsbussen zijn soms zo lang dat ze meerdere parkeerplekken in beslag nemen. Laat daar een aparte mogelijkheid komen."
+        },
+        "167261": {
+          "position": "disagree",
+          "explanation": "We kunnen volgens mij allemaal kijken en hebben allemaal als bestuurder van een auto een rijbewijs."
+        },
+        "167263": {
+          "position": "disagree",
+          "explanation": "Grote aanbieders is meestal achteruitgang op kwaliteit. Vooral de kleine aanbieders zijn goed in zorg en ondersteuning omdat ze de ruimte krijgen. Kleine aanbieders kunnen vertrouwde gezichten bieden aan inwoners waardoor ze zich veilig voelen."
         },
         "167264": {
           "position": "agree",
@@ -1055,6 +1887,10 @@
           "position": "disagree",
           "explanation": "D66 wil het liefst alles duurzaam inkopen, zelfs als dat iets meer kost. Alleen soms is dat nog niet mogelijk."
         },
+        "167206": {
+          "position": "disagree",
+          "explanation": "D66 kiest expliciet voor regionale samenwerking in de Leidse regio voor vraagstukken als woningbouw, bereikbaarheid en zorg. Samenwerken in de Leidse regio is cruciaal voor het bouwen van voldoende betaalbare woningen, een toekomstbestendige economie en goede zorg."
+        },
         "167207": {
           "position": "agree",
           "explanation": "D66 wil een gemeente die luistert, uitlegt en keuzes samen maakt. D66 zet in 2026 in op democratische vernieuwing, zoals burgerfora en proeven met burgeramendementen. Daar past ook een burgerberaad bij."
@@ -1062,6 +1898,10 @@
         "167208": {
           "position": "agree",
           "explanation": "Vanuit de sociaal liberale basis van D66 past een religieus gebed niet in de raadszaal. Iedereen moet zich welkom voelen, ongeacht geloofsovertuiging. D66 staat voor vrijheid, respect voor iedereen en voor scheiding van kerk en staat."
+        },
+        "167209": {
+          "position": "agree",
+          "explanation": "D66 geeft vertrouwen en verantwoordelijkheid aan jongeren. Een jongerenfonds stelt ze in staat om zelf ideeën te ontwikkelen en uit te voeren die hun buurt versterken. Ook kan het ondernemerschap en maatschappelijke betrokkenheid stimuleren. Een jongerenfonds is een investering in talentontwikkeling"
         },
         "167210": {
           "position": "disagree",
@@ -1075,13 +1915,29 @@
           "position": "agree",
           "explanation": "D66 steunt de promotie van Katwijk als vakantiebestemming, zolang dit duurzaam is en leefbaarheid voorop blijft staan. Toerisme mag niet ten koste gaan van natuur, bereikbaarheid of woonkwaliteit. Duurzaam toerisme kan zorgen voor werkgelegenheid en inkomsten voor lokale ondernemers."
         },
+        "167213": {
+          "position": "agree",
+          "explanation": "D66 is niet per se tegen meer hotels, maar wil alleen nieuwe hotels die duurzaam zijn en passen bij de leefbaarheid van de omgeving."
+        },
+        "167214": {
+          "position": "agree",
+          "explanation": "D66 geeft ondernemers graag de ruimte om eigen keuzes te maken. Een \"bruisende gemeente\" met minder strikte regels past bij de sociaal liberale visie op vrije tijd en economie. Ondernemers moeten wel voorkomen dat er overlast ontstaat."
+        },
         "167215": {
           "position": "disagree",
           "explanation": "Keuzevrijheid staat centraal. D66 vindt dat winkeliers zelf moeten kunnen beslissen of ze open gaan, zodat inwoners op hun eigen moment én lokaal hun boodschappen kunnen doen."
         },
+        "167216": {
+          "position": "agree",
+          "explanation": "De partij ondersteunt en stimuleert lokale energie coöperaties. Inwoners die samen opwekken dragen bij aan een fossielvrij Katwijk."
+        },
         "167217": {
           "position": "agree",
           "explanation": "Bedrijven hebben wél de verantwoordelijkheid om arbeidsmigranten op een veilige en menselijke manier te huisvesten. Dat kan dan bijvoorbeeld op eigen terrein. De gemeente moet dat stimuleren."
+        },
+        "167219": {
+          "position": "disagree",
+          "explanation": "Kinderen met een taalachterstand hebben recht op goede ondersteuning, ongeacht het inkomen van hun ouders. Extra taalondersteuning is geen luxe, maar een investering in kansengelijkheid en goed onderwijs."
         },
         "167220": {
           "position": "disagree",
@@ -1091,6 +1947,10 @@
           "position": "agree",
           "explanation": "D66 wil dat er ruimte is voor een bruisende gemeente. Soms mag dat best even met wat langere muziek."
         },
+        "167222": {
+          "position": "agree",
+          "explanation": "Bij nieuwbouw wil D66 Katwijk dat regenwater slim wordt opgevangen of afgevoerd, zodat het riool wordt ontlast en de woonomgeving groener en toekomstbestendig wordt."
+        },
         "167224": {
           "position": "agree",
           "explanation": "Iedereen moet mee kunnen doen. Veel te vaak laat de toegankelijheid van de openbare ruimte te wensen over. Dit verkleint de leefomgeving voor mensen met een beperking. Hoewel ondernemers zelf verantwoordelijkheid moeten nemen toegankelijkheid op orde te krijgen, kan de gemeente dit wel stimuleren."
@@ -1098,6 +1958,18 @@
         "167226": {
           "position": "agree",
           "explanation": "De ambitie is een fossielvrij Katwijk. D66 versnelt de energietransitie en het isolatieoffensief zodat niemand in de kou zit."
+        },
+        "167227": {
+          "position": "agree",
+          "explanation": "D66 investeert in sterke sportverenigingen en vindt dat iedereen mee moet kunnen doen, ongeacht inkomen."
+        },
+        "167228": {
+          "position": "agree",
+          "explanation": "Zwemles is een cruciaal onderdeel van de opvoeding. D66 wil dat de gemeente onderzoekt of schoolzwemmen weer ingevoerd kan worden. Scholen moeten hierbij ontzorgt worden in plaats van dat er werk bij komt. Voor zwembaden kan deze investering bijdragen aan een gezondere financiële situatie."
+        },
+        "167229": {
+          "position": "agree",
+          "explanation": "D66 vindt het belangrijk dat een schooldag uit meer bestaat dan lezen, schrijven en rekenen. Kennis maken met kunst en cultuur, zoals door muzieklessen moet voor iedereen toegankelijk zijn. Een rijke schooldag biedt een springplank voor ontwikkeling en daarmee helpen we ongelijkheid te verkleinen."
         },
         "167230": {
           "position": "agree",
@@ -1115,6 +1987,14 @@
           "position": "disagree",
           "explanation": "D66 wil een realistisch drugsbeleid dat criminaliteit tegengaat en de gezondheid beschermt. Het blokkeren van legale verkooppunten houdt de illegale straathandel in stand. Tegelijkertijd is Leiden dichtbij en zal er in Katwijk dus niet snel een coffeeshop komen."
         },
+        "167235": {
+          "position": "agree",
+          "explanation": "D66 staat pal voor het demonstratierecht en vraagt de burgemeester om politie-inzet om betogers te beschermen."
+        },
+        "167236": {
+          "position": "agree",
+          "explanation": "D66 zorgt ervoor dat dakloosheid niet bestraft of beboet wordt, maar richt zich op ondersteuning en preventie."
+        },
         "167237": {
           "position": "disagree",
           "explanation": "D66 is tegen onnodig cameratoezicht of preventief fouilleren. Het tast de privacy aan en we zien op dit moment geen noodzaak hiervoor in Katwijk."
@@ -1122,6 +2002,14 @@
         "167238": {
           "position": "agree",
           "explanation": "D66 wil dat de Kwakelwei groen blijft."
+        },
+        "167239": {
+          "position": "disagree",
+          "explanation": "Soms kán er worden gekozen om eigen inwoners voorang te geven. Het uitgangspunt is echter dat iedereen in de regio zich kan inschrijven voor een sociale huurwoning. D66 wil wel dat er voorrang kan komen voor essentiële beroepen en specifieke doelgroepen zoals leraren en zorgmedewerkers."
+        },
+        "167240": {
+          "position": "agree",
+          "explanation": "D66 wil minstens net zoveel betaalbare en duurzame sociale (huur)woningen terug. En we maken de omgeving groener."
         },
         "167241": {
           "position": "agree",
@@ -1135,21 +2023,53 @@
           "position": "agree",
           "explanation": "Hogere woonflats maken het mogelijk om het woningtekort aan te pakken zonder uit te breiden in het groen. Die woningen zijn nodig voor jongeren, starters en ouderen. Zo kunnen we de schaarse ruimte in Katwijk slimmer gebruiken en blijft natuur en leefomgeving beter beschermd."
         },
+        "167244": {
+          "position": "agree",
+          "explanation": "D66 wil niet dat investeerders huizen opkopen om vervolgens voor veel te hoge bedragen te verhuren. Hiermee daalt het aantal betaalbare koopwoningen voor jongeren en starters."
+        },
+        "167245": {
+          "position": "agree",
+          "explanation": "De woningnood is hoog en het is zonde om goede vakantiehuisjes leeg te laten staan. Daarom is D66, onder voorwaarden, voor het permanent laten bewonen van vakantiehuisjes waar dat kan."
+        },
         "167246": {
           "position": "agree",
           "explanation": "D66 zet in op groene buurten en wijken waarin plaats is voor ontmoeting en beweging."
+        },
+        "167247": {
+          "position": "agree",
+          "explanation": "In tijden van enorme woningnood is het onacceptabel dat panden leegstaan. D66 wil meer regie door gemeenten om de doorstroom en beschikbaarheid te bevorderen."
         },
         "167248": {
           "position": "agree",
           "explanation": "Er moet een vangnet zijn dat werkt voor iedereen. D66 wil dat iedereen mee kan doen en wil voorkomen dat mensen tussen wal en schip vallen."
         },
+        "167249": {
+          "position": "disagree",
+          "explanation": "D66 is niet voor een verplichte tegenprestatie. Het is belangrijk dat mensen worden begeleid naar de arbeidsmarkt, via opleiding, vrijwilligerswerk of tijdelijke banen. We zijn positief over maatschappelijke bijdragen als die aansluiten op iemands mogelijkheden, maar niet verplicht."
+        },
         "167250": {
           "position": "disagree",
           "explanation": "D66 pleit voor taalles en ondersteuning, niet voor financiële straffen voor mensen in de bijstand."
         },
+        "167251": {
+          "position": "agree",
+          "explanation": "Toegankelijke zorg is ontzettend belangrijk voor iedereen. D66 strijdt voor gelijke kansen voor iedereen, ongeacht inkomen. Ook voor de toegang tot zorg."
+        },
+        "167252": {
+          "position": "agree",
+          "explanation": "Het eigen risico mag geen belemmering zijn om een arts te kunnen bezoeken. Daarnaast zorgt uitgestelde zorg voor nog meer kosten in de samenleving en de gemeente."
+        },
+        "167253": {
+          "position": "disagree",
+          "explanation": "In de hele regio hebben fietsers in de bebouwde kom voorrang, behalve in Katwijk. Kruisingen en rotondes moeten voorspelbaar zijn, en D66 zet fietsers en voetgangers boven auto's. Fietsers krijgen daarom voorrang op rotondes. Dat is duidelijk en daardoor veiliger voor alle weggebruikers."
+        },
         "167254": {
           "position": "agree",
           "explanation": "D66 zet fietsers en voetgangers boven auto's. Wij willen investeren in betere fietsverbindingen en groene mobiliteit. De fietser krijgt meer ruimte in de verkeersplanning."
+        },
+        "167255": {
+          "position": "agree",
+          "explanation": "Straatparkeren op de boulevard en in het centrum blijft alleen mogelijk voor inwoners van de gemeente en mensen van buitenaf komen met het ov of parkeren in de garages. Bezoekers van bewoners kunnen wel even parkeren. Daarnaast gaat D66 verder met het plan voor autoluwe dorpen."
         },
         "167256": {
           "position": "agree",
@@ -1158,6 +2078,22 @@
         "167257": {
           "position": "agree",
           "explanation": "Wij helpen inwoners met het organiseren van deelautogroepen, deelbakfietsen en autodelen tussen buren van de grond te krijgen. Zo komt er meer ruimte voor groen, spelen of fietsparkeren."
+        },
+        "167258": {
+          "position": "disagree",
+          "explanation": "Parkeervergunningen moeten worden ingevoerd om parkeeroverlast zoveel mogelijk te voorkomen. Voor wijken waar geen parkeeroverlast is is het dan ook niet nodig parkeervergunningen in te voeren."
+        },
+        "167260": {
+          "position": "disagree",
+          "explanation": "Parkeren voor vakmensen blijft. Voor bouwvakkers, timmermannen, loodgieters en installateurs maken we tijdelijke parkeervergunningen makkelijker en goedkoper. Zij hebben hun busje dichtbij nodig. Met een app kunnen zij het kenteken, de parkeerplek en de periode doorgeven."
+        },
+        "167261": {
+          "position": "agree",
+          "explanation": "D66 zet fietsers en voetgangers boven auto's. De fietser krijgt meer ruimte in de verkeersplanning. D66 kiest voor groene mobiliteit en veiligheid op straat."
+        },
+        "167263": {
+          "position": "disagree",
+          "explanation": "D66 is groot voorstander van betere samewerking in de regio, maar ook van kleinschalige en betaalbare zorginititiatieven. De kosten en kwaliteit van de zorg zijn de maatstaf, niet de grootte van de zorgonderneming."
         },
         "167264": {
           "position": "disagree",
@@ -1185,6 +2121,10 @@
           "position": "agree",
           "explanation": "Wij willen dat de gemeente duurzaam inkoopt, maar niet uitsluitend bij bedrijven die duurzaam werken. Te harde eisen kunnen lokale en regionale ondernemers onnodig buitensluiten. Duurzaamheid moet aantoonbaar bijdragen aan milieu en kwaliteit, zonder doorschieten in symboolbeleid of hogere kosten."
         },
+        "167206": {
+          "position": "disagree",
+          "explanation": "Samenwerken met andere gemeenten is vaak nodig om kosten te besparen en expertise te delen. Tegelijk verliezen gemeenteraden te vaak grip op besluiten die inwoners direct raken. Wij willen dat de raad vooraf kaders stelt, goed wordt geïnformeerd en kan bijsturen."
+        },
         "167207": {
           "position": "agree",
           "explanation": "Wij zijn voor een burgerberaad bij grote en complexe vraagstukken. Een burgerberaad helpt inzicht te krijgen in ideeën en zorgen uit de samenleving en levert vaak nieuwe oplossingen op. Het versterkt de democratie, terwijl de gemeenteraad verantwoordelijk blijft voor het besluit."
@@ -1192,6 +2132,10 @@
         "167208": {
           "position": "disagree",
           "explanation": "Het ambtsgebed hoeft niet te worden afgeschaft. Het is een vrijwillige traditie die niemand verplicht en niemand uitsluit. Wij zien geen reden om een bestaande en goed functionerende praktijk te veranderen."
+        },
+        "167209": {
+          "position": "agree",
+          "explanation": "Er moet een jongerenfonds komen waar jongeren zelf geld kunnen aanvragen voor evenementen of buurtprojecten. De aanvraagprocedure moet simpel zijn en aansluiten bij wat jongeren nodig hebben. Zo stimuleren we initiatief, verantwoordelijkheid en betrokkenheid."
         },
         "167210": {
           "position": "agree",
@@ -1205,13 +2149,29 @@
           "position": "disagree",
           "explanation": "Wij vinden dat geld beter besteed kan worden aan leefbaarheid, voorzieningen en bereikbaarheid dan aan promotiecampagnes. Katwijk wordt aantrekkelijk door wat er op straat, in wijken en dorpskernen gebeurt. Dat is duurzamer dan city marketing."
         },
+        "167213": {
+          "position": "agree",
+          "explanation": "Meer hotels kunnen alleen als ze passen bij de schaal, locatie en leefbaarheid van het dorp. Wij zijn tegen grootschalige hotelontwikkeling die leidt tot massatoerisme of extra druk op wijken. Kleinschalige en goed ingepaste initiatieven kunnen wel worden toegestaan."
+        },
+        "167214": {
+          "position": "agree",
+          "explanation": "Wij vinden dat horecaondernemers ruimte moeten krijgen om hun openingstijden zelf te bepalen. Vrij ondernemen staat voorop, zolang dit binnen duidelijke kaders gebeurt. Overlast voor omwonenden blijft een harde grens."
+        },
         "167215": {
           "position": "disagree",
           "explanation": "Wij vinden dat ondernemers zelf moeten bepalen of zij op zondag open willen. De gemeente moet daarin geen ideologische keuze afdwingen. Vrijheid voor ondernemers betekent ook vrijheid om dicht te blijven."
         },
+        "167216": {
+          "position": "agree",
+          "explanation": "Wij steunen lokale initiatieven van inwoners die samen duurzame energie willen opwekken. Zulke projecten vergroten draagvlak, houden zeggenschap lokaal en helpen bij netcongestie. De gemeente moet dit mogelijk maken met gerichte ondersteuning en niet met opgelegde oplossingen."
+        },
         "167217": {
           "position": "agree",
           "explanation": "Bedrijven die arbeidsmigranten inzetten, moeten ook verantwoordelijkheid nemen voor fatsoenlijke huisvesting. Wij accepteren geen extra druk op wijken, voorzieningen en de woningmarkt. Vestiging mag alleen als uitbuiting en overlast worden voorkomen."
+        },
+        "167219": {
+          "position": "disagree",
+          "explanation": "Wij vinden dat ieder kind recht heeft op een goede start, ongeacht de thuissituatie. Taalachterstanden vroeg aanpakken voorkomt grotere problemen later. De gemeente moet hierin ondersteunen en niet afschuiven."
         },
         "167220": {
           "position": "neither",
@@ -1221,6 +2181,10 @@
           "position": "disagree",
           "explanation": "Wij vinden dat vaste verruiming tot 24.00 uur te rigide is. Evenementen vragen maatwerk, waarbij leefbaarheid voor omwonenden zwaar meeweegt. De gemeente moet per evenement afwegen wat verantwoord is."
         },
+        "167222": {
+          "position": "agree",
+          "explanation": "Wij vinden dat wateropvang en klimaatbestendigheid standaard moeten zijn bij nieuwbouw. Regenwater afkoppelen voorkomt overbelasting van het riool en hittestress. Dit past bij toekomstgericht en praktisch bouwen."
+        },
         "167224": {
           "position": "agree",
           "explanation": "Wij vinden dat toegankelijkheid geen luxe mag zijn. Ondernemers die hun pand willen aanpassen voor mensen met een beperking moeten daarbij ondersteund kunnen worden. Dit past bij een inclusieve gemeente én bij een overheid die meedenkt in plaats van tegenwerkt."
@@ -1228,6 +2192,18 @@
         "167226": {
           "position": "disagree",
           "explanation": "De gemeente moet zich inzetten om van het aardgas af te gaan, maar kan dit niet zelfstandig waarmaken. Dit vraagt om landelijke regelgeving, financiering en een betrouwbaar energienet. De rol van de gemeente is faciliterend, niet verplichtend."
+        },
+        "167227": {
+          "position": "agree",
+          "explanation": "Wij vinden dat geld nooit een reden mag zijn waarom een kind niet kan sporten. Sport is essentieel voor gezondheid, ontwikkeling en sociale verbinding. De gemeente moet drempels wegnemen voor gezinnen met een smalle beurs."
+        },
+        "167228": {
+          "position": "agree",
+          "explanation": "Wij vinden zwemvaardigheid belangrijk, zeker in een kustgemeente als Katwijk. Tegelijk ligt de primaire verantwoordelijkheid voor onderwijs bij scholen en het Rijk. De gemeente kan ondersteunen waar nodig, maar niet structureel alles overnemen."
+        },
+        "167229": {
+          "position": "disagree",
+          "explanation": "Wij vinden cultuur en muziek belangrijk, maar niet alles hoeft volledig door de gemeente te worden betaald. De gemeente moet cultuur toegankelijk maken en initiatieven ondersteunen, samen met scholen en verenigingen. Gericht ondersteunen waar drempels ontstaan, maar niet generiek financieren."
         },
         "167230": {
           "position": "agree",
@@ -1245,6 +2221,14 @@
           "position": "agree",
           "explanation": "Wij vinden dat dit niet het juiste moment is voor de vestiging van een coffeeshop in Katwijk. Gezien de eerdere onrust rond ondermijnende criminaliteit en de beperkte handhavingscapaciteit moeten we nu geen extra risico’s nemen. De gemeente mag hierin terughoudend en verantwoordelijk zijn."
         },
+        "167235": {
+          "position": "disagree",
+          "explanation": "Demonstreren is een grondrecht en moet veilig kunnen. Tegelijk mag dit niet structureel ten koste gaan van capaciteit elders in de gemeente. De inzet moet proportioneel en situationeel zijn."
+        },
+        "167236": {
+          "position": "agree",
+          "explanation": "Boetes voor mensen die op straat slapen (ook wel de 'oprotboete) lossen niets op en verergeren problemen. Wij kiezen voor opvang, begeleiding en perspectief in plaats van straf. Dat is menselijker én effectiever."
+        },
         "167237": {
           "position": "disagree",
           "explanation": "Cameratoezicht kan bijdragen aan veiligheid, maar is geen wondermiddel. Wij willen het gericht inzetten op plekken waar het aantoonbaar helpt. Preventie en aanwezigheid van handhavers blijven leidend."
@@ -1252,6 +2236,14 @@
         "167238": {
           "position": "agree",
           "explanation": "De Kwakelwei is een belangrijke groene en recreatieve kans voor inwoners. Bebouwing zou onomkeerbaar afbreuk doen aan leefbaarheid en open ruimte. Wij kiezen hier bewust voor behoud van groen boven extra woningbouw."
+        },
+        "167239": {
+          "position": "agree",
+          "explanation": "Wij vinden het logisch en rechtvaardig dat woningzoekenden uit Katwijk, Rijnsburg en Valkenburg voorrang krijgen. De woningnood raakt onze eigen inwoners hard, vooral starters en jonge gezinnen. Lokale voorrang is een onderdeel van het oplossen van die woningnood."
+        },
+        "167240": {
+          "position": "agree",
+          "explanation": "Sociale huur mag niet verdwijnen door herstructurering. Als flats verdwijnen, moeten minimaal evenveel sociale huurwoningen terugkomen. Zo voorkomen we verdringing en houden we wonen in onze dorpen betaalbaar."
         },
         "167241": {
           "position": "disagree",
@@ -1265,21 +2257,53 @@
           "position": "disagree",
           "explanation": "Onbegrensde hoogbouw past niet bij het dorpse karakter van Katwijk. Hoogbouw kan alleen beperkt en op logische plekken. Leefbaarheid en schaal blijven hierbij leidend."
         },
+        "167244": {
+          "position": "agree",
+          "explanation": "Woningen zijn om in te wonen, niet om mee te speculeren. Een zelfbewoningsplicht helpt starters en gezinnen. Zo blijft de woningmarkt eerlijker en toegankelijker."
+        },
+        "167245": {
+          "position": "disagree",
+          "explanation": "Vakantiewoningen zijn geen structurele oplossing voor de wooncrisis. Permanente bewoning zet recreatie en leefbaarheid onder druk. Wij houden functies helder gescheiden."
+        },
         "167246": {
           "position": "disagree",
           "explanation": "Wij willen meer groen bij nieuwbouw, maar geen starre norm die projecten onhaalbaar maakt. Groen moet functioneel bijdragen aan leefbaarheid, wateropvang en gezondheid. Kwaliteit en inpassing zijn belangrijker dan een vast percentage."
+        },
+        "167247": {
+          "position": "agree",
+          "explanation": "Langdurige leegstand is onacceptabel in tijden van woningnood. De gemeente moet eigenaren aanspreken en, als het nodig is, handhavend optreden. Woonruimte is op dit moment schaars en moet zoveel mogelijk worden benut."
         },
         "167248": {
           "position": "agree",
           "explanation": "Veel mensen vallen nu net buiten bestaande regelingen. Door de inkomensgrens te verhogen bereiken we ook werkende armen en gezinnen die het moeilijk hebben. Dat voorkomt grotere problemen later."
         },
+        "167249": {
+          "position": "agree",
+          "explanation": "Wij vinden meedoen belangrijk, maar niet via dwang of sancties. Werk of vrijwilligerswerk moet passen bij iemands mogelijkheden en perspectief bieden op uitstroom."
+        },
         "167250": {
           "position": "disagree",
           "explanation": "Wij geloven niet in korten op inkomen als instrument om integratie af te dwingen. Taal leer je beter met goede begeleiding, duidelijke verwachtingen en perspectief op werk. De gemeente moet ondersteunen en activeren, niet straffen en wegduwen."
         },
+        "167251": {
+          "position": "agree",
+          "explanation": "Goede mondzorg is essentieel voor gezondheid en zelfvertrouwen. Voor mensen met een laag inkomen is de drempel nu te hoog. De gemeente moet hierin ondersteunen om grotere zorgkosten te voorkomen."
+        },
+        "167252": {
+          "position": "agree",
+          "explanation": "Het eigen risico vormt voor veel mensen met een minimuminkomen een drempel om zorg te zoeken. Dat leidt tot uitstel en uiteindelijk hogere kosten voor iedereen. Door deze drempel weg te nemen, investeren we in preventie en bestaanszekerheid."
+        },
+        "167253": {
+          "position": "disagree",
+          "explanation": "Wij kiezen voor verkeersveiligheid en overzichtelijke verkeerssituaties. In Katwijk betekent dat extra bescherming voor fietsers en voetgangers, zeker op drukke plekken. De inrichting van rotondes moet passen bij leefbaarheid, niet alleen bij doorstroming van auto’s."
+        },
         "167254": {
           "position": "agree",
           "explanation": "Wij willen dat fietsers veilig door onze dorpen kunnen bewegen. Meer fietsstraten zorgen voor rustiger verkeer en minder conflicten tussen auto en fiets. Dat voeren we gericht in, op plekken waar het de veiligheid en leefbaarheid aantoonbaar verbetert."
+        },
+        "167255": {
+          "position": "disagree",
+          "explanation": "De boulevard is een plek voor inwoners en bezoekers. Volledige uitsluiting van bezoekers past niet bij een open kustgemeente. Wel moet parkeren zo worden geregeld dat inwoners niet worden verdrongen."
         },
         "167256": {
           "position": "disagree",
@@ -1288,6 +2312,22 @@
         "167257": {
           "position": "agree",
           "explanation": "Deelauto’s kunnen helpen om parkeerdruk te verminderen. De gemeente moet ruimte bieden waar dit aantoonbaar werkt. Dat draagt bij aan bereikbaarheid zonder autobezit te forceren."
+        },
+        "167258": {
+          "position": "disagree",
+          "explanation": "Parkeervergunningen zijn feitelijk een vorm van betaald parkeren. Wij zijn tegen het verder belasten van inwoners voor het parkeren bij hun eigen woning. Parkeerproblemen vragen om maatwerk, betere inrichting en handhaving, niet om steeds nieuwe vergunningen en kosten voor bewoners."
+        },
+        "167260": {
+          "position": "agree",
+          "explanation": "Samen voor KRV kiest voor leefbare woonstraten. Grote busjes horen niet in smalle woonstraten en zorgen voor onveiligheid en overlast. Door aan de rand van wijken veilige parkeerplekken te realiseren, verbeteren we de leefbaarheid voor bewoners én ondernemers."
+        },
+        "167261": {
+          "position": "agree",
+          "explanation": "Samen voor KRV kiest nadrukkelijk voor de veiligheid van fietsers. Waar auto’s en fietsers de weg delen, hoort 30 km/u de norm te zijn. Dat is geen pesterij voor automobilisten, maar een noodzakelijke keuze om ongelukken te voorkomen en straten leefbaar te houden."
+        },
+        "167263": {
+          "position": "disagree",
+          "explanation": "Samen voor KRV kiest voor meer maatwerk in zorg en ondersteuning. Door meer te gaan samenwerken met grote aanbieders gaat dat ten koste van kleine en lokale initiatieven. Juist die lokale betrokkenheid is essentieel voor persoonlijke zorg en een sterke gemeenschap."
         },
         "167264": {
           "position": "agree",
@@ -1634,6 +2674,294 @@
       "pro": "",
       "con": "",
       "isShootout": false
+    }
+  ],
+  "shootoutStatements": [
+    {
+      "id": 167213,
+      "index": 12,
+      "theme": "Hotels",
+      "themeId": "hotels",
+      "title": "De gemeente moet meer hotels toestaan.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
+    },
+    {
+      "id": 167258,
+      "index": 31,
+      "theme": "Parkeervergunningen",
+      "themeId": "parkeervergunningen",
+      "title": "Katwijk moet in meer wijken een parkeervergunning invoeren.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
+    },
+    {
+      "id": 167239,
+      "index": 32,
+      "theme": "Voorrang huisvesting",
+      "themeId": "voorrang-huisvesting",
+      "title": "Bij de toewijzing van een sociale huurwoning moeten woningzoekenden uit de eigen gemeente voorrang krijgen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
+    },
+    {
+      "id": 167255,
+      "index": 33,
+      "theme": "Parkeerplaatsen",
+      "themeId": "parkeerplaatsen",
+      "title": "Alleen inwoners van de gemeente Katwijk moeten toestemming krijgen om te parkeren op de boulevard in Katwijk aan Zee.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
+    },
+    {
+      "id": 167249,
+      "index": 34,
+      "theme": "Tegenprestatie voor uitkering",
+      "themeId": "tegenprestatie-voor-uitkering",
+      "title": "Mensen die een bijstandsuitkering krijgen, moeten in ruil daarvoor maatschappelijk zinvol werk doen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
+    },
+    {
+      "id": 167260,
+      "index": 35,
+      "theme": "Parkeren busjes",
+      "themeId": "parkeren-busjes",
+      "title": "De gemeente moet aan de rand van de wijken parkeerplaatsen maken waar busjes veilig kunnen parkeren.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
+    },
+    {
+      "id": 167240,
+      "index": 36,
+      "theme": "Hoornesflats",
+      "themeId": "hoornesflats",
+      "title": "Als de torenflats in Hoornes verdwijnen moeten er minimaal evenveel sociale huurwoningen terugkomen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
+    },
+    {
+      "id": 167209,
+      "index": 37,
+      "theme": "Jongerenfonds",
+      "themeId": "jongerenfonds",
+      "title": "Er moet een jongerenfonds komen waar jongeren geld kunnen aanvragen voor evenementen of buurtprojecten.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
+    },
+    {
+      "id": 167236,
+      "index": 38,
+      "theme": "Dakloosheid",
+      "themeId": "dakloosheid",
+      "title": "De gemeente moet geen boetes meer uitdelen voor slapen op straat.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
+    },
+    {
+      "id": 167251,
+      "index": 39,
+      "theme": "Tandartskosten",
+      "themeId": "tandartskosten",
+      "title": "De gemeente moet tandartskosten vergoeden voor mensen met een laag inkomen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
+    },
+    {
+      "id": 167247,
+      "index": 40,
+      "theme": "Boete voor leegstand",
+      "themeId": "boete-voor-leegstand",
+      "title": "De gemeente moet boetes uitdelen aan eigenaren die een gebouw langer dan een jaar leeg laten staan.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
+    },
+    {
+      "id": 167214,
+      "index": 41,
+      "theme": "Sluitingstijden horeca",
+      "themeId": "sluitingstijden-horeca",
+      "title": "Cafés moeten zelf hun openingstijden kunnen bepalen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
+    },
+    {
+      "id": 167253,
+      "index": 42,
+      "theme": "Voorrang op rotondes",
+      "themeId": "voorrang-op-rotondes",
+      "title": "Auto's moeten voorrang houden op rotondes.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
+    },
+    {
+      "id": 167222,
+      "index": 44,
+      "theme": "Regenwater apart",
+      "themeId": "regenwater-apart",
+      "title": "Bij de bouw van nieuwe woningen moet de gemeente verplichten dat het regenwater niet bij het afvalwater in het riool komt.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
+    },
+    {
+      "id": 167227,
+      "index": 45,
+      "theme": "Contributie sport",
+      "themeId": "contributie-sport",
+      "title": "De gemeente moet het lidmaatschap van een sportclub betalen voor kinderen van wie de ouders of verzorgers weinig geld hebben.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
+    },
+    {
+      "id": 167263,
+      "index": 46,
+      "theme": "Zorgkeuze",
+      "themeId": "zorgkeuze",
+      "title": "Voor zorg en ondersteuning moet de gemeente meer gaan werken met grote aanbieders.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
+    },
+    {
+      "id": 167245,
+      "index": 47,
+      "theme": "Vakantiehuisjes",
+      "themeId": "vakantiehuisjes",
+      "title": "De gemeente moet toestaan dat vakantiewoningen gebruikt worden als vast woonadres.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
+    },
+    {
+      "id": 167228,
+      "index": 48,
+      "theme": "Schoolzwemmen",
+      "themeId": "schoolzwemmen",
+      "title": "De gemeente moet geld beschikbaar stellen voor schoolzwemmen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
+    },
+    {
+      "id": 167244,
+      "index": 49,
+      "theme": "Zelf bewonen van een koophuis",
+      "themeId": "zelf-bewonen-van-een-koophuis",
+      "title": "Wie een woning in Katwijk koopt, moet daar zelf in gaan wonen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
+    },
+    {
+      "id": 167219,
+      "index": 50,
+      "theme": "Taal leren",
+      "themeId": "taal-leren",
+      "title": "Ouders moeten extra taalcurssen voor kinderen met een taalachterstand zelf betalen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
+    },
+    {
+      "id": 167235,
+      "index": 51,
+      "theme": "Recht op demonstratie",
+      "themeId": "recht-op-demonstratie",
+      "title": "De gemeente moet meer geld steken in de beveiliging van demonstraties.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
+    },
+    {
+      "id": 167261,
+      "index": 52,
+      "theme": "Snelheid auto's",
+      "themeId": "snelheid-auto-s",
+      "title": "De maximumsnelheid moet naar maximaal 30 km/u op alle wegen waar geen apart fietspad is.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
+    },
+    {
+      "id": 167229,
+      "index": 53,
+      "theme": "Muziekles",
+      "themeId": "muziekles",
+      "title": "Elk basisschoolkind moet met geld van de gemeente muziekles kunnen volgen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
+    },
+    {
+      "id": 167216,
+      "index": 54,
+      "theme": "Duurzame energie",
+      "themeId": "duurzame-energie",
+      "title": "Inwoners die samen duurzame energie op willen wekken, moeten financiële steun krijgen van de gemeente.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
+    },
+    {
+      "id": 167252,
+      "index": 55,
+      "theme": "Eigen bijdrage zorg",
+      "themeId": "eigen-bijdrage-zorg",
+      "title": "De gemeente moet voor mensen met een minimuminkomen het eigen risico bij de zorgverzekering betalen.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
+    },
+    {
+      "id": 167206,
+      "index": 56,
+      "theme": "Samenwerkingsverbanden",
+      "themeId": "samenwerkingsverbanden",
+      "title": "De gemeente moet meer zelf regelen en minder in samenwerkingsverbanden met andere gemeenten.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
     }
   ]
 }

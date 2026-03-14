@@ -88,23 +88,25 @@ function processMunicipality(
     })
     .sort((a, b) => a.index - b.index);
 
-  // Shootout statements (for tie-breaking)
-  const shootoutStatements = statements
-    .filter((s) => s.isShootout as boolean)
-    .map((s) => {
-      const moreInfo = (s.moreInfo as Record<string, string>) || {};
-      return {
-        id: s.id as number,
-        index: s.index as number,
-        theme: (s.theme as string) || "",
-        themeId: (s.themeId as string) || "",
-        title: getPlainText(s.title),
-        moreInfo: stripHtml(moreInfo.text),
-        pro: stripHtml(moreInfo.pro),
-        con: stripHtml(moreInfo.con),
-        isShootout: true,
-      };
-    });
+  // Shootout statements (for tie-breaking) — stored in separate array in raw data
+  const rawShootouts =
+    (rawData.shootoutStatements as Array<Record<string, unknown>>) || [];
+  const shootoutStatements = rawShootouts.map((s) => {
+    const moreInfo = (s.moreInfo as Record<string, string>) || {};
+    // Add to stmtLookup for party position mapping
+    stmtLookup[s.id as number] = s;
+    return {
+      id: s.id as number,
+      index: s.index as number,
+      theme: (s.theme as string) || "",
+      themeId: (s.themeId as string) || "",
+      title: getPlainText(s.title),
+      moreInfo: stripHtml(moreInfo.text),
+      pro: stripHtml(moreInfo.pro),
+      con: stripHtml(moreInfo.con),
+      isShootout: true,
+    };
+  });
 
   const processedParties = parties.map((p) => {
     const partyStatements =

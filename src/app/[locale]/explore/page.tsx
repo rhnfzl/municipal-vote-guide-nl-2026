@@ -8,6 +8,7 @@ import { Skeleton } from "@/components/ui/skeleton";
 import { useRouter } from "next/navigation";
 import { searchWithAliases } from "@/lib/municipality-aliases";
 import { MdLightbulb, MdChevronRight } from "@/components/icons";
+import { translateTheme } from "@/lib/theme-translations";
 import {
   BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, Cell,
 } from "recharts";
@@ -83,7 +84,10 @@ export default function ExplorePage() {
     );
   }
 
-  const themeData = stats.topThemes.slice(0, 12).map(([name, count]) => ({ name, count }));
+  const themeData = stats.topThemes.slice(0, 20).map(([name, count]) => ({
+    name: translateTheme(name, locale),
+    count,
+  }));
 
   return (
     <div className="space-y-8">
@@ -112,7 +116,7 @@ export default function ExplorePage() {
       <Card className="overflow-hidden rounded-2xl border-0 shadow-md">
         <CardContent className="p-5">
           <h2 className="mb-4 text-lg font-semibold">{t("topThemes")}</h2>
-          <div className="h-80">
+          <div className="h-[500px]">
             <ResponsiveContainer width="100%" height="100%">
               <BarChart data={themeData} layout="vertical" margin={{ left: 20, right: 30 }}>
                 <XAxis type="number" tick={{ fontSize: 12 }} />

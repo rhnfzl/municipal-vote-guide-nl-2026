@@ -115,6 +115,10 @@
           "position": "agree",
           "explanation": "Uitgangspunt is dat deze zo laag mogelijk moet blijven. Dit betekent echter niet dat deze niet verhoogd kan worden."
         },
+        "142726": {
+          "position": "disagree",
+          "explanation": "Dit geldt niet voor al het afval. De vervuiler betaalt en dit betekent dat bepaalde afvalstromen gewoon afgerekend moeten worden."
+        },
         "142728": {
           "position": "agree",
           "explanation": "Uitgangspunt is dat iedere dorpskern een dorpshuis heeft, waar inwoners samen kunnen komen. Echter moet wel onderzocht worden of de huidige locatie toekomstbestendig is en of combinaties met andere maatschappelijke gebouwen mogelijk is."
@@ -237,6 +241,10 @@
           "position": "disagree",
           "explanation": "De ozb is al de laagste in de regio. Stijging alleen met inflatiecorrectie."
         },
+        "142726": {
+          "position": "disagree",
+          "explanation": "Iedereen betaalt voor de kosten van zijn of haar afval; gratis aanbieden kan leiden tot verspilling of misbruik."
+        },
         "142728": {
           "position": "agree",
           "explanation": "Dit in combinatie met de nieuwbouw van de school in Zegge. Integraal plan van volledige omgeving met evenementenlocatie."
@@ -356,6 +364,10 @@
           "explanation": ""
         },
         "142723": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "142726": {
           "position": "agree",
           "explanation": ""
         },
@@ -481,6 +493,10 @@
           "position": "neither",
           "explanation": "Het CDA is geen voorstander van een stijging van de OZB, maar waar kosten stijgen, kan het noodzakelijk zijn dat de OZB meestijgt met de inflatie."
         },
+        "142726": {
+          "position": "disagree",
+          "explanation": "Gratis bestaat niet. Afvalverwerking kost geld, daarvoor betalen we afvalstofheffing. Het CDA wil de heffingen zo laag mogelijk houden."
+        },
         "142728": {
           "position": "neither",
           "explanation": "Er is volgens het CDA geen aanleiding waaruit blijkt dat het SKW de Nieuwenbergh vernieuwd zou moeten worden. Een eventuele vernieuwing van de dorpshuizen zou integraal onderzocht moeten worden."
@@ -603,6 +619,10 @@
           "position": "disagree",
           "explanation": ""
         },
+        "142726": {
+          "position": "disagree",
+          "explanation": "Wij zijn van mening \"de vervuiler betaald\" recycle-bare producten dienen wel gratis ingeleverd te kunnen worden"
+        },
         "142728": {
           "position": "neither",
           "explanation": "De gemeente moet het dorpswerk ondersteunen waar nodig."
@@ -722,6 +742,10 @@
           "explanation": ""
         },
         "142723": {
+          "position": "agree",
+          "explanation": ""
+        },
+        "142726": {
           "position": "agree",
           "explanation": ""
         },
@@ -1044,6 +1068,19 @@
       "pro": "",
       "con": "",
       "isShootout": false
+    }
+  ],
+  "shootoutStatements": [
+    {
+      "id": 142726,
+      "index": 29,
+      "theme": "Milieustraat",
+      "themeId": "milieustraat",
+      "title": "Het inleveren van afval bij de milieustraat moet gratis worden.",
+      "moreInfo": "",
+      "pro": "",
+      "con": "",
+      "isShootout": true
     }
   ]
 }
