@@ -52,14 +52,6 @@ export interface Statement {
 
 export type UserAnswer = "agree" | "disagree" | "neither" | "skip";
 
-export interface QuestionnaireState {
-  municipalitySlug: string;
-  answers: Record<number, UserAnswer>;
-  dealbreakers: Set<number>;
-  currentIndex: number;
-  completed: boolean;
-}
-
 export interface PartyMatch {
   partyId: number;
   partyName: string;
@@ -69,13 +61,4 @@ export interface PartyMatch {
   disagreeCount: number;
   neitherCount: number;
   totalAnswered: number;
-  dealbreakersViolated: number[];
-  isEliminated: boolean;
-}
-
-export type DealBreakerMode = "strict" | "weighted";
-
-export interface ThemeWeight {
-  themeId: string;
-  weight: number; // 1 = normal, 2 = important, 3 = very important
 }

@@ -10,7 +10,8 @@ import { Skeleton } from "@/components/ui/skeleton";
 import { calculateMatches, generateMatchSummary } from "@/lib/scoring";
 import { ShareResults } from "@/components/share-results";
 import { PartyAvatar } from "@/components/party-avatar";
-import { MdCheckCircle, MdCancel, MdExpandMore, MdInfo } from "@/components/icons";
+import { MdCheckCircle, MdCancel, MdExpandMore } from "@/components/icons";
+import { PoliticalCompass } from "@/components/political-compass";
 import type { MunicipalityData, UserAnswer, PartyMatch } from "@/lib/types";
 
 export default function ResultsPage() {
@@ -127,7 +128,7 @@ export default function ResultsPage() {
           return (
             <Card
               key={match.partyId}
-              className={`overflow-hidden rounded-xl transition-all duration-200 cursor-pointer ${
+              className={`group overflow-hidden rounded-xl transition-all duration-200 cursor-pointer ${
                 isTop
                   ? "ring-2 ring-amber-400 shadow-lg bg-gradient-to-r from-amber-50/50 to-white dark:from-amber-950/20 dark:to-gray-900"
                   : "hover:shadow-md"
@@ -165,15 +166,38 @@ export default function ResultsPage() {
                       </span>
                     </div>
                   </div>
-                  <span className={`text-2xl font-black shrink-0 sm:text-3xl ${matchColor(match.matchPercentage)}`}>
-                    {match.matchPercentage}%
-                  </span>
+                  <div className="text-right shrink-0">
+                    <span className={`text-2xl font-black sm:text-3xl ${matchColor(match.matchPercentage)}`}>
+                      {match.matchPercentage}%
+                    </span>
+                    <p className="text-[10px] text-blue-500 font-medium mt-1 group-hover:underline">
+                      {locale === "en" ? "Compare →" : "Vergelijk →"}
+                    </p>
+                  </div>
                 </div>
               </CardContent>
             </Card>
           );
         })}
       </div>
+
+      {/* Political Compass — collapsed at bottom with explanation */}
+      {data && (
+        <details className="rounded-xl border border-gray-200 dark:border-gray-800">
+          <summary className="cursor-pointer p-4 text-sm font-medium text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-100 flex items-center gap-2">
+            <MdExpandMore className="h-5 w-5" />
+            {locale === "en" ? "Political Compass" : "Politiek Kompas"}
+          </summary>
+          <div className="px-4 pb-4 space-y-2">
+            <p className="text-xs text-gray-500 leading-relaxed">
+              {locale === "en"
+                ? "This compass shows where you stand politically compared to parties. Blue dot = you. Gray dots = parties. Parties closer to your dot are more aligned with your views. Left-right shows economic stance, up-down shows social stance."
+                : "Dit kompas toont waar jij politiek staat ten opzichte van partijen. Blauwe stip = jij. Grijze stippen = partijen. Partijen dichterbij jouw stip passen beter bij jouw standpunten."}
+            </p>
+            <PoliticalCompass data={data} answers={answers} locale={locale} />
+          </div>
+        </details>
+      )}
 
       {/* Actions */}
       <div className="flex flex-wrap gap-3 justify-center pt-4">

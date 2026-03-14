@@ -66,8 +66,6 @@ export function calculateMatches(
         disagreeCount,
         neitherCount,
         totalAnswered,
-        dealbreakersViolated: [],
-        isEliminated: false,
       };
     })
     .sort((a, b) => b.matchPercentage - a.matchPercentage);

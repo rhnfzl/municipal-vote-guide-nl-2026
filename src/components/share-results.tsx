@@ -23,7 +23,7 @@ export function ShareResults({ matches, municipality, locale }: ShareResultsProp
   const [open, setOpen] = useState(false);
   const [copied, setCopied] = useState(false);
 
-  const top5 = matches.filter((m) => !m.isEliminated).slice(0, 5);
+  const top5 = matches.slice(0, 5);
   const matchParam = top5
     .map((m) => `${encodeURIComponent(m.partyName)}:${m.matchPercentage}`)
     .join(",");

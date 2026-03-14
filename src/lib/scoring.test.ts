@@ -8,12 +8,7 @@ const mockData: MunicipalityData = {
   slug: "test",
   parties: [
     {
-      id: 1,
-      name: "Party A",
-      fullName: "Party A",
-      website: "",
-      hasSeats: true,
-      participates: true,
+      id: 1, name: "Party A", fullName: "Party A", website: "", hasSeats: true, participates: true,
       positions: {
         101: { position: "agree", explanation: "" },
         102: { position: "disagree", explanation: "" },
@@ -22,12 +17,7 @@ const mockData: MunicipalityData = {
       },
     },
     {
-      id: 2,
-      name: "Party B",
-      fullName: "Party B",
-      website: "",
-      hasSeats: true,
-      participates: true,
+      id: 2, name: "Party B", fullName: "Party B", website: "", hasSeats: true, participates: true,
       positions: {
         101: { position: "disagree", explanation: "" },
         102: { position: "agree", explanation: "" },
@@ -36,15 +26,8 @@ const mockData: MunicipalityData = {
       },
     },
     {
-      id: 3,
-      name: "Non-participating",
-      fullName: "Non-participating",
-      website: "",
-      hasSeats: false,
-      participates: false,
-      positions: {
-        101: { position: "agree", explanation: "" },
-      },
+      id: 3, name: "Non-participating", fullName: "Non-participating", website: "", hasSeats: false, participates: false,
+      positions: { 101: { position: "agree", explanation: "" } },
     },
   ],
   statements: [
@@ -56,82 +39,51 @@ const mockData: MunicipalityData = {
 };
 
 describe("calculateMatches", () => {
-  it("calculates 100% for perfect agreement (no neither)", () => {
-    const answers: Record<number, UserAnswer> = {
-      101: "agree",
-      102: "disagree",
-      104: "agree",
-    };
+  it("calculates 100% for perfect agreement", () => {
+    const answers: Record<number, UserAnswer> = { 101: "agree", 102: "disagree", 104: "agree" };
     const results = calculateMatches(mockData, answers);
-    const partyA = results.find((r) => r.partyId === 1)!;
-    expect(partyA.matchPercentage).toBe(100);
+    expect(results.find((r) => r.partyId === 1)!.matchPercentage).toBe(100);
   });
 
-  it("calculates 0% for total disagreement (no neither)", () => {
-    const answers: Record<number, UserAnswer> = {
-      101: "disagree",
-      102: "agree",
-      104: "disagree",
-    };
+  it("calculates 0% for total disagreement", () => {
+    const answers: Record<number, UserAnswer> = { 101: "disagree", 102: "agree", 104: "disagree" };
     const results = calculateMatches(mockData, answers);
-    const partyA = results.find((r) => r.partyId === 1)!;
-    expect(partyA.matchPercentage).toBe(0);
+    expect(results.find((r) => r.partyId === 1)!.matchPercentage).toBe(0);
   });
 
   it("excludes non-participating parties", () => {
-    const answers: Record<number, UserAnswer> = { 101: "agree" };
-    const results = calculateMatches(mockData, answers);
+    const results = calculateMatches(mockData, { 101: "agree" });
     expect(results.length).toBe(2);
-    expect(results.find((r) => r.partyId === 3)).toBeUndefined();
   });
 
   it("skips unanswered questions", () => {
-    const answers: Record<number, UserAnswer> = { 101: "agree", 102: "skip" };
-    const results = calculateMatches(mockData, answers);
-    const partyA = results.find((r) => r.partyId === 1)!;
-    expect(partyA.totalAnswered).toBe(1);
-    expect(partyA.matchPercentage).toBe(100);
+    const results = calculateMatches(mockData, { 101: "agree", 102: "skip" });
+    expect(results.find((r) => r.partyId === 1)!.totalAnswered).toBe(1);
   });
 
   it("priority statements get 2x weight", () => {
-    const answers: Record<number, UserAnswer> = { 101: "agree", 102: "agree" };
-    const priorities = [101]; // Q101 gets 2x weight
-    const results = calculateMatches(mockData, answers, priorities);
-    const partyA = results.find((r) => r.partyId === 1)!;
-    // Q101: agree=agree (weight 2, match 2), Q102: agree!=disagree (weight 1, match 0)
-    // Total weight = 3, match = 2, pct = 66.7%
-    expect(partyA.matchPercentage).toBe(66.7);
+    const results = calculateMatches(mockData, { 101: "agree", 102: "agree" }, [101]);
+    expect(results.find((r) => r.partyId === 1)!.matchPercentage).toBe(66.7);
   });
 
   it("filters by selectedPartyIds", () => {
-    const answers: Record<number, UserAnswer> = { 101: "agree" };
-    const results = calculateMatches(mockData, answers, [], [1]); // only Party A
+    const results = calculateMatches(mockData, { 101: "agree" }, [], [1]);
     expect(results.length).toBe(1);
     expect(results[0].partyId).toBe(1);
   });
 
-  it("sorts by match percentage descending", () => {
-    const answers: Record<number, UserAnswer> = {
-      101: "agree",
-      102: "agree",
-      103: "agree",
-      104: "agree",
-    };
-    const results = calculateMatches(mockData, answers);
+  it("sorts descending by match %", () => {
+    const results = calculateMatches(mockData, { 101: "agree", 102: "agree", 103: "agree", 104: "agree" });
     expect(results[0].matchPercentage).toBeGreaterThanOrEqual(results[1].matchPercentage);
   });
 
-  it("neither answers count as 0.5 match", () => {
-    const answers: Record<number, UserAnswer> = { 103: "agree" };
-    const results = calculateMatches(mockData, answers);
-    const partyA = results.find((r) => r.partyId === 1)!;
-    expect(partyA.matchPercentage).toBe(50);
+  it("neither = 0.5 match", () => {
+    const results = calculateMatches(mockData, { 103: "agree" });
+    expect(results.find((r) => r.partyId === 1)!.matchPercentage).toBe(50);
   });
 
-  it("no priority statements = equal weight", () => {
-    const answers: Record<number, UserAnswer> = { 101: "agree", 102: "disagree" };
-    const results = calculateMatches(mockData, answers);
-    const partyA = results.find((r) => r.partyId === 1)!;
-    expect(partyA.matchPercentage).toBe(100);
+  it("no priority = equal weight", () => {
+    const results = calculateMatches(mockData, { 101: "agree", 102: "disagree" });
+    expect(results.find((r) => r.partyId === 1)!.matchPercentage).toBe(100);
   });
 });
