@@ -98,6 +98,9 @@ export default async function LocaleLayout({
                 <p className="mt-2 text-xs text-gray-400">
                   {tFooter("disclaimer")}
                 </p>
+                <p className="mt-1 text-xs text-gray-400">
+                  {tFooter("translationNote")}
+                </p>
               </div>
             </footer>
           </NextIntlClientProvider>
