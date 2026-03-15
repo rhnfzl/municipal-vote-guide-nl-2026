@@ -15,7 +15,7 @@ import { MdCheckCircle, MdCancel, MdExpandMore, MdShare } from "@/components/ico
 import { PoliticalCompass } from "@/components/political-compass";
 import { ConsensusMeter } from "@/components/consensus-meter";
 import { encodeAnswers, decodeAnswers, compareAnswers } from "@/lib/share-answers";
-import type { MunicipalityData, UserAnswer, PartyMatch } from "@/lib/types";
+import type { MunicipalityData, UserAnswer, PartyMatch, DealBreakerMode } from "@/lib/types";
 
 const actionButtonClass = "rounded-xl bg-gray-800 text-white hover:bg-gray-900 dark:bg-gray-200 dark:text-gray-900 dark:hover:bg-gray-300";
 
@@ -37,6 +37,8 @@ export default function ResultsPage() {
   } | null>(null);
   const [friendLinkCopied, setFriendLinkCopied] = useState(false);
   const [waitingForFriend, setWaitingForFriend] = useState(false);
+  const [dealbreakers, setDealbreakers] = useState<number[]>([]);
+  const [dealBreakerMode, setDealBreakerMode] = useState<DealBreakerMode>("weighted");
 
   useEffect(() => {
     const savedAnswers =
@@ -70,15 +72,18 @@ export default function ResultsPage() {
     const parsedAnswers = JSON.parse(savedAnswers);
     const priorities: number[] = savedPriorities ? JSON.parse(savedPriorities) : [];
     const selectedPartyIds: number[] | null = savedPartyIds ? JSON.parse(savedPartyIds) : null;
+    const savedDealbreakers = sessionStorage.getItem(`vg-${slug}-dealbreakers`);
+    const parsedDealbreakers: number[] = savedDealbreakers ? JSON.parse(savedDealbreakers) : [];
 
     setAnswers(parsedAnswers);
+    setDealbreakers(parsedDealbreakers);
 
     fetch(`/data/municipalities/${slug}/${locale === "en" ? "en" : "nl"}.json`)
       .then((r) => (r.ok ? r : fetch(`/data/municipalities/${slug}/nl.json`)))
       .then((r) => r.json())
       .then((d: MunicipalityData) => {
         setData(d);
-        const myMatches = calculateMatches(d, parsedAnswers, priorities, selectedPartyIds);
+        const myMatches = calculateMatches(d, parsedAnswers, priorities, selectedPartyIds, parsedDealbreakers, "weighted");
         setMatches(myMatches);
 
         // Compare with friend's answers if ref present
@@ -92,6 +97,16 @@ export default function ResultsPage() {
         }
       });
   }, [slug, locale, router]);
+
+  // Recalculate matches when deal-breaker mode changes
+  useEffect(() => {
+    if (!data || dealbreakers.length === 0) return;
+    const savedPriorities = sessionStorage.getItem(`vg-${slug}-priorities`);
+    const savedPartyIds = sessionStorage.getItem(`vg-${slug}-selectedParties`);
+    const priorities: number[] = savedPriorities ? JSON.parse(savedPriorities) : [];
+    const selectedPartyIds: number[] | null = savedPartyIds ? JSON.parse(savedPartyIds) : null;
+    setMatches(calculateMatches(data, answers, priorities, selectedPartyIds, dealbreakers, dealBreakerMode));
+  }, [dealBreakerMode, data, answers, dealbreakers, slug]);
 
   // Friend opened the link but hasn't taken the questionnaire yet
   if (waitingForFriend) {
@@ -258,6 +273,35 @@ export default function ResultsPage() {
         );
       })()}
 
+      {/* Deal-breaker mode toggle - only shown when user marked deal-breakers */}
+      {dealbreakers.length > 0 && (
+        <div className="flex items-center justify-center gap-3 rounded-xl bg-gray-50 p-3 dark:bg-gray-900">
+          <span className="text-sm font-medium">{t("dealBreakerMode")}:</span>
+          <div className="flex rounded-lg border border-gray-200 overflow-hidden dark:border-gray-700">
+            <button
+              onClick={() => setDealBreakerMode("weighted")}
+              className={`px-3 py-1.5 text-xs font-medium transition-colors ${
+                dealBreakerMode === "weighted"
+                  ? "bg-blue-600 text-white"
+                  : "text-gray-500 hover:bg-gray-100 dark:text-gray-400 dark:hover:bg-gray-800"
+              }`}
+            >
+              {t("weighted")}
+            </button>
+            <button
+              onClick={() => setDealBreakerMode("strict")}
+              className={`px-3 py-1.5 text-xs font-medium transition-colors ${
+                dealBreakerMode === "strict"
+                  ? "bg-red-600 text-white"
+                  : "text-gray-500 hover:bg-gray-100 dark:text-gray-400 dark:hover:bg-gray-800"
+              }`}
+            >
+              {t("strict")}
+            </button>
+          </div>
+        </div>
+      )}
+
       {/* Tie-breaker banner */}
       {showTieBreaker && (
         <Card className="border-blue-300 bg-blue-50 dark:border-blue-700 dark:bg-blue-950/30">
@@ -288,9 +332,11 @@ export default function ResultsPage() {
             <Card
               key={match.partyId}
               className={`group overflow-hidden rounded-xl transition-all duration-200 cursor-pointer ${
-                isTop
-                  ? "ring-2 ring-amber-400 shadow-lg bg-gradient-to-r from-amber-50/50 to-white dark:from-amber-950/20 dark:to-gray-900"
-                  : "hover:shadow-md"
+                match.isEliminated
+                  ? "opacity-60 border-red-300 dark:border-red-800"
+                  : isTop
+                    ? "ring-2 ring-amber-400 shadow-lg bg-gradient-to-r from-amber-50/50 to-white dark:from-amber-950/20 dark:to-gray-900"
+                    : "hover:shadow-md"
               }`}
               onClick={() => router.push(`/${locale}/${slug}/compare-party?party=${match.partyId}`)}
             >
@@ -300,7 +346,12 @@ export default function ResultsPage() {
                   <div className="flex-1 min-w-0">
                     <div className="flex items-center gap-2">
                       <h3 className="font-semibold truncate">{match.partyName}</h3>
-                      {isTop && (
+                      {match.isEliminated && (
+                        <Badge className="bg-red-100 text-red-800 text-xs dark:bg-red-900 dark:text-red-200">
+                          {t("eliminated")}
+                        </Badge>
+                      )}
+                      {isTop && !match.isEliminated && (
                         <Badge className="bg-amber-100 text-amber-800 text-xs dark:bg-amber-900 dark:text-amber-200">
                           {t("topMatch")}
                         </Badge>
@@ -323,6 +374,11 @@ export default function ResultsPage() {
                       <span className="text-red-600 flex items-center gap-0.5">
                         <MdCancel className="h-3 w-3" /> {match.disagreeCount} {t("disagreed")}
                       </span>
+                      {match.dealbreakersViolated && match.dealbreakersViolated.length > 0 && (
+                        <span className="text-red-500 font-medium">
+                          {t("dealbreakersViolated", { count: match.dealbreakersViolated.length })}
+                        </span>
+                      )}
                     </div>
                   </div>
                   <div className="text-right shrink-0">
@@ -387,6 +443,7 @@ export default function ResultsPage() {
             sessionStorage.removeItem(`vg-${slug}-selectedParties`);
             sessionStorage.removeItem(`vg-${slug}-startTime`);
             sessionStorage.removeItem(`vg-${slug}-numStatements`);
+            sessionStorage.removeItem(`vg-${slug}-dealbreakers`);
             router.push(`/${locale}/${slug}/questionnaire`);
           }}
         >

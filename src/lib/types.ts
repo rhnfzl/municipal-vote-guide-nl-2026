@@ -58,6 +58,8 @@ export interface Statement {
 
 export type UserAnswer = "agree" | "disagree" | "neither" | "skip";
 
+export type DealBreakerMode = "weighted" | "strict";
+
 export interface PartyMatch {
   partyId: number;
   partyName: string;
@@ -67,4 +69,6 @@ export interface PartyMatch {
   disagreeCount: number;
   neitherCount: number;
   totalAnswered: number;
+  dealbreakersViolated?: number[];
+  isEliminated?: boolean;
 }

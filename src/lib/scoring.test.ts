@@ -86,4 +86,64 @@ describe("calculateMatches", () => {
     const results = calculateMatches(mockData, { 101: "agree", 102: "disagree" });
     expect(results.find((r) => r.partyId === 1)!.matchPercentage).toBe(100);
   });
+
+  it("dealbreaker weighted mode gives 3x weight", () => {
+    // User agrees on 101 (dealbreaker, 3x) and disagrees on 102 (1x)
+    // Party A: agrees 101, disagrees 102 -> match on both = 100%
+    const results = calculateMatches(mockData, { 101: "agree", 102: "disagree" }, [], null, [101], "weighted");
+    expect(results.find((r) => r.partyId === 1)!.matchPercentage).toBe(100);
+    // Party B: disagrees 101 (dealbreaker violated), agrees 102 -> 0 match on 4 weight = 0%
+    const partyB = results.find((r) => r.partyId === 2)!;
+    expect(partyB.matchPercentage).toBe(0);
+    expect(partyB.dealbreakersViolated).toEqual([101]);
+  });
+
+  it("dealbreaker + priority stacks to 6x", () => {
+    // Statement 101 is both priority (2x) and dealbreaker (3x) = 6x
+    // Statement 102 is normal (1x)
+    // User agrees on 101, agrees on 102
+    // Party A: agrees 101, disagrees 102 -> match=6, total=7, pct=85.7%
+    const results = calculateMatches(mockData, { 101: "agree", 102: "agree" }, [101], null, [101], "weighted");
+    expect(results.find((r) => r.partyId === 1)!.matchPercentage).toBe(85.7);
+  });
+
+  it("dealbreaker strict mode eliminates violating parties", () => {
+    // User agrees on 101, Party B disagrees on 101
+    const results = calculateMatches(mockData, { 101: "agree" }, [], null, [101], "strict");
+    const partyB = results.find((r) => r.partyId === 2)!;
+    expect(partyB.isEliminated).toBe(true);
+    expect(partyB.dealbreakersViolated).toEqual([101]);
+    // Party A agrees, should not be eliminated
+    const partyA = results.find((r) => r.partyId === 1)!;
+    expect(partyA.isEliminated).toBeUndefined();
+  });
+
+  it("dealbreaker strict mode: eliminated parties sort to bottom", () => {
+    // Party B has higher match on 102+103+104 but violates dealbreaker on 101
+    const results = calculateMatches(
+      mockData,
+      { 101: "agree", 102: "agree", 103: "agree", 104: "disagree" },
+      [], null, [101], "strict"
+    );
+    // Party A: agrees 101, disagrees 102, neither 103 (0.5), agrees 104 -> not eliminated
+    // Party B: disagrees 101 (eliminated), agrees 102, agrees 103, disagrees 104
+    const lastParty = results[results.length - 1];
+    expect(lastParty.partyId).toBe(2);
+    expect(lastParty.isEliminated).toBe(true);
+  });
+
+  it("dealbreaker on skipped question has no effect", () => {
+    const results = calculateMatches(mockData, { 101: "skip", 102: "agree" }, [], null, [101], "strict");
+    const partyB = results.find((r) => r.partyId === 2)!;
+    expect(partyB.isEliminated).toBeUndefined();
+    expect(partyB.dealbreakersViolated).toBeUndefined();
+  });
+
+  it("no dealbreakers = backward compatible", () => {
+    const results = calculateMatches(mockData, { 101: "agree", 102: "disagree" });
+    const partyA = results.find((r) => r.partyId === 1)!;
+    expect(partyA.dealbreakersViolated).toBeUndefined();
+    expect(partyA.isEliminated).toBeUndefined();
+    expect(partyA.matchPercentage).toBe(100);
+  });
 });

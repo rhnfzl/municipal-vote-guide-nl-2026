@@ -12,7 +12,7 @@ import { GlossaryTitle } from "@/components/glossary-title";
 import {
   MdThumbUp, MdThumbDown, MdRemove, MdChat, MdMenuBook,
   MdBalance, MdArrowBack, MdClose,
-  MdCheckCircle, MdCancel,
+  MdCheckCircle, MdCancel, MdFlag,
 } from "@/components/icons";
 
 type InfoTab = "parties" | "moreInfo" | "arguments" | null;
@@ -70,6 +70,7 @@ export default function QuestionnairePage() {
   const [currentIdx, setCurrentIdx] = useState(0);
   const [answers, setAnswers] = useState<Record<number, UserAnswer>>({});
   const [activeTab, setActiveTab] = useState<InfoTab>(null);
+  const [dealbreakers, setDealbreakers] = useState<Set<number>>(new Set());
   const [loading, setLoading] = useState(true);
 
   // Update both React state and URL when changing question
@@ -89,6 +90,8 @@ export default function QuestionnairePage() {
       // Resume: language switch (URL has ?q from LanguageToggle) or page refresh
       sessionStorage.removeItem(`vg-${slug}-completed`);
       setAnswers(JSON.parse(savedAnswers));
+      const savedDealbreakers = sessionStorage.getItem(`vg-${slug}-dealbreakers`);
+      if (savedDealbreakers) setDealbreakers(new Set(JSON.parse(savedDealbreakers)));
       const savedIdx = sessionStorage.getItem(`vg-${slug}-index`);
       const resumeIdx = parseInt(qParam, 10) || (savedIdx ? parseInt(savedIdx) : 0);
       setCurrentIdx(resumeIdx);
@@ -108,6 +111,7 @@ export default function QuestionnairePage() {
       sessionStorage.removeItem(`vg-${slug}-priorities`);
       sessionStorage.removeItem(`vg-${slug}-selectedParties`);
       sessionStorage.removeItem(`vg-${slug}-numStatements`);
+      sessionStorage.removeItem(`vg-${slug}-dealbreakers`);
       localStorage.removeItem(`vg-${slug}-answers`);
       localStorage.removeItem(`vg-${slug}-index`);
 
@@ -189,6 +193,17 @@ export default function QuestionnairePage() {
     },
     [current, currentIdx, statements.length, answers, setQuestion, slug, locale, router, friendRef]
   );
+
+  const toggleDealbreaker = useCallback(() => {
+    if (!current) return;
+    setDealbreakers((prev) => {
+      const next = new Set(prev);
+      if (next.has(current.id)) next.delete(current.id);
+      else next.add(current.id);
+      sessionStorage.setItem(`vg-${slug}-dealbreakers`, JSON.stringify([...next]));
+      return next;
+    });
+  }, [current, slug]);
 
   if (loading) {
     return (
@@ -293,7 +308,19 @@ export default function QuestionnairePage() {
             )}
           </div>
 
-          {/* Dealbreaker toggle removed - replaced by Important Topics step after questionnaire */}
+          {/* Dealbreaker toggle - optional, per-statement */}
+          <button
+            onClick={toggleDealbreaker}
+            className={`flex items-center gap-1.5 text-xs font-medium rounded-full px-2.5 py-1 transition-all ${
+              dealbreakers.has(current.id)
+                ? "bg-red-100 text-red-700 dark:bg-red-900/30 dark:text-red-400"
+                : "text-gray-400 hover:text-gray-600 hover:bg-gray-100 dark:hover:bg-gray-800"
+            }`}
+            title={t("dealBreakerTooltip")}
+          >
+            <MdFlag className="h-3.5 w-3.5" />
+            {t("dealbreaker")}
+          </button>
 
           {/* Three Tabs - matching StemWijzer */}
           <div className="flex rounded-lg border border-gray-200 overflow-hidden dark:border-gray-700">

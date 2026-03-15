@@ -2,19 +2,25 @@ import type {
   UserAnswer,
   PartyMatch,
   MunicipalityData,
+  DealBreakerMode,
 } from "./types";
 
 /**
  * Calculate party matches using StemWijzer-compatible scoring.
  * Priority statements get 2x weight (matches StemWijzer exactly).
+ * Deal-breaker statements get 3x weight in weighted mode (stacks multiplicatively with priority).
+ * In strict mode, parties that disagree with any deal-breaker are marked as eliminated.
  */
 export function calculateMatches(
   data: MunicipalityData,
   answers: Record<number, UserAnswer>,
   priorityStatements: number[] = [],
   selectedPartyIds: number[] | null = null,
+  dealbreakers: number[] = [],
+  dealBreakerMode: DealBreakerMode = "weighted",
 ): PartyMatch[] {
   const prioritySet = new Set(priorityStatements);
+  const dealbreakerSet = new Set(dealbreakers);
 
   return data.parties
     .filter((party) => {
@@ -29,6 +35,7 @@ export function calculateMatches(
       let disagreeCount = 0;
       let neitherCount = 0;
       let totalAnswered = 0;
+      const dealbreakersViolated: number[] = [];
 
       for (const stmt of data.statements) {
         const userAnswer = answers[stmt.id];
@@ -40,7 +47,11 @@ export function calculateMatches(
         totalAnswered++;
 
         // Priority statements get 2x weight (matching StemWijzer)
-        const weight = prioritySet.has(stmt.id) ? 2 : 1;
+        let weight = prioritySet.has(stmt.id) ? 2 : 1;
+        // Deal-breaker statements get 3x multiplier in weighted mode (stacks: 2x * 3x = 6x)
+        if (dealbreakerSet.has(stmt.id) && dealBreakerMode === "weighted") {
+          weight *= 3;
+        }
         totalWeight += weight;
 
         if (userAnswer === "neither" || partyPos.position === "neither") {
@@ -51,11 +62,16 @@ export function calculateMatches(
           agreeCount++;
         } else {
           disagreeCount++;
+          if (dealbreakerSet.has(stmt.id)) {
+            dealbreakersViolated.push(stmt.id);
+          }
         }
       }
 
       const matchPercentage =
         totalWeight > 0 ? Math.round((matchWeight / totalWeight) * 1000) / 10 : 0;
+
+      const isEliminated = dealBreakerMode === "strict" && dealbreakersViolated.length > 0;
 
       return {
         partyId: party.id,
@@ -66,9 +82,15 @@ export function calculateMatches(
         disagreeCount,
         neitherCount,
         totalAnswered,
+        dealbreakersViolated: dealbreakersViolated.length > 0 ? dealbreakersViolated : undefined,
+        isEliminated: isEliminated || undefined,
       };
     })
-    .sort((a, b) => b.matchPercentage - a.matchPercentage);
+    .sort((a, b) => {
+      // Eliminated parties go to the bottom
+      if (a.isEliminated !== b.isEliminated) return a.isEliminated ? 1 : -1;
+      return b.matchPercentage - a.matchPercentage;
+    });
 }
 
 /**
