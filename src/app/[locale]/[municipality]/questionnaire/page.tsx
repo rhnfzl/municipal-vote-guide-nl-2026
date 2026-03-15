@@ -214,7 +214,8 @@ export default function QuestionnairePage() {
   const con = locale === "en" && current.conEn ? current.conEn : current.con;
 
   // Alternate language text (for bilingual display)
-  const altStmt = altData?.statements?.find((s) => s.id === current.id);
+  const altStatementsById = useMemo(() => new Map(altData?.statements?.map((s) => [s.id, s]) ?? []), [altData]);
+  const altStmt = altStatementsById.get(current.id);
   const altTitle = altStmt?.title || (locale === "en" ? current.title : current.titleEn) || "";
   const altTheme = altStmt?.theme || (locale === "en" ? current.theme : current.themeEn) || "";
   const altMoreInfo = altStmt?.moreInfo || "";
@@ -334,7 +335,7 @@ export default function QuestionnairePage() {
                     { key: "agree", parties: partyPositions.agree, Icon: MdThumbUp, label: t("partiesAgree"), desc: t("partiesAgreeDesc"), headingColor: "text-green-700 dark:text-green-400" },
                     { key: "neither", parties: partyPositions.neither, Icon: MdRemove, label: t("partiesNeither"), desc: t("partiesNeitherDesc"), headingColor: "text-gray-600 dark:text-gray-400" },
                     { key: "disagree", parties: partyPositions.disagree, Icon: MdThumbDown, label: t("partiesDisagree"), desc: t("partiesDisagreeDesc"), headingColor: "text-red-700 dark:text-red-400" },
-                  ].map((group) => group.parties.length > 0 && (
+                  ].filter((group) => group.parties.length > 0).map((group) => (
                     <div key={group.key}>
                       <h4 className={`flex items-center gap-2 text-sm font-bold ${group.headingColor} mb-2`}>
                         <group.Icon className="h-4 w-4" /> {group.label}
