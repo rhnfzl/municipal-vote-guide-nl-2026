@@ -346,10 +346,13 @@ export default function QuestionnairePage() {
                               {p.name}
                             </summary>
                             {p.explanation && (
-                              <p className="mt-2 text-xs text-gray-500 leading-relaxed">{p.explanation}</p>
+                              <p className="mt-2 text-xs text-gray-600 dark:text-gray-300 leading-relaxed">{p.explanation}</p>
                             )}
                             {p.altExplanation && p.altExplanation !== p.explanation && (
-                              <p className="mt-1 text-xs text-gray-400 italic leading-relaxed">{p.altExplanation}</p>
+                              <>
+                                <hr className="my-1.5 border-gray-200 dark:border-gray-700" />
+                                <p className="text-xs text-gray-400 italic leading-relaxed">{p.altExplanation}</p>
+                              </>
                             )}
                           </details>
                         ))}
@@ -371,10 +374,13 @@ export default function QuestionnairePage() {
                               {p.name}
                             </summary>
                             {p.explanation && (
-                              <p className="mt-2 text-xs text-gray-500 leading-relaxed">{p.explanation}</p>
+                              <p className="mt-2 text-xs text-gray-600 dark:text-gray-300 leading-relaxed">{p.explanation}</p>
                             )}
                             {p.altExplanation && p.altExplanation !== p.explanation && (
-                              <p className="mt-1 text-xs text-gray-400 italic leading-relaxed">{p.altExplanation}</p>
+                              <>
+                                <hr className="my-1.5 border-gray-200 dark:border-gray-700" />
+                                <p className="text-xs text-gray-400 italic leading-relaxed">{p.altExplanation}</p>
+                              </>
                             )}
                           </details>
                         ))}
@@ -398,10 +404,13 @@ export default function QuestionnairePage() {
                               {p.name}
                             </summary>
                             {p.explanation && (
-                              <p className="mt-2 text-xs text-gray-500 leading-relaxed">{p.explanation}</p>
+                              <p className="mt-2 text-xs text-gray-600 dark:text-gray-300 leading-relaxed">{p.explanation}</p>
                             )}
                             {p.altExplanation && p.altExplanation !== p.explanation && (
-                              <p className="mt-1 text-xs text-gray-400 italic leading-relaxed">{p.altExplanation}</p>
+                              <>
+                                <hr className="my-1.5 border-gray-200 dark:border-gray-700" />
+                                <p className="text-xs text-gray-400 italic leading-relaxed">{p.altExplanation}</p>
+                              </>
                             )}
                           </details>
                         ))}
@@ -413,10 +422,13 @@ export default function QuestionnairePage() {
 
               {/* More Info Tab */}
               {activeTab === "moreInfo" && (
-                <div className="text-sm text-gray-600 dark:text-gray-400 leading-relaxed">
-                  {moreInfo || t("noInfoAvailable")}
+                <div className="leading-relaxed">
+                  <p className="text-sm text-gray-600 dark:text-gray-300">{moreInfo || t("noInfoAvailable")}</p>
                   {altMoreInfo && altMoreInfo !== moreInfo && (
-                    <p className="mt-2 text-xs text-gray-400 italic leading-relaxed">{altMoreInfo}</p>
+                    <>
+                      <hr className="my-2 border-gray-200 dark:border-gray-700" />
+                      <p className="text-xs text-gray-400 italic leading-relaxed">{altMoreInfo}</p>
+                    </>
                   )}
                 </div>
               )}
@@ -432,7 +444,10 @@ export default function QuestionnairePage() {
                       {pro || t("noArguments")}
                     </p>
                     {altPro && altPro !== pro && (
-                      <p className="mt-1.5 text-xs text-green-700/60 dark:text-green-400/60 italic leading-relaxed">{altPro}</p>
+                      <>
+                        <hr className="my-1.5 border-green-200 dark:border-green-800" />
+                        <p className="text-xs text-green-700/50 dark:text-green-400/50 italic leading-relaxed">{altPro}</p>
+                      </>
                     )}
                   </div>
                   <div className="rounded-lg bg-red-50 p-4 dark:bg-red-950/30">
@@ -443,7 +458,10 @@ export default function QuestionnairePage() {
                       {con || t("noArguments")}
                     </p>
                     {altCon && altCon !== con && (
-                      <p className="mt-1.5 text-xs text-red-700/60 dark:text-red-400/60 italic leading-relaxed">{altCon}</p>
+                      <>
+                        <hr className="my-1.5 border-red-200 dark:border-red-800" />
+                        <p className="text-xs text-red-700/50 dark:text-red-400/50 italic leading-relaxed">{altCon}</p>
+                      </>
                     )}
                   </div>
                 </div>
