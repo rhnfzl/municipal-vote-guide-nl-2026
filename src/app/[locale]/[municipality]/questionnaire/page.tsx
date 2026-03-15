@@ -148,6 +148,7 @@ export default function QuestionnairePage() {
   // Party positions for current statement
   const partyPositions = useMemo(() => {
     if (!data || !current) return { agree: [], disagree: [], neither: [] };
+    const altPartiesById = new Map(altData?.parties?.map((p) => [p.id, p]) ?? []);
     const agree: { name: string; explanation: string; altExplanation: string }[] = [];
     const disagree: { name: string; explanation: string; altExplanation: string }[] = [];
     const neither: { name: string; explanation: string; altExplanation: string }[] = [];
@@ -155,7 +156,7 @@ export default function QuestionnairePage() {
       if (!party.participates) continue;
       const pos = party.positions[current.id];
       if (!pos) continue;
-      const altParty = altData?.parties?.find((p) => p.id === party.id);
+      const altParty = altPartiesById.get(party.id);
       const altExpl = altParty?.positions[current.id]?.explanation || "";
       const entry = { name: party.name, explanation: pos.explanation || "", altExplanation: altExpl };
       if (pos.position === "agree") agree.push(entry);
@@ -329,17 +330,18 @@ export default function QuestionnairePage() {
               {/* Parties Tab */}
               {activeTab === "parties" && (
                 <div className="space-y-4">
-                  {/* Party explanations now fully translated - loaded from en.json in EN mode */}
-                  {partyPositions.agree.length > 0 && (
-                    <div>
-                      <h4 className="flex items-center gap-2 text-sm font-bold text-green-700 dark:text-green-400 mb-2">
-                        <MdThumbUp className="h-4 w-4" /> {t("partiesAgree")}
-                        <span className="text-xs font-normal text-gray-500">
-                          ({t("partiesAgreeDesc")})
-                        </span>
+                  {[
+                    { key: "agree", parties: partyPositions.agree, Icon: MdThumbUp, label: t("partiesAgree"), desc: t("partiesAgreeDesc"), headingColor: "text-green-700 dark:text-green-400" },
+                    { key: "neither", parties: partyPositions.neither, Icon: MdRemove, label: t("partiesNeither"), desc: t("partiesNeitherDesc"), headingColor: "text-gray-600 dark:text-gray-400" },
+                    { key: "disagree", parties: partyPositions.disagree, Icon: MdThumbDown, label: t("partiesDisagree"), desc: t("partiesDisagreeDesc"), headingColor: "text-red-700 dark:text-red-400" },
+                  ].map((group) => group.parties.length > 0 && (
+                    <div key={group.key}>
+                      <h4 className={`flex items-center gap-2 text-sm font-bold ${group.headingColor} mb-2`}>
+                        <group.Icon className="h-4 w-4" /> {group.label}
+                        <span className="text-xs font-normal text-gray-500">({group.desc})</span>
                       </h4>
                       <div className="space-y-1.5">
-                        {partyPositions.agree.map((p) => (
+                        {group.parties.map((p) => (
                           <details key={p.name} className="rounded-lg bg-white p-3 dark:bg-gray-900">
                             <summary className="cursor-pointer text-sm font-medium flex items-center gap-2">
                               <PartyAvatar name={p.name} size="sm" />
@@ -358,65 +360,7 @@ export default function QuestionnairePage() {
                         ))}
                       </div>
                     </div>
-                  )}
-
-                  {partyPositions.neither.length > 0 && (
-                    <div>
-                      <h4 className="flex items-center gap-2 text-sm font-bold text-gray-600 dark:text-gray-400 mb-2">
-                        <MdRemove className="h-4 w-4" /> {t("partiesNeither")}
-                        <span className="text-xs font-normal text-gray-500">({t("partiesNeitherDesc")})</span>
-                      </h4>
-                      <div className="space-y-1.5">
-                        {partyPositions.neither.map((p) => (
-                          <details key={p.name} className="rounded-lg bg-white p-3 dark:bg-gray-900">
-                            <summary className="cursor-pointer text-sm font-medium flex items-center gap-2">
-                              <PartyAvatar name={p.name} size="sm" />
-                              {p.name}
-                            </summary>
-                            {p.explanation && (
-                              <p className="mt-2 text-xs text-gray-600 dark:text-gray-300 leading-relaxed">{p.explanation}</p>
-                            )}
-                            {p.altExplanation && p.altExplanation !== p.explanation && (
-                              <>
-                                <hr className="my-1.5 border-gray-200 dark:border-gray-700" />
-                                <p className="text-xs text-gray-400 italic leading-relaxed">{p.altExplanation}</p>
-                              </>
-                            )}
-                          </details>
-                        ))}
-                      </div>
-                    </div>
-                  )}
-
-                  {partyPositions.disagree.length > 0 && (
-                    <div>
-                      <h4 className="flex items-center gap-2 text-sm font-bold text-red-700 dark:text-red-400 mb-2">
-                        <MdThumbDown className="h-4 w-4" /> {t("partiesDisagree")}
-                        <span className="text-xs font-normal text-gray-500">
-                          ({t("partiesDisagreeDesc")})
-                        </span>
-                      </h4>
-                      <div className="space-y-1.5">
-                        {partyPositions.disagree.map((p) => (
-                          <details key={p.name} className="rounded-lg bg-white p-3 dark:bg-gray-900">
-                            <summary className="cursor-pointer text-sm font-medium flex items-center gap-2">
-                              <PartyAvatar name={p.name} size="sm" />
-                              {p.name}
-                            </summary>
-                            {p.explanation && (
-                              <p className="mt-2 text-xs text-gray-600 dark:text-gray-300 leading-relaxed">{p.explanation}</p>
-                            )}
-                            {p.altExplanation && p.altExplanation !== p.explanation && (
-                              <>
-                                <hr className="my-1.5 border-gray-200 dark:border-gray-700" />
-                                <p className="text-xs text-gray-400 italic leading-relaxed">{p.altExplanation}</p>
-                              </>
-                            )}
-                          </details>
-                        ))}
-                      </div>
-                    </div>
-                  )}
+                  ))}
                 </div>
               )}
 

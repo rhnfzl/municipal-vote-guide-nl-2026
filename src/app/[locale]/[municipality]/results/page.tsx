@@ -17,6 +17,8 @@ import { ConsensusMeter } from "@/components/consensus-meter";
 import { encodeAnswers, decodeAnswers, compareAnswers } from "@/lib/share-answers";
 import type { MunicipalityData, UserAnswer, PartyMatch } from "@/lib/types";
 
+const actionButtonClass = "rounded-xl bg-gray-800 text-white hover:bg-gray-900 dark:bg-gray-200 dark:text-gray-900 dark:hover:bg-gray-300";
+
 export default function ResultsPage() {
   const t = useTranslations("results");
   const tf = useTranslations("flow");
@@ -362,19 +364,19 @@ export default function ResultsPage() {
       {/* Actions */}
       <div className="flex flex-wrap gap-3 justify-center pt-4">
         <Button
-          className="rounded-xl bg-gray-800 text-white hover:bg-gray-900 dark:bg-gray-200 dark:text-gray-900 dark:hover:bg-gray-300"
+          className={actionButtonClass}
           onClick={() => window.print()}
         >
           {locale === "en" ? "Print / Save PDF" : "Afdrukken / PDF opslaan"}
         </Button>
         <Button
-          className="rounded-xl bg-gray-800 text-white hover:bg-gray-900 dark:bg-gray-200 dark:text-gray-900 dark:hover:bg-gray-300"
+          className={actionButtonClass}
           onClick={() => router.push(`/${locale}/${slug}/compare`)}
         >
           {t("compareParties")}
         </Button>
         <Button
-          className="rounded-xl bg-gray-800 text-white hover:bg-gray-900 dark:bg-gray-200 dark:text-gray-900 dark:hover:bg-gray-300"
+          className={actionButtonClass}
           onClick={() => {
             localStorage.removeItem(`vg-${slug}-answers`);
             localStorage.removeItem(`vg-${slug}-index`);
