@@ -148,20 +148,22 @@ export default function QuestionnairePage() {
   // Party positions for current statement
   const partyPositions = useMemo(() => {
     if (!data || !current) return { agree: [], disagree: [], neither: [] };
-    const agree: { name: string; explanation: string }[] = [];
-    const disagree: { name: string; explanation: string }[] = [];
-    const neither: { name: string; explanation: string }[] = [];
+    const agree: { name: string; explanation: string; altExplanation: string }[] = [];
+    const disagree: { name: string; explanation: string; altExplanation: string }[] = [];
+    const neither: { name: string; explanation: string; altExplanation: string }[] = [];
     for (const party of data.parties) {
       if (!party.participates) continue;
       const pos = party.positions[current.id];
       if (!pos) continue;
-      const entry = { name: party.name, explanation: pos.explanation || "" };
+      const altParty = altData?.parties?.find((p) => p.id === party.id);
+      const altExpl = altParty?.positions[current.id]?.explanation || "";
+      const entry = { name: party.name, explanation: pos.explanation || "", altExplanation: altExpl };
       if (pos.position === "agree") agree.push(entry);
       else if (pos.position === "disagree") disagree.push(entry);
       else neither.push(entry);
     }
     return { agree, disagree, neither };
-  }, [data, current]);
+  }, [data, altData, current]);
 
   const answer = useCallback(
     (value: UserAnswer) => {
@@ -214,6 +216,9 @@ export default function QuestionnairePage() {
   const altStmt = altData?.statements?.find((s) => s.id === current.id);
   const altTitle = altStmt?.title || (locale === "en" ? current.title : current.titleEn) || "";
   const altTheme = altStmt?.theme || (locale === "en" ? current.theme : current.themeEn) || "";
+  const altMoreInfo = altStmt?.moreInfo || "";
+  const altPro = altStmt?.pro || "";
+  const altCon = altStmt?.con || "";
 
   const tabs = [
     { id: "parties" as const, label: t("tabParties"), Icon: MdChat },
@@ -343,6 +348,9 @@ export default function QuestionnairePage() {
                             {p.explanation && (
                               <p className="mt-2 text-xs text-gray-500 leading-relaxed">{p.explanation}</p>
                             )}
+                            {p.altExplanation && p.altExplanation !== p.explanation && (
+                              <p className="mt-1 text-xs text-gray-400 italic leading-relaxed">{p.altExplanation}</p>
+                            )}
                           </details>
                         ))}
                       </div>
@@ -364,6 +372,9 @@ export default function QuestionnairePage() {
                             </summary>
                             {p.explanation && (
                               <p className="mt-2 text-xs text-gray-500 leading-relaxed">{p.explanation}</p>
+                            )}
+                            {p.altExplanation && p.altExplanation !== p.explanation && (
+                              <p className="mt-1 text-xs text-gray-400 italic leading-relaxed">{p.altExplanation}</p>
                             )}
                           </details>
                         ))}
@@ -389,6 +400,9 @@ export default function QuestionnairePage() {
                             {p.explanation && (
                               <p className="mt-2 text-xs text-gray-500 leading-relaxed">{p.explanation}</p>
                             )}
+                            {p.altExplanation && p.altExplanation !== p.explanation && (
+                              <p className="mt-1 text-xs text-gray-400 italic leading-relaxed">{p.altExplanation}</p>
+                            )}
                           </details>
                         ))}
                       </div>
@@ -401,6 +415,9 @@ export default function QuestionnairePage() {
               {activeTab === "moreInfo" && (
                 <div className="text-sm text-gray-600 dark:text-gray-400 leading-relaxed">
                   {moreInfo || t("noInfoAvailable")}
+                  {altMoreInfo && altMoreInfo !== moreInfo && (
+                    <p className="mt-2 text-xs text-gray-400 italic leading-relaxed">{altMoreInfo}</p>
+                  )}
                 </div>
               )}
 
@@ -414,6 +431,9 @@ export default function QuestionnairePage() {
                     <p className="text-sm text-green-800 dark:text-green-300 leading-relaxed">
                       {pro || t("noArguments")}
                     </p>
+                    {altPro && altPro !== pro && (
+                      <p className="mt-1.5 text-xs text-green-700/60 dark:text-green-400/60 italic leading-relaxed">{altPro}</p>
+                    )}
                   </div>
                   <div className="rounded-lg bg-red-50 p-4 dark:bg-red-950/30">
                     <h4 className="mb-2 flex items-center gap-1.5 text-sm font-bold text-red-700 dark:text-red-400">
@@ -422,6 +442,9 @@ export default function QuestionnairePage() {
                     <p className="text-sm text-red-800 dark:text-red-300 leading-relaxed">
                       {con || t("noArguments")}
                     </p>
+                    {altCon && altCon !== con && (
+                      <p className="mt-1.5 text-xs text-red-700/60 dark:text-red-400/60 italic leading-relaxed">{altCon}</p>
+                    )}
                   </div>
                 </div>
               )}
