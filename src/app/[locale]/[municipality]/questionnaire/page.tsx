@@ -214,8 +214,7 @@ export default function QuestionnairePage() {
   const con = locale === "en" && current.conEn ? current.conEn : current.con;
 
   // Alternate language text (for bilingual display)
-  const altStatementsById = useMemo(() => new Map(altData?.statements?.map((s) => [s.id, s]) ?? []), [altData]);
-  const altStmt = altStatementsById.get(current.id);
+  const altStmt = altData?.statements?.find((s) => s.id === current.id);
   const altTitle = altStmt?.title || (locale === "en" ? current.title : current.titleEn) || "";
   const altTheme = altStmt?.theme || (locale === "en" ? current.theme : current.themeEn) || "";
   const altMoreInfo = altStmt?.moreInfo || "";
