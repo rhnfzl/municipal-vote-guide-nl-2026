@@ -10,7 +10,7 @@ const nextConfig: NextConfig = {
     // (ensures questionnaire always starts fresh when revisiting)
     staleTimes: {
       dynamic: 0,
-      static: 0,
+      static: 30,
     },
   },
 };
